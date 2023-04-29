@@ -30,11 +30,11 @@ const abilities = [
 		value: data.abilities.str
 	},
 	{
-		name: 'ЛВК',
+		name: 'ЛОВ',
 		value: data.abilities.dex
 	},
 	{
-		name: 'ВЫН',
+		name: 'ТЕЛ',
 		value: data.abilities.con
 	},
 	{
@@ -42,7 +42,7 @@ const abilities = [
 		value: data.abilities.int
 	},
 	{
-		name: 'МДР',
+		name: 'МУД',
 		value: data.abilities.wis
 	},
 	{
@@ -121,12 +121,12 @@ const size = DND_SIZES[data.size];
 
 	<div class="text-sm sm:text-base">
 		<div>
-			<span class="text-sm font-medium uppercase text-white">Класс брони:</span>
+			<span class="text-sm font-medium uppercase text-white">Класс зашиты:</span>
 			<span>{data.ac.value} ({data.ac.type})</span>
 		</div>
 		<div>
-			<span class="font-semmediumibold text-sm uppercase text-white">ПЗ:</span>
-			<span>{data.hp.value} ({data.hp.formula})</span>
+			<span class="font-semmediumibold text-sm uppercase text-white">Хиты:</span>
+			<span>{data.hp.value} [{data.hp.max}] ({data.hp.formula})</span>
 		</div>
 		<div>
 			<span class="text-sm font-medium uppercase text-white">Скорость:</span>
@@ -185,7 +185,7 @@ const size = DND_SIZES[data.size];
 			)
 		}
 		<div>
-			<span class="text-sm font-medium uppercase text-white">Восприятие:</span>
+			<span class="text-sm font-medium uppercase text-white">Чувства:</span>
 			<span>пассивное {data.senses.perception}</span>
 		</div>
 		<div>
@@ -196,7 +196,7 @@ const size = DND_SIZES[data.size];
 			<span class="text-sm font-medium uppercase text-white">Опасность:</span>
 			<span>{data.cr}</span>
 
-			<span class="font-semimediumbold ml-4 text-sm uppercase text-white">Бонус умения:</span>
+			<span class="font-semimediumbold ml-4 text-sm uppercase text-white">Бонус владения:</span>
 			<span>+{proficiency(data.cr)}</span>
 		</div>
 	</div>

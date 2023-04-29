@@ -54,6 +54,7 @@ const creatures = defineCollection({
 		}),
 		hp: z.object({
 			value: z.number(),
+			max: z.number(),
 			formula: z.string()
 		}),
 		speed: z.object({
