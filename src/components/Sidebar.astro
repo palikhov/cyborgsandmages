@@ -1,0 +1,64 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+//import FormattedDate from '~components/FormattedDate.astro';
+
+export interface Props {
+	headings?: { depth: number; slug: string; text: string }[];
+}
+
+const { headings } = Astro.props;
+
+const posts = (await getCollection('posts'))
+	.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+	.slice(0, 6);
+---
+
+<aside class="px-2 sm:px-0 xl:max-w-xs">
+	{
+		headings && headings.length > 0 && (
+			<div class="my-6 hidden xl:block">
+				<h2 class="mb-4 text-center font-bold uppercase text-white">На этой странице</h2>
+				{headings
+					.filter((heading) => heading.depth === 2)
+					.map((heading) => (
+						<li>
+							<a href={`#${heading.slug}`}>{heading.text}</a>
+						</li>
+					))}
+			</div>
+		)
+	}
+
+	<div>
+		<h2 class="mb-4 text-center font-bold uppercase text-white">Новые статьи</h2>
+
+		<div class="not-prose grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-4 xl:grid-cols-1">
+			{
+				posts.map((post) => (
+					<a
+						href={`/posts/${post.slug}`}
+						class="group mb-1 flex flex-col gap-1 rounded-md bg-brand-mist p-2 ring-2 ring-transparent hover:ring-brand-gold"
+					>
+						{post.data.cover && (
+							<Image
+								height={300}
+								format={'webp'}
+								quality={'mid'}
+								src={post.data.cover}
+								alt={post.data.title}
+								class="aspect-video h-48 w-full rounded-md object-cover object-center md:h-32"
+							/>
+						)}
+
+						<div>
+							<h3 class="font-serif text-lg font-semibold text-brand-gold">{post.data.title}</h3>
+
+							<p class="line-clamp-4 font-serif text-base">{post.data.description}</p>
+						</div>
+					</a>
+				))
+			}
+		</div>
+	</div>
+</aside>

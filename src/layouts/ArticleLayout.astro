@@ -1,0 +1,44 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import FormattedDate from '~components/FormattedDate.astro';
+import BaseLayout from '~layouts/BaseLayout.astro';
+
+type Props = CollectionEntry<'posts'>['data'];
+
+const { title, description, date, cover, author, translator, headings } = Astro.props;
+---
+
+<BaseLayout {title} {description} {headings}>
+	<article class="prose my-8 w-full max-w-4xl px-2 font-serif sm:prose-lg lg:prose-xl sm:px-0">
+		{
+			cover && (
+				<Image
+					width={1024}
+					format={'webp'}
+					src={cover}
+					alt={title}
+					class="aspect-video h-auto w-full rounded-md object-cover object-center"
+				/>
+			)
+		}
+		<h1>{title}</h1>
+		<div class="mb-8 mt-4 flex flex-col font-sans">
+			<div><span class="font-semibold">Автор: {author}</span></div>
+			{
+				translator && (
+					<div>
+						<span>Перевод: {translator}</span>
+					</div>
+				)
+			}
+			<div><FormattedDate date={date} /></div>
+		</div>
+
+		<div>
+			<p class="lead pb-4">{description}</p>
+
+			<slot />
+		</div>
+	</article>
+</BaseLayout>

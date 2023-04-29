@@ -1,0 +1,12 @@
+---
+import { getEntryBySlug } from 'astro:content';
+import SingleLayout from '~layouts/SingleLayout.astro';
+import Aside from '~components/Aside.astro';
+
+const entry = await getEntryBySlug('singles', 'home');
+const { Content } = await entry.render();
+---
+
+<SingleLayout title={entry.data.title} description={entry.data.description}>
+	<Content components={{ Aside: Aside }} />
+</SingleLayout>

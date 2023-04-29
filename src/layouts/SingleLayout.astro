@@ -1,0 +1,14 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from '~layouts/BaseLayout.astro';
+
+type Props = CollectionEntry<'singles'>['data'];
+
+const props = Astro.props;
+---
+
+<BaseLayout {...props}>
+	<article class="prose mx-auto w-full px-2 font-serif md:prose-lg sm:px-0">
+		<slot />
+	</article>
+</BaseLayout>

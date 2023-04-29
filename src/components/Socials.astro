@@ -1,0 +1,58 @@
+---
+import TablerBrandDiscord from '~icons/tabler/brand-discord?raw';
+import TablerBrandPatreon from '~icons/tabler/brand-patreon?raw';
+import TablerBrandTelegram from '~icons/tabler/brand-telegram?raw';
+import TablerBrandYoutube from '~icons/tabler/brand-youtube?raw';
+import TablerSkull from '~icons/tabler/skull?raw';
+
+export const SOCIALS = [
+	{
+		label: 'DMsGuild',
+		href: 'https://www.dmsguild.com/browse.php?author=Anton%20Palikhov',
+		color: 'text-brand-gold',
+		icon: TablerSkull
+	},
+	{
+		label: 'Patreon',
+		href: 'https://www.patreon.com/palikhov',
+		color: 'text-[#f96854]',
+		icon: TablerBrandPatreon
+	},
+	{
+		label: 'Discord',
+		href: 'https://discord.gg/yrJqvCqU3w',
+		color: 'text-[#5865f2]',
+		icon: TablerBrandDiscord
+	},
+	{
+		label: 'Telegram',
+		href: 'https://t.me/cyborgs_and_mages',
+		color: 'text-[#0088cc]',
+		icon: TablerBrandTelegram
+	},
+	{
+		label: 'Youtube',
+		href: 'https://www.youtube.com/channel/UC3TT91uEL3eb_S5ekF3U0bg',
+		color: 'text-[#ff0000]',
+		icon: TablerBrandYoutube
+	}
+];
+---
+
+<div class="flex space-x-6 md:space-x-4">
+	{
+		SOCIALS.map((item) => (
+			<>
+				<a
+					href={item.href}
+					target="_blank"
+					rel="nofollow noreferrer"
+					class="flex items-center gap-1 hover:underline"
+				>
+					<div set:html={item.icon} class={item.color} />
+					<span class="hidden md:block">{item.label}</span>
+				</a>
+			</>
+		))
+	}
+</div>

@@ -1,0 +1,210 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getEntryBySlug } from 'astro:content';
+
+import { DND_ALIGNMENTS, DND_SIZES, DND_TYPES } from 'src/consts';
+
+export type Props = {
+	id: string;
+};
+
+const { id } = Astro.props;
+
+const creature = await getEntryBySlug('creatures', id);
+
+if (creature === undefined) {
+	throw new Error('Существо не найдено');
+}
+
+const { Content } = await creature.render();
+
+const data: CollectionEntry<'creatures'>['data'] = creature.data;
+
+/* Трансформация данных 5E  */
+
+/* Характеристики */
+
+const abilities = [
+	{
+		name: 'СИЛ',
+		value: data.abilities.str
+	},
+	{
+		name: 'ЛВК',
+		value: data.abilities.dex
+	},
+	{
+		name: 'ВЫН',
+		value: data.abilities.con
+	},
+	{
+		name: 'ИНТ',
+		value: data.abilities.int
+	},
+	{
+		name: 'МДР',
+		value: data.abilities.wis
+	},
+	{
+		name: 'ХАР',
+		value: data.abilities.cha
+	}
+];
+
+const modifier = (ability: number) => Math.floor((ability - 10) / 2);
+
+/* Скорость */
+
+let formattedSpeed = `${data.speed.walk} футов`;
+
+if (data.speed.swim) {
+	formattedSpeed += `, плавание ${data.speed.swim} футов`;
+}
+
+if (data.speed.fly) {
+	formattedSpeed += `, полёт ${data.speed.fly} футов`;
+}
+
+if (data.speed.burrow) {
+	formattedSpeed += `, копание ${data.speed.burrow} футов`;
+}
+
+if (data.speed.crawl) {
+	formattedSpeed += `, ползание ${data.speed.crawl} футов`;
+}
+
+/* Умение */
+
+const proficiency = (crs: any) => {
+	let pb = 2;
+	let cr = 0;
+
+	if (typeof crs === 'number') {
+		cr = crs;
+	}
+
+	if (cr > 4) {
+		pb = Math.ceil(cr / 4) + 1;
+	}
+
+	return pb;
+};
+
+/* Мировоззрение */
+
+const alignment = DND_ALIGNMENTS[data.alignment];
+
+/* Размер */
+
+const size = DND_SIZES[data.size];
+
+/* Тип */
+
+/* const type = DND_TYPES[data.type]; */
+---
+
+<section class="my-4 space-y-4 rounded-md bg-brand-mist p-2 font-sans sm:p-4">
+	<div class="my-2 flex">
+		<h2 class="!my-0 flex-1 font-serif text-2xl font-bold text-white">{data.name}</h2>
+
+		<span class="font-semibold">{data.source}</span>
+	</div>
+
+	<div class="text-xs uppercase text-brand-gold sm:text-sm">
+		<span>{size}</span>
+		<span>/</span>
+		<span>{data.type}</span>
+		{data.subtype && <span>({data.subtype})</span>}
+		<span>/</span>
+		<span>{alignment}</span>
+	</div>
+
+	<div class="text-sm sm:text-base">
+		<div>
+			<span class="text-sm font-medium uppercase text-white">Класс брони:</span>
+			<span>{data.ac.value} ({data.ac.type})</span>
+		</div>
+		<div>
+			<span class="font-semmediumibold text-sm uppercase text-white">ПЗ:</span>
+			<span>{data.hp.value} ({data.hp.formula})</span>
+		</div>
+		<div>
+			<span class="text-sm font-medium uppercase text-white">Скорость:</span>
+			<span>{formattedSpeed}</span>
+		</div>
+	</div>
+
+	<div
+		class="grid grid-cols-6 rounded border-b-4 border-t-4 border-brand-gold bg-brand-night py-2 text-sm sm:text-base"
+	>
+		{
+			abilities.map((ability) => (
+				<div class="flex flex-col text-center">
+					<span class="font-serif text-sm font-semibold uppercase text-white">{ability.name}</span>
+					<span>
+						{ability.value} ({modifier(ability.value)})
+					</span>
+				</div>
+			))
+		}
+	</div>
+
+	<div class="text-sm sm:text-base">
+		{
+			data.dv && (
+				<div>
+					<span class="text-sm font-medium uppercase text-white">Уязвимость к урону:</span>
+					<span>{data.dv}</span>
+				</div>
+			)
+		}
+		{
+			data.dr && (
+				<div>
+					<span class="text-sm font-medium uppercase text-white">Устойчивость к урону:</span>
+					<span>{data.dr}</span>
+				</div>
+			)
+		}
+		{
+			data.di && (
+				<div>
+					<span class="text-sm font-medium uppercase text-white">Невосприимчивость к урону:</span>
+					<span>{data.di}</span>
+				</div>
+			)
+		}
+		{
+			data.dc && (
+				<div>
+					<span class="text-sm font-medium uppercase text-white">
+						Невосприимчивость к состояниям:
+					</span>
+					<span>{data.dc}</span>
+				</div>
+			)
+		}
+		<div>
+			<span class="text-sm font-medium uppercase text-white">Восприятие:</span>
+			<span>пассивное {data.senses.perception}</span>
+		</div>
+		<div>
+			<span class="text-sm font-medium uppercase text-white">Языки:</span>
+			<span>{data.languages}</span>
+		</div>
+		<div>
+			<span class="text-sm font-medium uppercase text-white">Опасность:</span>
+			<span>{data.cr}</span>
+
+			<span class="font-semimediumbold ml-4 text-sm uppercase text-white">Бонус умения:</span>
+			<span>+{proficiency(data.cr)}</span>
+		</div>
+	</div>
+
+	<details class="mb-4">
+		<summary class="rounded bg-brand-night p-1 pl-4">Описание</summary>
+		<div class="font-serif text-base">
+			<Content />
+		</div>
+	</details>
+</section>

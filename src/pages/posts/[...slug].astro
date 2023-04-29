@@ -1,0 +1,25 @@
+---
+import { CollectionEntry, getCollection } from 'astro:content';
+import ArticleLayout from '~layouts/ArticleLayout.astro';
+import Aside from '~components/Aside.astro';
+import Verse from '~components/Verse.astro';
+import Creature from '~components/5e/Creature.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('posts');
+	return posts.map((post) => ({
+		params: { slug: post.slug },
+		props: post
+	}));
+}
+
+type Props = CollectionEntry<'posts'>;
+
+const post = Astro.props;
+
+const { Content, headings } = await post.render();
+---
+
+<ArticleLayout {...post.data} {headings}>
+	<Content components={{ Aside: Aside, Verse: Verse, Creature: Creature }} />
+</ArticleLayout>

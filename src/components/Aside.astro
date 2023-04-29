@@ -1,0 +1,27 @@
+---
+export type Props = {
+	v?: 'ivory' | 'gold' | 'crimson' | 'wave';
+};
+
+const { v } = Astro.props;
+
+let className: string;
+
+switch (v) {
+	case 'crimson':
+		className = 'border-brand-crimson';
+		break;
+	case 'gold':
+		className = 'border-brand-gold';
+		break;
+	case 'wave':
+		className = 'border-brand-wave';
+		break;
+	default:
+		className = 'border-brand-ivory';
+}
+---
+
+<aside class:list={['my-4 p-2 border-l-8 rounded bg-brand-mist text-white', className]}>
+	<slot />
+</aside>

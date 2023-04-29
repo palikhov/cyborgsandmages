@@ -1,0 +1,65 @@
+---
+import { CollectionEntry, getCollection } from 'astro:content';
+import BaseLayout from '~layouts/BaseLayout.astro';
+import PostCard from '~components/PostCard.astro';
+import { SITE_POST_CATEGORIES } from 'src/consts';
+
+import TablerArrowBadgeLeft from '~icons/tabler/arrow-badge-left';
+import TablerArrowBadgeLeftFilled from '~icons/tabler/arrow-badge-left-filled';
+import TablerArrowBadgeRight from '~icons/tabler/arrow-badge-right';
+import TablerArrowBadgeRightFilled from '~icons/tabler/arrow-badge-right-filled';
+
+export async function getStaticPaths({ paginate }) {
+	const allPosts = await getCollection('posts');
+
+	const allCategories = SITE_POST_CATEGORIES.map((category) => category.path);
+
+	return allCategories.map((category) => {
+		const meta = SITE_POST_CATEGORIES.find((c) => c.path === category);
+
+		const filteredPosts = allPosts.filter((post) => post.id.startsWith(`${category}/`));
+
+		return paginate(filteredPosts, {
+			props: { meta },
+			params: { category },
+			pageSize: 10
+		});
+	});
+}
+const { page, meta } = Astro.props;
+---
+
+<BaseLayout title={meta.title} description={meta.description} sidebar={false}>
+	<div class="mx-auto my-8 w-full max-w-4xl px-2">
+		<div class="prose mx-auto text-center font-serif md:prose-lg sm:px-0">
+			<h1>{meta.title}</h1>
+			<p>{meta.description}</p>
+		</div>
+
+		<div class="mt-12 flex flex-col">
+			{page.data.map((post: CollectionEntry<'posts'>) => <PostCard post={post} />)}
+		</div>
+
+		<div class="my-4 flex justify-center space-x-4">
+			<span
+				>{
+					page.url.prev ? (
+						<a href={page.url.prev}>
+							<TablerArrowBadgeLeftFilled />
+						</a>
+					) : null
+				}</span
+			>
+			<span>Страница {page.currentPage} из {page.lastPage}</span>
+			<span
+				>{
+					page.url.next ? (
+						<a href={page.url.next}>
+							<TablerArrowBadgeRightFilled />
+						</a>
+					) : null
+				}</span
+			>
+		</div>
+	</div>
+</BaseLayout>

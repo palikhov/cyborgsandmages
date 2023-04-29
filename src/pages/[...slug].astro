@@ -1,0 +1,21 @@
+---
+import { CollectionEntry, getCollection } from 'astro:content';
+import SingleLayout from '~layouts/SingleLayout.astro';
+import Aside from '~components/Aside.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('singles');
+	return posts.map((post) => ({
+		params: { slug: post.slug },
+		props: post
+	}));
+}
+type Props = CollectionEntry<'singles'>;
+
+const post = Astro.props;
+const { Content } = await post.render();
+---
+
+<SingleLayout {...post.data}>
+	<Content components={{ Aside: Aside }} />
+</SingleLayout>

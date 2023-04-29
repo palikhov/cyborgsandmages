@@ -1,0 +1,64 @@
+{
+	// Visuals
+	"workbench.colorTheme": "Monokai Pro",
+	"editor.fontSize": 16,
+	"editor.lineHeight": 1.5,
+
+	//Editor
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": false
+	},
+	"editor.tabSize": 2,
+	"editor.guides.bracketPairs": "active",
+	"editor.inlineSuggest.enabled": true,
+	"editor.accessibilitySupport": "off",
+
+	"search.exclude": {
+		"**/.astro": true,
+		"**/.git": true,
+		"**/.github": true,
+		"**/.nuxt": true,
+		"**/.output": true,
+		"**/.pnpm": true,
+		"**/.svelte-kit": true,
+		"**/.vscode": true,
+		"**/.yarn": true,
+		"**/bower_components": true,
+		"**/dist/**": true,
+		"**/logs": true,
+		"**/node_modules": true,
+		"**/out/**": true,
+		"**/package-lock.json": true,
+		"**/pnpm-lock.yaml": true,
+		"**/tmp": true,
+		"**/yarn.lock": true
+	},
+
+	//Extensions
+	"mdx.experimentalLanguageServer": false,
+
+	"cSpell.enabledLanguageIds": ["markdown", "mdx"],
+	"cSpell.language": "en,ru",
+
+	//Files
+	"[astro]": {
+		"editor.defaultFormatter": "astro-build.astro-vscode"
+	},
+	"[markdown]": {
+		"editor.fontSize": 18,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[mdx]": {
+		"editor.fontSize": 18,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}

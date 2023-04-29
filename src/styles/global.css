@@ -1,0 +1,53 @@
+.prose aside h2,
+.prose aside h3 {
+	@apply my-2;
+}
+
+.prose h1 {
+	@apply font-serif;
+}
+
+.prose h2 {
+	@apply font-serif;
+}
+
+.prose h3 {
+	@apply text-brand-gold;
+}
+
+.prose h4 {
+	@apply font-sans font-normal uppercase text-brand-gold;
+}
+
+.prose li {
+	@apply my-0.5;
+}
+
+.astro-code {
+	@apply !bg-black;
+}
+
+input[type='checkbox'] {
+	@apply my-0;
+}
+
+li:has(input[type='checkbox']) {
+	@apply list-none pl-0;
+}
+
+.prose code::before,
+.prose code::after {
+	content: none;
+}
+
+.prose code:not(.astro-code code) {
+	@apply bg-brand-ivory text-brand-night;
+}
+
+.prose aside p:first-child {
+	@apply mt-0;
+}
+
+.prose aside p:last-child {
+	@apply mb-0;
+}
