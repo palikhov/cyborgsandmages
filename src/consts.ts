@@ -43,6 +43,12 @@ export const SITE_POST_CATEGORIES = [
 		title: 'Ресурсы',
 		description:
 			'Che fuor maesta delle nondimeno divina, e lui la niuna purita. In da apparire potendo discerniamo. Avvien udita fragilita le.'
+	},
+	{
+		path: 'publications',
+		title: 'Публикации',
+		description:
+			'Che fuor maesta delle nondimeno divina, e lui la niuna purita. In da apparire potendo discerniamo. Avvien udita fragilita le.'
 	}
 ];
 
