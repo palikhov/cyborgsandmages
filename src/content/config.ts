@@ -50,7 +50,7 @@ const creatures = defineCollection({
 		alignment: z.enum(['lg', 'ng', 'cg', 'ln', 'tn', 'cn', 'le', 'ne', 'ce', 'u']),
 		ac: z.object({
 			value: z.number(),
-			type: z.string().default('естественная броня')
+			type: z.string().default('естественный доспех')
 		}),
 		hp: z.object({
 			value: z.number(),
