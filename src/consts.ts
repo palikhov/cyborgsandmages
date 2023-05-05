@@ -1,6 +1,6 @@
 export const SITE_TITLE = 'Киборги и Чародеи';
 
-export const SITE_DESCRIPTION = 'D&D и Настольные Ролевые Игры – Статьи, Ресурсы, Материалы, Советы, Переводы';
+export const SITE_DESCRIPTION = 'D&D и Настольные Ролевые Игры – Статьи, Ресурсы, Материалы';
 
 export const SITE_NAVIGATION = [
 	{
@@ -30,7 +30,7 @@ export const SITE_POST_CATEGORIES = [
 		path: 'articles',
 		title: 'Статьи',
 		description:
-			'Статьи про настольные ролевые игры - анализ механик, анализ лора, советы и прочее'
+			'E ci furono divina ci dellocchio seguendo esperienza etterno parte nostra, potendo dalla delle riguardando di etterno fallo.'
 	},
 	{
 		path: 'translations',
@@ -74,7 +74,7 @@ export const DND_TYPES = {
 	dragon: 'дракон',
 	elemental: 'элементаль',
 	fey: 'фея',
-	fiend: 'исчадие',
+	fiend: 'бестия',
 	giant: 'великан',
 	humanoid: 'гуманоид',
 	monstrosity: 'монстр',
