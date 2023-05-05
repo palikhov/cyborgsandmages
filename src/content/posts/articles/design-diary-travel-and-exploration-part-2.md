@@ -10,9 +10,6 @@ tags:
   - "wilderness"
 ---
 
-#cored20rpg #e5e #travel #exploration #turn #wilderness #survival #dungeon #hexcrawl #journey
-
- 
 
 В прошлый раз мы говорили о том, что хотим сделать в этом разделе правил и из чего он должен состоять. Но плотно работая над вопросом исследований и путешествий, решил поменять парадигму.
 
