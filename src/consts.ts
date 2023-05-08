@@ -1,6 +1,7 @@
 export const SITE_TITLE = 'Киборги и Чародеи';
 
-export const SITE_DESCRIPTION = 'D&D и Настольные Ролевые Игры – Статьи, Ресурсы, Материалы, Советы, Переводы';
+export const SITE_DESCRIPTION =
+	'D&D и Настольные Ролевые Игры – Статьи, Ресурсы, Материалы, Советы, Переводы';
 
 export const SITE_NAVIGATION = [
 	{
@@ -29,8 +30,7 @@ export const SITE_POST_CATEGORIES = [
 	{
 		path: 'articles',
 		title: 'Статьи',
-		description:
-			'Статьи про настольные ролевые игры - анализ механик, анализ лора, советы и прочее'
+		description: 'Статьи про настольные ролевые игры - анализ механик, анализ лора, советы и прочее'
 	},
 	{
 		path: 'translations',

@@ -1,13 +1,13 @@
 ---
-title: "[Core d20 RPG] Мысли вслух. Дневник разработки. Снаряжение, часть 1"
+title: '[Core d20 RPG] Мысли вслух. Дневник разработки. Снаряжение, часть 1'
 description: Снаряжение
-date: "2023-02-22"
-tags: 
-  - "5e"
-  - "core-d20-rpg"
-  - "e5e"
-  - "homebrew"
-  - "снаряжение"
+date: '2023-02-22'
+tags:
+  - '5e'
+  - 'core-d20-rpg'
+  - 'e5e'
+  - 'homebrew'
+  - 'снаряжение'
 ---
 
 Это очередная статья посвященная нашему набору домашних правил. Весь цикл доступен по ссылке - [Киборги и Чародеи - Core d20 RPG (cyborgsandmages.com)](https://cyborgsandmages.com/category/articles/our-materials/cored20rpg/)

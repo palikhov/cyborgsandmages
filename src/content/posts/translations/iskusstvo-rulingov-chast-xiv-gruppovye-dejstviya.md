@@ -1,13 +1,13 @@
 ---
-title: "Искусство рулингов. Часть XIV: Групповые действия"
+title: 'Искусство рулингов. Часть XIV: Групповые действия'
 description: Перевод статьи Джастина Александера Искусство рулингов. Групповые действия
 author: Justin Alexander
 translator: Станислав Иванов
-date: "2022-07-18"
-tags: 
-  - "alexandrian"
-  - "justin-alexander"
-  - "translate"
+date: '2022-07-18'
+tags:
+  - 'alexandrian'
+  - 'justin-alexander'
+  - 'translate'
 ---
 
 Перевод: Станислав Иванов
