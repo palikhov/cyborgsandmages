@@ -46,7 +46,7 @@
 	},
 	"[markdown]": {
 		"editor.fontSize": 18,
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
+		"editor.defaultFormatter": "yzhang.markdown-all-in-one"
 	},
 	"[mdx]": {
 		"editor.fontSize": 18,
