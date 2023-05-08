@@ -1,8 +1,14 @@
 ---
+import Socials from '~components/Socials.astro';
+
 const today = new Date();
 ---
 
-<footer class="mb-6 mt-10 text-center sm:mt-16">
+<footer class="mx-auto mb-6 mt-10 justify-center space-y-6 pb-6 text-center sm:mt-16">
+	<div>
+		<Socials />
+	</div>
+
 	<div>
 		<span class="text-sm font-medium uppercase text-brand-gold"
 			>&copy; 2016-{today.getFullYear()} Киборги и Чародеи</span
@@ -13,7 +19,7 @@ const today = new Date();
 		<a
 			href="https://stand-with-ukraine.pp.ua/"
 			target="_blank"
-			class="my-6 inline-flex justify-center space-x-2"
+			class="inline-flex justify-center space-x-2"
 		>
 			<span class="h-6 w-8 bg-[linear-gradient(180deg,_#005BBB_50%,_#FFD500_50%)]"></span>
 			<span class="font-medium text-brand-ivory underline">Help Ukraine</span>

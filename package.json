@@ -19,7 +19,7 @@
 		"@iconify-json/game-icons": "^1.1.2",
 		"@iconify-json/tabler": "^1.1.74",
 		"@tailwindcss/typography": "^0.5.9",
-		"astro": "^2.4.2",
+		"astro": "^2.4.3",
 		"tailwindcss": "^3.3.2",
 		"unplugin-icons": "^0.16.1"
 	},
