@@ -7,7 +7,7 @@ import Footer from '~components/Footer.astro';
 import Header from '~components/Header.astro';
 import Sidebar from '~components/Sidebar.astro';
 
-const { title, description, headings, sidebar = true } = Astro.props;
+const { title, description, headings, sidebar = true, links } = Astro.props;
 ---
 
 <html lang="ru" class="h-full min-h-full bg-brand-night text-brand-ivory">
@@ -21,7 +21,7 @@ const { title, description, headings, sidebar = true } = Astro.props;
 			<div class="flex-1">
 				<slot />
 			</div>
-			{sidebar && <Sidebar {headings} />}
+			{sidebar && <Sidebar {headings} {links} />}
 		</main>
 		<Footer />
 	</body>

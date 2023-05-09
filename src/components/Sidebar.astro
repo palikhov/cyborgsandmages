@@ -5,9 +5,10 @@ import { getCollection } from 'astro:content';
 
 export interface Props {
 	headings?: { depth: number; slug: string; text: string }[];
+	links?: { label: string; href: string }[];
 }
 
-const { headings } = Astro.props;
+const { headings, links } = Astro.props;
 
 const posts = (await getCollection('posts'))
 	.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
@@ -27,6 +28,21 @@ const posts = (await getCollection('posts'))
 								<a href={`#${heading.slug}`}>{heading.text}</a>
 							</li>
 						))}
+				</ul>
+			</div>
+		)
+	}
+
+	{
+		links && (
+			<div class="my-6 hidden xl:block">
+				<h2 class="mb-4 text-center font-bold uppercase text-white">Полезные ссылки</h2>
+				<ul class="list-disc text-sm">
+					{links.map((link) => (
+						<li class="py-1">
+							<a href={link.href}>{link.label}</a>
+						</li>
+					))}
 				</ul>
 			</div>
 		)

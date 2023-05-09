@@ -6,10 +6,10 @@ import BaseLayout from '~layouts/BaseLayout.astro';
 
 type Props = CollectionEntry<'posts'>['data'];
 
-const { title, description, date, cover, author, translator, headings } = Astro.props;
+const { title, description, date, cover, author, translator, headings, links } = Astro.props;
 ---
 
-<BaseLayout {title} {description} {headings}>
+<BaseLayout {title} {description} {headings} {links}>
 	<article class="prose my-8 w-full max-w-4xl px-2 font-serif sm:prose-lg lg:prose-xl sm:px-0">
 		{
 			cover && (

@@ -6,7 +6,15 @@ const singles = defineCollection({
 		title: z.string(),
 		description: z.string().refine((val) => val.length <= 400, {
 			message: 'Описание не может быть длиннее 400 символов.'
-		})
+		}),
+		links: z
+			.array(
+				z.object({
+					label: z.string(),
+					href: z.string()
+				})
+			)
+			.optional()
 	})
 });
 
@@ -31,6 +39,14 @@ const posts = defineCollection({
 						depth: z.number(),
 						slug: z.string(),
 						text: z.string()
+					})
+				)
+				.optional(),
+			links: z
+				.array(
+					z.object({
+						label: z.string(),
+						href: z.string()
 					})
 				)
 				.optional()
