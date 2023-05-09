@@ -20,6 +20,8 @@
 		"@iconify-json/tabler": "^1.1.74",
 		"@tailwindcss/typography": "^0.5.9",
 		"astro": "^2.4.3",
+		"rehype-slug": "^5.1.0",
+		"rehype-autolink-headings": "^6.1.1",
 		"tailwindcss": "^3.3.2",
 		"unplugin-icons": "^0.16.1"
 	},

@@ -16,16 +16,18 @@ const posts = (await getCollection('posts'))
 
 <aside class="px-2 sm:px-0 xl:max-w-xs">
 	{
-		headings && headings.length > 0 && (
+		headings && headings.some((heading) => heading.depth === 2) && (
 			<div class="my-6 hidden xl:block">
 				<h2 class="mb-4 text-center font-bold uppercase text-white">На этой странице</h2>
-				{headings
-					.filter((heading) => heading.depth === 2)
-					.map((heading) => (
-						<li>
-							<a href={`#${heading.slug}`}>{heading.text}</a>
-						</li>
-					))}
+				<ul class="list-none text-sm">
+					{headings
+						.filter((heading) => heading.depth === 2)
+						.map((heading) => (
+							<li class="border-collapse border-b border-brand-gold py-2">
+								<a href={`#${heading.slug}`}>{heading.text}</a>
+							</li>
+						))}
+				</ul>
 			</div>
 		)
 	}

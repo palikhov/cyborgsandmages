@@ -44,10 +44,14 @@ li:has(input[type='checkbox']) {
 	@apply bg-brand-ivory text-brand-night;
 }
 
-.prose aside p:first-child {
-	@apply mt-0;
+/* ANCHORS */
+
+.prose h2 > a,
+.prose h3 > a {
+	@apply no-underline hover:underline;
 }
 
-.prose aside p:last-child {
-	@apply mb-0;
+.prose a .icon::before {
+	content: '#';
+	@apply ml-2;
 }
