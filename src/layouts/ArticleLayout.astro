@@ -38,7 +38,7 @@ const { title, description, date, cover, author, translator, tags, headings, lin
 			<div><FormattedDate date={date} /></div>
 
 			<div>
-				{tags.map((tag) => <a href=`/tags/${tag}` class="tag">{tag}</a>)}
+				{tags.sort().map((tag) => <a href=`/tags/${tag}` class="tag">{tag}</a>)}
 			</div>
 		</div>
 
