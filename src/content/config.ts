@@ -33,6 +33,7 @@ const posts = defineCollection({
 			cover: image().optional(),
 			author: z.string().default('Антон «Palant» Палихов'),
 			translator: z.string().optional(),
+			tags: z.array(z.string()),
 			headings: z
 				.array(
 					z.object({

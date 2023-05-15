@@ -43,12 +43,7 @@ export const SOCIALS = [
 	{
 		SOCIALS.map((item) => (
 			<>
-				<a
-					href={item.href}
-					target="_blank"
-					rel="nofollow noreferrer"
-					class="flex items-center gap-1 hover:underline"
-				>
+				<a href={item.href} target="_blank" rel="nofollow noreferrer" class="flex items-center gap-1 hover:underline">
 					<div set:html={item.icon} class={item.color} />
 					<span class="hidden md:block">{item.label}</span>
 				</a>

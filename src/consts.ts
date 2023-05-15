@@ -1,7 +1,6 @@
 export const SITE_TITLE = 'Киборги и Чародеи';
 
-export const SITE_DESCRIPTION =
-	'D&D и Настольные Ролевые Игры – Статьи, Ресурсы, Материалы, Советы, Переводы';
+export const SITE_DESCRIPTION = 'D&D и Настольные Ролевые Игры – Статьи, Ресурсы, Материалы, Советы, Переводы';
 
 export const SITE_NAVIGATION = [
 	{

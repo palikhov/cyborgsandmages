@@ -11,9 +11,7 @@ interface Props {
 const { post } = Astro.props;
 ---
 
-<div
-	class="prose mb-6 flex w-full max-w-none flex-col items-center font-serif sm:prose-lg sm:flex-row"
->
+<div class="prose mb-6 flex w-full max-w-none flex-col items-center font-serif sm:prose-lg sm:flex-row">
 	<a href={`/posts/${post.slug}`} class="w-full sm:w-64 sm:min-w-max">
 		{
 			post.data.cover ? (
@@ -36,11 +34,8 @@ const { post } = Astro.props;
 		}
 	</a>
 	<div class="mt-4 sm:ml-6 sm:mt-0">
-		<a href={`/posts/${post.slug}`} class="no-underline"><h2 class="!my-1">{post.data.title}</h2></a
-		>
-		<span class="font-sans text-base text-brand-gold"
-			>{post.data.author}, <FormattedDate date={post.data.date} /></span
-		>
+		<a href={`/posts/${post.slug}`} class="no-underline"><h2 class="!my-1">{post.data.title}</h2></a>
+		<span class="font-sans text-base text-brand-gold">{post.data.author}, <FormattedDate date={post.data.date} /></span>
 
 		<p>
 			{post.data.description}

@@ -14,9 +14,6 @@ if (href === '/' && pathname !== '/') {
 }
 ---
 
-<a
-	href={href}
-	class:list={['font-medium hover:text-brand-crimson', { 'text-brand-crimson': isActive }]}
->
+<a href={href} class:list={['font-medium hover:text-brand-crimson', { 'text-brand-crimson': isActive }]}>
 	<slot />
 </a>

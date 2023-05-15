@@ -10,9 +10,7 @@ export interface Props {
 
 const { headings, links } = Astro.props;
 
-const posts = (await getCollection('posts'))
-	.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-	.slice(0, 6);
+const posts = (await getCollection('posts')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 6);
 ---
 
 <aside class="px-2 sm:px-0 xl:max-w-xs">
@@ -70,7 +68,7 @@ const posts = (await getCollection('posts'))
 						)}
 
 						<div>
-							<h3 class="font-serif text-lg font-semibold text-brand-gold">{post.data.title}</h3>
+							<h3 class="font-serif text-lg font-semibold text-white">{post.data.title}</h3>
 
 							<p class="line-clamp-4 font-serif text-base">{post.data.description}</p>
 						</div>

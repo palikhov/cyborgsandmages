@@ -55,3 +55,7 @@ li:has(input[type='checkbox']) {
 	content: '#';
 	@apply ml-2;
 }
+
+a.tag {
+	@apply mr-1 rounded bg-brand-ivory px-1 py-0.5 text-base font-medium text-brand-mist no-underline hover:bg-brand-crimson hover:text-white;
+}
