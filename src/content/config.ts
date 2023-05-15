@@ -54,9 +54,21 @@ const posts = defineCollection({
 		})
 });
 
-/* 5E TYPES */
+/* GENERATORS */
+const generators = defineCollection({
+	schema: z.object({
+		title: z.string(),
+		description: z.string(),
+		tables: z.array(
+			z.object({
+				table: z.string(),
+				results: z.array(z.string())
+			})
+		)
+	})
+});
 
-/* CREATURES */
+/* 5E CREATURES */
 const creatures = defineCollection({
 	schema: z.object({
 		name: z.string(),
@@ -155,4 +167,4 @@ const creatures = defineCollection({
 	})
 });
 
-export const collections = { singles, posts, creatures };
+export const collections = { singles, posts, creatures, generators };

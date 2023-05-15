@@ -3,6 +3,7 @@ import { CollectionEntry, getCollection } from 'astro:content';
 import ArticleLayout from '~layouts/ArticleLayout.astro';
 import Aside from '~components/Aside.astro';
 import Verse from '~components/Verse.astro';
+import Generator from '~components/Generator.astro';
 import Creature from '~components/5e/Creature.astro';
 
 export async function getStaticPaths() {
@@ -21,5 +22,5 @@ const { Content, headings } = await post.render();
 ---
 
 <ArticleLayout {...post.data} {headings}>
-	<Content components={{ Aside: Aside, Verse: Verse, Creature: Creature }} />
+	<Content components={{ Aside: Aside, Verse: Verse, Creature: Creature, Generator: Generator }} />
 </ArticleLayout>
