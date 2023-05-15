@@ -80,7 +80,7 @@ This file is in BETA. Please test and contribute to the discussion:
       <body class="bg-white">
         <nav class="container-md px-3 py-2 mt-2 mt-md-5 mb-5 markdown-body">
           <p class="bg-yellow-light ml-n1 px-1 py-1 mb-1">
-            Это RSS-канал. <strong>Подпишитесь</strong>, скопировав URL из адресной строки в свою программу для чтения новостей.
+            <strong>Подпишитесь</strong> на RSS канал, скопировав URL из адресной строки в своё приложение для чтения новостей. <strong>Рекомендуемые приложения:</strong> Feedly, Inoreader, The Old Reader.
           </p>
         </nav>
         <div class="container-md px-3 py-3 markdown-body">
