@@ -1,0 +1,32 @@
+---
+import TablerBrandTelegram from '~icons/tabler/brand-telegram';
+import TablerBrandTwitter from '~icons/tabler/brand-twitter';
+import TablerBrandFacebook from '~icons/tabler/brand-facebook';
+
+export interface Props {
+	description: string;
+	slug: string;
+}
+
+const { description, slug } = Astro.props;
+
+const encodedHref = encodeURI(`https://cyborgsandmages.com/posts/${slug}`);
+
+const facebook = encodeURI(`https://facebook.com/sharer/sharer.php?u=${encodedHref}&quote=${description}`);
+const telegram = encodeURI(`https://telegram.me/share/url?text=${description}&url=${encodedHref}`);
+const twitter = encodeURI(`https://twitter.com/intent/tweet/?text=${description}&url=${encodedHref}`);
+---
+
+<div class="not-prose flex items-center space-x-1 font-sans text-base text-white sm:space-x-2">
+	<span>Помогите распространить статью, сделав репост в</span>
+
+	<a href={telegram} class="rounded bg-[#0088cc]"><TablerBrandTelegram /> <span>Telegram</span></a>
+	<a href={facebook} class="rounded bg-[#4267B2]"><TablerBrandFacebook /> <span>Facebook</span></a>
+	<a href={twitter} class="rounded bg-[#1DA1F2]"><TablerBrandTwitter /> <span>Twitter</span></a>
+</div>
+
+<style>
+	a {
+		@apply flex space-x-1 px-2 py-0.5;
+	}
+</style>

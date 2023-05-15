@@ -1,13 +1,12 @@
 ---
 import { Image } from "astro:assets";
-import type { CollectionEntry } from "astro:content";
 import FormattedDate from "~components/FormattedDate.astro";
+import Share from "~components/Share.astro"
 import BaseLayout from "~layouts/BaseLayout.astro";
 
-type Props = CollectionEntry<"posts">["data"];
+const { data, headings, slug } = Astro.props;
 
-const { title, description, date, cover, author, translator, tags, headings, links } =
-	Astro.props;
+const { title, description, date, cover, author, translator, tags, links } = data;
 ---
 
 <BaseLayout {title} {description} {headings} {links}>
@@ -58,6 +57,9 @@ const { title, description, date, cover, author, translator, tags, headings, lin
 					>сервере в Discord</a
 				>.
 			</p>
+
+	
+		   <Share {description} {slug} />  
 		</div>
 	</article>
 </BaseLayout>

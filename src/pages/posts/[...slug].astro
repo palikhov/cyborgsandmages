@@ -21,6 +21,6 @@ const post = Astro.props;
 const { Content, headings } = await post.render();
 ---
 
-<ArticleLayout {...post.data} {headings}>
+<ArticleLayout {...post} {headings}>
 	<Content components={{ Aside: Aside, Verse: Verse, Creature: Creature, Generator: Generator }} />
 </ArticleLayout>
