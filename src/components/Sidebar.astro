@@ -1,6 +1,6 @@
 ---
-import { Image } from "astro:assets";
-import { getCollection } from "astro:content";
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
 //import FormattedDate from '~components/FormattedDate.astro';
 
 export interface Props {
@@ -10,25 +10,22 @@ export interface Props {
 
 const { headings, links } = Astro.props;
 
-const posts = (await getCollection("posts"))
-	.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-	.slice(0, 6);
+const posts = (await getCollection('posts')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 6);
 ---
 
 <aside class="px-2 sm:px-0 xl:max-w-xs">
 	{
-		headings && headings.some((heading) => heading.depth === 2) && (
+		headings && headings.some((heading) => heading.depth === 2 || heading.depth === 3) && (
 			<div class="my-6 hidden xl:block">
-				<h2 class="mb-4 text-center font-bold uppercase text-white">
-					На этой странице
-				</h2>
+				<h2 class="mb-4 text-center font-bold uppercase text-white">На этой странице</h2>
 				<ul class="list-none text-sm">
 					{headings
-						.filter((heading) => heading.depth === 2)
+						.filter((heading) => heading.depth === 2 || heading.depth === 3)
 						.map((heading) => (
 							<li class="py-1">
 								<a href={`#${heading.slug}`} class="hover:underline">
-									<span class="text-brand-wave">#</span> {heading.text}
+									<span class={heading.depth === 2 ? 'text-brand-crimson' : 'text-brand-wave'}>#</span>
+									<span class={heading.depth === 2 ? 'font-semibold uppercase' : ''}>{heading.text}</span>
 								</a>
 							</li>
 						))}
@@ -40,9 +37,7 @@ const posts = (await getCollection("posts"))
 	{
 		links && (
 			<div class="my-6 hidden xl:block">
-				<h2 class="mb-4 text-center font-bold uppercase text-white">
-					Полезные ссылки
-				</h2>
+				<h2 class="mb-4 text-center font-bold uppercase text-white">Полезные ссылки</h2>
 				<ul class="list-disc text-sm">
 					{links.map((link) => (
 						<li class="py-1">
@@ -55,13 +50,9 @@ const posts = (await getCollection("posts"))
 	}
 
 	<div>
-		<h2 class="mb-4 text-center font-bold uppercase text-white">
-			Новые статьи
-		</h2>
+		<h2 class="mb-4 text-center font-bold uppercase text-white">Новые статьи</h2>
 
-		<div
-			class="not-prose grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-4 xl:grid-cols-1"
-		>
+		<div class="not-prose grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-4 xl:grid-cols-1">
 			{
 				posts.map((post) => (
 					<a
@@ -71,8 +62,8 @@ const posts = (await getCollection("posts"))
 						{post.data.cover && (
 							<Image
 								height={300}
-								format={"webp"}
-								quality={"mid"}
+								format={'webp'}
+								quality={'mid'}
 								src={post.data.cover}
 								alt={post.data.title}
 								class="aspect-video h-48 w-full rounded-md object-cover object-center md:h-32"
@@ -80,13 +71,9 @@ const posts = (await getCollection("posts"))
 						)}
 
 						<div>
-							<h3 class="font-sans text-base font-medium text-white">
-								{post.data.title}
-							</h3>
+							<h3 class="font-sans text-base font-medium text-white">{post.data.title}</h3>
 
-							<p class="line-clamp-4 font-serif text-base">
-								{post.data.description}
-							</p>
+							<p class="line-clamp-4 font-serif text-base">{post.data.description}</p>
 						</div>
 					</a>
 				))
