@@ -1,0 +1,7 @@
+{
+	"redirects": [
+		{ "source": "/posts/core-d20", "destination": "/core-d20/1", "permanent": true },
+		{ "source": "/posts/articles", "destination": "/articles/1", "permanent": true },
+		{ "source": "/posts/translations", "destination": "/translations/1", "permanent": true }
+	]
+}
