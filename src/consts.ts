@@ -83,3 +83,20 @@ export const DND_SIZES = {
 	g: 'исполинский',
 	a: 'любой'
 };
+
+export const DND_RARITY = {
+	c: 'обычный',
+	u: 'необычный',
+	r: 'редкий',
+	v: 'крайне редкий',
+	l: 'легендарный',
+	a: 'артефакт'
+};
+
+export const DND_CURRENCY = {
+	cp: 'мм',
+	sp: 'см',
+	gp: 'зм',
+	ep: 'эм',
+	pp: 'пм'
+};

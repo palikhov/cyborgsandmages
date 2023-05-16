@@ -158,4 +158,20 @@ const creatures = defineCollection({
 	})
 });
 
-export const collections = { singles, posts, creatures, generators };
+/* 5E ITEMS */
+const items = defineCollection({
+	schema: z.object({
+		name: z.string(),
+		source: z.string(),
+		type: z.string(),
+		subtype: z.string().optional(),
+		rarity: z.enum(['c', 'u', 'r', 'v', 'l', 'a']).optional(),
+		attunement: z.string().optional(),
+		cost: z.number().optional(),
+		currency: z.enum(['cp', 'sp', 'gp', 'ep', 'pp']).default('gp'),
+		weight: z.number().optional(),
+		property: z.string().optional()
+	})
+});
+
+export const collections = { singles, posts, generators, creatures, items };

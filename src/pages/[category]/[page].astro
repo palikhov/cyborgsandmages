@@ -17,7 +17,9 @@ export async function getStaticPaths({ paginate }) {
 	return allCategories.map((category) => {
 		const meta = SITE_POST_CATEGORIES.find((c) => c.path === category);
 
-		const filteredPosts = allPosts.filter((post) => post.id.startsWith(`${category}/`));
+		const filteredPosts = allPosts
+			.filter((post) => post.id.startsWith(`${category}/`))
+			.sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
 
 		return paginate(filteredPosts, {
 			props: { meta },
