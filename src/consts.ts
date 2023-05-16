@@ -20,8 +20,8 @@ export const SITE_NAVIGATION = [
 		href: '/translations/1'
 	},
 	{
-		label: 'Homebrew',
-		href: '/homebrew'
+		label: 'Ресурсы',
+		href: '/resources'
 	}
 ];
 
