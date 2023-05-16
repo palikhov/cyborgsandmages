@@ -12,16 +12,16 @@ export const SITE_NAVIGATION = [
 		href: '/articles/1'
 	},
 	{
+		label: 'Core d20',
+		href: '/core-d20/1'
+	},
+	{
 		label: 'Переводы',
 		href: '/translations/1'
 	},
 	{
 		label: 'Homebrew',
 		href: '/homebrew'
-	},
-	{
-		label: 'Ресурсы',
-		href: '/resources/1'
 	}
 ];
 
@@ -34,20 +34,12 @@ export const SITE_POST_CATEGORIES = [
 	{
 		path: 'translations',
 		title: 'Переводы',
-		description:
-			'Potendo fallo come essilio procuratori incominciare da fallo. Viviamo se il che il per ma dare iscacciato piaceri. E divenuti.'
+		description: 'Переводы статей с других языков.'
 	},
 	{
-		path: 'resources',
-		title: 'Ресурсы',
-		description:
-			'Che fuor maesta delle nondimeno divina, e lui la niuna purita. In da apparire potendo discerniamo. Avvien udita fragilita le.'
-	},
-	{
-		path: 'publications',
-		title: 'Публикации',
-		description:
-			'Che fuor maesta delle nondimeno divina, e lui la niuna purita. In da apparire potendo discerniamo. Avvien udita fragilita le.'
+		path: 'core-d20',
+		title: 'Core d20 RPG',
+		description: 'Core d20 RPG — наш проект изменения и расширения D&D 5e.'
 	}
 ];
 
