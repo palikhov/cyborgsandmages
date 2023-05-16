@@ -1,32 +1,55 @@
 ---
-import TablerBrandTelegram from '~icons/tabler/brand-telegram';
-import TablerBrandTwitter from '~icons/tabler/brand-twitter';
-import TablerBrandFacebook from '~icons/tabler/brand-facebook';
+import TablerBrandTelegram from "~icons/tabler/brand-telegram";
+import TablerBrandTwitter from "~icons/tabler/brand-twitter";
+import TablerBrandFacebook from "~icons/tabler/brand-facebook";
 
 export interface Props {
+	title: string;
 	description: string;
 	slug: string;
+	tags: Array<string>;
 }
 
-const { description, slug } = Astro.props;
+const { title, description, slug, tags } = Astro.props;
+
+const slugifiedTags: Array<string> = [];
+
+function slugify(str: string) {
+	return str.trim().replace(/["&"]/g, "n").replace(/\s+/g, "_");
+}
+
+for (let i = 0; i < tags.length; i++) {
+	const tag = slugify(tags[i]);
+	slugifiedTags.push(tag);
+}
 
 const encodedHref = encodeURI(`https://cyborgsandmages.com/posts/${slug}`);
 
-const facebook = encodeURI(`https://facebook.com/sharer/sharer.php?u=${encodedHref}&quote=${description}`);
-const telegram = encodeURI(`https://telegram.me/share/url?text=${description}&url=${encodedHref}`);
-const twitter = encodeURI(`https://twitter.com/intent/tweet/?text=${description}&url=${encodedHref}`);
+const fullDescription =
+	title.replace(/["&"]/g, "n") + " - " + description.replace(/["&"]/g, "n");
+
+const facebook = `https://facebook.com/sharer/sharer.php?u=${encodedHref}&hashtags=${slugifiedTags}&quote=${fullDescription}`;
+const telegram = `https://telegram.me/share/url?text=${fullDescription}&hashtags=${slugifiedTags}&url=${encodedHref}`;
+const twitter = `https://twitter.com/intent/tweet/?text=${fullDescription}&hashtags=${slugifiedTags}&url=${encodedHref}`;
 ---
 
-<div class="not-prose flex items-center space-x-1 font-sans text-base text-white sm:space-x-2">
-	<span>Помогите распространить статью, сделав репост в</span>
+<div>
+	<h4>Помогите распространить статью, сделав репост</h4>
 
-	<a href={telegram} class="rounded bg-[#0088cc]"><TablerBrandTelegram /> <span>Telegram</span></a>
-	<a href={facebook} class="rounded bg-[#4267B2]"><TablerBrandFacebook /> <span>Facebook</span></a>
-	<a href={twitter} class="rounded bg-[#1DA1F2]"><TablerBrandTwitter /> <span>Twitter</span></a>
+	<div
+		class="not-prose flex items-center space-x-1 font-sans text-base text-white sm:space-x-2"
+	>
+		<a href={telegram} class="rounded bg-[#0088cc] flex space-x-1 px-2 py-0.5">
+			<TablerBrandTelegram />
+			<span>Telegram</span>
+		</a>
+		<a href={facebook} class="rounded bg-[#4267B2] flex space-x-1 px-2 py-0.5">
+			<TablerBrandFacebook />
+			<span>Facebook</span>
+		</a>
+		<a href={twitter} class="rounded bg-[#1DA1F2] flex space-x-1 px-2 py-0.5">
+			<TablerBrandTwitter />
+			<span>Twitter</span>
+		</a>
+	</div>
 </div>
-
-<style>
-	a {
-		@apply flex space-x-1 px-2 py-0.5;
-	}
-</style>
