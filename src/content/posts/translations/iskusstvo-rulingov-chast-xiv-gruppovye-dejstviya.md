@@ -6,7 +6,7 @@ translator: Станислав Иванов
 date: 2022-07-18
 tags:
   - Alexandrian
-  - Перевод
+  - Переводы
 ---
 
 _Текст Justin Alexander от 25 января 2018 года_
