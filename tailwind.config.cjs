@@ -10,7 +10,7 @@ module.exports = {
 			colors: {
 				brand: {
 					ivory: '#c4b998',
-					gold: '#8a6c3c',
+					gold: '#957a4f',
 					crimson: '#b91c1c',
 					wave: '#a2cdc2',
 					mist: '#1d1f28',
@@ -28,7 +28,7 @@ module.exports = {
 						'--tw-prose-counters': theme('colors.brand[gold]'),
 						'--tw-prose-bullets': theme('colors.brand[gold]'),
 						'--tw-prose-hr': theme('colors.brand[gold]'),
-						'--tw-prose-quotes': theme('colors.brand[gold]'),
+						'--tw-prose-quotes': theme('colors.white'),
 						'--tw-prose-quote-borders': theme('colors.brand[gold]'),
 						'--tw-prose-captions': theme('colors.brand[gold]'),
 						'--tw-prose-code': theme('colors.white'),

@@ -59,3 +59,15 @@ li:has(input[type='checkbox']) {
 a.tag {
 	@apply mb-1 mr-1 whitespace-pre-wrap rounded bg-brand-ivory px-1.5 py-0.5 font-sans text-sm font-medium text-brand-mist no-underline hover:bg-brand-crimson hover:text-white;
 }
+
+.prose table {
+	@apply font-sans text-sm sm:text-base;
+}
+
+.prose tr {
+	@apply even:bg-brand-mist;
+}
+
+.prose td {
+	@apply pl-1;
+}
