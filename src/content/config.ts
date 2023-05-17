@@ -4,7 +4,7 @@ import { defineCollection, z } from 'astro:content';
 const singles = defineCollection({
 	schema: z.object({
 		title: z.string(),
-		description: z.string().refine((val) => val.length <= 400, {
+		description: z.string().refine((val) => val.length <= 1000, {
 			message: 'Описание не может быть длиннее 400 символов.'
 		}),
 		links: z
