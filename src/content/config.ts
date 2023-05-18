@@ -2,6 +2,7 @@ import { defineCollection, z } from 'astro:content';
 
 /* SINGLE PAGES */
 const singles = defineCollection({
+	type: 'content',
 	schema: z.object({
 		title: z.string(),
 		description: z.string().refine((val) => val.length <= 1000, {
@@ -20,6 +21,7 @@ const singles = defineCollection({
 
 /* POST PAGES */
 const posts = defineCollection({
+	type: 'content',
 	schema: ({ image }) =>
 		z.object({
 			title: z.string(),
@@ -47,6 +49,7 @@ const posts = defineCollection({
 
 /* GENERATORS */
 const generators = defineCollection({
+	type: 'data',
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
@@ -61,6 +64,7 @@ const generators = defineCollection({
 
 /* 5E CREATURES */
 const creatures = defineCollection({
+	type: 'content',
 	schema: z.object({
 		name: z.string(),
 		source: z.string(),

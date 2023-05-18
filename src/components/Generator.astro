@@ -1,6 +1,5 @@
 ---
-import type { CollectionEntry } from 'astro:content';
-import { getEntryBySlug } from 'astro:content';
+import { getEntry } from 'astro:content';
 import Generator from '~components/Generator.svelte';
 
 export type Props = {
@@ -9,13 +8,13 @@ export type Props = {
 
 const { id } = Astro.props;
 
-const generator = await getEntryBySlug('generators', id);
+const generator = await getEntry('generators', id);
 
 if (generator === undefined) {
 	throw new Error('Генератор не найден');
 }
 
-const data: CollectionEntry<'generators'>['data'] = generator.data;
+const data = generator.data;
 ---
 
 <Generator {data} client:visible />

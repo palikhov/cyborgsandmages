@@ -46,7 +46,9 @@
 
 	{#if selectedTable && selectedElement}
 		<div class="font-sans text-white">
-			<p><strong>Таблица:</strong> {selectedTable.table}</p>
+			{#if tables.length > 1}
+				<p><strong>Таблица:</strong> {selectedTable.table}</p>
+			{/if}
 			<p><strong>Результат:</strong> {selectedElement}</p>
 		</div>
 	{/if}
