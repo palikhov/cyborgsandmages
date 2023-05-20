@@ -1,0 +1,72 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getEntryBySlug } from 'astro:content';
+
+import { DND_RARITY, DND_CURRENCY } from 'src/consts';
+
+export type Props = {
+	id: string;
+};
+
+const { id } = Astro.props;
+
+const item = await getEntryBySlug('items', id);
+
+if (item === undefined) {
+	throw new Error('Предмет не найден');
+}
+
+const { Content } = await item.render();
+
+const data: CollectionEntry<'items'>['data'] = item.data;
+
+const { name, source, type, subtype, rarity, attunement, cost, currency, weight, property } = data;
+---
+
+<section class="my-4 space-y-4 rounded-md bg-brand-mist p-2 font-sans sm:p-4">
+	<div class="my-2 flex">
+		<h2 class="!my-0 flex-1 font-serif text-2xl font-bold text-white">{name}</h2>
+
+		<span class="font-semibold">{source}</span>
+	</div>
+
+	<div class="text-xs font-semibold uppercase text-brand-gold sm:text-sm">
+		<span>{type}</span>
+		{rarity && <span>/ {DND_RARITY[rarity]}</span>}
+		{attunement && <span>({attunement})</span>}
+		<br />
+		{subtype && <span>{subtype}</span>}
+	</div>
+
+	<div class="flex text-sm sm:text-base">
+		{
+			cost && (
+				<div class="mr-4">
+					<span class="text-sm font-medium uppercase text-white">Цена:</span>
+					<span>
+						{cost} {DND_CURRENCY[currency]}
+					</span>
+				</div>
+			)
+		}
+		{
+			weight && (
+				<div>
+					<span class="text-sm font-medium uppercase text-white">Вес:</span>
+					<span>{weight} фунт(ов)</span>
+				</div>
+			)
+		}
+	</div>
+
+	{property && <div class="text-sm text-white sm:text-base">{property}</div>}
+
+	<details class="mb-4">
+		<summary class="rounded bg-brand-night p-1 pl-4 hover:cursor-pointer hover:bg-brand-crimson hover:text-white"
+			>Описание</summary
+		>
+		<div class="font-sans text-base">
+			<Content />
+		</div>
+	</details>
+</section>

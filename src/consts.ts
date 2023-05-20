@@ -100,3 +100,16 @@ export const DND_CURRENCY = {
 	ep: 'эм',
 	pp: 'пм'
 };
+
+export const spelllevel = {
+  cantrip: 'заговор',
+	first: '1-ый',
+	second: '2-ой',
+	third: '3-ий',
+	fourth: '4-ый',
+	fifth: '5-ый',
+	sixth: '6=лй',
+	seventh: '7-ой',
+	eigth: '8-ой',
+	ninth: '9-ый'
+};
