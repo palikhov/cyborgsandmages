@@ -24,7 +24,7 @@ export const SITE_NAVIGATION = [
 		href: '/resources'
 	},
 	{
-		label: 'Перевод SRD'
+		label: 'Перевод SRD',
 		href: '/srd/1'
 	}
 ];
@@ -47,7 +47,7 @@ export const SITE_POST_CATEGORIES = [
 	},
 	{
 		path: 'srd',
-		title: 'Перевод SRD 5.1'
+		title: 'Перевод SRD 5.1',
 		description: 'Наш проект по переводу SRD 5.1 - бесплатный игромехачнический движок Подземелий и Драконов'
 	}
 ];
