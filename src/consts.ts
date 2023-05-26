@@ -44,8 +44,7 @@ export const SITE_POST_CATEGORIES = [
 		path: 'core-d20',
 		title: 'Core d20 RPG',
 		description: 'Core d20 RPG — наш проект изменения и расширения D&D 5e.'
-	}
-
+	},
 	{
 		path: 'srd',
 		title: 'Перевод SRD 5.1'
