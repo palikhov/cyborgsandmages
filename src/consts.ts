@@ -22,7 +22,7 @@ export const SITE_NAVIGATION = [
 	{
 		label: 'Ресурсы',
 		href: '/resources'
-	}
+	},
 	{
 		label: 'Перевод SRD'
 		href: '/srd/1'
