@@ -3,6 +3,8 @@ import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 //import FormattedDate from '~components/FormattedDate.astro';
 
+import { SITE_FRIENDS } from '../consts';
+
 export interface Props {
 	headings?: { depth: number; slug: string; text: string }[];
 	links?: { label: string; href: string }[];
@@ -79,5 +81,21 @@ const posts = (await getCollection('posts')).sort((a, b) => b.data.date.valueOf(
 				))
 			}
 		</div>
+	</div>
+
+	<div class="my-6 hidden xl:block">
+		<h2 class="mb-4 text-center font-bold uppercase text-white">Наши друзья</h2>
+		<ul class="list-disc">
+			{
+				SITE_FRIENDS.map((friend) => (
+					<li class="flex items-center py-1 hover:text-brand-wave hover:underline">
+						<img src={friend.favicon} class="mr-2 h-6 w-6" />
+						<a href={friend.href} target="_blank">
+							{friend.label}
+						</a>
+					</li>
+				))
+			}
+		</ul>
 	</div>
 </aside>

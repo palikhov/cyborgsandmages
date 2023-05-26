@@ -52,6 +52,36 @@ export const SITE_POST_CATEGORIES = [
 	}
 ];
 
+export const SITE_FRIENDS = [
+	{
+		label: 'Long Story Short',
+		href: 'https://longstoryshort.app/',
+		favicon: 'https://longstoryshort.app/favicon.ico'
+	},
+	{
+		label: 'DnD5 Club',
+		href: 'https://ttg.club/',
+		favicon: 'https://ttg.club/favicon_ttg_v3.svg'
+	},
+	{
+		label: 'DnD.su',
+		href: 'https://dnd.su/',
+		favicon: 'https://dnd.su/favicon.ico'
+	},
+	{
+		label: 'Переклад SRD 5.1',
+		href: 'https://5esrd.kyiv.ua/',
+		favicon: 'https://5esrd.kyiv.ua/public/favicon.ico'
+	},
+	{
+		label: 'D&D в Україні',
+		href: 'https://dnd.in.ua/',
+		favicon: '/images/decoration/ua.svg'
+	}
+];
+
+// 5E CONSTS
+
 export const DND_ALIGNMENTS = {
 	lg: 'принципиальное доброе',
 	ng: 'нейтральное доброе',
@@ -111,7 +141,7 @@ export const DND_CURRENCY = {
 };
 
 export const spelllevel = {
-  cantrip: 'заговор',
+	cantrip: 'заговор',
 	first: '1-ый',
 	second: '2-ой',
 	third: '3-ий',
