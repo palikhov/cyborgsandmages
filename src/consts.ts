@@ -23,6 +23,10 @@ export const SITE_NAVIGATION = [
 		label: 'Ресурсы',
 		href: '/resources'
 	}
+	{
+		label: 'Перевод SRD'
+		href: '/srd/1'
+	}
 ];
 
 export const SITE_POST_CATEGORIES = [
@@ -40,6 +44,12 @@ export const SITE_POST_CATEGORIES = [
 		path: 'core-d20',
 		title: 'Core d20 RPG',
 		description: 'Core d20 RPG — наш проект изменения и расширения D&D 5e.'
+	}
+
+	{
+		path: 'srd',
+		title: 'Перевод SRD 5.1'
+		description: 'Наш проект по переводу SRD 5.1 - бесплатный игромехачнический движок Подземелий и Драконов'
 	}
 ];
 
