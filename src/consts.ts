@@ -59,7 +59,7 @@ export const SITE_FRIENDS = [
 		favicon: 'https://longstoryshort.app/favicon.ico'
 	},
 	{
-		label: 'DnD5 Club',
+		label: 'TTG Club',
 		href: 'https://ttg.club/',
 		favicon: 'https://ttg.club/favicon_ttg_v3.svg'
 	},
