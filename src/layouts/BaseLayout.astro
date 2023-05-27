@@ -1,5 +1,4 @@
 ---
-import { inject } from '@vercel/analytics';
 import '@fontsource-variable/inter';
 import '@fontsource-variable/lora';
 
@@ -8,10 +7,13 @@ import Footer from '~components/Footer.astro';
 import Header from '~components/Header.astro';
 import Sidebar from '~components/Sidebar.astro';
 
-inject();
-
 const { title, description, headings, sidebar = true, links } = Astro.props;
 ---
+
+<script>
+	import { inject } from '@vercel/analytics';
+	inject();
+</script>
 
 <html lang="ru" class="h-full min-h-full bg-brand-night text-brand-ivory">
 	<head>
