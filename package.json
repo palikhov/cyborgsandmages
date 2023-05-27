@@ -21,6 +21,7 @@
 		"@iconify-json/game-icons": "^1.1.2",
 		"@iconify-json/tabler": "^1.1.77",
 		"@tailwindcss/typography": "^0.5.9",
+		"@vercel/analytics": "^1.0.1",
 		"astro": "^2.5.5",
 		"rehype-autolink-headings": "^6.1.1",
 		"rehype-slug": "^5.1.0",
