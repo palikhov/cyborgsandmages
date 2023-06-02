@@ -2,6 +2,7 @@
 import { CollectionEntry, getCollection } from 'astro:content';
 import SingleLayout from '~layouts/SingleLayout.astro';
 import Aside from '~components/Aside.astro';
+import Link from '~components/Link.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('singles');
@@ -17,5 +18,5 @@ const { Content } = await post.render();
 ---
 
 <SingleLayout {...post.data}>
-	<Content components={{ Aside: Aside }} />
+	<Content components={{ Aside: Aside, Link: Link }} />
 </SingleLayout>
