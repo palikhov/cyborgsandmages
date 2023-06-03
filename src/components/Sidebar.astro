@@ -12,7 +12,10 @@ export interface Props {
 
 const { headings, links } = Astro.props;
 
-const posts = (await getCollection('posts')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 6);
+const posts = (await getCollection('posts'))
+	.filter((post) => !post.data.draft)
+	.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+	.slice(0, 6);
 ---
 
 <aside class="px-2 sm:px-0 xl:max-w-xs">

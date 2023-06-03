@@ -43,8 +43,10 @@ const posts = defineCollection({
 						href: z.string()
 					})
 				)
-				.optional()
-		})
+				.optional(),
+				draft: z.boolean().default(false)
+		}),
+
 });
 
 /* GENERATORS */
