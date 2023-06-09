@@ -59,5 +59,6 @@
 	},
 	"[css]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	}
+	},
+	"dmbinder.chromeExecutablePath": "\\.local-chromium\\win64-686378\\chrome-win\\chrome.exe"
 }
