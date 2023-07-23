@@ -1,0 +1,44 @@
+---
+title: Руководство и советы по Roll20
+description: Руководство игроку и мастеру по Roll20 и оказание помощи начинающим
+date: 2023-07-23
+---
+
+[Дополнительное ПО для Roll20](https://hackmd.io/@palikhov/roll20-soft)
+
+[Старое руководство по Roll20 от Паланта](https://cyborgsandmages.gitbook.io/palant-roll20-guide/)
+
+[Руководство по Roll20 для начинающих]()
+
+способ для проверки масс атак
+
+```[[ {?{Number of Attackers}?{Advantage/Disadvantage|Normal,d20|Advantage,t[d20A]|Disadvantage,t[d20D]} + ?{To hit modifiers +|8}}>[[@{target|ac}]] ]]```
+
+и делаешь две роллейбл таблички d20A  и d20D
+
+в которых задаешь вероятности для 1-20 для адвантажа и дизадвантажа
+
+
+вариант по вібору ац
+
+```[[ {?{Number of Attackers}?{Advantage/Disadvantage|Normal,d20|Advantage,t[d20A]|Disadvantage,t[d20D]} + ?{To hit modifiers +|8}}>[[?{target  ac}]] ]]```
+
+для того чтобы ссылаться на атак бонус конкретной атаки используй
+
+```@{selected|repeatingattack$0_atkbonus}```
+
+```/me attacking @{target|Enemy|npc_name}!```
+
+```/roll {1d20+@{selected|repeatingattack$0_atkbonus} }>@{target|Enemy|AC}```
+
+если надо вытащить имя атаки 
+
+```@{selected|repeatingattack$0_atkname}```
+
+---
+
+Если вы хотите задать вопрос по Roll20 - то вы можете сделать это у нас в дискорде или телеграм канале.
+
+---
+
+[Руководство по Foundry]()
