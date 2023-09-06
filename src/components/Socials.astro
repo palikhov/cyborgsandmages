@@ -41,7 +41,7 @@ export const SOCIALS = [
 
 <div class="flex space-x-6 md:space-x-4">
 	{
-		SOCIALS.map((item) => (
+		SOCIALS.flatMap((item) => (
 			<>
 				<a href={item.href} target="_blank" rel="nofollow noreferrer" class="flex items-center gap-1 hover:underline">
 					<div set:html={item.icon} class={item.color} />

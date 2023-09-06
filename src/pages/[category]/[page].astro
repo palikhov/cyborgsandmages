@@ -12,13 +12,15 @@ import TablerArrowBadgeRightFilled from '~icons/tabler/arrow-badge-right-filled'
 export async function getStaticPaths({ paginate }) {
 	const allPosts = await getCollection('posts');
 
-	const allCategories = SITE_POST_CATEGORIES.map((category) => category.path);
+	const allCategories = SITE_POST_CATEGORIES.flatMap((category) => category.path);
 
-	return allCategories.map((category) => {
+	return allCategories.flatMap((category) => {
 		const meta = SITE_POST_CATEGORIES.find((c) => c.path === category);
 
 		const filteredPosts = allPosts
-			.filter((post) => post.id.startsWith(`${category}/`) && !post.data.draft)
+			.filter(
+				(post) => post.id.startsWith(`${category}/`) && !post.data.draft && new Date(post.data.date) <= new Date()
+			)
 			.sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
 
 		return paginate(filteredPosts, {
@@ -39,7 +41,7 @@ const { page, meta } = Astro.props;
 		</div>
 
 		<div class="mt-12 flex flex-col">
-			{page.data.map((post: CollectionEntry<'posts'>) => <PostCard post={post} />)}
+			{page.data.flatMap((post: CollectionEntry<'posts'>) => <PostCard post={post} />)}
 		</div>
 
 		<div class="my-4 flex justify-center space-x-4">

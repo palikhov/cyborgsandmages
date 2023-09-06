@@ -40,7 +40,7 @@ const { title, description, date, cover, author, translator, tags, links } = dat
 			<div><FormattedDate date={date} /></div>
 
 			<div class="not-prose flex flex-wrap">
-				{tags.sort().map((tag) => <a href=`/tags/${tag}` class="tag">{tag}</a>)}
+				{tags.sort().flatMap((tag) => <a href=`/tags/${tag}` class="tag">{tag}</a>)}
 			</div>
 		</div>
 

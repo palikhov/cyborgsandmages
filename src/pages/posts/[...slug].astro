@@ -1,5 +1,5 @@
 ---
-import { CollectionEntry, getCollection } from 'astro:content';
+import { type CollectionEntry, getCollection } from 'astro:content';
 import ArticleLayout from '~layouts/ArticleLayout.astro';
 import Aside from '~components/Aside.astro';
 import Verse from '~components/Verse.astro';
@@ -10,7 +10,7 @@ import Link from '~components/Link.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('posts');
-	return posts.map((post) => ({
+	return posts.flatMap((post) => ({
 		params: { slug: post.slug },
 		props: post
 	}));

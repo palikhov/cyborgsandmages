@@ -38,12 +38,12 @@ const { post } = Astro.props;
 		<span class="font-sans text-base text-brand-gold">{post.data.author}, <FormattedDate date={post.data.date} /></span>
 
 		<div class="not-prose flex flex-wrap">
-			{post.data.tags.sort().map((tag) => <a href=`/tags/${tag}` class="tag">{tag}</a>)}
+			{post.data.tags.sort().flatMap((tag) => <a href=`/tags/${tag}` class="tag">{tag}</a>)}
 		</div>
 
 		<p>
-			{post.data.description}
-			<a href={`/posts/${post.slug}`}>Читать...</a>
+			{post.data.description}<span>&nbsp;</span>
+			<a href={`/posts/${post.slug}`}>Читать &rarr;</a>
 		</p>
 	</div>
 </div>

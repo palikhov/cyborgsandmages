@@ -1,12 +1,12 @@
 ---
-import { CollectionEntry, getCollection } from 'astro:content';
+import { type CollectionEntry, getCollection } from 'astro:content';
 import SingleLayout from '~layouts/SingleLayout.astro';
 import Aside from '~components/Aside.astro';
 import Link from '~components/Link.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('singles');
-	return posts.map((post) => ({
+	return posts.flatMap((post) => ({
 		params: { slug: post.slug },
 		props: post
 	}));

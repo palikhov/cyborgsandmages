@@ -138,7 +138,7 @@ const size = DND_SIZES[data.size];
 		class="grid grid-cols-6 rounded border-b-4 border-t-4 border-brand-gold bg-brand-night py-2 text-sm sm:text-base"
 	>
 		{
-			abilities.map((ability) => (
+			abilities.flatMap((ability) => (
 				<div class="flex flex-col text-center">
 					<span class="font-serif text-sm font-semibold uppercase text-white">{ability.name}</span>
 					<span>
