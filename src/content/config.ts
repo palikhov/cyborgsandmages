@@ -1,3 +1,4 @@
+import { any } from 'astro/zod';
 import { defineCollection, z } from 'astro:content';
 
 /* SINGLE PAGES */
@@ -44,7 +45,8 @@ const posts = defineCollection({
 					})
 				)
 				.optional(),
-				draft: z.boolean().default(false)
+				draft: z.boolean().default(false),
+				headings: z.any().optional()
 		}),
 
 });

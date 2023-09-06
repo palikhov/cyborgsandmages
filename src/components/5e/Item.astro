@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import { getEntryBySlug } from 'astro:content';
+import { getEntry } from 'astro:content';
 
 import { DND_RARITY, DND_CURRENCY } from 'src/consts';
 
@@ -10,7 +10,7 @@ export type Props = {
 
 const { id } = Astro.props;
 
-const item = await getEntryBySlug('items', id);
+const item = await getEntry('items', id);
 
 if (item === undefined) {
 	throw new Error('Предмет не найден');

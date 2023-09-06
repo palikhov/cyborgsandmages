@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import { getEntryBySlug } from 'astro:content';
+import { getEntry } from 'astro:content';
 
 import { DND_ALIGNMENTS, DND_SIZES, DND_TYPES } from 'src/consts';
 
@@ -10,7 +10,7 @@ export type Props = {
 
 const { id } = Astro.props;
 
-const creature = await getEntryBySlug('creatures', id);
+const creature = await getEntry('creatures', id);
 
 if (creature === undefined) {
 	throw new Error('Существо не найдено');

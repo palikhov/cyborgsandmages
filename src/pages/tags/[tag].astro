@@ -10,7 +10,7 @@ export async function getStaticPaths() {
 	return uniqueTags.flatMap((tag) => {
 		const filteredPosts = allPosts
 			.filter((post) => post.data.tags.includes(tag) && !post.data.draft && new Date(post.data.date) <= new Date())
-			.sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
+			.sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
 
 		return {
 			params: { tag },

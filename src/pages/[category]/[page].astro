@@ -1,5 +1,5 @@
 ---
-import { CollectionEntry, getCollection } from 'astro:content';
+import { type CollectionEntry, getCollection } from 'astro:content';
 import BaseLayout from '~layouts/BaseLayout.astro';
 import PostCard from '~components/PostCard.astro';
 import { SITE_POST_CATEGORIES } from 'src/consts';
@@ -21,7 +21,7 @@ export async function getStaticPaths({ paginate }) {
 			.filter(
 				(post) => post.id.startsWith(`${category}/`) && !post.data.draft && new Date(post.data.date) <= new Date()
 			)
-			.sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
+			.sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
 
 		return paginate(filteredPosts, {
 			props: { meta },

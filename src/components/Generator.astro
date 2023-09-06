@@ -1,6 +1,6 @@
 ---
 import { getEntry } from 'astro:content';
-import Generator from '~components/Generator.svelte';
+import SvelteGenerator from '~components/SvelteGenerator.svelte';
 
 export type Props = {
 	id: string;
@@ -17,4 +17,4 @@ if (generator === undefined) {
 const data = generator.data;
 ---
 
-<Generator {data} client:visible />
+<SvelteGenerator {data} client:visible />

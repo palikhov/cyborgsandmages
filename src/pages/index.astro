@@ -1,9 +1,9 @@
 ---
-import { getEntryBySlug } from 'astro:content';
+import { getEntry } from 'astro:content';
 import SingleLayout from '~layouts/SingleLayout.astro';
 import Aside from '~components/Aside.astro';
 
-const entry = await getEntryBySlug('singles', 'home');
+const entry = await getEntry('singles', 'home');
 const { Content } = await entry.render();
 ---
 
