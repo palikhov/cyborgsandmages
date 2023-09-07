@@ -7,3 +7,7 @@ https://cyborgsandmages.com/
 - Запуск локального сервера: `pnpm dev`
 - Установка зависимостей: `pnpm install`
 - Обновление зависимостей: `pnpm update`
+
+## Создатель чудовищ
+
+Создатель чудовищ https://monstermaker.cyborgsandmages.com/
