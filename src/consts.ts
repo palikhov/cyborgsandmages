@@ -54,6 +54,11 @@ export const SITE_POST_CATEGORIES = [
 
 export const SITE_FRIENDS = [
 	{
+		label: 'Создатель Чудовищ',
+		href: 'https://monstermaker.cyborgsandmages.com/',
+		favicon: 'https://cyborgsandmages.com/favicon.ico'
+	},
+	{
 		label: 'Long Story Short',
 		href: 'https://longstoryshort.app/',
 		favicon: 'https://longstoryshort.app/favicon.ico'
