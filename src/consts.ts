@@ -56,7 +56,7 @@ export const SITE_FRIENDS = [
 	{
 		label: 'Создатель Чудовищ',
 		href: 'https://monstermaker.cyborgsandmages.com/',
-		favicon: 'https://cyborgsandmages.com/favicon.ico'
+		favicon: '/favicon.png'
 	},
 	{
 		label: 'Long Story Short',
