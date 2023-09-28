@@ -180,3 +180,15 @@ export const spelllevel = {
 	eigth: '8-ой',
 	ninth: '9-ый'
 };
+
+export const spellschool = {
+	nec: 'Некромантия',
+	evo: 'Эвокация',
+	div: 'Прорицание',
+	conj: 'Воплощение',
+	tra: 'Трансмутация',
+	ill: 'Иллюзии',
+	abj: 'Преграждение',
+	enc: 'Очарование'
+};
+
