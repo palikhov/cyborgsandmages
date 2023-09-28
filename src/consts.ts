@@ -21,7 +21,7 @@ export const SITE_NAVIGATION = [
 	},
 	{
 		label: 'Sage Advice',
-		href: '/sageadvice/1'
+		href: '/sage-advice/1'
 	},
 	{
 		label: 'Переводы',
