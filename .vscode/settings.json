@@ -5,7 +5,7 @@
 
 	//Editor
 	"editor.codeActionsOnSave": {
-		"source.organizeImports": false
+		"source.organizeImports": "never"
 	},
 	"editor.tabSize": 2,
 	"editor.guides.bracketPairs": "active",
