@@ -182,20 +182,4 @@ const items = defineCollection({
 	})
 });
 
-/* 5E SPELLS */
-const spells = defineCollection({
-	schema: z.object({
-		name: z.string(),
-		source: z.string(),
-		level: z.integer(),
-		school: z.string(),
-		castingtime: z.string(),
-		distance: z.string(),
-		components: z.string(),
-		duration: z.string(),
-		description: z.string(),
-		athigherlevels: z.string().optional()
-	})
-});
-
-export const collections = { singles, posts, generators, creatures, items, spells };
+export const collections = { singles, posts, generators, creatures, items };
