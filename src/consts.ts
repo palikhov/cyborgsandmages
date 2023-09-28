@@ -16,6 +16,14 @@ export const SITE_NAVIGATION = [
 		href: '/core-d20/1'
 	},
 	{
+		label: 'Core d20 RPG',
+		href: '/cored20rpg/1'
+	},
+	{
+		label: 'Sage Advice',
+		href: '/sageadvice/1'
+	},
+	{
 		label: 'Переводы',
 		href: '/translations/1'
 	},
@@ -44,6 +52,16 @@ export const SITE_POST_CATEGORIES = [
 		path: 'core-d20',
 		title: 'Core d20 RPG',
 		description: 'Core d20 RPG — наш проект изменения и расширения D&D 5e.'
+	},
+	{
+		path: 'cored20rpg',
+		title: 'Core d20 RPG',
+		description: 'Core d20 RPG — наш проект изменения и расширения D&D 5e.'
+	},
+	{
+		path: 'sageadvice',
+		title: 'Советы Мудреца от Паланта',
+		description: 'Советы Мудреца здорового человека'
 	},
 	{
 		path: 'srd',
