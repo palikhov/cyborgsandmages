@@ -164,20 +164,20 @@ export const DND_CURRENCY = {
 	pp: 'пм'
 };
 
-export const spelllevel = {
-	cantrip: 'заговор',
-	first: '1-ый',
-	second: '2-ой',
-	third: '3-ий',
-	fourth: '4-ый',
-	fifth: '5-ый',
-	sixth: '6=лй',
-	seventh: '7-ой',
-	eigth: '8-ой',
-	ninth: '9-ый'
+export const DND_SPELL_LEVELS = {
+	0: 'заговор',
+	1: '1-ый',
+	2: '2-ой',
+	3: '3-ий',
+	4: '4-ый',
+	5: '5-ый',
+	6: '6=лй',
+	7: '7-ой',
+	8: '8-ой',
+	9: '9-ый'
 };
 
-export const spellschool = {
+export const DND_SPELL_SCHOOLS = {
 	nec: 'Некромантия',
 	evo: 'Эвокация',
 	div: 'Прорицание',
@@ -187,4 +187,3 @@ export const spellschool = {
 	abj: 'Преграждение',
 	enc: 'Очарование'
 };
-

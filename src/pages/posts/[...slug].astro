@@ -7,6 +7,7 @@ import Generator from '~components/Generator.astro';
 import Creature from '~components/5e/Creature.astro';
 import Item from '~components/5e/Item.astro';
 import Link from '~components/Link.astro';
+import File from '~components/File.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('posts');
@@ -25,6 +26,14 @@ const { Content, headings } = await post.render();
 
 <ArticleLayout {...post} {headings}>
 	<Content
-		components={{ Aside: Aside, Verse: Verse, Link: Link, Creature: Creature, Item: Item, Generator: Generator }}
+		components={{
+			Aside: Aside,
+			Verse: Verse,
+			Link: Link,
+			File: File,
+			Creature: Creature,
+			Item: Item,
+			Generator: Generator
+		}}
 	/>
 </ArticleLayout>

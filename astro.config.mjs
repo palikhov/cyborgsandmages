@@ -7,10 +7,17 @@ import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import Icons from 'unplugin-icons/vite';
 import svelte from '@astrojs/svelte';
 import rehypeMermaid from 'rehype-mermaidjs';
+import vercel from '@astrojs/vercel/static';
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://cyborgsandmages.com',
+	output: 'static',
+	adapter: vercel({
+		webAnalytics: {
+			enabled: true
+		}
+	}),
 	integrations: [
 		svelte(),
 		mdx({

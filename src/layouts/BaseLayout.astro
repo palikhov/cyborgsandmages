@@ -2,7 +2,7 @@
 import '@fontsource-variable/inter';
 import '@fontsource-variable/lora';
 
-import {ViewTransitions} from 'astro:transitions';
+import { ViewTransitions } from 'astro:transitions';
 
 import BaseHead from '~components/BaseHead.astro';
 import Footer from '~components/Footer.astro';
@@ -11,11 +11,6 @@ import Sidebar from '~components/Sidebar.astro';
 
 const { title, description, headings, sidebar = true, links } = Astro.props;
 ---
-
-<script>
-	import { inject } from '@vercel/analytics';
-	inject();
-</script>
 
 <html lang="ru" class="h-full min-h-full bg-brand-night text-brand-ivory">
 	<head>

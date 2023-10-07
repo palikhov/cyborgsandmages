@@ -38,35 +38,33 @@ date: 2023-07-23
 
 [5er20](https://github.com/palikhov/5etoolsR20)
 
-
 [Roll20 DnD 5e macros](https://github.com/palikhov/roll20-dnd-5e-macros)
 
 ---
 
 способ для проверки масс атак
 
-```[[ {?{Number of Attackers}?{Advantage/Disadvantage|Normal,d20|Advantage,t[d20A]|Disadvantage,t[d20D]} + ?{To hit modifiers +|8}}>[[@{target|ac}]] ]]```
+`[[ {?{Number of Attackers}?{Advantage/Disadvantage|Normal,d20|Advantage,t[d20A]|Disadvantage,t[d20D]} + ?{To hit modifiers +|8}}>[[@{target|ac}]] ]]`
 
-и делаешь две роллейбл таблички d20A  и d20D
+и делаешь две роллейбл таблички d20A и d20D
 
 в которых задаешь вероятности для 1-20 для адвантажа и дизадвантажа
 
-
 вариант по вібору ац
 
-```[[ {?{Number of Attackers}?{Advantage/Disadvantage|Normal,d20|Advantage,t[d20A]|Disadvantage,t[d20D]} + ?{To hit modifiers +|8}}>[[?{target  ac}]] ]]```
+`[[ {?{Number of Attackers}?{Advantage/Disadvantage|Normal,d20|Advantage,t[d20A]|Disadvantage,t[d20D]} + ?{To hit modifiers +|8}}>[[?{target  ac}]] ]]`
 
 для того чтобы ссылаться на атак бонус конкретной атаки используй
 
-```@{selected|repeatingattack$0_atkbonus}```
+`@{selected|repeatingattack$0_atkbonus}`
 
-```/me attacking @{target|Enemy|npc_name}!```
+`/me attacking @{target|Enemy|npc_name}!`
 
-```/roll {1d20+@{selected|repeatingattack$0_atkbonus} }>@{target|Enemy|AC}```
+`/roll {1d20+@{selected|repeatingattack$0_atkbonus} }>@{target|Enemy|AC}`
 
-если надо вытащить имя атаки 
+если надо вытащить имя атаки
 
-```@{selected|repeatingattack$0_atkname}```
+`@{selected|repeatingattack$0_atkname}`
 
 ---
 

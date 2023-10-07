@@ -1,5 +1,6 @@
 import { any } from 'astro/zod';
 import { defineCollection, z } from 'astro:content';
+import { DND_SPELL_SCHOOLS, DND_SPELL_LEVELS } from 'src/consts';
 
 /* SINGLE PAGES */
 const singles = defineCollection({
@@ -45,10 +46,9 @@ const posts = defineCollection({
 					})
 				)
 				.optional(),
-				draft: z.boolean().default(false),
-				headings: z.any().optional()
-		}),
-
+			draft: z.boolean().default(false),
+			headings: z.any().optional()
+		})
 });
 
 /* GENERATORS */
@@ -179,6 +179,56 @@ const items = defineCollection({
 		currency: z.enum(['cp', 'sp', 'gp', 'ep', 'pp']).default('gp'),
 		weight: z.number().optional(),
 		property: z.string().optional()
+	})
+});
+
+/* 5E SPELLS */
+const spells = defineCollection({
+	type: 'data',
+	schema: z.object({
+		name: z.string(),
+		source: z.string().optional(),
+		page: z.number(),
+		level: z.nativeEnum(DND_SPELL_LEVELS),
+		school: z.nativeEnum(DND_SPELL_SCHOOLS),
+		time: z.array(
+			z.object({
+				number: z.number(),
+				unit: z.enum(['action', 'bonus', 'reaction', 'minute', 'hour', 'day', 'special'])
+			})
+		),
+		range: z.object({
+			type: z.enum(['point', 'line', 'cone', 'cube', 'sphere', 'hemisphere', 'cylinder', 'plane', 'self']),
+			distance: z.object({
+				type: z.enum(['feet', 'miles', 'sight']),
+				amount: z.number()
+			})
+		}),
+		components: z
+			.object({
+				v: z.boolean().default(false),
+				s: z.boolean().default(false),
+				m:
+					z.object({
+						text: z.string(),
+						consume: z.boolean().default(false),
+						cost: z.number().optional()
+					}) || z.boolean().default(false)
+			})
+			.optional(),
+		duration: z.array(
+			z.object({
+				type: z.enum(['instant', 'timed', 'permanent', 'special']),
+				duration: z
+					.object({
+						type: z.enum(['instant', 'round', 'minute', 'hour', 'day', 'year', 'special']),
+						amount: z.number()
+					})
+					.optional(),
+				concentration: z.boolean().default(false)
+			})
+		),
+		entries: z.string()
 	})
 });
 
