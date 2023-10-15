@@ -18,4 +18,4 @@ https://cyborgsandmages.com/
 
 https://github.com/palikhov/srd-dnd-5e-ru
 
-## надо бы привязать гугл аналитику
+
