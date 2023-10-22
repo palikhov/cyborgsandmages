@@ -28,7 +28,7 @@ tags:
 
 [Часть 7, Сравнение моего подхода и Кобольд Пресс](https://cyborgsandmages.com/posts/articles/economy-dnd-model-7)
 
-[Часть 8](https://cyborgsandmages.com/posts/articles/economy-dnd-model-8)
+[Часть 8, про зелья и свитки](https://cyborgsandmages.com/posts/articles/economy-dnd-model-8)
 
 [Часть 9](https://cyborgsandmages.com/posts/articles/economy-dnd-model-9)
 
@@ -80,6 +80,145 @@ tags:
 | Potion of vitality             | 1000          |
 | Potion of water breathing      | 50            |
 
+## Про определение стоимости Класса Защиты и спасбросков
+
+В [прошлой статье](https://cyborgsandmages.com/posts/articles/economy-dnd-model-3) была произведена оценка стоимости бонуса +1 КЗ и бонуса +1 к спасброскам.
+
+В целом полученные значения, как показывает практика, получились меньшими нежели интуитивно ожидаемые - когда стоимость бонуса к  спасброску выше стоимости бонуса к КЗ который выше стоимости бонуса к попаданию и урону.
+
+Это получилось из-за того, что в стоимости оружия мы напрямую привязались к стоимости заклинания соответствующего круга, а прогрессия стоимости заклинаний является кубической, а в стоимости эффектов бонуса КЗ и спасбросок решили учитывать квадратичную зависимость, что и вышло нам боком.
+
+Что следует изменить?
+
+По нашему мнению, видимо ошибочным было использовать для определения стоимости бонусов к попаданию и урону стоимость заклинания более высокого круга, а следовало также использовать квадратичную зависимость.
+
+Тогда стоимость магического оружия бы составляла (без учета самого оружия):
+
+| Бонус | Стоимость |
+|-------|-----------|
+| 1     | 1600      |
+| 2     | 6400      |
+| 3     | 14400     |
+
+Стоимость бонусов к спасброскам
+
+| Бонус | Стоимость бонуса к спасброскам и броскам попадания | Стоимость бонуса к броскам попадания | Стоимость бонуса к спасброскам |
+|-------|----------------------------------------------------|--------------------------------------|--------------------------------|
+| 1     | 3840                                               | 800                                  | 3040                           |
+| 2     | 15360                                              | 3200                                 | 12160                          |
+| 3     | 34560                                              | 7200                                 | 27360                          |
+
+А для бонуса к Классу защиты
+
+| Бонус к КЗ | Доспехи | Щит   |
+|------------|---------|-------|
+| 1          | 3000    | 1500  |
+| 2          | 12000   | 6000  |
+| 3          | 27000   | 13500 |
+
+Для дополнительного урона мы будем использовать также квадратичную зависимость полученную для базовой стоимости ранее.
+
+| Дополнительный урон | Стоимость |
+|---------------------|-----------|
+| 1к4                 | 1920      |
+| 2к4                 | 7680      |
+| 3к4                 | 17280     |
+
+При увеличении кости урона следует пропорционально увеличить стоимость, т.е. для 1к6 таблица будет иметь следующий вид.
+
+| Дополнительный урон | Стоимость |
+|---------------------|-----------|
+| 1к6                 | 2880      |
+| 2к6                 | 11520     |
+| 3к6                 | 25920     |
+
+И итоговая таблица для различных костей урона.
+
+| Количество костей урона | к4    | к6    | к8    | к10    | к12    |
+|-------------------------|-------|-------|-------|--------|--------|
+| 1                       | 1920  | 2880  | 3840  | 4800   | 5760   |
+| 2                       | 7680  | 11520 | 15360 | 19200  | 23040  |
+| 3                       | 17280 | 25920 | 34560 | 43200  | 51840  |
+| 4                       | 30720 | 46080 | 61440 | 76800  | 92160  |
+| 5                       | 48000 | 72000 | 96000 | 120000 | 144000 |
+
+
+## Про различные варианты прогрессий
+
+В определении стоимости заклинаний мы использовали кубическую степенную зависимость от круга заклинаний.
+
+В определении стоимости эффектов мы использовали квадратичную зависимость от величины эффекта.
+
+В определении стоимости зелий лечения мы использовали квадратичный модификатор для количества исцеляемых хитов.
+
+Есть еще один вид прогрессии, который может быть полезен в построении модели: арифметическая прогрессия нарастающим итогом:
+
+Стоимость эффекта х1 = 1
+
+Стоимость эффекта х2 = 1+2=3
+
+Стоимость эффекта х3 = 1+2+3=6
+
+Стоимость эффекта х4 = 1+2+3+4=10
+
+Стоимость эффекта х 5 = 1+2+3+4+5=15
+
+Стоимость эффекта х 6 = 1+2+3+4+5+6=21
+
+и т.д.
+
+
+
 ---
 
 [Продолжение следует …](https://cyborgsandmages.com/posts/articles/economy-dnd-model-9)
+
+
+1. https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-1
+2. https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-3
+3. https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-5
+4. https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-4
+5. https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-2
+6. https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-6
+7. https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-7
+8. https://eventyrgames.com/2021/05/25/pricing-magic-items-in-5e/.
+9. https://theangrygm.com/how-to-describe-an-item/
+10. https://theangrygm.com/how-to-price-an-item/.
+11. https://theangrygm.com/magical-item-analysis-pregame/
+12. https://theangrygm.com/angrycraft-whats-in-an-item/
+13. https://www.dndbeyond.com/sources/dmg/between-adventures#DowntimeActivities
+14. https://www.dndbeyond.com/sources/erftlw
+15. https://www.dndbeyond.com/sources/phb
+16. https://www.dndbeyond.com/sources/wgte
+17. https://www.kassoon.com/dnd/5e/magic-item-prices/
+18. Wanderer’s Guide to Merchant and Magic by Eventyr Games
+19. Руководство Занатара по всему
+20. https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA
+21. https://dmdavid.com/tag/what-is-the-typical-amout-of-treasure-awarded-in-a-fifth-edition-dungeons-dragons-campaign/
+22. https://www.enworld.org/threads/magic-item-math-of-5e.437937/
+23. https://theangrygm.com/accounting-for-magical-items/
+24. Discerning Merchant's Price Guide
+25. What They Don't Tell You About Magic Items
+26. Tales of Valiant, alpha release
+
+---
+
+[Часть 1, в которой приводился анализ базовых правил пятой редакции](https://cyborgsandmages.com/posts/articles/economy-dnd-model-1)
+
+[Часть 2, в которой наметился подход к формированию цен](https://cyborgsandmages.com/posts/articles/economy-dnd-model-2)
+
+[Часть 3, примеры оценки стоимости волшебных предметов](https://cyborgsandmages.com/posts/articles/economy-dnd-model-3)
+
+[Часть 4, альтернативный подход к ценам создания свитков и услуг заклинателей](https://cyborgsandmages.com/posts/articles/economy-dnd-model-4)
+
+[Часть 5, услуги наемников](https://cyborgsandmages.com/posts/articles/economy-dnd-model-5)
+
+[Часть 6, Tales of Valiant](https://cyborgsandmages.com/posts/articles/economy-dnd-model-6)
+
+[Часть 7, Сравнение моего подхода и Кобольд Пресс](https://cyborgsandmages.com/posts/articles/economy-dnd-model-7)
+
+[Часть 8, про зелья и свитки](https://cyborgsandmages.com/posts/articles/economy-dnd-model-8)
+
+[Часть 9](https://cyborgsandmages.com/posts/articles/economy-dnd-model-9)
+
+[Часть 10](https://cyborgsandmages.com/posts/articles/economy-dnd-model-10)
