@@ -1,7 +1,7 @@
 ---
 title: "[Cityscape] ПРОСТОЙ: ЗАЙДЁМ В ТАВЕРНУ"
 description: 'Фрагмент книги Cityscape про деятельность простоя в городе #cityscape #dnd35 #dnd #town #resource #downtime #tavern'
-date: 2023-10-27 12:00
+date: 2023-10-26 18:00
 tags:
   - cityscape
   - город

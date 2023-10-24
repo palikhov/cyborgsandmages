@@ -1,7 +1,7 @@
 ---
 title: "[Cityscape] 20 ГОРОДСКИХ СОБЫТИЙ"
 description: 'Фрагмент книги Cityscape про 20 городских событий #cityscape #dnd35 #dnd #town #resource #encounter #random'
-date: 2023-10-23 12:00
+date: 2023-10-24 12:00
 tags:
   - cityscape
   - город
