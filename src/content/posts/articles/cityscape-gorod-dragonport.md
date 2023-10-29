@@ -1,6 +1,6 @@
 ---
 title: "[Cityscape] ГОРОД ДРАГОНПОРТ"
-description: 'Фрагмент книги Cityscape про город Драгонпорт #cityscape #dnd35 #dnd #town #resource '
+description: "Фрагмент книги Cityscape про город Драгонпорт #cityscape #dnd35 #dnd #town #resource"
 date: 2023-10-28 12:00
 tags:
   - cityscape
