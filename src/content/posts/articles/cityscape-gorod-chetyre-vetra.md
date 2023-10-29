@@ -1,7 +1,7 @@
 ---
 title: "[Cityscape] ГОРОД ЧЕТЫРЕ ВЕТРА"
-description: 'Фрагмент книги Cityscape про город Четыре Ветра #cityscape #dnd35 #dnd #town #resource '
-date: 2023-10-28 12:00
+description: "Фрагмент книги Cityscape про город Четыре Ветра #cityscape #dnd35 #dnd #town #resource"
+date: "2023-10-28 12:00"
 tags:
   - cityscape
   - город
