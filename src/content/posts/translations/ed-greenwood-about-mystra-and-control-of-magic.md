@@ -8,6 +8,8 @@ tags:
   - Драконы
   - Высшая магия
   - Эд Гринвуд
+  - перевод
+  - translate
 author: Ed Greenwood
 ---
 
