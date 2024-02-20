@@ -22,7 +22,6 @@ export default defineConfig({
 	}),
 	integrations: [
 		svelte(),
-		react(),
 		mdx({
 			remarkRehype: {
 				footnoteLabel: 'Примечания'
@@ -41,7 +40,6 @@ export default defineConfig({
 			syntaxHighlight: false
 		}),
 		tailwind(),
-		keystatic(),
 		sitemap({
 			filter: (page) =>
 				page !== 'https://cyborgsandmages.com/keystatic' && page !== 'https://cyborgsandmages.com/keystatic/'
