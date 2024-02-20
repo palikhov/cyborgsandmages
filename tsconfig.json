@@ -1,23 +1,15 @@
 {
-  "extends": "astro/tsconfigs/strict",
-  "compilerOptions": {
-    "strictNullChecks": true,
-    "baseUrl": "D:/Github/cyborgsandmages",
-    "paths": {
-      "~assets/*": [
-        "src/assets/*"
-      ],
-      "~components/*": [
-        "src/components/*"
-      ],
-      "~layouts/*": [
-        "src/layouts/*"
-      ],
-      "~utils/*": [
-        "src/utils/*"
-      ]
-    },
-    "jsx": "react-jsx",
-    "jsxImportSource": "react"
-  }
+	"extends": "astro/tsconfigs/strict",
+	"compilerOptions": {
+		"strictNullChecks": true,
+		"baseUrl": ".",
+		"paths": {
+			"~assets/*": ["src/assets/*"],
+			"~components/*": ["src/components/*"],
+			"~layouts/*": ["src/layouts/*"],
+			"~utils/*": ["src/utils/*"]
+		},
+		"jsx": "react-jsx",
+		"jsxImportSource": "react"
+	}
 }
