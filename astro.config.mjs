@@ -45,9 +45,7 @@ export default defineConfig({
 		sitemap({
 			filter: (page) =>
 				page !== 'https://cyborgsandmages.com/keystatic' && page !== 'https://cyborgsandmages.com/keystatic/'
-		}),
-		...(process.env.ENABLE_KEYSTATIC ? [keystatic()] : []),
-		,
+		})
 	],
 	vite: {
 		plugins: [
