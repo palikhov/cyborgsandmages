@@ -1,20 +1,20 @@
 import { defineConfig } from 'astro/config';
 
 import Icons from 'unplugin-icons/vite';
-import keystatic from '@keystatic/astro';
+//import keystatic from '@keystatic/astro';
 import mdx from '@astrojs/mdx';
-import react from '@astrojs/react';
+//import react from '@astrojs/react';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import rehypeSlug from 'rehype-slug';
 import sitemap from '@astrojs/sitemap';
 import svelte from '@astrojs/svelte';
 import tailwind from '@astrojs/tailwind';
-import vercel from '@astrojs/vercel/serverless';
+import vercel from '@astrojs/vercel/static';
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://cyborgsandmages.com',
-	output: 'hybrid',
+	output: 'static',
 	adapter: vercel({
 		webAnalytics: {
 			enabled: true
