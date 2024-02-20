@@ -6,13 +6,12 @@ import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import Icons from 'unplugin-icons/vite';
 import svelte from '@astrojs/svelte';
-import rehypeMermaid from 'rehype-mermaidjs';
-import vercel from '@astrojs/vercel/static';
+import vercel from '@astrojs/vercel/serverless';
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://cyborgsandmages.com',
-	output: 'static',
+	output: 'hybrid',
 	adapter: vercel({
 		webAnalytics: {
 			enabled: true
@@ -31,14 +30,6 @@ export default defineConfig({
 					{
 						behavior: 'append',
 						test: ['h2', 'h3']
-					}
-				],
-				[
-					rehypeMermaid,
-					{
-						mermaidConfig: {
-							theme: 'dark'
-						}
 					}
 				]
 			],

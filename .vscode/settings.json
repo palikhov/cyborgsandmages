@@ -1,8 +1,4 @@
 {
-	// Visuals
-	"editor.fontSize": 16,
-	"editor.lineHeight": 1.5,
-
 	//Editor
 	"editor.codeActionsOnSave": {
 		"source.organizeImports": "never"
@@ -44,11 +40,11 @@
 		"editor.defaultFormatter": "astro-build.astro-vscode"
 	},
 	"[markdown]": {
-		"editor.fontSize": 18,
+		"editor.fontSize": 16,
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"[mdx]": {
-		"editor.fontSize": 18,
+		"editor.fontSize": 16,
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"[typescript]": {
