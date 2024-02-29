@@ -73,11 +73,6 @@ export const SITE_FRIENDS = [
 		favicon: '/favicon.png'
 	},
 	{
-		label: 'Перевод SRD 5.1 на русский язык',
-		href: 'https://palikhov.github.io/srd-dnd-5e-ru/',
-		favicon: '/favicon.png'
-	},
-	{
 		label: 'Long Story Short',
 		href: 'https://longstoryshort.app/',
 		favicon: 'https://longstoryshort.app/favicon.ico'
@@ -93,14 +88,14 @@ export const SITE_FRIENDS = [
 		favicon: 'https://dnd.su/favicon.ico'
 	},
 	{
-		label: 'Переклад SRD 5.1',
-		href: 'https://5esrd.kyiv.ua/',
-		favicon: 'https://5esrd.kyiv.ua/public/favicon.ico'
-	},
-	{
 		label: 'D&D в Україні',
 		href: 'https://dnd.in.ua/',
 		favicon: '/images/decoration/ua.svg'
+	},
+	{
+		label: 'Adventure Guys'
+		href: 'https://adventure-girl.vercel.app/'
+		favicon: '/images/decoration/ag.ico'
 	}
 ];
 
