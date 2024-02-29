@@ -93,8 +93,8 @@ export const SITE_FRIENDS = [
 		favicon: '/images/decoration/ua.svg'
 	},
 	{
-		label: 'Adventure Guys'
-		href: 'https://adventure-girl.vercel.app/'
+		label: 'Adventure Guys',
+		href: 'https://adventure-girl.vercel.app/',
 		favicon: '/images/decoration/ag.ico'
 	}
 ];
