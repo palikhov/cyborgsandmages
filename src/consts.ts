@@ -16,12 +16,12 @@ export const SITE_NAVIGATION = [
 		href: '/translations/1'
 	},
 	{
-		label: 'Ресурсы',
-		href: '/resources'
-	},
-	{
 		label: 'Core d20 RPG',
 		href: '/cored20rpg'
+	},
+	{
+		label: 'Ресурсы',
+		href: '/resources'
 	}
 ];
 
