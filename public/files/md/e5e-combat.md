@@ -1,0 +1,184 @@
+---
+title: "E5E &#8212; Сражение"
+date: "2022-05-29"
+categories: 
+  - "e5e"
+tags: 
+  - "5e"
+  - "combat"
+  - "creature"
+  - "e5e"
+  - "homebrew"
+  - "perception"
+  - "spell"
+  - "wordpress-crosspost"
+  - "сражение"
+---
+
+[E5E Complete List of Weapon Properties.docx](https://1drv.ms/w/s!Atcrhwwo1lBA19FhcA_0tR-D7CImiw?e=fWMctk)
+
+* * *
+
+## Ranged Attacks
+
+When you make a ranged attack, you fire a bow or a crossbow, hurl a handaxe, or otherwise send projectiles to strike a foe at a distance. A monster might shoot spines from its tail. Many spells also involve making a ranged attack.
+
+### Range
+
+You can make ranged attacks only against targets within a specified range. If a ranged attack, such as one made with a spell, has a single range, you can’t attack a target beyond this range.
+
+Some ranged attacks, such as those made with a longbow or a shortbow, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has **penalty -5** when your target is beyond normal range, and you can’t attack a target beyond the long range.
+
+## Melee Attacks
+
+Used in hand-to-hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, a warhammer, or an axe. A typical monster makes a melee attack when it strikes with its claws, horns, teeth, tentacles, or other body part. A few spells also involve making a melee attack.
+
+Most creatures have a 5-foot reach and can thus attack targets within 5 feet of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 5 feet, as noted in their descriptions.
+
+Instead of using a weapon to make a melee weapon attack, you can use an unarmed strike: a punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.
+
+## Two-Weapon Fighting
+
+When you take the Attack action and attack with a non-heavy melee weapon that you’re holding in one hand (main hand), you can use a bonus action to attack with a different light weapon that you’re holding in the other hand (off hand). You don’t add your ability modifier to the damage of the bonus attack, unless that modifier is negative. If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
+
+If you have Extra Attack class feature you can make attack with your off-hand weapon as part of Attack action.
+
+### Shield Attacks
+
+When you could attack with a weapon, you can instead choose to bash with a shield. You add your proficiency bonus to the attack roll so long as you are proficient with the shield you use, and your Strength modifier to its damage.
+
+Shields are not considered weapons, so you can still benefit from features like the Dueling fighting style when attacking with a weapon while you have a shield in the other hand. However, because the attack you make with a shield is a melee weapon attack, it \*can\* activate features that activate on weapon attacks, such as Divine Smite.
+
+A magical shield that grants a bonus to your AC when wielded only increases your Armor Class, and does not grant a bonus to attack and damage rolls with the shield unless its description states otherwise.
+
+If a magical shield applies its bonus to both AC and attack and damage rolls, its rarity increases by one level. For example, both a +3 weapon and +3 shield are \*very rare\* items, but a dueling shield that grants a +3 bonus to both AC and attack and damage rolls is a \*legendary\* item.
+
+## Damage Resistance, Vulnerability, Reduction and Threshold
+
+Some creatures and objects are exceedingly difficult or unusually easy to hurt with certain types of damage.
+
+If a creature or an object has **resistance** to a damage type, damage of that type is halved against it. If a creature or an object has **vulnerability** to a damage type, damage of that type is doubled against it.
+
+Resistance and then vulnerability are applied after all other modifiers to damage. For example, a creature has resistance to bludgeoning damage and is hit by an attack that deals 25 bludgeoning damage. The creature is also within a magical aura that reduces all damage by 5. The 25 damage is first reduced by 5 and then halved, so the creature takes 10 damage.
+
+Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example, if a creature has resistance to fire damage as well as resistance to all nonmagical damage, the damage of a nonmagical fire is reduced by half against the creature, not reduced by three-quarters.
+
+Damage threshold
+
+Damage reduction
+
+## Mounted Combat
+
+A willing creature at least one size larger than you with appropriate anatomy can serve as a mount.
+
+### Mounting and Dismounting
+
+During your turn, you can mount a creature within 5 feet of you, or dismount. Doing so costs 15 feet of movement. If an effect moves your mount involuntarily or you are knocked prone while you’re on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet. If your mount is knocked prone, you can use your reaction to dismount as it falls and land on your feet. Otherwise, you fall prone within 5 feet of it.
+
+### Mount Control
+
+While mounted, you can control a mount that has been trained to accept a rider, or allow it to act independently. Intelligent creatures, such as dragons, always act independently. While controlling a mount, you cannot move except to dismount.
+
+Instead, your mount moves both of you as you direct it during your turn, carrying you with it. Your mount can take an action at any time during your turn, but can only Dash, Disengage, or Dodge.
+
+An independent mount retains its place in initiative order. Bearing a rider puts no restrictions on the actions an independent mount takes, and it moves and acts as it wishes.
+
+In either case, if the mount provokes an opportunity attack while you’re on it, the attacker can target you or the mount.
+
+### Saddles and Skills
+
+When your mount takes the Dash action, you must succeed on a DC 10 Strength (Animal Handling) or Dexterity (Animal Handling) check in order to remain on the horse. On a failure, you are knocked prone, falling off the mount as above. If your mount is frightened, the DC of both the check and the saving throw increase by 5.
+
+Certain saddles give bonuses to these checks and saves, as detailed in Part V. Riding bareback imposes disadvantage on all checks and saving throws to remain mounted.
+
+### Underwater Combat
+
+When fighting underwater, you have disadvantage on melee weapon attack rolls unless you use a dagger, javelin, shortspear, harpoon, or trident. You suffer disadvantage even if you use one of those weapons if you do not choose to deal piercing damage.
+
+You can only make a ranged weapon attack if you use a crossbow, net, or harpoon. Any attack beyond a weapon’s normal range misses automatically.
+
+A fully-submerged creature has resistance to fire damage, and vulnerability to lightning damage if it doesn’t have resistance or immunity to lightning damage.
+
+Unless you can breathe underwater, you cannot cast any spell with a Verbal component.
+
+## Conditions
+
+Most conditions are unchanged, but this section includes a few tweaks to make the effects of said conditions less arbitrary and more consistent.
+
+### Exhaustion
+
+Exhaustion works as written, with the following changes:
+
+When your HP drops to 0, you gain a level of exhaustion.
+
+You can remove the first level of exhaustion, and only the first level, at the end of a short rest. If you have two or more levels, you must complete a long rest to remove one.
+
+### Paralyzed
+
+Paralysis works as-written, with the following changes:
+
+The creature automatically fails Strength and Dexterity checks in addition to saving throws.
+
+Any melee attack that hits the creature is a critical hit.
+
+### Petrified
+
+Petrified works as-written, with the following change:
+
+The creature automatically fails Strength and Dexterity checks in addition to saving throws.
+
+### Prone
+
+Prone works as-written, with the following change:
+
+Melee attack rolls against a prone creature are made with advantage.
+
+Ranged attack rolls against the prone creature have disadvantage, unless the attacker is elevated at least 15 feet above the target. Ranged attack rolls also have advantage if the attacker is at least 25 feet above it.
+
+### Stunned
+
+Stunned works as-written, with the following change:
+
+The creature automatically fails Strength and Dexterity checks in addition to saving throws.
+
+### Unconscious
+
+Unconscious works as-written, with the following changes:
+
+Attack rolls against an unconscious creature have advantage, and any melee attack that hits the creature is a critical hit.
+
+The creature automatically fails Strength and Dexterity checks in addition to saving throws.
+
+# Vision
+
+#### Perception Checks
+
+The DM will call for two types of Wisdom (Perception) checks — Short and Long Range checks.
+
+Short Range checks are normally within 60 feet or as far as bring sight extends (such as warlock’s Devil Sight is bright sight of 120 feet). Especially when made indoors, Perception checks are made normally.
+
+Long Range checks involve noticing something outside of 60 feet or as far as visibility extends. By default, all long range checks in dim light are made with disadvantage.
+
+#### Dim Light
+
+Dim light, also shadows, creates a lightly obscured area. An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding Darkness. The soft light of twilight and dawn also counts as dim light. Most creatures can recognize terrain and shapes of objects and individuals they recognize, but cannot notice fine detail.
+
+Your Perception suffers in dim light conditions. You suffer -3 penalty to your Passive Perception and a disadvantage to long range Wisdom (Perception) checks in such conditions. Darkvision allows you to ignore these effects.
+
+###  Darkness
+
+Darkness creates a heavily obscured area. Creatures that face Darkness outdoors at night suffer the Blinded condition unless there’s sufficient moonlight. If the sky is clear, half moon or better conditions provide sufficient moonlight. If the sky is cloudy, waning or waxing gibbous (known as three quarters) moon provides sufficient moonlight. If the sky is overcast, only full moon provides sufficient moonlight. During heavy clouding conditions such as a thunder storm, heavy snowfall or a blizzard, there is no possibility for moonlight.
+
+In outdoor darkness even if there’s sufficient moonlight, creatures that enter solid shadows cast by creatures or structures that are at least two sizes larger than them, appear fully obscured and impossible to target with ranged attacks and spells.
+
+### Perception During Combat
+
+While engaged in combat, every creature suffers a -5 penalty to Passive Perception to notice small changes in the environment, or objects and creatures that are 30 feet or more away as long as the creatures do not take actions that draw attention to them.
+
+[E5E — Сражение](https://cyborgsandmages.com/2022/05/e5e-combat/ "Оригинал статьи.") был опубликован - [Киборги и Чародеи](https://cyborgsandmages.com)
+
+Присоединяйтесь к нашему сообществу в Discord https://discord.com/invite/GcmhsFfxQ5 или Телеграм https://t.me/cyborgs\_and\_mages
+
+Чтобы мы могли продолжать наше дело - вы можете нам помочь: VISA 4149 4390 2039 5731 MASTERCARD 5168 7520 1042 0431 https://www.patreon.com/palikhov https://ko-fi.com/palant
+
+А если можете помочь чем то другим, то не ждите - сразу пишите в комментариях.

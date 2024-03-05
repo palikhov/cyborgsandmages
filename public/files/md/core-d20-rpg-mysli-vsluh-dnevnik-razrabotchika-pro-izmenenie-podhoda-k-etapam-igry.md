@@ -1,0 +1,34 @@
+---
+title: "[Core d20 RPG] Мысли вслух. Дневник разработчика. Про изменение подхода к этапам игры"
+date: "2023-02-11"
+categories: 
+  - "cored20rpg"
+  - "e5e"
+tags: 
+  - "core-d20-rpg"
+  - "e5e"
+---
+
+#cored20rpg #e5e #hazard #peril #threat #tier #challenge #journeyman #adventurer #veteran #champion #hero
+
+ 
+
+В рамках работы над **Исследованием и Путешествиями** для **Core d20 RPG** изменил стандартный подход к созданию угроз. Измененные значения приведены в таблицах ниже.
+
+И первое на что я хочу обратить ваше внимание – это спойлер измененного подхода к этапам игры – в отличие от WoTC я абсолютно уверен что распределение на пять этапов работает гораздо лучше, логичнее и понятнее.
+
+Чтобы определить КС и урон от угроз и опасностей используйте следующими таблицами.
+
+ 
+
+КС и уровень опасности угрозы
+
+<table style="border-collapse:collapse" border="0"><colgroup><col style="width:163px"><col style="width:163px"></colgroup><tbody valign="top"><tr><td style="padding-left: 7px; padding-right: 7px"><strong>Уровень опасности</strong><p></p></td><td style="padding-left: 7px; padding-right: 7px"><p><strong>КС</strong></p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>Нормальный</p></td><td style="padding-left: 7px; padding-right: 7px"><p>10-15</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>Серьёзный</p></td><td style="padding-left: 7px; padding-right: 7px"><p>15-20</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>Смертельный</p></td><td style="padding-left: 7px; padding-right: 7px"><p>20-25</p></td></tr></tbody></table>
+
+Урон в зависимости от уровня
+
+<table style="border-collapse:collapse" border="0"><colgroup><col style="width:86px"><col style="width:99px"><col style="width:99px"><col style="width:85px"><col style="width:103px"></colgroup><tbody valign="top"><tr style="height: 17px"><td style="padding-left: 7px; padding-right: 7px"><strong>Уровень</strong><p></p></td><td style="padding-left: 7px; padding-right: 7px"><p><strong>Этап</strong></p></td><td style="padding-left: 7px; padding-right: 7px"><p><strong>Нормальный</strong></p></td><td style="padding-left: 7px; padding-right: 7px"><p><strong>Серьёзный</strong></p></td><td style="padding-left: 7px; padding-right: 7px"><p><strong>Смертельный</strong></p></td></tr><tr style="height: 17px"><td style="padding-left: 7px; padding-right: 7px"><p>1-4</p></td><td style="padding-left: 7px; padding-right: 7px"><p><span style="color:red">Ученик</span></p></td><td style="padding-left: 7px; padding-right: 7px"><p>1к10</p></td><td style="padding-left: 7px; padding-right: 7px"><p>2к10</p></td><td style="padding-left: 7px; padding-right: 7px"><p>4к10</p></td></tr><tr style="height: 17px"><td style="padding-left: 7px; padding-right: 7px"><p>5-8</p></td><td style="padding-left: 7px; padding-right: 7px"><p><span style="color:red">Авантюрист</span></p></td><td style="padding-left: 7px; padding-right: 7px"><p>2к10</p></td><td style="padding-left: 7px; padding-right: 7px"><p>4к10</p></td><td style="padding-left: 7px; padding-right: 7px"><p>10к10</p></td></tr><tr style="height: 17px"><td style="padding-left: 7px; padding-right: 7px"><p>9-12</p></td><td style="padding-left: 7px; padding-right: 7px"><p><span style="color:red">Ветеран</span></p></td><td style="padding-left: 7px; padding-right: 7px"><p>3к10</p></td><td style="padding-left: 7px; padding-right: 7px"><p>6к10</p></td><td style="padding-left: 7px; padding-right: 7px"><p>14к10</p></td></tr><tr style="height: 17px"><td style="padding-left: 7px; padding-right: 7px"><p>13-16</p></td><td style="padding-left: 7px; padding-right: 7px"><p><span style="color:red">Чемпион</span></p></td><td style="padding-left: 7px; padding-right: 7px"><p>4к10</p></td><td style="padding-left: 7px; padding-right: 7px"><p>10к10</p></td><td style="padding-left: 7px; padding-right: 7px"><p>18к10</p></td></tr><tr style="height: 17px"><td style="padding-left: 7px; padding-right: 7px"><p>17-20</p></td><td style="padding-left: 7px; padding-right: 7px"><p><span style="color:red">Герой</span></p></td><td style="padding-left: 7px; padding-right: 7px"><p>10к10</p></td><td style="padding-left: 7px; padding-right: 7px"><p>18к10</p></td><td style="padding-left: 7px; padding-right: 7px"><p>24к10</p></td></tr></tbody></table>
+
+Названия этапов – все еще временные. Про них детально буду писать и рассказывать когда будем уделять внимание именно работе Мастера.
+
+А пока вот такой спойлер.
