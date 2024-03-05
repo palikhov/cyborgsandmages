@@ -45,24 +45,14 @@ export const SITE_POST_CATEGORIES = [
 		description: 'Переводы статей с других языков.'
 	},
 	{
-		path: 'core-d20',
-		title: 'Core d20 RPG',
-		description: 'Core d20 RPG — наш проект изменения и расширения D&D 5e.'
-	},
-	{
 		path: 'cored20rpg',
 		title: 'Core d20 RPG',
 		description: 'Core d20 RPG — наш проект изменения и расширения D&D 5e.'
 	},
 	{
-		path: 'sage-advice',
-		title: 'Советы Мудреца от Паланта',
-		description: 'Советы Мудреца здорового человека'
-	},
-	{
-		path: 'srd',
-		title: 'Перевод SRD 5.1',
-		description: 'Наш проект по переводу SRD 5.1 - бесплатный игромехачнический движок Подземелий и Драконов'
+		path: 'downloads',
+		title: 'Загрузки',
+		description: 'Загрузки'
 	}
 ];
 
@@ -94,7 +84,7 @@ export const SITE_FRIENDS = [
 	},
 	{
 		label: 'Adventure Guys',
-		href: 'https://adventure-girl.vercel.app/',
+		href: 'https://www.adventureguys.club/',
 		favicon: '/images/decoration/ag.ico'
 	}
 ];
