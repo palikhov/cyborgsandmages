@@ -12,14 +12,6 @@ export const SITE_NAVIGATION = [
 		href: '/articles/1'
 	},
 	{
-		label: 'Core d20',
-		href: '/core-d20/1'
-	},
-	{
-		label: 'Sage Advice',
-		href: '/sage-advice/1'
-	},
-	{
 		label: 'Переводы',
 		href: '/translations/1'
 	},
@@ -28,8 +20,8 @@ export const SITE_NAVIGATION = [
 		href: '/resources'
 	},
 	{
-		label: 'Перевод SRD',
-		href: '/srd/1'
+		label: 'Core d20 RPG',
+		href: '/cored20rpg'
 	}
 ];
 
@@ -50,10 +42,30 @@ export const SITE_POST_CATEGORIES = [
 		description: 'Core d20 RPG — наш проект изменения и расширения D&D 5e.'
 	},
 	{
-		path: 'downloads',
-		title: 'Загрузки',
-		description: 'Загрузки'
-	}
+		path: 'core-d20',
+		title: 'Статьи по Core d20 RPG',
+		description: 'Core d20 RPG — наш проект изменения и расширения D&D 5e.'
+	},
+	{
+		path: 'sage-advice',
+		title: 'Советы Мудреца',
+		description: 'Советы Мудреца'
+	},
+	{
+		path: 'srd',
+		title: 'Перевод SRD',
+		description: 'Перевод SRD'
+	},
+	{
+		path: 'forgotten-realms',
+		title: 'Забытые Королевства',
+		description: 'Забытые Королевства'
+	},
+	{
+		path: 'marwang',
+		title: 'Марванг',
+		description: 'Марванг'
+	},
 ];
 
 export const SITE_FRIENDS = [
