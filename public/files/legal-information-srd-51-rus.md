@@ -1,0 +1,156 @@
+---
+title: "Правовая информация | SRD 5.1"
+date: "2020-09-18"
+categories: 
+  - "srd-translate"
+tags: 
+  - "srd"
+---
+
+Текст SRD распространяется по лицензии Open Gaming License.
+
+Перевод SRD распространяется по лицензии Commons Creative [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru)
+
+* * *
+
+## **Лицензия на текст SRD 5.1**
+
+### **Legal Information**
+
+Permission to copy, modify and distribute the files collectively known as the System Reference Document 5.1 (“SRD5”) is granted solely through the use of the Open Gaming License, Version 1.0a.
+
+This material is being released using the Open Gaming License Version 1.0a and you should read and understand the terms of that license before using this material.
+
+The text of the Open Gaming License itself is not Open Game Content. Instructions on using the License are provided within the License itself.
+
+The following items are designated Product Identity, as defined in Section 1(e) of the Open Game License Version 1.0a, and are subject to the conditions set forth in Section 7 of the OGL, and are not Open Content: Dungeons & Dragons, D&D, Player’s Handbook, Dungeon Master, Monster Manual, d20 System, Wizards of the Coast, d20 (when used as a trademark), Forgotten Realms, Faerûn, proper names (including those used in the names of spells or **items**), places, Underdark, Red Wizard of Thay, the City of Union, Heroic Domains of Ysgard, Ever- Changing Chaos of Limbo, Windswept Depths of Pandemonium, Infinite Layers of the Abyss, Tarterian Depths of Carceri, Gray Waste of Hades, Bleak Eternity of Gehenna, Nine Hells of Baator, Infernal Battlefield of Acheron, Clockwork Nirvana of Mechanus, Peaceable Kingdoms of Arcadia, Seven Mounting Heavens of Celestia, Twin Paradises of Bytopia, Blessed Fields of Elysium, Wilderness of the Beastlands, Olympian Glades of Arborea, Concordant Domain of the Outlands, Sigil, Lady of Pain, Book of Exalted Deeds, Book of Vile Darkness, beholder, gauth, carrion crawler, tanar’ri, baatezu, displacer beast, githyanki, githzerai, mind flayer, illithid, umber hulk, yuan-ti.
+
+All of the rest of the SRD5 is Open Game Content as described in Section 1(d) of the License.
+
+The terms of the Open Gaming License Version 1.0a are as follows:
+
+OPEN GAME LICENSE Version 1.0a
+
+The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc (“Wizards”). All Rights Reserved.
+
+1. Definitions: (a)“Contributors” means the copyright and/or trademark owners who have contributed Open Game Content; (b)“Derivative Material” means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c) “Distribute” means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d)“Open Game Content” means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity. (e) “Product Identity” means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) “Trademark” means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) “Use”, “Used” or “Using” means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. (h) “You” or “Your” means the licensee in terms of this agreement.
+2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.
+3. Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.
+4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non- exclusive license with the exact terms of this License to Use, the Open Game Content.
+5. Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.
+6. Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder’s name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.
+7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
+8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.
+9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.
+10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
+11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
+12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
+13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.
+14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
+15. COPYRIGHT NOTICE.
+
+Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
+
+System Reference Document 5.0 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.
+
+END OF LICENSE
+
+### **ПРАВОВАЯ ИНФОРМАЦИЯ**
+
+Разрешение на копирование, изменение и распространение предоставляется исключительно через использование Открытой Игровой Лицензии, (Версия 1.0а) (Open Gaming License, Version 1.0a).
+
+Данный документ предоставляет доступ к основным правилам и данным, необходимым для создания игрового материала, совместимого с самой популярной в мире настольной ролевой системой.
+
+Данный материал публикуется на основании Открытой Игровой Лицензии (Версия 1.0а), необходимо прочесть и понять условия соглашения этой лицензии перед его использованием.
+
+Сам текст Открытой Игровой Лицензии не является Открытым Игровым Материалом. Инструкции по использованию Лицензии содержатся в самой Лицензии.
+
+Весь остальной текст данного документа является Открытым Игровым Материалом, как описано в разделе 1(d) Лицензии.
+
+Дополнительную информацию об Открытой Игровой Лицензии можно найти на [http://www.opengamingfoundation.org](http://www.opengamingfoundation.org/) или [http://www.wizards.com/d20](http://www.wizards.com/d20).
+
+Условя Соглашения Открытой Игровой Лицензии (Версия 1.0a) следующие:
+
+ОТКРЫТАЯ ИГРОВАЯ ЛИЦЕНЗИЯ (Версия 1.0a) (OPEN GAME LICENSE Version 1.0a)
+
+Нижеследующий текст является собственностью компании Wizards of the Coast, Inc. © 2000 Wizards of the Coast, Inc («Wizards»). Все права защищены.
+
+Определения:
+
+(a) “Авторы Вклада”(«Contributors») означает владельцев авторских прав и/или торговой марки, которые вносят вклад в Открытый Игровой Материал;
+
+(b) “Вторичный Материал” («Derivative Material») означает защищенный авторскими правами материал, включая вторичные работы и переводы (в том числе перевод на другие языки программирования), извлечения, изменение, исправление, дополнение, развитие, усовершенствование, улучшение, компиляцию, сокращение, а равно другие формы, в которых имеющаяся работа может быть переработана, преобразована или адаптирована;
+
+(c) “Распространять”(«Distribute») означает воспроизводить, лицензировать, предоставлять в пользование, продавать, зачитывать по радио, или телевиденью, публично демонстрировать либо распространять иным способом;
+
+(d) “Открытый Игровой Материал”(«Open Game Content») означает игровую механику и включает в себя методы, процедуры, процессы и программы в пределах такого материала, не включает в себя Особенности Продукта, является улучшением прототипа и любого дополнительного материала, явно определенных Авторами Вклада в качестве Открытого Игрового Материала, и означает любую работу, предусмотренную данной Лицензией, включая перевод и вторичные работы согласно закону об авторском праве, но специально исключает Особенности Продукта.
+
+(e) “Особенности Продукта” («Product Identity») означает имена товара и товарной линии, логотипы и идентифицирующие знаки, включая торговую одежду; артефакты; характеры; сюжеты, сюжетные линии, интриги, тематические элементы, диалоги, события, язык, иллюстрации, эмблемы, дизайн, изображения, портреты, форматы, позы, концепции, тематику и графику, фотографии и другие визуальные и звуковые представления; имена и описания героев, персонажей, команд, их портреты и специальные возможности, названия и описания заклинаний и чар; места, локации, окружающую обстановку, существ, снаряжение, магические или сверхъестественные способности или воздействия, логотипы, эмблемы или графическое оформление; и любые другие торговые марки или зарегистрированные торговые марки, явно определенные в качестве Особенностей Продукта владельцем Особенностей Продукта, которые специально исключаются из Открытого Игрового Материала;
+
+(f) “Торговая марка” («Trademark») означает логотипы, имена, знак, символ, лозунг, дизайн, которые использованы Автором Вклада для идентификации себя или своих продуктов или связанных продуктов, вносимых им по Открытой Игровой Лицензии.
+
+(g) “Использовать” («Use», «Used» or «Using») означает использовать, Распространять, копировать, редактировать, форматировать, модифицировать, переводить и иным образом создавать Вторичный Материал из Открытого Игрового Материала.
+
+(h) “Вы” («You» or «Your») означает лицензиата в терминах данного соглашения.
+
+Лицензия: данная Лицензия применяется к любому Открытому Игровому Материалу, который содержит уведомление о том, что Открытый Игровой Материал можно Использовать только в соответствии с условиями соглашения данной Лицензии. Вы должны приложить такое уведомление к любому Открытому Игровому Материалу, который Вы Используете. Никакие условия соглашения не могут быть добавлены к данной Лицензии или изъяты из нее иначе, как описано в самой Лицензии. Никакие другие условия не могут накладываться на Открытый Игровой Материал, распространяемый в соответствии с данной Лицензией.
+
+Предложение и Согласие: Используя Открытый Игровой Материал, Вы тем самым признаете и принимаете условия соглашения данной Лицензии.
+
+Разрешение и Компенсация: В обмен на согласие применять данную Лицензию Авторы Вклада предоставляют Вам бессрочную повсеместную бесплатную не-эксклюзивную лицензию на Открытый Игровой Материал в точном соответствии с условиями соглашения данной Лицензии.
+
+Заявление о полномочиях на свой Вклад: Если Вы вносите первичный материал в качестве Открытого Игрового Материала, то Вы заявляете, что Ваш Вклад является Вашим оригинальным произведением и/или Вы имеете достаточно прав, чтобы передавать права, предоставленные Вам данной Лицензией.
+
+Уведомление об Авторских Правах Лицензии: Вы обязаны изменять в соответствии с новыми данным часть УВЕДОМЛЕНИЯ ОБ АВТОРСКИХ ПРАВАХ данной Лицензии, чтобы включить точный текст УВЕДОМЛЕНИЯ ОБ АВТОРСКИХ ПРАВАХ любого Открытого Игрового Материала, который Вы копируете, изменяете или распространяете, и Вы должны добавить к УВЕДОМЛЕНИЮ ОБ АВТОРСКИХ ПРАВАХ название, дату авторских прав и название держателя авторских прав любого оригинального Открытого Игрового Материала, который Вы Распространяете.
+
+Использование Особенностей Продукта: Вы соглашаетесь не Использовать какие-либо Особенности Продукта, в том числе в виде указания на совместимость, иначе чем путем заключения специального Соглашения для получения лицензии от владельца каждого элемента этих Особенностей Продукта. Вы соглашаетесь не указывать на совместимость или приспособляемость работы, содержащей Открытый Игровой Материал, относительно любой Торговой марки или Зарегистрированной Торговой Марки иначе, чем путем заключения специального Соглашения для получения лицензии от владельца такой Торговой Марки или Зарегистрированной Торговой Марки. Использование любых Особенностей продукта в Открытом Игровом Материале не должно нарушать права собственности владельца этих Особенностей Продукта. Владелец любых Особенностей Продукта, используемых в Открытом Игровом Материале, сохраняет все права и привилегии по отношению к этим Особенностям Продукта.
+
+Идентификация: Если Вы распространяете Открытый Игровой Материал, Вы должны явно указать, какая именно часть распространяемой Вами работы являются Открытым Игровым Материалом.
+
+Обновление Лицензии: компания Wizards или назначенные ею Агенты могут публиковать обновленные версии данной Лицензии. Вы можете использовать любую авторизованную версию данной Лицензии, для того чтобы копировать, изменять и распространять любой Открытый Игровой Материал, изначально распространенный по любой версии этой Лицензии.
+
+Копия данной Лицензии: Вы ОБЯЗАНЫ включить копию данной Лицензии в каждую копию Открытого Игрового Материала, который Вы Распространяете.
+
+Использование Имени Публикатора: Вы не можете продавать или рекламировать Открытый Игровой Материал с использованием имени любого Публикатора, пока не получите на то его письменного разрешения.
+
+Невозможность Выполнения: Если Вы не имеете возможности выполнить какое-либо из условий соглашения этой Лицензии по отношению к части или всему Открытому Игровому Материалу , в силу законодательных актов, решения суда, или постановлений правительства, то Вы не можете Использовать любой Открытый Игровой Материал в указанных пределах.
+
+Прекращение действия: Действие данной Лицензии прекращается автоматически, если Вы не в состоянии выполнять все ее условия соглашения и не сможете исправить нарушение этих условий соглашения в течение 30 дней после того, как узнали о нарушении. Все сублицензии остаются в силе после прекращения действия данной лицензии.
+
+Изменения: Если любое положение данной Лицензии становится неосуществимым, такое положение будет изменено лишь в той степени, чтобы сделать его осуществимым.
+
+УВЕДОМЛЕНИЯ ОБ АВТОРСКИХ ПРАВАХ
+
+Открытая Игровая Лицензия (Версия 1.0a) Copyright 2000, Wizards of the Coast, Inc.
+
+Справочный документ по системе Copyright 2000, Wizards of the Coast, Inc.; Авторы Jonathan Tweet, Monte Cook, Skip Williams, на основе оригинального материала E. Gary Gygax and Dave Arneson.
+
+## **Лицензия на перевод.**
+
+### **Aвторства-Некоммерческая-С сохранением условий 4.0 Международная (CC BY-NC-SA 4.0)**
+
+На этой странице размещено лишь изложенное понятным языком краткое объяснение лицензии, которое не является заменой [ПОЛНОГО ТЕКСТА ЛИЦЕНЗИИ](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). [Оговорка (disclaimer)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru#).
+
+### Вы можете свободно:
+
+- **Делиться (обмениваться)** — копировать и распространять материал на любом носителе и в любом формате
+- **Адаптировать (создавать производные материалы)** — делать ремиксы, видоизменять, и создавать новое, опираясь на этот материал
+
+- Лицензиар не вправе отозвать эти разрешения, пока вы выполняете условия лицензии.
+
+* * *
+
+### **При обязательном соблюдении следующих условий:**
+
+- **Aвторства** — Вы должны обеспечить [соответствующее указание авторства](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru#), предоставить ссылку на лицензию, и [обозначить изменения, если таковые были сделаны](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru#). Вы можете это делать любым разумным способом, но не таким, который подразумевал бы, что лицензиар одобряет вас или ваш способ использования произведения.
+- **«NonCommercial» («Некоммерчески»)** — Вы не вправе использовать этот материал в [коммерческих целях](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru#).
+- **«ShareAlike» («СохранениеУсловий»)** — Если вы перерабатываете, преобразовываете материал или берёте его за основу для производного произведения, вы должны распространять переделанные вами части материала на условиях[той же лицензии](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru#), в соответствии с которой распространяется оригинал.
+
+- **Без дополнительных ограничений** — Вы не вправе применять юридические ограничения или [технологические меры](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru#), создающие другим юридические препятствия в выполнении чего-либо из того, что разрешено лицензией.
+
+* * *
+
+### **Замечания:**
+
+- Вы не обязаны действовать согласно условиям лицензии, если конкретная часть материала находится в общественном достоянии или если такое использование вами материала разрешено согласно применимому [исключению или ограничению авторских прав](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru#).
+- Вам не даётся никаких гарантий. Лицензия может не включать все разрешения, необходимые вам для использования произведения (материала) по вашему замыслу. Например, иные права, такие как [право на обнародование, неприкосновенность частной жизни или неимущественные права](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru#) могут ограничить вашу возможность использовать данный материал.
