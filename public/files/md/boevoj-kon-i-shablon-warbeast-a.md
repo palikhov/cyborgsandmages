@@ -1,0 +1,149 @@
+---
+title: "Боевой конь и шаблон warbeast-а"
+date: "2019-10-12"
+categories: 
+  - "articles"
+tags: 
+  - "monsters"
+  - "warhorse"
+  - "заметки"
+---
+
+### Warbeast template 5e 
+
+**Abilities**: Increase from base creature as follows: Str +3, Dex +0, Con +3, Int +0, Wis +2, Cha +0. 
+
+**Speed**: Same as base creature +10 feet. 
+
+**Hit Dice**: Same as base creature +1. 
+
+**Attacks**: Same as base creature (modified as appropriate for changed Challenge and Strength increase). 
+
+**Damage**: Same as base creature (modified as appropriate for Strength increase). 
+
+**AC**: Same as base creature +2 
+
+**Special** **Traits**: A warbeast retains the special qualities of the base creature and gains the following special trait. 
+
+**Combat** **trained** **Mount** : A rider on a trained warbeast mount gets a advantage on all checks to maintain control or not dropping from saddle. A trained warbeast is proficient with light, medium, and heavy armor. 
+
+**Skills****. A** **warbeast** **receives proficiency in Athletics & Perception skills.** 
+
+**Saves. A** **warbeast** **receives proficiency in Constitution and Wisdom Saving Throws.** 
+
+**Challeng****e**: recalculate as per DMG rules 
+
+_About warhorses in reality -_ [_https://en.wikipedia.org/wiki/Horses\_in\_warfare_](https://en.wikipedia.org/wiki/Horses_in_warfare) 
+
+_About destrier -_ [_https://en.wikipedia.org/wiki/Destrier_](https://en.wikipedia.org/wiki/Destrier) 
+
+http://www.medievalchronicles.com/medieval-battles-wars/medieval-warfare/destrier-war-horse/
+
+http://www.lordsandladies.org/destrier.htm
+
+### Light Warhorse 
+
+Large beast, unaligned 
+
+Armor Class 12 (natural armor) 
+
+Hit Points 26 (3d10 + 9) 
+
+Speed 60 ft. 
+
+<table class=""><tbody><tr><td>STR&nbsp;</td><td>DEX&nbsp;</td><td>CON&nbsp;</td><td>INT&nbsp;</td><td>WIS&nbsp;</td><td>CHA&nbsp;</td></tr><tr><td>16&nbsp;(+3)&nbsp;</td><td>12 (+1)&nbsp;</td><td>17&nbsp;(+3)&nbsp;</td><td>2 (-4)&nbsp;</td><td>12 (+1)&nbsp;</td><td>7 (-2)&nbsp;</td></tr></tbody></table>
+
+Skills: Athletics +5, Perception +3 
+
+Senses: Passive Perception 13 
+
+Languages -- 
+
+Challenge 1/2 (100 XP) 
+
+**Rider** **control.** If rider is nearby, light warhorse has advantage on saving throws against charmed and frightened condition. 
+
+**Combat trained.** Light warhorse is proficient with light and medium armor. Also a rider on heavy warhorse gets a advantage on all checks to maintain control or not dropping from saddle. 
+
+Actions 
+
+Hooves. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage. 
+
+**Possible traits** 
+
+Any light warhorse can have two of those traits. 
+
+Mobile Charge.  After galloping for 20 feet or more, this creature does not provoke attacks of opportunity when moving in or out of range of any enemy. 
+
+Trampling Charge. If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action. 
+
+Endurance. A light warhorse makes Constitution saving throw against exhausted with advantage. 
+
+Run. A light warhorse can make a Dash as bonus action. 
+
+### Heavy Warhorse 
+
+Large beast, unaligned 
+
+Armor Class 12 (natural armor) 
+
+Hit Points 34 (4d10 + 12) 
+
+Speed 50 ft. 
+
+<table class=""><tbody><tr><td>STR&nbsp;</td><td>DEX&nbsp;</td><td>CON&nbsp;</td><td>INT&nbsp;</td><td>WIS&nbsp;</td><td>CHA&nbsp;</td></tr><tr><td>18 (+4)&nbsp;</td><td>12 (+1)&nbsp;</td><td>17&nbsp;(+3)&nbsp;</td><td>2 (-4)&nbsp;</td><td>12 (+1)&nbsp;</td><td>7 (-2)&nbsp;</td></tr></tbody></table>
+
+Skills: Athletics +6, Perception +3 
+
+Senses: Passive Perception 13 
+
+Languages -- 
+
+Challenge 1 (200 XP) 
+
+**Rider control.** If rider is nearby, heavy warhorse has advantage on saving throws against charmed and frightened condition. 
+
+**Heavy Combat Trained.** Heavy warhorse is proficient with light, medium and heavy armor. Also a rider on heavy warhorse gets a advantage on all checks to maintain control or not dropping from saddle. 
+
+**Actions** 
+
+**Hooves.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. 
+
+**Possible traits** 
+
+Any heavy warhorse can have three of those traits. 
+
+**Trampling Charge.** If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action. 
+
+**Mobile Charge.**  After galloping for 20 feet or more, this creature does not provoke attacks of opportunity when moving in or out of range of any enemy. 
+
+**Endurance.** A heavy warhorse makes Constitution saving throw against exhaustion with an advantage. 
+
+**Run.** A heavy warhorse can make a Dash as bonus action. 
+
+### Horse Traits
+
+  
+Nag, broken-down, and average  
+Biter  
+Kicks  
+Steps on feet  
+Won't gallop  
+Chews fences  
+Stops occasionally  
+Rubs against fences  
+Bucks  
+Untrained  
+High-spirited and chargers  
+Bucks  
+Bonejarring  
+Bites  
+Single rider  
+Rears  
+Headstrong  
+Kicks  
+Leaper  
+Knows trick  
+or DM choice\*
+
+- Other possibilities include robust, fleet, fearless, skittish, strong stable, gentle, surefooted, etc

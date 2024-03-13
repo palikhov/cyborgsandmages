@@ -1,0 +1,74 @@
+---
+title: "Грязное дело"
+date: "2020-07-03"
+categories: 
+  - "our-materials"
+tags: 
+  - "creature"
+  - "druid"
+  - "transmute-rock-to-mud"
+  - "traps"
+  - "грязное-дело"
+---
+
+Ловушка, использованная мной в одном подземелье.
+
+Итак, Грязное дело устанавливается в коридоре шириной и высотой 20 футов. Ловушка состоит из нескольких Glyph of Warding:
+
+1. Glyph of Warding с Transmute Rock to Mud
+
+3. Glyph of Warding с Reverse Gravity
+
+5. Glyph of Warding с Dispel Magic
+
+7. Glyph of Warding с Transmute Mud to Rock.
+
+Схема срабатывания:
+
+1. Срабатывает первый глиф: каменный пол под ногами персонажей превращается в грязь и они сначала вязнут, но в этот момент на них падает грязь с потолка - нанося им урон и хороня в грязи.
+
+3. Акт второй: срабатывает второй глиф - меняя направления гравитации и персонажи падают на потолок.... а за ними летит грязь, опять нанося урон и сбивая с ног.
+
+5. Третий акт: Глиф с развеиванием магии отменяет Обратную гравитацию и персонажи падают на пол с потолка и верная грязь летит им на голову.
+
+7. По идее, в этот момент на ногах уже никого не осталось и персонажи погребены в грязи и тут срабатывает 4 глиф - превращая грязь в камень и хороня персонажей.
+
+Как вам эта ловушка, понравилась?
+
+Ее можно развить - добавив глиф с Cloudkill или Incinerating Cloud.
+
+**Transmute Rock**
+
+_5th level transmutation. (Artificer, Artificer (Revisited), Druid, Wizard)_
+
+Casting Time1 action
+
+Range120 feet
+
+ComponentsV, S, M (clay and water)DurationUntil dispelled
+
+Description You choose an area of stone or mud that you can see that fits within a 40-foot cube and is within range, and choose one of the following effects.
+
+**Transmute Rock to Mud**: Nonmagical rock of any sort in the area becomes an equal volume of thick, flowing mud that remains for the spell's duration. The ground in the spell's area becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength saving throw. A creature must also make the saving throw when it moves into the area for the first time on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is restrained, though it can use an action to end the restrained condition on itself by pulling itself free of the mud. If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity saving throw. A creature takes 4d8 bludgeoning damage on a failed……save, or half as much damage on a successful one.
+
+**Transmute Mud to Rock**: Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell's duration. Any creature in the mud when it transforms must make a Dexterity saving throw. On a successful save, a creature is shunted safely to the surface in an unoccupied space. On a failed save, a creature becomes restrained by the rock. A restrained creature, or another creature within reach, can use an action to try to break the rock by succeeding on a DC 20 Strength check or by dealing damage to it. The rock has AC 15 and 25 hit points, and it is immune to poison and psychic damage.
+
+Spell | XGE 169
+
+**Reverse Gravity**
+
+_7th level transmutation. (Druid, Sorcerer, Wizard)_
+
+Casting Time
+
+1 action
+
+Range100 feet
+
+ComponentsV, S, M (a lodestone and iron filings)
+
+DurationConcentration, up to 1 minute
+
+Description This spell reverses gravity in a 50-foot-radius, 100-foot-high cylinder centered on a point within range. All creatures and objects that aren't somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall. If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration. At the end of the duration, affected objects and creatures fall back down.
+
+Spell | PHB 272
