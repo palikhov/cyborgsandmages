@@ -1,12 +1,13 @@
 ---
-title: "Впечатления от OD&amp;D: Боги и жрецы"
+title: "Впечатления от OD&D: Боги и жрецы"
 date: "2022-12-16"
 categories: 
   - "alexandrian"
-  - "переводы"
+  - "translations"
 tags: 
-  - "перевод"
+  - "alexandrian"
   - "justin-alexander"
+  - "translate"
 ---
 
 #alexandrian #odnd #clerics #deities

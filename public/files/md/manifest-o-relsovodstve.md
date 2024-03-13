@@ -3,10 +3,11 @@ title: "Манифест о рельсоводстве"
 date: "2020-08-12"
 categories: 
   - "alexandrian"
-  - "переводы-прочие"
+  - "translations-other"
 tags: 
-  - "перевод"
+  - "alexandrian"
   - "justin-alexander"
+  - "translate"
 ---
 
 Оригинал: [The Railroading Manifesto](https://vk.com/away.php?to=https%3A%2F%2Fthealexandrian.net%2Fwordpress%2F36900%2Froleplaying-games%2Fthe-railroading-manifesto&cc_key=) из блога The AlexandrianВ том значении, о котором пойдет речь, **рельсы получаются тогда, когда ведущий (ГМ) обесценивает выбор игрока с целью достижения предопределенного результата.**

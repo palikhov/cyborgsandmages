@@ -4,8 +4,9 @@ date: "2022-07-24"
 categories: 
   - "alexandrian"
 tags: 
-  - "перевод"
+  - "alexandrian"
   - "justin-alexander"
+  - "translate"
 ---
 
 #alexandrian #justinalexander #translate
