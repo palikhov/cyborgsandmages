@@ -3,11 +3,10 @@ title: "Синдром пострадавшего игрока"
 date: "2020-08-12"
 categories: 
   - "alexandrian"
-  - "our-materials"
+  - "наши-материалы"
 tags: 
-  - "alexandrian"
+  - "перевод"
   - "justin-alexander"
-  - "translate"
 ---
 
 Текст [Justin Alexander](https://vk.com/away.php?to=https://thealexandrian.net/about&cc_key=) от 06 апреля 2020 года

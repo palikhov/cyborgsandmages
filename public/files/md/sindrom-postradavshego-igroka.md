@@ -4,14 +4,13 @@ date: "2020-04-14"
 categories: 
   - "alexandrian"
 tags: 
-  - "alexandrian"
+  - "перевод"
   - "justin-alexander"
-  - "translate"
 ---
 
 Текст [Justin Alexander](https://vk.com/away.php?to=https://thealexandrian.net/about&cc_key=) от 06 апреля 2020 года
 
-![Синдром пострадавшего игрока, изображение №1](https://sun6-13.userapi.com/g8fiBjFTiFvJlZ6XkOpDdGzDSf98SMYiIaGw9A/GOgL0pQFTCU.jpg)
+![Синдром пострадавшего игрока, изображение №1](images/GOgL0pQFTCU.jpg)
 
 В «[Манифесте вождения по рельсам](https://vk.com/away.php?to=https%3A%2F%2Fthealexandrian.net%2Fwordpress%2F36900%2Froleplaying-games%2Fthe-railroading-manifesto)» я рассуждал о том, как рельсы искажают принятие решений со стороны игроков: «Когда вы систематически отнимаете возможность принимать значимые решения \[у игроков\], они перестают принимать их вообще и вместо этого ищут свои рельсы».
 
@@ -53,7 +52,7 @@ tags:
 
 Еще трагичнее то, что этот цикл тоже постоянно идет по нарастающей: если игроков перестает заботить смысл происходящего в игровом мире, то и ДМа это _тоже_ перестает волновать. Все становится лишь пустой в основе своей петлей событий.
 
-![Синдром пострадавшего игрока, изображение №2](https://sun6-13.userapi.com/AY2COctVEQVcEkRyXy7zT-MxOMuK4d1j2Jbe3Q/tQMPr0I-9ns.jpg)
+![Синдром пострадавшего игрока, изображение №2](images/tQMPr0I-9ns.jpg)
 
 _Descent Into Avernus_ – отличный пример для этого. В приключении есть момент, когда персонажи игроков пытаются помочь НИП по имени Лулу вернуть ее память:
 

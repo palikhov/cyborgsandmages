@@ -4,9 +4,8 @@ date: "2022-07-19"
 categories: 
   - "alexandrian"
 tags: 
-  - "alexandrian"
+  - "перевод"
   - "justin-alexander"
-  - "translate"
 ---
 
 Перевод: Станислав Иванов

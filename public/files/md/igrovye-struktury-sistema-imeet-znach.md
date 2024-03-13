@@ -3,11 +3,10 @@ title: "Игровые структуры: Система имеет значе�
 date: "2019-09-11"
 categories: 
   - "alexandrian"
-  - "translations-other"
+  - "переводы-прочие"
 tags: 
-  - "alexandrian"
+  - "перевод"
   - "justin-alexander"
-  - "translate"
 ---
 
 Текст [Justin Alexander](https://vk.com/away.php?to=https://thealexandrian.net/about&cc_key=) от 6 сентября 2019 года

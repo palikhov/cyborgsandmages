@@ -3,13 +3,12 @@ title: "Как готовить модуль – Часть 2"
 date: "2021-08-08"
 categories: 
   - "alexandrian"
-  - "translations"
-  - "translations-other"
+  - "переводы"
+  - "переводы-прочие"
 tags: 
-  - "alexandrian"
   - "dungeons-as-suffering"
+  - "перевод"
   - "justin-alexander"
-  - "translate"
 ---
 
   
