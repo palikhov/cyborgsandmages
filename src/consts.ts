@@ -131,7 +131,8 @@ export const DND_TYPES = {
 	monstrosity: 'монстр',
 	ooze: 'жижа',
 	plant: 'растение',
-	undead: 'нежить'
+	undead: 'нежить',
+	outsider: `планарный`
 };
 
 export const DND_SIZES = {
@@ -178,9 +179,24 @@ export const DND_SPELL_SCHOOLS = {
 	nec: 'Некромантия',
 	evo: 'Эвокация',
 	div: 'Прорицание',
-	conj: 'Воплощение',
+	conj:'Воплощение',
 	tra: 'Трансмутация',
 	ill: 'Иллюзии',
 	abj: 'Преграждение',
 	enc: 'Очарование'
+};
+
+export const DND_CLASSES = {
+	brd: 'Бард',
+	brb: 'Варвар',
+	ftr: 'Боец',
+	clr: 'Клерик',
+	wiz:'Волшебник',
+	rog: 'Плут',
+	wlk: 'Колдун',
+	sorc: 'Чародей',
+	pld: 'Паладин',
+	rgr: 'Рейнджер',
+	drd: 'Друид',
+	mnk: 'Монах',
 };
