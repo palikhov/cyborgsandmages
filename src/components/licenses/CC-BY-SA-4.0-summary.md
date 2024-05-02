@@ -32,4 +32,3 @@ No warranties are given. The license may not give you all of the permissions nec
 [^technological-measures]: The license prohibits application of effective technological measures, defined with reference to Article 11 of the WIPO Copyright Treaty. [More info](https://wiki.creativecommons.org/License_Versions#Application_of_effective_technological_measures_by_users_of_CC-licensed_works_prohibited).
 [^exception-or-limitation]: The rights of users under exceptions and limitations, such as fair use and fair dealing, are not affected by the CC licenses. [More info](https://wiki.creativecommons.org/Frequently_Asked_Questions#Do_Creative_Commons_licenses_affect_exceptions_and_limitations_to_copyright.2C_such_as_fair_dealing_and_fair_use.3F).
 [^publicity-privacy-or-moral-rights]: You may need to get additional permissions before using the material as you intend. [More info](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees).
-
