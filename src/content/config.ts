@@ -234,4 +234,4 @@ const spells = defineCollection({
 
 /* 5E FEATS */
 
-export const collections = { singles, posts, generators, creatures, items };
+export const collections = { singles, posts, generators, creatures, items, spells };
