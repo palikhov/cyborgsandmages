@@ -200,3 +200,4 @@ export const DND_CLASSES = {
 	drd: 'Друид',
 	mnk: 'Монах',
 };
+
