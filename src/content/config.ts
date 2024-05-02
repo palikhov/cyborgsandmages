@@ -226,8 +226,7 @@ const spells = defineCollection({
 					})
 					.optional(),
 				concentration: z.boolean().default(false),
-				combat_concentration: z.boolean().default(false)
-			})
+				})
 		),
 		entries: z.string()
 	})
@@ -235,4 +234,4 @@ const spells = defineCollection({
 
 /* 5E FEATS */
 
-export const collections = { singles, posts, generators, creatures, items, spells };
+export const collections = { singles, posts, generators, creatures, items };
