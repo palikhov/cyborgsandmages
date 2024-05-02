@@ -1,12 +1,12 @@
 ---
-title: "Боевые техники | E5E"
-date: "2022-04-14"
-categories: 
-  - "e5e"
-tags: 
-  - "5e"
-  - "e5e"
-  - "homebrew"
+title: 'Боевые техники | E5E'
+date: '2022-04-14'
+categories:
+  - 'e5e'
+tags:
+  - '5e'
+  - 'e5e'
+  - 'homebrew'
 ---
 
 ## Techniques’ traits
@@ -33,8 +33,8 @@ tags:
 
 **Secret** – only several schools have this technique and it can’t be chosen for Personal Martial Style
 
-* * *
+---
 
 [E5E Complete List of Martial Techniques.docx](https://1drv.ms/w/s!Atcrhwwo1lBA19dWPcQSbHST1H7kRw?e=rnzQGS)
 
-* * *
+---

@@ -1,12 +1,12 @@
 ---
-title: "[Перевод] Случайный совет для Мастера: Так что же мы там делаем?"
-date: "2022-07-03"
-categories: 
-  - "alexandrian"
-  - "переводы-прочие"
-tags: 
-  - "перевод"
-  - "justin-alexander"
+title: '[Перевод] Случайный совет для Мастера: Так что же мы там делаем?'
+date: '2022-07-03'
+categories:
+  - 'alexandrian'
+  - 'переводы-прочие'
+tags:
+  - 'перевод'
+  - 'justin-alexander'
 ---
 
 Текст [Justin Alexander](https://vk.com/away.php?to=https://thealexandrian.net/about&cc_key=) от 19 марта 2022 года

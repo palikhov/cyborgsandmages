@@ -1,11 +1,11 @@
 ---
-title: "Отголоски Красной Войны"
-date: "2018-03-14"
-categories: 
-  - "adventurers-league"
-tags: 
-  - "adventurers-league"
-  - "red-war"
+title: 'Отголоски Красной Войны'
+date: '2018-03-14'
+categories:
+  - 'adventurers-league'
+tags:
+  - 'adventurers-league'
+  - 'red-war'
 ---
 
 Возможно, вы слышали упоминания о какой-то «Красной Войне», про которую судачат в тавернах по всему Фаэруну. Если вы находитесь в замешательстве относительно того, что это за война, то вам не следует читать дальше . Концепция «Красной Войны» началась с объявления войны некоторыми членами Изумрудного Анклава (см. статью о объявлении войны и интервью автора декларации), призывая Альянс Лордов, Арфистов, Жентарим и Орден Перчатки вступить в войну с Тэем, которая является нацией, в основном управляемой волшебниками, открыто практикующей некромантию в массовом порядке, и в течение многих лет Тэй противостоял большей части Фаэруна. Эта декларация вызвала много дискуссий и споров во фракциях, некоторые хотели поддержать декларацию, а некоторые - нет. Это также вызвало ответную декларацию от Мулмастера и Тэя (см. Их ответ здесь), где они осудили заявление и всех, кто поддержал его. На данный момент фракции, по-видимому, считают подписание декларации несанкционированным действием отколовшейся ячейки членов Анклава и официально не поддерживают ее, но в то же время между Тэем  и остальной частью Фаэруна возрастает напряженность. Произошло много встреч, насыщенных горячими речами и холодными раздумьями. В настоящий момент атмосфера во фракциях так и в Фаэруне царит холодная атмосфера, так как ведется  нервная подготовка к весьма  вероятной войне с Тэем, которая все чаще называется Красной войной.
@@ -16,6 +16,6 @@ tags:
 
 <table><tbody><tr><td>Faction</td><td>Facebook</td><td>Discord</td></tr><tr><td>Emerald Enclave</td><td><a href="https://www.facebook.com/groups/DnDALEmeraldEnclave/">https://www.facebook.com/groups/DnDALEmeraldEnclave/</a></td><td><a href="https://discord.gg/ZX5nKAs">https://discord.gg/ZX5nKAs</a></td></tr><tr><td>Harpers</td><td><a href="https://www.facebook.com/groups/141365973227765/">https://www.facebook.com/groups/141365973227765/</a></td><td><a href="https://discord.gg/BMmJXVx">https://discord.gg/BMmJXVx</a></td></tr><tr><td>Lords’ Alliance</td><td><a href="https://www.facebook.com/groups/1493658917597511/">https://www.facebook.com/groups/1493658917597511/</a></td><td><a href="https://discord.gg/7dEd67R">https://discord.gg/7dEd67R</a></td></tr><tr><td>Order of the Gauntlet</td><td><a href="https://www.facebook.com/groups/OrderoftheGauntlet/">https://www.facebook.com/groups/OrderoftheGauntlet/</a></td><td><a href="https://discord.gg/FESKaY2">https://discord.gg/FESKaY2</a></td></tr><tr><td>Zhentarim</td><td><a href="https://www.facebook.com/groups/TheBlackNetworkDDAL/">https://www.facebook.com/groups/TheBlackNetworkDDAL/</a></td><td><a href="https://discord.gg/uKhEWAj">https://discord.gg/uKhEWAj</a></td></tr></tbody></table>
 
- 
+
 
 > Если вы хотите узнать больше о Тэе, подумайте о том, чтобы проверить их страницу вики, где вы можете получить сводку информации о этой стране, список книг для чтения и игр для прохождения. Красные Волшебники Тэя также присутствовали на заднем фоне модулей, экспедиций и кампаний начиная с первого сезона Лиги Авантюристов.

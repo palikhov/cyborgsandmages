@@ -1,26 +1,26 @@
 ---
-title: "Интересные особенности бросков костей для пятой редакции"
-date: "2022-06-10"
-categories: 
-  - "our-materials"
-tags: 
-  - "5e"
-  - "ability-check"
-  - "advantage"
-  - "analysis"
-  - "attack-roll"
-  - "bonus-die"
-  - "die"
-  - "disadvantage"
-  - "e5e"
-  - "expertise"
-  - "expertise-die"
-  - "homebrew"
-  - "roll"
-  - "saving-throw"
-  - "skill-check"
-  - "бросок"
-  - "проверка"
+title: 'Интересные особенности бросков костей для пятой редакции'
+date: '2022-06-10'
+categories:
+  - 'our-materials'
+tags:
+  - '5e'
+  - 'ability-check'
+  - 'advantage'
+  - 'analysis'
+  - 'attack-roll'
+  - 'bonus-die'
+  - 'die'
+  - 'disadvantage'
+  - 'e5e'
+  - 'expertise'
+  - 'expertise-die'
+  - 'homebrew'
+  - 'roll'
+  - 'saving-throw'
+  - 'skill-check'
+  - 'бросок'
+  - 'проверка'
 ---
 
 # Преимущество / Помеха

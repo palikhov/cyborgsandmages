@@ -1,14 +1,14 @@
 ---
-title: "Исследование гексов в 5E – Часть 6: Порядок действий в смену"
-date: "2021-07-29"
-categories: 
-  - "alexandrian"
-  - "переводы"
-tags: 
-  - "dungeons-as-suffering"
-  - "перевод"
-  - "hexcrawl"
-  - "justin-alexander"
+title: 'Исследование гексов в 5E – Часть 6: Порядок действий в смену'
+date: '2021-07-29'
+categories:
+  - 'alexandrian'
+  - 'переводы'
+tags:
+  - 'dungeons-as-suffering'
+  - 'перевод'
+  - 'hexcrawl'
+  - 'justin-alexander'
 ---
 
 Текст Justin Alexander от 23 апреля 2021 года

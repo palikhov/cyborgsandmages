@@ -1,13 +1,13 @@
 ---
-title: "Заметки о рационах: сколько ест авантюрист?"
-date: "2022-06-24"
-categories: 
-  - "krossposty"
-  - "resources"
-  - "articles"
-tags: 
-  - "заметки"
-  - "materials"
+title: 'Заметки о рационах: сколько ест авантюрист?'
+date: '2022-06-24'
+categories:
+  - 'krossposty'
+  - 'resources'
+  - 'articles'
+tags:
+  - 'заметки'
+  - 'materials'
 ---
 
 Это перепост записи. Ссылка на оригинал приведена в конце записи.

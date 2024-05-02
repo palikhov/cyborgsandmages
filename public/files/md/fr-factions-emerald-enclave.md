@@ -1,14 +1,14 @@
 ---
-title: "Организации - Изумрудный Анклав"
-date: "2016-03-21"
-categories: 
-  - "forgottenrealms"
-tags: 
-  - "5e"
-  - "faction"
-  - "forgotten-realms"
-  - "organization"
-  - "wilderness"
+title: 'Организации - Изумрудный Анклав'
+date: '2016-03-21'
+categories:
+  - 'forgottenrealms'
+tags:
+  - '5e'
+  - 'faction'
+  - 'forgotten-realms'
+  - 'organization'
+  - 'wilderness'
 ---
 
 ### [Руководство по фракциям](https://cyborgsandmages.com/factions/)
@@ -21,7 +21,7 @@ tags:
 - [Изумрудный Анклав](https://cyborgsandmages.com/emerald-enclave/)
 - [Орден Латной Перчатки](http://Орден Латной Перчатки)
 
-* * *
+---
 
 > “The Emerald Enclave exists as gatekeepers to that vast space beyond the city walls. We are the defenders of the wilderness and of the society that does not understand it. Most have forgotten that there is an ancient, natural order that existed long before our intellectual concepts of it. To come into contact with that primal order is to touch the power that guides all of life.  
 > “Those who walk the way of the Emerald Enclave are infused with this power; we embody it, and it moves us to do our work. That is why we are never alone. Even in the midst of a noisy, crowded city we can feel the presence of the natural world inside us, fresh, strong, and alive. The Enclave seeks to make awareness of this power available to all.  
@@ -120,7 +120,7 @@ Rolen Naïlon, High Priest of Silvanus
 
 <table><tbody><tr><td>Модуль</td><td>Уровень персонажа</td><td>Ссылка на DMsGuild</td></tr><tr><td>DDEX1-12 Raiders of the Twilight Marsh</td><td>T2: 5-10</td><td>&nbsp;</td></tr><tr><td>DDEX2-14 The Sword of Selfaril</td><td>T2: 5-10</td><td>&nbsp;</td></tr><tr><td>DDEX3-7 Herald of the Moon</td><td>T2: 5-10</td><td>&nbsp;</td></tr><tr><td>DDEX3-16 Assault on Maermydra</td><td>T3: 11-16</td><td>&nbsp;</td></tr><tr><td>DDAL4-14 The Darklord</td><td>T2: 5-10</td><td>&nbsp;</td></tr><tr><td>DDAL5-09 Durlag's Tomb</td><td>T3: 11-16</td><td>&nbsp;</td></tr><tr><td>DDAL5-11 Forgotten Traditions</td><td>T2: 5-10</td><td>&nbsp;</td></tr><tr><td>DDAL5-18 The Mysterious Isle</td><td>T4: 17-20</td><td>&nbsp;</td></tr><tr><td>DDAL5-19 Eye of Xxiphu</td><td>T4: 17-20</td><td>&nbsp;</td></tr><tr><td>DDAL06-00-04 Tales From The Yawning Portal (Hardcover) - White Plume Mountain</td><td>T2: 5-10 (L8)</td></tr><tr><td>DDAL06-01 + Forge of Fury&nbsp;(DM Quest Player's Reward)</td><td>mixed</td><td>TFTYP06-01</td></tr><tr><td>DDAL06-02 + White Plume Mountain&nbsp;(DM Quest Player's Reward)</td><td>mixed</td><td>TFTYP06-02</td></tr><tr><td>DDAL06-03 + Against the Giants&nbsp;(DM Quest Player's Reward)</td><td>mixed</td><td>TFTYP06-03</td></tr><tr><td>DDAL07-07 Rotting Roots</td><td>T2: 5-10</td><td>&nbsp;</td></tr><tr><td>DDAL07-12 In Search of Secrets</td><td>T3: 11-16</td><td>&nbsp;</td></tr></tbody></table>
 
-* * *
+---
 
 ### [Руководство по фракциям](https://adventurersleague.wordpress.com/%d1%84%d1%80%d0%b0%d0%ba%d1%86%d0%b8%d0%b8/)
 
@@ -132,7 +132,7 @@ Rolen Naïlon, High Priest of Silvanus
 - [Изумрудный Анклав](https://adventurersleague.wordpress.com/emerald-enclave/)
 - [Орден Латной Перчатки](https://adventurersleague.wordpress.com/order-of-the-gauntlet/)
 
-* * *
+---
 
 [Emerald Enclave on Adventurers League Wiki](https://adventurersleague.wikia.com/wiki/Emerald_Enclave)
 

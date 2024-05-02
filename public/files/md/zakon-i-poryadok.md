@@ -1,10 +1,10 @@
 ---
-title: "Закон и Порядок."
-date: "2020-07-25"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Закон и Порядок.'
+date: '2020-07-25'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 Перевод отрывка по Глубоководьтю времен 3.5 редакции

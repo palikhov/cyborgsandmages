@@ -1,13 +1,13 @@
 ---
-title: "Варвар  и Шаман из AD&D"
-date: "2021-09-16"
-categories: 
-  - "articles"
-tags: 
-  - "add-2ed"
-  - "barbarian"
-  - "shaman"
-  - "заметки"
+title: 'Варвар  и Шаман из AD&D'
+date: '2021-09-16'
+categories:
+  - 'articles'
+tags:
+  - 'add-2ed'
+  - 'barbarian'
+  - 'shaman'
+  - 'заметки'
 ---
 
 ## Глава 1: Создание персонажа

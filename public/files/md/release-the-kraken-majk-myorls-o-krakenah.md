@@ -1,10 +1,10 @@
 ---
-title: "Release The Kraken! Майк Мёрлс о кракенах"
-date: "2018-04-12"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Release The Kraken! Майк Мёрлс о кракенах'
+date: '2018-04-12'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 Новое видео от D&D Beyond посвящено кракену, одному из самых известных мифологических существ в нашем мире. Майк Мёрлс расскажет, какое место занимают кракены в мультивселенной D&D, а также чем они могут быть интересны.

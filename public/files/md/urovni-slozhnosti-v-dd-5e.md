@@ -1,10 +1,10 @@
 ---
-title: "Уровни сложности в D&D 5e"
-date: "2019-09-17"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubrku"
+title: 'Уровни сложности в D&D 5e'
+date: '2019-09-17'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubrku'
 ---
 
 Никита Станиславский про уровни сложности в D&D 5e

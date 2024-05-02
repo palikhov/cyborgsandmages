@@ -1,17 +1,17 @@
 ---
-title: "[Перевод] — Время простоя и владения (для пятой редакции), ч.27 – Экспедиции"
-date: "2022-07-09"
-categories: 
-  - "hack-and-slash-downtime-and-demesne-5e"
-  - "hackandslashmaster"
-  - "our-materials"
-tags: 
-  - "5e"
-  - "courtny-campbell"
-  - "downtime"
-  - "hackandslash"
-  - "hexcrawl"
-  - "translate"
+title: '[Перевод] — Время простоя и владения (для пятой редакции), ч.27 – Экспедиции'
+date: '2022-07-09'
+categories:
+  - 'hack-and-slash-downtime-and-demesne-5e'
+  - 'hackandslashmaster'
+  - 'our-materials'
+tags:
+  - '5e'
+  - 'courtny-campbell'
+  - 'downtime'
+  - 'hackandslash'
+  - 'hexcrawl'
+  - 'translate'
 ---
 
 [Оглавление](https://cyborgsandmages.com/2022/07/translate-downtime-and-demesne-5e-index/)

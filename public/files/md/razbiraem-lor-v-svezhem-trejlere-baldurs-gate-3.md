@@ -1,10 +1,10 @@
 ---
 title: "Разбираем лор в свежем трейлере Baldur's Gate 3"
-date: "2020-06-17"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+date: '2020-06-17'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 Это репост старой, уже не совсем актуальной статьи, но за авторством великолепного Дмитрия Лаврахуна, поэтому я не смог удержаться.

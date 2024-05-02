@@ -1,15 +1,15 @@
 ---
-title: "[Перевод SRD] Собрание особенностей и действий существ SRD"
-date: "2022-07-03"
-categories: 
-  - "srd-translate"
-tags: 
-  - "5e"
-  - "bestiary"
-  - "srd"
-  - "srd-5-1"
-  - "translate"
-  - "перевод-srd"
+title: '[Перевод SRD] Собрание особенностей и действий существ SRD'
+date: '2022-07-03'
+categories:
+  - 'srd-translate'
+tags:
+  - '5e'
+  - 'bestiary'
+  - 'srd'
+  - 'srd-5-1'
+  - 'translate'
+  - 'перевод-srd'
 ---
 
 Это не совсем перевод, но мастер файл всех особенностей существ из SRD собранные в одном документе.

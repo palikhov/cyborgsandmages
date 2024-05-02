@@ -1,16 +1,16 @@
 ---
-title: "Непроверенная пятая редакция: продвинутый отдых"
-date: "2022-05-24"
-categories: 
-  - "alexandrian"
-  - "переводы-прочие"
-tags: 
-  - "5e"
-  - "dungeons-as-suffering"
-  - "механики-dd-5ed"
-  - "отдых"
-  - "перевод"
-  - "justin-alexander"
+title: 'Непроверенная пятая редакция: продвинутый отдых'
+date: '2022-05-24'
+categories:
+  - 'alexandrian'
+  - 'переводы-прочие'
+tags:
+  - '5e'
+  - 'dungeons-as-suffering'
+  - 'механики-dd-5ed'
+  - 'отдых'
+  - 'перевод'
+  - 'justin-alexander'
 ---
 
 Текст Justin Alexander от 07 января 2022 года

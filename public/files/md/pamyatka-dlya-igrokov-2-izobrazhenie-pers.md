@@ -1,11 +1,11 @@
 ---
-title: "Памятка для игроков #2: Изображение персонажей на игре"
-date: "2022-07-05"
-categories: 
-  - "angry"
-tags: 
-  - "random-encounters"
-  - "translate"
+title: 'Памятка для игроков #2: Изображение персонажей на игре'
+date: '2022-07-05'
+categories:
+  - 'angry'
+tags:
+  - 'random-encounters'
+  - 'translate'
 ---
 
 текст [The Angry GM](https://vk.com/away.php?to=https%3A%2F%2Ftheangrygm.com%2F&cc_key=) от 27 октября 2021 года

@@ -1,10 +1,10 @@
 ---
-title: "Представление вашего персонажа"
-date: "2022-10-23"
-categories: 
-  - "angry"
-tags: 
-  - "translate"
+title: 'Представление вашего персонажа'
+date: '2022-10-23'
+categories:
+  - 'angry'
+tags:
+  - 'translate'
 ---
 
 #tips #advice #angrygm #character #introducing #gm #player #pc #npc #dnd #dnd5e #dnd5 #translate

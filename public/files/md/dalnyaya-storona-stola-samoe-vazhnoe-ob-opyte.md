@@ -1,10 +1,10 @@
 ---
-title: "Дальняя сторона стола: Самое важное об опыте"
-date: "2022-07-25"
-categories: 
-  - "koboldpress"
-tags: 
-  - "translate"
+title: 'Дальняя сторона стола: Самое важное об опыте'
+date: '2022-07-25'
+categories:
+  - 'koboldpress'
+tags:
+  - 'translate'
 ---
 
 #koboldpress

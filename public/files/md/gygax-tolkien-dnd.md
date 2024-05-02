@@ -1,18 +1,18 @@
 ---
-title: "Влияние Дж. Р. Р. Толкина на игры D&D и AD&D"
-date: "2021-01-27"
-categories: 
-  - "articles"
-tags: 
-  - "add1"
-  - "dd-becmi"
-  - "Гэри-Гигакс-e-gary-gygax"
-  - "заметки"
-  - "translate"
+title: 'Влияние Дж. Р. Р. Толкина на игры D&D и AD&D'
+date: '2021-01-27'
+categories:
+  - 'articles'
+tags:
+  - 'add1'
+  - 'dd-becmi'
+  - 'Гэри-Гигакс-e-gary-gygax'
+  - 'заметки'
+  - 'translate'
 ---
 
-Переводчик: drogo\_of\_athas  
-  
+Переводчик: drogo_of_athas
+
 The influence of Tolkien on the D&D and AD&D games
 
 ## Почему Средиземье не является частью игрового мира

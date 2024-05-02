@@ -1,9 +1,7 @@
 import { defineConfig } from 'astro/config';
 
 import Icons from 'unplugin-icons/vite';
-//import keystatic from '@keystatic/astro';
 import mdx from '@astrojs/mdx';
-//import react from '@astrojs/react';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import rehypeSlug from 'rehype-slug';
 import sitemap from '@astrojs/sitemap';
@@ -40,10 +38,7 @@ export default defineConfig({
 			syntaxHighlight: false
 		}),
 		tailwind(),
-		sitemap({
-			filter: (page) =>
-				page !== 'https://cyborgsandmages.com/keystatic' && page !== 'https://cyborgsandmages.com/keystatic/'
-		})
+		sitemap()
 	],
 	vite: {
 		plugins: [

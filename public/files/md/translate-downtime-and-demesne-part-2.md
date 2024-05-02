@@ -1,23 +1,23 @@
 ---
-title: "[Перевод] - Время простоя и владения (для пятой редакции), часть 2 - Сто несносных крестьян"
-date: "2021-08-11"
-categories: 
-  - "hack-and-slash-downtime-and-demesne-5e"
-  - "hackandslashmaster"
-  - "translations-other"
-tags: 
-  - "courtny-campbell"
-  - "downtime"
-  - "hackandslash"
-  - "npc"
-  - "translate"
+title: '[Перевод] - Время простоя и владения (для пятой редакции), часть 2 - Сто несносных крестьян'
+date: '2021-08-11'
+categories:
+  - 'hack-and-slash-downtime-and-demesne-5e'
+  - 'hackandslashmaster'
+  - 'translations-other'
+tags:
+  - 'courtny-campbell'
+  - 'downtime'
+  - 'hackandslash'
+  - 'npc'
+  - 'translate'
 ---
 
 Продолжая перевод Downtime and Demesne.
 
 Напоминаем - если вам понравился этот материал и вы хотите увидеть продолжение - обязательно напишите об этом в комментариях и подпишитесь на наш блог.
 
-* * *
+---
 
 01        Ральф Маклман, фермер-гонгфармер и уборщик улиц, всегда покрытый навозом. Швыряет фекалиями в любого высокомерного дворянина, который осмелится выплеснуть его на дорогу. Гражданские чиновники нуждаются в нем, поскольку он единственный, кто готов выполнять ужасную работу по дому.
 
@@ -223,7 +223,7 @@ tags:
 
 [downtime-and-demesne-100-peasants-ru-v1-11082021](https://cyborgsandmages.files.wordpress.com/2021/08/downtime-and-demesne-100-peasants-ru-v1-11082021.pdf)[Скачать](https://cyborgsandmages.files.wordpress.com/2021/08/downtime-and-demesne-100-peasants-ru-v1-11082021.pdf)
 
-* * *
+---
 
 Продолжение следует ...
 

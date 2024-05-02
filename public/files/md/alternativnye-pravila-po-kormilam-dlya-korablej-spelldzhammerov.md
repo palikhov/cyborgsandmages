@@ -1,11 +1,11 @@
 ---
-title: "Альтернативные правила по кормилам для кораблей спеллджаммеров"
-date: "2022-08-20"
-categories: 
-  - "homebrew"
-  - "spelljammer"
-  - "magic-items-e5e"
-  - "our-materials"
+title: 'Альтернативные правила по кормилам для кораблей спеллджаммеров'
+date: '2022-08-20'
+categories:
+  - 'homebrew'
+  - 'spelljammer'
+  - 'magic-items-e5e'
+  - 'our-materials'
 ---
 
 ### +Малое кормило

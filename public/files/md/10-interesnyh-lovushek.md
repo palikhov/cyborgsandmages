@@ -1,11 +1,11 @@
 ---
-title: "10 интересных ловушек"
-date: "2022-08-22"
-categories: 
-  - "krossposty"
-  - "translations-other"
-tags: 
-  - "translate"
+title: '10 интересных ловушек'
+date: '2022-08-22'
+categories:
+  - 'krossposty'
+  - 'translations-other'
+tags:
+  - 'translate'
 ---
 
 #traps #translate #crosspost

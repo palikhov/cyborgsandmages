@@ -1,8 +1,8 @@
 ---
-title: "Заметки о доспехах"
-date: "2022-08-26"
-categories: 
-  - "krossposty"
+title: 'Заметки о доспехах'
+date: '2022-08-26'
+categories:
+  - 'krossposty'
 ---
 
 _#armor #crosspost_

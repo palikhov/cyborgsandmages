@@ -1,16 +1,16 @@
 ---
-title: "Рулинги на практике: Проверки восприятия"
-date: "2022-06-10"
-categories: 
-  - "alexandrian"
-tags: 
-  - "5e"
-  - "dungeons-as-suffering"
-  - "перевод"
-  - "советы-мастеру"
-  - "justin-alexander"
-  - "perception"
-  - "rulings"
+title: 'Рулинги на практике: Проверки восприятия'
+date: '2022-06-10'
+categories:
+  - 'alexandrian'
+tags:
+  - '5e'
+  - 'dungeons-as-suffering'
+  - 'перевод'
+  - 'советы-мастеру'
+  - 'justin-alexander'
+  - 'perception'
+  - 'rulings'
 ---
 
 Текст Justin Alexander от 9 июля 2018 года

@@ -1,10 +1,10 @@
 ---
-title: "Проверки характеристик (навыков) в пятой редакции – опыт применения"
-date: "2020-09-20"
-categories: 
-  - "our-materials"
-tags: 
-  - "ability-checks"
+title: 'Проверки характеристик (навыков) в пятой редакции – опыт применения'
+date: '2020-09-20'
+categories:
+  - 'our-materials'
+tags:
+  - 'ability-checks'
 ---
 
 ### Основные проверки

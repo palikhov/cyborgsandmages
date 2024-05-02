@@ -1,13 +1,13 @@
 ---
-title: "Руководство по стилю перевода SRD 5.1 / Dungeons and Dragons 5e"
-date: "2022-03-28"
-categories: 
-  - "srd-translate"
-  - "articles"
-tags: 
-  - "guide"
-  - "srd"
-  - "rukovodstvo"
+title: 'Руководство по стилю перевода SRD 5.1 / Dungeons and Dragons 5e'
+date: '2022-03-28'
+categories:
+  - 'srd-translate'
+  - 'articles'
+tags:
+  - 'guide'
+  - 'srd'
+  - 'rukovodstvo'
 ---
 
 Wizards of the Coast давно на Гильдии Мастеров выпустили несколько интересных документов:
@@ -22,29 +22,29 @@ Wizards of the Coast давно на Гильдии Мастеров выпус�
 
 На сайте Dungeons&Dragons.ru также был создано руководство по стилю для своей терминологии.
 
- 
 
- 
+
+
 
 В виду очевидной полезности этого документа он необходим и SRD 5.1 / свободному легальному переводу правил позволяющих играть в D&D.
 
 В первую очередь для создания новых существ в одном стиле.
 
- 
 
- 
+
+
 
 ## Руководство по стилю dungeons.ru
 
-[Dungeons\_ru\_Manual\_of\_Style\_v0\_6\_2\_beta](https://cyborgsandmages.com/wp-content/uploads/2022/03/Dungeons_ru_Manual_of_Style_v0_6_2_beta.pdf)
+[Dungeons_ru_Manual_of_Style_v0_6_2_beta](https://cyborgsandmages.com/wp-content/uploads/2022/03/Dungeons_ru_Manual_of_Style_v0_6_2_beta.pdf)
 
 ## Словарь перевода dungeons.ru
 
-[DnD\_5e\_dictionary\_v1\_3\_1](https://cyborgsandmages.com/wp-content/uploads/2022/03/DnD_5e_dictionary_v1_3_1.pdf)
+[DnD_5e_dictionary_v1_3_1](https://cyborgsandmages.com/wp-content/uploads/2022/03/DnD_5e_dictionary_v1_3_1.pdf)
 
 ## Сравнение перевода dungeons.ru и Hobby World
 
-[Slovar\_terminov\_i\_raznitsa\_v\_ikh\_perevode\_Hobby\_v\_alfavitnom\_1](https://cyborgsandmages.com/wp-content/uploads/2022/03/Slovar_terminov_i_raznitsa_v_ikh_perevode_Hobby_v_alfavitnom_1.pdf)
+[Slovar_terminov_i_raznitsa_v_ikh_perevode_Hobby_v_alfavitnom_1](https://cyborgsandmages.com/wp-content/uploads/2022/03/Slovar_terminov_i_raznitsa_v_ikh_perevode_Hobby_v_alfavitnom_1.pdf)
 
 ## Словарь перевода Киборги и Чародеи
 

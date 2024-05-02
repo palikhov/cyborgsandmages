@@ -1,16 +1,16 @@
 ---
-title: "[Перевод] Случайный совет для Мастера: Формулы описаний"
-date: "2022-03-29"
-categories: 
-  - "alexandrian"
-  - "переводы-прочие"
-tags: 
-  - "dungeons-as-suffering"
-  - "перевод"
-  - "советы-мастеру"
-  - "gm-advices"
-  - "gm-tips"
-  - "justin-alexander"
+title: '[Перевод] Случайный совет для Мастера: Формулы описаний'
+date: '2022-03-29'
+categories:
+  - 'alexandrian'
+  - 'переводы-прочие'
+tags:
+  - 'dungeons-as-suffering'
+  - 'перевод'
+  - 'советы-мастеру'
+  - 'gm-advices'
+  - 'gm-tips'
+  - 'justin-alexander'
 ---
 
 Текст Justin Alexander от 08 февраля 2022 года

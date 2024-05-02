@@ -1,8 +1,8 @@
 ---
-title: "DM Deep Dive: Дизайн монстров вместе с Джереми Кроуфордом"
-date: "2022-08-11"
-categories: 
-  - "translations-other"
+title: 'DM Deep Dive: Дизайн монстров вместе с Джереми Кроуфордом'
+date: '2022-08-11'
+categories:
+  - 'translations-other'
 ---
 
 текст Mike Shea от 29 июля 2019 года
@@ -11,7 +11,7 @@ categories:
 
 Вы можете ознакомиться с видео ниже или же напрямую с Youtube
 
-[https://www.youtube.com/watch?v=F\_0AkLGQ12I](https://www.youtube.com/watch?v=F_0AkLGQ12I)
+[https://www.youtube.com/watch?v=F_0AkLGQ12I](https://www.youtube.com/watch?v=F_0AkLGQ12I)
 
 Вот некоторые заметки из этого интервью.
 

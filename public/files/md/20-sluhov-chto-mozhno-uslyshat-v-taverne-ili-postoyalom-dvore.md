@@ -1,8 +1,8 @@
 ---
-title: "20 слухов что можно услышать в таверне или постоялом дворе"
-date: "2022-07-29"
-categories: 
-  - "our-materials"
+title: '20 слухов что можно услышать в таверне или постоялом дворе'
+date: '2022-07-29'
+categories:
+  - 'our-materials'
 ---
 
 #rumors #tavern #Fantasy #History #rumors #tavern #к20

@@ -1,10 +1,10 @@
 ---
-title: "Зариэль"
-date: "2019-05-10"
-categories: 
-  - "forgottenrealms"
-tags: 
-  - "forgotten-realms"
+title: 'Зариэль'
+date: '2019-05-10'
+categories:
+  - 'forgottenrealms'
+tags:
+  - 'forgotten-realms'
 ---
 
 ## ЛОРДЫ ДЕВЯТИ
@@ -18,7 +18,7 @@ tags:
 Зариэль
 
 > Продолжайте тратить моё время своими бессмысленными словами и умирайте, либо присо¬единяйтесь к моему войску и живите. Выбирайте быстро. Мне ещё план надо завоевать.
-> 
+>
 > Зариэль, обращаясь к эмиссарам с Диса.
 
 Зариэль когда-то была ангелом, но её пылкий нрав и любовь к битвам привела её к падению. В прошлой жизни в её задачи входило следить за битвами на Авернусе и отслеживать их исход. Наблюдая за ними, она стала одержима Войной Крови, и в ней выросла такая жажда битвы, что она же не могла её игнорировать. Со временем её разочаровало, что ей и другим ангелам приходится быть пассивными зрителями в битве демонов и дьяволов. Повелители Горы Селестия, думала она, могли бы спуститься на Авернус всей толпой и стереть обе орды зла с лица мультивселенной, если бы пожелали.
@@ -57,7 +57,7 @@ _Наиболее распространённая теория гласит, ч
 
 Большинство активных цитаделей нависают над Рекой Стикс или окружают порталы на другие планы или на Дис. В каждом из таких мест руководит амнизу, командуя появляющимися из Стикса лемурами, направляя войска против нападающих и пресекая неразрешённые путешествия.
 
-Zariel is the central figure of _Baldur's Gate: Descent into Avernus_. Her pallid, flame-wreathed visage adorns the cover, and her bloodlust and zeal are central to the events of the story. She stands as a villain that could rival [Strahd von Zarovich](https://www.dndbeyond.com/sources/cos/into-the-mists#StrahdvonZarovich) in depth and tragedy, and in significance. There's no doubt that we'll all learn more about Zariel, her past, and her importance to the next D&D storyline throughout the summer. For now, here's a primer on Zariel.
+Zariel is the central figure of *Baldur's Gate: Descent into Avernus*. Her pallid, flame-wreathed visage adorns the cover, and her bloodlust and zeal are central to the events of the story. She stands as a villain that could rival [Strahd von Zarovich](https://www.dndbeyond.com/sources/cos/into-the-mists#StrahdvonZarovich) in depth and tragedy, and in significance. There's no doubt that we'll all learn more about Zariel, her past, and her importance to the next D&D storyline throughout the summer. For now, here's a primer on Zariel.
 
 https://www.youtube.com/watch?time\_continue=1&v=-BRSeZtcXhE
 
@@ -76,26 +76,26 @@ https://www.youtube.com/watch?time\_continue=1&v=-BRSeZtcXhE
 Асмодей сразил Бела и лишил его звания архигерцога и всех сверхъестественных сил, которыми он даровал, и поставил Зариэль правителем Авернуса. Тем не менее, Асмодей признал военную доблесть Бэла и в капризе жестокости назначил его главным лейтенантом Зариэля. Рассерженный Бел служит своей новой верховной герцогине во имя защиты Девяти Адов, но он и его верные союзники замышляют вытеснить ее и вернуть себе покровительство великого Асмодея.
 
 > Мои легионы - единственное, что стоит между твоими драгоценными Семью Небесами и бездонным голодом Бездны. Я не пала в руки зла. Мне пришлось возвысится, чтобы принять на себя космическое бремя.
-> 
+>
 > _Zariel, Archduchess of Avernus, former angel of Celestia_
 
 ## She Who was Imprisoned: A Historiography of Zariel
 
-Zariel first appeared in D&D canon in _A Guide to Hell_ (1999), a late AD&D 2nd edition book written by Chris Pramas and published by Wizards of the Coast, shortly after they acquired Dungeons & Dragons from the bankrupt TSR. While information from sourcebooks of earlier editions of D&D aren't non-canon per se, books from the current edition (like _Mordenkainen's Tome of Foes_) should be considered authoritative. This historiography examines how Zariel was used by developers of editions past, how her motivations and origins have changed or stayed the same, and could even give you some alternate ideas about how to play this most notable of fallen angels.
+Zariel first appeared in D&D canon in *A Guide to Hell* (1999), a late AD&D 2nd edition book written by Chris Pramas and published by Wizards of the Coast, shortly after they acquired Dungeons & Dragons from the bankrupt TSR. While information from sourcebooks of earlier editions of D&D aren't non-canon per se, books from the current edition (like *Mordenkainen's Tome of Foes*) should be considered authoritative. This historiography examines how Zariel was used by developers of editions past, how her motivations and origins have changed or stayed the same, and could even give you some alternate ideas about how to play this most notable of fallen angels.
 
-The Blood War was central to the lore of the Nine Hells and the Abyss, thanks to the influence of Planescape, one of the hallmark campaign settings of 2nd edition AD&D. In this book, Zariel is a central figure in an event known as the Reckoning of Hell, a rebellion in which all eight archdevils who serve Asmodeus betrayed their master. Zariel began the rebellion and the Reckoning saw its birth in Avernus. This rebellion was ultimately unsuccessful, as the archdevil Geryon betrayed the rebels and chose to side with Asmodeus. In the end, Asmodeus proved the victor—yet the Lord of the Nine Hells was capricious and magnanimous in victory. For reasons unknown, he allowed all seven of the renegade archdevils to retain their stations, while Geryon, the only one who had remained loyal to him, was cast down from his position of power. 
+The Blood War was central to the lore of the Nine Hells and the Abyss, thanks to the influence of Planescape, one of the hallmark campaign settings of 2nd edition AD&D. In this book, Zariel is a central figure in an event known as the Reckoning of Hell, a rebellion in which all eight archdevils who serve Asmodeus betrayed their master. Zariel began the rebellion and the Reckoning saw its birth in Avernus. This rebellion was ultimately unsuccessful, as the archdevil Geryon betrayed the rebels and chose to side with Asmodeus. In the end, Asmodeus proved the victor—yet the Lord of the Nine Hells was capricious and magnanimous in victory. For reasons unknown, he allowed all seven of the renegade archdevils to retain their stations, while Geryon, the only one who had remained loyal to him, was cast down from his position of power.
 
 ![](https://media-waterdeep.cursecdn.com/attachments/thumbnails/5/504/350/437/319141_cn.jpg)
 
 This book situates Bel as Lord of Avernus, despite Asmodeus graciously allowing Zariel to retain her position. Bel was Zariel's loyal lieutenant, yet sometime after the Reckoning, Bel overthrew and imprisoned Zariel, and Asmodeus sent a messenger congratulating him on his coup. He siphoned power from Zariel for untold ages, but never gained favor with the Nine Hells' other archdevils. All saw him as "Bel the Pretender," and Asmodeus was pleased to replace the troublesome and scheming Zariel with a mere pit fiend who was too busy serving as a general in the Blood War to meddle in political affairs.
 
-Ultimately, the Zariel presented in _A Guide to Hell_ is much more conniving and scheming than the warmongering and politically averse Zariel we've been exposed to in _Mordenkainen's Tome of Foes_ and at The Descent.
+Ultimately, the Zariel presented in *A Guide to Hell* is much more conniving and scheming than the warmongering and politically averse Zariel we've been exposed to in *Mordenkainen's Tome of Foes* and at The Descent.
 
-Zariel had a few brief mentions throughout the life of 3rd edition D&D in the _Manual of the Planes_ (2001) and _Fiendish Codex II: Tyrants of the Nine Hells_ (2006), but even in these books, Zariel remained Bel's prisoner, and the beleaguered pit fiend remained master of Avernus. Now in fifth edition D&D, Zariel is back. It's unclear how exactly she was freed from Bel's clutches and regained her control over Avernus—or if this element of her story is still canon at all! It's possible that Zariel's imprisonment has been retconned out of existence, and now Bel's relationship to Zariel is merely one of a deposed archdevil allowed to remain her lieutenant.
+Zariel had a few brief mentions throughout the life of 3rd edition D&D in the *Manual of the Planes* (2001) and *Fiendish Codex II: Tyrants of the Nine Hells* (2006), but even in these books, Zariel remained Bel's prisoner, and the beleaguered pit fiend remained master of Avernus. Now in fifth edition D&D, Zariel is back. It's unclear how exactly she was freed from Bel's clutches and regained her control over Avernus—or if this element of her story is still canon at all! It's possible that Zariel's imprisonment has been retconned out of existence, and now Bel's relationship to Zariel is merely one of a deposed archdevil allowed to remain her lieutenant.
 
-Zariel's imprisonment could, however, be viewed as a way to explain her shift in personality between earlier editions and fifth edition. Before, she was just as political and devious as the other archdevils. These days, she's sworn to battle, and has little time for schemes. Being imprisoned and devoured daily by a former lieutenant changes a person, even an archdevil. Zariel may no longer trust _anyone_, leading her to strive to be self-sufficient, and try to shoulder the burden of the entire Blood War herself. 
+Zariel's imprisonment could, however, be viewed as a way to explain her shift in personality between earlier editions and fifth edition. Before, she was just as political and devious as the other archdevils. These days, she's sworn to battle, and has little time for schemes. Being imprisoned and devoured daily by a former lieutenant changes a person, even an archdevil. Zariel may no longer trust *anyone*, leading her to strive to be self-sufficient, and try to shoulder the burden of the entire Blood War herself.
 
-_From_ [Mordenkainen’s Tome of Foes](https://www.dndbeyond.com/sources/mtof/the-blood-war) 
+*From* [Mordenkainen’s Tome of Foes](https://www.dndbeyond.com/sources/mtof/the-blood-war)
 
 ## Культ Зариэль
 

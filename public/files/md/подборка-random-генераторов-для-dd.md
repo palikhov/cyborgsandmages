@@ -1,6 +1,6 @@
 ---
-title: "Подборка random генераторов для D&#038;D"
-date: "2018-07-12"
+title: 'Подборка random генераторов для D&#038;D'
+date: '2018-07-12'
 ---
 
 ### Random Map Generators (Cave, Dungeon, Wilderness)
@@ -23,7 +23,7 @@ I did a post about these bottom three before: [Random Wilderness, Dungeon and Ca
 
 [Curufea’s Random Cave map generator](http://www.curufea.com/games/roguelike/map.php): This might be my new favorite cave generator. The maps looks really good, colored, with variations and they even include extra items like furnishings, lighting, vegetation, water, ladders, and different elevations. [Random Cave Map Creator](http://www.gozzys.com/cave-maps): My favorite Cave, Cavern, Underground Map Generator. Donjon’s below is good too. [Donjon Random Cavern Generator](http://donjon.bin.sh/fantasy/dungeon/cavern.cgi): I still like the Gozzy’s Cave Map Generator above, but this one by Donjon is really cool too. One of the best features is the “Player Map” option. By default this Cavern/Cave Map Generator places numbers in sections for the DM to track encounters, the Player Map prints without these. Options are: Map Style, Grid (None, Square, Hex, VerHex) Cave/Cavern Size (Fine to Colossal, and there’s a Custom Size option to type in as many Rows & Columns you want). They call it Peripheral Egress, but this means how many entrances or exits you want for the cave complex. [Random Wilderness Map Creator](http://www.gozzys.com/wilderness-maps): [http://www.gozzys.com/wilderness-maps](http://www.gozzys.com/wilderness-maps)
 
-* * *
+---
 
 ### NPC Generators
 
@@ -39,7 +39,7 @@ I did a post about these bottom three before: [Random Wilderness, Dungeon and Ca
 
 [NPC Birthing Sacs](https://www.lastgaspgrimoire.com/generators/npc-birthing-sacs/): This is a super weird name, but it’s a really useful generator for creating Non-Player Character with Backgrounds, Names, Motivations, Quirks, Race, Gender, Demeanour, Appearance and more. [Rabble Generator](https://www.lastgaspgrimoire.com/generators/rabble-rouser/): Again, a weird name, but incredibly useful for rolling up many NPCs at once. Just type the number of NPCs you want to generate and it spits out names, brief descriptions, appearance and hit points. This is great for populating a business, tavern, inn, or anywhere you need quick access to several random people.
 
-* * *
+---
 
 ### Shop / Business Generators
 
@@ -52,25 +52,25 @@ I did a post about these bottom three before: [Random Wilderness, Dungeon and Ca
 
 [Donjon Random Inn / Tavern Generator](http://donjon.bin.sh/fantasy/inn/): Choose from Poor, Common or Good Inn and whether the Patrons are Adventurers or Townsfolk. You’re given a Location, Description of the Inn, the name and info about the Innkeeper, a Menu, NPC Patrons and a list of Rumors.
 
-* * *
+---
 
 ### Random Encounter Generators
 
 [Donjon d20 Random Encounter Generator](http://donjon.bin.sh/d20/encounter/): Choose the Encounter Level, Plane (Prime Material, Abyssal, or Infernal), Climate and Terrain. Their encounter creator also includes the Actual Encounter Level (EL) and an Experience Point (XP) Calculator based on the number of Player Characters (PCs), and their Levels. [Donjon Pathfinder Random Encounter Generator](http://donjon.bin.sh/pathfinder/encounter/): Choose the Pathfinder Encounter Level, Plane, Climate (Cold, Temperate, Warm) and Terrain (Aquatic, Desert, Forest, Hill, Marsh, Mountain, Plain, Underground). Their Pathfinder encounter creator also includes the Actual Encounter Level (EL) and a Pathfinder Experience Point (XP) Calculator based on the number of Player Characters (PCs), and their Levels. [Donjon D&D 4th Edition (4E) Random Encounter Generator](http://donjon.bin.sh/4e/encounter/): Choose the 4th Edition Encounter Level, Plane (Mortal World, Abyss, Astral Sea, Elemental Chaos, Feywild, Nine Hells, Shadowfell), Climate and Terrain. Their encounter creator also includes the Actual Encounter Level (EL) and an Experience Point (XP) Calculator based on the number of 4th Edition Player Characters (PCs), and their Levels. [Donjon D&D 5th Edition (5E) Random Encounter Generator](http://donjon.bin.sh/5e/random/#type=encounter;n_pc=4;level=1;difficulty=any;environment=Underdark): Choose the Encounter Level, Number of 5th Edition (5E) PC’s, the Encounter Difficult Level (Any, Easy, Medium, Hard or Deadly) and the Environment (Too many to list!). The Generator will spit ou ten 5E Encounters to choose from, including the 5th Edition Experience Point total based on the Player Characters you input. [Donjon Fantasy Random Encounter Generator](http://donjon.bin.sh/fantasy/random/#type=encounter;enc-type=Dungeon): This is a system agnostic (any fantasy role playing game) generator. There are no game stats, just encounters you can use. Choose random encounters In a Dungeon, on the Road, at Sea, in the Wilderness or in Town. [Text Based Random Dungeon Adventure Generator](https://d20.pub/resources/dungeon-or-adventure-generator/): This creates a dungeon with only text and no map, but it’s detailed and is a great way to get inspiration for a Narrator / Dungeon Master.
 
-* * *
+---
 
 ### Trap Generators
 
 [Donjon Trap Random Generator](http://donjon.bin.sh/d20/random/#type=trap;cr=CR%201): Creates the trap’s name, challenge rating (CR) which you can adjust from CR 1 to CR 20, the trigger type, its reset, the effect/damage including Difficulty Class (DC) levels for any saves pertaining to the trap and Search / Disable Device DCs.
 
-* * *
+---
 
 ### Random Weather Generator
 
 [Donjon Random Weather Generator](http://donjon.bin.sh/d20/weather/): Climate, Season and Supernatural effect selections gives you a Description, Temperature, High and Low temperatures then Wind Force and Wind Speed.
 
-* * *
+---
 
 ### Advanced Generators
 

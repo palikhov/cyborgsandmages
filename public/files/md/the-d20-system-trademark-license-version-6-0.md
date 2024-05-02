@@ -1,8 +1,8 @@
 ---
-title: "The D20 System Trademark License version 6.0"
-date: "2022-12-29"
-categories: 
-  - "resources"
+title: 'The D20 System Trademark License version 6.0'
+date: '2022-12-29'
+categories:
+  - 'resources'
 ---
 
 #wotc #d20 #license

@@ -1,14 +1,14 @@
 ---
-title: "Системный разбор: WORLDS WITHOUT NUMBER и пятая редакция D&D"
-date: "2022-06-10"
-categories: 
-  - "translations-other"
-tags: 
-  - "5e"
-  - "dungeons-as-suffering"
-  - "worlds-without-number"
-  - "wwn"
-  - "translate"
+title: 'Системный разбор: WORLDS WITHOUT NUMBER и пятая редакция D&D'
+date: '2022-06-10'
+categories:
+  - 'translations-other'
+tags:
+  - '5e'
+  - 'dungeons-as-suffering'
+  - 'worlds-without-number'
+  - 'wwn'
+  - 'translate'
 ---
 
 **Текст** AARON MARKS от **MARCH 31, 2021**

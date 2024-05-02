@@ -1,8 +1,8 @@
 ---
-title: "[D&D 3.5] Как класс - рейнджер"
-date: "2022-12-29"
-categories: 
-  - "translations-other"
+title: '[D&D 3.5] Как класс - рейнджер'
+date: '2022-12-29'
+categories:
+  - 'translations-other'
 ---
 
 #class #dnd35 #ranger #playeradvice #playertips

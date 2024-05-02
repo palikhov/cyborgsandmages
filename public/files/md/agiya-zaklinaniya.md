@@ -1,12 +1,12 @@
 ---
-title: "[Core d20 RPG] Магия. Заклинания"
+title: '[Core d20 RPG] Магия. Заклинания'
 description: Описания новых заклинаний для D&D
-date: "2023-02-11"
-tags: 
-  - "Core D20 RPGs"
-  - "e5e"
-  - "magic"
-  - "spell"
+date: '2023-02-11'
+tags:
+  - 'Core D20 RPGs'
+  - 'e5e'
+  - 'magic'
+  - 'spell'
 ---
 
 **Анимированная кровь**

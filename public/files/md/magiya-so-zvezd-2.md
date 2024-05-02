@@ -1,10 +1,10 @@
 ---
-title: "Магия со звезд"
-date: "2022-08-07"
-categories: 
-  - "spelljammer"
-tags: 
-  - "translate"
+title: 'Магия со звезд'
+date: '2022-08-07'
+categories:
+  - 'spelljammer'
+tags:
+  - 'translate'
 ---
 
 Лавка Аладина

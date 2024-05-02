@@ -1,12 +1,12 @@
 ---
-title: "Добро и зло на Фаэруне"
-date: "2018-03-13"
-categories: 
-  - "adventurers-league"
-  - "homebrew"
-  - "forgottenrealms"
-tags: 
-  - "forgotten-realms"
+title: 'Добро и зло на Фаэруне'
+date: '2018-03-13'
+categories:
+  - 'adventurers-league'
+  - 'homebrew'
+  - 'forgottenrealms'
+tags:
+  - 'forgotten-realms'
 ---
 
 Добро и зло на Фаэруне

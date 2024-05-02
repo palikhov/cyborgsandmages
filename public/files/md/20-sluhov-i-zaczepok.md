@@ -1,12 +1,12 @@
 ---
-title: "20 слухов и зацепок"
-date: "2022-07-29"
-categories: 
-  - "resources"
-  - "advices"
-tags: 
-  - "generatory"
-  - "dm-tips"
+title: '20 слухов и зацепок'
+date: '2022-07-29'
+categories:
+  - 'resources'
+  - 'advices'
+tags:
+  - 'generatory'
+  - 'dm-tips'
 ---
 
 #rumors #tavern #Fantasy #History #rumors #tavern #d20

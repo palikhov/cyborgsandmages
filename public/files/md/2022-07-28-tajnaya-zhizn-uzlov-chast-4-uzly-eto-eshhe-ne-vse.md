@@ -1,14 +1,14 @@
 ---
-title: "Тайная жизнь узлов – Часть 4: Узлы – это еще не все"
-date: "2022-07-28"
-categories: 
-  - "alexandrian"
-tags: 
-  - "alexandrian"
-  - "justin-alexander"
-  - "translate"
-  - "dm-tips"
-  - "syuzhetnye-uzly"
+title: 'Тайная жизнь узлов – Часть 4: Узлы – это еще не все'
+date: '2022-07-28'
+categories:
+  - 'alexandrian'
+tags:
+  - 'alexandrian'
+  - 'justin-alexander'
+  - 'translate'
+  - 'dm-tips'
+  - 'syuzhetnye-uzly'
 ---
 
 #node #translate #alexandrian #justinalexander

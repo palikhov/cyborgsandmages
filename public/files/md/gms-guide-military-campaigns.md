@@ -1,11 +1,10 @@
 ---
-title: "GM’s Guide: Military Campaigns"
-date: "2018-12-09"
-categories: 
-  - "our-materials"
+title: 'GM’s Guide: Military Campaigns'
+date: '2018-12-09'
+categories:
+  - 'our-materials'
 ---
 
-  
 Posted on July 18, 2017 by Imperium Romanum  
 Building Military Campaigns  
 As you might expect, a military campaign involves a lot of mass combats. Although mysteries, dungeon crawls, and wilderness adventures all come up occasionally, mass combats will be the plurality, if not the majority, of a military campaign. As such, this is a campaign type for people who like to fight major wars and build large empires almost exclusively. For those who like world domination but also want to be closer to the action and/or roleplay more often (not to say that military campaigns are devoid of roleplay, but it does become more rare as the amount of combat skyrockets), a sphere of influence campaign might work better.

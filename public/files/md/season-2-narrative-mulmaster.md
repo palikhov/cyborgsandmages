@@ -1,15 +1,15 @@
 ---
-title: "Season 2 Narrative - Mulmaster"
-date: "2018-04-01"
-categories: 
-  - "adventurers-league"
-  - "homebrew"
-  - "forgottenrealms"
-tags: 
-  - "forgotten-realms"
+title: 'Season 2 Narrative - Mulmaster'
+date: '2018-04-01'
+categories:
+  - 'adventurers-league'
+  - 'homebrew'
+  - 'forgottenrealms'
+tags:
+  - 'forgotten-realms'
 ---
 
-\[caption id="attachment\_970" align="aligncenter" width="6000"\]![925821-4550_Mulmaster_-_20170104_v1.01_pre-Devastation](https://adventurersleague.files.wordpress.com/2018/04/925821-4550_mulmaster_-_20170104_v1-01_pre-devastation.png) Карта Мулмастера по состоянию на 1489 ЛД (до разрушений) - версия администраторов Лиги\[/caption\] \[caption id="attachment\_974" align="aligncenter" width="1024"\]![MulmasterV2_2_zpspyt3s2ah](https://adventurersleague.files.wordpress.com/2018/04/mulmasterv2_2_zpspyt3s2ah.jpg) Карта Мулмастера, составленная игроками, по состоянию на 1489 ЛД\[/caption\] \[caption id="attachment\_971" align="alignnone" width="1148"\]![Mulmaster Map - Imgur](https://adventurersleague.files.wordpress.com/2018/04/mulmaster-map-imgur.png) Карта Мулмастера, версия 2 по состоянию на 1489 ЛД\[/caption\] \[caption id="attachment\_986" align="aligncenter" width="1308"\]![MulmasterV1](https://cyborgsandmages.com/wp-content/uploads/2018/04/mulmasterv1.jpg) Первая итерация карты Мулмастера, составленной игроками\[/caption\] Originally established as a trading-post, MULMASTER and its oppressed people are now ruled by a council of sixteen people known as BLADES who represent and further the interests of the city's NOBLE LORDS under the guidance of HIGH BLADE JASEEN DRAKEHORN. The High Blade relies heavily upon organizations such as CLOAKS, HAWKS, and THE SOLDIERY to maintain her control over the city; punishing MULMASTERITES bold (or foolish) enough to defy her edicts with exile, torture and death. At the lowest level, the CITY WATCH is charged with maintaining order within the city, but is regarded as little more than a band of government-sanctioned bullies. Above them all, the church of BANE holds sway in Mulmaster, and the High Blade and those loyal to her demonstrate their loyalty to the newly-returned god of Tyranny--all at the expense of its people. But try as she might, the High Blade's grip on the city is threatened. The mysterious RED WIZARDS OF THAY maintain an embassy within the city, REFUGEES from the recently-sacked town of PHLAN to the north stress the city's food stores, and even rumors surrounding the possible return of the former High Blade, SELFARIL UOUMDOLPHIN, are whispered in the darker parts of the city. All of these troubles, however, pale in comparison to the true threat to Mulmaster. The CULTS OF ELEMENTAL EVIL have taken up root within the city's walls and the city rots from within. Together and in opposition to one another, the cults vie for the creation of DEVASTATION ORBS, created by profane rituals at ELEMENTAL NODES. Once detonated, these orbs will unleash disaster on Mulmaster to a degree never before imagined.
+\[caption id="attachment_970" align="aligncenter" width="6000"\]![925821-4550_Mulmaster_-_20170104_v1.01_pre-Devastation](https://adventurersleague.files.wordpress.com/2018/04/925821-4550_mulmaster_-_20170104_v1-01_pre-devastation.png) Карта Мулмастера по состоянию на 1489 ЛД (до разрушений) - версия администраторов Лиги\[/caption\] \[caption id="attachment_974" align="aligncenter" width="1024"\]![MulmasterV2_2_zpspyt3s2ah](https://adventurersleague.files.wordpress.com/2018/04/mulmasterv2_2_zpspyt3s2ah.jpg) Карта Мулмастера, составленная игроками, по состоянию на 1489 ЛД\[/caption\] \[caption id="attachment_971" align="alignnone" width="1148"\]![Mulmaster Map - Imgur](https://adventurersleague.files.wordpress.com/2018/04/mulmaster-map-imgur.png) Карта Мулмастера, версия 2 по состоянию на 1489 ЛД\[/caption\] \[caption id="attachment_986" align="aligncenter" width="1308"\]![MulmasterV1](https://cyborgsandmages.com/wp-content/uploads/2018/04/mulmasterv1.jpg) Первая итерация карты Мулмастера, составленной игроками\[/caption\] Originally established as a trading-post, MULMASTER and its oppressed people are now ruled by a council of sixteen people known as BLADES who represent and further the interests of the city's NOBLE LORDS under the guidance of HIGH BLADE JASEEN DRAKEHORN. The High Blade relies heavily upon organizations such as CLOAKS, HAWKS, and THE SOLDIERY to maintain her control over the city; punishing MULMASTERITES bold (or foolish) enough to defy her edicts with exile, torture and death. At the lowest level, the CITY WATCH is charged with maintaining order within the city, but is regarded as little more than a band of government-sanctioned bullies. Above them all, the church of BANE holds sway in Mulmaster, and the High Blade and those loyal to her demonstrate their loyalty to the newly-returned god of Tyranny--all at the expense of its people. But try as she might, the High Blade's grip on the city is threatened. The mysterious RED WIZARDS OF THAY maintain an embassy within the city, REFUGEES from the recently-sacked town of PHLAN to the north stress the city's food stores, and even rumors surrounding the possible return of the former High Blade, SELFARIL UOUMDOLPHIN, are whispered in the darker parts of the city. All of these troubles, however, pale in comparison to the true threat to Mulmaster. The CULTS OF ELEMENTAL EVIL have taken up root within the city's walls and the city rots from within. Together and in opposition to one another, the cults vie for the creation of DEVASTATION ORBS, created by profane rituals at ELEMENTAL NODES. Once detonated, these orbs will unleash disaster on Mulmaster to a degree never before imagined.
 
 ## Elemental Evil: Mulmaster
 
@@ -84,8 +84,8 @@ portions of the city have fallen into ruin, including Feljack's Hall; the former
 
 - Maskyr's Eye. A village located on the North road between Mulmaster and Kurth. Originally founded by the archmage Maskyr, the vale where he settled, was claimed by the dwarves of Roldilar. Thinking that the mage would refuse the offer, the Deep King Stonebeard offered the vale to Maskyr if the mage would pluck out his right eye; which Maskyr did without hesitation. True to his word, the Deep King declared the vale the realm of Maskyr's domain and no dwarf has laid claim to it since.
 
- 
 
-* * *
 
-  [Mulmaster on Adventurers League Wiki](https://adventurersleague.wikia.com/wiki/Mulmaster) [Mulmaster on Forgotten Realms Wiki](https://forgottenrealms.wikia.com/wiki/Mulmaster) [Mulmaster on Aerie Wiki](http://wiki.aerie.ru/wiki/%D0%9C%D1%83%D0%BB%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80)
+---
+
+[Mulmaster on Adventurers League Wiki](https://adventurersleague.wikia.com/wiki/Mulmaster) [Mulmaster on Forgotten Realms Wiki](https://forgottenrealms.wikia.com/wiki/Mulmaster) [Mulmaster on Aerie Wiki](http://wiki.aerie.ru/wiki/%D0%9C%D1%83%D0%BB%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80)

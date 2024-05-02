@@ -1,8 +1,8 @@
 ---
-title: "Прочие конфигурации кораблей"
-date: "2022-07-25"
-categories: 
-  - "spelljammer-ships"
+title: 'Прочие конфигурации кораблей'
+date: '2022-07-25'
+categories:
+  - 'spelljammer-ships'
 ---
 
 **#spelljammer #ship #other-configuration #bombard #firefly #adnd**

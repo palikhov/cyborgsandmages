@@ -1,16 +1,14 @@
 ---
-title: "Рулинги на практике: Проверки рассудка"
-date: "2022-07-29"
-categories: 
-  - "alexandrian"
-tags: 
-  - "перевод"
-  - "justin-alexamder"
-  - "justin-alexander"
-  - "rulings"
+title: 'Рулинги на практике: Проверки рассудка'
+date: '2022-07-29'
+categories:
+  - 'alexandrian'
+tags:
+  - 'перевод'
+  - 'justin-alexamder'
+  - 'justin-alexander'
+  - 'rulings'
 ---
-
-
 
 Перевод: Станислав Иванов
 

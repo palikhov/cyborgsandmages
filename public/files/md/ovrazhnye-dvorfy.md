@@ -1,13 +1,13 @@
 ---
-title: "Овражные Дворфы"
-date: "2023-01-21"
-categories: 
-  - "dragonlance"
-tags: 
-  - "dragonlance"
-  - "dwarf"
-  - "dvarf"
-  - "krinn"
+title: 'Овражные Дворфы'
+date: '2023-01-21'
+categories:
+  - 'dragonlance'
+tags:
+  - 'dragonlance'
+  - 'dwarf'
+  - 'dvarf'
+  - 'krinn'
 ---
 
 #krynn #dwarves #races #translate #dnd #dragonlance

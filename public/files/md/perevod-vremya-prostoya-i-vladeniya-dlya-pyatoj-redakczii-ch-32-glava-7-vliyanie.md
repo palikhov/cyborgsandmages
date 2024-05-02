@@ -1,10 +1,10 @@
 ---
-title: "[Перевод] — Время простоя и владения (для пятой редакции), ч.32 – Глава 7. Влияние"
-date: "2022-07-24"
-categories: 
-  - "hack-and-slash-downtime-and-demesne-5e"
-tags: 
-  - "translate"
+title: '[Перевод] — Время простоя и владения (для пятой редакции), ч.32 – Глава 7. Влияние'
+date: '2022-07-24'
+categories:
+  - 'hack-and-slash-downtime-and-demesne-5e'
+tags:
+  - 'translate'
 ---
 
 #Hackandslash #CourtnyCampbell #DowntimeandDemesnes5e #Downtime #Influence #Leverage #DowntimeActivity #Factions #

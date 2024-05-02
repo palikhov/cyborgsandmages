@@ -1,12 +1,12 @@
 ---
-title: "Рыцари-в-Серебре - Knights-in-Silver"
-date: "2018-03-13"
-categories: 
-  - "adventurers-league"
-  - "homebrew"
-  - "forgottenrealms"
-tags: 
-  - "forgotten-realms"
+title: 'Рыцари-в-Серебре - Knights-in-Silver'
+date: '2018-03-13'
+categories:
+  - 'adventurers-league'
+  - 'homebrew'
+  - 'forgottenrealms'
+tags:
+  - 'forgotten-realms'
 ---
 
 ![knightsinsilver](https://cyborgsandmages.com/wp-content/uploads/2018/07/knightsinsilver.jpg)Base of operations Silverymoon, Silver Marches

@@ -1,10 +1,10 @@
 ---
-title: "Гид спеллджаммера по Дикому Космосу в Dungeons & Dragons."
-date: "2022-08-06"
-categories: 
-  - "spelljammer"
-tags: 
-  - "translate"
+title: 'Гид спеллджаммера по Дикому Космосу в Dungeons & Dragons.'
+date: '2022-08-06'
+categories:
+  - 'spelljammer'
+tags:
+  - 'translate'
 ---
 
 автор: Mike Bernier

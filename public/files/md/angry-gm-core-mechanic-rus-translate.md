@@ -1,16 +1,16 @@
 ---
-title: "[Перевод] Основная механика Злого ГМ-а"
-date: "2021-12-31"
-categories: 
-  - "angry"
-  - "translations-other"
-tags: 
-  - "angrygm"
-  - "e5e"
-  - "gm-advices"
-  - "gm-tips"
-  - "translate"
-  - "dm-tips"
+title: '[Перевод] Основная механика Злого ГМ-а'
+date: '2021-12-31'
+categories:
+  - 'angry'
+  - 'translations-other'
+tags:
+  - 'angrygm'
+  - 'e5e'
+  - 'gm-advices'
+  - 'gm-tips'
+  - 'translate'
+  - 'dm-tips'
 ---
 
 ## Общее описание

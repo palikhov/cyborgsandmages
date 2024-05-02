@@ -1,12 +1,12 @@
 ---
-title: "Искусство рулингов. Часть XIV: Групповые действия"
-date: "2022-07-18"
-categories: 
-  - "alexandrian"
-tags: 
-  - "alexandrian"
-  - "justin-alexander"
-  - "translate"
+title: 'Искусство рулингов. Часть XIV: Групповые действия'
+date: '2022-07-18'
+categories:
+  - 'alexandrian'
+tags:
+  - 'alexandrian'
+  - 'justin-alexander'
+  - 'translate'
 ---
 
 Перевод: Станислав Иванов

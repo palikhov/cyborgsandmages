@@ -1,8 +1,8 @@
 ---
-title: "Ледяной Пик"
-date: "2019-06-09"
-categories: 
-  - "forgottenrealms"
+title: 'Ледяной Пик'
+date: '2019-06-09'
+categories:
+  - 'forgottenrealms'
 ---
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2019/05/icespear-peak.jpg)

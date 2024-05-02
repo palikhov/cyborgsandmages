@@ -1,10 +1,10 @@
 ---
-title: "Пиратские кодексы в основе сеттинга"
-date: "2022-09-21"
-categories: 
-  - "krossposty"
-tags: 
-  - "rogue"
+title: 'Пиратские кодексы в основе сеттинга'
+date: '2022-09-21'
+categories:
+  - 'krossposty'
+tags:
+  - 'rogue'
 ---
 
 #pirates #setting #crosspost

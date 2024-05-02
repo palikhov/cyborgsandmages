@@ -1,13 +1,13 @@
 ---
-title: "Art of Rulings - Глава 7: Векторы"
-date: "2019-03-09"
-categories: 
-  - "alexandrian"
-tags: 
-  - "alexandrian"
-  - "justin-alexander"
-  - "random-encounters"
-  - "translate"
+title: 'Art of Rulings - Глава 7: Векторы'
+date: '2019-03-09'
+categories:
+  - 'alexandrian'
+tags:
+  - 'alexandrian'
+  - 'justin-alexander'
+  - 'random-encounters'
+  - 'translate'
 ---
 
 Перевод: [Ангон](https://docs.google.com/document/d/13Ov9ItJiZ_gUPP08wt-gR3EFPOCTnKBMTXRpaW8nqHQ/edit#)

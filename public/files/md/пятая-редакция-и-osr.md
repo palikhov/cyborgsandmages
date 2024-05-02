@@ -1,13 +1,13 @@
 ---
-title: "Пятая редакция и OSR"
-date: "2020-10-30"
-categories: 
-  - "our-materials"
-tags: 
-  - "5e"
-  - "ba5ic"
-  - "o5r"
-  - "osr"
+title: 'Пятая редакция и OSR'
+date: '2020-10-30'
+categories:
+  - 'our-materials'
+tags:
+  - '5e'
+  - 'ba5ic'
+  - 'o5r'
+  - 'osr'
 ---
 
 > DISCLAIMER: Хотя все изложенное в заметке является частным мнением и не претендует на абсолютную истину, но при этом также отрицает наличие у кого-либо возможности продуцировать эту самую абсолютную истину.
@@ -26,11 +26,10 @@ Old School Revival? Old Shitty Rules? Два ярких явления в инд
 
 > THIS IS A DIFFERENCE BETWEEN THE OSR AND INDIE SCENES - ANY FOOL WHO STARTS A BLOG AND CLAIMS IT TO BE OSR IS AUTOMATICALLY JUST AS OSR AS ANY GIVEN PUBLISHED CREATOR. THINGS ARE OFTEN EVEN CONSIDERED OSR REGARDLESS OF CREATOR OPINION ON THE LABEL.
 
-А если мы говорим про качественные характеристики OSR сцены, то в принципе, стоит также упомянуть позицию владельца блога Dungeon of Signs \[3\]:  
+А если мы говорим про качественные характеристики OSR сцены, то в принципе, стоит также упомянуть позицию владельца блога Dungeon of Signs \[3\]:
 
 > OSR SCENE THIS BLOG IS DEVOTED TO HAS BECOME A RATHER DISGUSTING PLACE WHERE CRASS COMMERCIALIZATION IS STRANGLING A FORMERLY CREATIVE AMATEUR COMMUNITY, AND WHERE DESTRUCTIVE 'ALT-RIGHT' VIEWS ARE BECOMING INCREASINGLY PREVALENT, EVEN AMONG SOME OF THE MORE SIGNIFICANT PUBLISHERS IN THE COMMUNITY.
 
-  
 В целом, наиболее фундаментальными и ранними определениями можно считать Финча \[4\] и Апокрифы \[5\], но дабы не растекаться мыслью по древу остановлюсь на описании старых традиций от Радагаста, одного из старейших участников  
 русскоязычного НРИ сообщества, представленное в следующем [видео](https://www.youtube.com/watch?v=4Xdx_AdLHwI&feature=emb_logo) \[6\].
 
@@ -52,7 +51,6 @@ Old School Revival? Old Shitty Rules? Два ярких явления в инд
 
 > 5E IS A BETTER AT THE OLD SCHOOL PLAY STYLE THAN MANY OLD SCHOOL SYSTEMS
 
-  
 Даже в PA - который по праву считается одним из основных документов, определяющих суть OSR говорится о том, что явно 5е не является худшей редакцией для игр старой школы и определенно лучшая со времен 2е \[5\].
 
 > 5E D&D - IT ISN'T THE WORST EDITION FOR OLD SCHOOL PLAY, CERTAINLY THE BEST SINCE 2E
@@ -69,7 +67,7 @@ Old School Revival? Old Shitty Rules? Два ярких явления в инд
 
 мастера водят с использованием принципов OSR, используя фреймворк правил 5е, и в целом остаются довольны результатом \[10\]
 
-хотя несомненно, есть некоторые особенности 5е, достаточно плохо совместимые с OSR, которые требуют изменений\[11\]  
+хотя несомненно, есть некоторые особенности 5е, достаточно плохо совместимые с OSR, которые требуют изменений\[11\]
 
 И поскольку я буду продолжать водить игры используя фреймворк 5е, то изучение модификаций его для более глубокой поддержки принципов OSR было вполне логичным. Поэтому давайте рассмотрим, особенности модификаций 5е в стиле старых, первых редакций - благо вышел уже не один такой хак.  
 Из наиболее известных:
@@ -92,7 +90,7 @@ Old School Revival? Old Shitty Rules? Два ярких явления в инд
 
 ## Five Torches Deep
 
-Опубликована на [Dгivethгuгpg.com](https://www.drivethrurpg.com/product/264584/Five-Torches-Deep), Картина аналогична Into Thе Unknown - высокие оценки, высокая удовлетворенность покупателей хаком. Есть статья на гpg.fandom.com на русском языке - [https://гpg.fandom.com/гu/wiki/Five\_Toгches\_Deep](https://гpg.fandom.com/гu/wiki/Five_Toгches_Deep)
+Опубликована на [Dгivethгuгpg.com](https://www.drivethrurpg.com/product/264584/Five-Torches-Deep), Картина аналогична Into Thе Unknown - высокие оценки, высокая удовлетворенность покупателей хаком. Есть статья на гpg.fandom.com на русском языке - [https://гpg.fandom.com/гu/wiki/Five_Toгches_Deep](https://гpg.fandom.com/гu/wiki/Five_Toгches_Deep)
 
 Автор Into the Unknown у себя в блоге делал ее обзор. \[12\] и проводил сравнение с Into Фе Unknown \[13\] Не буду заниматься пересказом его заметки, просто замечу, что лично мне Into Thе Unknown понравилась больше.
 
@@ -114,7 +112,8 @@ Old School Revival? Old Shitty Rules? Два ярких явления в инд
 • Firat Five Fantasy Roteplaying (Grimm Aramil Publishing)  
 • Tates from Фе Soгceгeг Undeг Фе Mountain (D101 Games)
 
-##   
+##
+
 В качестве заключения
 
 Сушествует ряд OSR продуктов, основанных на механиках пятой редакции D&D и хотя существуют отдельные представители движения, которые умудряются найти наиболее бесполезные и низкокачественные «гайды» по конвертации на dmsguild - как минимум две модификации - Into Фе Unknown и Five Toгches Deep высоко оценены своей аудиторией на Dгivethгuгpg.com, Не считая упрощения механик 5е для использования в играх старой школы правила 5е проходят типичный набор изменений:
@@ -150,7 +149,7 @@ Old School Revival? Old Shitty Rules? Два ярких явления в инд
 
 трактовка,» \[В Интернете\]. Available:
 
-https://www.youtube.com/watch?v=4Xdx\_AdLHwI&feature=e mb\_logo.
+https://www.youtube.com/watch?v=4Xdx\_AdLHwI&feature=e mb_logo.
 
 \[7\] R. Owlbear, «D&D 5e Does "Old School" Better Than Many OSR
 
@@ -170,7 +169,7 @@ http://ragingowlbear.blogspot.com/2015/04/dnd-5e-does-old- school-better-than-ma
 
 \[12 «D&D as lingua franca,» \[В Интернете\]. Available:
 
-\] http://methodsetmadness.blogspot.com/2015/01/d-as-lingua- franca\_22.html.
+\] http://methodsetmadness.blogspot.com/2015/01/d-as-lingua- franca_22.html.
 
 \[13 «My Experiment with OSR-style 5E,» \[В Интернете\]. Available: \] http://pinkdicechronicles.blogspot.com/2018/04/my- experiment-with-osr-style-5e.html
 

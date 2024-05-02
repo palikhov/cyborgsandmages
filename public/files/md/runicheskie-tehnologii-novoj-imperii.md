@@ -1,12 +1,12 @@
 ---
-title: "Рунические технологии Новой Империи Атеро"
-date: "2019-12-28"
-categories: 
-  - "articles"
-tags: 
-  - "rune-scribing"
-  - "runetech"
-  - "заметки"
+title: 'Рунические технологии Новой Империи Атеро'
+date: '2019-12-28'
+categories:
+  - 'articles'
+tags:
+  - 'rune-scribing'
+  - 'runetech'
+  - 'заметки'
 ---
 
 [Runic technologies of New Empire Atero.pdf](https://cyborgsandmages.files.wordpress.com/2019/12/d0a0d183d0bdd0b8d187d0b5d181d0bad0b8d0b5-d182d0b5d185d0bdd0bed0bbd0bed0b3d0b8d0b8-d09dd0bed0b2d0bed0b9-d098d0bcd0bfd0b5d180d0b8d0b8-d090d182d0b5d180d0be.pdf)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/12/d0a0d183d0bdd0b8d187d0b5d181d0bad0b8d0b5-d182d0b5d185d0bdd0bed0bbd0bed0b3d0b8d0b8-d09dd0bed0b2d0bed0b9-d098d0bcd0bfd0b5d180d0b8d0b8-d090d182d0b5d180d0be.pdf)

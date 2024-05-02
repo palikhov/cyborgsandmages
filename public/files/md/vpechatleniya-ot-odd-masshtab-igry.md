@@ -1,15 +1,15 @@
 ---
-title: "Впечатления от OD&amp;D: Масштаб игры"
-date: "2022-10-12"
-categories: 
-  - "alexandrian"
-  - "переводы-прочие"
-tags: 
-  - "5e"
-  - "перевод"
-  - "hexcrawl"
-  - "justin-alexander"
-  - "wilderness"
+title: 'Впечатления от OD&amp;D: Масштаб игры'
+date: '2022-10-12'
+categories:
+  - 'alexandrian'
+  - 'переводы-прочие'
+tags:
+  - '5e'
+  - 'перевод'
+  - 'hexcrawl'
+  - 'justin-alexander'
+  - 'wilderness'
 ---
 
 #odnd #alexandrian #translate #5e #dnd #crosspost

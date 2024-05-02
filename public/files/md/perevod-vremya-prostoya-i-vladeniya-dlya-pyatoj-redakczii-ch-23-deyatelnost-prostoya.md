@@ -1,16 +1,16 @@
 ---
-title: "[Перевод] — Время простоя и владения (для пятой редакции), ч.23 – Деятельность простоя"
-date: "2022-07-23"
-categories: 
-  - "hack-and-slash-downtime-and-demesne-5e"
-  - "hackandslashmaster"
-  - "our-materials"
-tags: 
-  - "5e"
-  - "courtny-campbell"
-  - "downtime"
-  - "hackandslash"
-  - "translate"
+title: '[Перевод] — Время простоя и владения (для пятой редакции), ч.23 – Деятельность простоя'
+date: '2022-07-23'
+categories:
+  - 'hack-and-slash-downtime-and-demesne-5e'
+  - 'hackandslashmaster'
+  - 'our-materials'
+tags:
+  - '5e'
+  - 'courtny-campbell'
+  - 'downtime'
+  - 'hackandslash'
+  - 'translate'
 ---
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2022/07/070922_0320_1.jpg)

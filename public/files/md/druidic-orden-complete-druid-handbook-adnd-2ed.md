@@ -1,15 +1,15 @@
 ---
-title: "Друидический Орден [The Complete Druid’s Handbook AD&D 2ed]"
-date: "2021-12-03"
-categories: 
-  - "resources"
-tags: 
-  - "add-2ed"
-  - "complete-druid-handbook"
-  - "druid"
-  - "the-complete-druids-handbook"
-  - "materials"
-  - "translate"
+title: 'Друидический Орден [The Complete Druid’s Handbook AD&D 2ed]'
+date: '2021-12-03'
+categories:
+  - 'resources'
+tags:
+  - 'add-2ed'
+  - 'complete-druid-handbook'
+  - 'druid'
+  - 'the-complete-druids-handbook'
+  - 'materials'
+  - 'translate'
 ---
 
 Друидический орден, часто называемый просто Орден, может быть определен как федерация региональных жречеств, которая формирует свободно организованную мировую религию, все члены которой почитают Природу и следуют схожей этической философии.

@@ -1,12 +1,12 @@
 ---
-title: "Vampire Slayer – Ranger archetype"
-date: "2022-08-07"
-categories: 
-  - "e5e"
-  - "homebrew"
-tags: 
-  - "creature"
-  - "wilderness"
+title: 'Vampire Slayer – Ranger archetype'
+date: '2022-08-07'
+categories:
+  - 'e5e'
+  - 'homebrew'
+tags:
+  - 'creature'
+  - 'wilderness'
 ---
 
 ## Vampire Slayer

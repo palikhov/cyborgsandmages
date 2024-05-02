@@ -1,10 +1,10 @@
 ---
-title: "Импровизация"
-date: "2022-08-26"
-categories: 
-  - "slyflourish"
-tags: 
-  - "translate"
+title: 'Импровизация'
+date: '2022-08-26'
+categories:
+  - 'slyflourish'
+tags:
+  - 'translate'
 ---
 
 **#slyflourish**

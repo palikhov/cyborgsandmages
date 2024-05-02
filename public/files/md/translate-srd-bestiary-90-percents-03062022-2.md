@@ -1,18 +1,18 @@
 ---
-title: "[Перевод SRD] Перевод бестиария &#8212; 90%"
-date: "2022-06-03"
-categories: 
-  - "perevod-srd"
-tags: 
-  - "5e"
-  - "bestiary"
-  - "creatures"
-  - "srd"
-  - "srd-5-1"
-  - "wordpress-crosspost"
-  - "бестиарий"
-  - "translate"
-  - "перевод-srd"
+title: '[Перевод SRD] Перевод бестиария &#8212; 90%'
+date: '2022-06-03'
+categories:
+  - 'perevod-srd'
+tags:
+  - '5e'
+  - 'bestiary'
+  - 'creatures'
+  - 'srd'
+  - 'srd-5-1'
+  - 'wordpress-crosspost'
+  - 'бестиарий'
+  - 'translate'
+  - 'перевод-srd'
 ---
 
 Наконец-то удалось сделать большую часть работы по переводу Бестиария SRD.
@@ -27,7 +27,7 @@ tags:
 
 Работа продолжается
 
-[\[Перевод SRD\] Перевод бестиария — 90%](https://cyborgsandmages.com/2022/06/translate-srd-bestiary-90-percents-03062022/ "Оригинал статьи.") был опубликован - [Киборги и Чародеи](https://cyborgsandmages.com)
+[\[Перевод SRD\] Перевод бестиария — 90%](https://cyborgsandmages.com/2022/06/translate-srd-bestiary-90-percents-03062022/ 'Оригинал статьи.') был опубликован - [Киборги и Чародеи](https://cyborgsandmages.com)
 
 Присоединяйтесь к нашему сообществу в Discord https://discord.com/invite/GcmhsFfxQ5 или Телеграм https://t.me/cyborgs\_and\_mages
 

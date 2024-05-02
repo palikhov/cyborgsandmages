@@ -1,8 +1,8 @@
 ---
-title: "Кросспост - Как сделать обычную локацию интереснее"
-date: "2022-07-17"
-categories: 
-  - "krossposty"
+title: 'Кросспост - Как сделать обычную локацию интереснее'
+date: '2022-07-17'
+categories:
+  - 'krossposty'
 ---
 
 _В статье используются некоторые умолчания, свойственные старой школе — в первую очередь, под «локацией» имеется в виду не просто любое место, а враждебная среда, с которой взаимодействуют персонажи игроков._
@@ -41,4 +41,4 @@ _В статье используются некоторые умолчания,
 
 Впрочем, тот же самый принцип можно применить и ко входу в подземелье. Дерзайте!
 
-_Источник: < [https://vk.com/@osr\_syndrome-kak-sdelat-obychnuu-lokaciu-interesnee](https://vk.com/@osr_syndrome-kak-sdelat-obychnuu-lokaciu-interesnee)\>_
+_Источник: < [https://vk.com/@osr_syndrome-kak-sdelat-obychnuu-lokaciu-interesnee](https://vk.com/@osr_syndrome-kak-sdelat-obychnuu-lokaciu-interesnee)\>_

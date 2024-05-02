@@ -1,10 +1,10 @@
 ---
-title: "Как написать приключение. Часть 3. Общие понятия."
-date: "2019-03-21"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-metki-i-rubriki"
+title: 'Как написать приключение. Часть 3. Общие понятия.'
+date: '2019-03-21'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-metki-i-rubriki'
 ---
 
 https://vk.com/@316251277-contribution025

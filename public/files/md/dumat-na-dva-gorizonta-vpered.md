@@ -1,8 +1,8 @@
 ---
-title: "Думать на два горизонта вперед"
-date: "2022-08-26"
-categories: 
-  - "slyflourish"
+title: 'Думать на два горизонта вперед'
+date: '2022-08-26'
+categories:
+  - 'slyflourish'
 ---
 
 #translate

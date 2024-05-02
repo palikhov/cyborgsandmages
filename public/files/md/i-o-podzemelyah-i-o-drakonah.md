@@ -1,11 +1,11 @@
 ---
-title: "И о подземельях, и о драконах"
-date: "2020-01-09"
-categories: 
-  - "forgottenrealms"
-tags: 
-  - "5e"
-  - "forgotten-realms"
+title: 'И о подземельях, и о драконах'
+date: '2020-01-09'
+categories:
+  - 'forgottenrealms'
+tags:
+  - '5e'
+  - 'forgotten-realms'
 ---
 
 **Dungeons and Dragons для чайников**

@@ -1,11 +1,11 @@
 ---
-title: "Про классы, существа, роли, темы, шаблоны часть 1"
-date: "2022-07-24"
-categories: 
-  - "e5e"
-  - "homebrew"
-  - "e5e-bestiary"
-  - "our-materials"
+title: 'Про классы, существа, роли, темы, шаблоны часть 1'
+date: '2022-07-24'
+categories:
+  - 'e5e'
+  - 'homebrew'
+  - 'e5e-bestiary'
+  - 'our-materials'
 ---
 
 #Class #Creature #CreatureRole #CreatureTheme #CreatureTemplate #Template #Spellcasting #Role #Design #Statblock #Bestiary

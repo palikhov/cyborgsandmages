@@ -1,10 +1,10 @@
 ---
 title: "Baldur's Gate: Descent into Avernus"
-date: "2019-05-17"
-categories: 
-  - "articles"
-tags: 
-  - "заметки"
+date: '2019-05-17'
+categories:
+  - 'articles'
+tags:
+  - 'заметки'
 ---
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2019/05/presskit_descent.jpg)
@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=Q-yBdYnphH8
 
 Срок поступления в продажу: 17 сентября 2019 г.
 
-ISBN: 9780786966769 
+ISBN: 9780786966769
 
 Рассчитан на 1-13 уровни
 
@@ -40,59 +40,32 @@ ISBN: 9780786966769 
 Альтернативная обложка
 
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_27.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_27.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_26.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_26.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_25.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_25.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_24.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_24.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_23.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_23.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_22.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_22.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_21.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_21.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_120.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_120.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_19.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_19.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_18.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_18.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_17.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_17.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_16.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_16.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_15.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_15.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_14.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_14.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_13.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_13.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_12.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_12.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_11.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_11.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_10.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_10.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_09.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_09.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_08.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_08.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_07.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_07.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_06.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_06.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_05.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_05.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_04.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_04.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_03.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_03.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_02.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_02.png)
-    
 - [![](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_01.png)](https://cyborgsandmages.com/wp-content/uploads/2019/05/descen_01.png)
-    
 
 - Kate Welch упомянула новые возможности для создания персонажей из Врат Балдура, тогда как Perkins подтвердил что персонажи и даже группы смогут иметь свои "темные тайны".
 - "Что-то в Вратах Балдура намекает на грядущее." - Perkins
@@ -120,7 +93,7 @@ ISBN: 9780786966769 
 - Jim Zub рассказывал про "Soul Coins" - физическое воплощение проданных, купленных душ..
 - Также будет связанная серия комиксов про персонажей из Врат Балдура (в т.ч. Минск и Бу), попавших на Авернус.
 - "Books can be weapons." - Zub
-- The _Dungeon Mayhem_ card game is getting expansions featuring characters from Baldur's Gate, per Shelly Mazzanoble. First one: _The Battle for Baldur's Gate_.
+- The *Dungeon Mayhem* card game is getting expansions featuring characters from Baldur's Gate, per Shelly Mazzanoble. First one: *The Battle for Baldur's Gate*.
 
 Также в продажу поступит Dungeons & Dragons Baldur's Gate: Descent into Avernus Dice & Miscellany (D&D Accessory)
 
@@ -138,7 +111,6 @@ ISBN: 9780786966769 
 
 https://www.youtube.com/watch?v=TGNVAManqDs&t=1170s&fbclid=IwAR2K2fuG503NQhVQI\_G6Vc-kZ9D9NdSvesNq\_BzcgCX-BEGR7ow4yxViCmE
 
-  
 Dragon Talk: LYSK The Nine Hells
 
 На данный момент известно о существовании двух порталов в Авернус из Торила: один в Миф Дранноре, второй в подземельях Замка Драконьего Копья (Dragonspear Castle).

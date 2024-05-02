@@ -1,15 +1,15 @@
 ---
-title: "Процедура исследования подземелья согласно официальных правил пятой редакции"
-date: "2023-03-03"
-categories: 
-  - "patreon"
-tags: 
-  - "5e"
-  - "combat"
-  - "perception"
-  - "random-encounters"
-  - "travel"
-  - "wilderness"
+title: 'Процедура исследования подземелья согласно официальных правил пятой редакции'
+date: '2023-03-03'
+categories:
+  - 'patreon'
+tags:
+  - '5e'
+  - 'combat'
+  - 'perception'
+  - 'random-encounters'
+  - 'travel'
+  - 'wilderness'
 ---
 
 Выдержка из официальных правил про процедуру исследования подземелья

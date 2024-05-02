@@ -1,11 +1,11 @@
 ---
-title: "Тайная жизнь узлов – Часть 5: Естественность дизайна на основе узлов"
-date: "2022-07-29"
-categories: 
-  - "alexandrian"
-tags: 
-  - "перевод"
-  - "justin-alexander"
+title: 'Тайная жизнь узлов – Часть 5: Естественность дизайна на основе узлов'
+date: '2022-07-29'
+categories:
+  - 'alexandrian'
+tags:
+  - 'перевод'
+  - 'justin-alexander'
 ---
 
 #alexandrian #translate #node #justinalexander

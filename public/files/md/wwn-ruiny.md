@@ -1,10 +1,10 @@
 ---
-title: "WWN - Руины"
-date: "2022-07-24"
-categories: 
-  - "wwn"
-tags: 
-  - "translate"
+title: 'WWN - Руины'
+date: '2022-07-24'
+categories:
+  - 'wwn'
+tags:
+  - 'translate'
 ---
 
 #ruins #wwn #tags

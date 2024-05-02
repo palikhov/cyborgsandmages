@@ -1,16 +1,16 @@
 ---
-title: "The Ecology of the Owlbear"
-date: "2021-04-28"
-categories: 
-  - "our-materials"
-  - "articles"
-tags: 
-  - "ecology"
-  - "owlbear"
-  - "заметки"
+title: 'The Ecology of the Owlbear'
+date: '2021-04-28'
+categories:
+  - 'our-materials'
+  - 'articles'
+tags:
+  - 'ecology'
+  - 'owlbear'
+  - 'заметки'
 ---
 
-Перевод: drogo\_of\_athas
+Перевод: drogo_of_athas
 
 Почему медведи не летают?
 

@@ -1,15 +1,15 @@
 ---
-title: "Исследование гексов в 5E – Часть 5: Столкновения"
-date: "2021-07-30"
-categories: 
-  - "alexandrian"
-  - "translations"
-tags: 
-  - "alexandrian"
-  - "dungeons-as-suffering"
-  - "hexcrawl"
-  - "justin-alexander"
-  - "translate"
+title: 'Исследование гексов в 5E – Часть 5: Столкновения'
+date: '2021-07-30'
+categories:
+  - 'alexandrian'
+  - 'translations'
+tags:
+  - 'alexandrian'
+  - 'dungeons-as-suffering'
+  - 'hexcrawl'
+  - 'justin-alexander'
+  - 'translate'
 ---
 
 Текст Justin Alexander от 13 апреля 2021 года

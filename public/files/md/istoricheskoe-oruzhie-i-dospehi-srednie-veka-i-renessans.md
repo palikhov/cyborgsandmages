@@ -1,12 +1,12 @@
 ---
-title: "Историческое оружие и доспехи – средние века и ренессанс"
-date: "2022-07-24"
-categories: 
-  - "e5e"
-  - "our-materials"
-  - "articles"
-tags: 
-  - "заметки"
+title: 'Историческое оружие и доспехи – средние века и ренессанс'
+date: '2022-07-24'
+categories:
+  - 'e5e'
+  - 'our-materials'
+  - 'articles'
+tags:
+  - 'заметки'
 ---
 
 **Доспехи средних веков**
@@ -66,19 +66,19 @@ _Рисунок 2 Доспех монгола_
 
 **\*Early Renaissance**: Add or subtract these weapons to taste, depending on the culture & technology level of your setting. Including them instantly gives you that WFRP feel.
 
- 
+
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2022/07/072422_1007_3.jpg)
 
 _Рисунок 3 Английский доспех 1490-1500_
 
- 
+
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2022/07/072422_1007_4.jpg)
 
 _Рисунок 4 Снаряжение (вторая половина 15 столетия)_
 
- 
+
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2022/07/072422_1007_5.png)
 
@@ -90,9 +90,9 @@ _Рисунок 5 Переходный доспех_
 
 \*\*Кулачный щит: обладаешь навыком владения если владеешь щитами или легкими доспехами и любым видом меча.
 
- 
 
- 
+
+
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2022/07/072422_1007_6.png)
 
@@ -120,9 +120,9 @@ _Рисунок 7 Воины средних веков, поздний 14 век
 
 [https://terriblesorcery.blogspot.com/2020/03/guest-post-high-medieval-weapons-armour.html](https://terriblesorcery.blogspot.com/2020/03/guest-post-high-medieval-weapons-armour.html)
 
-[The mighty Delta explains archery, range & accuracy in D&D](https://deltasdnd.blogspot.com/2014/04/a-model-of-archery-for-d.html) 
+[The mighty Delta explains archery, range & accuracy in D&D](https://deltasdnd.blogspot.com/2014/04/a-model-of-archery-for-d.html)
 
-[Military kits of British soldiers, 1066-today](https://www.thevintagenews.com/2018/04/06/military-kit-2/?fbclid=IwAR3kIPg0gDIR9yR1pgoiM7V7I64Kj_QrySHn93jRrUa88M7lGYnc7dn8MbI) 
+[Military kits of British soldiers, 1066-today](https://www.thevintagenews.com/2018/04/06/military-kit-2/?fbclid=IwAR3kIPg0gDIR9yR1pgoiM7V7I64Kj_QrySHn93jRrUa88M7lGYnc7dn8MbI)
 
 [How did swords work against armour anyway?](https://www.quora.com/In-those-medieval-times-when-people-wore-armor-how-could-a-steel-sword-possibly-harm-someone-clad-in-metal-head-to-toe?fbclid=IwAR15K2WM4P7UkGra0lMtyzSchDFyMqjvGH79wTDjfwxXSe1snnImEaUl5qk)
 

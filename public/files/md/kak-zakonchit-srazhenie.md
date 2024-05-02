@@ -1,12 +1,12 @@
 ---
-title: "Как закончить сражение?"
-date: "2022-07-29"
-categories: 
-  - "advices"
-tags: 
-  - "gmadvice"
-  - "dm-tips"
-  - "stolknoveniya"
+title: 'Как закончить сражение?'
+date: '2022-07-29'
+categories:
+  - 'advices'
+tags:
+  - 'gmadvice'
+  - 'dm-tips'
+  - 'stolknoveniya'
 ---
 
 #gmadvice #gmtip #gm #resource #tool #scene #combat
@@ -63,4 +63,4 @@ tags:
 
 Не каждая битва должна длиться до последнего Хит Поинта. Порой, есть причины, почему сражение завершится раньше, а иногда просто удобнее промотать формальные моменты дальше. Используя вышеописанные подходы, бои можно сделать более зрелищными и менее "механическими".
 
-Источник: [https://thecreativecoalition.tumblr.com/post/16337138..](https://vk.com/away.php?to=https%3A%2F%2Fthecreativecoalition.tumblr.com%2Fpost%2F163371380956%2Falternate-ways-to-end-combat-in-an-rpg&post=-67030284_9041&cc_key= "https://thecreativecoalition.tumblr.com/post/163371380956/alternate-ways-to-end-combat-in-an-rpg")
+Источник: [https://thecreativecoalition.tumblr.com/post/16337138..](https://vk.com/away.php?to=https%3A%2F%2Fthecreativecoalition.tumblr.com%2Fpost%2F163371380956%2Falternate-ways-to-end-combat-in-an-rpg&post=-67030284_9041&cc_key= 'https://thecreativecoalition.tumblr.com/post/163371380956/alternate-ways-to-end-combat-in-an-rpg')

@@ -1,12 +1,12 @@
 ---
-title: "Орден Латной Перчатки"
-date: "2016-03-21"
-categories: 
-  - "homebrew"
-  - "forgottenrealms"
-tags: 
-  - "5e"
-  - "forgotten-realms"
+title: 'Орден Латной Перчатки'
+date: '2016-03-21'
+categories:
+  - 'homebrew'
+  - 'forgottenrealms'
+tags:
+  - '5e'
+  - 'forgotten-realms'
 ---
 
 ### [Руководство по фракциям](https://adventurersleague.wordpress.com/%d1%84%d1%80%d0%b0%d0%ba%d1%86%d0%b8%d0%b8/)
@@ -19,7 +19,7 @@ tags:
 - [Изумрудный Анклав](https://adventurersleague.wordpress.com/emerald-enclave/)
 - [Орден Латной Перчатки](https://adventurersleague.wordpress.com/order-of-the-gauntlet/)
 
-* * *
+---
 
 [Орден Латной Перчатки на Forgotten Realms by Palant](https://www.worldanvil.com/w/fr-----palant/c/order-of-the-gauntlet-category)
 
@@ -62,7 +62,7 @@ tags:
 
 <table class="wp-block-table"><tbody><tr><td>Модуль</td><td>Уровень персонажа</td><td>Ссылка на DMsGuild</td></tr><tr><td>DDEX1-12 Raiders of the Twilight Marsh</td><td>T2: 5-10</td><td>&nbsp;</td></tr><tr><td>DDEX2-15 Black Heart of Vengeance</td><td>T2: 5-10</td><td>&nbsp;</td></tr><tr><td>DDEX3-9 The Waydown</td><td>T2: 5-10</td><td>&nbsp;</td></tr><tr><td>DDEX3-15 Szith Morcane Unbound</td><td>T2: 5-10</td><td>&nbsp;</td></tr><tr><td>DDEX3-16 Assault on Maermydra</td><td>T3: 11-16</td><td>&nbsp;</td></tr><tr><td>DDAL4-14 The Darklord</td><td>T2: 5-10</td><td>&nbsp;</td></tr><tr><td>DDAL5-15 Reclamation</td><td>T3: 11-16</td><td>&nbsp;</td></tr><tr><td>DDAL5-17 Hartkiller's Horn</td><td>T2: 5-10</td><td>&nbsp;</td></tr><tr><td>DDAL5-18 The Mysterious Isle</td><td>T4: 17-20</td><td>&nbsp;</td></tr><tr><td>DDAL5-19 Eye of Xxiphu</td><td>T4: 17-20</td><td>&nbsp;</td></tr><tr><td>DDAL06-00-04 Tales From The Yawning Portal (Hardcover) - White Plume Mountain</td><td>T2: 5-10 (L8)</td></tr><tr><td>DDAL06-01 + Forge of Fury&nbsp;(DM Quest Player's Reward)</td><td>mixed</td><td>TFTYP06-01</td></tr><tr><td>DDAL06-02 + White Plume Mountain&nbsp;(DM Quest Player's Reward)</td><td>mixed</td><td>TFTYP06-02</td></tr><tr><td>DDAL06-03 + Against the Giants&nbsp;(DM Quest Player's Reward)</td><td>mixed</td><td>TFTYP06-03</td></tr><tr><td>DDAL07-08 Putting the Dead to Rest</td><td>T2: 5-10</td><td>&nbsp;</td></tr><tr><td>DDAL07-11 A Lesson in Love</td><td>T3: 11-16</td><td>&nbsp;</td></tr></tbody></table>
 
-* * *
+---
 
 ### [Руководство по фракциям](https://adventurersleague.wordpress.com/%d1%84%d1%80%d0%b0%d0%ba%d1%86%d0%b8%d0%b8/)
 
@@ -74,12 +74,12 @@ tags:
 - [Изумрудный Анклав](https://adventurersleague.wordpress.com/emerald-enclave/)
 - [Орден Латной Перчатки](https://adventurersleague.wordpress.com/order-of-the-gauntlet/)
 
-* * *
+---
 
 https://adventurersleague.wikia.com/wiki/Order\_of\_the\_Gauntlet
 
 https://forgottenrealms.wikia.com/wiki/Order\_of\_the\_Gauntlet
 
-* * *
+---
 
 См. также [Орден Золоченого Глаза](https://adventurersleague.wordpress.com/order-of-the-gilded-eye/)

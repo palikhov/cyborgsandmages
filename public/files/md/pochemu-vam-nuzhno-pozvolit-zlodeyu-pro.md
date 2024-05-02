@@ -1,10 +1,10 @@
 ---
-title: "Почему вам нужно позволить злодею произнести свой монолог?"
-date: "2019-09-04"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubrku"
+title: 'Почему вам нужно позволить злодею произнести свой монолог?'
+date: '2019-09-04'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubrku'
 ---
 
 текст [Di.](https://vk.com/away.php?to=https%3A%2F%2Fgnomestew.com%2Fauthor%2Fdicequeen%2F&cc_key=) от 13 августа 2019 года

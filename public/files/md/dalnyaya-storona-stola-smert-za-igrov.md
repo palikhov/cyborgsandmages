@@ -1,10 +1,10 @@
 ---
-title: "Дальняя сторона стола: Смерть за игровым столом – как подготовиться к ней?"
-date: "2019-04-09"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Дальняя сторона стола: Смерть за игровым столом – как подготовиться к ней?'
+date: '2019-04-09'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 https://vk.com/@dungeonsandsuffering-dalnyaya-storona-stola-smert-za-igrovym-stolom-kak-podgotovi

@@ -1,11 +1,11 @@
 ---
-title: "Перевод - Как работают «рельсы»"
-date: "2022-07-17"
-categories: 
-  - "alexandrian"
-tags: 
-  - "перевод"
-  - "justin-alexander"
+title: 'Перевод - Как работают «рельсы»'
+date: '2022-07-17'
+categories:
+  - 'alexandrian'
+tags:
+  - 'перевод'
+  - 'justin-alexander'
 ---
 
 Перевод: Станислав Иванов
@@ -82,6 +82,6 @@ _Вот уже несколько дней вы путешествуете по 
 
 Даже если вам нормально создавать рельсы.
 
-Что вы не должны делать. 
+Что вы не должны делать.
 
 _Источник: < [https://vk.com/@dungeonsandsuffering-kak-rabotaut-relsy](https://vk.com/@dungeonsandsuffering-kak-rabotaut-relsy)\>_

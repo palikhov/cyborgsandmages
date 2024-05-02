@@ -1,12 +1,12 @@
 ---
-title: "Как познакомить новичков с Настольными Ролевыми Играми"
-date: "2022-07-29"
-categories: 
-  - "krossposty"
-  - "advices"
-tags: 
-  - "gmadvice"
-  - "dm-tips"
+title: 'Как познакомить новичков с Настольными Ролевыми Играми'
+date: '2022-07-29'
+categories:
+  - 'krossposty'
+  - 'advices'
+tags:
+  - 'gmadvice'
+  - 'dm-tips'
 ---
 
 #DnD #Master #Advice #Novice #gmadvice #gmtip

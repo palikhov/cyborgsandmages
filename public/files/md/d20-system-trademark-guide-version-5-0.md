@@ -1,13 +1,13 @@
 ---
-title: "d20 System Trademark Guide version 5.0"
-date: "2022-12-29"
-categories: 
-  - "resources"
-tags: 
-  - "creature"
-  - "magic-items"
-  - "perception"
-  - "random-encounters"
+title: 'd20 System Trademark Guide version 5.0'
+date: '2022-12-29'
+categories:
+  - 'resources'
+tags:
+  - 'creature'
+  - 'magic-items'
+  - 'perception'
+  - 'random-encounters'
 ---
 
 #d20 #wotc #license
@@ -71,13 +71,12 @@ The use of any other company's trademark or copyright in this Guide is not inten
 - "ASCII text file": means a software file containing data that consists of text characters without formatting or graphic displays.
 - "Core Book" means any combination of the words "Core" and "Book", and including synonyms of "Book" such as "Rulebook", "Handbook", "Rules", "System", "Material", etc.
 - "Covered Product": means any release of material using the d20 System License, including:
-    
-    - a box containing one or more volumes of material
-    - a book or flyer
-    - any collection of material marketed as a unit with a single price
-    - a collection of material physically combined using packaging including shrink wrap or adhesive tape
-    - a computer file or combination of computer files combined into an archive
-    - a web page.
+  - a box containing one or more volumes of material
+  - a book or flyer
+  - any collection of material marketed as a unit with a single price
+  - a collection of material physically combined using packaging including shrink wrap or adhesive tape
+  - a computer file or combination of computer files combined into an archive
+  - a web page.
 - "Interactive Game": means a piece of software that is designed to accept inputs from human players or their agents, and use rules to resolve the success or failure of those inputs, and return some indication of the results of those inputs to the users. Success and failure includes any determination wherein one outcome is preferable to another. This includes the random determination of hit points, ability scores, and the like.
 - "Miniature": Means a three-dimensional sculpture of a figure or creature, composed of plastic, metal, resin, stone, rubber, or fiberglass or similar material. Paper representations of figures or creatures are not considered "miniatures" under this definition.
 - "Open Game Content": refers to material designated as Open Game Content as defined in the Open Game License.
@@ -120,8 +119,7 @@ If a definition is specific to one game it will be indicated in brackets after t
 - flat-footed: Especially vulnerable to attacks at the beginning of a battle. Characters are flat-footed until their first turns in the initiative cycle. Flat-footed creatures cannot use their Dexterity bonuses to AC/Defense or make attacks of opportunity.
 - Fortitude save: A type of saving throw, related to a character's ability to withstand damage thanks to his physical stamina.
 - frightened: Fearful of a creature, situation, or object. Frightened creatures flee from the source of their fear as best they can. If unable to flee, they may fight, but suffer a –2 morale penalty to all their attack rolls, weapon damage rolls, and saving throws.
-    
-    - helpless: Paralyzed, _held_, bound, sleeping, unconscious, or otherwise completely at an opponent's mercy. A helpless target is treated as having a Dexterity of 0 (–5 modifier). Melee attacks against a helpless target get a +4 bonus. An attacker can use a coup de grace against a helpless target.
+  - helpless: Paralyzed, _held_, bound, sleeping, unconscious, or otherwise completely at an opponent's mercy. A helpless target is treated as having a Dexterity of 0 (–5 modifier). Melee attacks against a helpless target get a +4 bonus. An attacker can use a coup de grace against a helpless target.
 - hit points (hp): A measure of character health or object integrity. Damage decreases current hit points, and lost hit points return with healing or natural recovery. A character's hit point total increases permanently with additional experience and/or permanent increases in Constitution, or temporarily through the use of various special abilities, spells, magic items, or magical effects (see temporary hit points and effective hit point increase).
 - hp: Hit points.
 - incorporeal: Having no physical body. Incorporeal creatures are immune to all nonmagical attack forms. They can be harmed only by other incorporeal creatures, +1 or better magical weapons, spells, spell-like effects, or supernatural effects. Even when struck by spells, magical effects, or magic weapons, however, they have a 50% chance to ignore any damage from a corporeal source. In addition, rogues cannot employ sneak attacks against incorporeal beings, since such opponents have no vital areas to target. An incorporeal creature has no natural armor bonus, but does have a deflection bonus equal to its Charisma modifier or +1, whichever is greater. Such creatures can pass through solid objects at will, but not through force effects. Therefore, their attacks negate the bonuses provided by natural armor, armor, and shields, but deflection bonuses and force effects (such as mage armor) work normally against them. Incorporeal creatures move silently, so they cannot be heard with Listen checks unless they wish it.
@@ -147,11 +145,9 @@ If a definition is specific to one game it will be indicated in brackets after t
 - ranged attack roll: 1d20 + base attack bonus + Dexterity modifier + size modifier + range penalty. The attack hits if the result is at least as high as the target's Armor Class/Defense.
 - Reflex save: A type of saving throw, related to a character's ability to withstand damage thanks to his agility or quick reactions.
 - saving throw (save): A roll made to avoid (at least partially) damage or harm.
-    
-    - shaken: Mildly fearful. A shaken character takes a –2 penalty on attack rolls, saving throws, skill checks, and ability checks.
+  - shaken: Mildly fearful. A shaken character takes a –2 penalty on attack rolls, saving throws, skill checks, and ability checks.
 - skill: an ability or area of knowledge or expertise which can be improved over time.
-    
-    - Sickened: Mildly ill. A sickened character takes a –2 penalty on all attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks.
+  - Sickened: Mildly ill. A sickened character takes a –2 penalty on all attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks.
 - spell-like ability (Sp): A special ability with effects that resemble those of a spell. In most cases, a spell-like ability works just like the spell of the same name.
 - stable: Unconscious and having a current hit point total between –1 and –9, but not dying. A dying character who is stable regains no hit points, but stops losing them at a rate of 1 per round.
 - staggered \[D&D v.3.5\]: Having nonlethal damage exactly equal to current hit points. A staggered character may take a single move action or standard action each round (but not both, nor can she take fullround actions).

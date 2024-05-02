@@ -1,12 +1,12 @@
 ---
-title: "От лёгкой зачистки подземелий к тяжёлым рельсам"
-date: "2022-12-18"
-categories: 
-  - "oldschoolroleplaying"
-  - "krossposty"
-  - "translations"
-tags: 
-  - "osr"
+title: 'От лёгкой зачистки подземелий к тяжёлым рельсам'
+date: '2022-12-18'
+categories:
+  - 'oldschoolroleplaying'
+  - 'krossposty'
+  - 'translations'
+tags:
+  - 'osr'
 ---
 
 #osr #crosspost #translate

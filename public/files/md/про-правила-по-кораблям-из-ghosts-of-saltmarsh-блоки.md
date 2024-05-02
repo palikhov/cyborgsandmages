@@ -1,12 +1,12 @@
 ---
-title: "Про правила по кораблям из Ghosts of Saltmarsh – блоки статистик"
-date: "2020-08-23"
-categories: 
-  - "our-materials"
-tags: 
-  - "aethan-guide-to-seafaring-and-naval-combat"
-  - "of-ships-and-sea"
-  - "statblock"
+title: 'Про правила по кораблям из Ghosts of Saltmarsh – блоки статистик'
+date: '2020-08-23'
+categories:
+  - 'our-materials'
+tags:
+  - 'aethan-guide-to-seafaring-and-naval-combat'
+  - 'of-ships-and-sea'
+  - 'statblock'
 ---
 
 Как я уже писал [ранее](https://cyborgsandmages.wordpress.com/2020/08/23/%d0%bf%d1%80%d0%be%d0%b4%d0%be%d0%bb%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b-%d0%bd%d0%b0%d0%b4-%d0%bf%d0%b5%d1%80%d0%b5%d0%b2%d0%be%d0%b4%d0%be%d0%bc-%d0%bf%d1%80%d0%b0/) – я закончил перевод части Приложения А из Призраков Солемарша про Блоки Статистик кораблей и примеры кораблей, которые соответствуют кораблям приведенным в Книге Игрока.
@@ -69,7 +69,7 @@ Large vehicle (water ship), 5 ft x 100 ft x 20 ft
 
 Абсолютно точно в этом разделе можно записывать информацию о качестве экипажа судна или его маневренности.
 
-**Crew** **quality****:** +4
+**Crew** **quality\*\***:\*\* +4
 
 ### Блок свойств корабля
 

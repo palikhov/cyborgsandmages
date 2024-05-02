@@ -1,20 +1,20 @@
 ---
-title: "Создание боевых сцен для первого уровня"
-date: "2019-11-05"
-categories: 
-  - "our-materials"
-  - "advices"
-tags: 
-  - "5e"
-  - "combat"
-  - "dungeoneering-as-suffering"
-  - "encounter"
-  - "giant"
-  - "random-encounters"
-  - "scene"
-  - "translate"
-  - "dm-tips"
-  - "stolknoveniya"
+title: 'Создание боевых сцен для первого уровня'
+date: '2019-11-05'
+categories:
+  - 'our-materials'
+  - 'advices'
+tags:
+  - '5e'
+  - 'combat'
+  - 'dungeoneering-as-suffering'
+  - 'encounter'
+  - 'giant'
+  - 'random-encounters'
+  - 'scene'
+  - 'translate'
+  - 'dm-tips'
+  - 'stolknoveniya'
 ---
 
 #encounter #combat #scene #1stlevel

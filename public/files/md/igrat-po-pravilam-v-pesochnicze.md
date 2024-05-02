@@ -1,8 +1,8 @@
 ---
-title: "Играть по правилам в песочнице"
-date: "2022-08-11"
-categories: 
-  - "forgottenrealms"
+title: 'Играть по правилам в песочнице'
+date: '2022-08-11'
+categories:
+  - 'forgottenrealms'
 ---
 
 текст Ed Greenwood от 06 марта 2020 года

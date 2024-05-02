@@ -1,14 +1,14 @@
 ---
-title: "Пара недорогих волшебных предметов"
-date: "2021-05-23"
-categories: 
-  - "волшебные-предметы"
-tags: 
-  - "common"
-  - "e5e"
-  - "e5e-unusual"
-  - "homebrew"
-  - "magic-items"
+title: 'Пара недорогих волшебных предметов'
+date: '2021-05-23'
+categories:
+  - 'волшебные-предметы'
+tags:
+  - 'common'
+  - 'e5e'
+  - 'e5e-unusual'
+  - 'homebrew'
+  - 'magic-items'
 ---
 
 ## Камень изображений

@@ -1,10 +1,10 @@
 ---
-title: "Два разбойника в лесу"
-date: "2019-08-21"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Два разбойника в лесу'
+date: '2019-08-21'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 текст [Mike Shea](https://vk.com/away.php?to=http%3A%2F%2Fmikeshea.net%2FAbout_Mike_Shea.html&cc_key=) от 5 августа 2019

@@ -1,14 +1,14 @@
 ---
-title: "Ресурсы для создания блока статистики персонажа или существа для 5e"
-date: "2021-07-18"
-categories: 
-  - "articles"
-tags: 
-  - "5e"
-  - "creature"
-  - "homebrew"
-  - "stat-block"
-  - "statblock"
+title: 'Ресурсы для создания блока статистики персонажа или существа для 5e'
+date: '2021-07-18'
+categories:
+  - 'articles'
+tags:
+  - '5e'
+  - 'creature'
+  - 'homebrew'
+  - 'stat-block'
+  - 'statblock'
 ---
 
 ## (Рекомендую для начинающего) CritterDB

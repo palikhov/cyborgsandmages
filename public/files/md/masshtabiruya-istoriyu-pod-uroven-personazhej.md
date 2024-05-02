@@ -1,10 +1,10 @@
 ---
-title: "Масштабируя Историю под Уровень Персонажей"
-date: "2022-08-07"
-categories: 
-  - "translations-other"
-tags: 
-  - "translate"
+title: 'Масштабируя Историю под Уровень Персонажей'
+date: '2022-08-07'
+categories:
+  - 'translations-other'
+tags:
+  - 'translate'
 ---
 
 Перевод: Станислав Иванов

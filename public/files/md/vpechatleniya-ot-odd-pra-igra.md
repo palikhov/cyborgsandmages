@@ -1,14 +1,14 @@
 ---
-title: "Впечатления от OD&amp;D: Пра-игра"
-date: "2022-10-12"
-categories: 
-  - "alexandrian"
-  - "переводы-прочие"
-tags: 
-  - "5e"
-  - "перевод"
-  - "justin-alexander"
-  - "wilderness"
+title: 'Впечатления от OD&amp;D: Пра-игра'
+date: '2022-10-12'
+categories:
+  - 'alexandrian'
+  - 'переводы-прочие'
+tags:
+  - '5e'
+  - 'перевод'
+  - 'justin-alexander'
+  - 'wilderness'
 ---
 
 #odnd #alexandrian #translate #5e #dnd #crosspost

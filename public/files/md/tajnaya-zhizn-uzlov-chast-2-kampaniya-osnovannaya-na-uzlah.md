@@ -1,11 +1,11 @@
 ---
-title: "Тайная жизнь узлов – Часть 2: Кампания, основанная на узлах"
-date: "2022-07-26"
-categories: 
-  - "alexandrian"
-tags: 
-  - "перевод"
-  - "justin-alexander"
+title: 'Тайная жизнь узлов – Часть 2: Кампания, основанная на узлах'
+date: '2022-07-26'
+categories:
+  - 'alexandrian'
+tags:
+  - 'перевод'
+  - 'justin-alexander'
 ---
 
 #node #translate #alexandrian #justinalexander

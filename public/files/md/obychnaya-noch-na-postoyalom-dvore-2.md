@@ -1,10 +1,10 @@
 ---
-title: "Обычная ночь на постоялом дворе"
-date: "2019-09-17"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubrku"
+title: 'Обычная ночь на постоялом дворе'
+date: '2019-09-17'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubrku'
 ---
 
 Перевели Candramelekh, Ramires и Эргонт

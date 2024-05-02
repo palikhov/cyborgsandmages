@@ -1,21 +1,21 @@
 ---
-title: "Таверна Эльфийская песнь в Вратах Балдура и песнь призрака"
-date: "2019-10-17"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Таверна Эльфийская песнь в Вратах Балдура и песнь призрака'
+date: '2019-10-17'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 Эту таверну я впервые увидел в Вратах Балдура в далеком 2002 году.
 
 https://www.youtube.com/watch?time\_continue=7&v=W6-kIn6dO3A
 
-BG Elfsong Tavern - видео которое не было использлвагл  
+BG Elfsong Tavern - видео которое не было использлвагл
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2019/10/Elfsong_BG.png)
 
-Вот она, эльфийская песня  
+Вот она, эльфийская песня
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2019/10/Elfsong_Tavern_upstairs.png)
 
@@ -59,15 +59,10 @@ https://soundcloud.com/rachael-dunstan/ps2-2001vat-baldurs-gate-dark-alliance-28
 А есть и изображения этой таверны
 
 - ![](https://cyborgsandmages.com/wp-content/uploads/2019/10/sam-simmons-tavern-image-twotry.jpg)
-    
 - ![](https://cyborgsandmages.com/wp-content/uploads/2019/10/sam-simmons-tavern-image-threetry.jpg)
-    
 - ![](https://cyborgsandmages.com/wp-content/uploads/2019/10/sam-simmons-tavern-image-onetry.jpg)
-    
 - ![](https://cyborgsandmages.com/wp-content/uploads/2019/10/sam-simmons-tavern-image-fourtry.jpg)
-    
 - ![](https://cyborgsandmages.com/wp-content/uploads/2019/10/sam-simmons-tavern-image-fivetry.jpg)
-    
 
 В новом приключении призрак поет песнь про Эльтурель
 

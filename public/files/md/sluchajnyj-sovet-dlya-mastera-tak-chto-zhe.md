@@ -1,14 +1,14 @@
 ---
-title: "Случайный совет для Мастера: Так что же мы там делаем?"
-date: "2022-05-24"
-categories: 
-  - "alexandrian"
-  - "переводы-прочие"
-tags: 
-  - "dungeons-as-suffering"
-  - "перевод"
-  - "советы-мастеру"
-  - "justin-alexander"
+title: 'Случайный совет для Мастера: Так что же мы там делаем?'
+date: '2022-05-24'
+categories:
+  - 'alexandrian'
+  - 'переводы-прочие'
+tags:
+  - 'dungeons-as-suffering'
+  - 'перевод'
+  - 'советы-мастеру'
+  - 'justin-alexander'
 ---
 
 Текст Justin Alexander от 19 марта 2022 года

@@ -1,10 +1,10 @@
 ---
-title: "Wizards of the Coast добавили этические пояснения к старым продуктам по D&D"
-date: "2020-07-09"
-categories: 
-  - "adventurers-league"
-  - "setting"
-  - "advices"
+title: 'Wizards of the Coast добавили этические пояснения к старым продуктам по D&D'
+date: '2020-07-09'
+categories:
+  - 'adventurers-league'
+  - 'setting'
+  - 'advices'
 ---
 
 В сети обратили внимание, что у некоторых старых продуктов по Dungeons & Dragons (в том числе и тех, что написаны Гэри Гайгэксом) в онлайн-магазинах появились этические пояснения. Например, их можно увидеть к книгам [Oriental Adventures (1e)](https://www.dmsguild.com/product/17334/Oriental-Adventures-1e?affiliate_id=31065) и [Fiend Folio (1e)](https://www.dmsguild.com/product/50012/Fiend-Folio-1e?affiliate_id=31065).

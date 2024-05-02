@@ -1,8 +1,8 @@
 ---
-title: "Кросспост - Випадкові зустрічі: як використовувати?"
-date: "2022-07-17"
-categories: 
-  - "krossposty"
+title: 'Кросспост - Випадкові зустрічі: як використовувати?'
+date: '2022-07-17'
+categories:
+  - 'krossposty'
 ---
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2022/07/071722_2352_1.png)

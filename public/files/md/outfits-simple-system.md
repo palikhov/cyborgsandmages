@@ -1,18 +1,18 @@
 ---
-title: "Outfits - simple system"
-date: "2019-09-05"
-categories: 
-  - "hb-rules"
-  - "articles"
-tags: 
-  - "5e"
-  - "appearance"
-  - "creature"
-  - "homebrew"
-  - "outfits"
-  - "rules"
-  - "social-interactions"
-  - "заметки"
+title: 'Outfits - simple system'
+date: '2019-09-05'
+categories:
+  - 'hb-rules'
+  - 'articles'
+tags:
+  - '5e'
+  - 'appearance'
+  - 'creature'
+  - 'homebrew'
+  - 'outfits'
+  - 'rules'
+  - 'social-interactions'
+  - 'заметки'
 ---
 
 # Outfits - simple system
@@ -50,7 +50,7 @@ Lifestyle
 
 People will be judged and appreciated by what they wear so dressing according to one's lifestyle can facilitate communication depending on what your goals are.
 
-An outfit can be wretched, squalid, poor, modest, comfortable, wealthy or aristocratic. This property determines the base cost of an outfit as shown in the table _Base Costs of Outfits_.
+An outfit can be wretched, squalid, poor, modest, comfortable, wealthy or aristocratic. This property determines the base cost of an outfit as shown in the table *Base Costs of Outfits*.
 
 **_Wretched_**. This outfit is ruined and serves only to cover nakedness. Slaves, poorest beggars and creatures who disregard their clothes wear wretched outfits.
 

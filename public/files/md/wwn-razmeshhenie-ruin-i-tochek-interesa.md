@@ -1,13 +1,13 @@
 ---
-title: "WWN - Размещение руин и точек интереса"
-date: "2022-07-24"
-categories: 
-  - "translations-other"
-tags: 
-  - "hex"
-  - "hexcrawl"
-  - "wilderness"
-  - "translate"
+title: 'WWN - Размещение руин и точек интереса'
+date: '2022-07-24'
+categories:
+  - 'translations-other'
+tags:
+  - 'hex'
+  - 'hexcrawl'
+  - 'wilderness'
+  - 'translate'
 ---
 
 **#hexcrawl #hex #ruin #poi #location #wilderness #translate #wwn**

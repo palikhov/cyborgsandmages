@@ -1,8 +1,8 @@
 ---
-title: "Будущее Фаэруна глазами Эда Гринвуда"
-date: "2022-07-24"
-categories: 
-  - "forgottenrealms"
+title: 'Будущее Фаэруна глазами Эда Гринвуда'
+date: '2022-07-24'
+categories:
+  - 'forgottenrealms'
 ---
 
 #greenwood #forgottenrealms

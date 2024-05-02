@@ -1,12 +1,12 @@
 ---
-title: "Тайная жизнь узлов – Часть 3: Фрактальные узлы"
-date: "2022-07-25"
-categories: 
-  - "alexandrian"
-tags: 
-  - "alexandrian"
-  - "justin-alexander"
-  - "translate"
+title: 'Тайная жизнь узлов – Часть 3: Фрактальные узлы'
+date: '2022-07-25'
+categories:
+  - 'alexandrian'
+tags:
+  - 'alexandrian'
+  - 'justin-alexander'
+  - 'translate'
 ---
 
 Категорія    Alexandrian
@@ -53,7 +53,7 @@ tags:
 
 В качестве простого и готового примера, давайте рассмотрим узел Бангкока из Eternal Lies Remix. В моих заметках для подготовки вы увидите, что я выявил пять узлов:
 
-    1. Таунхаус Лоумана
+1. Таунхаус Лоумана
 
 1. Фихат Хван
 2. Остров Ко Крук

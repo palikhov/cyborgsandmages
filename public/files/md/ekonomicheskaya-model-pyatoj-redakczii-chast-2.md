@@ -1,20 +1,20 @@
 ---
-title: "Экономическая модель пятой редакции, часть 2"
-date: "2022-08-06"
-categories: 
-  - "our-materials"
-tags: 
-  - "5e"
-  - "analysis"
-  - "cost"
-  - "e5e"
-  - "economic-system"
-  - "economics"
-  - "economy"
-  - "magic-items"
-  - "money"
-  - "rarity"
-  - "wealth"
+title: 'Экономическая модель пятой редакции, часть 2'
+date: '2022-08-06'
+categories:
+  - 'our-materials'
+tags:
+  - '5e'
+  - 'analysis'
+  - 'cost'
+  - 'e5e'
+  - 'economic-system'
+  - 'economics'
+  - 'economy'
+  - 'magic-items'
+  - 'money'
+  - 'rarity'
+  - 'wealth'
 ---
 
 #dnd #5e #e5e #magicitems #spellcastingservices #magicitemcost #economics #economy #price #appraising #statistical #permanent #cost
