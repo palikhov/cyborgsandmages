@@ -131,8 +131,7 @@ export const DND_TYPES = {
 	monstrosity: 'монстр',
 	ooze: 'жижа',
 	plant: 'растение',
-	undead: 'нежить',
-	outsider: `планарный`
+	undead: 'нежить'
 };
 
 export const DND_SIZES = {
