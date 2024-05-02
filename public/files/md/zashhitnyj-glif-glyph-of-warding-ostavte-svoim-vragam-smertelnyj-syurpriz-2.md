@@ -1,12 +1,12 @@
 ---
-title: "Защитный глиф (glyph of warding): оставьте своим врагам смертельный сюрприз"
-date: "2022-10-08"
-categories: 
-  - "dndbeyond"
-  - "our-materials"
-tags: 
-  - "5e"
-  - "translate"
+title: 'Защитный глиф (glyph of warding): оставьте своим врагам смертельный сюрприз'
+date: '2022-10-08'
+categories:
+  - 'dndbeyond'
+  - 'our-materials'
+tags:
+  - '5e'
+  - 'translate'
 ---
 
 #GlyphOfWarding #translate #dndbeyond #5e #spell #abjuration #3rd #draft

@@ -1,8 +1,8 @@
 ---
-title: "Пропущенная нулевая сессия"
-date: "2022-08-05"
-categories: 
-  - "translations-other"
+title: 'Пропущенная нулевая сессия'
+date: '2022-08-05'
+categories:
+  - 'translations-other'
 ---
 
 Переводчик: Станислав Иванов

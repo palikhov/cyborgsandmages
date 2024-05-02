@@ -1,9 +1,9 @@
 ---
-title: "#ВсякаяВсячина — События для королевства (случайная генерация и сюжетные структуры)"
-date: "2022-07-18"
-categories: 
-  - "krossposty"
-  - "translations-other"
+title: '#ВсякаяВсячина — События для королевства (случайная генерация и сюжетные структуры)'
+date: '2022-07-18'
+categories:
+  - 'krossposty'
+  - 'translations-other'
 ---
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2022/07/071822_0052_1.jpg)

@@ -1,14 +1,13 @@
 ---
-title: "Предыстории персонажей, Часть 1"
-date: "2019-03-18"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-metki-i-rubriki"
+title: 'Предыстории персонажей, Часть 1'
+date: '2019-03-18'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-metki-i-rubriki'
 ---
 
-  
-https://vk.com/@dungeonsandsuffering-predystorii-personazhei-chast-1  
+https://vk.com/@dungeonsandsuffering-predystorii-personazhei-chast-1
 
 текст [J.T. Evans](https://vk.com/away.php?to=https%3A%2F%2Fgnomestew.com%2Fauthor%2Fjtevans%2F&cc_key=) от 1 марта 2019 года
 

@@ -1,14 +1,14 @@
 ---
-title: "Предыстории персонажей, Часть 1"
-date: "2022-07-29"
-categories: 
-  - "our-materials"
-  - "advices"
-tags: 
-  - "gmadvice"
-  - "nachinayushhim-masteram"
-  - "sovet-masteru"
-  - "dm-tips"
+title: 'Предыстории персонажей, Часть 1'
+date: '2022-07-29'
+categories:
+  - 'our-materials'
+  - 'advices'
+tags:
+  - 'gmadvice'
+  - 'nachinayushhim-masteram'
+  - 'sovet-masteru'
+  - 'dm-tips'
 ---
 
 #backgrounds #шляк

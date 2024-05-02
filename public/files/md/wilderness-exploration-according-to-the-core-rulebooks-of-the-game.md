@@ -1,18 +1,18 @@
 ---
-title: "Wilderness Exploration according to the core rulebooks of the game."
-date: "2023-03-03"
-categories: 
-  - "patreon"
-tags: 
-  - "5e"
-  - "combat"
-  - "hex"
-  - "hexcrawl"
-  - "perception"
-  - "random-encounters"
-  - "spell"
-  - "travel"
-  - "wilderness"
+title: 'Wilderness Exploration according to the core rulebooks of the game.'
+date: '2023-03-03'
+categories:
+  - 'patreon'
+tags:
+  - '5e'
+  - 'combat'
+  - 'hex'
+  - 'hexcrawl'
+  - 'perception'
+  - 'random-encounters'
+  - 'spell'
+  - 'travel'
+  - 'wilderness'
 ---
 
 **Wilderness Exploration according to the core rulebooks of the game.**
@@ -213,7 +213,7 @@ A marching order makes it easier to determine which characters are affected by t
 
 **Noticing Threats PHB p182** (If no activity is taken, this is the default task done)"Characters who turn their attention to other tasks as the group travels are not focused on watching for danger.
 
-These characters don't contribute their passive Wisdom (Perception) scores to the group's chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the DM's permission." PHB p182_**Navigate.**_ **PHB p183**
+These characters don't contribute their passive Wisdom (Perception) scores to the group's chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the DM's permission." PHB p182***Navigate.*** **PHB p183**
 
 _**Draw a Map.**_ **PHB p183**
 

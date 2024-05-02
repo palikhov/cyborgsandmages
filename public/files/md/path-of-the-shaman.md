@@ -1,11 +1,11 @@
 ---
-title: "Path of the shaman"
-date: "2022-08-07"
-categories: 
-  - "homebrew"
-tags: 
-  - "druid"
-  - "homebrew"
+title: 'Path of the shaman'
+date: '2022-08-07'
+categories:
+  - 'homebrew'
+tags:
+  - 'druid'
+  - 'homebrew'
 ---
 
 #barbarian #archetype #shaman #homebrew

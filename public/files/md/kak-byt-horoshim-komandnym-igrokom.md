@@ -1,8 +1,8 @@
 ---
-title: "Как быть хорошим командным игроком"
-date: "2022-12-29"
-categories: 
-  - "translations"
+title: 'Как быть хорошим командным игроком'
+date: '2022-12-29'
+categories:
+  - 'translations'
 ---
 
 #dnd #player #playertips
@@ -39,4 +39,4 @@ _Эй, Рудрик, давай возьмем немного тех денег,
 
 Источник: [Red Dice Diaries - Player Tips: 5 tips to be a better team player](https://reddicediaries.com/player-tips/player-tips-5-tips-to-be-a-better-team-player/)
 
-Источник_: <[https://tentaculus.ru/archive/articles/How\_to\_be\_a\_good\_team\_player.html](https://tentaculus.ru/archive/articles/How_to_be_a_good_team_player.html)\>_
+Источник*: <[https://tentaculus.ru/archive/articles/How\_to\_be\_a\_good\_team\_player.html](https://tentaculus.ru/archive/articles/How_to_be_a_good_team_player.html)\>*

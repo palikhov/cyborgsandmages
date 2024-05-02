@@ -1,10 +1,10 @@
 ---
-title: "Как сказал Эд от 27 мая 2005 г - Об эльфах и их пище"
-date: "2020-07-25"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Как сказал Эд от 27 мая 2005 г - Об эльфах и их пище'
+date: '2020-07-25'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 Перевод: Amethyst Bard
@@ -47,6 +47,6 @@ tags:
 
 e-mail: moon\_bard@mail.ru
 
-Skype: amethyst\_bard
+Skype: amethyst_bard
 
 Информация предоставляется в ознакомительных целях, не для коммерческого использования. Вся информация, а так же изображения принадлежат их авторам и используются в ознакомительных целях.

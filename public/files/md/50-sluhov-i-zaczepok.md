@@ -1,11 +1,11 @@
 ---
-title: "50 слухов и зацепок"
-date: "2022-07-29"
-categories: 
-  - "resources"
-tags: 
-  - "generatory"
-  - "resursy-dlya-mastera"
+title: '50 слухов и зацепок'
+date: '2022-07-29'
+categories:
+  - 'resources'
+tags:
+  - 'generatory'
+  - 'resursy-dlya-mastera'
 ---
 
 #rumors #hooks #adventurehook #tavern

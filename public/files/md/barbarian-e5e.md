@@ -1,19 +1,19 @@
 ---
-title: "Варвар | E5E"
-date: "2022-04-14"
-categories: 
-  - "e5e"
-tags: 
-  - "5e"
-  - "e5e"
-  - "homebrew"
+title: 'Варвар | E5E'
+date: '2022-04-14'
+categories:
+  - 'e5e'
+tags:
+  - '5e'
+  - 'e5e'
+  - 'homebrew'
 ---
 
 **Файл: [E5E CLASSES REV 007 28052022.docx](https://1drv.ms/w/s!Atcrhwwo1lBA19hWtDTlK9IQjozOaA?e=ReepyW)**
 
- 
 
- 
+
+
 
 # PRIMAL PATHS
 
@@ -83,7 +83,7 @@ Shaman Spellcasting
 
 <table><tbody><tr><td width="89"><strong>Barbarian Level</strong></td><td width="89"><strong>Cantrips Known</strong></td><td width="89"><strong>Spells Known</strong></td><td colspan="4" width="356"><strong>Spell Slots per Spell Level</strong></td></tr><tr><td width="89">&nbsp;</td><td width="89">&nbsp;</td><td width="89">&nbsp;</td><td width="89">1st</td><td width="89">2nd</td><td width="89">3rd</td><td width="89">4th</td></tr><tr><td width="89">3</td><td width="89">3</td><td width="89">3</td><td width="89">2</td><td width="89">—</td><td width="89">—</td><td width="89">—</td></tr><tr><td width="89">4</td><td width="89">3</td><td width="89">3</td><td width="89">3</td><td width="89">—</td><td width="89">—</td><td width="89">—</td></tr><tr><td width="89">5</td><td width="89">3</td><td width="89">4</td><td width="89">3</td><td width="89">2</td><td width="89">—</td><td width="89">—</td></tr><tr><td width="89">6</td><td width="89">3</td><td width="89">4</td><td width="89">4</td><td width="89">2</td><td width="89">—</td><td width="89">—</td></tr><tr><td width="89">7</td><td width="89">3</td><td width="89">5</td><td width="89">4</td><td width="89">3</td><td width="89">2</td><td width="89">—</td></tr><tr><td width="89">8</td><td width="89">3</td><td width="89">5</td><td width="89">4</td><td width="89">3</td><td width="89">2</td><td width="89">—</td></tr><tr><td width="89">9</td><td width="89">3</td><td width="89">6</td><td width="89">4</td><td width="89">3</td><td width="89">3</td><td width="89">—</td></tr><tr><td width="89">10</td><td width="89">4</td><td width="89">6</td><td width="89">4</td><td width="89">3</td><td width="89">3</td><td width="89">—</td></tr><tr><td width="89">11</td><td width="89">4</td><td width="89">7</td><td width="89">4</td><td width="89">3</td><td width="89">3</td><td width="89">—</td></tr><tr><td width="89">12</td><td width="89">4</td><td width="89">7</td><td width="89">4</td><td width="89">3</td><td width="89">3</td><td width="89">—</td></tr><tr><td width="89">13</td><td width="89">4</td><td width="89">8</td><td width="89">4</td><td width="89">3</td><td width="89">3</td><td width="89">—</td></tr><tr><td width="89">14</td><td width="89">4</td><td width="89">8</td><td width="89">4</td><td width="89">3</td><td width="89">3</td><td width="89">—</td></tr><tr><td width="89">15</td><td width="89">4</td><td width="89">9</td><td width="89">4</td><td width="89">3</td><td width="89">3</td><td width="89">—</td></tr><tr><td width="89">16</td><td width="89">4</td><td width="89">9</td><td width="89">4</td><td width="89">3</td><td width="89">3</td><td width="89">—</td></tr><tr><td width="89">17</td><td width="89">4</td><td width="89">10</td><td width="89">4</td><td width="89">3</td><td width="89">3</td><td width="89">1</td></tr><tr><td width="89">18</td><td width="89">4</td><td width="89">10</td><td width="89">4</td><td width="89">3</td><td width="89">3</td><td width="89">1</td></tr><tr><td width="89">19</td><td width="89">4</td><td width="89">11</td><td width="89">4</td><td width="89">3</td><td width="89">3</td><td width="89">2</td></tr><tr><td width="89">20</td><td width="89">4</td><td width="89">11</td><td width="89">4</td><td width="89">3</td><td width="89">3</td><td width="89">2</td></tr></tbody></table>
 
- 
+
 
 ### TOTEMIC GUIDANCE
 

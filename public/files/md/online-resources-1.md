@@ -1,29 +1,29 @@
 ---
-title: "Компендиум ссылок на онлайн ресурсы для игроков и мастеров 2"
-date: "2022-06-04"
-categories: 
-  - "resources"
-tags: 
-  - "5e"
-  - "compendium"
-  - "gm-advice"
-  - "gm-advices"
-  - "gm-tips"
-  - "homebrew"
-  - "links"
-  - "list"
-  - "online"
-  - "random-encounters"
-  - "resources"
-  - "materials"
-  - "resursy-dlya-igrokov"
-  - "resursy-dlya-mastera"
-  - "dm-tips"
+title: 'Компендиум ссылок на онлайн ресурсы для игроков и мастеров 2'
+date: '2022-06-04'
+categories:
+  - 'resources'
+tags:
+  - '5e'
+  - 'compendium'
+  - 'gm-advice'
+  - 'gm-advices'
+  - 'gm-tips'
+  - 'homebrew'
+  - 'links'
+  - 'list'
+  - 'online'
+  - 'random-encounters'
+  - 'resources'
+  - 'materials'
+  - 'resursy-dlya-igrokov'
+  - 'resursy-dlya-mastera'
+  - 'dm-tips'
 ---
 
 Подборка ресурсов для мастеров и игроков, но к сожалению на английском языке:
 
-* * *
+---
 
 ## Character Sheets
 

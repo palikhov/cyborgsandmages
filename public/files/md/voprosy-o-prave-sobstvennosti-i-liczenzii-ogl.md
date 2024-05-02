@@ -1,8 +1,8 @@
 ---
-title: "Вопросы о праве собственности и лицензии (OGL)"
-date: "2022-07-18"
-categories: 
-  - "krossposty"
+title: 'Вопросы о праве собственности и лицензии (OGL)'
+date: '2022-07-18'
+categories:
+  - 'krossposty'
 ---
 
 # ❓ Чем Dungeon Masters Guild отличается от Open Game License (OGL)?

@@ -1,15 +1,15 @@
 ---
-title: "Дополнение к исследованию гексов: Вождение"
-date: "2022-08-05"
-categories: 
-  - "alexandrian"
-tags: 
-  - "5e"
-  - "alexandrian"
-  - "hexcrawl"
-  - "justin-alexander"
-  - "random-encounters"
-  - "translate"
+title: 'Дополнение к исследованию гексов: Вождение'
+date: '2022-08-05'
+categories:
+  - 'alexandrian'
+tags:
+  - '5e'
+  - 'alexandrian'
+  - 'hexcrawl'
+  - 'justin-alexander'
+  - 'random-encounters'
+  - 'translate'
 ---
 
 Перевод: Станислав Иванов

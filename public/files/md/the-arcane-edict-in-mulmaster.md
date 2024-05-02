@@ -1,15 +1,15 @@
 ---
-title: "The Arcane Edict in Mulmaster"
-date: "2018-04-01"
-categories: 
-  - "adventurers-league"
-  - "homebrew"
-  - "forgottenrealms"
-tags: 
-  - "adventurers-league"
-  - "forgotten-realms"
-  - "mulmaster"
-  - "season-2"
+title: 'The Arcane Edict in Mulmaster'
+date: '2018-04-01'
+categories:
+  - 'adventurers-league'
+  - 'homebrew'
+  - 'forgottenrealms'
+tags:
+  - 'adventurers-league'
+  - 'forgotten-realms'
+  - 'mulmaster'
+  - 'season-2'
 ---
 
 Mulmaster: City of Danger. Struggling under the weight of an oppressive and corrupt government, life is difficult for the peoples of this proud and ancient city. Most people know better than to complain about the hardship however, not only out of fear of reprisal – but because they know life is that much worse for the most hated of Mulmaster’s criminals – Arcane Spellcasters! While on the surface, Mulmaster’s draconian laws appear punitive; such laws provide a refreshing backdrop for dramatic, roleplaying opportunities rarely seen in other settings. Enforced with totalitarian authority, the Arcane Edict (first presented in the recent State of Mulmaster article) is designed not to punish players, but to challenge them to find creative and unorthodox solutions to common problems – or suffer the consequences. With that being said, many players and DMs are justifiably concerned how to fairly adjudicate the Acane Edict. DMs are encouraged to use the Arcane Edict and the threat of reprisal as a tool to increase dramatic tension, but at the same time should remember to reward unorthodox thinking. At times, this might mean leaving the dice on the table, and allowing the party’s actions to succeed. At other times, this might mean a series of dramatic encounters designed to test the party’s creativity, as they attempt to circumvent and/or escape the clutches of the ruthless Brotherhood of Cloaks. While DMs should never completely remove the threat of failure, they should remain mindful not to wield the Arcane Edict as a blunt instrument. Adjudicating the Arcane Edict requires a certain degree of finesse. Ruled too leniently, and it removes the implicit threat and reduces dramatic tension. Ruled too harshly, and it becomes punitive and undermines player enjoyment at the table. This article serves to offer suggestions and guidelines to aid DMs and players alike in adjudicating the Edict, with the goal being that its enforcement enriches your gaming experience, and helps to create dramatic stories which will be told and retold for decades to come!
@@ -30,6 +30,6 @@ Arrest warrants for characters, NPCs, and other perpetrators which vaguely resem
 
 While the threat of arcane sanction remains ever present, the threat of interparty conflict or serious harm to a non-Cloak character as a result of their spellcasting activities is marginal. Players and DMs alike should treat their “illegal spellcasting” as an opportunity for riveting storytelling, and should explore the ramifications in its totality. It is situations such as this that make for epic gaming stories. Stories that are likely to be told years if not decades to come.
 
-* * *
+---
 
 [Mulmaster on Adventurers League Wiki](https://adventurersleague.wikia.com/wiki/Mulmaster) [Mulmaster on Forgotten Realms Wiki](https://forgottenrealms.wikia.com/wiki/Mulmaster) [Mulmaster on Aerie Wiki](http://wiki.aerie.ru/wiki/%D0%9C%D1%83%D0%BB%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80)

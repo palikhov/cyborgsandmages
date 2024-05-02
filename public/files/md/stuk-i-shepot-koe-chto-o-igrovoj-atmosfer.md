@@ -1,10 +1,10 @@
 ---
-title: "Стук и шепот. Кое-что о игровой атмосфере в подземелье"
-date: "2019-11-22"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Стук и шепот. Кое-что о игровой атмосфере в подземелье'
+date: '2019-11-22'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 Игрокам становится скучно, когда они перестают бояться.
@@ -31,7 +31,7 @@ tags:
 
 **Эй, а вы уже видели мой** [**Генератор случайных встреч в подземелье**](http://stormtower.ru/generator/generator-sluchaynyih-vstrech-v-podzemele.html)**? Там припасено не мало хороших идей!**
 
-_вдохновено статьей_ _Sights_ _and_ _Sounds_ _in_ _Dungeons_ _&_ _Dragons_ _(__Robert_ _Dushay_ _&_ _Michael_ _Weisberg__) из_ _The_ _Dragon_ _№17_
+_вдохновено статьей_ _Sights_ _and_ _Sounds_ _in_ _Dungeons_ _&_ _Dragons_ _(\_\_Robert_ _Dushay_ _&_ _Michael_ _Weisberg\_\_) из_ _The_ _Dragon_ _№17_
 
 _Автор: **Александр «Мэлфис К.» Фролов**. Источник: **Штормовая башня**_
 

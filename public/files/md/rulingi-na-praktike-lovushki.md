@@ -1,11 +1,11 @@
 ---
-title: "Рулинги на практике: Ловушки"
-date: "2022-07-27"
-categories: 
-  - "alexandrian"
-tags: 
-  - "перевод"
-  - "justin-alexander"
+title: 'Рулинги на практике: Ловушки'
+date: '2022-07-27'
+categories:
+  - 'alexandrian'
+tags:
+  - 'перевод'
+  - 'justin-alexander'
 ---
 
 Категорія    Alexandrian

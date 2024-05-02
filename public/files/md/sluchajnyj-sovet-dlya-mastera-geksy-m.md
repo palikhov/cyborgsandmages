@@ -1,11 +1,11 @@
 ---
-title: "Случайный совет для Мастера – Гексы-матрёшки"
-date: "2022-07-08"
-categories: 
-  - "alexandrian"
-tags: 
-  - "перевод"
-  - "justin-alexander"
+title: 'Случайный совет для Мастера – Гексы-матрёшки'
+date: '2022-07-08'
+categories:
+  - 'alexandrian'
+tags:
+  - 'перевод'
+  - 'justin-alexander'
 ---
 
 Текст [Justin Alexander](https://vk.com/away.php?to=https://thealexandrian.net/about&cc_key=) от 25 июля 2021 года

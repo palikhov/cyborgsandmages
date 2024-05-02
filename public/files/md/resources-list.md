@@ -1,17 +1,17 @@
 ---
-title: "Resources List"
-date: "2022-07-04"
-categories: 
-  - "our-materials"
-tags: 
-  - "wordpress-crosspost"
+title: 'Resources List'
+date: '2022-07-04'
+categories:
+  - 'our-materials'
+tags:
+  - 'wordpress-crosspost'
 ---
 
-[Resources List](https://cyborgsandmages.com/?p=9235 "Оригинал статьи.") был опубликован — [Киборги и Чародеи](https://cyborgsandmages.com)
+[Resources List](https://cyborgsandmages.com/?p=9235 'Оригинал статьи.') был опубликован — [Киборги и Чародеи](https://cyborgsandmages.com)
 
 Присоединяйтесь к нашему сообществу в Discord https://discord.com/invite/GcmhsFfxQ5 или Телеграм https://t.me/cyborgs\_and\_mages
 
-* * *
+---
 
 Если вы считаете что мы делаем нужное дело — можете помочь финансово оплатить доступ к D&D Beyond и затраты на хостинг и доменное имя.
 
@@ -21,7 +21,7 @@ MASTERCARD 5168 7520 1042 0431
 
 А если можете помочь чем то другим, то не ждите — сразу пишите в комментариях.
 
-[Resources List](https://cyborgsandmages.com/?p=9386 "Оригинал статьи.") был опубликован — [Киборги и Чародеи](https://cyborgsandmages.com)
+[Resources List](https://cyborgsandmages.com/?p=9386 'Оригинал статьи.') был опубликован — [Киборги и Чародеи](https://cyborgsandmages.com)
 
 Присоединяйтесь к нашему сообществу в Discord https://discord.com/invite/GcmhsFfxQ5 или Телеграм https://t.me/cyborgs\_and\_mages
 
@@ -33,7 +33,7 @@ https://ko-fi.com/palant
 
 А если можете помочь чем то другим, то не ждите — сразу пишите в комментариях.
 
-[Resources List](https://cyborgsandmages.com/?p=9625 "Оригинал статьи.") был опубликован — [Киборги и Чародеи](https://cyborgsandmages.com)
+[Resources List](https://cyborgsandmages.com/?p=9625 'Оригинал статьи.') был опубликован — [Киборги и Чародеи](https://cyborgsandmages.com)
 
 Присоединяйтесь к нашему сообществу в Discord https://discord.com/invite/GcmhsFfxQ5 или Телеграм https://t.me/cyborgs\_and\_mages
 
@@ -45,7 +45,7 @@ https://ko-fi.com/palant
 
 А если можете помочь чем то другим, то не ждите — сразу пишите в комментариях.
 
-[Resources List](https://cyborgsandmages.com/?p=9887 "Оригинал статьи.") был опубликован — [Киборги и Чародеи](https://cyborgsandmages.com)
+[Resources List](https://cyborgsandmages.com/?p=9887 'Оригинал статьи.') был опубликован — [Киборги и Чародеи](https://cyborgsandmages.com)
 
 Присоединяйтесь к нашему сообществу в Discord https://discord.com/invite/GcmhsFfxQ5 или Телеграм https://t.me/cyborgs\_and\_mages
 
@@ -57,7 +57,7 @@ https://ko-fi.com/palant
 
 А если можете помочь чем то другим, то не ждите — сразу пишите в комментариях.
 
-[Resources List](https://cyborgsandmages.com/?p=10143 "Оригинал статьи.") был опубликован - [Киборги и Чародеи](https://cyborgsandmages.com)
+[Resources List](https://cyborgsandmages.com/?p=10143 'Оригинал статьи.') был опубликован - [Киборги и Чародеи](https://cyborgsandmages.com)
 
 Присоединяйтесь к нашему сообществу в Discord https://discord.com/invite/GcmhsFfxQ5 или Телеграм https://t.me/cyborgs\_and\_mages
 

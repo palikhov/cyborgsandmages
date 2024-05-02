@@ -1,13 +1,13 @@
 ---
-title: "Art of Rulings - Глава 5: Навык и сложность"
-date: "2019-03-09"
-categories: 
-  - "alexandrian"
-  - "translations-other"
-tags: 
-  - "alexandrian"
-  - "justin-alexander"
-  - "translate"
+title: 'Art of Rulings - Глава 5: Навык и сложность'
+date: '2019-03-09'
+categories:
+  - 'alexandrian'
+  - 'translations-other'
+tags:
+  - 'alexandrian'
+  - 'justin-alexander'
+  - 'translate'
 ---
 
 Перевод: [Ангон](https://docs.google.com/document/d/13Ov9ItJiZ_gUPP08wt-gR3EFPOCTnKBMTXRpaW8nqHQ/edit#)

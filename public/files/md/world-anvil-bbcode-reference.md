@@ -1,10 +1,10 @@
 ---
-title: "World Anvil Guide"
-date: "2018-12-23"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'World Anvil Guide'
+date: '2018-12-23'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 BBCode (Bulletin Board Code) is a simple way of adding some spice to your content. It will allow you to add headers, images, links, make text bold, italic or underline it and many other cool things. In order to use it. Use the list of available BBCodes below in your text fields.
@@ -254,7 +254,7 @@ Drop us a line at hello@worldanvil.com and we will be happy to answer it and upd
 RPG CAMPAIGN AND ADVENURE PLOTS THE GREAT GM STYLE
 
 - These will appear on the top of the page and are visible to only yourself.  
-    OBJECTIVE
+   OBJECTIVE
 
 This is your objective to be achieved during the adventure - The PCs learn about the rise of the Dark Lord, or The PCs find a ring in a lake.
 

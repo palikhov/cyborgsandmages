@@ -1,11 +1,11 @@
 ---
-title: "Искусство войны для D&D — Стратегия боя"
-date: "2020-01-06"
-categories: 
-  - "forgottenrealms"
-tags: 
-  - "5e"
-  - "forgotten-realms"
+title: 'Искусство войны для D&D — Стратегия боя'
+date: '2020-01-06'
+categories:
+  - 'forgottenrealms'
+tags:
+  - '5e'
+  - 'forgotten-realms'
 ---
 
 отрывок THE ART OF WAR FOR D&D PLAYERS — перевод D&D Модно

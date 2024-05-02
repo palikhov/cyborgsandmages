@@ -1,10 +1,10 @@
 ---
-title: "Adventurers League Russia Vs Adventurers League Россия (AL Russia)"
-date: "2018-06-07"
-categories: 
-  - "adventurers-league"
-tags: 
-  - "adventurers-league"
+title: 'Adventurers League Russia Vs Adventurers League Россия (AL Russia)'
+date: '2018-06-07'
+categories:
+  - 'adventurers-league'
+tags:
+  - 'adventurers-league'
 ---
 
 ## ![Adventurers League](https://adventurersleague.files.wordpress.com/2018/06/adventurers-league.jpg)Adventurers League Russia Vs Adventurers League Россия (AL Russia) или как спустить свой авторитет в унитаз не заметив этого

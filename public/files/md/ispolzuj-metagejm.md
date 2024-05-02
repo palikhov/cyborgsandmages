@@ -1,8 +1,8 @@
 ---
-title: "Используй метагейм"
-date: "2022-08-26"
-categories: 
-  - "krossposty"
+title: 'Используй метагейм'
+date: '2022-08-26'
+categories:
+  - 'krossposty'
 ---
 
 #crosspost #metagame

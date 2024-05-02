@@ -1,10 +1,10 @@
 ---
-title: "Волки-одиночки"
-date: "2019-12-20"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Волки-одиночки'
+date: '2019-12-20'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 Система AD&D2  

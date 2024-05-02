@@ -1,13 +1,13 @@
 ---
-title: "Знамения и предсказания в Dungeons and Dragons"
-date: "2022-08-26"
-categories: 
-  - "translations-other"
-tags: 
-  - "translate"
+title: 'Знамения и предсказания в Dungeons and Dragons'
+date: '2022-08-26'
+categories:
+  - 'translations-other'
+tags:
+  - 'translate'
 ---
 
- Текст [MALCON THE FIREBRINGER](https://vk.com/away.php?to=https%3A%2F%2Foldschoolroleplaying.com%2Fauthor%2Fmalcon-the-firebringer%2F&cc_key=) от [FEBRUARY 16, 2019](https://vk.com/away.php?to=https%3A%2F%2Foldschoolroleplaying.com%2Fomens-and-prophecies-in-dungeons-and-dragons%2F&cc_key=)
+Текст [MALCON THE FIREBRINGER](https://vk.com/away.php?to=https%3A%2F%2Foldschoolroleplaying.com%2Fauthor%2Fmalcon-the-firebringer%2F&cc_key=) от [FEBRUARY 16, 2019](https://vk.com/away.php?to=https%3A%2F%2Foldschoolroleplaying.com%2Fomens-and-prophecies-in-dungeons-and-dragons%2F&cc_key=)
 
 Перевод: Станислав Иванов
 

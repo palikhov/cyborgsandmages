@@ -1,8 +1,8 @@
 ---
-title: "Самое время для случайного столкновения"
-date: "2022-07-25"
-categories: 
-  - "krossposty"
+title: 'Самое время для случайного столкновения'
+date: '2022-07-25'
+categories:
+  - 'krossposty'
 ---
 
 #randomencounters #wanderingmonsters #crosspost
@@ -106,4 +106,4 @@ categories:
 
 **_Автор/переводчик: Александр «Мэлфис К.» Фролов. Источник: Штормовая башня, написано под вдохновением от сайта [talesoftheramblingbumblers.com](https://talesoftheramblingbumblers.com/)_**
 
- _Источник: <https://stormtower.ru/kartografiya/samoe-vremya-dlya-sluchaynogo-stolknoveniya.html>_
+_Источник: <https://stormtower.ru/kartografiya/samoe-vremya-dlya-sluchaynogo-stolknoveniya.html>_

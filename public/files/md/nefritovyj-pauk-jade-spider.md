@@ -1,11 +1,11 @@
 ---
-title: "Нефритовый паук (Jade Spider)"
-date: "2022-10-01"
-categories: 
-  - "spelljammer-ships"
-tags: 
-  - "5e"
-  - "spelljammer"
+title: 'Нефритовый паук (Jade Spider)'
+date: '2022-10-01'
+categories:
+  - 'spelljammer-ships'
+tags:
+  - '5e'
+  - 'spelljammer'
 ---
 
 #spelljammer #2e #5e #drow #jadespider #ship

@@ -1,9 +1,9 @@
 ---
-title: "Перевод - Искусство боя малым отрядом: Роль существ"
-date: "2022-07-17"
-categories: 
-  - "krossposty"
-  - "translations-other"
+title: 'Перевод - Искусство боя малым отрядом: Роль существ'
+date: '2022-07-17'
+categories:
+  - 'krossposty'
+  - 'translations-other'
 ---
 
 Перевод: Станислав Иванов

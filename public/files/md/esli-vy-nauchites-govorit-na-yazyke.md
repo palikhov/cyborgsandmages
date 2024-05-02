@@ -1,16 +1,16 @@
 ---
-title: "Если вы научитесь «говорить на языке» разных НРИ, вам будет проще общаться с новыми игроками"
-date: "2019-11-05"
-categories: 
-  - "our-materials"
-  - "translations-other"
-  - "setting"
-  - "articles"
-tags: 
-  - "5e"
-  - "dungeoneering-as-suffering"
-  - "rogue"
-  - "заметки"
+title: 'Если вы научитесь «говорить на языке» разных НРИ, вам будет проще общаться с новыми игроками'
+date: '2019-11-05'
+categories:
+  - 'our-materials'
+  - 'translations-other'
+  - 'setting'
+  - 'articles'
+tags:
+  - '5e'
+  - 'dungeoneering-as-suffering'
+  - 'rogue'
+  - 'заметки'
 ---
 
 текст Neal Litherland от 21 октября 2019 года

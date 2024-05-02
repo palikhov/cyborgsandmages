@@ -1,8 +1,8 @@
 ---
-title: "Dragonstar"
-date: "2022-08-11"
-categories: 
-  - "krossposty"
+title: 'Dragonstar'
+date: '2022-08-11'
+categories:
+  - 'krossposty'
 ---
 
 Dragonstar — сеттинг на базе 3,0 редакции Dungeons & Dragons, издававшийся издателем Fantasy Flight Games на пике своего могущества. По своему тону он больше тяготеет к научной фантастике, нежели к оголтелому технофентези, но со своими допущениями.

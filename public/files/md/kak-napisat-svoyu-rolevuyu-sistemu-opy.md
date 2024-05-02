@@ -1,12 +1,12 @@
 ---
-title: "КАК НАПИСАТЬ СВОЮ РОЛЕВУЮ СИСТЕМУ? ОПЫТ АВТОРА ИГРЫ «НИТИ СУДЬБЫ»"
-date: "2020-02-17"
-categories: 
-  - "our-materials"
-tags: 
-  - "5e"
-  - "gmresoruces"
-  - "statblock"
+title: 'КАК НАПИСАТЬ СВОЮ РОЛЕВУЮ СИСТЕМУ? ОПЫТ АВТОРА ИГРЫ «НИТИ СУДЬБЫ»'
+date: '2020-02-17'
+categories:
+  - 'our-materials'
+tags:
+  - '5e'
+  - 'gmresoruces'
+  - 'statblock'
 ---
 
 Оригинал: [https://www.mirf.ru/games/kak-napisat-svoyu-rolevuyu-sistemu-opyt-avtory-igry-niti-sudby](https://www.mirf.ru/games/kak-napisat-svoyu-rolevuyu-sistemu-opyt-avtory-igry-niti-sudby)

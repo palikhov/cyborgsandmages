@@ -1,10 +1,10 @@
 ---
-title: "Воровской жаргон"
-date: "2022-12-29"
-categories: 
-  - "resources"
-tags: 
-  - "resursy-dlya-mastera"
+title: 'Воровской жаргон'
+date: '2022-12-29'
+categories:
+  - 'resources'
+tags:
+  - 'resursy-dlya-mastera'
 ---
 
 #dnd #language #thiefcant
@@ -48,9 +48,7 @@ tags:
 Пора тушить свечи.
 
 - На случай, если мы всё-таки разобьём стакан - давайте двинем мебель за вампира.
-    
 - Ну ты и капля. Однако, давайте двинем.
-    
 
 **Словарь**
 

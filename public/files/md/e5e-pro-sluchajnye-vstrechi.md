@@ -1,27 +1,27 @@
 ---
-title: "E5E – Про случайные встречи"
-date: "2022-07-18"
-categories: 
-  - "e5e"
-  - "our-materials"
-  - "advices"
-tags: 
-  - "5e"
-  - "creature"
-  - "e5e"
-  - "gm-advice"
-  - "gm-tips"
-  - "gmadvice"
-  - "homebrew"
-  - "mechanic"
-  - "procedure"
-  - "random-encounters"
-  - "ranfom-encounters"
-  - "tool"
-  - "universal"
-  - "wandering-monsters"
-  - "sovet"
-  - "dm-tips"
+title: 'E5E – Про случайные встречи'
+date: '2022-07-18'
+categories:
+  - 'e5e'
+  - 'our-materials'
+  - 'advices'
+tags:
+  - '5e'
+  - 'creature'
+  - 'e5e'
+  - 'gm-advice'
+  - 'gm-tips'
+  - 'gmadvice'
+  - 'homebrew'
+  - 'mechanic'
+  - 'procedure'
+  - 'random-encounters'
+  - 'ranfom-encounters'
+  - 'tool'
+  - 'universal'
+  - 'wandering-monsters'
+  - 'sovet'
+  - 'dm-tips'
 ---
 
 #randomencounters #random #encounters #motive #goal #npc #creature #tool #mechanic #procedure #gmtips #gmadvice #gm

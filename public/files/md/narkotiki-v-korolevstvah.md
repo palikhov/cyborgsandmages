@@ -1,12 +1,12 @@
 ---
-title: "Наркотики в Королевствах"
-date: "2018-03-13"
-categories: 
-  - "homebrew"
-  - "forgottenrealms"
-tags: 
-  - "5e"
-  - "forgotten-realms"
+title: 'Наркотики в Королевствах'
+date: '2018-03-13'
+categories:
+  - 'homebrew'
+  - 'forgottenrealms'
+tags:
+  - '5e'
+  - 'forgotten-realms'
 ---
 
 # Drugs of the Realms

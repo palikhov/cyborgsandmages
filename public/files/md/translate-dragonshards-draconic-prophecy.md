@@ -1,11 +1,11 @@
 ---
-title: "[Перевод] Dragonshards: «Драконье пророчество»"
-date: "2022-02-22"
-categories: 
-  - "perevody-prochie"
-tags: 
-  - "translate"
-  - "eberron"
+title: '[Перевод] Dragonshards: «Драконье пророчество»'
+date: '2022-02-22'
+categories:
+  - 'perevody-prochie'
+tags:
+  - 'translate'
+  - 'eberron'
 ---
 
 Перевод старой (2004 год) статьи Кита Бейкера для сайта Wizards.com. Арты (все — официальные от WotC) взяты из сети, чтобы разбавить старомодную стену текста.
@@ -68,6 +68,6 @@ tags:
 
 Кит Бейкер стал фанатом Dungeons & Dragons ещё в начальной школе. Его жизнь предприняла драматический поворот в 2002 году, когда он послал мир Эберрон на конкурс «Поиск Фэнтези Сеттинга» Wizards of the Coast. Вдобавок к разработке Игрового Сеттинга Эберрон и Теней Последней Войны, он работал на издательства Atlas Games, Goodman Games и Green Ronin.
 
- 
+
 
 [Источник](https://vk.com/@rerouch-perevod-dragonshards-drakone-prorochestvo)

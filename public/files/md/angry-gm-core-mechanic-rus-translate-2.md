@@ -1,13 +1,13 @@
 ---
-title: "[Перевод] Основная механика Злого ГМ-а"
-date: "2021-12-31"
-categories: 
-  - "prochie-domashnie-pravila"
-tags: 
-  - "angrygm"
-  - "e5e"
-  - "magic-items"
-  - "translate"
+title: '[Перевод] Основная механика Злого ГМ-а'
+date: '2021-12-31'
+categories:
+  - 'prochie-domashnie-pravila'
+tags:
+  - 'angrygm'
+  - 'e5e'
+  - 'magic-items'
+  - 'translate'
 ---
 
 ## Общее описание

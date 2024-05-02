@@ -1,11 +1,11 @@
 ---
-title: "Играем лучше. Проверки характеристик."
-date: "2019-06-11"
-categories: 
-  - "forgottenrealms"
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Играем лучше. Проверки характеристик.'
+date: '2019-06-11'
+categories:
+  - 'forgottenrealms'
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 Как играть  

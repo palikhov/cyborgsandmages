@@ -1,20 +1,20 @@
 ---
-title: "Монастырь Желтой Розы"
-date: "2018-07-20"
-categories: 
-  - "forgottenrealms"
-tags: 
-  - "forgotten-realms"
+title: 'Монастырь Желтой Розы'
+date: '2018-07-20'
+categories:
+  - 'forgottenrealms'
+tags:
+  - 'forgotten-realms'
 ---
 
 С пиков Гор Эартспур, застывшая река льда проливается с высокого утеса в Лунное море на одном конце и в Озеро Айсмелт между Импильтуром и Дамарой на другом. Ледник Белого Червя назван по имени белых реморхазов, которые бродят по нему, часто в стадах по дюжине или более и, по общему мнению, во главе с "королем" – червем гигантского размера. Авантюристы сообщают, что убегали от снежных пауков гигантского размера или реморхазов, головы которых были увечаны длинными, достигающими щупальцами. Ледник - также дом многих меньших существ. Старые истории гласят, что этот ледник был некогда частью Великого Ледника, охватившего все эти страны. Современные мудрецы предупреждают о чем-то зловещем, работающем в или под этим высоким льдом. Ледник слишком далеко на юге и на слишком низкой высоте, чтобы сохраняться без основанной на холоде магии великой силы, предполагают они, и безопасность всего Фаэруна может быть стержнем при изучении того, кто работает такой магией и почему — или, по крайней мере, изучении истинной природы и сил "белых червей". Глядя на ледник, включенная в зубчатую сторону одного из самых высоких пиков Эартспур, стоит Цитадель Белого Червя. Эта протяженная крепость балконов, окон и башенок включает и туннели в скалах под ней плюс бесконечные комнаты, проходы и катакомбы древнего возраста. Цитадель лучше известна как Монастырь Желтой Розы, святой дом [Илматера](https://adventurersleague.wordpress.com/2018/07/20/%d0%b8%d0%bb%d0%bc%d0%b0%d1%82%d0%b5%d1%80/). Монахи здесь уважают Страдающего Бога, делают черничное вино, содержат обширный архив Стран Кровавого Камня и сохраняют работу преданных [Илматеру](https://adventurersleague.wordpress.com/2018/07/20/%d0%b8%d0%bb%d0%bc%d0%b0%d1%82%d0%b5%d1%80/) в захватывающем музее искусств и ручной работы. Монахи Желтой Розы также собирают и записывают местные новости из Дамары, Импильтура, Нарфелла и Ваасы.
 
-* * *
+---
 
-[Скачать описание монастыря Желтой Розы из Traveler's Book составленного писцами сайта Candlekeep.com](https://adventurersleague.files.wordpress.com/2018/07/yellowrose.pdf "YellowRose") [Смотреть описание Монастыря Желтой Розы на Forgotten Realms Wiki](https://forgottenrealms.wikia.com/wiki/Monastery_of_the_Yellow_Rose) [Смотреть описание Монастыря Желтой Розы на Adventurers League Wiki](https://adventurersleague.wikia.com/wiki/Monastery_of_the_Yellow_Rose)
+[Скачать описание монастыря Желтой Розы из Traveler's Book составленного писцами сайта Candlekeep.com](https://adventurersleague.files.wordpress.com/2018/07/yellowrose.pdf 'YellowRose') [Смотреть описание Монастыря Желтой Розы на Forgotten Realms Wiki](https://forgottenrealms.wikia.com/wiki/Monastery_of_the_Yellow_Rose) [Смотреть описание Монастыря Желтой Розы на Adventurers League Wiki](https://adventurersleague.wikia.com/wiki/Monastery_of_the_Yellow_Rose)
 
 > ## Это интересно и важно. В приключениях Лиги Авантюристов [DDEX2-6 Дыхание Желтой Розы](http://www.dmsguild.com/product/170480/DDEX206-Breath-of-the-Yellow-Rose-5e?affiliate_id=759617),  [DDEX2-09 Eye of the Tempest](http://www.dmsguild.com/product/170484/DDEX209-Eye-of-the-Tempest-5e?affiliate_id=759617) , [DDEX2-13 The Howling Void](http://www.dmsguild.com/product/170488/DDEX213-The-Howling-Void-5e?affiliate_id=759617) действие происходит в т.ч. и в монастыре.
 
-* * *
+---
 
 Монастырь Желтой Розы — Monastary of the Yellow Rose — [http://www.candlekeep.com/downloads/yellowrose.zip](http://www.candlekeep.com/downloads/yellowrose.zip)

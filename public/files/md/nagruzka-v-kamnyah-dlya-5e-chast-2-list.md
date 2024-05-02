@@ -1,14 +1,14 @@
 ---
-title: "Нагрузка в камнях для 5E – Часть 2: Лист"
-date: "2022-06-10"
-categories: 
-  - "alexandrian"
-tags: 
-  - "5e"
-  - "dungeons-as-suffering"
-  - "перевод"
-  - "encumbrance"
-  - "justin-alexander"
+title: 'Нагрузка в камнях для 5E – Часть 2: Лист'
+date: '2022-06-10'
+categories:
+  - 'alexandrian'
+tags:
+  - '5e'
+  - 'dungeons-as-suffering'
+  - 'перевод'
+  - 'encumbrance'
+  - 'justin-alexander'
 ---
 
 Текст Justin Alexander от 19 октября 2021 года

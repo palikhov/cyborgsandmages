@@ -1,16 +1,16 @@
 ---
-title: "Домашние правила для Спеллджаммера"
-date: "2022-08-12"
-categories: 
-  - "e5e"
-  - "homebrew"
-  - "spelljammer"
-  - "our-materials"
-  - "hb-rules"
-tags: 
-  - "5e"
-  - "e5e"
-  - "homebrew"
+title: 'Домашние правила для Спеллджаммера'
+date: '2022-08-12'
+categories:
+  - 'e5e'
+  - 'homebrew'
+  - 'spelljammer'
+  - 'our-materials'
+  - 'hb-rules'
+tags:
+  - '5e'
+  - 'e5e'
+  - 'homebrew'
 ---
 
 #e5e #5e #spelljammer #homebrew #secondaryskills #proficiency #proficiencypoints #downtime #training #homerules #siegeweapons

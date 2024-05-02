@@ -1,15 +1,15 @@
 ---
-title: "Александрийский гекскраул в пятой редакции"
-date: "2022-06-03"
-categories: 
-  - "alexandrian"
-tags: 
-  - "5e"
-  - "alexandrian"
-  - "hexcrawl"
-  - "justin-alexander"
-  - "toc"
-  - "translate"
+title: 'Александрийский гекскраул в пятой редакции'
+date: '2022-06-03'
+categories:
+  - 'alexandrian'
+tags:
+  - '5e'
+  - 'alexandrian'
+  - 'hexcrawl'
+  - 'justin-alexander'
+  - 'toc'
+  - 'translate'
 ---
 
 [Част**ь 1.**](https://cyborgsandmages.com/translations/%d0%98%d1%81%d1%81%d0%bb%d0%b5%d0%b4%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b3%d0%b5%d0%ba%d1%81%d0%be%d0%b2-%d0%b2-5e/)

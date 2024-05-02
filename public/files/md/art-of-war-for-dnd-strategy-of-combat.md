@@ -1,12 +1,12 @@
 ---
-title: "Искусство войны для D&D — Стратегия боя"
-date: "2019-07-06"
-categories: 
-  - "advices"
-tags: 
-  - "combat"
-  - "random-encounters"
-  - "dm-tips"
+title: 'Искусство войны для D&D — Стратегия боя'
+date: '2019-07-06'
+categories:
+  - 'advices'
+tags:
+  - 'combat'
+  - 'random-encounters'
+  - 'dm-tips'
 ---
 
 #artofwar #tips #advice #comabt #war #strategy

@@ -1,17 +1,17 @@
 ---
-title: "Десять основных элементов старой школы D&D"
-date: "2022-12-17"
-categories: 
-  - "oldschoolroleplaying"
-  - "krossposty"
-  - "translations"
-tags: 
-  - "osr"
+title: 'Десять основных элементов старой школы D&D'
+date: '2022-12-17'
+categories:
+  - 'oldschoolroleplaying'
+  - 'krossposty'
+  - 'translations'
+tags:
+  - 'osr'
 ---
 
 #osr #translate #crosspost
 
-[перевод](https://www.rpg.net/columns/talesfromtherockethouse/talesfromtherockethouse86.phtml "https://www.rpg.net/columns/talesfromtherockethouse/talesfromtherockethouse86.phtml") статьи, автор **Brent Dedeaux**
+[перевод](https://www.rpg.net/columns/talesfromtherockethouse/talesfromtherockethouse86.phtml 'https://www.rpg.net/columns/talesfromtherockethouse/talesfromtherockethouse86.phtml') статьи, автор **Brent Dedeaux**
 
 В своей последней статье я говорил о том, как легко и просто модифицировать старые версии D&D (белая коробка, красная коробка и т.д.). И это подводит меня к вопросу: насколько сильно вы можете модифицировать игру, чтобы она все еще оставалась, по сути, игрой старой школы Dungeons & Dragons?
 

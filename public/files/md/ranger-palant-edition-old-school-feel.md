@@ -1,14 +1,14 @@
 ---
-title: "Еще одна переделка рейнджера"
-date: "2019-08-28"
-categories: 
-  - "articles"
-tags: 
-  - "archetype"
-  - "class"
-  - "perception"
-  - "ranger"
-  - "заметки"
+title: 'Еще одна переделка рейнджера'
+date: '2019-08-28'
+categories:
+  - 'articles'
+tags:
+  - 'archetype'
+  - 'class'
+  - 'perception'
+  - 'ranger'
+  - 'заметки'
 ---
 
 ### Ranger. Palant variant
@@ -94,6 +94,6 @@ Stalker (на основе Глум Сталкера), Monster Slayer, Hunter.
 
 [Альфа версия вариантного рейнджера от Паланта](https://1drv.ms/w/s!Atcrhwwo1lBAxLppVVABXTY_ftoLAQ)
 
-* * *
+---
 
 [\[1\]](#_ftnref1) Не реализовано.

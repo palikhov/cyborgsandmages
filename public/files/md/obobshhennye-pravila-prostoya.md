@@ -1,14 +1,14 @@
 ---
-title: "Обобщенные правила простоя"
-date: "2022-07-24"
-categories: 
-  - "e5e"
-  - "homebrew"
-  - "our-materials"
-  - "articles"
-tags: 
-  - "homebrew"
-  - "заметки"
+title: 'Обобщенные правила простоя'
+date: '2022-07-24'
+categories:
+  - 'e5e'
+  - 'homebrew'
+  - 'our-materials'
+  - 'articles'
+tags:
+  - 'homebrew'
+  - 'заметки'
 ---
 
 #downtime #craft #rules #houserules #homebrew #training #learning

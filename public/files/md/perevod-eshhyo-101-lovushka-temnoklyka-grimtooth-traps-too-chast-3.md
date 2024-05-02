@@ -1,11 +1,11 @@
 ---
-title: "[Перевод] Ещё 101 Ловушка Темноклыка (Grimtooth traps too), часть 3"
-date: "2022-11-10"
-categories: 
-  - "translations"
-tags: 
-  - "lovushki"
-  - "translate"
+title: '[Перевод] Ещё 101 Ловушка Темноклыка (Grimtooth traps too), часть 3'
+date: '2022-11-10'
+categories:
+  - 'translations'
+tags:
+  - 'lovushki'
+  - 'translate'
 ---
 
 #translate #dnd #traps #grimtoothtraps #tools #crosspost

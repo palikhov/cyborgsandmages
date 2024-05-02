@@ -1,11 +1,11 @@
 ---
-title: "Цели перевода SRD"
-date: "2019-01-05"
-categories: 
-  - "our-materials"
-  - "srd-translate"
-tags: 
-  - "translate"
+title: 'Цели перевода SRD'
+date: '2019-01-05'
+categories:
+  - 'our-materials'
+  - 'srd-translate'
+tags:
+  - 'translate'
 ---
 
 Зачем мы вообще взялись за эту SRD?

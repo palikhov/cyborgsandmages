@@ -1,11 +1,11 @@
 ---
-title: "Создание предметов вне стола"
-date: "2022-07-24"
-categories: 
-  - "angry"
-tags: 
-  - "5e"
-  - "craft"
+title: 'Создание предметов вне стола'
+date: '2022-07-24'
+categories:
+  - 'angry'
+tags:
+  - '5e'
+  - 'craft'
 ---
 
 #craft #houserules #homebrew #5e #angrygm #translate

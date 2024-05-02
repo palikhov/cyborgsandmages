@@ -1,12 +1,12 @@
 ---
-title: "Советы Мастеру: задавайте вопросы и слушайте"
-date: "2022-12-29"
-categories: 
-  - "translations"
-  - "advices"
-tags: 
-  - "gm-advice"
-  - "dm-tips"
+title: 'Советы Мастеру: задавайте вопросы и слушайте'
+date: '2022-12-29'
+categories:
+  - 'translations'
+  - 'advices'
+tags:
+  - 'gm-advice'
+  - 'dm-tips'
 ---
 
 #dnd #gm #gmtips #gmadvice #advice #tips #translate
@@ -73,6 +73,6 @@ _**Игрок:** Да, думаю его дворецкий выпивает з
 
 Источник: [Red Dice Diaries - GM Tips: Ask Questions and listen](http://reddicediaries.com/gm-tips/gm-tips-ask-questions-and-listen/)
 
-   
+
 
 _Источник: <[https://tentaculus.ru/archive/articles/DM\_tips\_Ask\_and\_Listen.html](https://tentaculus.ru/archive/articles/DM_tips_Ask_and_Listen.html)\>_

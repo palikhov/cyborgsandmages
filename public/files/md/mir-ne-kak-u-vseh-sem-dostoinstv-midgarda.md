@@ -1,9 +1,9 @@
 ---
-title: "МИР «НЕ КАК У ВСЕХ». СЕМЬ ДОСТОИНСТВ МИДГАРДА"
-date: "2022-07-24"
-categories: 
-  - "krossposty"
-  - "midgard"
+title: 'МИР «НЕ КАК У ВСЕХ». СЕМЬ ДОСТОИНСТВ МИДГАРДА'
+date: '2022-07-24'
+categories:
+  - 'krossposty'
+  - 'midgard'
 ---
 
 #midgard #crosspost #advantages

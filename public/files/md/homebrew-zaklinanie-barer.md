@@ -1,16 +1,16 @@
 ---
-title: "[Homebrew] Заклинание: Барьер"
-date: "2022-07-25"
-categories: 
-  - "spells-e5e"
-  - "our-materials"
-tags: 
-  - "creature"
-  - "homebrew"
-  - "perception"
-  - "spells"
-  - "travel"
-  - "заклинания"
+title: '[Homebrew] Заклинание: Барьер'
+date: '2022-07-25'
+categories:
+  - 'spells-e5e'
+  - 'our-materials'
+tags:
+  - 'creature'
+  - 'homebrew'
+  - 'perception'
+  - 'spells'
+  - 'travel'
+  - 'заклинания'
 ---
 
 _1ый круг, Отречение (Ритуал)_

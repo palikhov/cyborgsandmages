@@ -1,10 +1,10 @@
 ---
-title: "Как играть за иллитида-злодея: Советы и подсказки"
-date: "2019-06-09"
-categories: 
-  - "articles"
-tags: 
-  - "unsorted"
+title: 'Как играть за иллитида-злодея: Советы и подсказки'
+date: '2019-06-09'
+categories:
+  - 'articles'
+tags:
+  - 'unsorted'
 ---
 
 Иллитиды, Свежеватели Разума, Майнд Флееры — у этих существ есть множество названий, однако известно про них одно: они необычно опасны и очень умны. Если вы встретитесь против такого существа неподготовленными, то очень быстро потеряете контроль над своим разумом и станете вечным рабом иллитидов.
@@ -75,7 +75,7 @@ tags:
 
 **Передвижение**. У иллитидов средняя скорость передвижения, однако они умеют левитировать благодаря врожденным псионическим способностям. Левитация позволяет им перемещаться вертикально (но не горизонтально!) по воздуху, используя передвижение.
 
-**Врожденное использование заклинаний**. У иллитида есть доступ к некоторым заклинаниям: _[обнаружение мыслей](https://vk.com/away.php?to=https%3A%2F%2Fwww.dndbeyond.com%2Fspells%2Fdetect-thoughts&cc_key=)_ и _[левитация](https://vk.com/away.php?to=https%3A%2F%2Fwww.dndbeyond.com%2Fspells%2Flevitate&cc_key=)_ по желанию, а также _[подчинение чудовища](https://vk.com/away.php?to=https%3A%2F%2Fwww.dndbeyond.com%2Fspells%2Fdominate-monster&cc_key=)_ и _[уход в иной мир](https://vk.com/away.php?to=https%3A%2F%2Fwww.dndbeyond.com%2Fspells%2Fplane-shift&cc_key=)_ один раз в день.
+**Врожденное использование заклинаний**. У иллитида есть доступ к некоторым заклинаниям: *[обнаружение мыслей](https://vk.com/away.php?to=https%3A%2F%2Fwww.dndbeyond.com%2Fspells%2Fdetect-thoughts&cc_key=)* и *[левитация](https://vk.com/away.php?to=https%3A%2F%2Fwww.dndbeyond.com%2Fspells%2Flevitate&cc_key=)* по желанию, а также *[подчинение чудовища](https://vk.com/away.php?to=https%3A%2F%2Fwww.dndbeyond.com%2Fspells%2Fdominate-monster&cc_key=)* и *[уход в иной мир](https://vk.com/away.php?to=https%3A%2F%2Fwww.dndbeyond.com%2Fspells%2Fplane-shift&cc_key=)* один раз в день.
 
 Немного подробнее про заклинания:
 

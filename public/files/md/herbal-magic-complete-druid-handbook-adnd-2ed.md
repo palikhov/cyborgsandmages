@@ -1,14 +1,14 @@
 ---
-title: "Травяная Магия [The Complete Druid’s Handbook AD&D 2ed]"
-date: "2021-12-03"
-categories: 
-  - "resources"
-tags: 
-  - "add-2ed"
-  - "herbalism"
-  - "the-complete-druids-handbook"
-  - "materials"
-  - "translate"
+title: 'Травяная Магия [The Complete Druid’s Handbook AD&D 2ed]'
+date: '2021-12-03'
+categories:
+  - 'resources'
+tags:
+  - 'add-2ed'
+  - 'herbalism'
+  - 'the-complete-druids-handbook'
+  - 'materials'
+  - 'translate'
 ---
 
 Персонаж с навыком травоведения может пользоваться травами в дополнение к умению лечить, как это описано в Главе 5 Руководство Игрока (с.59). Однако некоторые друиды обладают исключительными познаниями в области трав которые позволяют им создавать волшебные травяные отвары.

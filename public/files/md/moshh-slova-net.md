@@ -1,10 +1,10 @@
 ---
-title: "Мощь слова «Нет»"
-date: "2019-03-10"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-metki-i-rubriki"
+title: 'Мощь слова «Нет»'
+date: '2019-03-10'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-metki-i-rubriki'
 ---
 
 https://vk.com/@noroleplaying-mosch-slova-net

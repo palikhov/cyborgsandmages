@@ -1,11 +1,11 @@
 ---
-title: "Weapon Charms"
-date: "2022-08-07"
-categories: 
-  - "homebrew"
-  - "magic-items-e5e"
-tags: 
-  - "creature"
+title: 'Weapon Charms'
+date: '2022-08-07'
+categories:
+  - 'homebrew'
+  - 'magic-items-e5e'
+tags:
+  - 'creature'
 ---
 
 ### Weapon Charms

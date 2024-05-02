@@ -1,16 +1,16 @@
 ---
-title: "[Перевод] — Время простоя и владения (для пятой редакции), ч.19 — Наемники, приспешники, наемники, помощники, домашние животные и последователи"
-date: "2022-07-17"
-categories: 
-  - "hack-and-slash-downtime-and-demesne-5e"
-  - "hackandslashmaster"
-  - "our-materials"
-tags: 
-  - "5e"
-  - "courtny-campbell"
-  - "downtime"
-  - "hackandslash"
-  - "translate"
+title: '[Перевод] — Время простоя и владения (для пятой редакции), ч.19 — Наемники, приспешники, наемники, помощники, домашние животные и последователи'
+date: '2022-07-17'
+categories:
+  - 'hack-and-slash-downtime-and-demesne-5e'
+  - 'hackandslashmaster'
+  - 'our-materials'
+tags:
+  - '5e'
+  - 'courtny-campbell'
+  - 'downtime'
+  - 'hackandslash'
+  - 'translate'
 ---
 
 _Глава 3. Персонажи и люди_

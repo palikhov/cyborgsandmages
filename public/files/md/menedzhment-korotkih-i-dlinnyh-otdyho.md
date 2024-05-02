@@ -1,10 +1,10 @@
 ---
-title: "Менеджмент коротких и длинных отдыхов в D&D 5"
-date: "2019-09-17"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubrku"
+title: 'Менеджмент коротких и длинных отдыхов в D&D 5'
+date: '2019-09-17'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubrku'
 ---
 
 Заметка Никиты Станиславского из ВК.

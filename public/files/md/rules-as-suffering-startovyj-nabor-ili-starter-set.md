@@ -1,10 +1,10 @@
 ---
-title: "Rules as Suffering. Стартовый Набор или Starter Set"
-date: "2019-08-06"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Rules as Suffering. Стартовый Набор или Starter Set'
+date: '2019-08-06'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 ![](https://sun9-9.userapi.com/c858224/v858224163/2fc9c/sZxSwxYSQqI.jpg)

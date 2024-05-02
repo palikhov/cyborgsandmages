@@ -1,10 +1,10 @@
 ---
-title: "[Перевод] Хакинг по ролям: Прикрой, атакую!"
-date: "2022-06-23"
-categories: 
-  - "translations-homebrew"
-tags: 
-  - "translate"
+title: '[Перевод] Хакинг по ролям: Прикрой, атакую!'
+date: '2022-06-23'
+categories:
+  - 'translations-homebrew'
+tags:
+  - 'translate'
 ---
 
 ## Реалистичный хак

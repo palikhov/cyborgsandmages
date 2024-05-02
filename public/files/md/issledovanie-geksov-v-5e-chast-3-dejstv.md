@@ -1,14 +1,14 @@
 ---
-title: "Исследование гексов в 5E – Часть 3: Действия во время смены"
-date: "2021-07-30"
-categories: 
-  - "alexandrian"
-  - "переводы"
-tags: 
-  - "dungeons-as-suffering"
-  - "перевод"
-  - "hexcrawl"
-  - "justin-alexander"
+title: 'Исследование гексов в 5E – Часть 3: Действия во время смены'
+date: '2021-07-30'
+categories:
+  - 'alexandrian'
+  - 'переводы'
+tags:
+  - 'dungeons-as-suffering'
+  - 'перевод'
+  - 'hexcrawl'
+  - 'justin-alexander'
 ---
 
 Текст Justin Alexander от 28 марта 2021 года

@@ -1,10 +1,10 @@
 ---
-title: "Монстры. Подлые тактики."
-date: "2019-03-21"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-metki-i-rubriki"
+title: 'Монстры. Подлые тактики.'
+date: '2019-03-21'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-metki-i-rubriki'
 ---
 
 https://vk.com/@316251277-gmtips05

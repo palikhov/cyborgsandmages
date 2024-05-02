@@ -1,9 +1,9 @@
 ---
-title: "Экология неоги"
-date: "2022-08-22"
-categories: 
-  - "spelljammer"
-  - "translations-other"
+title: 'Экология неоги'
+date: '2022-08-22'
+categories:
+  - 'spelljammer'
+  - 'translations-other'
 ---
 
 #neogi #ecology #spelljammer #bestiary #lore #translate

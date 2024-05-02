@@ -1,16 +1,16 @@
 ---
-title: "СРД"
-date: "2023-01-20"
-categories: 
-  - "translations-other"
-tags: 
-  - "osr"
-  - "random-encounters"
+title: 'СРД'
+date: '2023-01-20'
+categories:
+  - 'translations-other'
+tags:
+  - 'osr'
+  - 'random-encounters'
 ---
 
 #translate #osr #rule #ruling
 
- 
+
 
 Это перевод [статьи](https://lukegearing.blot.im/srd) Люка Гиринга.
 

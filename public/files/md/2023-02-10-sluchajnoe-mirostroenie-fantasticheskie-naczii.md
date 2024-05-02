@@ -1,12 +1,12 @@
 ---
-title: "Случайное миростроение – Фантастические нации"
-date: "2023-02-10"
-categories: 
-  - "alexandrian"
-tags: 
-  - "alexandrian"
-  - "justin-alexander"
-  - "translate"
+title: 'Случайное миростроение – Фантастические нации'
+date: '2023-02-10'
+categories:
+  - 'alexandrian'
+tags:
+  - 'alexandrian'
+  - 'justin-alexander'
+  - 'translate'
 ---
 
 #worldbuilding #alexndrian #justinalexander #translate

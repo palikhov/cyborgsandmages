@@ -1,12 +1,12 @@
 ---
-title: "Грамотная подготовка. Часть IV"
-date: "2022-07-18"
-categories: 
-  - "alexandrian"
-tags: 
-  - "alexandrian"
-  - "justin-alexander"
-  - "translate"
+title: 'Грамотная подготовка. Часть IV'
+date: '2022-07-18'
+categories:
+  - 'alexandrian'
+tags:
+  - 'alexandrian'
+  - 'justin-alexander'
+  - 'translate'
 ---
 
 Перевод: Станислав Иванов

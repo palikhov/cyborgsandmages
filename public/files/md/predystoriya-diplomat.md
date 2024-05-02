@@ -1,9 +1,9 @@
 ---
-title: "Предыстория: Дипломат"
-date: "2022-08-07"
-categories: 
-  - "homebrew"
-  - "backgrounds-homebrew"
+title: 'Предыстория: Дипломат'
+date: '2022-08-07'
+categories:
+  - 'homebrew'
+  - 'backgrounds-homebrew'
 ---
 
 **Владение навыками:** Проницательность, Убеждение

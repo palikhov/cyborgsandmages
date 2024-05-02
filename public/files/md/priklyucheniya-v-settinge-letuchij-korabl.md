@@ -1,8 +1,8 @@
 ---
-title: "Приключения в сеттинге «Летучий Корабль»"
-date: "2022-07-25"
-categories: 
-  - "spelljammer"
+title: 'Приключения в сеттинге «Летучий Корабль»'
+date: '2022-07-25'
+categories:
+  - 'spelljammer'
 ---
 
 #spelljammer #adnd

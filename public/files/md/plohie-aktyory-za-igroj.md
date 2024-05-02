@@ -1,10 +1,10 @@
 ---
-title: "Плохие актёры за игрой"
-date: "2019-09-17"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubrku"
+title: 'Плохие актёры за игрой'
+date: '2019-09-17'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubrku'
 ---
 
 Перевели Candramelekh и Эргонт

@@ -1,13 +1,13 @@
 ---
-title: "[Обзор] Ruins of Symbaroum 5e"
-date: "2022-04-14"
-categories: 
-  - "articles"
-tags: 
-  - "5e"
-  - "symbaroum"
-  - "video-2"
-  - "обзор"
+title: '[Обзор] Ruins of Symbaroum 5e'
+date: '2022-04-14'
+categories:
+  - 'articles'
+tags:
+  - '5e'
+  - 'symbaroum'
+  - 'video-2'
+  - 'обзор'
 ---
 
 \[embed\]https://www.youtube.com/watch?v=pEYi4bTiArY\[/embed\]

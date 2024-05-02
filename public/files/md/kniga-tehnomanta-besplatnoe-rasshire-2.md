@@ -1,13 +1,13 @@
 ---
-title: "Книга Техноманта - бесплатное расширение правил пятой редакции для киберпанка"
-date: "2021-07-07"
-categories: 
-  - "articles"
-tags: 
-  - "cyberpank"
-  - "free"
-  - "homebrew"
-  - "technomancer-textbook"
+title: 'Книга Техноманта - бесплатное расширение правил пятой редакции для киберпанка'
+date: '2021-07-07'
+categories:
+  - 'articles'
+tags:
+  - 'cyberpank'
+  - 'free'
+  - 'homebrew'
+  - 'technomancer-textbook'
 ---
 
 ![](https://cyborgsandmages.files.wordpress.com/2021/07/technomancers-textbook-cover-1.png?w=635)

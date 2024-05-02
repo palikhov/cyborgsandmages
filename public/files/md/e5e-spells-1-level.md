@@ -1,12 +1,12 @@
 ---
-title: "[E5E] Заклинания - 1ый круг"
-date: "2022-05-28"
-categories: 
-  - "e5e"
-tags: 
-  - "5e"
-  - "e5e"
-  - "homebrew"
+title: '[E5E] Заклинания - 1ый круг'
+date: '2022-05-28'
+categories:
+  - 'e5e'
+tags:
+  - '5e'
+  - 'e5e'
+  - 'homebrew'
 ---
 
 [E5E SPELLCASTING - SPELLS - 1 LVL 29052022.docx](https://1drv.ms/w/s!Atcrhwwo1lBA19hh-FGXrPYE5YJEcA?e=MlqIr3)

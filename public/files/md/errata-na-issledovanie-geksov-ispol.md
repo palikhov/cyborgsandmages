@@ -1,13 +1,13 @@
 ---
-title: "Эррата на исследование гексов: Использование таблиц столкновений"
-date: "2021-07-29"
-categories: 
-  - "alexandrian"
-  - "переводы"
-tags: 
-  - "dungeons-as-suffering"
-  - "перевод"
-  - "justin-alexander"
+title: 'Эррата на исследование гексов: Использование таблиц столкновений'
+date: '2021-07-29'
+categories:
+  - 'alexandrian'
+  - 'переводы'
+tags:
+  - 'dungeons-as-suffering'
+  - 'перевод'
+  - 'justin-alexander'
 ---
 
 Текст Justin Alexander от 23 июля 2021 года

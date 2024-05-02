@@ -1,15 +1,15 @@
 ---
-title: "Грамотная подготовка. Часть II"
-date: "2022-05-24"
-categories: 
-  - "alexandrian"
-  - "translations-other"
-tags: 
-  - "alexandrian"
-  - "dungeons-as-suffering"
-  - "justin-alexander"
-  - "translate"
-  - "dm-tips"
+title: 'Грамотная подготовка. Часть II'
+date: '2022-05-24'
+categories:
+  - 'alexandrian'
+  - 'translations-other'
+tags:
+  - 'alexandrian'
+  - 'dungeons-as-suffering'
+  - 'justin-alexander'
+  - 'translate'
+  - 'dm-tips'
 ---
 
 текст Justin Alexander от 29 мая 2018 года

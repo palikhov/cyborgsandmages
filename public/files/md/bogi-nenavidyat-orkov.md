@@ -1,9 +1,9 @@
 ---
-title: "Боги ненавидят орков"
-date: "2022-08-07"
-categories: 
-  - "e5e-bestiary"
-  - "krossposty"
+title: 'Боги ненавидят орков'
+date: '2022-08-07'
+categories:
+  - 'e5e-bestiary'
+  - 'krossposty'
 ---
 
 Боги ненавидят орков.

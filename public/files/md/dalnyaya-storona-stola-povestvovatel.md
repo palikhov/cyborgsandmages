@@ -1,11 +1,11 @@
 ---
-title: "Дальняя сторона стола: Повествовательные ошибки"
-date: "2019-05-10"
-categories: 
-  - "our-materials"
-  - "articles"
-tags: 
-  - "unsorted"
+title: 'Дальняя сторона стола: Повествовательные ошибки'
+date: '2019-05-10'
+categories:
+  - 'our-materials'
+  - 'articles'
+tags:
+  - 'unsorted'
 ---
 
 текст [Jacob Huebsch](https://vk.com/away.php?to=http%3A%2F%2Fkoboldpress.com%2Fauthor%2F%3Fauthorname%3DJacob%2520Huebsch&cc_key=) от 26 апреля 2019 года

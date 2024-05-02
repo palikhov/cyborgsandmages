@@ -1,12 +1,12 @@
 ---
-title: "Рулинги на практике: Проверки восприятия — часть 2. Полотно восприятия"
-date: "2022-07-25"
-categories: 
-  - "alexandrian"
-tags: 
-  - "перевод"
-  - "justin-alexander"
-  - "perception"
+title: 'Рулинги на практике: Проверки восприятия — часть 2. Полотно восприятия'
+date: '2022-07-25'
+categories:
+  - 'alexandrian'
+tags:
+  - 'перевод'
+  - 'justin-alexander'
+  - 'perception'
 ---
 
 #rulings #perception #skillcheck #abilitycheck #alexandrian #justinalexander #translate

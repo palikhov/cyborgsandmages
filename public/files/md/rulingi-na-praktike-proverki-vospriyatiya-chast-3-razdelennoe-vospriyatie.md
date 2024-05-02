@@ -1,13 +1,13 @@
 ---
-title: "Рулинги на практике: Проверки восприятия — часть 3. Разделенное восприятие"
-date: "2022-07-28"
-categories: 
-  - "alexandrian"
-tags: 
-  - "5e"
-  - "перевод"
-  - "justin-alexander"
-  - "perception"
+title: 'Рулинги на практике: Проверки восприятия — часть 3. Разделенное восприятие'
+date: '2022-07-28'
+categories:
+  - 'alexandrian'
+tags:
+  - '5e'
+  - 'перевод'
+  - 'justin-alexander'
+  - 'perception'
 ---
 
 #rulings #perception #skillcheck #abilitycheck #alexandrian #justinalexander #translate

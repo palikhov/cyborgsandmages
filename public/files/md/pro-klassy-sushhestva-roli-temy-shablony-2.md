@@ -1,10 +1,10 @@
 ---
-title: "Про классы, существа, роли, темы, шаблоны"
-date: "2022-08-05"
-categories: 
-  - "our-materials"
-tags: 
-  - "random-encounters"
+title: 'Про классы, существа, роли, темы, шаблоны'
+date: '2022-08-05'
+categories:
+  - 'our-materials'
+tags:
+  - 'random-encounters'
 ---
 
 ## Классы

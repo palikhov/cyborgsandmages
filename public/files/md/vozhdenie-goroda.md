@@ -1,14 +1,14 @@
 ---
-title: "Вождение города"
-date: "2022-08-25"
-categories: 
-  - "alexandrian"
-tags: 
-  - "alexandrian"
-  - "gmadvice"
-  - "justin-alexander"
-  - "random-encounters"
-  - "translate"
+title: 'Вождение города'
+date: '2022-08-25'
+categories:
+  - 'alexandrian'
+tags:
+  - 'alexandrian'
+  - 'gmadvice'
+  - 'justin-alexander'
+  - 'random-encounters'
+  - 'translate'
 ---
 
 #alexandrian #justinalexander #city #town #citycrawling #gmadvice #gmtips #translate

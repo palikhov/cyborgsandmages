@@ -1,8 +1,8 @@
 ---
-title: "Скала Брол"
-date: "2022-07-25"
-categories: 
-  - "spelljammer"
+title: 'Скала Брол'
+date: '2022-07-25'
+categories:
+  - 'spelljammer'
 ---
 
 #rock-bral #bral-rock #rockbral #bralrock #spelljammer #adnd

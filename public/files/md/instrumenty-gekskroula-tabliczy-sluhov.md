@@ -1,16 +1,16 @@
 ---
-title: "Инструменты гекскроула: Таблицы слухов"
-date: "2022-10-23"
-categories: 
-  - "alexandrian"
-tags: 
-  - "5e"
-  - "перевод"
-  - "e5e"
-  - "gm-advice"
-  - "hexcrawl"
-  - "justin-alexander"
-  - "magic-items"
+title: 'Инструменты гекскроула: Таблицы слухов'
+date: '2022-10-23'
+categories:
+  - 'alexandrian'
+tags:
+  - '5e'
+  - 'перевод'
+  - 'e5e'
+  - 'gm-advice'
+  - 'hexcrawl'
+  - 'justin-alexander'
+  - 'magic-items'
 ---
 
 #dnd #5e #e5e #hexcrawl #rumor #rumors #table #tools #gmadvice #gmtips #alexandrian #translation

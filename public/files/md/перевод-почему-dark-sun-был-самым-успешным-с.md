@@ -1,8 +1,8 @@
 ---
-title: "[Перевод] Почему Dark Sun был самым успешным сеттингом четвертой редакции (Часть 1)"
-date: "2022-07-03"
-categories: 
-  - "translations-other"
+title: '[Перевод] Почему Dark Sun был самым успешным сеттингом четвертой редакции (Часть 1)'
+date: '2022-07-03'
+categories:
+  - 'translations-other'
 ---
 
 текст [Alphastream](https://vk.com/away.php?to=https://alphastream.org/index.php/author/alphaadmin/) от 16 января 2020 года
@@ -93,10 +93,10 @@ _A pile of DM rewards at a 4E Pax West Convention_
 
 Теперь же… Wizards похоже играют со своим расписанием релизов. D&D значительно выросло и в хобби приходят самые различные игроки. В 2016 вышел _Storm King's Thunder_ в качестве приключения, плюс _Volo's Guide to Monsters,_ а _Yawning Portal_ увидел свет лишь в 2017. 3 книги.
 
-Что же в 2018-2019? Основной выход _Waterdeep: Dragon Heist_ был поддержан _Dungeon of the Mad Mage_, но еще мы видели релизы _Mordenkainen's Tome of Foes, Guildmaster's Guide to Ravnica_, коробку Stranger Things, _Ghosts of Saltmarsh_, _Acquisitions Incorporated_, а также выход Эберрона на DMs Guild_._ 8 различных наименований!
+Что же в 2018-2019? Основной выход _Waterdeep: Dragon Heist_ был поддержан _Dungeon of the Mad Mage_, но еще мы видели релизы _Mordenkainen's Tome of Foes, Guildmaster's Guide to Ravnica_, коробку Stranger Things, _Ghosts of Saltmarsh_, _Acquisitions Incorporated_, а также выход Эберрона на DMs Guild*.* 8 различных наименований!
 
 WotC наверняка еще изменит свой график релизов. Книга Critical Role – это отличный и логически обоснованный выбор, основываясь на том, сколько новых игроков пришло, будучи фанатами CR, а также на том, как велика роль CR в качестве вдохновляющей и направляющей силы игры. Выйдут ли новые сеттинги? Будут ли возвращены старые сеттинги?
 
-В следующий раз мы наконец-то поговорим о том, почему Дарк Сан был наиболее успешным сеттингом четвертой редакции, и чему пятой есть у него поучиться. 
+В следующий раз мы наконец-то поговорим о том, почему Дарк Сан был наиболее успешным сеттингом четвертой редакции, и чему пятой есть у него поучиться.
 
 _Источник: < [https://vk.com/@dungeonsandsuffering-pochemu-dark-sun-byl-samym-uspeshnym-settingom-chetvertoi-r](https://vk.com/@dungeonsandsuffering-pochemu-dark-sun-byl-samym-uspeshnym-settingom-chetvertoi-r)\>_

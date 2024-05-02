@@ -1,13 +1,13 @@
 ---
-title: "E5E – Про проверки характеристик и навыков"
-date: "2022-07-18"
-categories: 
-  - "e5e"
-  - "our-materials"
-tags: 
-  - "5e"
-  - "e5e"
-  - "homebrew"
+title: 'E5E – Про проверки характеристик и навыков'
+date: '2022-07-18'
+categories:
+  - 'e5e'
+  - 'our-materials'
+tags:
+  - '5e'
+  - 'e5e'
+  - 'homebrew'
 ---
 
 # Проверки характеристик и навыков
@@ -75,7 +75,7 @@ tags:
 
 Кратко повторим основные элементы испытания навыков – количество необходимых успешных проверок, обычный уровень сложности этих проверок и количество преимуществ, которые персонажи могут использовать во время прохождения испытания навыков.
 
- 
+
 
 <table style="border-collapse:collapse" border="0"><colgroup><col style="width:110px"><col style="width:74px"><col style="width:107px"><col style="width:78px"></colgroup><tbody valign="top"><tr><td style="padding-left: 7px; padding-right: 7px">Комплексность<p></p></td><td style="padding-left: 7px; padding-right: 7px"><p>Успехи</p></td><td style="padding-left: 7px; padding-right: 7px"><p>Преимущества</p></td><td style="padding-left: 7px; padding-right: 7px"><p>Обычные УС</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>1</p></td><td style="padding-left: 7px; padding-right: 7px"><p>4</p></td><td style="padding-left: 7px; padding-right: 7px"><p>—</p></td><td style="padding-left: 7px; padding-right: 7px"><p>4 средних</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>2</p></td><td style="padding-left: 7px; padding-right: 7px"><p>6</p></td><td style="padding-left: 7px; padding-right: 7px"><p>—</p></td><td style="padding-left: 7px; padding-right: 7px"><p>5 средних, 1 тяжелый</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>3</p></td><td style="padding-left: 7px; padding-right: 7px"><p>8</p></td><td style="padding-left: 7px; padding-right: 7px"><p>2</p></td><td style="padding-left: 7px; padding-right: 7px"><p>6 средних, 2 тяжелых</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>4</p></td><td style="padding-left: 7px; padding-right: 7px"><p>10</p></td><td style="padding-left: 7px; padding-right: 7px"><p>4</p></td><td style="padding-left: 7px; padding-right: 7px"><p>7 средних, 3 тяжелых</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>5</p></td><td style="padding-left: 7px; padding-right: 7px"><p>12</p></td><td style="padding-left: 7px; padding-right: 7px"><p>6</p></td><td style="padding-left: 7px; padding-right: 7px"><p>8 средних, 4 тяжелых</p></td></tr></tbody></table>
 
@@ -174,7 +174,7 @@ tags:
 3. Кто-то делает что-то рискованное, безрассудное или небезопасное.
 4. Провал важной проверки характеристики.
 
- 
+
 
 Все это будет зависеть от ситуации и ощущений, которые вы испытываете за столом. Так что выберите то, что лучше всего подходит, или придумайте свое.
 

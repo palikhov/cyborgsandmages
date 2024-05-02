@@ -1,8 +1,8 @@
 ---
-title: "Такхизис"
-date: "2023-01-21"
-categories: 
-  - "dragonlance"
+title: 'Такхизис'
+date: '2023-01-21'
+categories:
+  - 'dragonlance'
 ---
 
 #krynn #deity #takhizis
@@ -91,7 +91,7 @@ categories:
 
 [**http://en.wikipedia.org/wiki/Takhisis**](http://en.wikipedia.org/wiki/Takhisis)
 
-[**http://www.dragonlance.ru/world/text/bogi\_krinna\_II/**](http://www.dragonlance.ru/world/text/bogi_krinna_II/)
+[**http://www.dragonlance.ru/world/text/bogi_krinna_II/**](http://www.dragonlance.ru/world/text/bogi_krinna_II/)
 
 **© 2009 — переведено [Мариаласа](http://www.dragonlance.ru/forum/index.php?showuser=7509), подготовлено [Lidok (Лидия Дукорская)](http://www.dragonlance.ru/forum/index.php?showuser=14673)**
 

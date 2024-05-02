@@ -1,13 +1,13 @@
 ---
-title: "Авернус - первый уровень Баатора"
-date: "2019-05-25"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Авернус - первый уровень Баатора'
+date: '2019-05-25'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
-Layer 1: Avernus  
+Layer 1: Avernus
 
 The entryway to Baator seethes with danger. Devil armies muster on Avernus’s stony wasteland, and its primary waterway, the River Styx, robs intelligent creatures of their identities within moments of exposure. Other pools and rivers run thick with the blood shed in a million battles, ready to claim the lives of any who slip from their rocky, gore-slicked banks. Fireballs careen through the atmosphere, randomly incinerating those who are not immune to their effects. Toothy mountains loom on every side, offering fatal obstacles to those unwise enough to scale them, and sharp edges of crystalline rock tear at flesh and clothing.
 
@@ -185,7 +185,7 @@ An amnesiac usually adopts the alignment and attitudes of any new friends he mee
 
 A character in this situation takes all the normal penalties for changing alignment. Thus, the paladin in the above example would lose his relevant class abilities for changing alignment and would not automatically recover them even after regaining his memory.
 
-In most cases, a creature reverts to its normal alignment when its memories return, but in some cases the new person¬ality that emerges overwhelms the old one. Such a change can become permanent at the DM’s discretion. 
+In most cases, a creature reverts to its normal alignment when its memories return, but in some cases the new person¬ality that emerges overwhelms the old one. Such a change can become permanent at the DM’s discretion.
 
 AVERNUS ENCOUNTERS
 

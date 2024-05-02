@@ -1,10 +1,10 @@
 ---
-title: "Импровизация в хоррорах"
-date: "2019-12-07"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Импровизация в хоррорах'
+date: '2019-12-07'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 _за авторством Кеннета Хайта_

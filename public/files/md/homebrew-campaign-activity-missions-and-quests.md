@@ -1,15 +1,15 @@
 ---
-title: "[Homebrew] Деятельность кампании: выполнение задания"
-date: "2022-06-22"
-categories: 
-  - "hb-rules"
-tags: 
-  - "5e"
-  - "campaign-activity"
-  - "downtime"
-  - "e5e"
-  - "homebrew"
-  - "dm-tips"
+title: '[Homebrew] Деятельность кампании: выполнение задания'
+date: '2022-06-22'
+categories:
+  - 'hb-rules'
+tags:
+  - '5e'
+  - 'campaign-activity'
+  - 'downtime'
+  - 'e5e'
+  - 'homebrew'
+  - 'dm-tips'
 ---
 
 В одной из моих кампаний мне понадобилась механика для быстрого разрешения заданий и миссий, которые выполняются Персонажами Мастера и Персонажами Игроков за сценой.

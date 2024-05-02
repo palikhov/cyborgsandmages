@@ -1,11 +1,11 @@
 ---
-title: "[Cityscape] События и столкновения"
-date: "2023-02-11"
-categories: 
-  - "resources"
-tags: 
-  - "cityscape"
-  - "random-encounters"
+title: '[Cityscape] События и столкновения'
+date: '2023-02-11'
+categories:
+  - 'resources'
+tags:
+  - 'cityscape'
+  - 'random-encounters'
 ---
 
 #cityscape #dnd35 #dnd #town #resource

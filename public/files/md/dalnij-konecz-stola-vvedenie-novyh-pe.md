@@ -1,10 +1,10 @@
 ---
-title: "Дальний конец стола: Введение новых персонажей в вашу игру"
-date: "2018-12-30"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Дальний конец стола: Введение новых персонажей в вашу игру'
+date: '2018-12-30'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 Перевод: Станислав Иванов https://vk.com/@dungeonsandsuffering-dalnii-konec-stola-vvedenie-novyh-personazhei-v-vashu-igru

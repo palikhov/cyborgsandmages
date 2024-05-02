@@ -1,11 +1,11 @@
 ---
-title: "Случайное миростроение – Культурные полутона"
-date: "2022-07-24"
-categories: 
-  - "alexandrian"
-tags: 
-  - "перевод"
-  - "justin-alexander"
+title: 'Случайное миростроение – Культурные полутона'
+date: '2022-07-24'
+categories:
+  - 'alexandrian'
+tags:
+  - 'перевод'
+  - 'justin-alexander'
 ---
 
 #worldbuilding #justinalexander #alexandrian #translate

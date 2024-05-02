@@ -1,13 +1,13 @@
 ---
-title: "D&D — описания лошадей"
-date: "2022-08-12"
-categories: 
-  - "e5e"
-  - "our-materials"
-  - "translations-other"
-tags: 
-  - "5e"
-  - "homebrew"
+title: 'D&D — описания лошадей'
+date: '2022-08-12'
+categories:
+  - 'e5e'
+  - 'our-materials'
+  - 'translations-other'
+tags:
+  - '5e'
+  - 'homebrew'
 ---
 
 #horse #homebrew

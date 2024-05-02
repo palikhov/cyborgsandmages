@@ -1,10 +1,10 @@
 ---
-title: "Финал лучше оставить открытым"
-date: "2018-11-14"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Финал лучше оставить открытым'
+date: '2018-11-14'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 Перевели Candramelekh и Эргонт

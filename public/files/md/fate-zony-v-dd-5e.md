@@ -1,11 +1,11 @@
 ---
-title: "Fate зоны в D&D 5e"
-date: "2019-05-25"
-categories: 
-  - "articles"
-tags: 
-  - "unsorted"
-  - "заметки"
+title: 'Fate зоны в D&D 5e'
+date: '2019-05-25'
+categories:
+  - 'articles'
+tags:
+  - 'unsorted'
+  - 'заметки'
 ---
 
 На [Pax East 2015 Acquisitions Incorporated D&D игре](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DS39NeK3Ho10%26spfreload%3D10&cc_key=) Крис Перкинс в качестве Мастера игры использовал необычную систему для тактического описания базы игроков в мире Baldur's Gate. Крис взял 15 листов бумаги, где были отпечатаны названия и особенности места, выложив их в таблицу 4 на 4. В итоге была схема комнат с названиями. Игроки могли описать своё расположение на схеме.

@@ -1,17 +1,17 @@
 ---
-title: "[Core d20 RPG] Сражение. Боевой дух"
-date: "2023-02-11"
-categories: 
-  - "cored20rpg"
-  - "e5e"
-tags: 
-  - "5e"
-  - "combat"
-  - "core-d20-rpg"
-  - "e5e"
-  - "morale"
-  - "boevoj-duh"
-  - "сражение"
+title: '[Core d20 RPG] Сражение. Боевой дух'
+date: '2023-02-11'
+categories:
+  - 'cored20rpg'
+  - 'e5e'
+tags:
+  - '5e'
+  - 'combat'
+  - 'core-d20-rpg'
+  - 'e5e'
+  - 'morale'
+  - 'boevoj-duh'
+  - 'сражение'
 ---
 
 **#e5e #cored20rpg #morale #dc #check #dnd #5e #hack**

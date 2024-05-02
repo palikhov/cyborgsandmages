@@ -1,15 +1,15 @@
 ---
-title: "ОРГАНИЗАЦИИ ВО ФЛАНЕ"
-date: "2018-03-13"
-categories: 
-  - "homebrew"
+title: 'ОРГАНИЗАЦИИ ВО ФЛАНЕ'
+date: '2018-03-13'
+categories:
+  - 'homebrew'
 ---
 
 # Organizations Active in the City
 
 House Cadorna House Sokol Order of the Black Fist The Ironhanded The Merchants' Guild The Welcomers
 
-* * *
+---
 
 # ОРГАНИЗАЦИИ
 
@@ -79,10 +79,10 @@ House Cadorna House Sokol Order of the Black Fist The Ironhanded The Merchants' 
 
 На кладбище обитает лишь дюжина жрецов Келемвора, включая Йовира и Сэра Джерана. По большей части, нижестоящие жрецы замкнуты и по обыкновению одеты в простые, серые робы из грубой пряжи. Несмотря на название их культа, они не приносят обет молчания, но как правило слишком заняты для случайных разговоров.
 
-* * *
+---
 
 [Phlan on Adventurers League Wiki](https://adventurersleague.wikia.com/wiki/Phlan) [Phlan on Forgotten Realms Wiki](https://forgottenrealms.wikia.com/wiki/Phlan) [Phlan on Aerie Wiki](http://wiki.aerie.ru/wiki/Флан)
 
 ### Материал для вдохновения
 
-[Скачать Руководство по Флану из старых редакций из каталога Traveler's Book с сайта Candlekeep.com](https://cyborgsandmages.com/wp-content/uploads/2018/07/phlancore.pdf "PhlanCore")
+[Скачать Руководство по Флану из старых редакций из каталога Traveler's Book с сайта Candlekeep.com](https://cyborgsandmages.com/wp-content/uploads/2018/07/phlancore.pdf 'PhlanCore')

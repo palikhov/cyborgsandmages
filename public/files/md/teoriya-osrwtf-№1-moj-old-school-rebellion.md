@@ -1,8 +1,8 @@
 ---
-title: "#Теория — OSRWTF? №1: Мой Old School Rebellion"
-date: "2022-07-18"
-categories: 
-  - "krossposty"
+title: '#Теория — OSRWTF? №1: Мой Old School Rebellion'
+date: '2022-07-18'
+categories:
+  - 'krossposty'
 ---
 
 Пожалуй, я не буду пересказывать здесь то, что уже неплохо изложено другими людьми (см. список источников в конце статьи) про движение Old School Renaissance (далее — OSR), его идеологию и как оно появилось на свет. Эта статья — о том, что лично я увидел в этом "Возрождении Старой Школы", а также, о том как увиденное влияет на мой далеко не фэнтезийный и далеко не чисто OSR-ный проект ["Мёртвый Урал"](http://patreon.com/deadurals_rpg). _Текст статьи во многом основан на осмыслении ["Четырёх дзен-принципов Мэттью Финча"](https://eastern-lands.blogspot.ru/2017/08/blog-post_42.html) и совершенно не претендует на истину в последней инстанции. ;\]_
@@ -33,14 +33,14 @@ _"Rulings, not Rules"_ — принцип, об который было слом
 
 А если изначально и не думали, то учатся это делать довольно быстро, так как знают — все риски не закидаешь кубами, все загадки не разрешишь простой проверкой _чего-то там с листочка_, а пропущенные слова монолога вот этого однорукого парня могут ещё-как аукнутся. Игроки учатся и эволюционируют, игроки смотрят на ведущего внимательно и настороженно, игроки вовлечены и увлечены. Мне это нравится. Наверняка я тем или иным образом реализую это в моей игре.
 
-Пожалуй, на этой ноте я и закончу свой вольный обзор OSR-принципов. Если вас заинтересовало вышеизложенное и вы хотите одним из первых ознакомиться с моей игрой — "Мёртвым Уралом" — то добро пожаловать на Pateron: [http://patreon.com/deadurals\_rpg](http://patreon.com/deadurals_rpg)
+Пожалуй, на этой ноте я и закончу свой вольный обзор OSR-принципов. Если вас заинтересовало вышеизложенное и вы хотите одним из первых ознакомиться с моей игрой — "Мёртвым Уралом" — то добро пожаловать на Pateron: [http://patreon.com/deadurals_rpg](http://patreon.com/deadurals_rpg)
 
 ## Источники
 
-- [eastern-lands.blogspot.ru/2017/08/blog-post\_42](http://eastern-lands.blogspot.ru/2017/08/blog-post_42.html)
+- [eastern-lands.blogspot.ru/2017/08/blog-post_42](http://eastern-lands.blogspot.ru/2017/08/blog-post_42.html)
 - [eastern-lands.blogspot.ru/2017/08/d4](http://eastern-lands.blogspot.ru/2017/08/d4.html)
 - [eastern-lands.blogspot.ru/2017/08/d44](http://eastern-lands.blogspot.ru/2017/08/d44.html)
-- [ru.rpg.wikia.com/wiki/Джеймс\_Рагги](http://ru.rpg.wikia.com/wiki/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81_%D0%A0%D0%B0%D0%B3%D0%B3%D0%B8)
-- [ru.rpg.wikia.com/wiki/Старые\_традиции](http://ru.rpg.wikia.com/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B5_%D1%82%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%B8)
+- [ru.rpg.wikia.com/wiki/Джеймс_Рагги](http://ru.rpg.wikia.com/wiki/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81_%D0%A0%D0%B0%D0%B3%D0%B3%D0%B8)
+- [ru.rpg.wikia.com/wiki/Старые_традиции](http://ru.rpg.wikia.com/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B5_%D1%82%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%B8)
 
 _Источник: < [https://pnprpg.ru/blog/2018/01/22/osrwtf1/](https://pnprpg.ru/blog/2018/01/22/osrwtf1/)\>_

@@ -1,10 +1,10 @@
 ---
-title: "Как время простоя может произвести революцию в ваших D&D-играх"
-date: "2019-11-20"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Как время простоя может произвести революцию в ваших D&D-играх'
+date: '2019-11-20'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 текст [Alphastream](https://vk.com/away.php?to=https%3A%2F%2Falphastream.org%2Findex.php%2Fauthor%2Falphaadmin%2F) от 06 ноября 2019 года

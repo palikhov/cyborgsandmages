@@ -1,14 +1,14 @@
 ---
-title: "Манифест вождения по рельсам – Дополнение: Но я хочу играть по рельсам"
-date: "2022-05-24"
-categories: 
-  - "alexandrian"
-  - "переводы-прочие"
-tags: 
-  - "dungeons-as-suffering"
-  - "перевод"
-  - "gm-tips"
-  - "justin-alexander"
+title: 'Манифест вождения по рельсам – Дополнение: Но я хочу играть по рельсам'
+date: '2022-05-24'
+categories:
+  - 'alexandrian'
+  - 'переводы-прочие'
+tags:
+  - 'dungeons-as-suffering'
+  - 'перевод'
+  - 'gm-tips'
+  - 'justin-alexander'
 ---
 
 Текст Justin Alexander от 06 мая 2022 года

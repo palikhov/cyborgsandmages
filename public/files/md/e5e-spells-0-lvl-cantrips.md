@@ -1,12 +1,12 @@
 ---
-title: "[E5E] Заклинания - заговоры"
-date: "2022-05-28"
-categories: 
-  - "e5e"
-tags: 
-  - "5e"
-  - "e5e"
-  - "homebrew"
+title: '[E5E] Заклинания - заговоры'
+date: '2022-05-28'
+categories:
+  - 'e5e'
+tags:
+  - '5e'
+  - 'e5e'
+  - 'homebrew'
 ---
 
 **Базовое правило:** эффективность заговора возрастает на 5ом, 11ом, 17ом уровнях
@@ -19,9 +19,9 @@ tags:
 
 Урон наносимый заговорами не считается волшебным с целью преодоления защиты от урона.
 
- 
 
-* * *
+
+---
 
 ### Acid Fang
 
@@ -349,7 +349,7 @@ Range: Self
 
 You create a number of small spheres of moonfire (in alternating blue-white, pale green, white, and silver hues) equal to your proficiency bonus +2, which appear in your space and orbit your body. This sheds bright light in a radius around you for 5' per sphere (to a maximum of 20' radius), and dim light for the same distance further. As an action, you can command a sphere to travel up to 90 feet from you, useful for illuminating other areas within that range or causing visual distractions. The sphere of moonfire may also be hurled as a small comet, inflicting 1d8 points of cold damage which strikes with a ranged spell attack. This consumes the sphere.
 
-At 3rd level, if you have at least three spheres, as an action, you may spend a 2nd level spell slot and direct all of your spheres at an area of magical _darkness_. This ends both the _darkness_ and the _moonfire_ spells. At 5th level, as an action, you can command and move two spheres, three at 11th, and four at 17th. These can be used to move to illuminate multiple areas or strike targets in any combination, and you may cause multiple spheres to strike the same target.
+At 3rd level, if you have at least three spheres, as an action, you may spend a 2nd level spell slot and direct all of your spheres at an area of magical *darkness*. This ends both the *darkness* and the *moonfire* spells. At 5th level, as an action, you can command and move two spheres, three at 11th, and four at 17th. These can be used to move to illuminate multiple areas or strike targets in any combination, and you may cause multiple spheres to strike the same target.
 
 ### Punishing strike
 

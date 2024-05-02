@@ -1,12 +1,12 @@
 ---
-title: "Много разных ссылок. Пока полежит здесь."
-date: "2018-09-04"
-categories: 
-  - "resources"
-tags: 
-  - "library"
-  - "resources"
-  - "tools-2"
+title: 'Много разных ссылок. Пока полежит здесь.'
+date: '2018-09-04'
+categories:
+  - 'resources'
+tags:
+  - 'library'
+  - 'resources'
+  - 'tools-2'
 ---
 
 Mega Resources:
@@ -21,67 +21,67 @@ Web:
 1. Character building
 
 1. [Form Fillable Character Builder](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.dmsguild.com%252fproduct%252f186823%252fCharacter-Sheet--MPMBs-fullyautomated-Printer-Friendly-character-generator)
-2. [Every Possible Stat Array](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.reddit.com%252fr%252fDnD%252fcomments%252f2epkdi%252f5e_here_is_a_complete_list_of_valid_ability_score%252f)
-3. [Class Comparison List](https://drive.google.com/file/d/0BzeXlENyiQx3MHhYZTR2c1cwVlU/view)
-4. [Conjuration List](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fimgur.com%252fa%252fnZqbW)
-5. [Easy character creation](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.pathguy.com%252fddnext.htm)
+1. [Every Possible Stat Array](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.reddit.com%252fr%252fDnD%252fcomments%252f2epkdi%252f5e_here_is_a_complete_list_of_valid_ability_score%252f)
+1. [Class Comparison List](https://drive.google.com/file/d/0BzeXlENyiQx3MHhYZTR2c1cwVlU/view)
+1. [Conjuration List](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fimgur.com%252fa%252fnZqbW)
+1. [Easy character creation](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.pathguy.com%252fddnext.htm)
 
 1. Figurines
 
 1. [Hero Forge Custom Figs](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.heroforge.com%252f)
-2. [Reaper Fig Finder](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.reapermini.com%252fFigureFinder)
+1. [Reaper Fig Finder](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.reapermini.com%252fFigureFinder)
 
 1. Online Campaign Tracker
 
 1. [Dungeonomics](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fdungeonomics.com%252f)
-2. [Obsidianportal](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.obsidianportal.com%252f)
+1. [Obsidianportal](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.obsidianportal.com%252f)
 
 1. Treasure
 
 1. [Magic Items by Rarity](http://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
-2. [Treasure Generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fredkatart.com%252fdnd5tools%252f)
-3. [Prices Guide](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
-4. [Weak Magic Items](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.lordbyng.net%252finspiration%252fresults.php)
-5. [Mithril And Mages Treasure](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.mithrilandmages.com%252fRPG.php%2523dd5e)
-6. [Quick Store](https://drive.google.com/file/d/0B8mF8uNMRN_mX3otSG9vMUpSREE/view)
+1. [Treasure Generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fredkatart.com%252fdnd5tools%252f)
+1. [Prices Guide](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
+1. [Weak Magic Items](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.lordbyng.net%252finspiration%252fresults.php)
+1. [Mithril And Mages Treasure](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.mithrilandmages.com%252fRPG.php%2523dd5e)
+1. [Quick Store](https://drive.google.com/file/d/0B8mF8uNMRN_mX3otSG9vMUpSREE/view)
 
 1. NPC:
 
 1. [http://rpgtinker.com/](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252frpgtinker.com%252f)
-2. [http://npcgenerator.azurewebsites.net](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fnpcgenerator.azurewebsites.net%252f)
-3. [http://character.totalpartykill.ca/5e](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fcharacter.totalpartykill.ca%252f5e)
-4. [Drive: NPC Generator](https://docs.google.com/spreadsheets/d/1uyre7jYpD1fQG4U9rqJdwUkga6sjCUmJovFzo6gxLUQ/edit#gid=553603978)
+1. [http://npcgenerator.azurewebsites.net](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fnpcgenerator.azurewebsites.net%252f)
+1. [http://character.totalpartykill.ca/5e](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fcharacter.totalpartykill.ca%252f5e)
+1. [Drive: NPC Generator](https://docs.google.com/spreadsheets/d/1uyre7jYpD1fQG4U9rqJdwUkga6sjCUmJovFzo6gxLUQ/edit#gid=553603978)
 
 1. Encounter
 
 1. [Encounter and Initiative](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.improved-initiative.com%252fe%252fr6p75n00)
-2. [http://kobold.club/fight/#/encounter-builder](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fkobold.club%252ffight%252f%2523%252fencounter-builder)
-3. [http://rpgtinker.com/bestiary.php](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252frpgtinker.com%252fbestiary.php)
-4. [5E GM Egaanon](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252f5egmegaanon.github.io%252f5etools%252fbestiary.html%2523Apprentice%2bWizard)
-5. [Poison generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252forteil.dashnet.org%252frandomgen%252f%253fgen%253dvMMEtKRA)
-6. [Monsters by Challenge Rating 1.0](http://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
-7. [Monsters by Type 1.0](http://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
+1. [http://kobold.club/fight/#/encounter-builder](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fkobold.club%252ffight%252f%2523%252fencounter-builder)
+1. [http://rpgtinker.com/bestiary.php](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252frpgtinker.com%252fbestiary.php)
+1. [5E GM Egaanon](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252f5egmegaanon.github.io%252f5etools%252fbestiary.html%2523Apprentice%2bWizard)
+1. [Poison generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252forteil.dashnet.org%252frandomgen%252f%253fgen%253dvMMEtKRA)
+1. [Monsters by Challenge Rating 1.0](http://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
+1. [Monsters by Type 1.0](http://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
 
 1. Names
 
 1. [Fantasy Name Generators](http://fantasynamegenerators.com/)
-2. [Mithril And Mages Name Gen](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.mithrilandmages.com%252f)
+1. [Mithril And Mages Name Gen](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.mithrilandmages.com%252f)
 
 1. Generator
 
 1. [Taverns](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252finkwellideas.com%252ffree-tools%252frandom-inn-generator-floorplan%252f)
-2. [Dungeon & Town Quick](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fdmtools.tumblr.com%252f)
-3. [Stores (with inventories)](https://docs.google.com/spreadsheets/d/1FCNPBMZm6tWfeOEtdOvcOrWDRZVqbe1ipzK9eQmNp2o/edit)
-4. [Pymapper](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fpymapper.com%252f)
-5. [Ye olde map maker](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.yeoldemapmaker.com%252feditor%252f)
-6. [https://web3dvtt.appspot.com/game/](https://web3dvtt.appspot.com/game/)
+1. [Dungeon & Town Quick](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fdmtools.tumblr.com%252f)
+1. [Stores (with inventories)](https://docs.google.com/spreadsheets/d/1FCNPBMZm6tWfeOEtdOvcOrWDRZVqbe1ipzK9eQmNp2o/edit)
+1. [Pymapper](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fpymapper.com%252f)
+1. [Ye olde map maker](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.yeoldemapmaker.com%252feditor%252f)
+1. [https://web3dvtt.appspot.com/game/](https://web3dvtt.appspot.com/game/)
 
 1. Updated Rules
 
 1. [Sage Advice Compendium](http://media.wizards.com/2016/downloads/DND/SA-Compendium.pdf)
-2. [Monster Manual Errata 1.2](http://media.wizards.com/2016/downloads/DND/MM-Errata.pdf)
-3. [Dungeon Master’s Guide Errata 1.1](http://media.wizards.com/2016/downloads/DND/DMG-Errata.pdf)
-4. [Unearthed Arcana Quick Reference](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.learningdnd.com%252funearthed-arcana%252f)
+1. [Monster Manual Errata 1.2](http://media.wizards.com/2016/downloads/DND/MM-Errata.pdf)
+1. [Dungeon Master’s Guide Errata 1.1](http://media.wizards.com/2016/downloads/DND/DMG-Errata.pdf)
+1. [Unearthed Arcana Quick Reference](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.learningdnd.com%252funearthed-arcana%252f)
 
 Applications:
 
@@ -95,13 +95,13 @@ Mobile Applications:
 1. Character Manager
 
 1. \[Android\] \][Squire - Character Manager Pro](https://play.google.com/store/apps/details?id=com.herd.squire)
-2. \[Apple\] [Fight Club 5th Edition](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fitunes.apple.com%252fus%252fapp%252ffight-club-5th-edition%252fid901057473%253fmt%253d8)
+1. \[Apple\] [Fight Club 5th Edition](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fitunes.apple.com%252fus%252fapp%252ffight-club-5th-edition%252fid901057473%253fmt%253d8)
 
 1. Spells
 
 1. \[Android\] [5th Edition Spell Book](https://play.google.com/store/apps/details?id=com.spellsdd5)
-2. \[Apple\] [Spellbook (D&D 5e)](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fitunes.apple.com%252fus%252fapp%252fspell-book-d-d-5e%252fid1148329565%253fmt%253d8)
-3. Encounter Builder/Manager
+1. \[Apple\] [Spellbook (D&D 5e)](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fitunes.apple.com%252fus%252fapp%252fspell-book-d-d-5e%252fid1148329565%253fmt%253d8)
+1. Encounter Builder/Manager
 
 1. \[Android\] [eRPG Tools Plus](https://play.google.com/store/apps/details?id=com.mentiromano.erpgtoolsplus)
 
@@ -185,7 +185,7 @@ Download Links
 
 Джерело: <[https://www.reddit.com/r/DnD/comments/4y0wsq/dm\_using\_onenote\_for\_your\_campaign/?st=jlnstmkx&sh=87ad1cce](https://www.reddit.com/r/DnD/comments/4y0wsq/dm_using_onenote_for_your_campaign/?st=jlnstmkx&sh=87ad1cce)\>
 
- 
+
 
 A timeline of all forgotten realms novels (Canon and Lore) [http://www.alltimelines.com/forgotten-realms/](http://www.alltimelines.com/forgotten-realms/)
 
@@ -277,7 +277,7 @@ Pre-Campaign
 
 [Items](https://dmstoolkit.com/2017/12/18/items/)
 
-[RPG Market Generator](https://rpgmarketgenerator.com/)– Randomly generates shops, inventory, and NPCs. Created by[u/Aradreth\_81](https://www.reddit.com/r/DnD/comments/7w55c1/i_created_a_dm_tool_in_the_form_of_a_web/?st=jdjls4z6&sh=ef314954).
+[RPG Market Generator](https://rpgmarketgenerator.com/)– Randomly generates shops, inventory, and NPCs. Created by[u/Aradreth_81](https://www.reddit.com/r/DnD/comments/7w55c1/i_created_a_dm_tool_in_the_form_of_a_web/?st=jdjls4z6&sh=ef314954).
 
 [Shop Catalog](https://drive.google.com/file/d/0B8mF8uNMRN_mX3otSG9vMUpSREE/view)– Different inventories based on shop type, size of town, costs etc. Created by[u/jrobharing](https://www.reddit.com/r/DnD/comments/3mvmso/5e_dd_shopping_catalog_i_made_for_ingame_use/?st=jbzgv1ll&sh=142b3b98).
 
@@ -339,7 +339,7 @@ Transition into Princes of the Apocalypse: [One](https://www.reddit.com/r/DnDBe
 
 Battlemaps
 
-[iTim](https://forum.rpg.net/showthread.php?760586-Various-maps-I-ve-made-for-the-Starter-Set-(Lost-Mine-of-Phandelver))– iTim over at rpg.net has recreated almost every map included in the book, the town of Phandalin in a few different seasons, and a couple of areas that did not come with a premade map. Doesn’t include Cragmaw Hideout.
+[iTim](<https://forum.rpg.net/showthread.php?760586-Various-maps-I-ve-made-for-the-Starter-Set-(Lost-Mine-of-Phandelver)>)– iTim over at rpg.net has recreated almost every map included in the book, the town of Phandalin in a few different seasons, and a couple of areas that did not come with a premade map. Doesn’t include Cragmaw Hideout.
 
 [Mike Schley](http://prints.mikeschley.com/p856083253)– Artist of the maps included in the book. He has high resolution downloads available on his website for a reasonable price.
 
@@ -369,62 +369,62 @@ Battlemaps
 
 Джерело: <[https://dmstoolkit.com/2017/12/31/starter-set-lost-mines-of-phandelver/](https://dmstoolkit.com/2017/12/31/starter-set-lost-mines-of-phandelver/)\>
 
- 
+
 
 Hey all! Some people have asked what resources I'm using for the sandbox game The West Marches, so here's a list of all the blog posts, random generators, and supplements I've found most useful so far!
 
 Blog Posts:
 
 - - - Where it all came from: [http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/](http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/)
-        - Why you should make your hexes 6 miles: [http://steamtunnel.blogspot.ca/2009/12/in-praise-of-6-mile-hex.html](http://steamtunnel.blogspot.ca/2009/12/in-praise-of-6-mile-hex.html)
-        - A great multi-part sandbox design/theory discussion: [http://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl](http://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl)
-        - From the same, a theory discussion on the Hexcrawl as a game type: [http://thealexandrian.net/wordpress/15156/roleplaying-games/game-structures-part-6-hexcrawls](http://thealexandrian.net/wordpress/15156/roleplaying-games/game-structures-part-6-hexcrawls)
-        - A very useful hex/sandbox tutorial: [http://www.welshpiper.com/hex-based-campaign-design-part-1/](http://www.welshpiper.com/hex-based-campaign-design-part-1/)
-        - From the same, how to build interesting encounter tables: [http://www.welshpiper.com/encounter-populations/](http://www.welshpiper.com/encounter-populations/)
-        - How you should notate your encounters and adventures: [http://hackslashmaster.blogspot.ca/search/label/series%20%28adventure%20design%29](http://hackslashmaster.blogspot.ca/search/label/series%20%28adventure%20design%29)
-        - A way-too-in-depth tutorial that was nevertheless useful: [http://batintheattic.blogspot.ca/2009/08/how-to-make-fantasy-sandbox.html](http://batintheattic.blogspot.ca/2009/08/how-to-make-fantasy-sandbox.html)
-        - Some detail about creating hex maps: [http://batintheattic.blogspot.ca/2008/10/mapping-with-hexes.html](http://batintheattic.blogspot.ca/2008/10/mapping-with-hexes.html)
-        - A great brainfood blog filled with random tables: [http://roll1d12.blogspot.ca/](http://roll1d12.blogspot.ca/)
-        - My brother's blog, not getting regular updates but he has some awesomely creative stuff: [http://swampofmonsters.blogspot.ca/2014/01/fly-traps-eels-lotus.html](http://swampofmonsters.blogspot.ca/2014/01/fly-traps-eels-lotus.html)
-        - Zak S's blog- he's second to none for content creation, but he hasn't found system to matter at his table, where my experience differs greatly: [http://dndwithpornstars.blogspot.ca/](http://dndwithpornstars.blogspot.ca/)
-        - Courtney Campbell's blog (linked above!), more creative ideas: [http://hackslashmaster.blogspot.ca/](http://hackslashmaster.blogspot.ca/)
-        - Oglaf (NSFW webcomic)- for awesome weird fantasy (often mixed with sex): [http://oglaf.com/](http://oglaf.com/) (NSFW)
+      - Why you should make your hexes 6 miles: [http://steamtunnel.blogspot.ca/2009/12/in-praise-of-6-mile-hex.html](http://steamtunnel.blogspot.ca/2009/12/in-praise-of-6-mile-hex.html)
+      - A great multi-part sandbox design/theory discussion: [http://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl](http://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl)
+      - From the same, a theory discussion on the Hexcrawl as a game type: [http://thealexandrian.net/wordpress/15156/roleplaying-games/game-structures-part-6-hexcrawls](http://thealexandrian.net/wordpress/15156/roleplaying-games/game-structures-part-6-hexcrawls)
+      - A very useful hex/sandbox tutorial: [http://www.welshpiper.com/hex-based-campaign-design-part-1/](http://www.welshpiper.com/hex-based-campaign-design-part-1/)
+      - From the same, how to build interesting encounter tables: [http://www.welshpiper.com/encounter-populations/](http://www.welshpiper.com/encounter-populations/)
+      - How you should notate your encounters and adventures: [http://hackslashmaster.blogspot.ca/search/label/series%20%28adventure%20design%29](http://hackslashmaster.blogspot.ca/search/label/series%20%28adventure%20design%29)
+      - A way-too-in-depth tutorial that was nevertheless useful: [http://batintheattic.blogspot.ca/2009/08/how-to-make-fantasy-sandbox.html](http://batintheattic.blogspot.ca/2009/08/how-to-make-fantasy-sandbox.html)
+      - Some detail about creating hex maps: [http://batintheattic.blogspot.ca/2008/10/mapping-with-hexes.html](http://batintheattic.blogspot.ca/2008/10/mapping-with-hexes.html)
+      - A great brainfood blog filled with random tables: [http://roll1d12.blogspot.ca/](http://roll1d12.blogspot.ca/)
+      - My brother's blog, not getting regular updates but he has some awesomely creative stuff: [http://swampofmonsters.blogspot.ca/2014/01/fly-traps-eels-lotus.html](http://swampofmonsters.blogspot.ca/2014/01/fly-traps-eels-lotus.html)
+      - Zak S's blog- he's second to none for content creation, but he hasn't found system to matter at his table, where my experience differs greatly: [http://dndwithpornstars.blogspot.ca/](http://dndwithpornstars.blogspot.ca/)
+      - Courtney Campbell's blog (linked above!), more creative ideas: [http://hackslashmaster.blogspot.ca/](http://hackslashmaster.blogspot.ca/)
+      - Oglaf (NSFW webcomic)- for awesome weird fantasy (often mixed with sex): [http://oglaf.com/](http://oglaf.com/) (NSFW)
 
 Random Tables:
 
 - - - You want names for things? We've got names for things: [http://donjon.bin.sh/](http://donjon.bin.sh/)
-        - Tons of random generators all in one place: [http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/](http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/)
-        - Crazy magic fuck-up results: [http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/](http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/)
-        - Additional results to crazy magic fuck-ups: [http://gloomtrain.blogspot.ca/2013/07/black-magic-remix.html](http://gloomtrain.blogspot.ca/2013/07/black-magic-remix.html)
-        - Populate hexes randomly (if a bit generic): [http://www.wizardawn.com/rpg/tool\_hexcrawl.php](http://www.wizardawn.com/rpg/tool_hexcrawl.php)
-        - Brainfood for wandering monster activity: [http://1d8.blogspot.ca/2011/04/what-are-those-wandering-monsters-up-to.html](http://1d8.blogspot.ca/2011/04/what-are-those-wandering-monsters-up-to.html)
+      - Tons of random generators all in one place: [http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/](http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/)
+      - Crazy magic fuck-up results: [http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/](http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/)
+      - Additional results to crazy magic fuck-ups: [http://gloomtrain.blogspot.ca/2013/07/black-magic-remix.html](http://gloomtrain.blogspot.ca/2013/07/black-magic-remix.html)
+      - Populate hexes randomly (if a bit generic): [http://www.wizardawn.com/rpg/tool_hexcrawl.php](http://www.wizardawn.com/rpg/tool_hexcrawl.php)
+      - Brainfood for wandering monster activity: [http://1d8.blogspot.ca/2011/04/what-are-those-wandering-monsters-up-to.html](http://1d8.blogspot.ca/2011/04/what-are-those-wandering-monsters-up-to.html)
 
 PDFs:
 
-- - - A Quick Primer for Old School Gaming: [http://www.lulu.com/items/volume\_63/3019000/3019374/1/print/3019374.pdf](http://www.lulu.com/items/volume_63/3019000/3019374/1/print/3019374.pdf)
-        - A larger encounter generation PDF than you'll ever need: [http://kellri.truculent.org/CDD%234%20-%20ENCOUNTERS%20Reference.pdf](http://kellri.truculent.org/CDD%234%20-%20ENCOUNTERS%20Reference.pdf) [https://img.4plebs.org/boards/tg/image/1367/50/1367508742810.pdf](https://img.4plebs.org/boards/tg/image/1367/50/1367508742810.pdf)
-        - Courtney Campbell on Treasure: [http://angband.oook.cz/steamband/Treasure.pdf](http://angband.oook.cz/steamband/Treasure.pdf)
-        - Courtney Campbell (HackSlashMaster) on Tricks and Traps: [http://angband.oook.cz/steamband/Tricks.pdf](http://angband.oook.cz/steamband/Tricks.pdf)
-        - Go buy Vornheim (random npcs, encounters, items, all sorts of useful stuff in here): [http://rpg.drivethrustuff.com/product/91110/Vornheim-The-Complete-City-Kit](http://rpg.drivethrustuff.com/product/91110/Vornheim-The-Complete-City-Kit)
+- - - A Quick Primer for Old School Gaming: [http://www.lulu.com/items/volume_63/3019000/3019374/1/print/3019374.pdf](http://www.lulu.com/items/volume_63/3019000/3019374/1/print/3019374.pdf)
+      - A larger encounter generation PDF than you'll ever need: [http://kellri.truculent.org/CDD%234%20-%20ENCOUNTERS%20Reference.pdf](http://kellri.truculent.org/CDD%234%20-%20ENCOUNTERS%20Reference.pdf) [https://img.4plebs.org/boards/tg/image/1367/50/1367508742810.pdf](https://img.4plebs.org/boards/tg/image/1367/50/1367508742810.pdf)
+      - Courtney Campbell on Treasure: [http://angband.oook.cz/steamband/Treasure.pdf](http://angband.oook.cz/steamband/Treasure.pdf)
+      - Courtney Campbell (HackSlashMaster) on Tricks and Traps: [http://angband.oook.cz/steamband/Tricks.pdf](http://angband.oook.cz/steamband/Tricks.pdf)
+      - Go buy Vornheim (random npcs, encounters, items, all sorts of useful stuff in here): [http://rpg.drivethrustuff.com/product/91110/Vornheim-The-Complete-City-Kit](http://rpg.drivethrustuff.com/product/91110/Vornheim-The-Complete-City-Kit)
 
 General Tools:
 
 - - - 5e Sortable Spell List: [http://salty-ridge-7989.herokuapp.com/](http://salty-ridge-7989.herokuapp.com/)
-        - 5e Monster List / Encounter Builder: [http://asmor.com/5e/monsters/#/encounter-builder](http://asmor.com/5e/monsters/#/encounter-builder)
-        - Calculate probabilities on any dice: [http://anydice.com/](http://anydice.com/)
+      - 5e Monster List / Encounter Builder: [http://asmor.com/5e/monsters/#/encounter-builder](http://asmor.com/5e/monsters/#/encounter-builder)
+      - Calculate probabilities on any dice: [http://anydice.com/](http://anydice.com/)
 
 Recommendations:
 
 - - - Fill your head with the kind of fantasy you love. The kind that makes you go "YEAH THAT'S THE STUFF."
-        - Find sources of that from everywhere, and pick only the individual bits that you really enjoy- even single responses from a d100 table.
-        - Mix and match, and you're good to go.
+      - Find sources of that from everywhere, and pick only the individual bits that you really enjoy- even single responses from a d100 table.
+      - Mix and match, and you're good to go.
 
 And if you had to only read 5 things from the above to build a sandbox game of your own, here they are:
 
 - - - A great multi-part sandbox design/theory discussion: [http://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl](http://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl)
-        - A very useful hex/sandbox tutorial: [http://www.welshpiper.com/hex-based-campaign-design-part-1/](http://www.welshpiper.com/hex-based-campaign-design-part-1/)
-        - You want names for things? We've got names for things: [http://donjon.bin.sh/](http://donjon.bin.sh/)
-        - Go buy Vornheim (random npcs, encounters, items, all sorts of useful stuff in here): [http://rpg.drivethrustuff.com/product/91110/Vornheim-The-Complete-City-Kit](http://rpg.drivethrustuff.com/product/91110/Vornheim-The-Complete-City-Kit)
-        - Crazy magic fuck-up results: [http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/](http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/)
+      - A very useful hex/sandbox tutorial: [http://www.welshpiper.com/hex-based-campaign-design-part-1/](http://www.welshpiper.com/hex-based-campaign-design-part-1/)
+      - You want names for things? We've got names for things: [http://donjon.bin.sh/](http://donjon.bin.sh/)
+      - Go buy Vornheim (random npcs, encounters, items, all sorts of useful stuff in here): [http://rpg.drivethrustuff.com/product/91110/Vornheim-The-Complete-City-Kit](http://rpg.drivethrustuff.com/product/91110/Vornheim-The-Complete-City-Kit)
+      - Crazy magic fuck-up results: [http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/](http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/)
 
 Джерело: <[https://www.reddit.com/r/itmejp/comments/2idf33/west\_marches\_resources/?st=jlnspqgn&sh=3b968878](https://www.reddit.com/r/itmejp/comments/2idf33/west_marches_resources/?st=jlnspqgn&sh=3b968878)\>

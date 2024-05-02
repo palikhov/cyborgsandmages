@@ -1,9 +1,9 @@
 ---
-title: "Чем для меня является «Старая школа»?"
-date: "2022-06-23"
-categories: 
-  - "translations"
-  - "translations-other"
+title: 'Чем для меня является «Старая школа»?'
+date: '2022-06-23'
+categories:
+  - 'translations'
+  - 'translations-other'
 ---
 
 текст Creighton от 15 ноября 2015 года

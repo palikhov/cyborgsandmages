@@ -1,12 +1,12 @@
 ---
-title: "Фантастические материалы: Деревья"
-date: "2022-08-05"
-categories: 
-  - "alexandrian"
-tags: 
-  - "5e"
-  - "перевод"
-  - "justin-alexander"
+title: 'Фантастические материалы: Деревья'
+date: '2022-08-05'
+categories:
+  - 'alexandrian'
+tags:
+  - '5e'
+  - 'перевод'
+  - 'justin-alexander'
 ---
 
 #alexandrian #crafting #materials #wood #translate #5e #dnd

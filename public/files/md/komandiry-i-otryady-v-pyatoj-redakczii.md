@@ -1,19 +1,19 @@
 ---
-title: "Командиры и отряды в пятой редакции"
-date: "2021-07-18"
-categories: 
-  - "articles"
-tags: 
-  - "5e"
-  - "actions"
-  - "bestiary"
-  - "commanders"
-  - "creature"
-  - "hack"
-  - "homebrew"
-  - "random-encounters"
-  - "traits"
-  - "troops"
+title: 'Командиры и отряды в пятой редакции'
+date: '2021-07-18'
+categories:
+  - 'articles'
+tags:
+  - '5e'
+  - 'actions'
+  - 'bestiary'
+  - 'commanders'
+  - 'creature'
+  - 'hack'
+  - 'homebrew'
+  - 'random-encounters'
+  - 'traits'
+  - 'troops'
 ---
 
 Солдаты на поле – даже если это племенные воины, племенные орки или клановые гоблины – в той или иной степени зависят от своего командира.
@@ -79,7 +79,7 @@ tags:
 А Клинок Илневаля вместе со своими атаками может использовать Команду Илневаля -заставляя трех союзных орков реакцией совершить атаку оружием.
 
 > **_Multiattack. The orc makes two melee attacks with its longsword or two ranged attacks with its javelins. If Ilneval's Command is available to use, the orc can use it after these attacks._**
-> 
+>
 > _**Ilneval's Command (Recharges 4–6). Up to three allied orcs within 120 feet of this orc that can hear it can use their reactions to each make one weapon attack.**_
 
 Отрядные свойства солдат и существ в базовой версии пятой редакции как правило заключаются в наличии определенной особенности, характерной для определенного вида существ:

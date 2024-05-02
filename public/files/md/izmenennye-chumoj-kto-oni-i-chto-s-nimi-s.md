@@ -1,10 +1,10 @@
 ---
-title: "Измененные Чумой: Кто они и что с ними стало?"
-date: "2019-03-10"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-metki-i-rubriki"
+title: 'Измененные Чумой: Кто они и что с ними стало?'
+date: '2019-03-10'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-metki-i-rubriki'
 ---
 
 https://vk.com/@dnd\_for\_all-spellplagued

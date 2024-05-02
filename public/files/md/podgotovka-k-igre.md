@@ -1,11 +1,11 @@
 ---
-title: "Подготовка к игре"
-date: "2022-08-26"
-categories: 
-  - "slyflourish"
-tags: 
-  - "gm-advice"
-  - "translate"
+title: 'Подготовка к игре'
+date: '2022-08-26'
+categories:
+  - 'slyflourish'
+tags:
+  - 'gm-advice'
+  - 'translate'
 ---
 
 #gmadvice #gmtips #slyflourish

@@ -1,15 +1,15 @@
 ---
-title: "[Перевод] — Время простоя и владения (для пятой редакции), часть 3 — Сто благородных дворян (пока только 10)"
-date: "2021-08-19"
-categories: 
-  - "hack-and-slash-downtime-and-demesne-5e"
-  - "hackandslashmaster"
-  - "translations-other"
-tags: 
-  - "downtime"
-  - "hackandslash"
-  - "npc"
-  - "translate"
+title: '[Перевод] — Время простоя и владения (для пятой редакции), часть 3 — Сто благородных дворян (пока только 10)'
+date: '2021-08-19'
+categories:
+  - 'hack-and-slash-downtime-and-demesne-5e'
+  - 'hackandslashmaster'
+  - 'translations-other'
+tags:
+  - 'downtime'
+  - 'hackandslash'
+  - 'npc'
+  - 'translate'
 ---
 
 Первые 10 благородных покровителей из 100.

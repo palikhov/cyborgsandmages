@@ -1,8 +1,8 @@
 ---
-title: "Технологии в Железных Королевствах"
-date: "2022-12-28"
-categories: 
-  - "translations"
+title: 'Технологии в Железных Королевствах'
+date: '2022-12-28'
+categories:
+  - 'translations'
 ---
 
 #ironkingdoms #translate #setting

@@ -1,14 +1,14 @@
 ---
-title: "Пять советов игрокам от Мэтта Мерсера."
-date: "2022-03-24"
-categories: 
-  - "perevody-prochie"
-tags: 
-  - "advices"
-  - "critical-role"
-  - "wordpress-crosspost"
-  - "merser"
-  - "translate"
+title: 'Пять советов игрокам от Мэтта Мерсера.'
+date: '2022-03-24'
+categories:
+  - 'perevody-prochie'
+tags:
+  - 'advices'
+  - 'critical-role'
+  - 'wordpress-crosspost'
+  - 'merser'
+  - 'translate'
 ---
 
 Мэтт давал большое интервью, про приключение Призыв Безглубинья Critical Role: Call of the Netherdeep и всякое разное, и заодно и советов игрокам дал, западные коллеги их выписали в статью, а мы для вас подготовили. Советы эти не механические, а для людей и про людей, и мы считаем эти идеи отличными.
@@ -37,7 +37,7 @@ tags:
 
 Вольный перевод: Дмитрий Нелюбов aka xattttta
 
-[Пять советов игрокам от Мэтта Мерсера.](https://cyborgsandmages.com/2022/03/pyat-sovetov-igrokam-ot-metta-mersera/ "Оригинал статьи.") был опубликован - [Киборги и Чародеи](https://cyborgsandmages.com)
+[Пять советов игрокам от Мэтта Мерсера.](https://cyborgsandmages.com/2022/03/pyat-sovetov-igrokam-ot-metta-mersera/ 'Оригинал статьи.') был опубликован - [Киборги и Чародеи](https://cyborgsandmages.com)
 
 Присоединяйтесь к нашему сообществу в Discord https://discord.com/invite/GcmhsFfxQ5 или Телеграм https://t.me/cyborgs\_and\_mages
 

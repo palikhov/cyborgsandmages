@@ -1,11 +1,11 @@
 ---
-title: "Дндшный айсберг: основное тело"
-date: "2022-08-11"
-categories: 
-  - "krossposty"
-tags: 
-  - "druid"
-  - "random-encounters"
+title: 'Дндшный айсберг: основное тело'
+date: '2022-08-11'
+categories:
+  - 'krossposty'
+tags:
+  - 'druid'
+  - 'random-encounters'
 ---
 
 Слой третий

@@ -1,17 +1,17 @@
 ---
-title: "Сеттинг"
-date: "2018-07-12"
-categories: 
-  - "forgottenrealms"
-tags: 
-  - "forgotten-realms"
+title: 'Сеттинг'
+date: '2018-07-12'
+categories:
+  - 'forgottenrealms'
+tags:
+  - 'forgotten-realms'
 ---
 
 [Миры. Forgotten Realms](http://old.mirf.ru/Articles/art1451.htm) - статья на старом сайте журнала Мир Фантастики посвященная сеттингу Забытых Королевств
 
 ![](https://adventurersleague.files.wordpress.com/2018/07/realmslogo.gif?w=300)
 
-* * *
+---
 
 Рекомендуем обратить внимание на [Forgotten Realms (Palant edition)](https://www.worldanvil.com/w/fr-----palant) - энциклопедию по сеттингу Forgotten Realms на базе World Anvil.
 
@@ -27,7 +27,7 @@ tags:
 - [Титулы и обращения](https://adventurersleague.wordpress.com/2018/03/13/%d1%82%d0%b8%d1%82%d1%83%d0%bb%d1%8b-%d0%b8-%d1%84%d0%be%d1%80%d0%bc%d1%8b-%d0%be%d0%b1%d1%80%d0%b0%d1%89%d0%b5%d0%bd%d0%b8%d1%8f/)
 - [Монеты](https://adventurersleague.wordpress.com/2018/03/13/%d0%bc%d0%be%d0%bd%d0%b5%d1%82%d1%8b/)
 
-* * *
+---
 
 ## Города и Регионы
 
@@ -100,7 +100,7 @@ tags:
 - Сзит Моркана
 - Маэрмидра
 
-* * *
+---
 
 ### Организации
 
@@ -117,7 +117,7 @@ tags:
 - [Пурпурные Рыцари Кормира](https://adventurersleague.wordpress.com/2018/07/20/%d0%bf%d1%83%d1%80%d0%bf%d1%83%d1%80%d0%bd%d1%8b%d0%b5-%d0%b4%d1%80%d0%b0%d0%ba%d0%be%d0%bd%d1%8b-%d0%ba%d0%be%d1%80%d0%bc%d0%b8%d1%80%d0%b0/)
 - Военные Волшебники Кормира
 
-* * *
+---
 
 ## Противники
 
@@ -131,9 +131,9 @@ tags:
 - Тэй под предводительством Сзасс Тама
 - Ларлох Чародей
 
-* * *
+---
 
-* * *
+---
 
 ## Рекомендованная литература
 
@@ -160,7 +160,7 @@ tags:
 
 Traveler's Book на Candlekeep.com - собранные писцами сайта Candlekeep.com сведения о Forgotten Realms
 
-* * *
+---
 
 Если вы хотите чтобы про интересующую Вас тему написали как-можно быстрее - отправьте нам сообщение, воспользовавшись формой ниже.
 

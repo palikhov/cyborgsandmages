@@ -1,13 +1,12 @@
 ---
-title: "Оживление города"
-date: "2019-04-05"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Оживление города'
+date: '2019-04-05'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
-  
 Перевели Candramelekh и Эргонт
 
 Автор Эд Гринвуд

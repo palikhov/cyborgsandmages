@@ -1,13 +1,13 @@
 ---
-title: "[Перевод] Downtime &amp; Demesnes 5e - Строительство"
-date: "2023-02-11"
-categories: 
-  - "resources-downloads-2"
-  - "resources"
-tags: 
-  - "5e"
-  - "hexcrawl"
-  - "translate"
+title: '[Перевод] Downtime &amp; Demesnes 5e - Строительство'
+date: '2023-02-11'
+categories:
+  - 'resources-downloads-2'
+  - 'resources'
+tags:
+  - '5e'
+  - 'hexcrawl'
+  - 'translate'
 ---
 
 Перевод части Downtime & Demesnes посвященной строительству, созданию транспортных средств и существ.

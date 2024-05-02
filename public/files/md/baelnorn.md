@@ -1,10 +1,10 @@
 ---
-title: "Баэлнорн"
-date: "2020-07-25"
-categories: 
-  - "articles"
-tags: 
-  - "proverit-rubriku"
+title: 'Баэлнорн'
+date: '2020-07-25'
+categories:
+  - 'articles'
+tags:
+  - 'proverit-rubriku'
 ---
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2020/07/baelnorn.jpg)

@@ -1,20 +1,20 @@
 ---
-title: "Инструментарий для разработки ролевых и настольных игр. Часть 1."
-date: "2022-07-28"
-categories: 
-  - "krossposty"
-  - "resources"
-  - "advices"
-tags: 
-  - "creature"
-  - "generator"
-  - "link"
-  - "tool"
-  - "useful"
-  - "materials"
-  - "onlajn-resursy"
-  - "poleznye-ssylki"
-  - "dm-tips"
+title: 'Инструментарий для разработки ролевых и настольных игр. Часть 1.'
+date: '2022-07-28'
+categories:
+  - 'krossposty'
+  - 'resources'
+  - 'advices'
+tags:
+  - 'creature'
+  - 'generator'
+  - 'link'
+  - 'tool'
+  - 'useful'
+  - 'materials'
+  - 'onlajn-resursy'
+  - 'poleznye-ssylki'
+  - 'dm-tips'
 ---
 
 #resource #generator #useful #links #tool #library
@@ -131,7 +131,7 @@ _**Генератор роз ветров**_
 
 Когда-то я искал подобный инструмент очень упорно, не так давно нашёл и когда-нибудь непременно им воспользуюсь. Я хотел сделать интерактивную карту фэнтези мира. Карту, на которой можно выбрать объект и всплывёт окно с его описанием, иллюстрациями, ссылками внутри мира, историей и прочим. Карту, на которой можно создавать ссылки и связи с внутримировыми вещами, личностями, событиями. Эдакая интерактивная модель мира. Этот инструмент создан как раз для этого и даёт даже большее.
 
-За одно [это вот](https://vk.com/away.php?to=https%3A%2F%2Fwww.worldanvil.com%2Fw%2Fforbidden-lands-nosuch303%2Fmap%2Fd7cf1dca-4eff-4e5a-a5b3-b0b7cb6db533&cc_key= "https://www.worldanvil.com/w/forbidden-lands-nosuch303/map/d7cf1dca-4eff-4e5a-a5b3-b0b7cb6db533") её можно полюбить. Это же ведь вся наследственность кампании может учитываться и сохраняться здесь. Со всеми её изменениями, которые натворили игроки. К тому же, доступ к материалам мира и истории игры могут получить все игроки вне времени игровой сессии, в любое удобное для себя время. Мне видится это отличным инструментом.
+За одно [это вот](https://vk.com/away.php?to=https%3A%2F%2Fwww.worldanvil.com%2Fw%2Fforbidden-lands-nosuch303%2Fmap%2Fd7cf1dca-4eff-4e5a-a5b3-b0b7cb6db533&cc_key= 'https://www.worldanvil.com/w/forbidden-lands-nosuch303/map/d7cf1dca-4eff-4e5a-a5b3-b0b7cb6db533') её можно полюбить. Это же ведь вся наследственность кампании может учитываться и сохраняться здесь. Со всеми её изменениями, которые натворили игроки. К тому же, доступ к материалам мира и истории игры могут получить все игроки вне времени игровой сессии, в любое удобное для себя время. Мне видится это отличным инструментом.
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2022/07/072822_2108_12.png)
 
@@ -203,7 +203,7 @@ _With Bogie's Mapping Objects, the CSUAC 2, the Dundjinni Archives and the Vinty
 
 **10 Sites for Free Stock Photos**
 
-[foleon.com/blog/5-sites-for-free-stock-photos](https://vk.com/away.php?to=https%3A%2F%2Fwww.foleon.com%2Fblog%2F5-sites-for-free-stock-photos&cc_key= "https://www.foleon.com/blog/5-sites-for-free-stock-photos")
+[foleon.com/blog/5-sites-for-free-stock-photos](https://vk.com/away.php?to=https%3A%2F%2Fwww.foleon.com%2Fblog%2F5-sites-for-free-stock-photos&cc_key= 'https://www.foleon.com/blog/5-sites-for-free-stock-photos')
 
 Десять сайтов с бесплатными стоковыми фотографиями. Кадры отменные. Можно найти практически под любой лор. С одного из них я брал фото для правил Fairyforest.
 

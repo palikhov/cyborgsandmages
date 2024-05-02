@@ -1,8 +1,8 @@
 ---
-title: "#ВсякаяВсячина — Гекс-процедуры из TDoHSI"
-date: "2022-07-18"
-categories: 
-  - "krossposty"
+title: '#ВсякаяВсячина — Гекс-процедуры из TDoHSI'
+date: '2022-07-18'
+categories:
+  - 'krossposty'
 ---
 
 _Ниже приведённый текст является кратким и очень вольным переложением части правил, посвящённых процедурам Hexcrawl из книги "The Dark of Hot Springs Island" от [swordfishislands.com](http://swordfishislands.com/)_

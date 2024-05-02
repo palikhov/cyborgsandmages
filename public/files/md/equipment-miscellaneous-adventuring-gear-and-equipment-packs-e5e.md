@@ -1,12 +1,12 @@
 ---
-title: "Снаряжение - различные припасы авантюристов | E5E"
-date: "2022-05-24"
-categories: 
-  - "e5e"
-tags: 
-  - "5e"
-  - "e5e"
-  - "homebrew"
+title: 'Снаряжение - различные припасы авантюристов | E5E'
+date: '2022-05-24'
+categories:
+  - 'e5e'
+tags:
+  - '5e'
+  - 'e5e'
+  - 'homebrew'
 ---
 
 Дата версии: 24.05.2022
@@ -15,7 +15,7 @@ tags:
 
 Onedrive: [E5E - EQUIPMENT - MISCELLANEOUS ADVENTURING GEAR and EQUIPMENT PACKS REV01 24052022.docx](https://1drv.ms/w/s!Atcrhwwo1lBA19gYciPC4d_NlM9A0g?e=1JOWGz)
 
-* * *
+---
 
 The many essentials that make adventuring into the unknown possible:
 
@@ -125,11 +125,11 @@ Equipment packs provide a solid range of starting gear for characters of various
 
 Equipment packs tend to be priced slightly below the sum of the costs of their individual contents. The weight for the individual contents of each pack is broken down in the descriptions below.
 
- 
+
 
 Each pack is fully-catalogued below, noting each component’s weight. Total weights are given on the Equipment Packs table.
 
- 
+
 
 Arcanist’s Pack. Includes a backpack (5), 5 candles (0), a tinderbox (1), a scroll case containing arcane diagrams (1), and a wand (1). Also includes one of the following: an arcana lore book (5) or a traveling spell book (5).
 
@@ -201,7 +201,7 @@ Tracker’s Pack. Includes a backpack (5), a bedroll (7), a tinderbox (1), 10 to
 
 Traveler’s Pack. Includes a backpack (5), a bedroll (7), a map case (1), an area map (0), a tinderbox (10), a mess kit (1), 5 torches (5), 10 days of rations (10), and a waterskin (5).
 
- 
+
 
 Equipment Packs
 

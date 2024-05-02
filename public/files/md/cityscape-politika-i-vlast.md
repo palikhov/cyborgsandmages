@@ -1,20 +1,20 @@
 ---
-title: "[Cityscape] Политика и власть"
-date: "2023-02-11"
-categories: 
-  - "resources"
-tags: 
-  - "cityscape"
-  - "druid"
-  - "dwarf"
-  - "magic-items"
-  - "random-encounters"
-  - "dvarf"
+title: '[Cityscape] Политика и власть'
+date: '2023-02-11'
+categories:
+  - 'resources'
+tags:
+  - 'cityscape'
+  - 'druid'
+  - 'dwarf'
+  - 'magic-items'
+  - 'random-encounters'
+  - 'dvarf'
 ---
 
 #cityscape #dnd35 #dnd #town #resource
 
- 
+
 
 От правительств до гильдий, от храмов до частных организации, город кишит объектами влияния, с которыми персонажами придётся иметь дело. Независимо от типа власти: политической, финансовой, криминальной или социальной, эти группы влияния могут стать для приключенцев как ценным союзниками так и серьезными противниками. При должном подходе группы влияния могут формировать ход всей кампании.
 
@@ -340,7 +340,7 @@ tags:
 
 Таблица 3–2: Займы в гильдии
 
- 
+
 
 <table style="border-collapse:collapse" border="0"><colgroup><col style="width:301px"><col style="width:301px"></colgroup><tbody valign="top"><tr><td style="border-top:  solid black 1.0pt; border-left:  solid black 1.0pt; border-bottom:  solid black 1.0pt; border-right:  solid black 1.0pt">Желаемая сумма займа<p></p></td><td style="border-top:  solid black 1.0pt; border-left:  none; border-bottom:  solid black 1.0pt; border-right:  solid black 1.0pt"><p>СЛ проверки Дипломатии</p></td></tr><tr><td style="border-top:  none; border-left:  solid black 1.0pt; border-bottom:  solid black 1.0pt; border-right:  solid black 1.0pt"><p>Сумма займа меньше или равен ежемесячному членскому взносу</p></td><td style="border-top:  none; border-left:  none; border-bottom:  solid black 1.0pt; border-right:  solid black 1.0pt"><p>15</p></td></tr><tr><td style="border-top:  none; border-left:  solid black 1.0pt; border-bottom:  solid black 1.0pt; border-right:  solid black 1.0pt"><p>Сумма займа меньше или равен ежемесячному членскому взносу × 10</p></td><td style="border-top:  none; border-left:  none; border-bottom:  solid black 1.0pt; border-right:  solid black 1.0pt"><p>20</p></td></tr><tr><td style="border-top:  none; border-left:  solid black 1.0pt; border-bottom:  solid black 1.0pt; border-right:  solid black 1.0pt"><p>Сумма займа меньше или равен ежемесячному членскому взносу × 100</p></td><td style="border-top:  none; border-left:  none; border-bottom:  solid black 1.0pt; border-right:  solid black 1.0pt"><p>25</p></td></tr></tbody></table>
 

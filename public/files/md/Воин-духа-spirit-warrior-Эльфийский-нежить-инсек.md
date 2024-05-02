@@ -1,16 +1,16 @@
 ---
-title: "Воин духа (Spirit Warrior)  - Эльфийский нежить инсектоид биомех"
-date: "2022-05-25"
-categories: 
-  - "spelljammer"
-  - "e5e-bestiary"
-  - "translations-other"
-tags: 
-  - "5e"
-  - "add-2ed"
-  - "spelljammer"
-  - "бестиарий"
-  - "translate"
+title: 'Воин духа (Spirit Warrior)  - Эльфийский нежить инсектоид биомех'
+date: '2022-05-25'
+categories:
+  - 'spelljammer'
+  - 'e5e-bestiary'
+  - 'translations-other'
+tags:
+  - '5e'
+  - 'add-2ed'
+  - 'spelljammer'
+  - 'бестиарий'
+  - 'translate'
 ---
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2022/05/spirit-warrior.gif)

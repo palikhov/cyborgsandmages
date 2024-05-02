@@ -1,11 +1,11 @@
 ---
-title: "Воины ветра"
-date: "2022-08-19"
-categories: 
-  - "translations-other"
-tags: 
-  - "magic-items"
-  - "translate"
+title: 'Воины ветра'
+date: '2022-08-19'
+categories:
+  - 'translations-other'
+tags:
+  - 'magic-items'
+  - 'translate'
 ---
 
 Оригинал: Журнал «Дракон» №244 (февраль 1998), Warriors of the Wind by Michael Lambert

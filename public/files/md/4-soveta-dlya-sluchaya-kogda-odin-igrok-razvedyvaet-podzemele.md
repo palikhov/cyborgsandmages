@@ -1,11 +1,11 @@
 ---
-title: "4 совета для случая, когда один игрок разведывает подземелье"
-date: "2022-07-25"
-categories: 
-  - "translations-other"
-tags: 
-  - "gmadvice"
-  - "translate"
+title: '4 совета для случая, когда один игрок разведывает подземелье'
+date: '2022-07-25'
+categories:
+  - 'translations-other'
+tags:
+  - 'gmadvice'
+  - 'translate'
 ---
 
 #gmtips #gmadvice #dungeon #scouting #davidhartlage #hartlage
