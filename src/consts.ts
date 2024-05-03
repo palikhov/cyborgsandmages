@@ -65,7 +65,7 @@ export const SITE_POST_CATEGORIES = [
 		path: 'marwang',
 		title: 'Марванг',
 		description: 'Марванг'
-	}
+	},
 ];
 
 export const SITE_FRIENDS = [

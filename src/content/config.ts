@@ -232,4 +232,4 @@ const spells = defineCollection({
 	})
 });
 
-export const collections = { singles, posts, generators, creatures, items, spells };
+export const collections = { singles, posts, generators, creatures, items };
