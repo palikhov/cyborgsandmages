@@ -1,16 +1,16 @@
 ---
-title: '[Перевод] — Время простоя и владения (для пятой редакции), ч.22 - Проблемы приспешников и наемников'
-date: '2022-07-09'
-categories:
-  - 'hack-and-slash-downtime-and-demesne-5e'
-  - 'hackandslashmaster'
-  - 'our-materials'
-tags:
-  - '5e'
-  - 'courtny-campbell'
-  - 'downtime'
-  - 'hackandslash'
-  - 'translate'
+title: "[Перевод] — Время простоя и владения (для пятой редакции), ч.22 - Проблемы приспешников и наемников"
+date: "2022-07-09"
+categories: 
+  - "hack-and-slash-downtime-and-demesne-5e"
+  - "hackandslashmaster"
+  - "our-materials"
+tags: 
+  - "5e"
+  - "courtny-campbell"
+  - "downtime"
+  - "hackandslash"
+  - "translate"
 ---
 
 [Оглавление](https://cyborgsandmages.com/2022/07/translate-downtime-and-demesne-5e-index/)

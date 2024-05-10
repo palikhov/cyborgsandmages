@@ -1,16 +1,17 @@
 ---
-title: 'Случайный совет для Мастера: Разделение партии'
-date: '2022-01-28'
-categories:
-  - 'alexandrian'
-  - 'переводы'
-  - 'переводы-прочие'
-tags:
-  - 'dungeons-as-suffering'
-  - 'перевод'
-  - 'justin-alexander'
+title: "Случайный совет для Мастера: Разделение партии"
+date: "2022-01-28"
+categories: 
+  - "alexandrian"
+  - "переводы"
+  - "переводы-прочие"
+tags: 
+  - "dungeons-as-suffering"
+  - "перевод"
+  - "justin-alexander"
 ---
 
+  
 Текст Justin Alexander от 24 января 2022 года
 
 «_Никогда не разделяйте партию»_

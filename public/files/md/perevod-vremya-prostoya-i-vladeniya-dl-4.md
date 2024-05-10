@@ -1,19 +1,19 @@
 ---
-title: '[Перевод] — Время простоя и владения (для пятой редакции), ч.5 — Примеры наемников и отрядов'
-date: '2022-07-23'
-categories:
-  - 'hack-and-slash-downtime-and-demesne-5e'
-  - 'hackandslashmaster'
-  - 'translations-other'
-  - 'articles'
-tags:
-  - 'downtime'
-  - 'draft'
-  - 'hackandslash'
-  - 'hirelings'
-  - 'npc'
-  - 'заметки'
-  - 'translate'
+title: "[Перевод] — Время простоя и владения (для пятой редакции), ч.5 — Примеры наемников и отрядов"
+date: "2022-07-23"
+categories: 
+  - "hack-and-slash-downtime-and-demesne-5e"
+  - "hackandslashmaster"
+  - "translations-other"
+  - "articles"
+tags: 
+  - "downtime"
+  - "draft"
+  - "hackandslash"
+  - "hirelings"
+  - "npc"
+  - "заметки"
+  - "translate"
 ---
 
 ![](https://cyborgsandmages.files.wordpress.com/2021/08/image.png?w=569)

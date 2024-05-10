@@ -1,14 +1,14 @@
 ---
-title: '[Core d20 RPG] Магия. Заклинания'
-date: '2023-02-11'
-categories:
-  - 'cored20rpg'
-  - 'e5e'
-tags:
-  - 'core-d20-rpg'
-  - 'e5e'
-  - 'magic'
-  - 'spell'
+title: "[Core d20 RPG] Магия. Заклинания"
+date: "2023-02-11"
+categories: 
+  - "cored20rpg"
+  - "e5e"
+tags: 
+  - "core-d20-rpg"
+  - "e5e"
+  - "magic"
+  - "spell"
 ---
 
 **#e5e #cored20rpg #magic #spell #1st #2nd #3rd #5th #6th #7th #8th #9th**

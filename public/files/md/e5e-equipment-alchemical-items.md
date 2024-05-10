@@ -1,16 +1,16 @@
 ---
-title: '[E5E] Equipment - Alchemical items'
-date: '2022-05-27'
-categories:
-  - 'e5e'
-  - 'homebrew'
-  - 'resources'
-tags:
-  - '5e'
-  - 'alchemy'
-  - 'e5e'
-  - 'homebrew'
-  - 'materials'
+title: "[E5E] Equipment - Alchemical items"
+date: "2022-05-27"
+categories: 
+  - "e5e"
+  - "homebrew"
+  - "resources"
+tags: 
+  - "5e"
+  - "alchemy"
+  - "e5e"
+  - "homebrew"
+  - "materials"
 ---
 
 Обновлена версия базовых алхимических предметов – ревизия № 2.

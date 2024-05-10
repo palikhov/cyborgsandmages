@@ -1,8 +1,8 @@
 ---
-title: 'ФЛАН И ЕГО ОКРЕСТНОСТИ'
-date: '2018-03-13'
-categories:
-  - 'homebrew'
+title: "ФЛАН И ЕГО ОКРЕСТНОСТИ"
+date: "2018-03-13"
+categories: 
+  - "homebrew"
 ---
 
 ## ПРИМЕЧАТЕЛЬНЫЕ МЕСТА ФЛАНА
@@ -65,8 +65,8 @@ categories:
 
 Этот небольшой остров на реке Стоянов, невзрачное пристанище для большой серебряной пирамиды, 120 футов высотой и 90 футов шириной стороны по основанию. Эта таинственная конструкция была домом для безумного волшебника Яраша Яраш проводил эксперименты над местной флорой и фауной превращая их в ужасных существ. Перемещение в, внутри и наружу пирамиды происходит при помощи магической телепортации. По слухам, внутри пирамиды, находятся чудовищные существа, магические ловушки, и сокровища перешагивающие грани воображения. Однако, никто из пошедших за ними, не вернулся. В настоящее время пирамида занята племенем мутантов ящеролюдов, потомков нескольких жертв экспериментов Яраша.
 
-[Phlan on Adventurers League Wiki](https://adventurersleague.wikia.com/wiki/Phlan) [Phlan on Forgotten Realms Wiki](https://forgottenrealms.wikia.com/wiki/Phlan) [Phlan on Aerie Wiki](http://wiki.aerie.ru/wiki/Флан)
+  [Phlan on Adventurers League Wiki](https://adventurersleague.wikia.com/wiki/Phlan) [Phlan on Forgotten Realms Wiki](https://forgottenrealms.wikia.com/wiki/Phlan) [Phlan on Aerie Wiki](http://wiki.aerie.ru/wiki/Флан)
 
 ### Материал для вдохновения
 
-[Скачать Руководство по Флану из старых редакций из каталога Traveler's Book с сайта Candlekeep.com](https://cyborgsandmages.com/wp-content/uploads/2018/07/phlancore.pdf 'PhlanCore')
+[Скачать Руководство по Флану из старых редакций из каталога Traveler's Book с сайта Candlekeep.com](https://cyborgsandmages.com/wp-content/uploads/2018/07/phlancore.pdf "PhlanCore")

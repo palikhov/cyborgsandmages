@@ -1,10 +1,10 @@
 ---
-title: 'Сеттинг как персонаж'
-date: '2019-06-09'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Сеттинг как персонаж"
+date: "2019-06-09"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 текст [J.T. Evans](https://vk.com/away.php?to=https%3A%2F%2Fgnomestew.com%2Fauthor%2Fjtevans%2F&cc_key=) от 29 мая 2019 года

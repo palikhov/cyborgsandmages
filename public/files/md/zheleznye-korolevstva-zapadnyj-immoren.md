@@ -1,8 +1,8 @@
 ---
-title: 'Железные Королевства – Западный Имморен'
-date: '2022-12-28'
-categories:
-  - 'translations'
+title: "Железные Королевства – Западный Имморен"
+date: "2022-12-28"
+categories: 
+  - "translations"
 ---
 
 #ironkingdoms #translate #setting

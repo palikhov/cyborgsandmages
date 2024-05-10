@@ -1,12 +1,12 @@
 ---
-title: 'Бестиарий | E5E'
-date: '2022-03-29'
-categories:
-  - 'e5e'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'homebrew'
+title: "Бестиарий | E5E"
+date: "2022-03-29"
+categories: 
+  - "e5e"
+tags: 
+  - "5e"
+  - "e5e"
+  - "homebrew"
 ---
 
 # Изменения в блоке статистики

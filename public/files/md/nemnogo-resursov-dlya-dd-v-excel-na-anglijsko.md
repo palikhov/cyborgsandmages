@@ -1,11 +1,11 @@
 ---
-title: 'Немного ресурсов для D&D в Excel на английском и русском'
-date: '2019-11-12'
-categories:
-  - 'resources'
-tags:
-  - 'resursy-dlya-igrokov'
-  - 'resursy-dlya-mastera'
+title: "Немного ресурсов для D&D в Excel на английском и русском"
+date: "2019-11-12"
+categories: 
+  - "resources"
+tags: 
+  - "resursy-dlya-igrokov"
+  - "resursy-dlya-mastera"
 ---
 
 Неплохой лист персонажа
@@ -28,15 +28,15 @@ tags:
 
 Заклинания на русском языке по классам
 
-[DnD_5_v1.48d](https://cyborgsandmages.com/wp-content/uploads/2019/11/DnD_5_v1.48d.xlsx)[Скачать](https://cyborgsandmages.com/wp-content/uploads/2019/11/DnD_5_v1.48d.xlsx)
+[DnD\_5\_v1.48d](https://cyborgsandmages.com/wp-content/uploads/2019/11/DnD_5_v1.48d.xlsx)[Скачать](https://cyborgsandmages.com/wp-content/uploads/2019/11/DnD_5_v1.48d.xlsx)
 
 Расчет и создание статблоков чудовищ
 
 [Monster-Builder-with-Card-V1.4](https://cyborgsandmages.com/wp-content/uploads/2019/11/Monster-Builder-with-Card-V1.4.xlsx)[Скачать](https://cyborgsandmages.com/wp-content/uploads/2019/11/Monster-Builder-with-Card-V1.4.xlsx)
 
-[Monster_Stat_Calculator](https://cyborgsandmages.com/wp-content/uploads/2019/11/Monster_Stat_Calculator.xlsx)[Скачать](https://cyborgsandmages.com/wp-content/uploads/2019/11/Monster_Stat_Calculator.xlsx)
+[Monster\_Stat\_Calculator](https://cyborgsandmages.com/wp-content/uploads/2019/11/Monster_Stat_Calculator.xlsx)[Скачать](https://cyborgsandmages.com/wp-content/uploads/2019/11/Monster_Stat_Calculator.xlsx)
 
-[Monster_Statistics_Calculator](https://cyborgsandmages.com/wp-content/uploads/2019/11/Monster_Statistics_Calculator.xlsx)[Скачать](https://cyborgsandmages.com/wp-content/uploads/2019/11/Monster_Statistics_Calculator.xlsx)
+[Monster\_Statistics\_Calculator](https://cyborgsandmages.com/wp-content/uploads/2019/11/Monster_Statistics_Calculator.xlsx)[Скачать](https://cyborgsandmages.com/wp-content/uploads/2019/11/Monster_Statistics_Calculator.xlsx)
 
 Генератор магазинов с содержимым
 
@@ -46,11 +46,11 @@ tags:
 
 [Travelling-Merchants](https://cyborgsandmages.com/wp-content/uploads/2019/11/Travelling-Merchants.xlsx)[Скачать](https://cyborgsandmages.com/wp-content/uploads/2019/11/Travelling-Merchants.xlsx)
 
----
+* * *
 
 Глубоководье в таблицах
 
-[waterdeep_tables_v.0.84](https://cyborgsandmages.com/wp-content/uploads/2019/11/waterdeep_tables_v.0.84.xlsx)[Скачать](https://cyborgsandmages.com/wp-content/uploads/2019/11/waterdeep_tables_v.0.84.xlsx)
+[waterdeep\_tables\_v.0.84](https://cyborgsandmages.com/wp-content/uploads/2019/11/waterdeep_tables_v.0.84.xlsx)[Скачать](https://cyborgsandmages.com/wp-content/uploads/2019/11/waterdeep_tables_v.0.84.xlsx)
 
 Врата Балдура в таблицах
 

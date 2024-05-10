@@ -1,13 +1,13 @@
 ---
-title: 'Магический рейтинг мира (AD&D 2ed)'
-date: '2021-12-02'
-categories:
-  - 'resources'
-tags:
-  - 'add-2ed'
-  - 'level-of-magic'
-  - 'materials'
-  - 'translate'
+title: "Магический рейтинг мира (AD&D 2ed)"
+date: "2021-12-02"
+categories: 
+  - "resources"
+tags: 
+  - "add-2ed"
+  - "level-of-magic"
+  - "materials"
+  - "translate"
 ---
 
 Магический аспект

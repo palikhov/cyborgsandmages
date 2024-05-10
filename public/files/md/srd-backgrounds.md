@@ -1,10 +1,10 @@
 ---
-title: 'Предыстории | SRD 5.1'
-date: '2019-11-10'
-categories:
-  - 'our-materials'
-tags:
-  - 'srd'
+title: "Предыстории | SRD 5.1"
+date: "2019-11-10"
+categories: 
+  - "our-materials"
+tags: 
+  - "srd"
 ---
 
 ### Вдохновение

@@ -1,11 +1,11 @@
 ---
-title: 'Используем правила D&D5 для проработанных и интересных социальных взаимодействий'
-date: '2022-08-26'
-categories:
-  - 'krossposty'
-tags:
-  - '5e'
-  - 'random-encounters'
+title: "Используем правила D&D5 для проработанных и интересных социальных взаимодействий"
+date: "2022-08-26"
+categories: 
+  - "krossposty"
+tags: 
+  - "5e"
+  - "random-encounters"
 ---
 
 **#dnd #5e #crosspost**

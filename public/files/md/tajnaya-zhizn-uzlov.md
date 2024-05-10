@@ -1,11 +1,11 @@
 ---
-title: 'Тайная жизнь узлов'
-date: '2022-07-30'
-categories:
-  - 'alexandrian'
-tags:
-  - 'перевод'
-  - 'justin-alexander'
+title: "Тайная жизнь узлов"
+date: "2022-07-30"
+categories: 
+  - "alexandrian"
+tags: 
+  - "перевод"
+  - "justin-alexander"
 ---
 
 #node #justinalexander #alexandrian #translate

@@ -1,12 +1,12 @@
 ---
-title: '[Cityscape] ПРОСТОЙ: НА ЗАМЕТКУ ИССЛЕДОВАТЕЛЯМ'
-date: '2023-02-11'
-categories:
-  - 'resources'
-tags:
-  - 'cityscape'
-  - 'dwarf'
-  - 'dvarf'
+title: "[Cityscape] ПРОСТОЙ: НА ЗАМЕТКУ ИССЛЕДОВАТЕЛЯМ"
+date: "2023-02-11"
+categories: 
+  - "resources"
+tags: 
+  - "cityscape"
+  - "dwarf"
+  - "dvarf"
 ---
 
 **#cityscape #dnd35 #dnd #town #resource** #downtime #sage

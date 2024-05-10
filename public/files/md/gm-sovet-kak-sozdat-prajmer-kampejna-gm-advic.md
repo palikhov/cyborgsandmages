@@ -1,10 +1,10 @@
 ---
-title: 'GM Совет: Как создать праймер кампейна. / GM Advice: How to Design a Campaign Primer'
-date: '2019-03-03'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-metki-i-rubriki'
+title: "GM Совет: Как создать праймер кампейна. / GM Advice: How to Design a Campaign Primer"
+date: "2019-03-03"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-metki-i-rubriki"
 ---
 
 #### GM Совет: Как создать праймер кампейна. / GM Advice: How to Design a Campaign Primer

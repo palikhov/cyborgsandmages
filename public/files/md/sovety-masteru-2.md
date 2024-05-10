@@ -1,25 +1,25 @@
 ---
-title: 'Советы Мастеру'
-date: '2022-12-29'
-categories:
-  - 'translations'
-  - 'advices'
-tags:
-  - 'gm-advice'
-  - 'dm-tips'
+title: "Советы Мастеру"
+date: "2022-12-29"
+categories: 
+  - "translations"
+  - "advices"
+tags: 
+  - "gm-advice"
+  - "dm-tips"
 ---
 
 **Советы Мастеру**
 
+ 
 
-
-
+ 
 
 #dnd #gm #gmtips #gmadvice #advice #tips #translate
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2022/12/122922_1608_1.png)
 
-
+   
 
 Набор небольших советов мастеру по поводу проведения кампании и развития сюжета, о том, как регулировать спорные вопросы по правилам, как награждать и поощрять игроков.
 
@@ -58,6 +58,6 @@ tags:
 
 Источник: [RPGs like D&D - some notes i've been taking on DMing, culled from various sources](http://tabletop-rpgs.tumblr.com/post/166443423671/some-notes-ive-been-taking-on-dming-culled-from)
 
-
+   
 
 _Источник: <[https://tentaculus.ru/archive/articles/DM\_tips\_list.html](https://tentaculus.ru/archive/articles/DM_tips_list.html)\>_

@@ -1,11 +1,11 @@
 ---
-title: 'Перевод System Reference Document 5.1'
-date: '2019-08-27'
-categories:
-  - 'our-materials'
-tags:
-  - 'srd'
-  - 'translate'
+title: "Перевод System Reference Document 5.1"
+date: "2019-08-27"
+categories: 
+  - "our-materials"
+tags: 
+  - "srd"
+  - "translate"
 ---
 
 Перевод System Reference Document v.5.1 под редакцией Open Gaming License 1.0a
@@ -16,7 +16,7 @@ tags:
 
 [SRD 51 remastered on Github](https://github.com/palikhov/OGL-SRD5)
 
----
+* * *
 
 # **Перевод**
 
@@ -124,7 +124,7 @@ SRD 51 OGL FEATS(ru)](https://cyborgsandmages.files.wordpress.com/2019/09/srd-51
 
 [srd-51-madnessru](https://cyborgsandmages.files.wordpress.com/2020/09/srd-51-madnessru.docx)[Скачать](https://cyborgsandmages.files.wordpress.com/2020/09/srd-51-madnessru.docx)
 
----
+* * *
 
 ## Бестиарий
 
@@ -144,7 +144,7 @@ SRD 51 OGL FEATS(ru)](https://cyborgsandmages.files.wordpress.com/2019/09/srd-51
 
 ### **Различные создания**
 
----
+* * *
 
 ## Перевод заклинаний
 
@@ -158,7 +158,7 @@ SRD 51 OGL FEATS(ru)](https://cyborgsandmages.files.wordpress.com/2019/09/srd-51
 
 ### Описания заклинаний
 
----
+* * *
 
 ## Перевод волшебных предметов
 
@@ -168,13 +168,13 @@ SRD 51 OGL FEATS(ru)](https://cyborgsandmages.files.wordpress.com/2019/09/srd-51
 
 ### Артефакты
 
----
+* * *
 
 ### Словарь перевода КиЧ
 
 [Словарь](https://1drv.ms/x/s!Atcrhwwo1lBAys9GjytwwzP49qF-8g?e=n7NgGY)
 
----
+* * *
 
 ## Благодарности
 
@@ -184,6 +184,6 @@ SRD 51 OGL FEATS(ru)](https://cyborgsandmages.files.wordpress.com/2019/09/srd-51
 
 **Помогали:** Damir Rahimov, Dmitriy Nelyubov, Featona, Hellfell, Nikita Nenashev, Kirill Lysenkov aka Byrricade и другие, кого запамятовали.
 
----
+* * *
 
 Но это еще не все: наш проект по созданию бесплатного базиса для игроков и мастеров пока носит рабочее название "Воины и Чародеи", и помимо него (ВиЧ рассчитан на полную совместимостьс пятой редакцией - без каких либо изменений с нашей стороны) мы работаем над E5E - расширенной, улучшенной версией пятой редакции - с некоторыми исправлениями баланса и многими дополнительными правилами. Выкладываться дополнения и изменения по E5E будут на текущем сайте этого проекта - [https://e5erpg.wordpress.com/](https://e5erpg.wordpress.com/)

@@ -1,12 +1,12 @@
 ---
-title: 'Снаряжение - базовые алхимические предметы | E5E'
-date: '2022-05-24'
-categories:
-  - 'e5e'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'homebrew'
+title: "Снаряжение - базовые алхимические предметы | E5E"
+date: "2022-05-24"
+categories: 
+  - "e5e"
+tags: 
+  - "5e"
+  - "e5e"
+  - "homebrew"
 ---
 
 **Дата версии:** 28.05.2022
@@ -17,30 +17,30 @@ tags:
 
 **Если вам есть что добавить, есть идеи или комментарии - пишите в комментариях или у нас на сервере дискорда.**
 
+ 
 
-
----
+* * *
 
 > В этом разделе представленые наиболее часто встречающиеся предметы, созданные при помощи алхимии.
->
+> 
 > Важно! Как и в случае с другими категориями, возможно, что некоторые предметы будут описаны сразу в нескольких категориях. Например, тубус для свитков.
 
-
+ 
 
 > Alchemy or Magic?
->
+> 
 > Several skills and feats blur the line between the fantastic powers of magic and what exists in the real world. The Alchemy skill exists on this border between the mundane and the magical. Alchemical items must provide a wide variety of quasi-magical effects without duplicating or weakening the effects of magical abilities.
->
+> 
 > Here are some guidelines to use when creating new alchemical items:
->
+> 
 > Alchemical items can induce a temporary state such as shaken or dazzled in a single creature, but it takes a magical effect to force such a state on many creatures or induce a state permanently.
->
+> 
 > Alchemical items can deal a small amount of damage to a single target. The amount of damage can be increased slightly if the substance affects only a small subset of creatures.
->
+> 
 > Alchemical items can impart a temporary property to a mundane item.
->
+> 
 > Alchemical items can temporarily mitigate the effects of an existing condition (such as fatigue) or help resist an impending one (such as antitoxin).
->
+> 
 > Most importantly, alchemical items shouldn't duplicate a spell effect, affect a large area, or impart a permanent benefit. Nor should they mimic the effect of an existing magic item. Prices for alchemical items should always be balanced against the damage potential and protective benefits of similar magic items.
 
 ## Tools for alchemy
@@ -68,7 +68,7 @@ Alchemist’s Supplies
 **Alchemy Lab.** Cost: 500gp (3 slots), +100 gp per additional slot. An alchemy lab is a much larger workspace than a simple set of supplies. Where alchemist’s supplies can only be used to work on a single project at a time, the purpose of a lab is to allow multiple processes to work at the same time. Each slot allows an alchemist to tend to a single project, performing the standard 5gp worth of work towards the completion of that alchemical item for each slot. An alchemist can tend to a number of such slots equal to 1 + their proficiency bonus. Multiple slots can also be dedicated to a single project, devoting more resources to the project in question. For each slot dedicated to a given item, 5gp of work is done per day towards that item being completed. Thus, if an alchemist devotes three slots toward finishing a potion of climbing, they accomplish 15gp per day of crafting toward that end.
 
 > Setting up an alchemical lab requires space to do so. If the character’s Lifestyle does not provide multiple rooms for their living situation, the character must either find a space to do this or upgrade their Lifestyle so that it does. Generally speaking, a Comfortable Lifestyle is sufficient to provide the room needed for a lab setup.
->
+> 
 > Alchemists with large labs frequently employ apprentices to help tend to the extra projects “on the fire” (as it were).
 
 **Athanor.** Cost: 30gp. An athanor is a specialized piece of equipment. An alchemist can use an athanor with his alchemist’s supplies, or if set up in an alchemical lab, an athanor takes up a single slot. Each athanor is dedicated to a single alchemical item, and takes one day to set up and properly calibrate. Once this is done, though, each day of work using an athanor in the creation of the proper item provides 15gp worth of work per day, rather than the standard 5gp.
@@ -95,7 +95,7 @@ Granite Dust is attracted to oil and wet surfaces and can be used to dust for fi
 
 Acid and ammonia are used to test the general pH of materials.
 
-
+ 
 
 ## Using alchemy tools
 
@@ -124,12 +124,12 @@ By making an Alchemist’s Supplies check, the alchemist can speed the process a
 **OINTMENTS & OILS.** Generally speaking, these items are topical — that is, they are applied to the surface of the intended target, whether that is the outside of an item or the skin of a person.
 
 > Изменения:
->
+> 
 > У части предметов представленных  в Книге Игрока уменьшена стоимость и немного изменены свойства.
->
+> 
 > Так кислота и алхимический огонь не считаются импровизированным оружием, а являются метательным простым оружием, которое к тому же наносит площадный урон.
 
-
+ 
 
 ## Goods
 
@@ -137,11 +137,11 @@ To the average folk, alchemy is an excellent art that produces a wide array of u
 
 **Rarity.** Alchemical goods are given a Rarity rating, just like magic items are. Generally speaking, those with a higher rarity are harder to find. All alchemists begin their craft knowing all Common, four Uncommon, and a single Rare recipe, though it is only a matter of time before an alchemist collects many more recipes.
 
-
+ 
 
 <table><tbody><tr><td width="108"><strong>Item Name</strong></td><td width="108"><strong>Cost, gp</strong></td><td width="108"><strong>Weight, lb</strong></td></tr><tr><td width="108">Acid</td><td width="108">10</td><td width="108">1</td></tr><tr><td width="108">Acid Neutralizer</td><td width="108">50</td><td width="108">1</td></tr><tr><td width="108">Alchemical compass</td><td width="108">450</td><td width="108">0</td></tr><tr><td width="108">Alchemical Dye</td><td width="108">5</td><td width="108">0</td></tr><tr><td width="108">Alchemical Glue</td><td width="108">10</td><td width="108">0</td></tr><tr><td width="108">Alchemical Ink, Black</td><td width="108">8</td><td width="108">0</td></tr><tr><td width="108">Alchemical Ink, Colors</td><td width="108">15</td><td width="108">0</td></tr><tr><td width="108">Alchemical Ink, Metallics</td><td width="108">25</td><td width="108">0</td></tr><tr><td width="108">Alchemical Salt</td><td width="108">15</td><td width="108">0</td></tr><tr><td width="108">Alchemical Silver Treatment</td><td width="108">25</td><td width="108">—</td></tr><tr><td width="108">Alchemist's Doom</td><td width="108">50</td><td width="108">1</td></tr><tr><td width="108">Alchemist's fire</td><td width="108">20</td><td width="108">1</td></tr><tr><td width="108">Anti-Rust Treatment</td><td width="108">20</td><td width="108">0</td></tr><tr><td width="108">Antitoxin</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Aqua Salutem</td><td width="108">60</td><td width="108">0</td></tr><tr><td width="108">Artwine</td><td width="108">10</td><td width="108">0</td></tr><tr><td width="108">Astutive Elixir</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Bladefire</td><td width="108">20</td><td width="108">1</td></tr><tr><td width="108">Blastpatch</td><td width="108">3</td><td width="108">1</td></tr><tr><td width="108">Blazebane</td><td width="108">20</td><td width="108">0</td></tr><tr><td width="108">Campstone</td><td width="108">1</td><td width="108">0</td></tr><tr><td width="108">Catstink</td><td width="108">50</td><td width="108">1</td></tr><tr><td width="108">Cleaning Agents</td><td width="108">1</td><td width="108">0</td></tr><tr><td width="108">Cleansewater</td><td width="108">5</td><td width="108">0</td></tr><tr><td width="108">Clearbreath</td><td width="108">50</td><td width="108">—</td></tr><tr><td width="108">Clearwater Solution</td><td width="108">4</td><td width="108">0</td></tr><tr><td width="108">Cognitive Elixir</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Darkeye Oil</td><td width="108">15</td><td width="108">0</td></tr><tr><td width="108">Darkvision powder</td><td width="108">10</td><td width="108">1 oz.</td></tr><tr><td width="108">Dazzler</td><td width="108">20</td><td width="108">0</td></tr><tr><td width="108">Drunkard’s Head Remedy</td><td width="108"></td><td width="108"></td></tr><tr><td width="108">Dwarfblind</td><td width="108">50</td><td width="108">1 lb.</td></tr><tr><td width="108">Emetic Elixir</td><td width="108">2</td><td width="108">0</td></tr><tr><td width="108">Everburning torch</td><td width="108">110</td><td width="108">1</td></tr><tr><td width="108">Eye cusps</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Faerie Burst</td><td width="108">40</td><td width="108">0</td></tr><tr><td width="108">Fareye Oil</td><td width="108">25</td><td width="108">0</td></tr><tr><td width="108">Fascinative Elixir</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Fire Ward Gel</td><td width="108">150</td><td width="108">1</td></tr><tr><td width="108">Firecracker Ammunition</td><td width="108">4</td><td width="108">0</td></tr><tr><td width="108">Flash Pellet</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Flash Rocket</td><td width="108">40</td><td width="108">1</td></tr><tr><td width="108">Froststone</td><td width="108">25</td><td width="108">0</td></tr><tr><td width="108">Frostvial</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Ghostoil</td><td width="108">50</td><td width="108">1 lb.</td></tr><tr><td width="108">Glowpowder</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Gluebomb</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Gravebane</td><td width="108">50</td><td width="108">1 lb.</td></tr><tr><td width="108">Gruel Pellet</td><td width="108">20</td><td width="108">0</td></tr><tr><td width="108">Hawk’s Ointment</td><td width="108">20</td><td width="108">0</td></tr><tr><td width="108">Hawk’s Ointment</td><td width="108">20</td><td width="108">0</td></tr><tr><td width="108">Instant Rope</td><td width="108">25</td><td width="108">1 lb.</td></tr><tr><td width="108">Invigorative Elixir</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Keenear Powder</td><td width="108">20</td><td width="108">0</td></tr><tr><td width="108">Mailrot</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Merstone</td><td width="108">10</td><td width="108">0</td></tr><tr><td width="108">Pain Relief Elixir</td><td width="108">5</td><td width="108">0</td></tr><tr><td width="108">Phantom Ink</td><td width="108">30</td><td width="108">0</td></tr><tr><td width="108">Reflexitive Elixir</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Salamander Salve</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Silver Treatment</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Skunk Cloud</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Sleep Aid Elixir</td><td width="108">1</td><td width="108">0</td></tr><tr><td width="108">Smokestick, Ratsbane</td><td width="108">10</td><td width="108">0</td></tr><tr><td width="108">Smokestick, Witchweed</td><td width="108">40</td><td width="108">0</td></tr><tr><td width="108">Softfoot Treatment</td><td width="108">12</td><td width="108">0</td></tr><tr><td width="108">Spark Gravel</td><td width="108">20</td><td width="108">0</td></tr><tr><td width="108">Sparkstone</td><td width="108">8</td><td width="108">0</td></tr><tr><td width="108">Spell Ink</td><td width="108">15</td><td width="108">0</td></tr><tr><td width="108">Stinkbomb</td><td width="108">25</td><td width="108">0</td></tr><tr><td width="108">Stonebreaker Acid</td><td width="108">30</td><td width="108">0</td></tr><tr><td width="108">Storm Salve</td><td width="108">0</td><td width="108">0</td></tr><tr><td width="108">Sunrod</td><td width="108">2</td><td width="108">0</td></tr><tr><td width="108">Suregrip</td><td width="108">20</td><td width="108">0</td></tr><tr><td width="108">Tangleburn Bag</td><td width="108">75</td><td width="108">5</td></tr><tr><td width="108">Tanglefoot bag</td><td width="108">50</td><td width="108">0</td></tr><tr><td width="108">Tangler grenade</td><td width="108">100</td><td width="108">1</td></tr><tr><td width="108">Thunderstone</td><td width="108">10</td><td width="108">—</td></tr><tr><td width="108">Tindertwig</td><td width="108">1</td><td width="108">0</td></tr><tr><td width="108">Torch, Alchemical</td><td width="108">0</td><td width="108">1</td></tr><tr><td width="108">Torch, Signal</td><td width="108">1</td><td width="108">1</td></tr><tr><td width="108">Verminbane</td><td width="108">20</td><td width="108">1</td></tr><tr><td width="108">Vicious Bleeder</td><td width="108">50</td><td width="108">11</td></tr></tbody></table>
 
-
+ 
 
 **Acid (flask).** This corrosive liquid can burn through flesh and inanimate materials alike. As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 40 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as a simple weapon with thrown (20/40) property. On a hit, the target takes 2d6 acid damage. Every creature within 5 feet of the point where the acid hits takes 1 acid damage from the splash.
 

@@ -1,16 +1,16 @@
 ---
-title: 'Дворфы Кринна'
-date: '2023-01-21'
-categories:
-  - 'dragonlance'
-tags:
-  - 'dragonlance'
-  - 'dwarf'
-  - 'dwarves'
-  - 'dvarf'
-  - 'dvarfy'
-  - 'krinn'
-  - 'translate'
+title: "Дворфы Кринна"
+date: "2023-01-21"
+categories: 
+  - "dragonlance"
+tags: 
+  - "dragonlance"
+  - "dwarf"
+  - "dwarves"
+  - "dvarf"
+  - "dvarfy"
+  - "krinn"
+  - "translate"
 ---
 
 #krynn #dwarves #races #translate #dnd #dragonlance
@@ -151,4 +151,4 @@ tags:
 
 © 2001 Ника Бельская, Hagalaz Majere – Перевод
 
-[http://www.dragonlance.ru/world/races/dvorfi_krinna/](http://www.dragonlance.ru/world/races/dvorfi_krinna/)
+[http://www.dragonlance.ru/world/races/dvorfi\_krinna/](http://www.dragonlance.ru/world/races/dvorfi_krinna/)

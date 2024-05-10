@@ -1,14 +1,14 @@
 ---
 title: "Отыгрыш Друида [The Complete Druid's Handbook AD&D 2ed]"
-date: '2021-12-03'
-categories:
-  - 'resources'
-tags:
-  - 'add-2ed'
-  - 'druid'
-  - 'the-complete-druids-handbook'
-  - 'materials'
-  - 'translate'
+date: "2021-12-03"
+categories: 
+  - "resources"
+tags: 
+  - "add-2ed"
+  - "druid"
+  - "the-complete-druids-handbook"
+  - "materials"
+  - "translate"
 ---
 
 И так, теперь, узнав о друидическом ордене и, выбрав себе ветвь и карьеру, вы думаете, что уже готовы принять вызов ролевой игры за этот ролевой класс? Хорошо, осталось еще довольно много интересного, что можно узнать о друидах. Например:

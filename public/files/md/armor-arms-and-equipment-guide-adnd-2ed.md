@@ -1,12 +1,12 @@
 ---
-title: 'Описание доспехов из Arms and Equipment Guide (AD&D 2ed)'
-date: '2021-12-02'
-categories:
-  - 'translations'
-tags:
-  - 'add-2ed'
-  - 'arms-and-equipment-guide-2ed'
-  - 'homebrew'
+title: "Описание доспехов из Arms and Equipment Guide (AD&D 2ed)"
+date: "2021-12-02"
+categories: 
+  - "translations"
+tags: 
+  - "add-2ed"
+  - "arms-and-equipment-guide-2ed"
+  - "homebrew"
 ---
 
 # Подбитый доспех (Padded Armor) (AC +1)
@@ -377,8 +377,8 @@ tags:
 
 Great Helm
 
-A great helm is any massive metal helm that covers the entire head, including the neck and often the upper shoulders. The only gaps in the protection are found in the narrow slits that allow limited vision, and some small holes to permit breathing. The visor is not normally removable.
+ A great helm is any massive metal helm that covers the entire head, including the neck and often the upper shoulders. The only gaps in the protection are found in the narrow slits that allow limited vision, and some small holes to permit breathing. The visor is not normally removable.
 
-It is rare to find a great helm used with armor lighter than banded mail. Great helms are most often found in combination with plate mail or heavier armor.
+ It is rare to find a great helm used with armor lighter than banded mail. Great helms are most often found in combination with plate mail or heavier armor.
 
-Vision and Hearing: -3 penalty to Vision checks; -4 penalty to Hearing checks.
+ Vision and Hearing: -3 penalty to Vision checks; -4 penalty to Hearing checks.

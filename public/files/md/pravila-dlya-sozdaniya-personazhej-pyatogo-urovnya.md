@@ -1,21 +1,21 @@
 ---
-title: 'Правила для создания персонажей пятого уровня'
-date: '2022-07-25'
-categories:
-  - 'spelljammer'
-  - 'our-materials'
-  - 'hb-rules'
-tags:
-  - '5e'
-  - 'bonus-feats'
-  - 'character'
-  - 'cost-of-magic-items'
-  - 'creation'
-  - 'feats'
-  - 'generation'
-  - 'homebrew'
-  - 'starting-wealth'
-  - 'wealth-by-level'
+title: "Правила для создания персонажей пятого уровня"
+date: "2022-07-25"
+categories: 
+  - "spelljammer"
+  - "our-materials"
+  - "hb-rules"
+tags: 
+  - "5e"
+  - "bonus-feats"
+  - "character"
+  - "cost-of-magic-items"
+  - "creation"
+  - "feats"
+  - "generation"
+  - "homebrew"
+  - "starting-wealth"
+  - "wealth-by-level"
 ---
 
 #character #creation #generation #start #rules #spelljammer

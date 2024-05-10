@@ -1,8 +1,8 @@
 ---
-title: 'Механический скакун'
-date: '2019-06-09'
-categories:
-  - 'forgottenrealms'
+title: "Механический скакун"
+date: "2019-06-09"
+categories: 
+  - "forgottenrealms"
 ---
 
 МЕХАНИЧЕСКИЙ СКАКУН

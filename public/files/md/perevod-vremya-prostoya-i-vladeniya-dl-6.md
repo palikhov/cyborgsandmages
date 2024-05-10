@@ -1,18 +1,18 @@
 ---
-title: '[Перевод] — Время простоя и владения (для пятой редакции), ч.7 — Задания'
-date: '2021-08-24'
-categories:
-  - 'hack-and-slash-downtime-and-demesne-5e'
-  - 'hackandslashmaster'
-tags:
-  - '5e'
-  - 'courtny-campbell'
-  - 'downtime'
-  - 'downtime-and-demesne-5e'
-  - 'hackandslash'
-  - 'npc'
-  - 'quests'
-  - 'translate'
+title: "[Перевод] — Время простоя и владения (для пятой редакции), ч.7 — Задания"
+date: "2021-08-24"
+categories: 
+  - "hack-and-slash-downtime-and-demesne-5e"
+  - "hackandslashmaster"
+tags: 
+  - "5e"
+  - "courtny-campbell"
+  - "downtime"
+  - "downtime-and-demesne-5e"
+  - "hackandslash"
+  - "npc"
+  - "quests"
+  - "translate"
 ---
 
 Обычно в поселении есть доска объявлений или с доска с наградами, офис стражи или логово воров, в каждом из которых может быть множество доступных задач. Как правило, это включает в себя любое из приведенных ниже:

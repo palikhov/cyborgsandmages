@@ -1,16 +1,16 @@
 ---
-title: 'Немагические мастерские предметы и орудия войны'
-date: '2019-10-13'
-categories:
-  - 'articles'
-tags:
-  - 'equipment'
-  - 'mass-combat'
-  - 'mastercraft'
-  - 'masterpiece'
-  - 'siege-weapons'
-  - 'unique-non-magical-weapons-and-items'
-  - 'заметки'
+title: "Немагические мастерские предметы и орудия войны"
+date: "2019-10-13"
+categories: 
+  - "articles"
+tags: 
+  - "equipment"
+  - "mass-combat"
+  - "mastercraft"
+  - "masterpiece"
+  - "siege-weapons"
+  - "unique-non-magical-weapons-and-items"
+  - "заметки"
 ---
 
 ## SIEGE WEAPONS
@@ -103,7 +103,7 @@ Accurate: bonus +1 to hit. Double: bonus +2 to hit. Triple: bonus +3 to hit.
 
 A weapon or shield with above average balance makes it easier to move in combat.  
 Benefit: While this item is in hand and readied, the wielder gains a +1 quality bonus to his initiative total.  
-Double: Tie quality bonus increases to +2.
+Double: Tie quality bonus increases to +2. 
 Triple : The quality bonus increases to +3.
 
 ### CONCEALABLE (ANY ITEM)
@@ -116,11 +116,12 @@ Triple: The bearer gains a bonus +6 to Dexterity(Sleight of Hand) checks to hide
 ### CRUSHING (any bludgeoning weapon)
 
 Benefit: This weapon deals 2 bonus damage with every successful attack.  
-Double:The additional damage inflicted increases to +4.
+Double:The additional damage inflicted increases to +4. 
 Triple :Thc additional damage inflicted increases to +6
 
 ### GUARD (ANY WEAPON OR SHIELD)
 
+  
 weapon or shield is easy to use defensively.
 
 Benefit: The wieldcr may reduce his attack rolls by 1 for the entire round to gain an equal bonus to Armor Class for that round. If this item is shield you gain additional bonus +1 to AC (for total +2)  
@@ -146,7 +147,7 @@ Triple: You deal three extra weapon damage on critical hit (3d6 for shortsword, 
 
 This weapon has a fine edge on it\*  
 Benefit: Add a bonus +1 to all damage rolls with this weapon.  
-Double: The quality bonus increases to +2.
+Double: The quality bonus increases to +2. 
 Triple: Tie quality bonus increases to +3.
 
 ### THICK (ANy ARMOR)
@@ -160,7 +161,7 @@ Triple: Any suit armor provides Damage Reduction 2/- against melee and ranged we
 
 This trait can apply to nearly any tool or device that is employed when using a skill. For example, a well-cratted dark cloak could provide an equipment bonus to Stealth checks, for instance.  
 Benefit: This item provides a bonus +1 to one skill when used for its intended purpose.  
-Double: The quality bonus increases to +2.
+Double: The quality bonus increases to +2. 
 Triple: The quality bonus increases to +3.
 
 ### BLACK COMPANY BANNER

@@ -1,11 +1,11 @@
 ---
-title: 'Искусство простоты'
-date: '2022-07-24'
-categories:
-  - 'creightonbroadhurst'
-tags:
-  - '5e'
-  - 'translate'
+title: "Искусство простоты"
+date: "2022-07-24"
+categories: 
+  - "creightonbroadhurst"
+tags: 
+  - "5e"
+  - "translate"
 ---
 
 Перевод: Станислав Иванов

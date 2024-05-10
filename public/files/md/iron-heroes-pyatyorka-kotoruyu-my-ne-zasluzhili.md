@@ -1,11 +1,11 @@
 ---
-title: 'Iron Heroes — «пятёрка» которую мы не заслужили'
-date: '2022-08-11'
-categories:
-  - 'krossposty'
-tags:
-  - '5e'
-  - 'magic-items'
+title: "Iron Heroes — «пятёрка» которую мы не заслужили"
+date: "2022-08-11"
+categories: 
+  - "krossposty"
+tags: 
+  - "5e"
+  - "magic-items"
 ---
 
 Iron Heroes (иначе известная как Monte Cook Presents: Iron Heroes) — отдельная игра на базе D&D 3,5 редакции, увидевшая свет в 2005 году.

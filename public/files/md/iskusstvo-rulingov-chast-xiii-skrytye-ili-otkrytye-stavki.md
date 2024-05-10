@@ -1,12 +1,12 @@
 ---
-title: 'Искусство рулингов. Часть XIII: Скрытые или открытые ставки'
-date: '2022-07-18'
-categories:
-  - 'alexandrian'
-tags:
-  - 'alexandrian'
-  - 'justin-alexander'
-  - 'translate'
+title: "Искусство рулингов. Часть XIII: Скрытые или открытые ставки"
+date: "2022-07-18"
+categories: 
+  - "alexandrian"
+tags: 
+  - "alexandrian"
+  - "justin-alexander"
+  - "translate"
 ---
 
 Перевод: Станислав Иванов
@@ -65,6 +65,6 @@ tags:
 
 Конечно, рано или поздно все мои игроки поймут, что этими проверками я зачастую изображаю мальчика, который кричал «Волк». Однако это неважно: более опытные герои не могут быть настолько же параноидальны и пугливы, как раньше, и набрасываться на воображаемые тени. Однако инструмент все еще можно использовать.
 
-И да, в опасной вселенной, наполненной [бродячими монстрами](https://vk.com/away.php?to=https%3A%2F%2Fthealexandrian.net%2Fwordpress%2F7897%2Froleplaying-games%2Fbreathing-life-into-the-wandering-monster&cc_key=), некоторые из проверок Внимательности, которыми вы концентрируете внимание стола, могут быть отнюдь не бессмысленными.
+И да, в опасной вселенной, наполненной [бродячими монстрами](https://vk.com/away.php?to=https%3A%2F%2Fthealexandrian.net%2Fwordpress%2F7897%2Froleplaying-games%2Fbreathing-life-into-the-wandering-monster&cc_key=), некоторые из проверок Внимательности, которыми вы концентрируете внимание стола, могут быть отнюдь не бессмысленными. 
 
 _Источник: < [https://vk.com/@dungeonsandsuffering-iskusstvo-rulingov-chast-xiii-skrytye-ili-otkrytye-stavki](https://vk.com/@dungeonsandsuffering-iskusstvo-rulingov-chast-xiii-skrytye-ili-otkrytye-stavki)\>_

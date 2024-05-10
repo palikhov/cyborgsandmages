@@ -1,18 +1,18 @@
 ---
-title: '<strong>Как стать автором на DMsGuild?</strong>'
-date: '2022-06-11'
-categories:
-  - 'dmsguild'
-  - 'drivethrurpg'
-  - 'resources'
-tags:
-  - '5e'
-  - 'dmsguild'
-  - 'homebrew'
-  - 'resursy-dlya-mastera'
+title: "<strong>Как стать автором на DMsGuild?</strong>"
+date: "2022-06-11"
+categories: 
+  - "dmsguild"
+  - "drivethrurpg"
+  - "resources"
+tags: 
+  - "5e"
+  - "dmsguild"
+  - "homebrew"
+  - "resursy-dlya-mastera"
 ---
 
-**Dungeon Masters Guild (DMsGuild)** — это программа, которая позволяет вам создавать контент (приключения и локации, монстров, классы персонажей, их архетипы, предыстории и т.п.), используя интеллектуальную собственность Wizards of the Coast (IP), и даже зарабатывать деньги (*продавая этот контент на* [_dmsguild.com_](https://dmsguild.com) *и нигде больше*). Ваша работа может быть даже замечена командой Dungeons & Dragons, которая отбирает писателей из DMsGuild для официальных продуктов и программ, таких как Guild Adept и Adventurers League (к сожалению, последнее утверждение пока актуально только для материалов на английском языке).
+**Dungeon Masters Guild (DMsGuild)** — это программа, которая позволяет вам создавать контент (приключения и локации, монстров, классы персонажей, их архетипы, предыстории и т.п.), используя интеллектуальную собственность Wizards of the Coast (IP), и даже зарабатывать деньги (_продавая этот контент на_ [_dmsguild.com_](https://dmsguild.com) _и нигде больше_). Ваша работа может быть даже замечена командой Dungeons & Dragons, которая отбирает писателей из DMsGuild для официальных продуктов и программ, таких как Guild Adept и Adventurers League (к сожалению, последнее утверждение пока актуально только для материалов на английском языке).
 
 **С чего начать?**
 

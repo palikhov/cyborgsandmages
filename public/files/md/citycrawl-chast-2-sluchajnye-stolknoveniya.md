@@ -1,13 +1,13 @@
 ---
-title: 'Citycrawl. Часть 2: Случайные столкновения'
-date: '2020-08-12'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Citycrawl. Часть 2: Случайные столкновения"
+date: "2020-08-12"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
-[https://vk.com/@osr_syndrome-citycrawl-chast-2-sluchainye-stolknoveniya](https://vk.com/@osr_syndrome-citycrawl-chast-2-sluchainye-stolknoveniya) Comment
+[https://vk.com/@osr\_syndrome-citycrawl-chast-2-sluchainye-stolknoveniya](https://vk.com/@osr_syndrome-citycrawl-chast-2-sluchainye-stolknoveniya) Comment
 
 ### [](https://hackmd.io/y9ZvV5r5Rzmlfb__rbMt9w#%D0%A0%D0%BE%D0%BB%D1%8C-%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D1%85-%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B9)Роль случайных столкновений
 

@@ -1,11 +1,11 @@
 ---
-title: 'Олдскульные домашние правила для оружия'
-date: '2022-07-19'
-categories:
-  - 'homebrew'
-  - 'our-materials'
-tags:
-  - 'osr'
+title: "Олдскульные домашние правила для оружия"
+date: "2022-07-19"
+categories: 
+  - "homebrew"
+  - "our-materials"
+tags: 
+  - "osr"
 ---
 
 **#oldschool #osr #homebrew #houserules #bow #crossbow #pike #cavalry #charge #round #helm #armor #plate**

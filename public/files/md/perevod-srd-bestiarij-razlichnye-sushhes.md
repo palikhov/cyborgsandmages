@@ -1,11 +1,11 @@
 ---
-title: '[Перевод SRD] Бестиарий – Различные существа'
-date: '2022-07-03'
-categories:
-  - 'srd-translate'
-tags:
-  - '5e'
-  - 'srd'
+title: "[Перевод SRD] Бестиарий – Различные существа"
+date: "2022-07-03"
+categories: 
+  - "srd-translate"
+tags: 
+  - "5e"
+  - "srd"
 ---
 
 ## Внимание! Это черновой вариант.

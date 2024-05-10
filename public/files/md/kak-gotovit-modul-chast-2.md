@@ -1,11 +1,11 @@
 ---
-title: 'Как готовить модуль – Часть 2'
-date: '2022-07-19'
-categories:
-  - 'alexandrian'
-tags:
-  - 'перевод'
-  - 'justin-alexander'
+title: "Как готовить модуль – Часть 2"
+date: "2022-07-19"
+categories: 
+  - "alexandrian"
+tags: 
+  - "перевод"
+  - "justin-alexander"
 ---
 
 Перевод: Станислав Иванов

@@ -1,19 +1,19 @@
 ---
-title: 'Перевод – Время простоя и владения для пятой редакции, ч.31 - Идеи для проведения «песочницы»'
-date: '2022-07-21'
-categories:
-  - 'hack-and-slash-downtime-and-demesne-5e'
-  - 'our-materials'
-  - 'resources'
-tags:
-  - '5e'
-  - 'courtny-campbell'
-  - 'downtime'
-  - 'downtime-and-demesne-5e'
-  - 'hackandslash'
-  - 'hexcrawl'
-  - 'translate'
-  - 'resursy-dlya-mastera'
+title: "Перевод – Время простоя и владения для пятой редакции, ч.31 - Идеи для проведения «песочницы»"
+date: "2022-07-21"
+categories: 
+  - "hack-and-slash-downtime-and-demesne-5e"
+  - "our-materials"
+  - "resources"
+tags: 
+  - "5e"
+  - "courtny-campbell"
+  - "downtime"
+  - "downtime-and-demesne-5e"
+  - "hackandslash"
+  - "hexcrawl"
+  - "translate"
+  - "resursy-dlya-mastera"
 ---
 
 #sandbox #hexcrawl #adventure #seed #quest #mission #t5e

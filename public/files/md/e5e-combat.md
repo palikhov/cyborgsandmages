@@ -1,23 +1,23 @@
 ---
-title: 'E5E &#8212; Сражение'
-date: '2022-05-29'
-categories:
-  - 'e5e'
-tags:
-  - '5e'
-  - 'combat'
-  - 'creature'
-  - 'e5e'
-  - 'homebrew'
-  - 'perception'
-  - 'spell'
-  - 'wordpress-crosspost'
-  - 'сражение'
+title: "E5E &#8212; Сражение"
+date: "2022-05-29"
+categories: 
+  - "e5e"
+tags: 
+  - "5e"
+  - "combat"
+  - "creature"
+  - "e5e"
+  - "homebrew"
+  - "perception"
+  - "spell"
+  - "wordpress-crosspost"
+  - "сражение"
 ---
 
 [E5E Complete List of Weapon Properties.docx](https://1drv.ms/w/s!Atcrhwwo1lBA19FhcA_0tR-D7CImiw?e=fWMctk)
 
----
+* * *
 
 ## Ranged Attacks
 
@@ -175,7 +175,7 @@ In outdoor darkness even if there’s sufficient moonlight, creatures that enter
 
 While engaged in combat, every creature suffers a -5 penalty to Passive Perception to notice small changes in the environment, or objects and creatures that are 30 feet or more away as long as the creatures do not take actions that draw attention to them.
 
-[E5E — Сражение](https://cyborgsandmages.com/2022/05/e5e-combat/ 'Оригинал статьи.') был опубликован - [Киборги и Чародеи](https://cyborgsandmages.com)
+[E5E — Сражение](https://cyborgsandmages.com/2022/05/e5e-combat/ "Оригинал статьи.") был опубликован - [Киборги и Чародеи](https://cyborgsandmages.com)
 
 Присоединяйтесь к нашему сообществу в Discord https://discord.com/invite/GcmhsFfxQ5 или Телеграм https://t.me/cyborgs\_and\_mages
 

@@ -1,19 +1,19 @@
 ---
-title: '[Dungeons] ПЕРЕД ТЕМ КАК ВЫ ОТКРОТЕТЕ ЭТУ ДВЕРЬ...'
-date: '2023-02-11'
-categories:
-  - 'resources'
-tags:
-  - '5e'
-  - 'dungeons'
-  - 'dwarf'
-  - 'e5e'
-  - 'dvarf'
+title: "[Dungeons] ПЕРЕД ТЕМ КАК ВЫ ОТКРОТЕТЕ ЭТУ ДВЕРЬ..."
+date: "2023-02-11"
+categories: 
+  - "resources"
+tags: 
+  - "5e"
+  - "dungeons"
+  - "dwarf"
+  - "e5e"
+  - "dvarf"
 ---
 
 _#dungeon #exploration #dnd #e5e #translate #dnd35 #5e #flavor_
 
-
+ 
 
 _Расшифровка стенограммы Лекции Малекита Икандрона, Экстраординарног Вызывателя. Зарписана в Университете Тайных Искусств, Хавелок, Скри Точным_
 

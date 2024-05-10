@@ -1,8 +1,8 @@
 ---
-title: 'Классы'
-date: '2019-11-10'
-categories:
-  - 'srd-translate'
+title: "Классы"
+date: "2019-11-10"
+categories: 
+  - "srd-translate"
 ---
 
 Обновленный файл описания классов (01.03.2021)
@@ -17,7 +17,7 @@ categories:
 
 # Классы
 
----
+* * *
 
 ## Варвар
 
@@ -79,7 +79,7 @@ categories:
 
 #### БЕЗРАССУДНАЯ АТАКА
 
-Начиная со 2 уровня вы способны отбросить любую заботу о защите, чтобы атаковать ожесточённо и безрассудно. Когда вы совершаете первую атаку в свой ход, вы можете решить, что будете атаковать безрассудно. Решившись на это, вы в этом ходу совершаете рукопашные атаки оружием, использующие Силу, с преимуществом, но все броски атаки по вам до вашего следующего хода тоже совершаются с преимуществом.
+Начиная со 2 уровня вы способны отбросить любую заботу о защите, чтобы атаковать ожесточённо и безрассудно. Когда вы совершаете первую атаку в свой ход, вы можете решить, что будете атаковать безрассудно. Решившись на это, вы в этом ходу совершаете рукопашные атаки оружием, использующие Силу, с преимуществом, но все броски атаки по вам до вашего следующего хода тоже совершаются с преимуществом. 
 
 #### ЧУВСТВО ОПАСНОСТИ
 
@@ -189,14 +189,15 @@ categories:
 
 - _а_) рапира, _б_) длинный меч или _в_) любое простое оружие
 - _а_) набор дипломата или _б_) набор артиста
-- _а_) лютня или _б_) любой другой музыкальный инструмент
+-  _а_) лютня или _б_) любой другой музыкальный инструмент
 - Кожаный доспех и кинжал
 
 **Бард (таблица)**
 
 <table><tbody><tr><td>Уровень</td><td>Бонус мастерства</td><td>Особенности</td><td>Известные заклинания</td><td>Известные заговоры</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>1</td><td>+2</td><td>Использование заклинаний, Вдохновение барда (к6)</td><td>2</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>+2</td><td>Мастер на все руки, Песнь отдыха (к6)</td><td>2</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>Коллегия бардов, Экспертиза</td><td>2</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>+2</td><td>Увеличение характеристик</td><td>3</td><td>7</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>Вдохновение барда (к8), Источник вдохновения</td><td>3</td><td>8</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>+3</td><td>Контрочарование, Свойство коллегии бардов</td><td>3</td><td>9</td><td>4</td><td>3</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+3</td><td>-</td><td>3</td><td>10</td><td>4</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8</td><td>+3</td><td>Увеличение характеристик</td><td>3</td><td>11</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+4</td><td>Песнь отдыха (к8)</td><td>3</td><td>12</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10</td><td>+4</td><td>Вдохновение барда (к10), Экспертиза, Тайны магии</td><td>4</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+4</td><td>-</td><td>4</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>12</td><td>+4</td><td>Увеличение характеристик</td><td>4</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+5</td><td>Песнь отдыха (к10)</td><td>4</td><td>16</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>14</td><td>+5</td><td>Тайны магии, Свойство коллегии бардов</td><td>4</td><td>18</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>15</td><td>+5</td><td>Вдохновение барда (к12)</td><td>4</td><td>19</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>-</td></tr><tr><td>16</td><td>+5</td><td>Увеличение характеристик</td><td>4</td><td>19</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>-</td></tr><tr><td>17</td><td>+6</td><td>Песнь отдыха (к12)</td><td>4</td><td>20</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>18</td><td>+6</td><td>Тайны магии</td><td>4</td><td>22</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>19</td><td>+6</td><td>Увеличение характеристик</td><td>4</td><td>22</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>20</td><td>+6</td><td>Превосходное вдохновение</td><td>4</td><td>22</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>1</td><td>1</td></tr></tbody></table>
 
-#### Использование заклинаний
+#### Использование заклинаний  
+  
 
 Вы научились изменять ткань реальности в соответствии с вашими волей и музыкой.
 
@@ -242,7 +243,7 @@ categories:
 
 В течение следующих 10 минут это существо может один раз бросить эту кость и добавить результат к проверке характеристики, броску атаки или спасброску, который оно совершает. Существо может принять решение о броске кости вдохновения уже после броска к20, но должно сделать это прежде, чем Мастер объявит результат броска. Как только кость бардовского вдохновения брошена, она исчезает. Существо может иметь только одну такую кость одновременно.
 
-Вы можете использовать это умение количество раз, равное модификатору вашей Харизмы,но как минимум один раз. Потраченные использования этого умения восстанавливаются после продолжительного отдыха.
+Вы можете использовать это умение количество раз, равное модификатору вашей Харизмы,но как минимум один раз. Потраченные использования этого умения восстанавливаются после продолжительного отдыха. 
 
 Ваша кость бардовского вдохновения изменяется с ростом вашего уровня в этом классе. Она становится к8 на 5 уровне, к10 на 10 уровне и к12 на 15 уровне.
 
@@ -352,13 +353,14 @@ Starting at 14th level, when you make an ability check, you can expend one use o
 - _а_) кольчуга с чешуйками, _б_) кожаные доспехи или _в_) кольчуга с кольчугой (если  владеет навыком ношения)
 - (_а_) легкий арбалет и 20 болтов или (_б_) любое простое оружие
 - (_а_) набор священника или (_б_) набор исследователя
-- Щит и священный символ
+-  Щит и священный символ
 
 **Клерик (таблица)**
 
 <table><tbody><tr><td>Уровень</td><td>Бонус владения</td><td>Особенности</td><td>Известные заговоры</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>1</td><td>+2</td><td>Использование заклинаний, Божественный домен</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>+2</td><td>Божественный канал (1/отдых), Умение божественного домена</td><td>3</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>-</td><td>3</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>+2</td><td>Увеличение характеристик</td><td>4</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>Уничтожение нежити (ПО 1/2)</td><td>4</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>+3</td><td>Божественный канал (2/отдых), Свойство божественного домена</td><td>4</td><td>4</td><td>3</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+3</td><td>-</td><td>4</td><td>4</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8</td><td>+3</td><td>Увеличение характеристик, Уничтожение нежити (УО 1), Свойство божественного домена</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+4</td><td>-</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10</td><td>+4</td><td>Божественное вмешательство</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+4</td><td>Уничтожение нежити (УО 2)</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>12</td><td>+4</td><td>Увеличение характеристик</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+5</td><td>-</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>14</td><td>+5</td><td>Уничтожение нежити (УО 3)</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>15</td><td>+5</td><td>-</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>-</td></tr><tr><td>16</td><td>+5</td><td>Увеличение характеристик</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>-</td></tr><tr><td>17</td><td>+6</td><td>Уничтожение нежити (УО 4), Свойство божественного домена</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>18</td><td>+6</td><td>Божественный канал (3/отдых)</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>19</td><td>+6</td><td>Увеличение характеристик</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>20</td><td>+6</td><td>Улучшение божественного вмешательства</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>1</td><td>1</td></tr></tbody></table>
 
-#### Использование заклинаний
+#### Использование заклинаний  
+  
 
 Будучи проводником божественной силы, вы можете творить заклинания клерика.
 
@@ -520,7 +522,8 @@ As an action, you present your holy symbol and evoke healing energy that can res
 
 Вы знаете Друидический язык — тайный язык друидов. Вы можете говорить на этом языке и использовать его, чтобы оставлять скрытые сообщения. Вы и другие, кто знает этот язык, автоматически обнаружите такое сообщение. Другие замечают присутствие послания при успешной проверке Мудрости (Восприятие) со УС  15, но без помощи магии не могут расшифровать его.
 
-#### Использование заклинаний
+#### Использование заклинаний  
+  
 
 Для сотворения заклинаний друиды пользуются сакральной эссенцией самой природы, облачая в неё свою волю.
 
@@ -833,7 +836,7 @@ At 2nd level, you choose to identify with a circle of druids: the Circle of the 
 
 - (_a_) a shortsword or (_b_) any simple weapon
 - (_a_) набор исследователя подземелий или (_б_) набор исследователя
-- 10 дротиков
+-  10 дротиков
 
 **Монах (таблица)**
 
@@ -1049,7 +1052,8 @@ Alternatively, you can expend 5 hit points from your pool of healing to cure the
 
 Если существо, которое вы видите, атакует не вас, а другое существо, находящееся в пределах 5 футов от вас, вы можете реакцией создать помеху его броску атаки.  Для этого вы должны использовать щит.
 
-#### Использование заклинаний
+#### Использование заклинаний  
+  
 
 Получая 2 уровень, вы узнаёте, как черпать божественную магию посредством медитации и молитв, чтобы творить заклятья подобно жрецу.
 
@@ -1277,7 +1281,8 @@ Breaking Your Oath
 
 Если вы сражаетесь двумя оружиями, вы можете добавить модификатор характеристики к урону от второй атаки.
 
-#### Использование заклинаний
+#### Использование заклинаний  
+  
 
 Получив 2 уровень, вы обучаетесь использованию волшебной сущности природы для сотворения заклинаний подобно друиду.  Общие правила по использованию заклинаний смотрите в главе 10, а в главе 11 вы найдёте список заклинаний, доступных следопыту.
 
@@ -1551,7 +1556,8 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 
 <table><tbody><tr><td>Уровень</td><td>Бонус владения</td><td>Единицы чародейства</td><td>Особенности</td><td>Известные заговоры</td><td>Известные заклинания</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>1</td><td>+2</td><td>-</td><td>Spellcasting, Sorcerous Origin</td><td>4</td><td>2</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>+2</td><td>2</td><td>Источник магии</td><td>4</td><td>3</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>3</td><td>Metamagic</td><td>4</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>+2</td><td>4</td><td>Увеличение характеристик</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>5</td><td>-</td><td>5</td><td>6</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>+3</td><td>6</td><td>Sorcerous Origin Feature</td><td>5</td><td>7</td><td>4</td><td>3</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+3</td><td>7</td><td>-</td><td>5</td><td>8</td><td>4</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8</td><td>+3</td><td>8</td><td>Увеличение характеристик</td><td>5</td><td>9</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+4</td><td>9</td><td>-</td><td>5</td><td>10</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10</td><td>+4</td><td>10</td><td>Metamagic</td><td>6</td><td>11</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+4</td><td>11</td><td>-</td><td>6</td><td>12</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>12</td><td>+4</td><td>12</td><td>Увеличение характеристик</td><td>6</td><td>12</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+5</td><td>13</td><td>-</td><td>6</td><td>13</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>14</td><td>+5</td><td>14</td><td>Sorcerous Origin Feature</td><td>6</td><td>13</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>15</td><td>+5</td><td>15</td><td>-</td><td>6</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>-</td></tr><tr><td>16</td><td>+5</td><td>16</td><td>Увеличение характеристик</td><td>6</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>-</td></tr><tr><td>17</td><td>+6</td><td>17</td><td>Metamagic</td><td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>18</td><td>+6</td><td>18</td><td>Sorcerous Origin Feature</td><td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>19</td><td>+6</td><td>19</td><td>Увеличение характеристик</td><td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>20</td><td>+6</td><td>20</td><td>Чародейское восстановление</td><td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>1</td><td>1</td></tr></tbody></table>
 
-#### Использование заклинаний
+#### Использование заклинаний  
+  
 
 An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells.
 
@@ -1597,7 +1603,7 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 
 ##### Единицы чародейства
 
-You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. У вас не может быть этих единиц больше, чем указанно в таблице для вашего уровня.  Вы восстанавливаете все использованные единицы чародейства по окончании продолжительного отдыха.
+You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. У вас не может быть этих единиц больше, чем указанно в таблице для вашего уровня.  Вы восстанавливаете все использованные единицы чародейства по окончании продолжительного отдыха. 
 
 #####  Свободное заклинательство
 
@@ -2085,7 +2091,8 @@ Starting at 6th level, you can call on your patron to alter fate in your favor. 
 
 <table><tbody><tr><td>Уровень</td><td>Бонус владения</td><td>Особенности</td><td>Известные заговоры</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>1</td><td>+2</td><td>Spellcasting, Arcane Recovery</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>+2</td><td>Arcane Tradition</td><td>3</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>-</td><td>3</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>+2</td><td>Увеличение характеристик</td><td>4</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>-</td><td>4</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>+3</td><td>Arcane Tradition Feature</td><td>4</td><td>4</td><td>3</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+3</td><td>-</td><td>4</td><td>4</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8</td><td>+3</td><td>Увеличение характеристик</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+4</td><td>-</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10</td><td>+4</td><td>Arcane Tradition Feature</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+4</td><td>-</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>12</td><td>+4</td><td>Увеличение характеристик</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+5</td><td>-</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>14</td><td>+5</td><td>Arcane Tradition Feature</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>15</td><td>+5</td><td>-</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>-</td></tr><tr><td>16</td><td>+5</td><td>Увеличение характеристик</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>-</td></tr><tr><td>17</td><td>+6</td><td>-</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>18</td><td>+6</td><td>&nbsp;Мастерство заклинателя</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>19</td><td>+6</td><td>Увеличение характеристик</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>20</td><td>+6</td><td>Signature Spell</td><td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>1</td><td>1</td></tr></tbody></table>
 
-#### Использование заклинаний
+#### Использование заклинаний  
+  
 
 Являясь учеником тайной магии, вы обладаете книгой, содержащей заклинания, показывающие первые проблески вашей истинной силы.
 

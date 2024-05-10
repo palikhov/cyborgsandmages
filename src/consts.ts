@@ -65,7 +65,7 @@ export const SITE_POST_CATEGORIES = [
 		path: 'marwang',
 		title: 'Марванг',
 		description: 'Марванг'
-	}
+	},
 ];
 
 export const SITE_FRIENDS = [
@@ -179,7 +179,7 @@ export const DND_SPELL_SCHOOLS = {
 	nec: 'Некромантия',
 	evo: 'Эвокация',
 	div: 'Прорицание',
-	conj: 'Воплощение',
+	conj:'Воплощение',
 	tra: 'Трансмутация',
 	ill: 'Иллюзии',
 	abj: 'Преграждение',
@@ -191,12 +191,13 @@ export const DND_CLASSES = {
 	brb: 'Варвар',
 	ftr: 'Боец',
 	clr: 'Клерик',
-	wiz: 'Волшебник',
+	wiz:'Волшебник',
 	rog: 'Плут',
 	wlk: 'Колдун',
 	sorc: 'Чародей',
 	pld: 'Паладин',
 	rgr: 'Рейнджер',
 	drd: 'Друид',
-	mnk: 'Монах'
+	mnk: 'Монах',
 };
+

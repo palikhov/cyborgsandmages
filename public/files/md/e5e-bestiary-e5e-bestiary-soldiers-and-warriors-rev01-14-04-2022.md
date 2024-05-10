@@ -1,16 +1,16 @@
 ---
-title: '[E5E Bestiary] E5E Bestiary - soldiers and warriors rev01 - 14.04.2022'
-date: '2022-04-14'
-categories:
-  - 'e5e'
-  - 'e5e-bestiary'
-  - 'our-materials'
-tags:
-  - '5e'
-  - 'bestiary'
-  - 'e5e'
-  - 'homebrew'
-  - 'npc'
+title: "[E5E Bestiary] E5E Bestiary - soldiers and warriors rev01 - 14.04.2022"
+date: "2022-04-14"
+categories: 
+  - "e5e"
+  - "e5e-bestiary"
+  - "our-materials"
+tags: 
+  - "5e"
+  - "bestiary"
+  - "e5e"
+  - "homebrew"
+  - "npc"
 ---
 
 Новая версия части общего расширенного бестиария, посвященная солдатам, бойцам, воинам, рыцарям, стражникам и т.п.

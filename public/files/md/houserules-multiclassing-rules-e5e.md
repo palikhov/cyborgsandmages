@@ -1,15 +1,15 @@
 ---
-title: '[Houserules] Правила при мультклассировании'
-date: '2022-05-28'
-categories:
-  - 'hb-rules'
-tags:
-  - 'channel-divinity'
-  - 'e5e'
-  - 'extra-attack'
-  - 'homebrew'
-  - 'house-rules'
-  - 'multiclass'
+title: "[Houserules] Правила при мультклассировании"
+date: "2022-05-28"
+categories: 
+  - "hb-rules"
+tags: 
+  - "channel-divinity"
+  - "e5e"
+  - "extra-attack"
+  - "homebrew"
+  - "house-rules"
+  - "multiclass"
 ---
 
 Мне давно не нравились правила по мультиклассированию, которые приводили к потере ресурсов при некоторых вариантах построения персонажа и памятуя как это происходило в 3.5 редакции решил все таки переписать эти правила для использования у себя в играх.

@@ -1,10 +1,10 @@
 ---
 title: "Baldur's Gate 3: Интервью со Свеном Винке и Майком Мерлсом"
-date: '2019-06-08'
-categories:
-  - 'articles'
-tags:
-  - 'unsorted'
+date: "2019-06-08"
+categories: 
+  - "articles"
+tags: 
+  - "unsorted"
 ---
 
 Это перевод опубликованной вчера статьи «[Baldur's Gate 3: "We Got the Keys to the Toy Box](https://vk.com/away.php?to=https%3A%2F%2Fwww.usgamer.net%2Farticles%2Flarian-studios-shares-its-vision-for-baldurs-gate-3-interview&cc_key=)"» , главного редактора сайта Кэт Бэйли.

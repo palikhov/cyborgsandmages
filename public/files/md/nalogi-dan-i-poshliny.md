@@ -1,12 +1,12 @@
 ---
-title: 'Налоги, дань и пошлины'
-date: '2022-10-11'
-categories:
-  - 'krossposty'
-  - 'translations-other'
-tags:
-  - '5e'
-  - 'translate'
+title: "Налоги, дань и пошлины"
+date: "2022-10-11"
+categories: 
+  - "krossposty"
+  - "translations-other"
+tags: 
+  - "5e"
+  - "translate"
 ---
 
 **_#translate #longstoryshort #taxes #tributes #tolls #dnd #5e #crosspost_**

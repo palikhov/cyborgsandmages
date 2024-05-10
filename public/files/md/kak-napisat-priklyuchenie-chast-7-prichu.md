@@ -1,10 +1,10 @@
 ---
-title: 'Как написать приключение. Часть 7. Причудливые PC & NPC'
-date: '2019-03-21'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-metki-i-rubriki'
+title: "Как написать приключение. Часть 7. Причудливые PC & NPC"
+date: "2019-03-21"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-metki-i-rubriki"
 ---
 
 https://vk.com/@316251277-contribution07

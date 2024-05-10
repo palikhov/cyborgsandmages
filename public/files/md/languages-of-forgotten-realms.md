@@ -1,12 +1,12 @@
 ---
-title: 'Языки ЗК'
-date: '2021-02-13'
-categories:
-  - 'setting'
-tags:
-  - 'dragons'
-  - 'forgotten-realms'
-  - 'languages'
+title: "Языки ЗК"
+date: "2021-02-13"
+categories: 
+  - "setting"
+tags: 
+  - "dragons"
+  - "forgotten-realms"
+  - "languages"
 ---
 
 ## Полурослики

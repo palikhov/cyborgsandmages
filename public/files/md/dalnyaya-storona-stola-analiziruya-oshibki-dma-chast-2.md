@@ -1,12 +1,12 @@
 ---
-title: 'Дальняя сторона стола: Анализируя ошибки ДМа. Часть 2'
-date: '2023-01-20'
-categories:
-  - 'koboldpress'
-tags:
-  - '5e'
-  - 'gm-advice'
-  - 'translate'
+title: "Дальняя сторона стола: Анализируя ошибки ДМа. Часть 2"
+date: "2023-01-20"
+categories: 
+  - "koboldpress"
+tags: 
+  - "5e"
+  - "gm-advice"
+  - "translate"
 ---
 
 #koboldpress #5e #dnd #gmadvice #gmtips #translate
@@ -57,6 +57,6 @@ tags:
 
 Увидимся за игровым столом!
 
-
+ 
 
 Источник: <https://vk.com/@dungeonsandsuffering-dalnyaya-storona-stola-analiziruya-oshibki-dma-chast-2>

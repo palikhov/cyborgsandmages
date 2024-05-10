@@ -1,17 +1,17 @@
 ---
-title: 'E5E Деятельность простоя и деятельность кампании, часть 1'
-date: '2022-07-08'
-categories:
-  - 'e5e'
-  - 'our-materials'
-tags:
-  - '5e'
-  - 'downtime'
-  - 'e5e'
-  - 'hackandslash'
-  - 'homebrew'
-  - 'npc'
-  - 'translate'
+title: "E5E Деятельность простоя и деятельность кампании, часть 1"
+date: "2022-07-08"
+categories: 
+  - "e5e"
+  - "our-materials"
+tags: 
+  - "5e"
+  - "downtime"
+  - "e5e"
+  - "hackandslash"
+  - "homebrew"
+  - "npc"
+  - "translate"
 ---
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2022/07/072422_1156_e5e1.png)
@@ -190,7 +190,9 @@ _Напримеер, к Продолжительной деятельности 
 - Разработка боевого приема
 - Изменение классовой особенности
 - Тренировка хитов
-
+    
+     
+    
 
 **Социальные:**
 

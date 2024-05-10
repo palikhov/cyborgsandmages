@@ -1,17 +1,17 @@
 ---
-title: '[Перевод] — Время простоя и владения (для пятой редакции), ч.6 — Генерация приспешников'
-date: '2021-08-24'
-categories:
-  - 'hack-and-slash-downtime-and-demesne-5e'
-  - 'hackandslashmaster'
-  - 'translations-other'
-  - 'articles'
-tags:
-  - 'downtime'
-  - 'hackandslash'
-  - 'npc'
-  - 'заметки'
-  - 'translate'
+title: "[Перевод] — Время простоя и владения (для пятой редакции), ч.6 — Генерация приспешников"
+date: "2021-08-24"
+categories: 
+  - "hack-and-slash-downtime-and-demesne-5e"
+  - "hackandslashmaster"
+  - "translations-other"
+  - "articles"
+tags: 
+  - "downtime"
+  - "hackandslash"
+  - "npc"
+  - "заметки"
+  - "translate"
 ---
 
 Продолжая перевод Downtime and Demesne.
@@ -26,7 +26,7 @@ tags:
 
 **Продолжение следует**
 
----
+* * *
 
 **Если вам понравилось и вы хотите увидеть продолжение — напишите об этом в комментариях.**
 

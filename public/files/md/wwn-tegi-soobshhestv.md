@@ -1,10 +1,10 @@
 ---
-title: 'WWN – Теги сообществ'
-date: '2022-07-24'
-categories:
-  - 'wwn'
-tags:
-  - 'translate'
+title: "WWN – Теги сообществ"
+date: "2022-07-24"
+categories: 
+  - "wwn"
+tags: 
+  - "translate"
 ---
 
 #community #settlements #wwn #tags

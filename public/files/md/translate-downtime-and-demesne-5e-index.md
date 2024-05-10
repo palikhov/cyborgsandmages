@@ -1,16 +1,16 @@
 ---
-title: '[Перевод] — Время простоя и владения (для пятой редакции) - Оглавление'
-date: '2022-07-08'
-categories:
-  - 'hack-and-slash-downtime-and-demesne-5e'
-  - 'hackandslashmaster'
-  - 'our-materials'
-tags:
-  - '5e'
-  - 'courtny-campbell'
-  - 'downtime'
-  - 'hackandslash'
-  - 'translate'
+title: "[Перевод] — Время простоя и владения (для пятой редакции) - Оглавление"
+date: "2022-07-08"
+categories: 
+  - "hack-and-slash-downtime-and-demesne-5e"
+  - "hackandslashmaster"
+  - "our-materials"
+tags: 
+  - "5e"
+  - "courtny-campbell"
+  - "downtime"
+  - "hackandslash"
+  - "translate"
 ---
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2022/07/070922_0631_1.jpg)
@@ -340,6 +340,7 @@ _Densay_
 ## Bibliography
 
 - The definitive Medieval Demographics Made Easy, by S. John Ross
+    
 - Hamilton, Marcus J., Milne, Bruce T. Walker, Robert S. and Brown, James H. 2007. Nonlinear scaling of space use in human hunter-gatherers. Proceedings of the National Academy ofSciences104(11):4765-4769.DOI:10.1073/pnas.0611197104
 - Medieval Demographics Made Broader, Forum Post: http:// [www.thecbg.org/index.php?topic=209514.0](http://www.thecbg.org/index.php?topic=209514.0)
 - Food and Nutrition Facts [http://www.pensee.com/dunham/facts/food.html](http://www.pensee.com/dunham/facts/food.html)

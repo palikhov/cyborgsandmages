@@ -1,15 +1,15 @@
 ---
-title: '[Core d20 RPG] Мысли вслух. Дневник разработки. Снаряжение, часть 1'
-date: '2023-02-22'
-categories:
-  - 'cored20rpg'
-  - 'e5e'
-tags:
-  - '5e'
-  - 'core-d20-rpg'
-  - 'e5e'
-  - 'homebrew'
-  - 'снаряжение'
+title: "[Core d20 RPG] Мысли вслух. Дневник разработки. Снаряжение, часть 1"
+date: "2023-02-22"
+categories: 
+  - "cored20rpg"
+  - "e5e"
+tags: 
+  - "5e"
+  - "core-d20-rpg"
+  - "e5e"
+  - "homebrew"
+  - "снаряжение"
 ---
 
 #equipment #e5e #cored20rpg #gear #armor #wealth #weapon #tradegoods #tools #economy #lifestyle #resource #management #mundane #homerules #homebrew #fix

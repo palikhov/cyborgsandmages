@@ -1,12 +1,12 @@
 ---
-title: 'Такие разные Подземелья'
-date: '2022-07-27'
-categories:
-  - 'krossposty'
-  - 'translations-other'
-tags:
-  - 'translate'
-  - 'podzemele'
+title: "Такие разные Подземелья"
+date: "2022-07-27"
+categories: 
+  - "krossposty"
+  - "translations-other"
+tags: 
+  - "translate"
+  - "podzemele"
 ---
 
 Перевел статью, которая показалась мне довольно занятной. Эта статья родилась у автора в качестве размышления на тему - почему многие игроки в настольные ролевые игры так презирают игроков в D&D.

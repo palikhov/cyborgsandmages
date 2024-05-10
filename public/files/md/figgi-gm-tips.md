@@ -1,11 +1,11 @@
 ---
-title: 'Пособие дядюшки Фигги по Хорошему Мастерению'
-date: '2020-11-10'
-categories:
-  - 'advices'
-tags:
-  - 'translate'
-  - 'dm-tips'
+title: "Пособие дядюшки Фигги по Хорошему Мастерению"
+date: "2020-11-10"
+categories: 
+  - "advices"
+tags: 
+  - "translate"
+  - "dm-tips"
 ---
 
 Права (с) 1998 Дэн Коуп.

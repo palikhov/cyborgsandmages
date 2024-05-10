@@ -1,31 +1,31 @@
 ---
-title: 'Воинские школы | E5E'
-date: '2022-04-14'
-categories:
-  - 'e5e'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'homebrew'
+title: "Воинские школы | E5E"
+date: "2022-04-14"
+categories: 
+  - "e5e"
+tags: 
+  - "5e"
+  - "e5e"
+  - "homebrew"
 ---
 
 [E5E Complete List of Martial Schools.docx](https://1drv.ms/w/s!Atcrhwwo1lBA1tFiRb12pe2LTNJspg?e=UHMtDd)
 
----
+* * *
 
-
+ 
 
 ### Черты
 
+ 
 
-
----
+* * *
 
 ### Описание
 
+ 
 
-
----
+* * *
 
 ## Ссылки
 
@@ -42,7 +42,7 @@ tags:
 
 E5E Palant Guide to Combat rev7 - [E5E - Palant Guide to Combat - Martial Traditions Maneuvers Techniques - rev7- 24052022.docx](https://1drv.ms/w/s!Atcrhwwo1lBA19dUDay03MgNRd31xg?e=XufoDS)
 
----
+* * *
 
 ## Литература и источники
 
@@ -51,6 +51,6 @@ E5E Palant Guide to Combat rev7 - [E5E - Palant Guide to Combat - Martial Tradi
 3. A5E Adventurers Guide
 4. Arcanis 5e
 
+ 
 
-
----
+* * *

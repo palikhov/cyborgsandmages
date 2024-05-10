@@ -1,14 +1,14 @@
 ---
-title: '[Кросспост] Интересная боевка в D&D 5e: добавки'
-date: '2022-06-21'
-categories:
-  - 'krossposty'
-tags:
-  - '5e'
-  - 'combat'
-  - 'crosspost'
-  - 'Мыкола'
-  - 'dm-tips'
+title: "[Кросспост] Интересная боевка в D&D 5e: добавки"
+date: "2022-06-21"
+categories: 
+  - "krossposty"
+tags: 
+  - "5e"
+  - "combat"
+  - "crosspost"
+  - "Мыкола"
+  - "dm-tips"
 ---
 
 Автор: Мыкола

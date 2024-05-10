@@ -1,12 +1,12 @@
 ---
-title: 'E5E - Expanded Fifth Edition'
-date: '2021-07-11'
-categories:
-  - 'e5e'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'homebrew'
+title: "E5E - Expanded Fifth Edition"
+date: "2021-07-11"
+categories: 
+  - "e5e"
+tags: 
+  - "5e"
+  - "e5e"
+  - "homebrew"
 ---
 
 ## E5E Вступление
@@ -35,7 +35,7 @@ E5E Повышение уровня и мультиклассирование
 
 ### _Clothing_
 
-### С*наряжение авантюриста*
+### С_наряжение авантюриста_
 
 Onedrive: [E5E - EQUIPMENT - ADVENTURING GEAR REF 1.docx](https://1drv.ms/w/s!Atcrhwwo1lBA1IsRdJSeLyVOgEhQdg?e=Bdy23S)
 

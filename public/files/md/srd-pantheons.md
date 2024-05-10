@@ -1,15 +1,15 @@
 ---
-title: 'Пантеоны и планы | SRD 5.1'
-date: '2019-11-10'
-categories:
-  - 'our-materials'
-tags:
-  - 'srd'
+title: "Пантеоны и планы | SRD 5.1"
+date: "2019-11-10"
+categories: 
+  - "our-materials"
+tags: 
+  - "srd"
 ---
 
 ## Fantasy-Historical Pantheons
 
----
+* * *
 
 The Celtic, Egyptian, Greek, and Norse pantheons are fantasy interpretations of historical religions from our world’s ancient times. They include deities that are most appropriate for use in a game, divorced from their historical context in the real world and united into pantheons that serve the needs of the game.
 
@@ -53,7 +53,7 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 
 ## Планы существования
 
----
+* * *
 
 Космос изобилует множеством миров, а также мириадами альтернативных измерений реальности, называемых **планами существования**. Она охватывает все миры, где Мастер совершают свои приключения, все в пределах относительно мирской сферы материального плана. За пределами этого плана находятся области сырой элементарной материи и энергии, сферы чистой мысли и этоса, дома демонов и ангелов и владения богов.
 

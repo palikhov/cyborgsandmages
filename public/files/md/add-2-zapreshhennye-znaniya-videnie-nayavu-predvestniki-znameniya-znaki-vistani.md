@@ -1,11 +1,11 @@
 ---
-title: '[AD&D 2] Запрещенные Знания - Видение Наяву - Предвестники, Знамения, Знаки Вистани'
-date: '2022-12-30'
-categories:
-  - 'translations'
-tags:
-  - 'druid'
-  - 'rogue'
+title: "[AD&D 2] Запрещенные Знания - Видение Наяву - Предвестники, Знамения, Знаки Вистани"
+date: "2022-12-30"
+categories: 
+  - "translations"
+tags: 
+  - "druid"
+  - "rogue"
 ---
 
 **#ravenloft #adnd2 #tarokka #vistani #translate**
@@ -16,11 +16,11 @@ tags:
 
 Design: William W. Connors                Editing: Mike Breault
 
-Box Cover Art: Clyde Caldwell                Booklet Cover Art: Stephen Fabian
+Box Cover Art: Clyde Caldwell                Booklet Cover Art: Stephen Fabian    
 
 Interior Art: Stephen Fabian and Bob Klasnich        Tarokka Art: Stephen Fabian
 
-Cartography: David C. Sutherland III and Dennis Kauth    Graphic Design: Roy E. Parker
+Cartography: David C. Sutherland III and Dennis Kauth    Graphic Design: Roy E. Parker        
 
 Typography: Tracey Zamagne
 
@@ -28,7 +28,7 @@ Typography: Tracey Zamagne
 
 Boxed Set (A major rules expansion to the Realm of Terror boxed set)
 
-
+ 
 
 # ВВЕДЕНИЕ
 
@@ -112,7 +112,7 @@ Boxed Set (A major rules expansion to the Realm of Terror boxed set)
 
 Так же, как каждая из мастей в меньшей палубе связана с одним из четырех классов персонажа, так и цифра на карте имеет свое значение. Карты имеют нумерацию от единицы до девяти, и все они имеют свое мировоззрение. Они также относятся к РС и важны в понимании символики карт. Карта Мастера не имеет никакого мировоззрения, для олицетворения добра и зла, закона и хаоса относительно жизненного пути. Специфические мировоззрения карт следующие:
 
-
+ 
 
 Единица – Хаотично-доброе
 
@@ -134,7 +134,7 @@ Boxed Set (A major rules expansion to the Realm of Terror boxed set)
 
 Мастер – Нет мировоззрения
 
-
+ 
 
 **МЕЧИ (SWORDS)**
 
@@ -270,11 +270,11 @@ Boxed Set (A major rules expansion to the Realm of Terror boxed set)
 
 **Эспер (The Esper):** Последняя карта из колоды тарокка напоминает нам о силах разума. Иногда это может быть просто острый интеллект или внезапное вдохновение. В других случаях это может означать фактическое использование псионических сил. Изображение показывает человека в некотором виде транса. Кольца ментальной энергии отходят от его головы.
 
-
+ 
 
 **ИСПОЛЬЗОВАНИЕ ТАРОККА**
 
-
+ 
 
 Теперь, когда все карты в колоде определены, пришло время перейти к использованию тарокка. На следующих страницах показаны диаграммы, которые показывают четыре наиболее обычных методов гадания Вистани при помощи тарокка. В тексте раскрываются каждый из этих раскладов и объясняются значения положений различных карт.
 

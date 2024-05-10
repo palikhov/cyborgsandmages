@@ -1,10 +1,10 @@
 ---
-title: 'КАМПАНИЯ ВИКИНГОВ - МОНСТРЫ СКАНДИНАВИИ'
-date: '2022-12-18'
-categories:
-  - 'our-materials'
-tags:
-  - 'magic-items'
+title: "КАМПАНИЯ ВИКИНГОВ - МОНСТРЫ СКАНДИНАВИИ"
+date: "2022-12-18"
+categories: 
+  - "our-materials"
+tags: 
+  - "magic-items"
 ---
 
 # #adnd2e #vikings #bestiary #creatures #monsters #translate #campaign
@@ -249,7 +249,7 @@ _\- Падение Вафтруднира_
 
 Буква (ж), стоящая после имени показывает, что имя принадлежит гигантше.
 
-
+ 
 
 <table style="border-collapse:collapse" border="0"><colgroup><col style="width:156px"><col style="width:156px"><col style="width:156px"><col style="width:156px"></colgroup><tbody valign="top"><tr><td style="padding-top: 4px; padding-left: 4px; padding-bottom: 4px; padding-right: 4px; border-top:  solid black 0.125pt; border-left:  solid black 0.125pt; border-bottom:  solid black 0.125pt; border-right:  solid black 0.125pt">Аэгир<div></div>Аллвальди<div></div>Ангрботха (ж)<div></div>Арринфея (ж)<div></div>Аугелмир<div></div>Аурнир<div></div>Бели<div></div>Бергельмир<div></div>Бестла (ж)<div></div>Болторн<div></div>Еггтер<div></div>Эгтль<div></div>Фенья (ж)<p></p></td><td style="padding-top: 4px; padding-left: 4px; padding-bottom: 4px; padding-right: 4px; border-top:  solid black 0.125pt; border-left:  none; border-bottom:  solid black 0.125pt; border-right:  solid black 0.125pt"><p>Фьялар</p><div></div>Форнётр&nbsp;&nbsp;&nbsp;&nbsp;<div></div>Герд (ж)<div></div>Гуннлод (ж)<div></div>Гимир<div></div>Хати<div></div>Хильдир<div></div>Хлебард<div></div>Хримгерд (ж)<div></div>Хримгримнир<div></div>Хрунгнир<div></div>Хрим<div></div>Химир<p></p></td><td style="padding-top: 4px; padding-left: 4px; padding-bottom: 4px; padding-right: 4px; border-top:  solid black 0.125pt; border-left:  none; border-bottom:  solid black 0.125pt; border-right:  solid black 0.125pt"><p>Иди</p><div></div>Им<div></div>Лодин<div></div>Менья (ж)<div></div>Мимир<div></div>Могхтрасир<div></div>Муспелл<div></div>Нери<div></div>Норви<div></div>Нотт (ж)<div></div>Ринд (ж)<div></div>Скрогг<div></div>Скримир<p></p></td><td style="padding-top: 4px; padding-left: 4px; padding-bottom: 4px; padding-right: 4px; border-top:  solid black 0.125pt; border-left:  none; border-bottom:  solid black 0.125pt; border-right:  solid black 0.125pt"><p>Скульд</p><div></div>Суттунг<div></div>Сваранг<div></div>Тиасси<div></div>Тхъязи<div></div>Тхрудгельмир<div></div>Тхрим<div></div>Ульф<div></div>Утгард-Локи<div></div>Вафтхруднир<div></div>Вердланди<div></div>Илфинг<div></div>Имир<p></p></td></tr></tbody></table>
 

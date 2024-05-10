@@ -1,11 +1,11 @@
 ---
-title: 'Альтернативы мировоззрению'
-date: '2020-07-22'
-categories:
-  - 'translations'
-tags:
-  - 'translate'
-  - 'proverit-rubriku'
+title: "Альтернативы мировоззрению"
+date: "2020-07-22"
+categories: 
+  - "translations"
+tags: 
+  - "translate"
+  - "proverit-rubriku"
 ---
 
 текст [J.T. Evans](https://vk.com/away.php?to=https%3A%2F%2Fgnomestew.com%2Fauthor%2Fjtevans%2F&cc_key=) от 25 мая 2020 года

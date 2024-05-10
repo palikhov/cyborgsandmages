@@ -1,10 +1,10 @@
 ---
-title: 'Сто самых обычных компонентов для приготовления зелий и снадобий'
-date: '2022-08-06'
-categories:
-  - 'krossposty'
-tags:
-  - 'translate'
+title: "Сто самых обычных компонентов для приготовления зелий и снадобий"
+date: "2022-08-06"
+categories: 
+  - "krossposty"
+tags: 
+  - "translate"
 ---
 
 #crafting #ingridients #common #potions #oils #generic

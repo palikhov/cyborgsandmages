@@ -1,11 +1,11 @@
 ---
-title: 'Игры в кости: Сокровищница Дракона'
-date: '2019-05-23'
-categories:
-  - 'articles'
-tags:
-  - 'unsorted'
-  - 'заметки'
+title: "Игры в кости: Сокровищница Дракона"
+date: "2019-05-23"
+categories: 
+  - "articles"
+tags: 
+  - "unsorted"
+  - "заметки"
 ---
 
 (_Dragon's Hoard_)

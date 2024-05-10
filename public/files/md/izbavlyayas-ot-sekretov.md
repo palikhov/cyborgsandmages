@@ -1,8 +1,8 @@
 ---
-title: 'Избавляясь от секретов'
-date: '2022-08-26'
-categories:
-  - 'slyflourish'
+title: "Избавляясь от секретов"
+date: "2022-08-26"
+categories: 
+  - "slyflourish"
 ---
 
 #slyflourish #translate

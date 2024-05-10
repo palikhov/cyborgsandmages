@@ -1,24 +1,24 @@
 ---
-title: 'Сражение как спорт vs. Сражение как война [частичный перевод]'
-date: '2018-07-13'
-categories:
-  - 'advices'
-  - 'articles'
-tags:
-  - 'gm-advices'
-  - 'gm-tips'
-  - 'konczeptualnoe'
-  - 'osnovnye-konczepczii'
-  - 'translate'
-  - 'dm-tips'
-  - 'srazhenie-kak-vojna'
-  - 'srazhenie-kak-sport'
-  - 'Теория'
-  - 'filosofiya'
-  - 'chernyj-otryad'
+title: "Сражение как спорт vs. Сражение как война [частичный перевод]"
+date: "2018-07-13"
+categories: 
+  - "advices"
+  - "articles"
+tags: 
+  - "gm-advices"
+  - "gm-tips"
+  - "konczeptualnoe"
+  - "osnovnye-konczepczii"
+  - "translate"
+  - "dm-tips"
+  - "srazhenie-kak-vojna"
+  - "srazhenie-kak-sport"
+  - "Теория"
+  - "filosofiya"
+  - "chernyj-otryad"
 ---
 
-*Перевод вот* [_этого_](http://www.enworld.org/forum/showthread.php?317715-Very-Long-Combat-as-Sport-vs-Combat-as-War-a-Key-Difference-in-D-amp-D-Play-Styles) *поста. Автор сравнивает бой в разных редакциях DnD, но мне больше интересно его разделение того, как системы относятся к сражениям, на два подхода, поэтому я перевожу только непосредственно связанный с этим текст (рассуждения «как нам обустроить ДнД» оставлены за кадром). Если кто-то посчитает остальную часть текста интересной, я переведу и ее.*
+_Перевод вот_ [_этого_](http://www.enworld.org/forum/showthread.php?317715-Very-Long-Combat-as-Sport-vs-Combat-as-War-a-Key-Difference-in-D-amp-D-Play-Styles) _поста. Автор сравнивает бой в разных редакциях DnD, но мне больше интересно его разделение того, как системы относятся к сражениям, на два подхода, поэтому я перевожу только непосредственно связанный с этим текст (рассуждения «как нам обустроить ДнД» оставлены за кадром). Если кто-то посчитает остальную часть текста интересной, я переведу и ее._
 
 На другом форуме я вел с фанатами других изданий бесконечно повторяющиеся обсуждения о различных стилях игры в D&D и как разные редакции поддерживают их, и мне кажется что я, наконец-то понял ключевую разницу, проливающую свет на причину стольких разногласий о развитие 5ED.
 

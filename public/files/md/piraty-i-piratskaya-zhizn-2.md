@@ -1,8 +1,8 @@
 ---
-title: 'Пираты и пиратская жизнь'
-date: '2022-08-26'
-categories:
-  - 'krossposty'
+title: "Пираты и пиратская жизнь"
+date: "2022-08-26"
+categories: 
+  - "krossposty"
 ---
 
 _#ship #pirate #naval #ofshipsandsea #sea_

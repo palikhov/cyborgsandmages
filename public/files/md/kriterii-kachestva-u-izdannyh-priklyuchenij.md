@@ -1,10 +1,10 @@
 ---
-title: 'Критерии качества у изданных приключений'
-date: '2022-08-07'
-categories:
-  - 'krossposty'
-tags:
-  - 'osr'
+title: "Критерии качества у изданных приключений"
+date: "2022-08-07"
+categories: 
+  - "krossposty"
+tags: 
+  - "osr"
 ---
 
 #adventure #module #publishing #quality #osr

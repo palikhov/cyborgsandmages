@@ -1,19 +1,19 @@
 ---
-title: 'Этический кодекс TSR'
-date: '2023-03-04'
-categories:
-  - 'krossposty'
-  - 'translations-other'
-tags:
-  - 'narkotiki'
-  - 'translate'
+title: "Этический кодекс TSR"
+date: "2023-03-04"
+categories: 
+  - "krossposty"
+  - "translations-other"
+tags: 
+  - "narkotiki"
+  - "translate"
 ---
 
 _#tsr #history #codeofconduct #ethics_
 
-_Пересказ [этого материала](https://shaneplays.com/rpg-history-tsr-code-of-ethics-dd-comics-code-authority-rules/ 'https://shaneplays.com/rpg-history-tsr-code-of-ethics-dd-comics-code-authority-rules/')._
+_Пересказ [этого материала](https://shaneplays.com/rpg-history-tsr-code-of-ethics-dd-comics-code-authority-rules/ "https://shaneplays.com/rpg-history-tsr-code-of-ethics-dd-comics-code-authority-rules/")._
 
-[Джеймс Лаудер](https://www.facebook.com/james.lowder/posts/10215357764719380), писавший для TSR книги по Forgotten Realms и Ravenloft, как-то поделился в своём [посте](https://vk.com/away.php?to=https%3A%2F%2Fwww.facebook.com%2Fjames.lowder%2Fposts%2F10215357764719380&cc_key= 'https://www.facebook.com/james.lowder/posts/10215357764719380') этическим кодексом TSR 1992-го года. Он рассказал, что эти страницы прилагались ко всем контрактам, заключаемым TSR со сторонними авторами книг и игрового материала и полагает, что их создание подстегнула Satanic Panic 80-х. Детально версию 92-го я рассматривать не стану. Во-первых, хронологически это не та TSR и не те игровые материалы, которые мне интересны. Во-вторых, Джон Питерсон, автор блога [Playing at the World](http://playingattheworld.blogspot.com/), опубликовал схожий перечень рекомендаций, по большинству пунктов с перечнем из 90-х перекликающийся, но датируемый более интересным мне 1982-м. Его и посмотрим.
+[Джеймс Лаудер](https://www.facebook.com/james.lowder/posts/10215357764719380), писавший для TSR книги по Forgotten Realms и Ravenloft, как-то поделился в своём [посте](https://vk.com/away.php?to=https%3A%2F%2Fwww.facebook.com%2Fjames.lowder%2Fposts%2F10215357764719380&cc_key= "https://www.facebook.com/james.lowder/posts/10215357764719380") этическим кодексом TSR 1992-го года. Он рассказал, что эти страницы прилагались ко всем контрактам, заключаемым TSR со сторонними авторами книг и игрового материала и полагает, что их создание подстегнула Satanic Panic 80-х. Детально версию 92-го я рассматривать не стану. Во-первых, хронологически это не та TSR и не те игровые материалы, которые мне интересны. Во-вторых, Джон Питерсон, автор блога [Playing at the World](http://playingattheworld.blogspot.com/), опубликовал схожий перечень рекомендаций, по большинству пунктов с перечнем из 90-х перекликающийся, но датируемый более интересным мне 1982-м. Его и посмотрим.
 
 Сам материал уместился на одной странице (вольный перевод ниже):
 

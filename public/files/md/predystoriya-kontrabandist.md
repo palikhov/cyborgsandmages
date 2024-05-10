@@ -1,13 +1,13 @@
 ---
-title: 'Предыстория: контрабандист'
-date: '2022-08-06'
-categories:
-  - 'e5e'
-  - 'homebrew'
-  - 'backgrounds-homebrew'
-tags:
-  - 'e5e'
-  - 'homebrew'
+title: "Предыстория: контрабандист"
+date: "2022-08-06"
+categories: 
+  - "e5e"
+  - "homebrew"
+  - "backgrounds-homebrew"
+tags: 
+  - "e5e"
+  - "homebrew"
 ---
 
 #background #e5e #homebrew

@@ -1,6 +1,6 @@
 ---
-title: 'Большое собрание полезных инструментов игрокам и мастерам'
-date: '2018-07-20'
+title: "Большое собрание полезных инструментов игрокам и мастерам"
+date: "2018-07-20"
 ---
 
 ### DM Toolkit & Tips
@@ -9,7 +9,7 @@ date: '2018-07-20'
 
 [Varied Quests](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/6ifne6/need_more_varied_quests/&sa=D&ust=1532118657997000)
 
-[Providing Clues for a Murder Case](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/6jcuef/how_to_provide_clues_for_a_murder_investigation/&sa=D&ust=1532118657997000)
+[Providing Clues for a Murder Case](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/6jcuef/how_to_provide_clues_for_a_murder_investigation/&sa=D&ust=1532118657997000) 
 
 [Listening to Your Players](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/6jrngb/only_on_tuesdays_listening_to_your_players/&sa=D&ust=1532118657997000)
 
@@ -29,7 +29,7 @@ date: '2018-07-20'
 
 [Difference Between a Good DM and Great DM](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/7bh93l/whats_the_difference_between_a_good_dm_and_a/&sa=D&ust=1532118658000000)
 
-[Running Horror Campaigns](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/7c3obv/running_a_successful_horror_session_and_how_i_did/&sa=D&ust=1532118658000000)
+[Running Horror Campaigns](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/7c3obv/running_a_successful_horror_session_and_how_i_did/&sa=D&ust=1532118658000000) 
 
 [Elevating Your Voice Acting](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/7cu1gm/elevate_your_voice_acting/dpsttew/&sa=D&ust=1532118658000000)
 
@@ -151,7 +151,7 @@ date: '2018-07-20'
 
 [Undead Encounter](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/7do6t5/steal_my_idea_undead_encounter/&sa=D&ust=1532118658020000)
 
-[Scholomance - A WoW Dungeon](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/7dtl0j/scholomance_a_world_of_warcraft_dungeon_for_dd_5e/&sa=D&ust=1532118658020000)
+[Scholomance - A WoW Dungeon](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/7dtl0j/scholomance_a_world_of_warcraft_dungeon_for_dd_5e/&sa=D&ust=1532118658020000) 
 
 [Mountain Encounters](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/7gqgtb/steal_my_encounters/&sa=D&ust=1532118658021000)
 
@@ -341,7 +341,7 @@ Hiding Your Phylacteries [Here](https://www.google.com/url?q=https://www.reddit
 
 [Gordon Of The Ram](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/7y5mw2/so_i_made_a_dwarf_by_the_name_of_gordon_of_the/&sa=D&ust=1532118658053000)
 
-[The Grappler’s Manual](<https://www.google.com/url?q=http://www.enworld.org/forum/showthread.php?468737-The-Grappler-s-Manual-(2-0)-Grappling-in-5th-Edition&sa=D&ust=1532118658054000>)
+[The Grappler’s Manual](https://www.google.com/url?q=http://www.enworld.org/forum/showthread.php?468737-The-Grappler-s-Manual-(2-0)-Grappling-in-5th-Edition&sa=D&ust=1532118658054000)
 
 [Thieves’ Cant Symbols](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/819w2z/oc_i_created_some_thieves_cant_symbols/&sa=D&ust=1532118658054000)
 

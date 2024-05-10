@@ -1,10 +1,10 @@
 ---
-title: 'Экология: Ксиксчил'
-date: '2022-08-07'
-categories:
-  - 'spelljammer'
-tags:
-  - 'translate'
+title: "Экология: Ксиксчил"
+date: "2022-08-07"
+categories: 
+  - "spelljammer"
+tags: 
+  - "translate"
 ---
 
 #Xixchil #Spelljammer #Ecology #translate

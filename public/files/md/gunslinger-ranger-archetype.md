@@ -1,11 +1,11 @@
 ---
-title: 'Gunslinger – ranger archetype'
-date: '2022-08-07'
-categories:
-  - 'e5e'
-  - 'homebrew'
-tags:
-  - 'creature'
+title: "Gunslinger – ranger archetype"
+date: "2022-08-07"
+categories: 
+  - "e5e"
+  - "homebrew"
+tags: 
+  - "creature"
 ---
 
 #ranger #archetype #ogc

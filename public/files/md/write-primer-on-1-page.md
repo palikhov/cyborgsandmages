@@ -1,16 +1,16 @@
 ---
-title: '[Перевод] Напишите руководство кампании на одну страницу'
-date: '2022-03-29'
-categories:
-  - 'translations-other'
-  - 'advices'
-tags:
-  - 'dungeons-as-suffering'
-  - 'gm-advices'
-  - 'gm-tips'
-  - 'mike'
-  - 'translate'
-  - 'dm-tips'
+title: "[Перевод] Напишите руководство кампании на одну страницу"
+date: "2022-03-29"
+categories: 
+  - "translations-other"
+  - "advices"
+tags: 
+  - "dungeons-as-suffering"
+  - "gm-advices"
+  - "gm-tips"
+  - "mike"
+  - "translate"
+  - "dm-tips"
 ---
 
 Когда вы готовитесь к вождению новой кампании, напишите для своих игроков руководство по ней длиною в одну страницу, чтобы они были в одной лодке с ней, и вы могли направить происходящее в нужном направлении.

@@ -1,10 +1,10 @@
 ---
-title: 'Четвертый столп: Переосмысление дизайна сцен'
-date: '2019-12-17'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Четвертый столп: Переосмысление дизайна сцен"
+date: "2019-12-17"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 текст [Jerry LeNeave](https://vk.com/away.php?to=http%3A%2F%2Fkoboldpress.com%2Fauthor%2F%3Fauthorname%3DJerry%2520LeNeave) от 18 ноября 2019 года

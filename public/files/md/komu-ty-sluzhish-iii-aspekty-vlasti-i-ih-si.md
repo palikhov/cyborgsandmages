@@ -1,13 +1,13 @@
 ---
-title: 'Кому ты служишь? III. Аспекты власти и их сила'
-date: '2022-06-24'
-categories:
-  - 'krossposty'
-  - 'resources'
-  - 'articles'
-tags:
-  - 'заметки'
-  - 'materials'
+title: "Кому ты служишь? III. Аспекты власти и их сила"
+date: "2022-06-24"
+categories: 
+  - "krossposty"
+  - "resources"
+  - "articles"
+tags: 
+  - "заметки"
+  - "materials"
 ---
 
 Это перепост записи. Ссылка на оригинал приведена в конце записи.

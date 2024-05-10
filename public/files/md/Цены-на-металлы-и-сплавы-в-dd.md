@@ -1,13 +1,13 @@
 ---
-title: 'Цены на металлы и сплавы в D&amp;D'
-date: '2022-05-24'
-categories:
-  - 'translations-other'
-tags:
-  - 'add-2ed'
-  - 'translate'
-  - 'dm-tips'
-  - 'Экономика'
+title: "Цены на металлы и сплавы в D&amp;D"
+date: "2022-05-24"
+categories: 
+  - "translations-other"
+tags: 
+  - "add-2ed"
+  - "translate"
+  - "dm-tips"
+  - "Экономика"
 ---
 
 Большая часть информации взята из “VoLo’s Guide to All Things Magical”

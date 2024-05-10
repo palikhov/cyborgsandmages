@@ -1,11 +1,11 @@
 ---
-title: '5 советов Мастеру для описания сцен'
-date: '2022-07-29'
-categories:
-  - 'advices'
-tags:
-  - 'gmadvice'
-  - 'dm-tips'
+title: "5 советов Мастеру для описания сцен"
+date: "2022-07-29"
+categories: 
+  - "advices"
+tags: 
+  - "gmadvice"
+  - "dm-tips"
 ---
 
 #gm #advice #tip #gmadvice #gmtip #describe #appearance #scene #description

@@ -1,12 +1,12 @@
 ---
-title: 'Фундаментальные элементы симуляционно-иммерсивной ролевой игры'
-date: '2022-12-17'
-categories:
-  - 'oldschoolroleplaying'
-  - 'krossposty'
-  - 'translations'
-tags:
-  - 'osr'
+title: "Фундаментальные элементы симуляционно-иммерсивной ролевой игры"
+date: "2022-12-17"
+categories: 
+  - "oldschoolroleplaying"
+  - "krossposty"
+  - "translations"
+tags: 
+  - "osr"
 ---
 
 #crosspost #theory #osr #translate

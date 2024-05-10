@@ -1,8 +1,8 @@
 ---
-title: '[Кросспост] О Classic Traveller'
-date: '2022-07-03'
-categories:
-  - 'krossposty'
+title: "[Кросспост] О Classic Traveller"
+date: "2022-07-03"
+categories: 
+  - "krossposty"
 ---
 
 Snarls-at-FleasJune 26, 2022

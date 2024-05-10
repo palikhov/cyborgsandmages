@@ -1,15 +1,15 @@
 ---
-title: '[Перевод] — Время простоя и владения (для пятой редакции), ч.5 — ПРИМЕРЫ НАЕМНИКОВ И ОТРЯДОВ'
-date: '2021-08-21'
-categories:
-  - 'articles'
-tags:
-  - 'draft'
-  - 'hackandslash'
-  - 'hirelings'
-  - 'npc'
-  - 'random-encounters'
-  - 'translate'
+title: "[Перевод] — Время простоя и владения (для пятой редакции), ч.5 — ПРИМЕРЫ НАЕМНИКОВ И ОТРЯДОВ"
+date: "2021-08-21"
+categories: 
+  - "articles"
+tags: 
+  - "draft"
+  - "hackandslash"
+  - "hirelings"
+  - "npc"
+  - "random-encounters"
+  - "translate"
 ---
 
 ![](https://cyborgsandmages.files.wordpress.com/2021/08/image.png?w=569)

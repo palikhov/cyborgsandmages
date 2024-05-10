@@ -1,19 +1,19 @@
 ---
-title: '5 советов для великолепного подземелья'
-date: '2019-03-10'
-categories:
-  - 'alexandrian'
-  - 'переводы-прочие'
-tags:
-  - 'перевод'
-  - 'justin-alexander'
+title: "5 советов для великолепного подземелья"
+date: "2019-03-10"
+categories: 
+  - "alexandrian"
+  - "переводы-прочие"
+tags: 
+  - "перевод"
+  - "justin-alexander"
 ---
 
 https://vk.com/@noroleplaying-5-sovetov-dlya-velikolepnogo-podzemelya
 
 ![](images/egK7k4-VN-o.jpg)
 
-Вы проходили карты подземелий **Уила Дойла** в играх по [Tomb of Annihilation](https://vk.com/away.php?to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0786966106%2Fref%3Das_li_tl%3Fie%3DUTF8%26tag%3Ddmdavid-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D0786966106%26linkId%3D869ee2c6a3fce2f7eeef0092a17311e7&cc_key=)или [Storm King's Thunder](https://vk.com/away.php?to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0786966009%2Fref%3Das_li_tl%3Fie%3DUTF8%26tag%3Ddmdavid-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D0786966009%26linkId%3D40246624cf1fe61f461127ea50f1074c&cc_key=) для *Dungeons and Dragons*.
+Вы проходили карты подземелий **Уила Дойла** в играх по [Tomb of Annihilation](https://vk.com/away.php?to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0786966106%2Fref%3Das_li_tl%3Fie%3DUTF8%26tag%3Ddmdavid-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D0786966106%26linkId%3D869ee2c6a3fce2f7eeef0092a17311e7&cc_key=)или [Storm King's Thunder](https://vk.com/away.php?to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0786966009%2Fref%3Das_li_tl%3Fie%3DUTF8%26tag%3Ddmdavid-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D0786966009%26linkId%3D40246624cf1fe61f461127ea50f1074c&cc_key=) для _Dungeons and Dragons_.
 
 **Крис Перкинс** (главный разработчик истории) объяснил в [эпизоде официального подкасата D&D](https://vk.com/away.php?to=http%3A%2F%2Fdnd.wizards.com%2Farticles%2Ffeatures%2Fchrisperkins-storm-king-thunder&cc_key=) , почему позвал в команду Уилла.
 
@@ -21,7 +21,7 @@ https://vk.com/@noroleplaying-5-sovetov-dlya-velikolepnogo-podzemelya
 
 > «Осознал. Не смогу судить о картах пока не приглашу специалиста. Есть чудесный сотрудник и фрилансер по имени Уилл Дойл. Он уже работал на меня, когда я редактировал журнал Dungeon. Всегда восхищался стилем его карт и количеством вложенных усилий. Я очень и очень дотошный в вопросах создания карт, и он такой же».
 
-В [Tomb of Annihilation](https://vk.com/away.php?to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0786966106%2Fref%3Das_li_tl%3Fie%3DUTF8%26tag%3Ddmdavid-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D0786966106%26linkId%3D869ee2c6a3fce2f7eeef0092a17311e7&cc_key=) Уилл составил и спроектировал ядро приключения — *Tomb of the Nine Gods*. Разработчик заставил гордиться Асерерака.
+В [Tomb of Annihilation](https://vk.com/away.php?to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0786966106%2Fref%3Das_li_tl%3Fie%3DUTF8%26tag%3Ddmdavid-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D0786966106%26linkId%3D869ee2c6a3fce2f7eeef0092a17311e7&cc_key=) Уилл составил и спроектировал ядро приключения — _Tomb of the Nine Gods_. Разработчик заставил гордиться Асерерака.
 
 Карты Уилла заметили в приключении Tears of the Crocodile God в журнале [Dungeon 209 выпуска](https://vk.com/away.php?to=https%3A%2F%2Fwww.dmsguild.com%2Fproduct%2F158943%2FDungeon-209-4e%3Faffiliate_id%3D8278&cc_key=). Крис Перкинс назвал приключение лучшим из вышедших в журнале. Автор статьи соглашается с мнением Перкинса. Крис десятилетиями работает на Dungeons and Dragons.
 
@@ -53,7 +53,7 @@ https://vk.com/@noroleplaying-5-sovetov-dlya-velikolepnogo-podzemelya
 
 В [Storm King's Thunder](https://vk.com/away.php?to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0786966009%2Fref%3Das_li_tl%3Fie%3DUTF8%26tag%3Ddmdavid-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D0786966009%26linkId%3D40246624cf1fe61f461127ea50f1074c&cc_key=) у кузни огненных гигантов адамантитовые двери, которые ведут на горный перевал в залы Князя Залто — цель игроков. Персонажам надо вскарабкаться на высоту 1500 футов и пробиться сквозь подземелья, чтобы достигнуть Князя.
 
-И если последняя комната на самом деле метафора видимой цели, больше приключений следуют совету Уилла. В [Curse of Strahd](https://vk.com/away.php?to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0786965983%2Fref%3Das_li_tl%3Fie%3DUTF8%26tag%3Ddmdavid-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D0786965983%26linkId%3Dd4817e73dd8e29dc287fa1de6ee786b4&cc_key=) **Замок Равенлофт**постоянно маячит на протяжении приключения. Игроки осознают необходимость в специальных артефактах, чтобы победить Страда. **Теос Абадиа** вдохновлялся *Tears of the Crocodile God* Уилла, когда разрабатывал приключение [DDEX2-13 The Howling Void](https://vk.com/away.php?to=https%3A%2F%2Fwww.dmsguild.com%2Fproduct%2F170488%2FDDEX213-The-Howling-Void-5e%3Faffiliate_id%3D8278&cc_key=). Персонажи входят в элементальный нод, где кусочки земли плавают, как воздушные острова. Игроки видят нод, который надо достигнуть, чтобы остановить ритуал. Однако, будут посещать другие, чтобы ослабить противников в финальной битве.
+И если последняя комната на самом деле метафора видимой цели, больше приключений следуют совету Уилла. В [Curse of Strahd](https://vk.com/away.php?to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0786965983%2Fref%3Das_li_tl%3Fie%3DUTF8%26tag%3Ddmdavid-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D0786965983%26linkId%3Dd4817e73dd8e29dc287fa1de6ee786b4&cc_key=) **Замок Равенлофт**постоянно маячит на протяжении приключения. Игроки осознают необходимость в специальных артефактах, чтобы победить Страда. **Теос Абадиа** вдохновлялся _Tears of the Crocodile God_ Уилла, когда разрабатывал приключение [DDEX2-13 The Howling Void](https://vk.com/away.php?to=https%3A%2F%2Fwww.dmsguild.com%2Fproduct%2F170488%2FDDEX213-The-Howling-Void-5e%3Faffiliate_id%3D8278&cc_key=). Персонажи входят в элементальный нод, где кусочки земли плавают, как воздушные острова. Игроки видят нод, который надо достигнуть, чтобы остановить ритуал. Однако, будут посещать другие, чтобы ослабить противников в финальной битве.
 
 ### ВВдохновляй игроков целями
 
@@ -61,13 +61,13 @@ https://vk.com/@noroleplaying-5-sovetov-dlya-velikolepnogo-podzemelya
 
 Вместо этого Уилл разрабатывает элементы подземелий, которые затягивают персонажей в исследование.
 
-Подземелье приключения *Tears of the Crocodile God* затягивает игроков несколькими целями. Спасти четырёх людей от жертвоприношения в пещере. В подземелье четыре ключа к тому, чтобы сразиться с богом Крокодилом. Бонус, вводная заставляет персонажей торопиться спасать людей. Ведь монстры и ловушки пещеры заберут жертв.
+Подземелье приключения _Tears of the Crocodile God_ затягивает игроков несколькими целями. Спасти четырёх людей от жертвоприношения в пещере. В подземелье четыре ключа к тому, чтобы сразиться с богом Крокодилом. Бонус, вводная заставляет персонажей торопиться спасать людей. Ведь монстры и ловушки пещеры заберут жертв.
 
 Другой пример из [Tomb of Annihilation](https://vk.com/away.php?to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0786966106%2Fref%3Das_li_tl%3Fie%3DUTF8%26tag%3Ddmdavid-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D0786966106%26linkId%3D869ee2c6a3fce2f7eeef0092a17311e7&cc_key=), где игроков отправляют на поиски пяти отмычек.
 
 ### ППодземелье — головоломка
 
-В приключении D&D **Adventures League** сценарий [DDAL07-14 Fathomless Pits of Ill Intent](https://vk.com/away.php?to=https%3A%2F%2Fwww.dmsguild.com%2Fproduct%2F235134%2FDDAL0714-Fathomless-Pits-of-Ill-Intent%3Faffiliate_id%3D8278&cc_key=) от **Эрика Менге** подземелье — головоломка. В самом начале игроки находят загадку, которая открывает портал к главному злодею. Игроков толкают исследовать, чтобы найти ключи к загадке. Такой дизайн сочетает два предположения Уилла: показывает последнюю комнату первой и затягивает игроков изучать. В добавок приключение превращает подземелье в головоломку. *Tears of the Crocodile God* сочетает похожий микс, где авторы разбросали подсказки.
+В приключении D&D **Adventures League** сценарий [DDAL07-14 Fathomless Pits of Ill Intent](https://vk.com/away.php?to=https%3A%2F%2Fwww.dmsguild.com%2Fproduct%2F235134%2FDDAL0714-Fathomless-Pits-of-Ill-Intent%3Faffiliate_id%3D8278&cc_key=) от **Эрика Менге** подземелье — головоломка. В самом начале игроки находят загадку, которая открывает портал к главному злодею. Игроков толкают исследовать, чтобы найти ключи к загадке. Такой дизайн сочетает два предположения Уилла: показывает последнюю комнату первой и затягивает игроков изучать. В добавок приключение превращает подземелье в головоломку. _Tears of the Crocodile God_ сочетает похожий микс, где авторы разбросали подсказки.
 
 Большинство приключений в подземельях следуют этому совету редко. Разработчикам порой представляется, что подземелье — сюжетная линия для исследования локации за локации по очереди. Для вдохновения Уилл зеркально цитирует уровни из игры Doom. Для продвижения игрокам надо найти серию ключей. Каждый ключ затягивает героев глубже в ад.
 

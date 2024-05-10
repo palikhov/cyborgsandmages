@@ -1,10 +1,10 @@
 ---
-title: 'Roll20Con 2019'
-date: '2019-09-27'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubrku'
+title: "Roll20Con 2019"
+date: "2019-09-27"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubrku"
 ---
 
 ![](https://pbs.twimg.com/media/EFNTmuNXUAAe9Uq?format=jpg&name=small)

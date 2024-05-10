@@ -1,28 +1,28 @@
 ---
-title: 'E5E Черты пятой редакции. Боевые школы. Часть 0'
-date: '2022-06-10'
-categories:
-  - 'e5e'
-  - 'homebrew'
-  - 'hb-rules'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'expert-of-martial-school'
-  - 'feat'
-  - 'founder-of-personal-combat-style'
-  - 'homebrew'
-  - 'martial-maneuver'
-  - 'martial-school'
-  - 'martial-superiority'
-  - 'martial-technique'
-  - 'martial-tradition'
-  - 'master-of-martial-school'
-  - 'master-of-personal-combat-style'
-  - 'palant-guide-to-combat'
-  - 'palant-notes-about-combat'
-  - 'personal-combat-style'
-  - 'personal-martial-style'
+title: "E5E Черты пятой редакции. Боевые школы. Часть 0"
+date: "2022-06-10"
+categories: 
+  - "e5e"
+  - "homebrew"
+  - "hb-rules"
+tags: 
+  - "5e"
+  - "e5e"
+  - "expert-of-martial-school"
+  - "feat"
+  - "founder-of-personal-combat-style"
+  - "homebrew"
+  - "martial-maneuver"
+  - "martial-school"
+  - "martial-superiority"
+  - "martial-technique"
+  - "martial-tradition"
+  - "master-of-martial-school"
+  - "master-of-personal-combat-style"
+  - "palant-guide-to-combat"
+  - "palant-notes-about-combat"
+  - "personal-combat-style"
+  - "personal-martial-style"
 ---
 
 Одним из вопросов, которые нас интересуют является потребность сообщества в русскоязычных материалах. Собственно, это предобзор одного материала, который может выходить и на русском языке, если будет проявлен интерес.
@@ -45,41 +45,41 @@ tags:
 
 **Боевая техника \[Martial technique\]** – особое свойство, дающее определенный бонус при использовании оружия. В отличие от маневров является в первую очередь пассивным свойством. Для создания боевых техник я декомпозировал черты пятой редакции на элементарные составляющие, которые потом вошли в различные воинские школы.
 
-**Боевой прием \[\*\***Martial\*\* **maneuver\*\***\]\*\* – собственно приемы доступные мастеру воинских искусств (Battlemaster) с определенными дополнениями.
+**Боевой прием \[****Martial** **maneuver****\]** – собственно приемы доступные мастеру воинских искусств (Battlemaster) с определенными дополнениями.
 
-**Воинская школа \[\*\***Martial\*\* **School\*\***\]\*\* – определяет нарративные особенности школы и используемое оружие.
+**Воинская школа \[****Martial** **School****\]** – определяет нарративные особенности школы и используемое оружие.
 
-**Личный боевой стиль \[\*\***Personal\*\* **Martial** **Style\*\***\]\*\* – создается игроком, но по сравнению с предсозданными боевыми школами дает немного меньше бонусов.
+**Личный боевой стиль \[****Personal** **Martial** **Style****\]** – создается игроком, но по сравнению с предсозданными боевыми школами дает немного меньше бонусов.
 
-
+ 
 
 ## Материалы
 
 Собственно, описание используемой системы я уже публиковал на английском языке в Руководстве Паланта по Сражению (Palant’s guide to combat) на dmsguild и Заметках Паланта по Сражению (Palant notes about Combat) на drivethrurpg.
 
+ 
 
-
-[https://www.dmsguild.com/product/305891/Palants-Guide-to-Combat?affiliate_id=759617](https://www.dmsguild.com/product/305891/Palants-Guide-to-Combat?affiliate_id=759617)
+[https://www.dmsguild.com/product/305891/Palants-Guide-to-Combat?affiliate\_id=759617](https://www.dmsguild.com/product/305891/Palants-Guide-to-Combat?affiliate_id=759617)
 
 Руководство Паланта по сражению можно скачать со скидкой 100% если потом напишете отзыв на сайте.
 
-
+ 
 
 Для этого используйте следующую ссылку
 
 [https://www.dmsguild.com/browse.php?discount=9a3c4c3afd](https://www.dmsguild.com/browse.php?discount=9a3c4c3afd)
 
-
+ 
 
 А первый выпуск Заметок Паланта по Сражению доступен по модели «Плати сколько хочешь»
 
-[https://www.drivethrurpg.com/product/379531/E5E--Palant-Notes-about-Combat-Issue-1?affiliate_id=759617](https://www.drivethrurpg.com/product/379531/E5E--Palant-Notes-about-Combat-Issue-1?affiliate_id=759617)
+[https://www.drivethrurpg.com/product/379531/E5E--Palant-Notes-about-Combat-Issue-1?affiliate\_id=759617](https://www.drivethrurpg.com/product/379531/E5E--Palant-Notes-about-Combat-Issue-1?affiliate_id=759617)
 
-
+ 
 
 ## Структура черт боевых школ
 
-
+ 
 
 Эксперт воинской школы, Мастер воинской школы, Грандмастер воинской школы – черты для предсозданных воинских школ.
 
@@ -103,7 +103,7 @@ tags:
 
 **Фокусировка на оружии.** Персонаж получает бонус +1 к броскам атаки с оружием школы.
 
-
+ 
 
 ### Мастер Воинской школы
 
@@ -119,7 +119,7 @@ tags:
 
 Теперь персонаж может брать черты других Воинских школ.
 
-
+ 
 
 ### Грандмастер Воинской школы
 
@@ -135,7 +135,7 @@ tags:
 
 Персонаж может использовать приемы и техники из обоих школ с оружием обоих школ.
 
-
+ 
 
 ### Основатель личного боевого стиля
 
@@ -153,7 +153,7 @@ tags:
 
 **Фокусировка на оружии.** Персонаж получает бонус +1 к броскам атаки с выбранным оружием
 
-
+ 
 
 ### Мастер личного боевого стиля
 
@@ -169,7 +169,7 @@ tags:
 
 Теперь персонаж может брать черты других Воинских школ.
 
-
+ 
 
 ## Описанные Воинские школы
 
@@ -183,7 +183,7 @@ tags:
 
 Помимо школ во втором выпуске описываются дополнительные правила по восстановлению костей превоходства – как за счет классовых ресурсов, костей хитов, действием в бою. Важной частью также являются правила по использованию времени простоя для изучения дополнительных приемов, техник а также изучения черты Мастер Воинской школы.
 
-
+ 
 
 ### Twin Sword Style
 
@@ -253,7 +253,7 @@ Author Note: This martial school is direct replacement of Polearm Master(O5E)
 
 Longspear, warspear will be described in next issues.
 
-
+ 
 
 ## Боевые приемы
 
@@ -263,7 +263,7 @@ Longspear, warspear will be described in next issues.
 
 https://1drv.ms/w/s!Atcrhwwo1lBA1tFjJoxNs78oKolfeA?e=QR3ybp
 
-
+ 
 
 ### Crippling Attack \[General\]
 
@@ -289,7 +289,7 @@ When a creature misses you with a melee attack, you can use your reaction and ex
 
 When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
 
-
+ 
 
 ## Боевые техники
 
@@ -299,7 +299,7 @@ When you hit a creature with a weapon attack, you can expend one superiority die
 
 https://1drv.ms/w/s!Atcrhwwo1lBA1tFhGVLuVDnjGinB0w?e=N9bWhF
 
-
+ 
 
 ### Ambidexterity
 
@@ -369,9 +369,9 @@ _Stance_
 
 Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
 
+ 
 
-
-
+ 
 
 # Дополнительные материалы
 
@@ -389,7 +389,7 @@ Creatures provoke opportunity attacks from you even if they take the Disengage a
 
 [https://1drv.ms/w/s!Atcrhwwo1lBA19dUDay03MgNRd31xg?e=XufoDS](https://1drv.ms/w/s!Atcrhwwo1lBA19dUDay03MgNRd31xg?e=XufoDS)
 
-
+ 
 
 # Источники и вдохновение
 

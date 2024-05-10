@@ -1,18 +1,18 @@
 ---
-title: 'Як почати публікувати свої пригоди на DMsGuild?'
-date: '2022-06-11'
-categories:
-  - 'dmsguild'
-  - 'drivethrurpg'
-  - 'resources'
-  - 'articles'
-tags:
-  - '5e'
-  - 'discord'
-  - 'homebrew'
-  - 'publish'
-  - 'заметки'
-  - 'resursy-dlya-mastera'
+title: "Як почати публікувати свої пригоди на DMsGuild?"
+date: "2022-06-11"
+categories: 
+  - "dmsguild"
+  - "drivethrurpg"
+  - "resources"
+  - "articles"
+tags: 
+  - "5e"
+  - "discord"
+  - "homebrew"
+  - "publish"
+  - "заметки"
+  - "resursy-dlya-mastera"
 ---
 
 ![](https://static.wixstatic.com/media/94d2de_51f12173f3304541a6f9ab0f1433ae7c~mv2.jpeg/v1/fill/w_740,h_416,al_c,q_90/94d2de_51f12173f3304541a6f9ab0f1433ae7c~mv2.webp)

@@ -1,10 +1,10 @@
 ---
-title: 'Хронология событий D&D 5e'
-date: '2019-05-10'
-categories:
-  - 'forgottenrealms'
-tags:
-  - 'forgotten-realms'
+title: "Хронология событий D&D 5e"
+date: "2019-05-10"
+categories: 
+  - "forgottenrealms"
+tags: 
+  - "forgotten-realms"
 ---
 
 — 1357 ЛД: ⚠Первая «Серая Коробка», «Забытые Королевства». Первая редакция D&D.
@@ -43,7 +43,7 @@ tags:
 1492 ЛД - события Waterdeep Dragon Heist
 
 > 🧙: Когда я писал «Мертвые Маски», то для того, чтобы оставить отсылки и фрагменты истории, все продукты, выпущенные до весны 2016 года, получили конкретную привязку ко времени. Однако эта информация находится под NDA. То, что я вижу выше, выглядит вполне правильным.
->
+> 
 > Эд Гринвуд
 
 **The Final Years of the Spellplague and the Sundering**
@@ -879,7 +879,7 @@ Open Lord Silverhand opens the assemblies of the Lords of Waterdeep to all guild
 **1492 DR Year of Three Ships Sailing**  
 **1493 DR Year of the Purple Dragons**
 
-[http://forum.candlekeep.com/topic.asp?TOPIC_ID=19630](http://forum.candlekeep.com/topic.asp?TOPIC_ID=19630)
+[http://forum.candlekeep.com/topic.asp?TOPIC\_ID=19630](http://forum.candlekeep.com/topic.asp?TOPIC_ID=19630)
 
 [Forgotten-Realms-Timeline](https://cyborgsandmages.com/wp-content/uploads/2020/04/Forgotten-Realms-Timeline.docx)[Скачать](https://cyborgsandmages.com/wp-content/uploads/2020/04/Forgotten-Realms-Timeline.docx)
 
@@ -913,7 +913,7 @@ Greg Marks (October 24, 2015 at 8:55am): “It is assumed season three happens a
 
 Facebook (likewise no perma-link):
 
-Jaime Pierson (June 3, 2015): “Not sure if it has already been asked but what is the current year in the Forgotten Realms?”
+Jaime Pierson (June 3, 2015): “Not sure if it has already been asked but what is the current year in the Forgotten Realms?” 
 
 Travis Woodall (June 3, 2015 at 10:55am): “1491 DR”
 
@@ -925,25 +925,25 @@ DDEX3-8: The Malady of Elventree:
 
 **… and Season 4 takes place in Winter, Season 4 presumably takes place at the start of the 1491-1492 winter…**
 
-Moonsea Mists ([http://dndadventurersleague.org/moonsea-mists/](http://dndadventurersleague.org/moonsea-mists/)):
+Moonsea Mists ([http://dndadventurersleague.org/moonsea-mists/](http://dndadventurersleague.org/moonsea-mists/)): 
 
 Season 4 opens for the D&D Adventurers League with an unusually cold winter seizing the Moonsea region. As the displaced of Phlan march with their allies to retake their home from Vorgansharax, the Maimed Virulence, strange mists and even stranger events are rising. It is cold, dark, and you have the feeling something just out of sight is watching you with hungry interest.
 
 **More information on the order of seasons from the Season 4 epic page…**
 
-Season 4 Epic Information ([http://dndadventurersleague.org/dd-epic-reclamation-of-phlan-release-schedule/](http://dndadventurersleague.org/dd-epic-reclamation-of-phlan-release-schedule/)):
+Season 4 Epic Information ([http://dndadventurersleague.org/dd-epic-reclamation-of-phlan-release-schedule/](http://dndadventurersleague.org/dd-epic-reclamation-of-phlan-release-schedule/)): 
 
 The Season 4 Epic: Reclamation of Phlan wraps up a story arc that was started in Season 1. In Tyranny of Dragons the green dragon known as the Maimed Virulence took over the town of Phlan. In Season 2 as refugees from Phlan many characters worked with the Zors and other groups in Mulmaster to gain the needed support to take back Phlan, but plans had to be halted due to the city being nearly destroyed by the cults of Elemental Evil. During Season 3 the demons erupting from the underdark caused further delays in the retaking of Phlan, but now that the demons have been pushed back into the abyssal home Phlan becomes the focus and the opportunity to strike at Vorgansharax, the Maimed Virulence is at hand!
 
 **Based on a reading of Storm King’s Thunder, it doesn’t seem to take place in the winter, so since winter is over it’s presumably now 1492 – which places it a couple of years after the end of Tyranny of Dragons, as confirmed by Chris Perkins…**
 
-Storm King’s Thunder Information ([http://www.sageadvice.eu/2016/06/03/storm-kings-thunder-explained-video-transcription/](http://www.sageadvice.eu/2016/06/03/storm-kings-thunder-explained-video-transcription/)):
+Storm King’s Thunder Information ([http://www.sageadvice.eu/2016/06/03/storm-kings-thunder-explained-video-transcription/](http://www.sageadvice.eu/2016/06/03/storm-kings-thunder-explained-video-transcription/)): 
 
 Backstory – before elves, dwarves, and humans settled the Sword Coast, the land was ruled by dragons and giants and they hated each other. When the more “civilized” races moved in, the dispute died down, but was never settled to either side’s satisfaction. Fast forward 40,000 years and you have the modern Sword Coast. A couple of years ago, Tyranny of Dragons happened. The dragons tried to bring back Tiamat. The “small races” didn’t agree and thwarted that plot. The giants did nothing.
 
-(“Couple”, in an idiomatic usage, meaning more than two \[[http://www.dictionary.com/browse/couple](http://www.dictionary.com/browse/couple)\]:
+(“Couple”, in an idiomatic usage, meaning more than two \[[http://www.dictionary.com/browse/couple](http://www.dictionary.com/browse/couple)\]: 
 
-Idioms
+Idioms 
 
 14\. a couple of, more than two, but not many, of; a small number of; a few: It will take a couple of days for the package to get there.)
 

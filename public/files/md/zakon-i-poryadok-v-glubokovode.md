@@ -1,13 +1,13 @@
 ---
-title: 'Закон и Порядок в Глубоководье'
-date: '2022-10-11'
-categories:
-  - 'forgottenrealms'
-  - 'translations-other'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'translate'
+title: "Закон и Порядок в Глубоководье"
+date: "2022-10-11"
+categories: 
+  - "forgottenrealms"
+  - "translations-other"
+tags: 
+  - "5e"
+  - "e5e"
+  - "translate"
 ---
 
 #dnd #5e #e5e #waterdeep #law #order #watch #code #punishment #adnd

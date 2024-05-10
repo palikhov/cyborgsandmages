@@ -1,18 +1,18 @@
 ---
-title: '[Core d20 RPG] Мысли вслух. Дневник разработчика. Снаряжение авантюриста, часть 2'
-date: '2023-03-03'
-categories:
-  - 'cored20rpg'
-  - 'e5e'
-tags:
-  - 'core-d20-rpg'
-  - 'e5e'
-  - 'снаряжение'
+title: "[Core d20 RPG] Мысли вслух. Дневник разработчика. Снаряжение авантюриста, часть 2"
+date: "2023-03-03"
+categories: 
+  - "cored20rpg"
+  - "e5e"
+tags: 
+  - "core-d20-rpg"
+  - "e5e"
+  - "снаряжение"
 ---
 
 #cored20rpg #e5e #gear #item #adventurer #consumables #mundane #alchemy #herbalism
 
-
+ 
 
 Продолжим…
 

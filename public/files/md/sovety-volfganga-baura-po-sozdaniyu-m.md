@@ -1,11 +1,11 @@
 ---
-title: 'Советы Вольфганга Баура по созданию миров'
-date: '2019-05-10'
-categories:
-  - 'our-materials'
-  - 'articles'
-tags:
-  - 'unsorted'
+title: "Советы Вольфганга Баура по созданию миров"
+date: "2019-05-10"
+categories: 
+  - "our-materials"
+  - "articles"
+tags: 
+  - "unsorted"
 ---
 
 текст [Mike Shea](https://vk.com/away.php?to=http%3A%2F%2Fmikeshea.net%2FAbout_Mike_Shea.html&cc_key=) от 29 апреля 2019
@@ -70,7 +70,7 @@ tags:
 
 Вольфганг любит вводить конфликты между индивидуумами и государствами. У вас может быть отличный бонус к броскам атаки, но двору теневых фей на это абсолютно наплевать.
 
-У Мидгарда и других сеттингов есть «семь вещей, которые вам нужно знать» (на эту тему можете обратиться к главе 16 из *[Return of the Lazy Dungeon Master](https://vk.com/away.php?to=http%3A%2F%2Fslyflourish.com%2Freturnofthelazydm%2F&cc_key=)).*
+У Мидгарда и других сеттингов есть «семь вещей, которые вам нужно знать» (на эту тему можете обратиться к главе 16 из _[Return of the Lazy Dungeon Master](https://vk.com/away.php?to=http%3A%2F%2Fslyflourish.com%2Freturnofthelazydm%2F&cc_key=))._
 
 Любой создатель миров может считать себя умным, если он свел подобный лист. Каковы пять, шесть или семь вещей, которые должны знать игроки, когда играют в его мире?
 

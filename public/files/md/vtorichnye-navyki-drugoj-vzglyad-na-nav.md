@@ -1,21 +1,21 @@
 ---
-title: 'Вторичные навыки - другой взгляд на навыки владения инструментами.'
-date: '2020-06-16'
-categories:
-  - 'e5e'
-  - 'hb-general-rules'
-  - 'hb-rules'
-  - 'articles'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'homebrew'
-  - 'houserules'
-  - 'proficiency-points'
-  - 'skills'
-  - 'вторичные-навыки'
-  - 'заметки'
-  - 'навыки'
+title: "Вторичные навыки - другой взгляд на навыки владения инструментами."
+date: "2020-06-16"
+categories: 
+  - "e5e"
+  - "hb-general-rules"
+  - "hb-rules"
+  - "articles"
+tags: 
+  - "5e"
+  - "e5e"
+  - "homebrew"
+  - "houserules"
+  - "proficiency-points"
+  - "skills"
+  - "вторичные-навыки"
+  - "заметки"
+  - "навыки"
 ---
 
 # Вторичные навыки

@@ -1,14 +1,14 @@
 ---
-title: 'Инструменты исследования гексов: Дальность обнаружения'
-date: '2021-07-30'
-categories:
-  - 'alexandrian'
-  - 'переводы'
-tags:
-  - 'dungeons-as-suffering'
-  - 'перевод'
-  - 'hexcrawl'
-  - 'justin-alexander'
+title: "Инструменты исследования гексов: Дальность обнаружения"
+date: "2021-07-30"
+categories: 
+  - "alexandrian"
+  - "переводы"
+tags: 
+  - "dungeons-as-suffering"
+  - "перевод"
+  - "hexcrawl"
+  - "justin-alexander"
 ---
 
 Текст Justin Alexander от 29 марта 2021 года

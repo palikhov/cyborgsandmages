@@ -1,13 +1,13 @@
 ---
-title: 'к10 cобытий в лесу'
-date: '2023-01-12'
-categories:
-  - 'krossposty'
-  - 'resources-downloads-2'
-  - 'resources'
-tags:
-  - '5e'
-  - 'resursy-dlya-mastera'
+title: "к10 cобытий в лесу"
+date: "2023-01-12"
+categories: 
+  - "krossposty"
+  - "resources-downloads-2"
+  - "resources"
+tags: 
+  - "5e"
+  - "resursy-dlya-mastera"
 ---
 
 #forest #random #dnd #5e
@@ -32,6 +32,6 @@ tags:
 
 Кажется, что сам лес против вашего присутствия здесь. Корни словно вырываются из земли, чтобы поставить вам подножку, а ветки бьют по лицу, когда вы уходите с дороги. Лесной купол смыкается вокруг вас, закрывая солнечный свет. Вы встречаете местного друида, который предупреждает, что этот лес своенравный. Если вы отдохнете и проведете здесь некоторое время, то лес успокоится и пропустит вас, открывая кратчайший путь к цели.
 
+ 
 
-
-[https://vk.com/@myriads_of_truths-k10-cobytii-v-lesu](https://vk.com/@myriads_of_truths-k10-cobytii-v-lesu)
+[https://vk.com/@myriads\_of\_truths-k10-cobytii-v-lesu](https://vk.com/@myriads_of_truths-k10-cobytii-v-lesu)

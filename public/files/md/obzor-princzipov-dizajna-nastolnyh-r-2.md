@@ -1,12 +1,12 @@
 ---
-title: 'Обзор принципов дизайна настольных ролевых игра «старой школы»'
-date: '2021-09-16'
-categories:
-  - 'articles'
-tags:
-  - 'osr'
-  - 'random-encounters'
-  - 'translate'
+title: "Обзор принципов дизайна настольных ролевых игра «старой школы»"
+date: "2021-09-16"
+categories: 
+  - "articles"
+tags: 
+  - "osr"
+  - "random-encounters"
+  - "translate"
 ---
 
 текст Panayiotis Lines от 14 сентября 2021

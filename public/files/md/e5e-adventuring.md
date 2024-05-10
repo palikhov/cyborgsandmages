@@ -1,16 +1,16 @@
 ---
-title: 'E5E Adventuring'
-date: '2022-07-04'
-categories:
-  - 'e5e'
-  - 'homebrew'
-  - 'our-materials'
-  - 'hb-general-rules'
-  - 'hb-rules'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'homebrew'
+title: "E5E Adventuring"
+date: "2022-07-04"
+categories: 
+  - "e5e"
+  - "homebrew"
+  - "our-materials"
+  - "hb-general-rules"
+  - "hb-rules"
+tags: 
+  - "5e"
+  - "e5e"
+  - "homebrew"
 ---
 
 ## ABILITY CHECKS
@@ -123,7 +123,7 @@ Jumping. The Athletics skill states that it can be used to jump unusually long d
 
 ### DECEPTION
 
-Due to its situational nature, Deception is usually used in contests alone, opposed by an NPC's Wisdom (Insight) check. Generally, it's best to use passive Insight scores to set a DC for the check, with adjustments based on the attitude of the NPC. Insight in this case is used in its closest rules-as-written form, allowing an NPC to detect whether a PC is pulling their leg.
+Due to its situational nature, Deception is usually used in contests alone, opposed by an NPC's Wisdom (Insight) check. Generally, it's best to use passive Insight scores to set a DC for the check, with adjustments based on the attitude of the NPC. Insight in this case is used in its closest rules-as-written form, allowing an NPC to detect whether a PC is pulling their leg. 
 
 The Insight Modifiers table in the previous section contains guidelines for modifying an NPC's Insight score to set a DC for a character's Charisma (Deception) checks.
 

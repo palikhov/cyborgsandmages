@@ -1,12 +1,12 @@
 ---
-title: 'First Quest: The Music'
-date: '2019-05-10'
-categories:
-  - 'our-materials'
-  - 'articles'
-tags:
-  - 'unsorted'
-  - 'заметки'
+title: "First Quest: The Music"
+date: "2019-05-10"
+categories: 
+  - "our-materials"
+  - "articles"
+tags: 
+  - "unsorted"
+  - "заметки"
 ---
 
 Задолго до выхода альбома Dungeons & Dragons от команды Midnight Syndicate, о котором [мы недавно рассказывали](https://vk.com/wall-4534_21644), у ДнД был эксперимент с музыкальным сопровождением. Порождение эпохи «Продвинутых подземелий» еще аж первой редакции (AD&D), было выпущено в Британии музыкальным издателем Filmtrax по лицензии TSR в 1985 году. Альбом назывался **First Quest: The Music**и был доступен на обыкновенных магнитных кассетах и виниле. Не следует путать со стартером для AD&D 2ed, который также назывался First Quest.

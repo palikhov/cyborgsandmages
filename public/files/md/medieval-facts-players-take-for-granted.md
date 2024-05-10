@@ -1,13 +1,13 @@
 ---
-title: '[Перевод]  6 «фактов» про средневековье, в которые зря верит большинство игроков.'
-date: '2021-12-22'
-categories:
-  - 'articles'
-tags:
-  - 'заблуждения'
-  - 'заметки'
-  - 'translate'
-  - 'средние-века'
+title: "[Перевод]  6 «фактов» про средневековье, в которые зря верит большинство игроков."
+date: "2021-12-22"
+categories: 
+  - "articles"
+tags: 
+  - "заблуждения"
+  - "заметки"
+  - "translate"
+  - "средние-века"
 ---
 
 **Источник:** [Apotheosis of the Invisible City: Medieval "Facts" Most Players Believe (ravenswing59.blogspot.com)](https://ravenswing59.blogspot.com/2014/06/medieval-facts-players-take-for-granted.html) // https://ravenswing59.blogspot.com/2014/06/medieval-facts-players-take-for-granted.html

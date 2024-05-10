@@ -1,15 +1,15 @@
 ---
-title: 'Some More Wild Speculation on Margaret Weis, LLC &amp; Tracy Hickman v. Wizards of the Coast, LLC Lawsuit @WeisMargaret @trhickman @Wizards @TheCancerThati1 @daflyondawall #WotC #DnD #RPG #Dragonlance'
-date: '2021-01-29'
-categories:
-  - 'articles'
-tags:
-  - 'copyright'
-  - 'dragonlance'
-  - 'intellectual-property'
+title: "Some More Wild Speculation on Margaret Weis, LLC &amp; Tracy Hickman v. Wizards of the Coast, LLC Lawsuit @WeisMargaret @trhickman @Wizards @TheCancerThati1 @daflyondawall #WotC #DnD #RPG #Dragonlance"
+date: "2021-01-29"
+categories: 
+  - "articles"
+tags: 
+  - "copyright"
+  - "dragonlance"
+  - "intellectual-property"
 ---
 
-*If you enjoy this post,* ***[please retweet it](https://twitter.com/GSLLC/status/1319406454391058434?s=19)**\_\_.*
+_If you enjoy this post,_ _**[please retweet it](https://twitter.com/GSLLC/status/1319406454391058434?s=19)**__._
 
 I’m one of a **_[wake of attorneys](https://www.google.com/search?sxsrf=ALeKk029jLL-eaWgVjeg1FNsDBwjHJ5N3g%3A1603334366686&ei=3vCQX-jFKZy0ytMP876eOA&q=what+is+a+group+of+vultures+called&oq=what+is+a+group+of+vultures+called&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEAcQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoECAAQRzoECAAQDToICAAQCBAHEB46CAgAEAgQDRAeUOEUWJIdYMMhaABwA3gAgAFdiAHkBZIBATmYAQCgAQGqAQdnd3Mtd2l6yAEFwAEB&sclient=psy-ab&ved=0ahUKEwjorIf7lcfsAhUcmnIEHXOfBwcQ4dUDCA0&uact=5)_** that was asked to comment on the recent filing of the above-referenced lawsuit. I’ve spoken my mind but always included my statements with the stereotypical legal caveat that we don’t have all the facts yet. This caveat exists for good reason and is clearly applicable here. All we have is one side of the story, and we don’t have the licensing agreement on which the entire case turns. Ergo, everything at this point is speculation, and I feel that there are enough people commenting that I don’t need to add to the chorus.
 
@@ -54,7 +54,7 @@ Follow Brian **_[@daflyondawall](https://twitter.com/daflyondawall)_**
 
 _Dungeons & Dragons is a trademark of Wizards of the Coast, LLC, who neither contributed to nor endorsed the contents of this post. (Okay, guys?)_
 
-*If you enjoy this post,* ***[please retweet it](https://twitter.com/GSLLC/status/1319406454391058434?s=19)**\_\_.*
+_If you enjoy this post,_ _**[please retweet it](https://twitter.com/GSLLC/status/1319406454391058434?s=19)**__._
 
 I’m one of a **_[wake of attorneys](https://www.google.com/search?sxsrf=ALeKk029jLL-eaWgVjeg1FNsDBwjHJ5N3g%3A1603334366686&ei=3vCQX-jFKZy0ytMP876eOA&q=what+is+a+group+of+vultures+called&oq=what+is+a+group+of+vultures+called&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEAcQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoECAAQRzoECAAQDToICAAQCBAHEB46CAgAEAgQDRAeUOEUWJIdYMMhaABwA3gAgAFdiAHkBZIBATmYAQCgAQGqAQdnd3Mtd2l6yAEFwAEB&sclient=psy-ab&ved=0ahUKEwjorIf7lcfsAhUcmnIEHXOfBwcQ4dUDCA0&uact=5)_** that was asked to comment on the recent filing of the above-referenced lawsuit. I’ve spoken my mind but always included my statements with the stereotypical legal caveat that we don’t have all the facts yet. This caveat exists for good reason and is clearly applicable here. All we have is one side of the story, and we don’t have the licensing agreement on which the entire case turns. Ergo, everything at this point is speculation, and I feel that there are enough people commenting that I don’t need to add to the chorus.
 

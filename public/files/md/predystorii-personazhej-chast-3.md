@@ -1,10 +1,10 @@
 ---
-title: 'Предыстории персонажей, Часть 3'
-date: '2019-03-18'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-metki-i-rubriki'
+title: "Предыстории персонажей, Часть 3"
+date: "2019-03-18"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-metki-i-rubriki"
 ---
 
 https://vk.com/@dungeonsandsuffering-predystorii-personazhei-chast-3

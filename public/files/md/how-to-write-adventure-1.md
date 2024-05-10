@@ -1,8 +1,8 @@
 ---
-title: 'Как написать приключение. Часть 1. Общие понятия'
-date: '2019-03-21'
-categories:
-  - 'our-materials'
+title: "Как написать приключение. Часть 1. Общие понятия"
+date: "2019-03-21"
+categories: 
+  - "our-materials"
 ---
 
 _https://vk.com/@316251277-contribution01_

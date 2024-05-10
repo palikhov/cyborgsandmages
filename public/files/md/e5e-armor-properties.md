@@ -1,12 +1,12 @@
 ---
-title: 'E5E - Свойства доспехов'
-date: '2022-05-28'
-categories:
-  - 'e5e'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'homebrew'
+title: "E5E - Свойства доспехов"
+date: "2022-05-28"
+categories: 
+  - "e5e"
+tags: 
+  - "5e"
+  - "e5e"
+  - "homebrew"
 ---
 
 Дата: 29.05.2022
@@ -15,7 +15,7 @@ tags:
 
 [E5E Complete List of Armor Properties.docx](https://1drv.ms/w/s!Atcrhwwo1lBA19hprZa5W17l-DdMCg?e=95UCid)
 
----
+* * *
 
 ## Свойства щитов
 

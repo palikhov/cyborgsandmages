@@ -1,10 +1,10 @@
 ---
-title: 'Распространенность волшебников в Забытых Королевствах - Так сказал Эд от 09.09.2013 г.'
-date: '2019-12-20'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Распространенность волшебников в Забытых Королевствах - Так сказал Эд от 09.09.2013 г."
+date: "2019-12-20"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 Вопрос paladinnicolas:  
@@ -27,8 +27,8 @@ tags:
 
 THO.
 
-Перевод: Amethyst Bard Информацию о других переводах можно узнать по: e-mail: [moon_bard@mail.ru](mailto:moon_bard@mail.ru)
+Перевод: Amethyst Bard Информацию о других переводах можно узнать по: e-mail: [moon\_bard@mail.ru](mailto:moon_bard@mail.ru)
 
-Skype: amethyst_bard
+Skype: amethyst\_bard
 
 Site: [http://cormyr.nethouse.ru](http://cormyr.nethouse.ru) Информация предоставляется в ознакомительных целях, не для коммерческого использования. Вся информация, а так же изображения принадлежат их авторам и используются в ознакомительных целях.

@@ -1,12 +1,12 @@
 ---
-title: 'Случайное миростроение: Быстрое и яростное создание своего мира'
-date: '2023-02-11'
-categories:
-  - 'alexandrian'
-tags:
-  - 'alexandrian'
-  - 'justin-alexander'
-  - 'translate'
+title: "Случайное миростроение: Быстрое и яростное создание своего мира"
+date: "2023-02-11"
+categories: 
+  - "alexandrian"
+tags: 
+  - "alexandrian"
+  - "justin-alexander"
+  - "translate"
 ---
 
 #alexandrian #justinalexander #worldbuilding #translate
@@ -15,7 +15,7 @@ tags:
 
 [Random Worldbuilding: Fast & Furious Homebrewing](https://thealexandrian.net/wordpress/48367/roleplaying-games/random-worldbuilding-fast-furious-homebrewing)
 
-August 27th, 2022
+ August 27th, 2022
 
 Хотите создать целый мир?
 

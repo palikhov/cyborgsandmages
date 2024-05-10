@@ -1,8 +1,8 @@
 ---
-title: 'Внешний Город Врат Балдура'
-date: '2019-05-30'
-categories:
-  - 'forgottenrealms'
+title: "Внешний Город Врат Балдура"
+date: "2019-05-30"
+categories: 
+  - "forgottenrealms"
 ---
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2019/05/BALDURS-GATE-CITY-ON-HILLS-3072x1870.jpg)

@@ -1,10 +1,10 @@
 ---
-title: 'Esper Genesis 5e'
-date: '2019-03-12'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-metki-i-rubriki'
+title: "Esper Genesis 5e"
+date: "2019-03-12"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-metki-i-rubriki"
 ---
 
 ![EG Logo](https://i1.wp.com/alligatoralleyentertainment.com/wp-content/uploads/2016/08/EG-Logo.png?resize=800%2C132&ssl=1)
@@ -36,14 +36,14 @@ tags:
 [DriveThruRPG Link](https://www.drivethrurpg.com/product/240808/Esper-Genesis-Game-Masters-Basic-Rules--FREE?affiliate_id=393950) | [Direct Download PDF Link](https://alligatoralleyentertainment.com/wp-content/uploads/2018/12/Esper_Genesis_Game_Masters_Basic_Rules_-_FREE.pdf)
 
 - A chapter explaining how creatures work in EG and advice on customizing NPCs.
-  - 24 Threats
+    - 24 Threats
 - 17 Common NPCs,
 - 30 Miscellaneous Creatures, and advice on creating unique creatures
 - A chapter on special items including Forged Enhancements
-  - 12 Gear Enhancements & 6 Limited Use Enhancements
+    - 12 Gear Enhancements & 6 Limited Use Enhancements
 - A chapter for GM Tools
-  - A Star System Generator
-  - Alien Species Generator
+    - A Star System Generator
+    - Alien Species Generator
 
 [Предсозданные персонажи - Esper Genesis Pregen Characters (5e)](https://www.drivethrurpg.com/product/260073/Esper-Genesis-Pregen-Characters-5e?affiliate_id=759617)
 
@@ -61,4 +61,4 @@ tags:
 
 А также основная книга уже вышла - [Esper Genesis 5E Sci-fi - Core Manual](https://www.drivethrurpg.com/product/240798/Esper-Genesis-5E-Scifi---Core-Manual?affiliate_id=759617)
 
-И то что может стать [противником Старфайндера](https://www.drivethrurpg.com/product/240798/Esper-Genesis-5E-Scifi---Core-Manual?affiliate_id=759617).
+И то что может стать [противником Старфайндера](https://www.drivethrurpg.com/product/240798/Esper-Genesis-5E-Scifi---Core-Manual?affiliate_id=759617﻿).

@@ -1,15 +1,15 @@
 ---
-title: 'The Magic of Netherese Mantles'
-date: '2022-08-08'
-categories:
-  - 'homebrew'
-  - 'magic-items-e5e'
-  - 'forgottenrealms'
-  - 'spells-e5e'
-  - 'hb-classes-archetypes'
-tags:
-  - 'creature'
-  - 'homebrew'
+title: "The Magic of Netherese Mantles"
+date: "2022-08-08"
+categories: 
+  - "homebrew"
+  - "magic-items-e5e"
+  - "forgottenrealms"
+  - "spells-e5e"
+  - "hb-classes-archetypes"
+tags: 
+  - "creature"
+  - "homebrew"
 ---
 
 #spell #3rd #mantle #magicitems #legendary #evocation #homebrew
@@ -32,7 +32,7 @@ When you choose this school at 2nd level you create a mantle of magical force th
 
 ### Mantle novice
 
-Starting at 6th level your mantle helps focus your spellcasting. Whenever you take damage while you are concentrating on a spell you add your proficiency bonus to your Constitution saving throw. If you have proficiency in Constitution saving throws, your bonus is doubled
+Starting at 6th level your mantle helps focus your spellcasting. Whenever you take damage while you are concentrating on a spell you add your proficiency bonus to your Constitution saving throw. If you have proficiency in Constitution saving throws, your bonus is doubled 
 
 ### Mantle adept
 
@@ -54,7 +54,7 @@ While in physical contact with the _thaelkiira,_ you can cast any spell stored i
 
 If another creature attunes to a particular _thaelkiira,_ all prior spells stored in that gem are immediately lost.
 
-
+ 
 
 ## Mantle
 
@@ -76,6 +76,6 @@ If you cast this spell using a spell slot of 7th level or higher, you can add a 
 
 If you cast this spell using a spell slot of 9th level you can add a spell of 3rd level into your mantle that you can cast and has a casting time of 1 action, in addition to a cantrip, a 1st level spell and a 2nd level spell You expend spell slots for both this spell and all stored spells as part of casting _mantle._ This 3rd level stored spell can also be cast as a bonus action at any time in the _mantle_ spell's duration. Only a single stored spell can be cast on your turn using a bonus action. If you use a bonus action to cast a stored spell the power of the mantle allows you to cast another spell with a casting time of 1 action during the same turn, bypassing the prohibition in the PHB (p.202).
 
-
+ 
 
 ИСТОЧНИК: The magic of mantles. Ancient wizardry of the Forgotten Realms by George Krashos

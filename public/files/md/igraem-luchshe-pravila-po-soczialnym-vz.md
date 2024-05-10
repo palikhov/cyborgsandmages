@@ -1,10 +1,10 @@
 ---
-title: 'Играем лучше. Правила по социальным взаимодействиям'
-date: '2019-06-09'
-categories:
-  - 'our-materials'
-tags:
-  - 'unsorted'
+title: "Играем лучше. Правила по социальным взаимодействиям"
+date: "2019-06-09"
+categories: 
+  - "our-materials"
+tags: 
+  - "unsorted"
 ---
 
 Здесь и далее:

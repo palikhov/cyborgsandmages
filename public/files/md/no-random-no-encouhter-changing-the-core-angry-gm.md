@@ -1,14 +1,14 @@
 ---
-title: '[Перевод] Ни случайных, ни встреч: изменение дизайна случайных встреч (часть 2)'
-date: '2022-06-11'
-categories:
-  - 'our-materials'
-tags:
-  - '5e'
-  - 'angrygm'
-  - 'random'
-  - 'random-encounter'
-  - 'translate'
+title: "[Перевод] Ни случайных, ни встреч: изменение дизайна случайных встреч (часть 2)"
+date: "2022-06-11"
+categories: 
+  - "our-materials"
+tags: 
+  - "5e"
+  - "angrygm"
+  - "random"
+  - "random-encounter"
+  - "translate"
 ---
 
 Это вольный перевод статьи Злого ГМа.

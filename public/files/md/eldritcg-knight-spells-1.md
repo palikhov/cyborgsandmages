@@ -1,15 +1,15 @@
 ---
-title: '[Spells] Два домашних заклинания для гишей'
-date: '2022-03-29'
-categories:
-  - 'spells-e5e'
-tags:
-  - 'e5e'
-  - 'eldritch-knight'
-  - 'fighter'
-  - 'gish'
-  - 'mage'
-  - 'wizard'
+title: "[Spells] Два домашних заклинания для гишей"
+date: "2022-03-29"
+categories: 
+  - "spells-e5e"
+tags: 
+  - "e5e"
+  - "eldritch-knight"
+  - "fighter"
+  - "gish"
+  - "mage"
+  - "wizard"
 ---
 
 Заговор и заклинание первого круга предназначенные в первую очередь для воинов-магов.

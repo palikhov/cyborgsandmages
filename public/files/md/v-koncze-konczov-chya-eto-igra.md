@@ -1,10 +1,10 @@
 ---
-title: 'В конце концов, чья это игра?'
-date: '2018-12-22'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "В конце концов, чья это игра?"
+date: "2018-12-22"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 Текст [Angela Murray](https://vk.com/away.php?to=https://gnomestew.com/author/orikes/&cc_key=) от 07 декабря 2018 года.

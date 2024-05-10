@@ -1,21 +1,21 @@
 ---
-title: '[Core d20 RPG] Заметки Паланта про домашние правила и изменение системы D&D, часть 1'
-date: '2023-02-13'
-categories:
-  - 'cored20rpg'
-  - 'e5e'
-tags:
-  - '5e'
-  - 'advices'
-  - 'core-d20-rpg'
-  - 'design'
-  - 'e5e'
-  - 'hack'
-  - 'homebrew'
-  - 'homerules'
-  - 'random-encounters'
-  - 'theory'
-  - 'сражение'
+title: "[Core d20 RPG] Заметки Паланта про домашние правила и изменение системы D&D, часть 1"
+date: "2023-02-13"
+categories: 
+  - "cored20rpg"
+  - "e5e"
+tags: 
+  - "5e"
+  - "advices"
+  - "core-d20-rpg"
+  - "design"
+  - "e5e"
+  - "hack"
+  - "homebrew"
+  - "homerules"
+  - "random-encounters"
+  - "theory"
+  - "сражение"
 ---
 
 #homerules #palant #homebrew #gamedesign #rules #system #dnd #5e #dnd5e #e5e #hack #theory

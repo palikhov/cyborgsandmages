@@ -1,13 +1,13 @@
 ---
-title: 'Процедура заполнения гексов для Прибрежных волков'
-date: '2022-08-07'
-categories:
-  - 'translations-other'
-tags:
-  - 'hex'
-  - 'hexcrawl'
-  - 'osr'
-  - 'translate'
+title: "Процедура заполнения гексов для Прибрежных волков"
+date: "2022-08-07"
+categories: 
+  - "translations-other"
+tags: 
+  - "hex"
+  - "hexcrawl"
+  - "osr"
+  - "translate"
 ---
 
 #hexcrawl #procedure #hex #translate #osr #chartopia

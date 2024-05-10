@@ -1,10 +1,10 @@
 ---
-title: 'D&D Essentials Kit'
-date: '2019-05-17'
-categories:
-  - 'articles'
-tags:
-  - 'заметки'
+title: "D&D Essentials Kit"
+date: "2019-05-17"
+categories: 
+  - "articles"
+tags: 
+  - "заметки"
 ---
 
 Также этой осенью выйдет Essentials Kit - новый взгляд на первое погружение в мир Dungeons & Dragons, включающий советы по созданию персонажей. Причем там будет вариант и для игры с одним участником помимо ДМа!

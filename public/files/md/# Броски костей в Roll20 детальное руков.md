@@ -1,4 +1,4 @@
-# Броски костей в Roll20 детальное руководство
+# Броски костей в Roll20   детальное руководство
 
 ### How to Roll Dice
 
@@ -14,7 +14,7 @@ You can also include non-formula text in your roll to indicate what that roll is
 
 `/roll 1d20+5 Roll for Initiative`
 
-If you want to include any numbers, parentheses, or +, -, \*, /, or % in your additional text, you can preface it with a to separate the formula from the text and keep the roller from getting confused. So for example you can do /roll 1d20+5 +5 Roll for Initiative.
+If you want to include any numbers, parentheses, or +, -, \*, /, or % in your additional text, you can preface it with a  to separate the formula from the text and keep the roller from getting confused. So for example you can do /roll 1d20+5  +5 Roll for Initiative.
 
 If you want to include additional comments before the end of the roll (we call them "inline labels"), use square brackets. For example, /roll 2d20+5\[Fire Damage] + 3d6+5\[Ice Damage]. When these comments are applied directly after a die roll they show up as tool-tips on the dice:
 
@@ -26,7 +26,7 @@ If you want a more compact roll representation, you can take advantage of inline
 You can use them in any chat message, not just a roll. For example, you can do a regular chat message, an emote, or a whisper, with an inline roll included.
 They are evaluated completely before any /roll commands, so you can use them as "random variables" in your rolls.
 You will only see the result of the total roll, and you can hover over the result to see the individual dice rolls.
-If an inline roll contains a crit success, it will be highlighted with a green box. If there's a crit failure, it's highlighted in red. If it has both (because there was more than one roll), it's in blue. Also when you mouse-over the inline roll to see the details of the roll, it'll show red and green highlights for the rolls themselves for crits/fumbles.
+If an inline roll contains a crit success, it will be highlighted with a green box. If there's a crit failure, it's highlighted in red. If it has both (because there was more than one roll), it's in blue. Also when you mouse-over the inline roll to see the details of the roll, it'll show red and green highlights for the rolls themselves for crits/fumbles. 
 ```
 
 To do an inline roll, just include two brackets in any chat message or roll, like so:
@@ -128,7 +128,7 @@ You may want to use rounding in your roll formulas to emulate mechanics such as 
 We also provide other Math functions:
 
 ```
-abs() will calculate the absolute value of the roll
+abs() will calculate the absolute value of the roll 
 ```
 
 ### Grouping Rolls
@@ -161,7 +161,7 @@ Here's an example that uses the 'default' template (which all games have access 
 Note: If you're interested in using Roll Templates in your own custom macros or creating your own custom templates please vist the wiki entry on Roll Templates.
 {% endhint %}
 
-&{template:default} Roll20 Dice Specification Math Operators and Functions
+&{template:default}    Roll20 Dice Specification Math Operators and Functions
 
 Roll20 supports the basic arithmetic operators you learned in school: +, -, \* (multiply), and / (divide).
 
@@ -169,7 +169,7 @@ In addition to the basic four, you have access to:
 
 ```
 %, for modulus division. The result of a % b is the remainder of a / b. If you think back to when you were first learning long division without getting into decimals, you were learning how to perform modulus division. Modulus is useful, for example, to test whether a value is even or odd: a % 2 will be 0 if a is even (and positive) and 1 if a is odd (and positive). In general, the result of a % b when a and b are both whole numbers will be a whole number in the range [0, |b| - 1] where |b| is the absolute value of b. (If a is less than 0, the result will be negative, including -0. -0 is functionally equivalent to 0.)
-**, for exponentiation. You may be more familiar with a^b as the notation for "raising a to the power of b", but in Roll20 you would use a**b instead. Also note that finding roots is simply raising a number to a fractional exponent; square root is simply an exponent of 0.5, for example.
+**, for exponentiation. You may be more familiar with a^b as the notation for "raising a to the power of b", but in Roll20 you would use a**b instead. Also note that finding roots is simply raising a number to a fractional exponent; square root is simply an exponent of 0.5, for example. 
 ```
 
 You also have access to a small set of mathematical functions:
@@ -178,7 +178,7 @@ You also have access to a small set of mathematical functions:
 floor(x) rounds x towards negative infinity.
 round(x) rounds x towards 0 if the fractional portion of x is less than 0.5, and round x towards positive infinity if the fractional portion of x is 0.5 or greater.
 ceil(x) rounds x towards positive infinity.
-abs(x) returns the absolute value of x.
+abs(x) returns the absolute value of x. 
 ```
 
 Operations are performed by order of precedence, just like in normal mathematics. From highest to lowest precedence:
@@ -188,7 +188,7 @@ Grouping with parentheses (( and )); just like in real math, you can modify the 
 Calling floor/round/ceil/abs
 Exponentiation (**)
 Multiplication (*), division (/), and modulus (%), in the order they appear (left-to-right) in the formula
-Addition (+) and subtraction (-), in the order they appear (left-to-right) in the formula
+Addition (+) and subtraction (-), in the order they appear (left-to-right) in the formula 
 ```
 
 ### Order of Operations
@@ -202,7 +202,7 @@ Variables are substituted
 Roll queries are executed (the player making the roll is asked to provide a value for each query, and that value is substituted in where the roll query appears in the formula)
 All previous steps are repeated until there are no longer any unresolved abilities, macros, variables, or queries. This allows for nesting (e.g. putting an attribute in a macro).
 Inline rolls are executed, starting with the most deeply nested inline roll working upward. The overall result of the inline roll is substituted in place where it appeared in the formula.
-The remaining roll is executed: first, dice are rolled for any dice (e.g. "2d6" is rolled; including any special dice such as dropped or exploding), then the result of that roll is substituted into the formula. Next, floor() and ceil() functions are executed. Finally, the entire remaining formula is evaluated, including observing proper math order of operations (parentheses first, then multiplication/division, then addition/subtraction).
+The remaining roll is executed: first, dice are rolled for any dice (e.g. "2d6" is rolled; including any special dice such as dropped or exploding), then the result of that roll is substituted into the formula. Next, floor() and ceil() functions are executed. Finally, the entire remaining formula is evaluated, including observing proper math order of operations (parentheses first, then multiplication/division, then addition/subtraction). 
 ```
 
 ### Types Of Dice
@@ -221,7 +221,7 @@ Modfiers that can change the behavior or outcome of dice rolls. Each modifier st
 
 ```
 B - Basic Roll
-F - Fate/Fudge Roll
+F - Fate/Fudge Roll 
 ```
 
 Many modifiers compare each die to a target number to decided if the modifier action should be applied. We'll call this a Compare Point or CP for short in the roll modifiers below. A Compare Point consists of an optional compare operation <,=,> and a target number. If the operation is not specified = is assumed and for most modifiers the entire Compare Point can be left off for the default behavior.
@@ -230,7 +230,7 @@ Many modifiers compare each die to a target number to decided if the modifier ac
 Example Compare Points
 3 - If the roll is equal to 3
 >2 - If the roll is greater than or equal to 2
-<18 - If the roll is less than or equal to 18
+<18 - If the roll is less than or equal to 18 
 ```
 
 Target Number / Successes (B,F) - CP
@@ -240,7 +240,7 @@ Normally when you perform a roll, Roll20 reports back the total value of all the
 ```
 Example Success Checks
 3d6>3 - Roll 3 d6's and count one success for each roll of 3 or higher
-10d6<4 - Roll 10 d6's and count one success for each roll of 4 or less
+10d6<4 - Roll 10 d6's and count one success for each roll of 4 or less 
 ```
 
 Failures (B,F) - fCP
@@ -250,7 +250,7 @@ Some systems build on success checks by also including failures. Failure checks 
 ```
 Example Failure Checks
 3d6>3f1 - Roll 3 d6's and count one success for each roll of 3 or higher and one failure for each 1
-10d6<4f>5 - Roll 10 d6's and count one success for each roll of 4 or less and one failure for each roll of 5 or more
+10d6<4f>5 - Roll 10 d6's and count one success for each roll of 4 or less and one failure for each roll of 5 or more 
 ```
 
 Exploding Dice (B,F) !CP
@@ -260,7 +260,7 @@ Exploding dice, also known as "rule of 6" or "rule of 10s" depending on your gam
 ```
 Example Exploding Dice
 3d6! - Rolls 3d6 and explodes every time a 6 is rolled
-3d6!>5 - Rolls 3d6 and explodes every time a 5 or 6 is rolled
+3d6!>5 - Rolls 3d6 and explodes every time a 5 or 6 is rolled 
 ```
 
 Compounding Dice (B,F) !!CP
@@ -270,7 +270,7 @@ Shadowrun (and some other systems, such as 7th Sea and L5R) use a special style 
 ```
 Example Compounding Dice
 5d6!! - Rolls 5d6 and compound every time a 6 is rolled
-5d6!!5 - Rolls 5d6 and compound every time a 5 is rolled, 6's will be treated as a normal roll
+5d6!!5 - Rolls 5d6 and compound every time a 5 is rolled, 6's will be treated as a normal roll 
 ```
 
 Penetrating Dice (B,F) !pCP
@@ -280,7 +280,7 @@ HackMaster (and some other systems) use a special style of exploding dice where 
 ```
 Example Compounding Dice
 5d6!p - Rolls 5d6 and explode with a -1 modifier every time a 6 is rolled
-5d6!p>5 - Rolls 5d6 and explode with a -1 modifier every time a 5 or higher is rolled.
+5d6!p>5 - Rolls 5d6 and explode with a -1 modifier every time a 5 or higher is rolled. 
 ```
 
 Keep / Drop Dice (B,F) khN/klN/dhN/dlN
@@ -293,7 +293,7 @@ Example Keep Rolls
 8d100kl4 - Roll 8 d100's and keep the four smallest rolls.
 Example Drop Rolls
 8d100d4 - Roll 8 d100's and drop the four smallest rolls.
-8d100dh4 - Roll 8 d100's and drop the four largest rolls.
+8d100dh4 - Roll 8 d100's and drop the four largest rolls. 
 ```
 
 Rerolling Dice (B,F) rCP
@@ -305,7 +305,7 @@ Example Rerolls
 2d10r<2 - Roll 2 d10's and reroll any time a 2 or lower is rolled
 8d6r - Roll 8 d6's and reroll any time a 1 is rolled
 8d6r2r4r6 - Roll 8 d6's and reroll any time a 2, 4, or 6 is rolled
-2d6ro<2 - Roll 2 d6's and reroll anything less than 2 but only once
+2d6ro<2 - Roll 2 d6's and reroll anything less than 2 but only once 
 ```
 
 Special Case: Reroll Once (B,F) roCP
@@ -314,7 +314,7 @@ In some systems (such as D\&D 5E) you want to reroll dice below a certain value,
 
 ```
 Example Reroll Once Rolls
-2d10ro<2 - Roll 2 d10's and reroll any time a 2 or lower is rolled, but only up to one time per dice.
+2d10ro<2 - Roll 2 d10's and reroll any time a 2 or lower is rolled, but only up to one time per dice. 
 ```
 
 Sorting Dice (B,F) sa/sd
@@ -324,7 +324,7 @@ You may want to see your results in either ascending or descending order. The so
 ```
 Example Rerolls
 8d6s - Roll 8 d6's and sort the results in ascending order
-8d6sd - Roll 8 d6's and sort the results in descending order
+8d6sd - Roll 8 d6's and sort the results in descending order 
 ```
 
 Order of Operations for Modifiers
@@ -335,7 +335,7 @@ Modifiers are applied in the following order:
 Exploding, Compounding, Penetrating, Rerolls
 These are applied while the dice are still rolling. imagine that you roll some exploding 6d6 on your table and the instant one of them settles as a 6 another die is rolled
 Keep, Drop, Success, Failure, Sorting
-These are applied after all of the dice have "settled" and all of the result values are known.
+These are applied after all of the dice have "settled" and all of the result values are known. 
 ```
 
 ### Grouped Rolls
@@ -347,14 +347,14 @@ Note: each sub-roll expression within a Grouped Roll must contain elements of th
 ```
 "Sum rolls", which can be Basic Rolls or nested Group Rolls.
 "Success rolls".
-("M rolls"—which are simply numbers—may be mentioned in an error message. However, unlike the other two roll types, M rolls are not required to be present within every sub-roll expression.)
+("M rolls"—which are simply numbers—may be mentioned in an error message. However, unlike the other two roll types, M rolls are not required to be present within every sub-roll expression.) 
 ```
 
-For example, `[[{1d6,5}kh1]]` will fail, but `[[ {1d6, 5 + 0d0}kh1 ]]` or `[[ {1d6, {5}}kh1 ]] or [[ {[[1d6]], 5}kh1 ]]` will work.&#x20;
+For example, `[[{1d6,5}kh1]]`  will fail, but `[[ {1d6, 5 + 0d0}kh1 ]]` or `[[ {1d6, {5}}kh1 ]] or [[ {[[1d6]], 5}kh1 ]]` will work.&#x20;
 
 ### Grouped Roll Modifiers
 
-Modfiers that can change the behavior or outcome of grouped rolls. Grouped Rolls can have multiple modifiers applied to a group roll to allow for complex dice expressions.
+Modfiers that can change the behavior or outcome of grouped rolls. Grouped Rolls can have multiple modifiers applied to a group roll to allow for complex dice expressions. 
 
 Keep / Drop khN/klN/dhN/dlN
 
@@ -364,7 +364,7 @@ To apply a keep or drop modifier across multiple types of dice wrap the roll in 
 Single Sub-Roll Keep Example
 {4d6+3d8}k4 - Roll 4 d6's and 3 d8's, out of those 7 dice the highest 4 are kept and summed up.
 Multiple Sub-Roll Drop Example
-{4d6+2d8, 3d20+3, 5d10+1}d1 - Roll each of the three sub-roll expressions and total them up. Drop the sub-roll expression with the lowest total and sum the other two totals as the result.
+{4d6+2d8, 3d20+3, 5d10+1}d1 - Roll each of the three sub-roll expressions and total them up. Drop the sub-roll expression with the lowest total and sum the other two totals as the result. 
 ```
 
 Target Number / Successes (B,F) - CP
@@ -376,7 +376,7 @@ Single Sub-Roll Success Example
 {3d20+5}>21 - Roll 3 d20's, for each roll add 5 and then count a success for each result of 21 or more.
 {2d6!}>4 - Roll 2d6 exploding and count a success for each roll of 4 or greater.
 Multiple Sub-Roll Success Example
-{4d6+2d8, 3d20+3, 5d10+1}>40 - Roll each of the three sub-roll expression and total them up. Count one success for each sub-roll total of 40 or more.
+{4d6+2d8, 3d20+3, 5d10+1}>40 - Roll each of the three sub-roll expression and total them up. Count one success for each sub-roll total of 40 or more. 
 ```
 
 Failures (B,F) - fCP
@@ -388,7 +388,7 @@ Single Sub-Roll Failure Example
 {3d20+5}>21f<10 - Roll 3 d20's, for each roll add 5 and then count a success for each result of 21 or more and count a failure for each result of 10 or less.
 {2d6!}>4f1 - Roll 2d6 exploding and count a success for each roll of 4 or greater and a failure for each roll of 1.
 Multiple Sub-Roll Failure Example
-{4d6+2d8, 3d20+3, 5d10+1}>40f<10 - Roll each of the three sub-roll expression and total them up. Count one success for each sub-roll total of 40 or more and one failure for each sub-roll total of 10 or less.
+{4d6+2d8, 3d20+3, 5d10+1}>40f<10 - Roll each of the three sub-roll expression and total them up. Count one success for each sub-roll total of 40 or more and one failure for each sub-roll total of 10 or less. 
 ```
 
-[https://wiki.roll20.net/Dice_Reference](https://wiki.roll20.net/Dice_Reference)
+[https://wiki.roll20.net/Dice\_Reference](https://wiki.roll20.net/Dice\_Reference)

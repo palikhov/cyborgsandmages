@@ -1,10 +1,10 @@
 ---
-title: 'Обзор инструментов для вождения 01'
-date: '2019-06-09'
-categories:
-  - 'our-materials'
-tags:
-  - 'unsorted'
+title: "Обзор инструментов для вождения 01"
+date: "2019-06-09"
+categories: 
+  - "our-materials"
+tags: 
+  - "unsorted"
 ---
 
 Начнем новую рубрику - обзор инструментов для вождения и игр в настольные ролевые игры ( в т.ч. D&D) онлайн.
@@ -91,7 +91,7 @@ help показывает информацию о всех командах
 
 И еще один генератор содержимого магазинов:
 
-##
+## 
 
 Generate Store Content
 
@@ -99,7 +99,7 @@ Generate Store Content
 
 > STORES FOR EVERY SHOPPING NEED  
 > You need a store? Choose a gamesystem below and create it in just a few clicks. Then you can modify it and save it for later use or print it and save as an image or physical store!
->
+> 
 > Из описания на сайте
 
 Поддерживает D&D 5e и Coriolis
@@ -122,6 +122,6 @@ Generate Store Content
 
 ![](https://cyborgsandmages.com/wp-content/uploads/2019/06/image-5.png)
 
----
+* * *
 
 А как вы считаете - нужна такая рубрика или нет? Оставьте свое мнение в комментариях.

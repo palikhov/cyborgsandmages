@@ -1,11 +1,11 @@
 ---
-title: 'Искусство рулингов. Часть I'
-date: '2022-07-17'
-categories:
-  - 'alexandrian'
-tags:
-  - 'перевод'
-  - 'justin-alexander'
+title: "Искусство рулингов. Часть I"
+date: "2022-07-17"
+categories: 
+  - "alexandrian"
+tags: 
+  - "перевод"
+  - "justin-alexander"
 ---
 
 Перевод: Станислав Иванов

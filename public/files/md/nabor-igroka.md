@@ -1,10 +1,10 @@
 ---
-title: 'Набор Игрока'
-date: '2018-11-14'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Набор Игрока"
+date: "2018-11-14"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 Перевели Candramelekh и Эргонт

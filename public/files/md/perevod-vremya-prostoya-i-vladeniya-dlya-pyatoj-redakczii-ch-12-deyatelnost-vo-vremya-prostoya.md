@@ -1,10 +1,10 @@
 ---
-title: '[Перевод] — Время простоя и владения (для пятой редакции), ч.12 — Деятельность во время простоя'
-date: '2022-12-16'
-categories:
-  - 'hack-and-slash-downtime-and-demesne-5e'
-tags:
-  - 'translate'
+title: "[Перевод] — Время простоя и владения (для пятой редакции), ч.12 — Деятельность во время простоя"
+date: "2022-12-16"
+categories: 
+  - "hack-and-slash-downtime-and-demesne-5e"
+tags: 
+  - "translate"
 ---
 
 Перечень видов деятельности

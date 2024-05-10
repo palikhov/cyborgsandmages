@@ -1,13 +1,13 @@
 ---
-title: '[Core d20 RPG] СНАРЯЖЕНИЕ. САМОЦВЕТНЫЕ КАМНИ'
-date: '2023-03-03'
-categories:
-  - 'cored20rpg'
-  - 'e5e'
-tags:
-  - '5e'
-  - 'core-d20-rpg'
-  - 'e5e'
+title: "[Core d20 RPG] СНАРЯЖЕНИЕ. САМОЦВЕТНЫЕ КАМНИ"
+date: "2023-03-03"
+categories: 
+  - "cored20rpg"
+  - "e5e"
+tags: 
+  - "5e"
+  - "core-d20-rpg"
+  - "e5e"
 ---
 
 **#E5E #Cored20RPG #gem #5e #dnd #dnd5e #treasure #value**

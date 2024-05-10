@@ -3,8 +3,8 @@ import { getEntry } from 'astro:content';
 import TablerChevronsRight from '~icons/tabler/chevrons-right';
 
 export type Props = {
-	id: string;
-	title?: string;
+  id: string;
+  title?: string;
 };
 
 const { id, title } = Astro.props;
@@ -12,17 +12,17 @@ const { id, title } = Astro.props;
 const post = await getEntry('posts', id);
 
 if (post === undefined) {
-	throw new Error('Статья не найдена');
+  throw new Error('Статья не найдена');
 }
 ---
 
 <div class="not-prose my-4 w-full">
-	<a
-		href={'/posts/' + post.slug}
-		class="flex items-center rounded-md border-2 border-brand-crimson bg-brand-mist p-1.5 hover:bg-brand-crimson hover:text-white"
-	>
-		<span class="font-sans text-base font-medium"> {title ? title : post.data.title}</span>
-		<TablerChevronsRight class="h-6 w-6" />
-	</a>
-	<div></div>
+  <a
+    href={'/posts/' + post.slug}
+    class="flex items-center rounded-md border-2 border-brand-crimson bg-brand-mist p-1.5 hover:bg-brand-crimson hover:text-white"
+  >
+    <span class="font-sans text-base font-medium"> {title ? title : post.data.title}</span>
+    <TablerChevronsRight class="h-6 w-6" />
+  </a>
+  <div></div>
 </div>

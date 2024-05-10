@@ -1,11 +1,11 @@
 ---
-title: 'Как собирать приключение заново'
-date: '2022-07-24'
-categories:
-  - 'alexandrian'
-tags:
-  - 'перевод'
-  - 'justin-alexander'
+title: "Как собирать приключение заново"
+date: "2022-07-24"
+categories: 
+  - "alexandrian"
+tags: 
+  - "перевод"
+  - "justin-alexander"
 ---
 
 #alexandrian #justinalexander #remix #adventure #advice #module #translate

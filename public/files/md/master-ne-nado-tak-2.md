@@ -1,10 +1,10 @@
 ---
-title: 'Мастер, не надо так | 2'
-date: '2020-04-14'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Мастер, не надо так | 2"
+date: "2020-04-14"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 # Мастер, не надо так | 2

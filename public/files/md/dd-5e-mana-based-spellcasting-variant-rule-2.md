@@ -1,13 +1,13 @@
 ---
-title: 'D&amp;D 5E - Mana-Based Spellcasting (Variant Rule)'
-date: '2022-10-23'
-categories:
-  - 'articles'
-tags:
-  - '5e'
-  - 'druid'
-  - 'magic'
-  - 'spell'
+title: "D&amp;D 5E - Mana-Based Spellcasting (Variant Rule)"
+date: "2022-10-23"
+categories: 
+  - "articles"
+tags: 
+  - "5e"
+  - "druid"
+  - "magic"
+  - "spell"
 ---
 
 _There has always been a lot of discussion regarding the magic system used in Dungeons and Dragons. It doesn’t seem to be very “logical” and there are other systems that might be better. This is my attempt to address this with an alternative to the “spell slots” system that fifth edition uses. This uses the same spells and everything else as presented in the Players Handbook (PHB) except for replacing its “spell slot” system with a “mana” system. There are several systems out there that use Mana or Spell Points for magic. Let me know what you think of mine._

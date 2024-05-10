@@ -1,17 +1,17 @@
 ---
-title: 'Дополнительные возможности пятой редакции'
-date: '2019-11-10'
-categories:
-  - 'articles'
-tags:
-  - 'disarm'
-  - 'injuries'
-  - 'mark'
-  - 'massive-damage'
-  - 'tumble'
-  - 'variant-actions'
-  - 'vitality'
-  - 'заметки'
+title: "Дополнительные возможности пятой редакции"
+date: "2019-11-10"
+categories: 
+  - "articles"
+tags: 
+  - "disarm"
+  - "injuries"
+  - "mark"
+  - "massive-damage"
+  - "tumble"
+  - "variant-actions"
+  - "vitality"
+  - "заметки"
 ---
 
 Какие правила для боевых ситуаций предоставляет пятая редакция?

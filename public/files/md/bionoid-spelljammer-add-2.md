@@ -1,11 +1,11 @@
 ---
-title: 'Бионоид – Spelljammer AD&D 2'
-date: '2022-09-11'
-categories:
-  - 'spelljammer'
-tags:
-  - 'creature'
-  - 'spelljammer'
+title: "Бионоид – Spelljammer AD&D 2"
+date: "2022-09-11"
+categories: 
+  - "spelljammer"
+tags: 
+  - "creature"
+  - "spelljammer"
 ---
 
 #adnd2 #bionoid #spelljammer #creature #bestiary

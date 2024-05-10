@@ -1,14 +1,14 @@
 ---
-title: 'E5E Alternative Class Features'
-date: '2022-07-04'
-categories:
-  - 'e5e'
-  - 'homebrew'
-  - 'our-materials'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'homebrew'
+title: "E5E Alternative Class Features"
+date: "2022-07-04"
+categories: 
+  - "e5e"
+  - "homebrew"
+  - "our-materials"
+tags: 
+  - "5e"
+  - "e5e"
+  - "homebrew"
 ---
 
 **Barbarian**

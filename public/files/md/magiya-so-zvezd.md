@@ -1,10 +1,10 @@
 ---
-title: 'Магия со звезд'
-date: '2022-07-25'
-categories:
-  - 'spelljammer'
-tags:
-  - 'translate'
+title: "Магия со звезд"
+date: "2022-07-25"
+categories: 
+  - "spelljammer"
+tags: 
+  - "translate"
 ---
 
 #spelljammer #adnd

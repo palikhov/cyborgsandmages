@@ -1,16 +1,16 @@
 ---
-title: '[Bestiary] Обзор тактики и столкновений дроу (падших эльфов)'
-date: '2022-03-28'
-categories:
-  - 'e5e-bestiary'
-  - 'our-materials'
-tags:
-  - 'bestiary'
-  - 'drow'
-  - 'e5e'
-  - 'palant-guide-to-tactics'
-  - 'tactics'
-  - 'video'
+title: "[Bestiary] Обзор тактики и столкновений дроу (падших эльфов)"
+date: "2022-03-28"
+categories: 
+  - "e5e-bestiary"
+  - "our-materials"
+tags: 
+  - "bestiary"
+  - "drow"
+  - "e5e"
+  - "palant-guide-to-tactics"
+  - "tactics"
+  - "video"
 ---
 
 На выходных говорили про дроу, их происхождение и их тактику.

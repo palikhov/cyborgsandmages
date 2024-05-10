@@ -1,10 +1,10 @@
 ---
-title: 'И еще небольшое обновление по SRD'
-date: '2020-09-11'
-categories:
-  - 'srd-translate'
-tags:
-  - 'пантеоны'
+title: "И еще небольшое обновление по SRD"
+date: "2020-09-11"
+categories: 
+  - "srd-translate"
+tags: 
+  - "пантеоны"
 ---
 
 ### Пантеоны

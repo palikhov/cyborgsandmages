@@ -1,13 +1,13 @@
 ---
-title: 'Вопросы о праве собственности и лицензии (OGL)'
-date: '2022-06-11'
-categories:
-  - 'dmsguild'
-  - 'drivethrurpg'
-  - 'resources'
-tags:
-  - '5e'
-  - 'resursy-dlya-mastera'
+title: "Вопросы о праве собственности и лицензии (OGL)"
+date: "2022-06-11"
+categories: 
+  - "dmsguild"
+  - "drivethrurpg"
+  - "resources"
+tags: 
+  - "5e"
+  - "resursy-dlya-mastera"
 ---
 
 ## **❓ Чем Dungeon Masters Guild отличается от Open Game License (OGL)?**
@@ -36,7 +36,7 @@ _DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Ebe
 
 _Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild._
 
-*All other original material in this work is copyright* **_\[ВСТАВИТЬ ГОД КОПИРАЙТА\]_** *by* **_\[ВАШЕ ИМЯ ИЛИ НАЗВАНИЕ ВАШЕЙ КОМПАНИИ\]_** *and published under the Community Content Agreement for Dungeon Masters Guild.*
+_All other original material in this work is copyright_ **_\[ВСТАВИТЬ ГОД КОПИРАЙТА\]_** _by_ **_\[ВАШЕ ИМЯ ИЛИ НАЗВАНИЕ ВАШЕЙ КОМПАНИИ\]_** _and published under the Community Content Agreement for Dungeon Masters Guild._
 
 ## **❓ Могу ли я использовать таких существ, как бехолдер и пожиратель разума, которых OGL перечисляет как «product identity», в моём материале на DMs Guild?**
 
@@ -46,7 +46,7 @@ _Such material is used with permission under the Community Content Agreement for
 
 По мере того, как все больше авторов вносят свой вклад в контента сообщества DMs Guild, мы не ожидаем, что вы будете безупречно указывать всех авторов, у которых вы что-то позаимствовали. Такие ссылки строго не требуются. Тем не менее, мы настоятельно рекомендуем всем участникам DMs Guild следующее:
 
-- При повторном использовании достаточно крупной части контента, взятой из работы другого автора DMs Guild, включите ссылку на оригинальную работу, сделав ссылку на страницу продукта на DMsGuild.com в своем PDF-файле. Например, если вы используете существо Радужный Единорог, которое вы нашли в работе другого автора, вы можете указать это в своей работе, где вы впервые предоставляете статистику Радужного Единорога, используя цитату, такую как: «(Радужный единорог из *Облачного леса Джейн Доу*)».
+- При повторном использовании достаточно крупной части контента, взятой из работы другого автора DMs Guild, включите ссылку на оригинальную работу, сделав ссылку на страницу продукта на DMsGuild.com в своем PDF-файле. Например, если вы используете существо Радужный Единорог, которое вы нашли в работе другого автора, вы можете указать это в своей работе, где вы впервые предоставляете статистику Радужного Единорога, используя цитату, такую как: «(Радужный единорог из _Облачного леса Джейн Доу_)».
 - На странице со списком участников, работавших над вашим материалом, добавьте список таких ссылок.
 
 Изначально эта запись (перевод) была опубликована https://vk.com/@dmsguild\_ru-voprosy-o-prave-sobstvennosti-i-licenzii-ogl?ref=group\_block

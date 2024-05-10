@@ -1,17 +1,17 @@
 ---
-title: 'Новые черты связанные со сражением и доспехами'
-date: '2019-09-05'
-categories:
-  - 'articles'
-tags:
-  - 'armor'
-  - 'armor-expert'
-  - 'armor-proficiency'
-  - 'armor-training'
-  - 'combat'
-  - 'feats'
-  - 'martial-arts'
-  - 'заметки'
+title: "Новые черты связанные со сражением и доспехами"
+date: "2019-09-05"
+categories: 
+  - "articles"
+tags: 
+  - "armor"
+  - "armor-expert"
+  - "armor-proficiency"
+  - "armor-training"
+  - "combat"
+  - "feats"
+  - "martial-arts"
+  - "заметки"
 ---
 
 Задачи дизайна черт по использованию доспехов:
@@ -48,7 +48,7 @@ You have learned the proper use of armor. You gain the following benefits:
 
 В случае если вы ее взяли два раза вы получаете владение всеми видами доспехов и щитами.
 
----
+* * *
 
 Черты Medium Armor Master, Heavy Armor Master заменяются на следующую черту
 

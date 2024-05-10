@@ -1,11 +1,11 @@
 ---
-title: 'Исследование: забытый столб пятой редакции'
-date: '2020-06-20'
-categories:
-  - 'articles'
-tags:
-  - 'exploration'
-  - 'заметки'
+title: "Исследование: забытый столб пятой редакции"
+date: "2020-06-20"
+categories: 
+  - "articles"
+tags: 
+  - "exploration"
+  - "заметки"
 ---
 
 Exploration
@@ -13,58 +13,58 @@ Exploration
 #### Environments
 
 - Dungeons (DMG p. 99)
-  - Random Dungeons (DMG p. 290)
+    - Random Dungeons (DMG p. 290)
 - Wilderness (DMG p. 106)
 - Settlements (DMG p. 112)
 - Unusual Environments (DMG p. 116)
-  - Underwater (DMG p. 116)
-  - The Sea (DMG p. 117)
-  - The Sky (DMG p. 119)
-  - Airborne and Waterborne Vehicles (DMG p. 119)
-    - Airship (example) (SKT p.132)
-    - Airship Travel (SKT p.68)
-  - Underdark Travel (OotA p. 18-21)
-    - Travel Pace
-    - Encounter Setup
-    - Noticing Threats
-    - Navigating
-    - Mapping
-    - Foraging
-    - Time-Keeping
-    - Faerzress
-  - Underdark Random Encounters
-    - Terrain Encounters (OotA p. 25)
-    - Creature Encounters (OotA p. 27)
-    - Dozens more for small areas.
+    - Underwater (DMG p. 116)
+    - The Sea (DMG p. 117)
+    - The Sky (DMG p. 119)
+    - Airborne and Waterborne Vehicles (DMG p. 119)
+        - Airship (example) (SKT p.132)
+        - Airship Travel (SKT p.68)
+    - Underdark Travel (OotA p. 18-21)
+        - Travel Pace
+        - Encounter Setup
+        - Noticing Threats
+        - Navigating
+        - Mapping
+        - Foraging
+        - Time-Keeping
+        - Faerzress
+    - Underdark Random Encounters
+        - Terrain Encounters (OotA p. 25)
+        - Creature Encounters (OotA p. 27)
+        - Dozens more for small areas.
 - Of Ships and the Sea (GoS p. 186-228)
-  - Ships
-  - Officers and Crew
-  - Superior Ship Upgrades
-  - Ships in Combat
-  - Travel at Sea
-    - Hazards
-      - Crew Conflicts
-      - Fire
-      - Fog
-      - Infestation
-      - Storm
-  - Ocean Environs
-  - Mysterious Islands
-  - Underwater Locations
+    - Ships
+    - Officers and Crew
+    - Superior Ship Upgrades
+    - Ships in Combat
+    - Travel at Sea
+        - Hazards
+            - Crew Conflicts
+            - Fire
+            - Fog
+            - Infestation
+            - Storm
+    - Ocean Environs
+    - Mysterious Islands
+    - Underwater Locations
 
 #### Mechanics
 
 - Exploration (DMG p. 242)
-  - Using a Map
-  - Special Travel Pace
-  - Visibility Outdoors
-  - Noticing Other Creatures
-  - Tracking
+    - Using a Map
+    - Special Travel Pace
+    - Visibility Outdoors
+    - Noticing Other Creatures
+    - Tracking
 - Activity While Traveling (PHB p. 182)
-  - Marching Order
-  - Stealth
-  - Noticing Threats
-  - Other Activities
+    - Marching Order
+    - Stealth
+    - Noticing Threats
+    - Other Activities
 - Adventuring Gear (PHB p. 148)
 - Tools (PHB p. 154)
 - Tool Components, Skills and Special Uses (XGtE p. 79-85)
@@ -77,24 +77,24 @@ Exploration
 - Food and Water (PHB p. 185)
 - Resting (PHB p. 186)
 - Sleep (XGtE p. 77-8)
-  - Waking Someone
-  - Sleeping in Armor
-  - Going Without a Long Rest
+    - Waking Someone
+    - Sleeping in Armor
+    - Going Without a Long Rest
 - Tying Knots (XGtE p. 78)
 - Creating Encounters (DMG p. 81)
-  - Urban Encounters (DMG p. 114)
+    - Urban Encounters (DMG p. 114)
 - Encounter Building (XGtE p. 88)
 - Random Encounters (DMG p. 85)
 - Mapping a Dungeon (DMG p. 102)
 - Mapping a Wilderness (DMG p.108)
 - Wilderness Features (DMG p. 108)
 - Wilderness Survival (DMG p. 109)
-  - Weather (DMG p. 109)
-  - Wilderness Hazards (DMG p. 110)
-  - Foraging (DMG p. 111)
-    - Foraging DCs
-    - Food and Water Needs
-  - Becoming Lost (DMG p. 111)
+    - Weather (DMG p. 109)
+    - Wilderness Hazards (DMG p. 110)
+    - Foraging (DMG p. 111)
+        - Foraging DCs
+        - Food and Water Needs
+    - Becoming Lost (DMG p. 111)
 - Traps (DMG p. 120)
 - Traps Revisited (XGtE p. 113-23)
 
@@ -153,7 +153,7 @@ Phandalin Region (Forgotten Realms)
 Dessarin Valley (Forgotten Realms)
 
 - Exploring the Valley (PotA p. 29)
-  - Travel
+    - Travel
 - Random Encounters (PotA p. 30)
 
 Savage Frontier (Forgotten Realms)
@@ -161,26 +161,28 @@ Savage Frontier (Forgotten Realms)
 - Peoples of the North (SKT p. 63)
 - Locations of the North (SKT p. 72)
 - Random Wilderness Encounters (SKT p.68)
-  - Random Encounters - Icewind Dale (SKT p. 93)
+    - Random Encounters - Icewind Dale (SKT p. 93)
 
 #### Unearthed Arcana
 
 - [UA: Into the Wild](https://media.wizards.com/2018/dnd/downloads/UA_IntoTheWild.pdf)
-  - Resolving Travel
-    - Choose Destination
-    - Choose Activities
-    - Resolve Activities and Travel
-    - Camp
-  - Describing the Wilds
-    - Mapping the Wilderness
-    - Tactical Terrain
-  Example Gazeteer: [https://twitter.com/mikemearls/status/1014587702392418306](https://twitter.com/mikemearls/status/1014587702392418306)
+    
+    - Resolving Travel
+        - Choose Destination
+        - Choose Activities
+        - Resolve Activities and Travel
+        - Camp
+    - Describing the Wilds
+        - Mapping the Wilderness
+        - Tactical Terrain
+    
+    Example Gazeteer: [https://twitter.com/mikemearls/status/1014587702392418306](https://twitter.com/mikemearls/status/1014587702392418306)
 - [UA: The Three Pillar Experience](https://media.wizards.com/2017/dnd/downloads/UA-ThreePillarXP.pdf)
 
 Articles, Blogs and third-party resources
 
 - TBD
 
----
+* * *
 
 Legend: DMG - Dungeon Master's Guide, GoS - Ghosts of Saltmarsh, LMoP - Lost Mines of Phandelver (D&D Starter Set), MM - Monster Manual, OotA - Out of the Abyss, PHB - Players Handbook, PotA - Princes of the Apocalypse, SKT - Storm King's Thunder, UA - Unearthed Arcana, VGtM - Volo's Guide to Monsters, XGtE - Xanathar's Guide to Everything,

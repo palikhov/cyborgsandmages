@@ -1,8 +1,8 @@
 ---
-title: 'Библиография Spelljammer по AD&D'
-date: '2022-07-25'
-categories:
-  - 'spelljammer'
+title: "Библиография Spelljammer по AD&D"
+date: "2022-07-25"
+categories: 
+  - "spelljammer"
 ---
 
 **#spelljammer #adnd**
@@ -16,20 +16,24 @@ categories:
 Boxed Sets
 
 - 1049 Spelljammer Adventures in Space
-  - The Concordance of Arcane Space
-  - Lorebook of the Void
+    
+    - The Concordance of Arcane Space
+    - Lorebook of the Void
 - 1065 The Legend of Spelljammer
-  - Legends and More
-  - Ships and Captains
-  - The Grand Tour
+    
+    - Legends and More
+    - Ships and Captains
+    - The Grand Tour
 - 1072 War Captain's Companion
-  - War Captain's Guide
-  - Ship Recognition Manual
-  - Combat Among the Stars
+    
+    - War Captain's Guide
+    - Ship Recognition Manual
+    - Combat Among the Stars
 - 1087 The Astromundi Cluster
-  - The Astrogator's Guide
-  - The Celestial Almanac
-  - Adventures in the Shattered Sphere
+    
+    - The Astrogator's Guide
+    - The Celestial Almanac
+    - Adventures in the Shattered Sphere
 
 Accessories
 

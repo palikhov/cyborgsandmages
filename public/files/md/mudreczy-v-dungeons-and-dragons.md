@@ -1,11 +1,11 @@
 ---
-title: 'Мудрецы в Dungeons and Dragons'
-date: '2022-07-19'
-categories:
-  - 'krossposty'
-  - 'translations-other'
-tags:
-  - 'translate'
+title: "Мудрецы в Dungeons and Dragons"
+date: "2022-07-19"
+categories: 
+  - "krossposty"
+  - "translations-other"
+tags: 
+  - "translate"
 ---
 
 #sages #translate

@@ -1,13 +1,13 @@
 ---
-title: 'Подземелье как экосистема'
-date: '2022-06-11'
-categories:
-  - 'translations-other'
-tags:
-  - '5e'
-  - 'dungeon'
-  - 'faction'
-  - 'longstoryshot'
+title: "Подземелье как экосистема"
+date: "2022-06-11"
+categories: 
+  - "translations-other"
+tags: 
+  - "5e"
+  - "dungeon"
+  - "faction"
+  - "longstoryshot"
 ---
 
 Создаём правдоподобные фракционные базы

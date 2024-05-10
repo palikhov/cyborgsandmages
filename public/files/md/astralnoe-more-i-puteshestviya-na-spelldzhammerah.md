@@ -1,13 +1,13 @@
 ---
-title: 'Астральное море и путешествия на спеллджаммерах'
-date: '2022-08-20'
-categories:
-  - 'homebrew'
-  - 'spelljammer'
-  - 'our-materials'
-tags:
-  - '5e'
-  - 'homebrew'
+title: "Астральное море и путешествия на спеллджаммерах"
+date: "2022-08-20"
+categories: 
+  - "homebrew"
+  - "spelljammer"
+  - "our-materials"
+tags: 
+  - "5e"
+  - "homebrew"
 ---
 
 **#spelljammer #astralsea #flow #5e #2e #conversion #homebrew #houserules #wildspace #arcanspace #voidships #voidjammers**

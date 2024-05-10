@@ -1,10 +1,10 @@
 ---
-title: 'Бестиарий - Персонажи | SRD 5.1'
-date: '2020-09-18'
-categories:
-  - 'srd-translate'
-tags:
-  - 'srd'
+title: "Бестиарий - Персонажи | SRD 5.1"
+date: "2020-09-18"
+categories: 
+  - "srd-translate"
+tags: 
+  - "srd"
 ---
 
 # Персонажи мастера

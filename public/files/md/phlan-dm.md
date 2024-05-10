@@ -1,19 +1,19 @@
 ---
-title: 'Phlan DM'
-date: '2018-03-13'
-categories:
-  - 'adventurers-league'
-  - 'homebrew'
-  - 'forgottenrealms'
-tags:
-  - 'forgotten-realms'
+title: "Phlan DM"
+date: "2018-03-13"
+categories: 
+  - "adventurers-league"
+  - "homebrew"
+  - "forgottenrealms"
+tags: 
+  - "forgotten-realms"
 ---
 
 ## Players Handouts
 
 [Лунное море](https://adventurersleague.wordpress.com/2018/03/13/лунное-море-moonsea/) [Флан](https://adventurersleague.wordpress.com/2018/03/13/флан/)
 
----
+* * *
 
 ## Важные места и местности / Important Locations
 
@@ -249,6 +249,6 @@ The Welcomers - Приветствующие
 
 Церковь Келемвора Проводник Мертвых - это титул, которым наделяются главы отдельных ячеек церкви Келемвора, фаэрунского бога мертвых и смерти. Данный титул обозначает не что всех следует обречь на немедленную смерть, а просто тот факт жизни, что жизнь любого смертного рано или поздно подходит к завершению и это естественный порядок вещей. Слуги Келемвора удостоверяются, что мертвые отправлены в последний путь с должным уважением, и помогают родственникам умерших. Для верующих в Келемвора превращение мертвого человека в нежить - самое ужасное кощунство, которое можно представить, и непростительное оскорбление неприкосновенности человека.
 
----
+* * *
 
 [Phlan on Adventurers League Wiki](https://adventurersleague.wikia.com/wiki/Phlan) [Phlan on Forgotten Realms Wiki](https://forgottenrealms.wikia.com/wiki/Phlan) [Phlan on Aerie Wiki](http://wiki.aerie.ru/wiki/Флан)

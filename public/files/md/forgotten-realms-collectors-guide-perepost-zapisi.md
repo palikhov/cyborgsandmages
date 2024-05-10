@@ -1,12 +1,12 @@
 ---
 title: "Forgotten Realms Collector's Guide (Перепост записи)"
-date: '2020-06-01'
-categories:
-  - 'krossposty'
+date: "2020-06-01"
+categories: 
+  - "krossposty"
 ---
 
-Оригинал: [https://www.enworld.org/threads/forgotten-realms-collectors-guide.332823/](https://www.enworld.org/threads/forgotten-realms-collectors-guide.332823/)
-
+Оригинал: [https://www.enworld.org/threads/forgotten-realms-collectors-guide.332823/](https://www.enworld.org/threads/forgotten-realms-collectors-guide.332823/)  
+  
 Welcome to the Forgotten Realms Collector's Guide!
 
 This is one of a series of Echohawk's D&D Collector's Guides, each of which aims to provide a comprehensive guide to D&D products published for a particular setting or era of the game. This particular guide focuses on the Forgotten Realms campaign setting, which was launched in 1987 and has been reasonable continuously supported ever since. The sheer volume and variety of game products, novels, computer games, comics, and everything else produced for the Forgotten Realms over the years is staggering, and this proved to be the most challenging Collector's Guide in the series, clocking in at more than twice the size of the Greyhawk Collector's Guide.
@@ -321,7 +321,7 @@ DN6: [Castle Grimstead](http://wizards.com/dnd/Product.aspx?x=dnd/products/dnda
 2: [Black Wizards](http://candlekeep.com/bookshelf/novels/8412.htm) (April 1988, [reprinted](http://candlekeep.com/bookshelf/novels/17617.htm) November 2004)  
 3: [Darkwell](http://candlekeep.com/bookshelf/novels/8416.htm) (March 1989, [reprinted](http://candlekeep.com/bookshelf/novels/17620.htm) December 2004)
 
-\[h=2\]Icewind Dale\[/h\] (also part of the *Legend of Drizzt* series)  
+\[h=2\]Icewind Dale\[/h\] (also part of the _Legend of Drizzt_ series)  
 1: [The Crystal Shard](http://candlekeep.com/bookshelf/novels/8411.htm) (January 1988)  
 2: [Streams of Silver](http://candlekeep.com/bookshelf/novels/8415.htm) (January 1989)  
 3: [The Halfling's Gem](http://candlekeep.com/bookshelf/novels/8484.htm) (January 1990)  
@@ -360,7 +360,7 @@ DN6: [Castle Grimstead](http://wizards.com/dnd/Product.aspx?x=dnd/products/dnda
 2: [Dragonwall](http://candlekeep.com/bookshelf/novels/8479.htm) (July 1990)  
 3: [Crusade](http://candlekeep.com/bookshelf/novels/8480.htm) (December 1990)
 
-\[h=2\]Dark Elf\[/h\] (also part of the *Legend of Drizzt* series)  
+\[h=2\]Dark Elf\[/h\] (also part of the _Legend of Drizzt_ series)  
 1: [Homeland](http://candlekeep.com/bookshelf/novels/8481.htm) (August 1990)  
 2: [Exile](http://candlekeep.com/bookshelf/novels/8482.htm) (November 1990)  
 3: [Sojourn](http://candlekeep.com/bookshelf/novels/8483.htm) (April 1991)  
@@ -369,21 +369,21 @@ DN6: [Castle Grimstead](http://wizards.com/dnd/Product.aspx?x=dnd/products/dnda
 
 \[h=2\]Harpers\[/h\]  
 1: [The Parched Sea](http://candlekeep.com/bookshelf/novels/8485.htm) (May 1991)  
-2: [Elfshadow](http://candlekeep.com/bookshelf/novels/8486.htm) (September 1991) (also part of *Songs & Swords*)  
+2: [Elfshadow](http://candlekeep.com/bookshelf/novels/8486.htm) (September 1991) (also part of _Songs & Swords_)  
 3: [Red Magic](http://candlekeep.com/bookshelf/novels/8487.htm) (October 1991)  
 4: [The Night Parade](http://candlekeep.com/bookshelf/novels/8492.htm) (April 1992)  
 5: [The Ring of Winter](http://candlekeep.com/bookshelf/novels/8493.htm) (October 1992)  
 6: [Crypt of the Shadowking](http://candlekeep.com/bookshelf/novels/8499.htm) (February 1993)  
 7: [Soldiers of Ice](http://candlekeep.com/bookshelf/novels/8540.htm) (October 1993)  
-8: [Elfsong](http://candlekeep.com/bookshelf/novels/8541.htm) (January 1994) (also part of *Songs & Swords*)  
-9: [Crown of Fire](http://candlekeep.com/bookshelf/novels/8543.htm) (March 1994) (also part of *Shandril's Saga*)  
+8: [Elfsong](http://candlekeep.com/bookshelf/novels/8541.htm) (January 1994) (also part of _Songs & Swords_)  
+9: [Crown of Fire](http://candlekeep.com/bookshelf/novels/8543.htm) (March 1994) (also part of _Shandril's Saga_)  
 10: [Masquerades](http://candlekeep.com/bookshelf/novels/8552.htm) (July 1995)  
 11: [Curse of the Shadowmage](http://candlekeep.com/bookshelf/novels/8556.htm) (November 1995)  
 12: [The Veiled Dragon](http://candlekeep.com/bookshelf/novels/8565.htm) (March 1996)  
-13: [Silver Shadows](http://candlekeep.com/bookshelf/novels/8566.htm) (May 1996) (also part of *Songs & Swords*)  
+13: [Silver Shadows](http://candlekeep.com/bookshelf/novels/8566.htm) (May 1996) (also part of _Songs & Swords_)  
 14: [Stormlight](http://candlekeep.com/bookshelf/novels/8567.htm) (October 1996)  
-15: [Finder's Bane](http://candlekeep.com/bookshelf/novels/8576.htm) (July 1997) (also listed as *Lost Gods* 1)  
-16: [Thornhold](http://candlekeep.com/bookshelf/novels/8584.htm) (August 1998) (also part of *Songs & Swords*)  
+15: [Finder's Bane](http://candlekeep.com/bookshelf/novels/8576.htm) (July 1997) (also listed as _Lost Gods_ 1)  
+16: [Thornhold](http://candlekeep.com/bookshelf/novels/8584.htm) (August 1998) (also part of _Songs & Swords_)  
 17: [Rise of the Blade](http://fiction.charlesmoffat.com/Rise-of-the-Blade.html) (eBook, July 2011)
 
 \[h=2\]Cleric Quintet\[/h\]  
@@ -399,7 +399,7 @@ DN6: [Castle Grimstead](http://wizards.com/dnd/Product.aspx?x=dnd/products/dnda
 2: [The Coral Kingdom](http://candlekeep.com/bookshelf/novels/8495.htm) (July 1992)  
 3: [The Druid Queen](http://candlekeep.com/bookshelf/novels/8496.htm) (July 1993)
 
-\[h=2\]Legacy of the Drow\[/h\] (also part of the *Legend of Drizzt* series)  
+\[h=2\]Legacy of the Drow\[/h\] (also part of the _Legend of Drizzt_ series)  
 1: [The Legacy](http://candlekeep.com/bookshelf/novels/8436.htm) (Hardcover August 1992, paperback August 1993, hardcover January 1996)  
 2: [Starless Night](http://candlekeep.com/bookshelf/novels/8542.htm) (Hardcover September 1993, paperback August 1994, hardcover February 1996)  
 3: [Siege of Darkness](http://candlekeep.com/bookshelf/novels/8545.htm) (Hardcover August 1994, paperback September 1995)  
@@ -455,7 +455,7 @@ DN6: [Castle Grimstead](http://wizards.com/dnd/Product.aspx?x=dnd/products/dnda
 3: [Death of the Dragon](http://candlekeep.com/bookshelf/novels/21637.htm) (Hardcover May 2000, paperback May 2001)
 
 \[h=2\]Lost Gods\[/h\]  
-1: [Finder's Bane](http://candlekeep.com/bookshelf/novels/8576.htm) (July 1997) (also listed as *Harpers* 15)  
+1: [Finder's Bane](http://candlekeep.com/bookshelf/novels/8576.htm) (July 1997) (also listed as _Harpers_ 15)  
 3: [Tymora's Luck](http://candlekeep.com/bookshelf/novels/8583.htm) (December 1997)
 
 \[h=2\]Double Diamond Triangle Saga\[/h\]  
@@ -478,7 +478,7 @@ DN6: [Castle Grimstead](http://wizards.com/dnd/Product.aspx?x=dnd/products/dnda
 \[h=2\]Paths of Darkness\[/h\]  
 [The Silent Blade](http://candlekeep.com/bookshelf/novels/8585.htm) (Hardcover October 1998, paperback June 1999)  
 [The Spine of the World](http://candlekeep.com/bookshelf/novels/21418.htm) (Hardcover September 1999, paperback June 2000)  
-[Servant of the Shard](http://candlekeep.com/bookshelf/novels/21657.htm) (Hardcover October 2000, paperback July 2001) (also part of *The Sellswords*)  
+[Servant of the Shard](http://candlekeep.com/bookshelf/novels/21657.htm) (Hardcover October 2000, paperback July 2001) (also part of _The Sellswords_)  
 [Sea of Swords](http://candlekeep.com/bookshelf/novels/21898.htm) (Hardcover October 2001, paperback August 2002)  
 [Paths of Darkness Collector's Edition](http://candlekeep.com/bookshelf/novels/96480.htm) (Hardcover February 2004, paperback August 2005)  
 [Paths of Darkness Gift Set](http://candlekeep.com/bookshelf/novels/17756.htm) (August 2004)
@@ -693,7 +693,7 @@ Blades of Moonsea Omnibus (August 2012?)
 \[h=2\]Ed Greenwood Presents Waterdeep\[/h\]  
 1: [Blackstaff Tower](http://wizards.com/dnd/Product.aspx?x=dnd/products/frnovel/218137400) (September 2008)  
 2: [Mistshore](http://wizards.com/dnd/Product.aspx?x=dnd/products/frnovel/217717400) (September 2008)  
-3: [Downshadow](http://wizards.com/dnd/Product.aspx?x=dnd/products/frnovel/240257400) (April 2009) (also part of the *Shadowbane* series)  
+3: [Downshadow](http://wizards.com/dnd/Product.aspx?x=dnd/products/frnovel/240257400) (April 2009) (also part of the _Shadowbane_ series)  
 4: [City of the Dead](http://wizards.com/dnd/Product.aspx?x=dnd/products/frnovel/240267400) (June 2009)  
 5: [The God Catcher](http://wizards.com/dnd/Product.aspx?x=dnd/products/frnovel/25355000) (February 2010)  
 6: [Circle of Skulls](http://wizards.com/dnd/Product.aspx?x=dnd/products/frnovel/25380000) (May 2010)  

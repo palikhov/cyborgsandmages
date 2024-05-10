@@ -1,10 +1,10 @@
 ---
-title: 'Когда фанат игровых стримов приходит за ваш стол'
-date: '2018-11-24'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Когда фанат игровых стримов приходит за ваш стол"
+date: "2018-11-24"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 Текст [John Carney](https://vk.com/away.php?to=https%3A%2F%2Fgnomestew.com%2Fauthor%2Feviljohn%2F&cc_key=) от November 9th, 2018

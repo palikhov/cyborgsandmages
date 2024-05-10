@@ -1,12 +1,12 @@
 ---
-title: 'Между заданиями'
-date: '2022-07-08'
-categories:
-  - 'angry'
-tags:
-  - 'angry-gm'
-  - 'angrygm'
-  - 'magic-items'
+title: "Между заданиями"
+date: "2022-07-08"
+categories: 
+  - "angry"
+tags: 
+  - "angry-gm"
+  - "angrygm"
+  - "magic-items"
 ---
 
 [https://theangrygm.com/between-jobs/](https://theangrygm.com/between-jobs/)

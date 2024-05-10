@@ -1,14 +1,14 @@
 ---
-title: 'Исследование гексов в 5E – Часть 4: Навигация'
-date: '2021-07-30'
-categories:
-  - 'alexandrian'
-  - 'переводы'
-tags:
-  - 'dungeons-as-suffering'
-  - 'перевод'
-  - 'hexcrawl'
-  - 'justin-alexander'
+title: "Исследование гексов в 5E – Часть 4: Навигация"
+date: "2021-07-30"
+categories: 
+  - "alexandrian"
+  - "переводы"
+tags: 
+  - "dungeons-as-suffering"
+  - "перевод"
+  - "hexcrawl"
+  - "justin-alexander"
 ---
 
 Текст Justin Alexander от 05 апреля 2021 года

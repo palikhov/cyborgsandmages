@@ -1,18 +1,18 @@
 ---
-title: 'Бард (архетип плута)'
-date: '2019-09-12'
-categories:
-  - 'articles'
-tags:
-  - 'bard'
-  - 'draft'
-  - 'low-fantasy-archetypes'
-  - 'rogue'
-  - 'roguish-archetype'
-  - 'архетипы-плута'
-  - 'бард'
-  - 'заметки'
-  - 'плут'
+title: "Бард (архетип плута)"
+date: "2019-09-12"
+categories: 
+  - "articles"
+tags: 
+  - "bard"
+  - "draft"
+  - "low-fantasy-archetypes"
+  - "rogue"
+  - "roguish-archetype"
+  - "архетипы-плута"
+  - "бард"
+  - "заметки"
+  - "плут"
 ---
 
 Архетип для плута - аналог барда не заклинателя.

@@ -1,10 +1,10 @@
 ---
-title: 'Легионы преисподней против орды из Бездны: демоны и дьяволы в мирах Dungeons & Dragons'
-date: '2020-06-17'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Легионы преисподней против орды из Бездны: демоны и дьяволы в мирах Dungeons & Dragons"
+date: "2020-06-17"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 Оригинал: [https://dtf.ru/boardgames/126835-legiony-preispodney-protiv-ordy-iz-bezdny-demony-i-dyavoly-v-mirah-dungeons-dragons](https://dtf.ru/boardgames/126835-legiony-preispodney-protiv-ordy-iz-bezdny-demony-i-dyavoly-v-mirah-dungeons-dragons)

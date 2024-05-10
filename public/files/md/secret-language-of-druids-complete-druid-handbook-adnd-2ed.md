@@ -1,17 +1,17 @@
 ---
-title: 'Секретный Язык Друидов [The Complete Druid’s Handbook AD&D 2ed]'
-date: '2021-12-04'
-categories:
-  - 'resources'
-tags:
-  - 'add-2ed'
-  - 'complete-druid-handbook'
-  - 'druid'
-  - 'druidic'
-  - 'languages'
-  - 'the-complete-druids-handbook'
-  - 'materials'
-  - 'translate'
+title: "Секретный Язык Друидов [The Complete Druid’s Handbook AD&D 2ed]"
+date: "2021-12-04"
+categories: 
+  - "resources"
+tags: 
+  - "add-2ed"
+  - "complete-druid-handbook"
+  - "druid"
+  - "druidic"
+  - "languages"
+  - "the-complete-druids-handbook"
+  - "materials"
+  - "translate"
 ---
 
 Все друиды могут разговаривать на секретном языке в дополнение к другим языкам, которые они знают.

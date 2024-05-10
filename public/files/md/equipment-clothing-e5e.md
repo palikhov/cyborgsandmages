@@ -1,12 +1,12 @@
 ---
-title: 'Снаряжение - Одежда | E5E'
-date: '2022-05-24'
-categories:
-  - 'e5e'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'homebrew'
+title: "Снаряжение - Одежда | E5E"
+date: "2022-05-24"
+categories: 
+  - "e5e"
+tags: 
+  - "5e"
+  - "e5e"
+  - "homebrew"
 ---
 
 **Дата:** 28.05.2022
@@ -15,23 +15,23 @@ tags:
 
 **Onedrive:** [E5E - EQUIPMENT - CLOTHING REV 02 28052022.docx](https://1drv.ms/w/s!Atcrhwwo1lBA19hQdVxchU7FQ9WW0A?e=DCuej2)
 
----
+* * *
 
 > Базовая версия правил не позволяла понять разницу в ношении разного вида одежды. Данное расширение правил позволяет как дать возможность увеличить количество ролевого взаимодействия за счет уточнения социальных характеристик персонажа из-за носимой одежды так и дать возможность увеличить эффективность персонажа за счет подготовки и планирования использования снаряжения.
->
+> 
 > Помимо базовых вариантов одежды также описаны одежды представителей различных профессий и социальных классов, специальные одежды и некоторые отдельные элементы одежды.
->
+> 
 > Одежда, равно как и другое снаряжение также обладает собственными свойствами.
->
+> 
 > При этом выделены таблицы для покупки одежды по частям.
->
+> 
 > Важно! Как и в случае с другими категориями, возможно что некоторые предметы будут описаны сразу в нескольких категориях. Например, тубус для свитков.
 
 ## Basic clothes
 
 Описание наборов одежды, представленной в базовых правилах.
 
-**Clothes\*\***,\*\* **Common\*\***.\*\* A set of common clothes includes simple garments like a tunic or shift, trousers, leggings, a cloak, a belt, simple shoes or boots, and various accessories. Common clothes have no fancy stitching or ornamentation.
+**Clothes****,** **Common****.** A set of common clothes includes simple garments like a tunic or shift, trousers, leggings, a cloak, a belt, simple shoes or boots, and various accessories. Common clothes have no fancy stitching or ornamentation.
 
 **Clothes, Costume.** This set of clothes is fashioned after a particular costume, typically meant for entertaining. A costume is a flamboyant set of clothes, typically used in acting productions to portray certain characters. Simple costumes can be interchangeable for various roles, but some costumes are so specific to a character that they cannot be used for any other role. If the role of the costume suits,
 
@@ -109,7 +109,7 @@ tags:
 
 Помимо полных наборов одежды внешний вид персонажей разнообразится также за счет различных дополнительных предметов, а обычные на первый взгляд вещи могут обладать дополнительными свойствами.
 
-**Ammo** **Bandolier\*\***.\*\* This simple leather cross-belt features twelve leather loops suitable for holding bullets or cannon shots, enabling easy access to them. A character can wear up to two bandoliers or braces.
+**Ammo** **Bandolier****.** This simple leather cross-belt features twelve leather loops suitable for holding bullets or cannon shots, enabling easy access to them. A character can wear up to two bandoliers or braces.
 
 **Armored Coat.** Consisting of a short leather jacket reinforced with hidden metal plates, the protective natur of these jackets can be overlooked. Traditionally, they are fitted with hidden pockets and wrist scabbards that can hold a dagger or other small weapon. This armor can be easily mistaken for normal clothing; any observer must succeed in a DC 15 Intelligence (Investigation) check to recognize the true nature of the armor.
 
@@ -152,25 +152,25 @@ tags:
 ## Clothes and outfit upgrades
 
 > С одеждой можно совершить также некоторые модификации.
->
-> **Hollow** **Boot** **Heel\*\***.\*\* A hollow boot heel unscrews from a boot like a jar lid to reveal the hidden space inside.
+> 
+> **Hollow** **Boot** **Heel****.** A hollow boot heel unscrews from a boot like a jar lid to reveal the hidden space inside.
 
-
+ 
 
 ## Individual items
 
 > При необходимости можно использовать также и индивидуальные предметы
 
+ 
 
-
-
+ 
 
 ## Дополнительные правила
 
 > Ключевые слова определяющие особенности предмета пишутся в круглых скобках после названия предмета.
->
+> 
 > Ключевые слова могут указывать на: организацию, статус, культуру. Например.
->
+> 
 > Noble outfit (Aristocratic, Waterdeep, House Rosznar)
 
 ## References and links
@@ -179,6 +179,6 @@ Arms&Equipment Guide (5e)
 
 Simple outfit system by Alexei Zhivtsov [Outfits — simple system — Киборги и Чародеи (cyborgsandmages.com)](https://cyborgsandmages.com/our-materials/notes/outfits-simple-system/)
 
----
+* * *
 
 Если вам есть что сказать, предложить — пишите в комментариях здесь или у нас на дискорд сервере.

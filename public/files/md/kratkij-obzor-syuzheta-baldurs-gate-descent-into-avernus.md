@@ -1,17 +1,17 @@
 ---
 title: "Краткий обзор сюжета Baldur's Gate: Descent into Avernus"
-date: '2019-09-05'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubrku'
+date: "2019-09-05"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubrku"
 ---
 
-> _Не труден доступ к Аверну -
-> Ночью раскрыты и днем ворота черного Дита -
-> Но шаги обратить и на вышний выбраться воздух -
+> _Не труден доступ к Аверну - 
+> Ночью раскрыты и днем ворота черного Дита - 
+> Но шаги обратить и на вышний выбраться воздух - 
 > Это есть труд, это - подвиг._
->
+> 
 > Вергилий. Энеида. Книга 6. 129 стих
 
 **ОСТОРОЖНО - ВПЕРЕДИ ЕСТЬ СПОЙЛЕРЫ.**
@@ -76,10 +76,10 @@ tags:
 
 Описаны культы Мертвой Троицы – Бейна, Баала и Миркула.
 
-Зариэль из Тома Врагов Морденкайнена - [https://media.wizards.com/2019/dnd/dragon/26/DRA26_Zariel.pdf](https://media.wizards.com/2019/dnd/dragon/26/DRA26_Zariel.pdf)
+Зариэль из Тома Врагов Морденкайнена - [https://media.wizards.com/2019/dnd/dragon/26/DRA26\_Zariel.pdf](https://media.wizards.com/2019/dnd/dragon/26/DRA26_Zariel.pdf)
 
-Характеристики Адских Боевых Машин - [https://media.wizards.com/2019/dnd/dragon/26/DRA26_warmachines.pdf](https://media.wizards.com/2019/dnd/dragon/26/DRA26_warmachines.pdf)
+Характеристики Адских Боевых Машин - [https://media.wizards.com/2019/dnd/dragon/26/DRA26\_warmachines.pdf](https://media.wizards.com/2019/dnd/dragon/26/DRA26_warmachines.pdf)
 
-Правила по погоням на машинах - [https://media.wizards.com/2019/dnd/dragon/26/DRA26_warmachine_chases.pdf](https://media.wizards.com/2019/dnd/dragon/26/DRA26_warmachine_chases.pdf)
+Правила по погоням на машинах - [https://media.wizards.com/2019/dnd/dragon/26/DRA26\_warmachine\_chases.pdf](https://media.wizards.com/2019/dnd/dragon/26/DRA26_warmachine_chases.pdf)
 
 **Самое главное что стоит помнить – что Пелор, Бог Солнца из Оэрта, в чьей свите и была Зариэль до сих пор верит, что ее возможно спасти. Возможно, это удастся именно вам?**

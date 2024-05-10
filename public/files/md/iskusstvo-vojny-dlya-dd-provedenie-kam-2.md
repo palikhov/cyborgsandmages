@@ -1,17 +1,17 @@
 ---
-title: 'Искусство войны для D&D — Проведение кампании'
-date: '2020-01-06'
-categories:
-  - 'resources'
-tags:
-  - '5e'
-  - 'equipment'
-  - 'gear'
-  - 'homebrew'
-  - 'strategy'
-  - 'materials'
-  - 'translate'
-  - 'снаряжение'
+title: "Искусство войны для D&D — Проведение кампании"
+date: "2020-01-06"
+categories: 
+  - "resources"
+tags: 
+  - "5e"
+  - "equipment"
+  - "gear"
+  - "homebrew"
+  - "strategy"
+  - "materials"
+  - "translate"
+  - "снаряжение"
 ---
 
 _отрывок **THE ART OF WAR FOR D&D PLAYERS**_

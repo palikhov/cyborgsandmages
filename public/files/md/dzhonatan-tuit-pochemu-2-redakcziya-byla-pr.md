@@ -1,10 +1,10 @@
 ---
-title: 'Джонатан Туит: Почему 2 редакция была провалом и как создавалась 3 редакция D&D'
-date: '2019-06-09'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Джонатан Туит: Почему 2 редакция была провалом и как создавалась 3 редакция D&D"
+date: "2019-06-09"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 Истинные фанаты D&D должны знать имя Джонатана Туита. Именно благодаря этому человеку свет увидела третья редакция системы, а также другие популярные игровые системы — Ars Magica, 13th Age и другие.
@@ -31,4 +31,4 @@ tags:
 
 Постепенно мое участие в разработке третьей редакции D&D выросло. Я начинал работать над параллельным проектом для начинающих, а закончил в команде дизайнеров, а затем стал руководителем этой команды.
 
-[https://vk.com/@dnd_for_all-dzhonatan-tuit-pochemu-2-redakciya-dd-byla-provalom](https://vk.com/@dnd_for_all-dzhonatan-tuit-pochemu-2-redakciya-dd-byla-provalom)
+[https://vk.com/@dnd\_for\_all-dzhonatan-tuit-pochemu-2-redakciya-dd-byla-provalom](https://vk.com/@dnd_for_all-dzhonatan-tuit-pochemu-2-redakciya-dd-byla-provalom)

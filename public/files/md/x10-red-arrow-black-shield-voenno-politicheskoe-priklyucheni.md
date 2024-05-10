@@ -1,13 +1,13 @@
 ---
-title: 'X10 Red Arrow, Black Shield. Военно-политическое приключение'
-date: '2020-08-07'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "X10 Red Arrow, Black Shield. Военно-политическое приключение"
+date: "2020-08-07"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
-Это перепост записи [https://vk.com/@osr_syndrome-x10-red-arrow-black-shield-voenno-politicheskoe-prikluchenie](https://vk.com/@osr_syndrome-x10-red-arrow-black-shield-voenno-politicheskoe-prikluchenie)
+Это перепост записи [https://vk.com/@osr\_syndrome-x10-red-arrow-black-shield-voenno-politicheskoe-prikluchenie](https://vk.com/@osr_syndrome-x10-red-arrow-black-shield-voenno-politicheskoe-prikluchenie)
 
 Каждый набор из линейки BECMI обязательно сопровождался целой серией игровых модулей под собственным кодом (B — Basic, X — eXpert и так далее). Многие из этих приключений представляют собой немалый интерес, поскольку призваны продемонстрировать новые аспекты игры, вводящиеся в соответствующем наборе.
 
@@ -223,6 +223,6 @@ _«Ведущему следует как можно эффективнее уп
 
 В X10 есть свои промахи — в основном, связанные с попытками устроить как можно более эпичную и зрелищную концовку по законам жанра. Но всё искупает богатство возможностей, подход к политическому и военному аспекту игры, удачные находки вроде городских схем. Рекомендую к ознакомлению.
 
-Эта статья написана благодаря поддержке моих патронов: Глеб Гончаренко, Sergey Pomerantsev, Anonim, meat_eater, Evgeny Ledovskikh.
+Эта статья написана благодаря поддержке моих патронов: Глеб Гончаренко, Sergey Pomerantsev, Anonim, meat\_eater, Evgeny Ledovskikh.
 
 [Подземельный синдром](https://vk.com/osr_syndrome)

@@ -1,12 +1,12 @@
 ---
-title: 'Человеческие этносы в Фаэруне'
-date: '2018-03-13'
-categories:
-  - 'homebrew'
-  - 'forgottenrealms'
-tags:
-  - '5e'
-  - 'forgotten-realms'
+title: "Человеческие этносы в Фаэруне"
+date: "2018-03-13"
+categories: 
+  - "homebrew"
+  - "forgottenrealms"
+tags: 
+  - "5e"
+  - "forgotten-realms"
 ---
 
 ### Human Ethnicities in Faerûn

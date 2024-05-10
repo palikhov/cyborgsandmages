@@ -1,26 +1,26 @@
 ---
-title: 'Оружейное мастерство (конверсия с изменениями)'
-date: '2022-06-10'
-categories:
-  - 'homebrew'
-  - 'our-materials'
-  - 'hb-rules'
-tags:
-  - '5e'
-  - 'becmi'
-  - 'conversion'
-  - 'downtime'
-  - 'e5e'
-  - 'weapon'
-  - 'weapon-mastery'
-  - 'weapon-proficiency'
-  - 'weapon-property'
-  - 'weapon-technique'
+title: "Оружейное мастерство (конверсия с изменениями)"
+date: "2022-06-10"
+categories: 
+  - "homebrew"
+  - "our-materials"
+  - "hb-rules"
+tags: 
+  - "5e"
+  - "becmi"
+  - "conversion"
+  - "downtime"
+  - "e5e"
+  - "weapon"
+  - "weapon-mastery"
+  - "weapon-proficiency"
+  - "weapon-property"
+  - "weapon-technique"
 ---
 
 # Оружейное мастерство (конверсия с изменениями)
 
-
+ 
 
 В BECMI была представлена система оружейного мастерства, которая вводила уровни владения оружием. С некоторыми изменениями эта система также была в AD&D, D&D 3.5
 
@@ -67,7 +67,7 @@ tags:
 
 Проверка Интеллекта также получает бонусы от уровня затрат на поддержание существования (lifestyle) и размера поселения и бонуса от известности персонажа.
 
-
+ 
 
 <table><tbody><tr><td width="208"><strong>Lifestyle</strong></td><td width="208"><strong>Check modifier</strong></td><td width="208"><strong>Additional cost</strong></td></tr><tr><td width="208">Wretched</td><td width="208">-3</td><td width="208">0</td></tr><tr><td width="208">Squalid</td><td width="208">-2</td><td width="208">1 cp</td></tr><tr><td width="208">Poor</td><td width="208">-1</td><td width="208">1 sp</td></tr><tr><td width="208">Modest</td><td width="208">0</td><td width="208">1 ep</td></tr><tr><td width="208">Comfortable</td><td width="208">+1</td><td width="208">1 gp</td></tr><tr><td width="208">Wealthy</td><td width="208">+2</td><td width="208">5 gp</td></tr><tr><td width="208">Aristocratic</td><td width="208">+3</td><td width="208">10 gp</td></tr></tbody></table>
 
@@ -95,7 +95,7 @@ tags:
 
 Associated Weapons – Bardiche, Bill, Glaive, Guisarme, Halberd, Lance, Lochaber Axe, Partisan, Pike, Poleaxe, Ranseur, Spetum, Spontoon, Voulge,
 
-
+ 
 
 **Weapon Ability – Defensive –** If you spend your bonus action this round on this quality you gain a bonus for your armour class until the start of your next round as long as you still have your reaction. Each level above skilled adds +1 WM Bonus to the Shield bonus provided.
 
@@ -103,7 +103,7 @@ Associated Weapons – Bardiche, Bill, Glaive, Guisarme, Halberd, Lance, Lochabe
 
 Associated Weapons – Bardiche, Bastard Sword, Battleaxe, Bill, Bola, Club, Flail, Glaive, Greataxe, Greatclub, Greatsword, Guisarme, Halberd, Handaxe, Heavy Crossbow, Heavy Shield, Horned Shield, Lance, Light Crossbow, Light Hammer, Light Shield, Lochaber Axe, Longbow, Longsword, Mace, Medium Shield, Morningstar, Net, Partisan, Pike, Poleaxe, Quarterstaff, Ranseur, Rapier, Scimitar, Scythe, Shortbow, Shortsword, Sling, Spetum, Tower Shield, Tusked Shield, Voulge, Warhammer,
 
-
+ 
 
 **Weapon Ability – Deflect –** If you spend your bonus action this round on this quality, you can attempt to deflect attacks with your weapon. Your Base DC becomes your armour class against ranged or melee weapons of your size or smaller until the start of your next round while you still have a reaction. If an attack would have hit you, but is lower than your Base DC, you deflect the attack and your weapon takes half the damage. Each level above skilled adds +1 WM Bonus to the Base DC. (Magical Implements don’t take damage from spells or use up their reactions when deflecting spells)
 
@@ -115,7 +115,7 @@ Associated Weapons – Bardiche, Bastard Sword, Battleaxe, Bill, Bola, Club, Fla
 
 Associated Weapons – Bardiche, Bastard Sword, Bill, Club, Flail, Glaive, Greataxe, Greatclub, Greatsword, Guisarme, Halberd, Heavy Shield, Light Shield, Lochaber Axe, Longsword, Medium Shield, Partisan, Pike, Poleaxe, Quarterstaff, Ranseur, Rapier, Scimitar, Scythe, Shortsword, Spetum, Staff, Tower Shield, Voulge, Wand, Warpick,
 
-
+ 
 
 ### Опции оружия – Пика (древковое)
 
@@ -123,25 +123,25 @@ Associated Weapons – Bardiche, Bastard Sword, Bill, Club, Flail, Glaive, Great
 
 Associated Weapon – Bill, Dagger, Halberd, Horned Shield, Knife Shield, Partisan, Pike, Poleaxe, Ranseur, Rapier, Spear, Spetum, Spontoon, Trident, Tusked Shield, Warpick
 
-
+ 
 
 **Grinding Halt (Reaction Option)** Whenever you must make a Strength saving throw to avoid being moved against your will and you fail the check, you can dig the weapon into the ground as a reaction. If your weapons Base DC equals or exceeds the DC of the saving throw you succeed. If the effect pushing you does not have a saving throw, you move 5ft fewer.
 
 Associated Weapons – Bardiche, Bill, Glaive, Guisarme, Halberd, Lochaber Axe, Partisan, Pike, Poleaxe, Ranseur, Spear, Spetum, Spontoon, Trident, Unarmed or Natural
 
-
+ 
 
 **Phalanx (Attack Stance)** If you are adjacent to at least two other phalanx trained and equipped allies, your attacks attacks have advantage, you deal an extra dice of damage and your have a +1 teamwork bonus to your Armour Class.
 
 Associated Weapons – Bardiche, Bill, Glaive, Guisarme, Halberd, Lance, Lochaber Axe, Partisan, Pike, Poleaxe, Ranseur, Spear, Spetum, Spontoon, Trident
 
-
+ 
 
 **Rebuff (Attack Option)** As an attack while you are wielding a polearm, you may use the haft of your weapon to rebuff up to two adjacent creatures. Make a single attack roll against one or two adjacent creatures within 5ft of you. If the attack hits either target, you push it up to 10ft away from you.
 
 Associated Weapons – Bardiche, Bill, Glaive, Guisarme, Halberd, Lochaber Axe, Partisan, Pike, Poleaxe, Ranseur, Spetum, Spontoon
 
-
+ 
 
 **Unmount (Attack Option)** As an attack while wielding this polearm, you may make a melee attack against a mounted creature. If the attack hits, the target must make a Prone Saving Throw.
 
@@ -149,13 +149,13 @@ Prone Saving Throw – Strength vs Base DC. On a failure, the target is dismount
 
 Associated Weapons – Bardiche, Bill, Glaive, Guisarme, Halberd, Lochaber Axe, Partisan, Pike, Poleaxe, Ranseur, Spear, Spetum, Spontoon
 
-
+ 
 
 **Vault (Action and Attack Option)** You can use your weapon as an action to double the length of your long jump, allowing you to leap a number of feet up to twice your Strength score (this jump is part of your movement). If you land adjacent to a creature at the end of this jump, you can make a single attack with your weapon as part of this action.
 
 Associated Weapons – Bardiche, Bill, Glaive, Guisarme, Halberd, Lochaber Axe, Partisan, Pike, Poleaxe, Quarterstaff, Ranseur, Spear, Spetum, Spontoon, Trident
 
-
+ 
 
 **Weapon Ability – Heavy** – Attacks are at disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a non-proficient creature to use effectively.
 
@@ -165,19 +165,19 @@ Associated Weapons – Bardiche, Bill, Glaive, Guisarme, Halberd, Lochaber Axe, 
 
 Associated Weapons – Bardiche, Bill, Glaive, Greataxe, Greatsword, Guisarme, Halberd, Heavy Crossbow, Lochaber Axe, Longbow, Maul, Partisan, Pike, Poleaxe, Ranseur, Voulge,
 
-
+ 
 
 **Weapon Ability – Reach** – This weapon can reach targets in the listed distance when you attack with it.
 
 Associated Weapons – Bardiche, Bill, Glaive, Guisarme, Halberd, Lance, Lasso, Lochaber Axe, Partisan, Pike, Poleaxe, Ranseur, Spetum, Voulge,
 
-
+ 
 
 **Weapon Ability – Set** – As a reaction, a wilder can set this weapon against a charging foe, receiving a free attack which if it hits, is granted an extra dice of damage. The target must also make a Strength saving throw vs Base DC or be knocked prone (also dismounted if mounted).
 
 Associated Weapons – Bardiche, Bill, Glaive, Guisarme, Halberd, Lochaber Axe, Partisan, Pike, Poleaxe, Ranseur, Spear, Spetum, Spontoon, Voulge,
 
-
+ 
 
 **Weapon Ability – Two-Handed** – If your not proficient in the weapon, this weapon is used with Disadvantage. Your required to use two hands to use this weapon.
 
@@ -190,63 +190,63 @@ Associated Weapons – Bardiche, Bill, Blowgun 2H, Glaive, Greataxe, Greatclub, 
 ### Статистики оружия при разном оружейном мастерстве
 
 > Pike Attack: (Non-Proficient) + to hit, Heavy, Two Handed, one target
->
+> 
 > Hit: 1d6+mod Piercing.
->
+> 
 > Pike Attack: (Proficient) + to hit, Charge, Heavy, Reach (5 ft), Set, Two Handed, one target
->
+> 
 > Hit: 2d6+mod Piercing + Charge
->
+> 
 > (F) Charge – If you move 20 ft in a straight line before attacking all hits are treated as a Crit
->
+> 
 > (R) Set – Get a free attack against a charging foe, if it hits, score double damage
->
+> 
 > Pike Attack: (Skilled) + to hit, Charge, Heavy, Reach (5 ft), Set, Two Handed, one target
->
+> 
 > Hit: 3d6+mod Piercing + Charge
->
+> 
 > (F) Charge – If you move 20 ft in a straight line before attacking all hits are treated as a Crit
->
+> 
 > (R) Set – Get a free attack against a charging foe, if it hits, score double damage
->
+> 
 > (B) AC Defence (+1/2) – You gain an armour class bonus, for a set number of attacks each round.
->
+> 
 > (B) Deflect (1) – Before an attack is made you can choose to deflect several attacks instead using your attack roll instead of your AC.
->
+> 
 > Pike Attack: (Expert) + to hit, Charge, Heavy, Reach (5 ft), Set, Two Handed, one target
->
+> 
 > Hit: 2d8+mod Piercing + Charge
->
+> 
 > (F) Charge – If you move 20 ft in a straight line before attacking all hits are treated as a Crit
->
+> 
 > (R) Set – Get a free attack against a charging foe, if it hits, score double damage
->
+> 
 > (B) AC Defence (+1/3) – You gain an armour class bonus, for a set number of attacks each round.
->
+> 
 > (B) Deflect (1) – Before an attack is made you can choose to deflect several attacks instead using your attack roll instead of your AC.
->
+> 
 > Pike Attack: (Master) + to hit, Charge, Heavy, Reach (5 ft), Set, Two Handed, one target
->
+> 
 > Hit: 2d10+mod Piercing + Charge
->
+> 
 > (F) Charge – If you move 20 ft in a straight line before attacking all hits are treated as a Crit
->
+> 
 > (R) Set – Get a free attack against a charging foe, if it hits, score double damage
->
+> 
 > (B) AC Defence (+2/4) – You gain an armour class bonus, for a set number of attacks each round.
->
+> 
 > (B) Deflect (2) – Before an attack is made you can choose to deflect several attacks instead using your attack roll instead of your AC.
->
+> 
 > Pike Attack: (Grand Master) + to hit, Charge, Heavy, Reach (5 ft), Set, Two Handed, one target
->
+> 
 > Hit: 2d12+mod Piercing + Charge
->
+> 
 > (F) Charge – If you move 20 ft in a straight line before attacking all hits are treated as a Crit
->
+> 
 > (R) Set – Get a free attack against a charging foe, if it hits, score double damage
->
+> 
 > (B) AC Defence (+2/5) – You gain an armour class bonus, for a set number of attacks each round.
->
+> 
 > (B) Deflect (2) – Before an attack is made you can choose to deflect several attacks instead using your attack roll instead of your AC.
 
 # Предлагаемая система
@@ -275,15 +275,15 @@ Associated Weapons – Bardiche, Bill, Blowgun 2H, Glaive, Greataxe, Greatclub, 
 
 [E5E appendix weapon mastery ver001 10062022](https://cyborgsandmages.com/2our-materials/homebrew/e5e-weapon-mastery-system-conversion/attachment/e5e-appendix-weapon-mastery-ver001-10062022/)
 
+ 
 
-
-
+ 
 
 **Начальные навыки оружейного мастерства**
 
 <table><tbody><tr><td width="208"><strong>Класс</strong></td><td width="208"><strong>Начальное владение оружием</strong></td><td width="208"><strong>Начальное оружейное мастерство</strong></td></tr><tr><td width="208">Варвар</td><td width="208">Простое и Воинское</td><td width="208">2, Специалист</td></tr><tr><td width="208">Бард</td><td width="208">Простое, 4 воинских оружия</td><td width="208">-</td></tr><tr><td width="208">Клерик</td><td width="208">Простое</td><td width="208">-</td></tr><tr><td width="208">Друид</td><td width="208">10 простых и 3 воинских</td><td width="208">-</td></tr><tr><td width="208">Боец</td><td width="208">Простое и Воинское</td><td width="208">4, Специалист</td></tr><tr><td width="208">Монах</td><td width="208">Простое, короткий меч</td><td width="208">-</td></tr><tr><td width="208">Паладин</td><td width="208">Простое и Воинское</td><td width="208">2, Специалист</td></tr><tr><td width="208">Плут</td><td width="208">Простое, 4 воинских оружия</td><td width="208">-</td></tr><tr><td width="208">Рейнджер</td><td width="208">Простое и Воинское</td><td width="208">2, Специалист</td></tr><tr><td width="208">Чародей</td><td width="208">5 простых</td><td width="208">-</td></tr><tr><td width="208">Колдун</td><td width="208">Простое</td><td width="208">-</td></tr><tr><td width="208">Волшебник</td><td width="208">5 простых</td><td width="208">-</td></tr></tbody></table>
 
-
+ 
 
 **Получение навыков оружейного мастерства при получении уровней**
 
@@ -299,7 +299,7 @@ Associated Weapons – Bardiche, Bill, Blowgun 2H, Glaive, Greataxe, Greatclub, 
 
 **_Остальные расы_** – два оружия особой значимости, при наличии владения оружием - – оружейное мастерство на уровне Специалист.
 
-
+ 
 
 **Использование времени простоя для изучения навыков оружейного мастерства**
 
@@ -307,19 +307,19 @@ Associated Weapons – Bardiche, Bill, Blowgun 2H, Glaive, Greataxe, Greatclub, 
 
 **Использование времени простоя для изучения владения оружием**
 
-
+ 
 
 **Осложнения связанные с обучением оружейному** **мастерству**
 
 <table><tbody><tr><td width="312"><strong>К6</strong></td><td width="312"><strong>Осложнения (* Могут быть связаны с соперником)</strong></td></tr><tr><td width="312">1</td><td width="312">Ваш учитель исчезает, заставляя вас искать нового. *</td></tr><tr><td width="312">2</td><td width="312">Ваш учитель — шпион, посланный узнать о ваших планах. *</td></tr><tr><td width="312">3</td><td width="312">Ваш учитель жестокий надсмотрщик.</td></tr><tr><td width="312">4</td><td width="312">Ваш учитель обучает вас редким, архаичным методам, которые вызывают комментарии у других.</td></tr><tr><td width="312">5</td><td width="312">Ваш учитель находится в розыске.</td></tr><tr><td width="312">6</td><td width="312">Ваш учитель просит помочь справиться с угрозой.</td></tr></tbody></table>
 
-
+ 
 
 **Связанные черты**
 
 **Перечень свойств оружия**
 
-
+ 
 
 **Перечень оружейных приемов**
 

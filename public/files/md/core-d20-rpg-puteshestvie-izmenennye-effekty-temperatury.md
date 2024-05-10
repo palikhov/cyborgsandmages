@@ -1,15 +1,15 @@
 ---
-title: '[Core d20 RPG] Путешествие. Измененные эффекты температуры.'
-date: '2023-02-21'
-categories:
-  - 'cored20rpg'
-  - 'e5e'
-tags:
-  - '5e'
-  - 'core-d20-rpg'
-  - 'e5e'
-  - 'hexcrawl'
-  - 'travel'
+title: "[Core d20 RPG] Путешествие. Измененные эффекты температуры."
+date: "2023-02-21"
+categories: 
+  - "cored20rpg"
+  - "e5e"
+tags: 
+  - "5e"
+  - "core-d20-rpg"
+  - "e5e"
+  - "hexcrawl"
+  - "travel"
 ---
 
 #e5e #cored20rpg #dnd #5e #hexcrawl #weather #exploration #travel #temperature

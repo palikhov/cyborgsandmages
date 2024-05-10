@@ -1,10 +1,10 @@
 ---
-title: 'Ремикс Александриана - Вотердип - драконий куш'
-date: '2022-11-11'
-categories:
-  - 'articles'
-tags:
-  - 'translate'
+title: "Ремикс Александриана - Вотердип - драконий куш"
+date: "2022-11-11"
+categories: 
+  - "articles"
+tags: 
+  - "translate"
 ---
 
 ### 1 OneNote
@@ -63,7 +63,11 @@ tags:
 
 ### 1 OneNote
 
-[·](https://1drv.ms/u/s!Atcrhwwo1lBAvdUnzXjdcYiyHWtEBw?e=eJYe9I) **Просмотреть ONENOTE - WATERDEEP**   [**https://1drv.ms/u/s!Atcrhwwo1lBAvdUnzXjdcYiyHWtEBw?e=eJYe9Ihttps://1drv.ms/u/s!Atcrhwwo1lBAvdUnzXjdcYiyHWtEBw?e=eJYe9I**](https://1drv.ms/u/s!Atcrhwwo1lBAvdUnzXjdcYiyHWtEBw?e=eJYe9Ihttps://1drv.ms/u/s!Atcrhwwo1lBAvdUnzXjdcYiyHWtEBw?e=eJYe9I)
+[·](https://1drv.ms/u/s!Atcrhwwo1lBAvdUnzXjdcYiyHWtEBw?e=eJYe9I) **Просмотреть ONENOTE - WATERDEEP**   [**https://1drv.ms/u/s!Atcrhwwo1lBAvdUnzXjdcYiyHWtEBw?e=eJYe9Ihttps://1drv.ms/u/s!Atcrhwwo1lBAvdUnzXjdcYiyHWtEBw?e=eJYe9I**](https://1drv.ms/u/s!Atcrhwwo1lBAvdUnzXjdcYiyHWtEBw?e=eJYe9Ihttps://1drv.ms/u/s!Atcrhwwo1lBAvdUnzXjdcYiyHWtEBw?e=eJYe9I) 
+
+  
+
+  
 
 · [**Схема организации Дозора Уотердипа**](https://cyborgsandmages.com/2022/07/%d1%81%d1%85%d0%b5%d0%bc%d0%b0-%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d0%b8-%d0%b4%d0%be%d0%b7%d0%be%d1%80%d0%b0-%d1%83%d0%be%d1%82%d0%b5%d1%80%d0%b4%d0%b8%d0%bf%d0%b0/)
 
@@ -72,6 +76,10 @@ tags:
 · [Перевод ремикса Драконьего Куша от Александриана](https://cyborgsandmages.com/2022/05/%d0%9f%d0%b5%d1%80%d0%b5%d0%b2%d0%be%d0%b4-%d1%80%d0%b5%d0%bc%d0%b8%d0%ba%d1%81%d0%b0-%d0%94%d1%80%d0%b0%d0%ba%d0%be%d0%bd%d1%8c%d0%b5%d0%b3%d0%be-%d0%9a%d1%83%d1%88%d0%b0-%d0%be%d1%82-%d0%90%d0%bb/)
 
 · [Дополнительные энкаунтеры, предсозданные персонажи и иллюстрации для Waterdeep Dragon Heist Platinum Edition](https://cyborgsandmages.com/2019/03/%d0%b4%d0%be%d0%bf%d0%be%d0%bb%d0%bd%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d1%8d%d0%bd%d0%ba%d0%b0%d1%83%d0%bd%d1%82%d0%b5%d1%80%d1%8b-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d0%be%d0%b7%d0%b4/)
+
+  
+
+  
 
 **\===============================================**
 
@@ -97,6 +105,8 @@ tags:
 
 Наш сайт [https://cyborgsandmages.com/](https://cyborgsandmages.com/)
 
+  
+
 ### 5 РЕСУРСЫ
 
 Это файлы, в которых я собираю полезные ссылки как для мастеров так и для игроков.
@@ -105,7 +115,7 @@ tags:
 
 ### 1 Общие ресурсы
 
-[https://docs.google.com/document/d/1kTmUlLBEBorm8O4o6HnZEhUb3-\_pazgNMUig6nkwr_w/edit?usp=sharing](https://docs.google.com/document/d/1kTmUlLBEBorm8O4o6HnZEhUb3-_pazgNMUig6nkwr_w/edit?usp=sharing)
+[https://docs.google.com/document/d/1kTmUlLBEBorm8O4o6HnZEhUb3-\_pazgNMUig6nkwr\_w/edit?usp=sharing](https://docs.google.com/document/d/1kTmUlLBEBorm8O4o6HnZEhUb3-_pazgNMUig6nkwr_w/edit?usp=sharing)
 
 ### 2 Ресурсы для игроков
 

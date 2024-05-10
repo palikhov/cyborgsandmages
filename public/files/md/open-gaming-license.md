@@ -1,12 +1,12 @@
 ---
-title: 'Open Gaming License - Открытая игровая лицензия'
-date: '2019-08-28'
-categories:
-  - 'articles'
-tags:
-  - 'ogl'
-  - 'заметки'
-  - 'translate'
+title: "Open Gaming License - Открытая игровая лицензия"
+date: "2019-08-28"
+categories: 
+  - "articles"
+tags: 
+  - "ogl"
+  - "заметки"
+  - "translate"
 ---
 
 ПРАВОВАЯ ИНФОРМАЦИЯ

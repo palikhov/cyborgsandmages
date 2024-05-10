@@ -1,16 +1,16 @@
 ---
-title: 'Симуляционно-иммерсивная ролевая игра: физика, случайность и сюжетная броня'
-date: '2022-12-17'
-categories:
-  - 'krossposty'
-  - 'translations'
+title: "Симуляционно-иммерсивная ролевая игра: физика, случайность и сюжетная броня"
+date: "2022-12-17"
+categories: 
+  - "krossposty"
+  - "translations"
 ---
 
 **#theory #crosspost #translate**
 
 **Механика - это физика**
 
-[https://www.rpg.net/columns/talesfromtherockethouse/talesfromtherockethouse53.phtml](https://vk.com/away.php?to=https%3A%2F%2Fwww.rpg.net%2Fcolumns%2Ftalesfromtherockethouse%2Ftalesfromtherockethouse53.phtml&cc_key= 'https://www.rpg.net/columns/talesfromtherockethouse/talesfromtherockethouse53.phtml')
+[https://www.rpg.net/columns/talesfromtherockethouse/talesfromtherockethouse53.phtml](https://vk.com/away.php?to=https%3A%2F%2Fwww.rpg.net%2Fcolumns%2Ftalesfromtherockethouse%2Ftalesfromtherockethouse53.phtml&cc_key= "https://www.rpg.net/columns/talesfromtherockethouse/talesfromtherockethouse53.phtml")
 
 **В начале?**
 
@@ -36,7 +36,7 @@ categories:
 
 Например: в некоторых играх прыжок с пятого этажа здания приводит лишь к незначительным травмам. Так почему бы не спрыгнуть, если это единственный способ поймать плохого парня? Очевидно, что ни один здравомыслящий человек не станет этого делать, потому что падение с пятиэтажного здания действительно опасно. Но если персонаж (полностью человеческий, не супергеройский) может отмахнуться от этого, это выводит игрока из состояния погружения.
 
-Все может пойти в другом направлении, если все слишком смертельно опасно. Три слова: *коты. против. простолюдинов*.
+Все может пойти в другом направлении, если все слишком смертельно опасно. Три слова: _коты. против. простолюдинов_.
 
 **Механика сама по себе**
 
@@ -136,6 +136,6 @@ categories:
 
 Но если вы привыкли к чему-то настолько же жесткому, как World of Darkness (без сплэтов, в которых, как правило, вводилась тонна дополнительных правил) или Buffy, или даже более легкому, как FUDGE, то это тоже прекрасно. До тех пор, пока вы сохраняете основные цели симуляционно-иммерсивной ролевой игры: аутентичный мир, где все происходит по внутренним причинам (даже рандомизация), и не манипулируется ради драмы или уровня сложности, и благоприятное место для игроков, чтобы погрузиться в глубокое состояние персонажа, у вас все будет хорошо.
 
-Если вас заинтесовали конкретные механики включенные Брентом в его систему, можете почитать [его колонку](https://www.rpg.net/columns/list-column.phtml?colname=talesfromtherockethouse 'https://www.rpg.net/columns/list-column.phtml?colname=talesfromtherockethouse') на rpg.net
+Если вас заинтесовали конкретные механики включенные Брентом в его систему, можете почитать [его колонку](https://www.rpg.net/columns/list-column.phtml?colname=talesfromtherockethouse "https://www.rpg.net/columns/list-column.phtml?colname=talesfromtherockethouse") на rpg.net
 
 Оригинал перевода: [https://vk.com/@trpgkingdom-simulyacionno-immersivnaya-rolevaya-igra-fizika-sluchainost](https://vk.com/@trpgkingdom-simulyacionno-immersivnaya-rolevaya-igra-fizika-sluchainost)

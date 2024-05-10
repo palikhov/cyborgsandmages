@@ -1,15 +1,15 @@
 ---
-title: 'Чем для меня является «Старая школа»?'
-date: '2019-07-19'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Чем для меня является «Старая школа»?"
+date: "2019-07-19"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 текст [Creighton](https://vk.com/away.php?to=http://www.creightonbroadhurst.com/author/creighton/&cc_key=) от 15 ноября 2015 года
 
-_В последние годы было немало размышлений и обсуждений на тему игрового стиля «Старой школы». Лично для меня она идеально воплощена в первой и второй редакциях [Dungeons and Dragons](https://vk.com/away.php?to=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDungeons_%26*Dragons&cc_key=). Я большой фанат этого стиля, но я также люблю механики из третьей редакции и [Pathfinder](https://vk.com/away.php?to=http%3A%2F%2Fpaizo.com%2Fpathfinder&cc_key=).*
+_В последние годы было немало размышлений и обсуждений на тему игрового стиля «Старой школы». Лично для меня она идеально воплощена в первой и второй редакциях [Dungeons and Dragons](https://vk.com/away.php?to=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDungeons_%26_Dragons&cc_key=). Я большой фанат этого стиля, но я также люблю механики из третьей редакции и [Pathfinder](https://vk.com/away.php?to=http%3A%2F%2Fpaizo.com%2Fpathfinder&cc_key=)._
 
 ![](https://pp.userapi.com/c851520/v851520639/15ee36/zyEhTTrxN-M.jpg)
 

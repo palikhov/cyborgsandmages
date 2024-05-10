@@ -1,8 +1,8 @@
 ---
-title: 'Гильдия приключенцев'
-date: '2022-09-21'
-categories:
-  - 'krossposty'
+title: "Гильдия приключенцев"
+date: "2022-09-21"
+categories: 
+  - "krossposty"
 ---
 
 #crosspost #adventurers #guild #setting

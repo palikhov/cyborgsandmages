@@ -1,14 +1,14 @@
 ---
-title: 'Перевод SRD 5.1 – Описание заклинаний (A)'
-date: '2022-08-06'
-categories:
-  - 'our-materials'
-  - 'srd-translate'
-tags:
-  - '5e'
-  - 'magic-items'
-  - 'srd'
-  - 'translate'
+title: "Перевод SRD 5.1 – Описание заклинаний (A)"
+date: "2022-08-06"
+categories: 
+  - "our-materials"
+  - "srd-translate"
+tags: 
+  - "5e"
+  - "magic-items"
+  - "srd"
+  - "translate"
 ---
 
 **#spells #srd #a**

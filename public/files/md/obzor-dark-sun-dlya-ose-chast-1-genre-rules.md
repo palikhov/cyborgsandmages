@@ -1,11 +1,11 @@
 ---
-title: 'Обзор Dark Sun для OSE, Часть 1: Genre Rules'
-date: '2022-08-20'
-categories:
-  - 'krossposty'
-tags:
-  - 'druid'
-  - 'osr'
+title: "Обзор Dark Sun для OSE, Часть 1: Genre Rules"
+date: "2022-08-20"
+categories: 
+  - "krossposty"
+tags: 
+  - "druid"
+  - "osr"
 ---
 
 #darksun #ose #crosspost #osr

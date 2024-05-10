@@ -1,10 +1,10 @@
 ---
-title: 'Железные Королевства – сеттинг'
-date: '2022-12-28'
-categories:
-  - 'translations'
-tags:
-  - 'random-encounters'
+title: "Железные Королевства – сеттинг"
+date: "2022-12-28"
+categories: 
+  - "translations"
+tags: 
+  - "random-encounters"
 ---
 
 #ironkingdoms #translate #setting #dnd

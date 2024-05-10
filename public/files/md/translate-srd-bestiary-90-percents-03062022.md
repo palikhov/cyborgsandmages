@@ -1,17 +1,17 @@
 ---
-title: '[Перевод SRD] Перевод бестиария - 90%'
-date: '2022-06-03'
-categories:
-  - 'srd-translate'
-tags:
-  - '5e'
-  - 'bestiary'
-  - 'creatures'
-  - 'srd'
-  - 'srd-5-1'
-  - 'бестиарий'
-  - 'translate'
-  - 'перевод-srd'
+title: "[Перевод SRD] Перевод бестиария - 90%"
+date: "2022-06-03"
+categories: 
+  - "srd-translate"
+tags: 
+  - "5e"
+  - "bestiary"
+  - "creatures"
+  - "srd"
+  - "srd-5-1"
+  - "бестиарий"
+  - "translate"
+  - "перевод-srd"
 ---
 
 Наконец-то удалось сделать большую часть работы по переводу Бестиария SRD.

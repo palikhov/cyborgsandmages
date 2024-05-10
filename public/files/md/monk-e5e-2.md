@@ -1,16 +1,16 @@
 ---
-title: 'Монах | E5E'
-date: '2022-07-19'
-categories:
-  - 'e5e'
-  - 'our-materials'
-tags:
-  - 'wordpress-crosspost'
+title: "Монах | E5E"
+date: "2022-07-19"
+categories: 
+  - "e5e"
+  - "our-materials"
+tags: 
+  - "wordpress-crosspost"
 ---
 
 Монах | E5E
 
-[Монах | E5E](https://cyborgsandmages.com/?p=7577 'Оригинал статьи.') был опубликован — [Киборги и Чародеи](https://cyborgsandmages.com)
+[Монах | E5E](https://cyborgsandmages.com/?p=7577 "Оригинал статьи.") был опубликован — [Киборги и Чародеи](https://cyborgsandmages.com)
 
 Присоединяйтесь к нашему сообществу в Discord https://discord.com/invite/GcmhsFfxQ5 или Телеграм https://t.me/cyborgs\_and\_mages
 
@@ -22,7 +22,7 @@ https://ko-fi.com/palant
 
 А если можете помочь чем то другим, то не ждите — сразу пишите в комментариях.
 
-[Монах | E5E](https://cyborgsandmages.com/?p=11560 'Оригинал статьи.') был опубликован - [Киборги и Чародеи](https://cyborgsandmages.com)
+[Монах | E5E](https://cyborgsandmages.com/?p=11560 "Оригинал статьи.") был опубликован - [Киборги и Чародеи](https://cyborgsandmages.com)
 
 Присоединяйтесь к нашему сообществу в Discord https://discord.com/invite/GcmhsFfxQ5 или Телеграм https://t.me/cyborgs\_and\_mages
 

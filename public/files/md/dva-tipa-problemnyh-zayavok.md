@@ -1,8 +1,8 @@
 ---
-title: 'Два типа проблемных заявок'
-date: '2022-07-18'
-categories:
-  - 'krossposty'
+title: "Два типа проблемных заявок"
+date: "2022-07-18"
+categories: 
+  - "krossposty"
 ---
 
 Наблюдая за своими и чужими играми, я выделил два типа заявок, которые меня раздражают.
@@ -51,4 +51,4 @@ categories:
 
 Иначе смекалку и изобретательность заменит способность уболтать ведущего.
 
-_Источник: < [https://vk.com/@osr_syndrome-dva-tipa-problemnyh-zayavok](https://vk.com/@osr_syndrome-dva-tipa-problemnyh-zayavok)\>_
+_Источник: < [https://vk.com/@osr\_syndrome-dva-tipa-problemnyh-zayavok](https://vk.com/@osr_syndrome-dva-tipa-problemnyh-zayavok)\>_

@@ -1,9 +1,9 @@
 ---
-title: 'Баланс на высоких уровнях'
-date: '2022-07-18'
-categories:
-  - 'krossposty'
-  - 'translations-other'
+title: "Баланс на высоких уровнях"
+date: "2022-07-18"
+categories: 
+  - "krossposty"
+  - "translations-other"
 ---
 
 Перевод: Станислав Иванов

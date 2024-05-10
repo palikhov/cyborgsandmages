@@ -1,10 +1,10 @@
 ---
-title: 'Проблема системы фракций в организованной игротеке Adventurers League'
-date: '2019-03-09'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-metki-i-rubriki'
+title: "Проблема системы фракций в организованной игротеке Adventurers League"
+date: "2019-03-09"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-metki-i-rubriki"
 ---
 
 Вопрос: Почему система фракций не работала?

@@ -1,11 +1,11 @@
 ---
-title: 'КАМПАНИЯ ВИКИНГОВ - МАГИЯ РУН'
-date: '2022-12-18'
-categories:
-  - 'translations'
-  - 'resources'
-tags:
-  - 'magic-items'
+title: "КАМПАНИЯ ВИКИНГОВ - МАГИЯ РУН"
+date: "2022-12-18"
+categories: 
+  - "translations"
+  - "resources"
+tags: 
+  - "magic-items"
 ---
 
 # #adnd2e #vikings #characters #runes #magic #translate #campaign

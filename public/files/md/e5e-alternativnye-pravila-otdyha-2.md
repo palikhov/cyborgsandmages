@@ -1,13 +1,13 @@
 ---
-title: 'E5E - Альтернативные правила отдыха'
-date: '2021-07-30'
-categories:
-  - 'prochie-domashnie-pravila'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'homebrew'
-  - 'rest'
+title: "E5E - Альтернативные правила отдыха"
+date: "2021-07-30"
+categories: 
+  - "prochie-domashnie-pravila"
+tags: 
+  - "5e"
+  - "e5e"
+  - "homebrew"
+  - "rest"
 ---
 
 ## Условия отдыха

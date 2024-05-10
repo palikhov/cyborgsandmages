@@ -1,10 +1,10 @@
 ---
-title: 'Пособие дядюшки Фигги по Хорошему Отыгрышу'
-date: '2020-11-10'
-categories:
-  - 'advices'
-tags:
-  - 'player-tips'
+title: "Пособие дядюшки Фигги по Хорошему Отыгрышу"
+date: "2020-11-10"
+categories: 
+  - "advices"
+tags: 
+  - "player-tips"
 ---
 
 _Права (с) 1998 Дэн Коуп._

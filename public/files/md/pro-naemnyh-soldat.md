@@ -1,27 +1,35 @@
 ---
-title: 'Про наемных солдат'
-date: '2022-07-24'
-categories:
-  - 'homebrew'
-  - 'our-materials'
-  - 'articles'
-tags:
-  - 'заметки'
+title: "Про наемных солдат"
+date: "2022-07-24"
+categories: 
+  - "homebrew"
+  - "our-materials"
+  - "articles"
+tags: 
+  - "заметки"
 ---
 
 Всегда в городах можно встретить различные виды наемных солдат – лучников, кавалеристов, арбалетчиков, пехоту и т.п. В большинстве случаев они НЕ ПОСЛЕДУЮТ за авантюристами в подземелья, но могут быть использованы для различных стратегических заданий:
 
 - защита карванов,
+    
 - нахождение лагерей бандитов и агрессивных гуманоидов;
+    
 - исследование и зачистка местности;
+    
 - военные действия;
+    
 - несение гарнизонной службы в фортах и замках.
+    
 
 Наемные солдаты требуют лидеров, таких как сержанты, лейтенанты и капитаны:
 
 - 1 сержант на 10 бойцов;
+    
 - 1 лейтенант на 30 бойцов;
+    
 - 1 капитан на 100 бойцов.
+    
 
 Также найм большого количества наемников явно может вызвать пересуды местного насееления.
 
@@ -41,7 +49,7 @@ tags:
 
 Пираты распределяли награбленные ими сокровища основываясь на понятии доли – каждому пирату изначально полагалась отдельная равная доля, при этом за выполнение определенных обязанностей или совершение определенных поступков полагались дополнительные доли.
 
-
+ 
 
 **Обученные солдаты / Man-at-Arms (Soldiers)**
 
@@ -51,6 +59,6 @@ tags:
 
 **Начальное снаряжение:** исходя из снаряжения.
 
-
+ 
 
 <table style="border-collapse:collapse" border="0"><colgroup><col style="width:312px"><col style="width:312px"></colgroup><tbody valign="top"><tr><td style="padding-left: 7px; padding-right: 7px"><strong>Солдат</strong><p></p></td><td style="padding-left: 7px; padding-right: 7px"><p><strong>Зарплата</strong></p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>Пехотинец</p></td><td style="padding-left: 7px; padding-right: 7px"><p>1</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>Лучник</p></td><td style="padding-left: 7px; padding-right: 7px"><p>2</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>Кавалерия</p></td><td style="padding-left: 7px; padding-right: 7px"><p>4</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>Наемный пехотинец</p></td><td style="padding-left: 7px; padding-right: 7px"><p>2</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>Наемный лучник</p></td><td style="padding-left: 7px; padding-right: 7px"><p>4</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>Наемная кавалерия</p></td><td style="padding-left: 7px; padding-right: 7px"><p>8</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>Сержант</p></td><td style="padding-left: 7px; padding-right: 7px"><p>х2</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>Лейтенант</p></td><td style="padding-left: 7px; padding-right: 7px"><p>х3</p></td></tr><tr><td style="padding-left: 7px; padding-right: 7px"><p>Капитан</p></td><td style="padding-left: 7px; padding-right: 7px"><p>х4</p></td></tr></tbody></table>

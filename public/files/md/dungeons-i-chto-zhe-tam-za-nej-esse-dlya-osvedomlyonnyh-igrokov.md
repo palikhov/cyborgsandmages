@@ -1,12 +1,12 @@
 ---
-title: '[Dungeons] … И ЧТО ЖЕ ТАМ ЗА НЕЙ? ЭССЕ ДЛЯ ОСВЕДОМЛЁННЫХ ИГРОКОВ'
-date: '2023-02-11'
-categories:
-  - 'resources'
-tags:
-  - '5e'
-  - 'dungeons'
-  - 'e5e'
+title: "[Dungeons] … И ЧТО ЖЕ ТАМ ЗА НЕЙ? ЭССЕ ДЛЯ ОСВЕДОМЛЁННЫХ ИГРОКОВ"
+date: "2023-02-11"
+categories: 
+  - "resources"
+tags: 
+  - "5e"
+  - "dungeons"
+  - "e5e"
 ---
 
 #dungeon #exploration #dnd #e5e #translate #dnd35 #5e #flavor

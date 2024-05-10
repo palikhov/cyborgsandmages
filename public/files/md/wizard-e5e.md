@@ -1,12 +1,12 @@
 ---
-title: 'Волшебник | E5E'
-date: '2022-04-14'
-categories:
-  - 'e5e'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'homebrew'
+title: "Волшебник | E5E"
+date: "2022-04-14"
+categories: 
+  - "e5e"
+tags: 
+  - "5e"
+  - "e5e"
+  - "homebrew"
 ---
 
 Файл: [E5E CLASSES REV 007 28052022.docx](https://1drv.ms/w/s!Atcrhwwo1lBA19hWtDTlK9IQjozOaA?e=G1JgtP)
@@ -303,7 +303,7 @@ Beginning at 10th level, you can nimbly dodge out of the way of certain area eff
 
 At 14th level you may, as an action, summon force bubbles around a number of visible, willing creatures other than yourself equal to your proficiency modifier. Each force bubble has 50 hps, an AC of 8 and contains 1 hour of breathable air. This effect lasts for 1 hour, requires concentration and may not be used again until a long rest is completed. It acts similar to the spell Otiluke’s Resilient Sphere with the above exceptions.
 
-
+ 
 
 ## TREEKEEPER
 
@@ -623,7 +623,7 @@ Beginning at 10th level, you can nimbly dodge out of the way of certain area eff
 
 At 14th level you may, as an action, summon force bubbles around a number of visible, willing creatures other than yourself equal to your proficiency modifier. Each force bubble has 50 hps, an AC of 8 and contains 1 hour of breathable air. This effect lasts for 1 hour, requires concentration and may not be used again until a long rest is completed. It acts similar to the spell Otiluke’s Resilient Sphere with the above exceptions.
 
-
+ 
 
 ## TREEKEEPER
 

@@ -1,15 +1,15 @@
 ---
-title: 'КАМПАНИЯ ВИКИНГОВ - АТЛАС ТЕМНЫХ ВЕКОВ'
-date: '2022-12-18'
-categories:
-  - 'translations'
-tags:
-  - 'translate'
+title: "КАМПАНИЯ ВИКИНГОВ - АТЛАС ТЕМНЫХ ВЕКОВ"
+date: "2022-12-18"
+categories: 
+  - "translations"
+tags: 
+  - "translate"
 ---
 
 Категорія    Арсенал ; Переводы
 
-
+ 
 
 #adnd2e #vikings #atlas #map #locations #translate #campaign
 

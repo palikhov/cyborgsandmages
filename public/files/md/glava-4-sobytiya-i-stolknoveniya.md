@@ -1,10 +1,10 @@
 ---
-title: 'Глава 4: События и столкновения'
-date: '2020-06-20'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Глава 4: События и столкновения"
+date: "2020-06-20"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 Городские события

@@ -1,12 +1,12 @@
 ---
-title: 'Как довести до ума короткий и продолжительный отдых в D&D?'
-date: '2022-03-29'
-categories:
-  - 'translations-other'
-tags:
-  - 'longstory'
-  - 'rest'
-  - 'translate'
+title: "Как довести до ума короткий и продолжительный отдых в D&D?"
+date: "2022-03-29"
+categories: 
+  - "translations-other"
+tags: 
+  - "longstory"
+  - "rest"
+  - "translate"
 ---
 
 **Отдых — лучший способ восстановить здоровье и кости хитов. А ещё — мощное оружие повествования.**

@@ -1,21 +1,21 @@
 ---
-title: '[E5E] Видимость и слышимость при путешествии на открытом пространстве'
-date: '2022-06-04'
-categories:
-  - 'e5e'
-  - 'our-materials'
-  - 'translations-other'
-  - 'hb-rules'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'exploration'
-  - 'homebrew'
-  - 'outdoor'
-  - 'survival'
-  - 'vision'
-  - 'wilderness'
-  - 'translate'
+title: "[E5E] Видимость и слышимость при путешествии на открытом пространстве"
+date: "2022-06-04"
+categories: 
+  - "e5e"
+  - "our-materials"
+  - "translations-other"
+  - "hb-rules"
+tags: 
+  - "5e"
+  - "e5e"
+  - "exploration"
+  - "homebrew"
+  - "outdoor"
+  - "survival"
+  - "vision"
+  - "wilderness"
+  - "translate"
 ---
 
 При путешествии на открытой местности особое значение принимает дистанция, которую контролируют своими органами чувств авантюристы.
@@ -32,6 +32,6 @@ tags:
 
 <table style="width: 100%; height: 216px;"><tbody><tr style="height: 72px;"><td style="height: 72px;" width="312"><p><strong>Попытка вести себя тихо</strong></p></td><td style="height: 72px;" width="312"><p><strong>2к6 × 5 футов</strong></p></td></tr><tr style="height: 72px;"><td style="height: 72px;" width="312"><p>Нормальный уровень шума</p></td><td style="height: 72px;" width="312"><p>2к6 × 10 футов</p></td></tr><tr style="height: 72px;"><td style="height: 72px;" width="312"><p>Очень громко</p></td><td style="height: 72px;" width="312"><p>2к6 × 50 футов</p></td></tr></tbody></table>
 
----
+* * *
 
 **Источник:** Ширма Мастера

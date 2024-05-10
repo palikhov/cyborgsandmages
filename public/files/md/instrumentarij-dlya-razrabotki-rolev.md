@@ -1,10 +1,10 @@
 ---
-title: 'Инструментарий для разработки ролевых и настольных игр'
-date: '2019-11-30'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Инструментарий для разработки ролевых и настольных игр"
+date: "2019-11-30"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 Это репост записи опубликованной на [https://vk.com/@tonygamecrafts-instrumentarii-dlya-razrabotki-rolevyh-i-nastolnyh-igr](https://vk.com/@tonygamecrafts-instrumentarii-dlya-razrabotki-rolevyh-i-nastolnyh-igr)

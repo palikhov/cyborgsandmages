@@ -1,10 +1,10 @@
 ---
-title: 'Cypher v. Fate'
-date: '2019-12-17'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Cypher v. Fate"
+date: "2019-12-17"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 Текст Justin Alexander от 14 декабря 2019 года

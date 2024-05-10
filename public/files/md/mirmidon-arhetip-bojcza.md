@@ -1,18 +1,18 @@
 ---
-title: 'Мирмидон – архетип бойца'
-date: '2022-08-12'
-categories:
-  - 'e5e'
-  - 'homebrew'
-  - 'hb-classes-archetypes'
-  - 'our-materials'
-tags:
-  - '5e'
-  - 'archetype'
-  - 'dnd'
-  - 'e5e'
-  - 'fighter'
-  - 'homebrew'
+title: "Мирмидон – архетип бойца"
+date: "2022-08-12"
+categories: 
+  - "e5e"
+  - "homebrew"
+  - "hb-classes-archetypes"
+  - "our-materials"
+tags: 
+  - "5e"
+  - "archetype"
+  - "dnd"
+  - "e5e"
+  - "fighter"
+  - "homebrew"
 ---
 
 #fighter #e5e #archetype

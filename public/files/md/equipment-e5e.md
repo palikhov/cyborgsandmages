@@ -1,12 +1,12 @@
 ---
-title: 'Снаряжение | E5E'
-date: '2022-04-08'
-categories:
-  - 'e5e'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'homebrew'
+title: "Снаряжение | E5E"
+date: "2022-04-08"
+categories: 
+  - "e5e"
+tags: 
+  - "5e"
+  - "e5e"
+  - "homebrew"
 ---
 
 [Доспехи | E5E](https://cyborgsandmages.com/e5e-expanded-fifth-edition/%d0%a1%d0%bd%d0%b0%d1%80%d1%8f%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-e5e/%d0%94%d0%be%d1%81%d0%bf%d0%b5%d1%85%d0%b8-e5e/)
@@ -33,7 +33,7 @@ tags:
 
 [Снаряжение &#8212; оружейные предметы и ловушки | E5E](https://cyborgsandmages.com/e5e-expanded-fifth-edition/%d0%a1%d0%bd%d0%b0%d1%80%d1%8f%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-e5e/equipment-weaponlike-gear-traps-e5e/)
 
-
+ 
 
 [Снаряжение &#8212; контейнеры | E5E](https://cyborgsandmages.com/e5e-expanded-fifth-edition/%d0%a1%d0%bd%d0%b0%d1%80%d1%8f%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-e5e/e5e-equipment-containers/)
 

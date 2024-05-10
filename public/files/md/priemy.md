@@ -1,11 +1,11 @@
 ---
-title: 'Приемы'
-date: '2022-08-06'
-categories:
-  - 'homebrew'
-  - 'articles'
-tags:
-  - 'заметки'
+title: "Приемы"
+date: "2022-08-06"
+categories: 
+  - "homebrew"
+  - "articles"
+tags: 
+  - "заметки"
 ---
 
 ### Широкий удар:

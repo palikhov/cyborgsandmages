@@ -1,10 +1,10 @@
 ---
-title: 'Rules as Suffering. Его Величество One-Shot'
-date: '2018-11-24'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Rules as Suffering. Его Величество One-Shot"
+date: "2018-11-24"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 Автор: Станислав Иванов https://vk.com/@dungeonsandsuffering-rules-as-suffering-ego-velichestvo-one-shot

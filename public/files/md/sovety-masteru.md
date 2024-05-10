@@ -1,11 +1,11 @@
 ---
-title: 'Советы Мастеру'
-date: '2022-07-29'
-categories:
-  - 'advices'
-tags:
-  - 'gmadvice'
-  - 'dm-tips'
+title: "Советы Мастеру"
+date: "2022-07-29"
+categories: 
+  - "advices"
+tags: 
+  - "gmadvice"
+  - "dm-tips"
 ---
 
 #gmadvice #gmtips #gm #rules #hook #campaign #treasure #reward #players

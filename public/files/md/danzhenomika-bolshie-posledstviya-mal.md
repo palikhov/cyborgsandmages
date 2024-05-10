@@ -1,10 +1,10 @@
 ---
-title: 'Данженомика. Большие последствия маленького займа. А также пираты.'
-date: '2020-08-12'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Данженомика. Большие последствия маленького займа. А также пираты."
+date: "2020-08-12"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 By **Maskrow**, [imaginaria.ru](http://getpocket.com/redirect?url=http%3A%2F%2Fimaginaria.ru%2Fp%2Fdanzhenomika-bolshie-posledstviya-malenkogo-zayma-a-takzhe-piraty.html)

@@ -1,17 +1,17 @@
 ---
-title: 'Зарисовка правил для отряда существ'
-date: '2022-08-11'
-categories:
-  - 'e5e'
-  - 'homebrew'
-  - 'our-materials'
-tags:
-  - '5e'
-  - 'creature'
-  - 'e5e'
-  - 'homebrew'
-  - 'perception'
-  - 'statblock'
+title: "Зарисовка правил для отряда существ"
+date: "2022-08-11"
+categories: 
+  - "e5e"
+  - "homebrew"
+  - "our-materials"
+tags: 
+  - "5e"
+  - "creature"
+  - "e5e"
+  - "homebrew"
+  - "perception"
+  - "statblock"
 ---
 
 #e5e #masscombat #lance #troop #homebrew

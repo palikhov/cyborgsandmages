@@ -1,14 +1,14 @@
 ---
-title: 'Неуловимые изменения в игре'
-date: '2022-10-12'
-categories:
-  - 'alexandrian'
-  - 'переводы-прочие'
-tags:
-  - '5e'
-  - 'перевод'
-  - 'e5e'
-  - 'justin-alexander'
+title: "Неуловимые изменения в игре"
+date: "2022-10-12"
+categories: 
+  - "alexandrian"
+  - "переводы-прочие"
+tags: 
+  - "5e"
+  - "перевод"
+  - "e5e"
+  - "justin-alexander"
 ---
 
 **Переводчик:** Dmitry Gerasimov

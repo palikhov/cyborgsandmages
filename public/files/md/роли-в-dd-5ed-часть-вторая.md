@@ -1,13 +1,13 @@
 ---
-title: 'Роли в D&amp;D 5ed, часть вторая'
-date: '2020-08-05'
-categories:
-  - 'our-materials'
-tags:
-  - 'fighter'
-  - 'monk'
-  - 'paladin'
-  - 'roles'
+title: "Роли в D&amp;D 5ed, часть вторая"
+date: "2020-08-05"
+categories: 
+  - "our-materials"
+tags: 
+  - "fighter"
+  - "monk"
+  - "paladin"
+  - "roles"
 ---
 
 Это продолжение статьи [Роли в D&D 5ed, часть первая](https://cyborgsandmages.wordpress.com/2020/07/22/character-and-classes-roles-dnd-5ed/)
@@ -28,7 +28,7 @@ tags:
 
 **Druid** – Combat 3 / Exploring 5/ Social 3. Martial 2, Spellcasting 4, Skills 3, Party Improvement 3.
 
----
+* * *
 
 **Fighter** - Combat 5 / Exploring 3 / Social 2. Melee DD 5 / Ranged DD 5 / Defense 5, Martial 5, Spellcasting 1, Skills 2, Party Improvement 1
 

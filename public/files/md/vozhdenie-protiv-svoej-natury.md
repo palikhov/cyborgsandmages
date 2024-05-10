@@ -1,10 +1,10 @@
 ---
-title: 'Вождение против своей натуры'
-date: '2018-12-30'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Вождение против своей натуры"
+date: "2018-12-30"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 Перевод: Станислав Иванов https://vk.com/@dungeonsandsuffering-vozhdenie-protiv-svoei-natury

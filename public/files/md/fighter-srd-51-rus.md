@@ -1,10 +1,10 @@
 ---
-title: 'Воин | SRD 5.1'
-date: '2020-09-17'
-categories:
-  - 'srd-translate'
-tags:
-  - 'srd'
+title: "Воин | SRD 5.1"
+date: "2020-09-17"
+categories: 
+  - "srd-translate"
+tags: 
+  - "srd"
 ---
 
 # Воин

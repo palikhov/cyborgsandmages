@@ -1,10 +1,10 @@
 ---
-title: 'AD&D 2ed. Викинги. ЧАСТЬ 1. ВВЕДЕНИЕ'
-date: '2020-08-23'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "AD&D 2ed. Викинги. ЧАСТЬ 1. ВВЕДЕНИЕ"
+date: "2020-08-23"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 **МИФЫ О ВИКИНГАХ**

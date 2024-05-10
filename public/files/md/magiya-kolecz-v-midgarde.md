@@ -1,10 +1,10 @@
 ---
-title: 'Мидгард — что в нем особенного?... Часть 1: Магия колец.'
-date: '2020-03-27'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Мидгард — что в нем особенного?... Часть 1: Магия колец."
+date: "2020-03-27"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 **О магии колец.**

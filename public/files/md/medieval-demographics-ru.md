@@ -1,14 +1,14 @@
 ---
-title: 'Средневековая Демография для Чайников'
-date: '2022-07-29'
-categories:
-  - 'translations-other'
-  - 'advices'
-tags:
-  - '5e'
-  - 'Демография'
-  - 'translate'
-  - 'Теория'
+title: "Средневековая Демография для Чайников"
+date: "2022-07-29"
+categories: 
+  - "translations-other"
+  - "advices"
+tags: 
+  - "5e"
+  - "Демография"
+  - "translate"
+  - "Теория"
 ---
 
 Часть I

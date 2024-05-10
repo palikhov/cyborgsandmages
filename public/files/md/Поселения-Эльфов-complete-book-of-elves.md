@@ -1,12 +1,12 @@
 ---
-title: 'Поселения Эльфов [Complete Book of Elves]'
-date: '2020-11-19'
-categories:
-  - 'setting'
-tags:
-  - 'add-2ed'
-  - 'complete-book-of-elves'
-  - 'elves'
+title: "Поселения Эльфов [Complete Book of Elves]"
+date: "2020-11-19"
+categories: 
+  - "setting"
+tags: 
+  - "add-2ed"
+  - "complete-book-of-elves"
+  - "elves"
 ---
 
 > Мое первое знакомство с городом серых эльфов Селенарес (Celenaress) не было особенным: Он был городом исключительной красоты, даже облачной ночью, но, конечно, никак не местом, где я бы потерял голову. Я, Мастер Вор Геррил Хака (Gerril Haka), видел тысячу достопримечательностей в своей жизни, и это было просто еще одна.  

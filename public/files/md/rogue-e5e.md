@@ -1,12 +1,12 @@
 ---
-title: 'Плут | E5E'
-date: '2022-04-14'
-categories:
-  - 'e5e'
-tags:
-  - '5e'
-  - 'e5e'
-  - 'homebrew'
+title: "Плут | E5E"
+date: "2022-04-14"
+categories: 
+  - "e5e"
+tags: 
+  - "5e"
+  - "e5e"
+  - "homebrew"
 ---
 
 [E5E CLASSES REV 007 28052022.docx](https://1drv.ms/w/s!Atcrhwwo1lBA19hWtDTlK9IQjozOaA?e=ReepyW)
@@ -623,4 +623,4 @@ The following features add to or modify certain subclass features for this class
 
 If you hit a creature with a weapon attack on your first turn of combat, you can choose to make the hit a critical hit. Once you do so, you cannot do so again until you finish a long rest.
 
----
+* * *

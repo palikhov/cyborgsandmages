@@ -1,10 +1,10 @@
 ---
-title: 'Баал (Bhaal)'
-date: '2019-05-18'
-categories:
-  - 'articles'
-tags:
-  - 'заметки'
+title: "Баал (Bhaal)"
+date: "2019-05-18"
+categories: 
+  - "articles"
+tags: 
+  - "заметки"
 ---
 
 Баал (Bhaal) - бог убийства

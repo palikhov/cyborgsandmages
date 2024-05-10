@@ -1,26 +1,26 @@
 ---
-title: 'Ресурсы для создания материалов по пятой редакции D&amp;D'
-date: '2019-11-10'
-categories:
-  - 'resources'
-tags:
-  - 'brushes'
-  - 'ccc'
-  - 'cover'
-  - 'font'
-  - 'gmbinder'
-  - 'homebrew'
-  - 'homebrewery'
-  - 'illustrator'
-  - 'indesign'
-  - 'logos'
-  - 'photoshop'
-  - 'template'
-  - 'word'
-  - 'materials'
-  - 'resursy-dlya-igrokov'
-  - 'resursy-dlya-mastera'
-  - 'шаблоны'
+title: "Ресурсы для создания материалов по пятой редакции D&amp;D"
+date: "2019-11-10"
+categories: 
+  - "resources"
+tags: 
+  - "brushes"
+  - "ccc"
+  - "cover"
+  - "font"
+  - "gmbinder"
+  - "homebrew"
+  - "homebrewery"
+  - "illustrator"
+  - "indesign"
+  - "logos"
+  - "photoshop"
+  - "template"
+  - "word"
+  - "materials"
+  - "resursy-dlya-igrokov"
+  - "resursy-dlya-mastera"
+  - "шаблоны"
 ---
 
 Небольшая заметка и попытка систематизации существующих ресурсов для создания материалов по пятой редакции D&D
@@ -69,23 +69,23 @@ Monster Maker - offline, Windows, требует установки
 
 [DMs Guild Creator Resource - Style Guide Resources](https://www.dmsguild.com/product/267467/DMs-Guild-Creator-Resource--Style-Guide-Resources?affiliate_id=759617)
 
-[adventure_design_guide](https://cyborgsandmages.files.wordpress.com/2019/11/adventure_design_guide.pdf)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/adventure_design_guide.pdf)
+[adventure\_design\_guide](https://cyborgsandmages.files.wordpress.com/2019/11/adventure_design_guide.pdf)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/adventure_design_guide.pdf)
 
-[dd_ip_guide](https://cyborgsandmages.files.wordpress.com/2019/11/dd_ip_guide.pdf)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/dd_ip_guide.pdf)
+[dd\_ip\_guide](https://cyborgsandmages.files.wordpress.com/2019/11/dd_ip_guide.pdf)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/dd_ip_guide.pdf)
 
-[dnd_house_style_guide_updated_january_2019](https://cyborgsandmages.files.wordpress.com/2019/11/dnd_house_style_guide_updated_january_2019.pdf)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/dnd_house_style_guide_updated_january_2019.pdf)
+[dnd\_house\_style\_guide\_updated\_january\_2019](https://cyborgsandmages.files.wordpress.com/2019/11/dnd_house_style_guide_updated_january_2019.pdf)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/dnd_house_style_guide_updated_january_2019.pdf)
 
-[forgotten_realms_style_guide](https://cyborgsandmages.files.wordpress.com/2019/11/forgotten_realms_style_guide.pdf)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/forgotten_realms_style_guide.pdf)
+[forgotten\_realms\_style\_guide](https://cyborgsandmages.files.wordpress.com/2019/11/forgotten_realms_style_guide.pdf)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/forgotten_realms_style_guide.pdf)
 
 ## Шаблоны для Microsoft Word
 
-[778787-str_dms_guild_template_letter_word2016_v1.1](https://cyborgsandmages.files.wordpress.com/2019/11/778787-str_dms_guild_template_letter_word2016_v1.1.docx)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/778787-str_dms_guild_template_letter_word2016_v1.1.docx)
+[778787-str\_dms\_guild\_template\_letter\_word2016\_v1.1](https://cyborgsandmages.files.wordpress.com/2019/11/778787-str_dms_guild_template_letter_word2016_v1.1.docx)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/778787-str_dms_guild_template_letter_word2016_v1.1.docx)
 
-[5e_dmguild_specs](https://cyborgsandmages.files.wordpress.com/2019/11/5e_dmguild_specs.docx)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/5e_dmguild_specs.docx)
+[5e\_dmguild\_specs](https://cyborgsandmages.files.wordpress.com/2019/11/5e_dmguild_specs.docx)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/5e_dmguild_specs.docx)
 
-[dms_guild_creator_resource\_-_adventure_template_word97to2003](https://cyborgsandmages.files.wordpress.com/2019/11/dms_guild_creator_resource_-_adventure_template_word97to2003.doc)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/dms_guild_creator_resource_-_adventure_template_word97to2003.doc)
+[dms\_guild\_creator\_resource\_-\_adventure\_template\_word97to2003](https://cyborgsandmages.files.wordpress.com/2019/11/dms_guild_creator_resource_-_adventure_template_word97to2003.doc)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/dms_guild_creator_resource_-_adventure_template_word97to2003.doc)
 
-[dms_guild_creator_resource\_-_adventure_template_word2016](https://cyborgsandmages.files.wordpress.com/2019/11/dms_guild_creator_resource_-_adventure_template_word2016.docx)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/dms_guild_creator_resource_-_adventure_template_word2016.docx)
+[dms\_guild\_creator\_resource\_-\_adventure\_template\_word2016](https://cyborgsandmages.files.wordpress.com/2019/11/dms_guild_creator_resource_-_adventure_template_word2016.docx)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/dms_guild_creator_resource_-_adventure_template_word2016.docx)
 
 [Campaign Template](https://1drv.ms/w/s!Atcrhwwo1lBAx7Zp7LonknaKCQmW-g?e=xo88Fk)
 
@@ -147,7 +147,7 @@ Monster Maker - offline, Windows, требует установки
 
 ![](https://cyborgsandmages.files.wordpress.com/2019/11/phb-fonts-used.jpg?w=1024)
 
-Шрифты использованные в Книге Игрока
+Шрифты использованные в Книге Игрока  
 
 [5e-phb-unofficial-style-guide](https://cyborgsandmages.files.wordpress.com/2019/11/5e-phb-unofficial-style-guide.pdf)[Скачать](https://cyborgsandmages.files.wordpress.com/2019/11/5e-phb-unofficial-style-guide.pdf)
 
@@ -203,7 +203,7 @@ Thorass
 
 Barazhad
 
-[DnD_InfernalWOTC](https://1drv.ms/u/s!Atcrhwwo1lBAw7VQi_CgLL4sTNZiCQ?e=Ab6BpU)
+[DnD\_InfernalWOTC](https://1drv.ms/u/s!Atcrhwwo1lBAw7VQi_CgLL4sTNZiCQ?e=Ab6BpU)
 
 ### Кириллические шрифты
 
@@ -239,13 +239,13 @@ EXOCET Heavy
 
 ## Обложки
 
-[DMs_Guild_Cover_Image_Template\_(MS_WORD)](https://1drv.ms/u/s!Atcrhwwo1lBAx7Zlg2zZAHnOODbUeQ?e=ye1JzB)
+[DMs\_Guild\_Cover\_Image\_Template\_(MS\_WORD)](https://1drv.ms/u/s!Atcrhwwo1lBAx7Zlg2zZAHnOODbUeQ?e=ye1JzB)
 
-Cover_Page_background_bundle_01\_-_Gold_Accent
+Cover\_Page\_background\_bundle\_01\_-\_Gold\_Accent
 
-Cover_Page_background_bundle_02\_-_Dark_Grimoire
+Cover\_Page\_background\_bundle\_02\_-\_Dark\_Grimoire
 
-912059-Covers_1
+912059-Covers\_1
 
 Пользовательские обложки
 
@@ -367,7 +367,7 @@ https://www.reddit.com/r/UnearthedArcana/comments/6bs7r2/meta\_have\_some\_free\
 
 Сообщество [The Imaginary Network](https://www.reddit.com/u/One_Giant_Nostril/m/imaginarynetwork/) включает фэнтезийных [персонажей](https://www.reddit.com/r/ImaginaryCharacters/), [местности](https://www.reddit.com/r/ImaginaryLandscapes/), и чудовищ([/r/ImaginaryMonsters/](https://www.reddit.com/r/ImaginaryMonsters/)\]. Каждый из этих субреддитов включает первоначальное название и имя автора, которые можно использовать для своих работ без необходимости долго искать автора понравившейся картинки.
 
----
+* * *
 
 ## Шаблоны и инструменты по программам
 

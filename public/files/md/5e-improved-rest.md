@@ -1,12 +1,12 @@
 ---
-title: 'Непроверенная пятая редакция: Продвинутый отдых'
-date: '2022-03-29'
-categories:
-  - 'alexandrian'
-  - 'переводы-прочие'
-tags:
-  - 'перевод'
-  - 'justin-alexander'
+title: "Непроверенная пятая редакция: Продвинутый отдых"
+date: "2022-03-29"
+categories: 
+  - "alexandrian"
+  - "переводы-прочие"
+tags: 
+  - "перевод"
+  - "justin-alexander"
 ---
 
 Текст Justin Alexander от 07 января 2022 года

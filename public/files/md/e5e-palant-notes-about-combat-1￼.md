@@ -1,13 +1,13 @@
 ---
-title: 'E5E - Palant Notes about Combat, 1￼'
-date: '2022-06-04'
-categories:
-  - 'drivethrurpg'
-tags:
-  - 'drivethrurpg'
-  - 'e5e'
-  - 'homebrew'
-  - 'palant-notes-about-combat'
+title: "E5E - Palant Notes about Combat, 1￼"
+date: "2022-06-04"
+categories: 
+  - "drivethrurpg"
+tags: 
+  - "drivethrurpg"
+  - "e5e"
+  - "homebrew"
+  - "palant-notes-about-combat"
 ---
 
 \[E5E\] Palant Notes to Combat – expanded version of original fifth edition rules which are created on small Russian speaking discord community of Russian, Ukrainian and Belarussian players.

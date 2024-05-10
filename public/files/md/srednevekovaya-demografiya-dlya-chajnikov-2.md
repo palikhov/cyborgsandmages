@@ -1,12 +1,12 @@
 ---
-title: 'Средневековая Демография для Чайников'
-date: '2022-12-29'
-categories:
-  - 'translations-other'
-  - 'resources'
-tags:
-  - 'translate'
-  - 'resursy-dlya-mastera'
+title: "Средневековая Демография для Чайников"
+date: "2022-12-29"
+categories: 
+  - "translations-other"
+  - "resources"
+tags: 
+  - "translate"
+  - "resursy-dlya-mastera"
 ---
 
 #demographics #town #settlement #dnd #medieval #translate

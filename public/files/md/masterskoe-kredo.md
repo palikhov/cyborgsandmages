@@ -1,13 +1,13 @@
 ---
-title: 'Мастерское Кредо'
-date: '2022-10-12'
-categories:
-  - 'angry'
-  - 'translations-other'
-tags:
-  - 'gm-advice'
-  - 'sly-flourish'
-  - 'translate'
+title: "Мастерское Кредо"
+date: "2022-10-12"
+categories: 
+  - "angry"
+  - "translations-other"
+tags: 
+  - "gm-advice"
+  - "sly-flourish"
+  - "translate"
 ---
 
 #angrygm #gmtips #gmadvice #translate #theory #crosspost #angrygm
@@ -16,7 +16,7 @@ tags:
 
 Ссылка на оригинал: [angrydm.com/2014/01/thy-game-mastering-commandments/](http://angrydm.com/2014/01/thy-game-mastering-commandments/)
 
-Ссылка на основную версию перевода: [trans.rpground.ru/index.php?title=Thy_Game-Mastering_Commandments](http://trans.rpground.ru/index.php?title=Thy_Game-Mastering_Commandments)
+Ссылка на основную версию перевода: [trans.rpground.ru/index.php?title=Thy\_Game-Mastering\_Commandments](http://trans.rpground.ru/index.php?title=Thy_Game-Mastering_Commandments)
 
 # Ваши заповеди вождения
 

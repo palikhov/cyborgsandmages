@@ -1,10 +1,10 @@
 ---
-title: 'Про Организации (Factions), часть 1'
-date: '2020-06-20'
-categories:
-  - 'our-materials'
-tags:
-  - 'factions'
+title: "Про Организации (Factions), часть 1"
+date: "2020-06-20"
+categories: 
+  - "our-materials"
+tags: 
+  - "factions"
 ---
 
 # СЛОВАРЬ ОСНОВНЫХ ПОНЯТИЙ И ТЕРМИНОВ

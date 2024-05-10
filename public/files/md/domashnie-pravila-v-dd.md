@@ -1,12 +1,12 @@
 ---
-title: 'Домашние правила в D&D'
-date: '2022-08-26'
-categories:
-  - 'krossposty'
-  - 'translations-homebrew'
-tags:
-  - 'gm-advice'
-  - 'translate'
+title: "Домашние правила в D&D"
+date: "2022-08-26"
+categories: 
+  - "krossposty"
+  - "translations-homebrew"
+tags: 
+  - "gm-advice"
+  - "translate"
 ---
 
 #crosspost #houserule #translate #actions #spells #crits #gmadvice #gmtips

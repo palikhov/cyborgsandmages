@@ -1,8 +1,8 @@
 ---
-title: 'КАМПАНИИ ВИКИНГОВ - КУЛЬТУРА ВИКИНГОВ'
-date: '2022-12-18'
-categories:
-  - 'translations'
+title: "КАМПАНИИ ВИКИНГОВ - КУЛЬТУРА ВИКИНГОВ"
+date: "2022-12-18"
+categories: 
+  - "translations"
 ---
 
 _#adnd2e #2e #vikings #campaign_

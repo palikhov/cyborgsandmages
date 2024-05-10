@@ -1,10 +1,10 @@
 ---
-title: 'Открытая игровая лицензия'
-date: '2019-08-26'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Открытая игровая лицензия"
+date: "2019-08-26"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 **Открытая игровая лицензия** ([англ.](http://en.wikipedia.org/wiki/ru:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA) Open Game License, OGL) — это свободная лицензия, с помощью которой [игроделы](https://rpg.fandom.com/ru/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%B4%D0%B5%D0%BB) дают разрешение коллегам по хобби или профессии изменять, копировать и распространять часть своих игр — прежде всего [игромеханику](https://rpg.fandom.com/ru/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0). В обмен на это, использующие открытую игровую лицензию обязаны свои копии и производные продукты распространять по такому же соглашению. Игроделы и издатели, использующие открытую игровую лицензию, называются «открытым игровым движением» ([англ.](http://en.wikipedia.org/wiki/ru:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA) open gaming movement)[\[1\]](https://rpg.fandom.com/ru/wiki/Open_Game_License#cite_note-0).

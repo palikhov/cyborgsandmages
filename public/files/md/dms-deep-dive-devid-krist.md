@@ -1,10 +1,10 @@
 ---
 title: "DM's Deep Dive: Дэвид Крист"
-date: '2019-09-11'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubrku'
+date: "2019-09-11"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubrku"
 ---
 
 текст [Mike Shea](https://vk.com/away.php?to=http%3A%2F%2Fmikeshea.net%2FAbout_Mike_Shea.html&cc_key=) от 3 сентября 2019

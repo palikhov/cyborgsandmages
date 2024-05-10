@@ -1,10 +1,10 @@
 ---
-title: 'Отыгрывание роли 101: Создание предыстории'
-date: '2019-05-15'
-categories:
-  - 'articles'
-tags:
-  - 'заметки'
+title: "Отыгрывание роли 101: Создание предыстории"
+date: "2019-05-15"
+categories: 
+  - "articles"
+tags: 
+  - "заметки"
 ---
 
 Продолжаю знакомить вас с зарубежными **[руководствами](https://vk.com/away.php?to=https%3A%2F%2Fwww.dndbeyond.com%2Fposts%2F478-roleplaying-101-building-a-backstory&cc_key=)** по созданию персонажа и его отыгрышу.

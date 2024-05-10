@@ -1,16 +1,16 @@
 ---
-title: 'Снаряжение - для выживания | [E5E]'
-date: '2022-05-24'
-categories:
-  - 'e5e'
-tags:
-  - '5e'
-  - 'creature'
-  - 'e5e'
-  - 'homebrew'
-  - 'perception'
-  - 'travel'
-  - 'снаряжение'
+title: "Снаряжение - для выживания | [E5E]"
+date: "2022-05-24"
+categories: 
+  - "e5e"
+tags: 
+  - "5e"
+  - "creature"
+  - "e5e"
+  - "homebrew"
+  - "perception"
+  - "travel"
+  - "снаряжение"
 ---
 
 **Дата версии:** 24.05.2022
@@ -19,7 +19,7 @@ tags:
 
 **Onedrive:** [E5E - EQUIPMENT - SURVIVAL GEAR REV01 24052022.docx](https://1drv.ms/w/s!Atcrhwwo1lBA19gSUv3WRr9HOoTOwQ?e=OaXFlw)
 
----
+* * *
 
 Adverse weather and gnawing hunger can claim just as many lives as monsters and traps. The following items are necessities when facing inhospitable environments and harsh journeys:
 
@@ -65,6 +65,6 @@ Communal: Suitable for up to 6 Medi¬um-sized creatures. Occupies a 15-foot by 1
 
 **Torch (Alchemical).** The rough, sticky tar at the end of this torch burns through even the most adverse conditions. An alchemical torch burns for 1 hour even in heavy rains, strong winds, and underwater (albeit poorly when submerged, shedding only dim light in a 5-foot radius). Dimmer than a normal torch, it sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-
+ 
 
 <table><tbody><tr><td width="233"><strong>ITEM</strong></td><td width="233"><strong>COST</strong></td><td width="233"><strong>WEIGHT</strong></td></tr><tr><td width="233">Bedroll</td><td width="233">1 gp</td><td width="233">7 lbs.</td></tr><tr><td width="233">Blanket</td><td width="233">5 sp</td><td width="233">3 lbs.</td></tr><tr><td width="233">Climbing gear</td><td width="233">25 gp</td><td width="233">12 lbs.</td></tr><tr><td width="233">Cold weather gear</td><td width="233">15 gp</td><td width="233">12 lbs.</td></tr><tr><td width="233">Compass</td><td width="233">60 gp</td><td width="233">1/2 lb.</td></tr><tr><td width="233">Fishing trap</td><td width="233">5 gp</td><td width="233">10 lbs.</td></tr><tr><td width="233">Hunting snare</td><td width="233">5 gp</td><td width="233">5 lbs.</td></tr><tr><td width="233">Hunting trap</td><td width="233">5 gp</td><td width="233">25 lbs.</td></tr><tr><td width="233">Map (local)</td><td width="233">20 gp</td><td width="233">—</td></tr><tr><td width="233">Map (distant)</td><td width="233">75 gp</td><td width="233">—</td></tr><tr><td width="233">Map (frontier)</td><td width="233">200 gp</td><td width="233">—</td></tr><tr><td width="233">Marshland gear</td><td width="233">10 gp</td><td width="233">6 lbs.</td></tr><tr><td width="233">Mosquito netting</td><td width="233">2 gp</td><td width="233">1/2 lb.</td></tr><tr><td width="233">Rations (1 Supply)</td><td width="233">5 sp</td><td width="233">2 lb.</td></tr><tr><td width="233">Tent (one person)</td><td width="233">1 gp</td><td width="233">10 lbs.</td></tr><tr><td width="233">Tent (two person)</td><td width="233">2 gp</td><td width="233">20 lbs.</td></tr><tr><td width="233">Tent (communal)</td><td width="233">15 gp</td><td width="233">40 lbs.</td></tr><tr><td width="233">Torch</td><td width="233">1 cp</td><td width="233">1 lb.</td></tr><tr><td width="233">Torch (alchemical)</td><td width="233">25 gp</td><td width="233">1 lb.</td></tr></tbody></table>

@@ -1,12 +1,12 @@
 ---
-title: 'Новые волшебные предметы из Infernal Machine Rebuild'
-date: '2019-12-07'
-categories:
-  - 'articles'
-tags:
-  - 'extra-life'
-  - 'magic-items'
-  - 'заметки'
+title: "Новые волшебные предметы из Infernal Machine Rebuild"
+date: "2019-12-07"
+categories: 
+  - "articles"
+tags: 
+  - "extra-life"
+  - "magic-items"
+  - "заметки"
 ---
 
 #### Bridle of Capturing
@@ -19,11 +19,12 @@ A creature controlled by the bridle can be released by the creature that bound i
 
 #### Mummy Rot Antidote
 
-\_Potion, uncommon  
-\_White dust swirls constantly within this pale gray potion. When you drink the potion, it cures you of mummy rot.
+_Potion, uncommon  
+_White dust swirls constantly within this pale gray potion. When you drink the potion, it cures you of mummy rot.  
 
 #### Ruinblade
 
+  
 _Weapon (greatsword), legendary (requires attunement)_
 
 Ruinblade is a unique weapon possessed by Moghadam, the architect of the Tomb of Horrors. A symbol of his au¬thority, Moghadam carries the weapon during the time frame of the adventure to intimidate the tomb's workers. (In later years, after Acererak trapped Moghadam in the completed tomb as an undead archwraith, Moghadam was able to use the weapon as his own phylactery.)  

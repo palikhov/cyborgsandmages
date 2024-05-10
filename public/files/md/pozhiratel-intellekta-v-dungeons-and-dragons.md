@@ -1,10 +1,10 @@
 ---
-title: 'Пожиратель интеллекта в Dungeons and Dragons'
-date: '2019-05-15'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Пожиратель интеллекта в Dungeons and Dragons"
+date: "2019-05-15"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 текст **[MALCON THE FIREBRINGER](https://vk.com/away.php?to=https://oldschoolroleplaying.com/author/malcon-the-firebringer/&cc_key=)** от **[MAY 4, 2019](https://vk.com/away.php?to=https%3A%2F%2Foldschoolroleplaying.com%2Fthe-intellect-devourer-in-dungeons-and-dragons%2F&cc_key=)**

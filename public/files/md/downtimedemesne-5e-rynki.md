@@ -1,16 +1,16 @@
 ---
-title: '[Перевод] — Время простоя и владения (для пятой редакции), ч.8 —Рынки'
-date: '2022-07-08'
-categories:
-  - 'hack-and-slash-downtime-and-demesne-5e'
-  - 'hackandslashmaster'
-  - 'our-materials'
-tags:
-  - '5e'
-  - 'courtny-campbell'
-  - 'downtime'
-  - 'hackandslash'
-  - 'translate'
+title: "[Перевод] — Время простоя и владения (для пятой редакции), ч.8 —Рынки"
+date: "2022-07-08"
+categories: 
+  - "hack-and-slash-downtime-and-demesne-5e"
+  - "hackandslashmaster"
+  - "our-materials"
+tags: 
+  - "5e"
+  - "courtny-campbell"
+  - "downtime"
+  - "hackandslash"
+  - "translate"
 ---
 
 Ранняя и досредневековая экономика основывалась на бартере. Предполагается, что Dungeons & Dragons работает в современной экономике, основанной на монетах. Что мы делаем, когда игроки хотят что-то купить или продать?

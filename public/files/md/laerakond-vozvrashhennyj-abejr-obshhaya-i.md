@@ -1,10 +1,10 @@
 ---
-title: 'Лаэраконд, Возвращенный Абейр: Общая информация'
-date: '2020-01-15'
-categories:
-  - 'articles'
-tags:
-  - 'proverit-rubriku'
+title: "Лаэраконд, Возвращенный Абейр: Общая информация"
+date: "2020-01-15"
+categories: 
+  - "articles"
+tags: 
+  - "proverit-rubriku"
 ---
 
 ![Лаэраконд, Возвращенный Абейр: Общая информация, изображение №1](https://sun9-5.userapi.com/c206524/v206524793/233dd/iBw7-7b6NQw.jpg)

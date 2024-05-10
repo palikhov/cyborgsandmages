@@ -1,16 +1,16 @@
 ---
-title: '[Bestiary] Тактики существ'
-date: '2022-06-22'
-categories:
-  - 'e5e'
-  - 'e5e-bestiary'
-tags:
-  - '5e'
-  - 'bestiary'
-  - 'e5e'
-  - 'gm-tips'
-  - 'homebrew'
-  - 'dm-tips'
+title: "[Bestiary] Тактики существ"
+date: "2022-06-22"
+categories: 
+  - "e5e"
+  - "e5e-bestiary"
+tags: 
+  - "5e"
+  - "bestiary"
+  - "e5e"
+  - "gm-tips"
+  - "homebrew"
+  - "dm-tips"
 ---
 
 Индекс статей и заметок по тактикам существ

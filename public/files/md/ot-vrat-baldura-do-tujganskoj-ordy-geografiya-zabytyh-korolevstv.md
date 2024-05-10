@@ -1,10 +1,10 @@
 ---
-title: 'От Врат Бальдура До Туйганской Орды. География Забытых Королевств'
-date: '2022-08-11'
-categories:
-  - 'forgottenrealms'
-tags:
-  - 'translate'
+title: "От Врат Бальдура До Туйганской Орды. География Забытых Королевств"
+date: "2022-08-11"
+categories: 
+  - "forgottenrealms"
+tags: 
+  - "translate"
 ---
 
 #history #forgottenrealms

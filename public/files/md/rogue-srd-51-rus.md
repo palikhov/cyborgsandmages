@@ -1,10 +1,10 @@
 ---
-title: 'Плут | SRD 5.1'
-date: '2020-09-29'
-categories:
-  - 'srd-translate'
-tags:
-  - 'srd'
+title: "Плут | SRD 5.1"
+date: "2020-09-29"
+categories: 
+  - "srd-translate"
+tags: 
+  - "srd"
 ---
 
 ## Плут

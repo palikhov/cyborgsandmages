@@ -1,12 +1,12 @@
 ---
-title: 'Черты из Помощника игрока'
-date: '2022-08-07'
-categories:
-  - 'e5e'
-  - 'homebrew'
-  - 'hb-rules'
-tags:
-  - 'creature'
+title: "Черты из Помощника игрока"
+date: "2022-08-07"
+categories: 
+  - "e5e"
+  - "homebrew"
+  - "hb-rules"
+tags: 
+  - "creature"
 ---
 
 #feats #dmsguild
