@@ -185,3 +185,18 @@ export const DND_SPELL_SCHOOLS = {
 	abj: 'Преграждение',
 	enc: 'Очарование'
 };
+
+export const DND_CLASSES = {
+	brd: 'Бард',
+	brb: 'Варвар',
+	ftr: 'Боец',
+	clr: 'Клерик',
+	wiz: 'Волшебник',
+	rog: 'Плут',
+	wlk: 'Колдун',
+	sorc: 'Чародей',
+	pld: 'Паладин',
+	rgr: 'Рейнджер',
+	drd: 'Друид',
+	mnk: 'Монах'
+};
