@@ -29,7 +29,7 @@ export const SITE_POST_CATEGORIES = [
 	{
 		path: 'articles',
 		title: 'Статьи',
-		description: 'Статьи про настольные ролевые игры - анализ механик, анализ лора, советы и прочее.'
+		description: 'Статьи про настольные ролевые игры - анализ механик, анализ лора, советы и прочее'
 	},
 	{
 		path: 'translations',
