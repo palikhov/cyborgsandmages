@@ -193,7 +193,7 @@ const spells = defineCollection({
 		school: z.nativeEnum(DND_SPELL_SCHOOLS),
 		time: z.array(
 			z.object({
-				number: z.number().optional(),
+				number: z.number(),
 				unit: z.enum(['action', 'bonus', 'reaction', 'minute', 'hour', 'day', 'special'])
 			})
 		),
@@ -225,14 +225,11 @@ const spells = defineCollection({
 						amount: z.number()
 					})
 					.optional(),
-				concentration: z.boolean().default(false),
-				combat_concentration: z.boolean().default(false)
+				concentration: z.boolean().default(false)
 			})
 		),
 		entries: z.string()
 	})
 });
 
-/* 5E FEATS */
-
-export const collections = { singles, posts, generators, creatures, items, spells };
+export const collections = { singles, posts, generators, creatures, items };
