@@ -98,7 +98,13 @@ export const SITE_FRIENDS = [
 		label: 'Adventure Guys',
 		href: 'https://www.adventureguys.club/',
 		favicon: '/images/decoration/ag.ico'
+	},
+	{
+		label: 'Orb - поиск игр',
+		href: 'https://orbrpg.com/',
+		favicon: '/images/decoration/orb.svg'
 	}
+
 ];
 
 // 5E CONSTS
