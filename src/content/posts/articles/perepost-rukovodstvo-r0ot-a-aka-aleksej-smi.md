@@ -1,0 +1,18 @@
+---
+title: "[Перепост] Руководство r0ot-а aka Алексей Смирнов по верстке в InDesign и шаблон"
+date: "2021-04-28"
+tags: 
+  - "Руководство"
+  - "indesign"
+  - "root"
+  - "шаблон"
+  - "Перепост"
+---
+
+Алексей Смирнов который сделал для русскоязычного сообщества D&D 5e несказанно много - порадовал своим шаблоном для верстки в Indesign и небольшим руководством.
+
+[indesign\_book\_template](https://cyborgsandmages.files.wordpress.com/2021/04/indesign_book_template.pdf)[Скачать](https://cyborgsandmages.files.wordpress.com/2021/04/indesign_book_template.pdf)
+
+А сам шаблон скачать по следующей ссылке
+
+[https://1drv.ms/u/s!Atcrhwwo1lBA07c-bG2SmbeVNzfRWw?e=9wB1ip](https://1drv.ms/u/s!Atcrhwwo1lBA07c-bG2SmbeVNzfRWw?e=9wB1ip)
