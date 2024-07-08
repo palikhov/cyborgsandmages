@@ -35,15 +35,6 @@ li:has(input[type='checkbox']) {
 	@apply list-none pl-0;
 }
 
-.prose code::before,
-.prose code::after {
-	content: none;
-}
-
-.prose code:not(.astro-code code) {
-	@apply bg-brand-ivory text-brand-night;
-}
-
 /* ANCHORS */
 
 .prose h2 > a,
