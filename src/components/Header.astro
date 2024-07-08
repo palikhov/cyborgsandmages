@@ -5,8 +5,8 @@ import { SITE_NAVIGATION, SITE_TITLE } from '../consts';
 ---
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ND6YW3GY5W"></script>
-<script>
+<script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-ND6YW3GY5W"></script>
+<script is:inline>
 	window.dataLayer = window.dataLayer || [];
 	function gtag() {
 		dataLayer.push(arguments);
@@ -36,7 +36,13 @@ import { SITE_NAVIGATION, SITE_TITLE } from '../consts';
 				>Навигация</summary
 			>
 			<div class="mt-2 flex flex-col gap-2">
-				{SITE_NAVIGATION.map((item) => <HeaderLink href={item.href}>{item.label}</HeaderLink>)}
+				{
+					SITE_NAVIGATION.map((item) => (
+						<a href={item.href} class="font-medium hover:text-brand-crimson">
+							{item.label}
+						</a>
+					))
+				}
 			</div>
 		</details>
 	</nav>

@@ -1,56 +1,51 @@
-import { defineConfig } from 'astro/config';
+import { defineConfig } from "astro/config";
 
-import Icons from 'unplugin-icons/vite';
-//import keystatic from '@keystatic/astro';
-import mdx from '@astrojs/mdx';
-//import react from '@astrojs/react';
-import rehypeAutolinkHeadings from 'rehype-autolink-headings';
-import rehypeSlug from 'rehype-slug';
-import sitemap from '@astrojs/sitemap';
-import svelte from '@astrojs/svelte';
-import tailwind from '@astrojs/tailwind';
-import vercel from '@astrojs/vercel/static';
+import Icons from "unplugin-icons/vite";
+import mdx from "@astrojs/mdx";
+import rehypeAutolinkHeadings from "rehype-autolink-headings";
+import rehypeSlug from "rehype-slug";
+import sitemap from "@astrojs/sitemap";
+import svelte from "@astrojs/svelte";
+import tailwind from "@astrojs/tailwind";
+import vercel from "@astrojs/vercel/static";
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://cyborgsandmages.com',
-	output: 'static',
+	site: "https://cyborgsandmages.com",
+	output: "static",
 	adapter: vercel({
 		webAnalytics: {
-			enabled: true
-		}
+			enabled: true,
+		},
 	}),
 	integrations: [
 		svelte(),
 		mdx({
 			remarkRehype: {
-				footnoteLabel: 'Примечания'
+				footnoteLabel: "Примечания",
 			},
 			rehypePlugins: [
 				rehypeSlug,
 				[
 					rehypeAutolinkHeadings,
 					{
-						behavior: 'append',
-						test: ['h2', 'h3']
-					}
-				]
+						behavior: "append",
+						test: ["h2", "h3"],
+					},
+				],
 			],
 			extendDefaultPlugins: true,
-			syntaxHighlight: false
+			syntaxHighlight: false,
 		}),
 		tailwind(),
-		sitemap({
-			filter: (page) =>
-				page !== 'https://cyborgsandmages.com/keystatic' && page !== 'https://cyborgsandmages.com/keystatic/'
-		})
+		sitemap(),
 	],
 	vite: {
 		plugins: [
 			Icons({
-				compiler: 'astro',
-				scale: 1.5
-			})
-		]
-	}
+				compiler: "astro",
+				scale: 1.5,
+			}),
+		],
+	},
 });
