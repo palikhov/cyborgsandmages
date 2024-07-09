@@ -8,6 +8,7 @@ import Creature from '~components/5e/Creature.astro';
 import Item from '~components/5e/Item.astro';
 import Link from '~components/Link.astro';
 import File from '~components/File.astro';
+import Youtube from '~components/Youtube.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('posts');
@@ -31,6 +32,7 @@ const { Content, headings } = await post.render();
 			Verse: Verse,
 			Link: Link,
 			File: File,
+			Youtube: Youtube,
 			Creature: Creature,
 			Item: Item,
 			Generator: Generator
