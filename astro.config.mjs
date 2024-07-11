@@ -1,4 +1,4 @@
-import { defineConfig } from "astro/config";
+import { defineConfig, envField } from "astro/config";
 
 import Icons from "unplugin-icons/vite";
 import mdx from "@astrojs/mdx";
