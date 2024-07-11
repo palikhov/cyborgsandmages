@@ -23,8 +23,6 @@ type Props = CollectionEntry<'posts'>;
 
 const post = Astro.props;
 
-console.log(post);
-
 const { Content, headings } = await post.render();
 ---
 
@@ -42,5 +40,5 @@ const { Content, headings } = await post.render();
 		}}
 	/>
 
-	<AIQA article={post.body} client:visible />
+	<AIQA article={post} client:visible />
 </ArticleLayout>
