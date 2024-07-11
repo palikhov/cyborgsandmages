@@ -18,6 +18,13 @@ export default defineConfig({
 			enabled: true,
 		},
 	}),
+	experimental: {
+    env: {
+      schema: {
+				GROQ_KEY: envField.string({ context: "server", access: "secret" }),
+			},
+    },
+  },
 	integrations: [
 		svelte(),
 		mdx({

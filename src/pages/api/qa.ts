@@ -1,10 +1,10 @@
 import type { APIRoute } from "astro";
+import { GROQ_KEY } from "astro:env/server"
+
 export const prerender = false;
 
 import { createOpenAI } from '@ai-sdk/openai';
 import { StreamingTextResponse, streamText } from 'ai';
-
-const GROQ_KEY = import.meta.env.GROQ_KEY;
 
 export const POST: APIRoute = async ({ request }) => {
   const groq = createOpenAI({
