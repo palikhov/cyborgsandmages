@@ -25,6 +25,6 @@
 	</form>
 
 	{#if $completion}
-		<div class="border border-brand-ivory rounded p-4 font-sans text-sm text-white">{@html $completion}</div>
+		<div class="border border-brand-ivory rounded p-4 font-sans text-white">{@html $completion}</div>
 	{/if}
 </div>

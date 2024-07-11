@@ -16,7 +16,8 @@ export const POST: APIRoute = async ({ request }) => {
 
 	const result = await streamText({
 		model: groq("llama3-8b-8192"),
-		maxTokens: 5000,
+		temperature: 0.5,
+		maxTokens: 4000,
 		system:
 			"You're an assistant that summarizes the content of the provided article. Always reply in Russian language.",
 		prompt: `Article: ${prompt}`,
