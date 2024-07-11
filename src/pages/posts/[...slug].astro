@@ -9,6 +9,7 @@ import Item from '~components/5e/Item.astro';
 import Link from '~components/Link.astro';
 import File from '~components/File.astro';
 import Youtube from '~components/Youtube.astro';
+import AIQA from '~components/AIQA.svelte';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('posts');
@@ -21,6 +22,8 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<'posts'>;
 
 const post = Astro.props;
+
+console.log(post);
 
 const { Content, headings } = await post.render();
 ---
@@ -38,4 +41,6 @@ const { Content, headings } = await post.render();
 			Generator: Generator
 		}}
 	/>
+
+	<AIQA article={post.body} client:visible />
 </ArticleLayout>

@@ -7,12 +7,12 @@ import rehypeSlug from "rehype-slug";
 import sitemap from "@astrojs/sitemap";
 import svelte from "@astrojs/svelte";
 import tailwind from "@astrojs/tailwind";
-import vercel from "@astrojs/vercel/static";
+import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({
 	site: "https://cyborgsandmages.com",
-	output: "static",
+	output: "hybrid",
 	adapter: vercel({
 		webAnalytics: {
 			enabled: true,
