@@ -19,8 +19,8 @@ export const POST: APIRoute = async ({ request }) => {
 	const { title, author } = article.data;
 
 	const result = await streamText({
-		model: groq("llama3-8b-8192"),
-		temperature: 0.4,
+		model: groq("llama-3.1-70b-versatile"),
+		temperature: 0.5,
 		maxTokens: 5000,
 		system:
 			`You are an expert assistant specializing in summarizing articles. Follow these guidelines:
