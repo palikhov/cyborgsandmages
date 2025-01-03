@@ -1,8 +1,8 @@
 ---
-import type { CollectionEntry } from 'astro:content';
-import { getEntry } from 'astro:content';
+import type { CollectionEntry } from "astro:content";
+import { getEntry } from "astro:content";
 
-import { DND_RARITY, DND_CURRENCY } from 'src/consts';
+import { DND_RARITY, DND_CURRENCY } from "src/consts";
 
 export type Props = {
 	id: string;
@@ -10,15 +10,15 @@ export type Props = {
 
 const { id } = Astro.props;
 
-const item = await getEntry('items', id);
+const item = await getEntry("items", id);
 
 if (item === undefined) {
-	throw new Error('Предмет не найден');
+	throw new Error("Предмет не найден");
 }
 
 const { Content } = await item.render();
 
-const data: CollectionEntry<'items'>['data'] = item.data;
+const data: CollectionEntry<"items">["data"] = item.data;
 
 const { name, source, type, subtype, rarity, attunement, cost, currency, weight, property } = data;
 ---

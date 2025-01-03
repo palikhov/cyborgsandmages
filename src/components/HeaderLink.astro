@@ -1,19 +1,21 @@
 ---
-import type { HTMLAttributes } from 'astro/types';
+import type { HTMLAttributes } from "astro/types";
 
-type Props = HTMLAttributes<'a'>;
+type Props = HTMLAttributes<"a">;
 
 const { href } = Astro.props;
 
 const { pathname } = Astro.url;
 
-let isActive = pathname.startsWith('/posts' + href) || pathname.startsWith(href);
+let isActive = pathname.startsWith("/posts" + href) || pathname.startsWith(href);
 
-if (href === '/' && pathname !== '/') {
+if (href === "/" && pathname !== "/") {
 	isActive = false;
 }
 ---
 
-<a href={href} class:list={['font-medium hover:text-brand-crimson', { 'text-brand-crimson': isActive }]}>
+<a
+	href={href}
+	class:list={["font-medium hover:text-brand-crimson", { "text-brand-crimson": isActive }]}>
 	<slot />
 </a>

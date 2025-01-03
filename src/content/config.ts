@@ -1,14 +1,14 @@
-import { any } from 'astro/zod';
-import { defineCollection, z } from 'astro:content';
-import { DND_SPELL_SCHOOLS, DND_SPELL_LEVELS } from 'src/consts';
+import { any } from "astro/zod";
+import { defineCollection, z } from "astro:content";
+import { DND_SPELL_SCHOOLS, DND_SPELL_LEVELS } from "src/consts";
 
 /* SINGLE PAGES */
 const singles = defineCollection({
-	type: 'content',
+	type: "content",
 	schema: z.object({
 		title: z.string(),
 		description: z.string().refine((val) => val.length <= 1000, {
-			message: 'Описание не может быть длиннее 400 символов.'
+			message: "Описание не может быть длиннее 400 символов."
 		}),
 		links: z
 			.array(
@@ -23,19 +23,19 @@ const singles = defineCollection({
 
 /* POST PAGES */
 const posts = defineCollection({
-	type: 'content',
+	type: "content",
 	schema: ({ image }) =>
 		z.object({
 			title: z.string(),
 			description: z.string().refine((val) => val.length <= 400, {
-				message: 'Описание не может быть длиннее 400 символов.'
+				message: "Описание не может быть длиннее 400 символов."
 			}),
 			date: z
 				.string()
 				.or(z.date())
 				.transform((val) => new Date(val)),
 			cover: image().optional(),
-			author: z.string().default('Антон «Palant» Палихов'),
+			author: z.string().default("Антон «Palant» Палихов"),
 			translator: z.string().optional(),
 			tags: z.array(z.string()),
 			links: z
@@ -53,7 +53,7 @@ const posts = defineCollection({
 
 /* GENERATORS */
 const generators = defineCollection({
-	type: 'data',
+	type: "data",
 	schema: z.object({
 		title: z.string(),
 		description: z.string(),
@@ -68,17 +68,17 @@ const generators = defineCollection({
 
 /* 5E CREATURES */
 const creatures = defineCollection({
-	type: 'content',
+	type: "content",
 	schema: z.object({
 		name: z.string(),
 		source: z.string(),
-		size: z.enum(['t', 's', 'm', 'l', 'h', 'g', 'a']),
+		size: z.enum(["t", "s", "m", "l", "h", "g", "a"]),
 		type: z.string(),
 		subtype: z.string().optional(),
-		alignment: z.enum(['lg', 'ng', 'cg', 'ln', 'tn', 'cn', 'le', 'ne', 'ce', 'u']),
+		alignment: z.enum(["lg", "ng", "cg", "ln", "tn", "cn", "le", "ne", "ce", "u"]),
 		ac: z.object({
 			value: z.number(),
-			type: z.string().default('естественный доспех')
+			type: z.string().default("естественный доспех")
 		}),
 		hp: z.object({
 			value: z.number(),
@@ -173,10 +173,10 @@ const items = defineCollection({
 		source: z.string(),
 		type: z.string(),
 		subtype: z.string().optional(),
-		rarity: z.enum(['c', 'u', 'r', 'v', 'l', 'a']).optional(),
+		rarity: z.enum(["c", "u", "r", "v", "l", "a"]).optional(),
 		attunement: z.string().optional(),
 		cost: z.number().optional(),
-		currency: z.enum(['cp', 'sp', 'gp', 'ep', 'pp']).default('gp'),
+		currency: z.enum(["cp", "sp", "gp", "ep", "pp"]).default("gp"),
 		weight: z.number().optional(),
 		property: z.string().optional()
 	})
@@ -184,7 +184,7 @@ const items = defineCollection({
 
 /* 5E SPELLS */
 const spells = defineCollection({
-	type: 'data',
+	type: "data",
 	schema: z.object({
 		name: z.string(),
 		source: z.string().optional(),
@@ -194,13 +194,13 @@ const spells = defineCollection({
 		time: z.array(
 			z.object({
 				number: z.number(),
-				unit: z.enum(['action', 'bonus', 'reaction', 'minute', 'hour', 'day', 'special'])
+				unit: z.enum(["action", "bonus", "reaction", "minute", "hour", "day", "special"])
 			})
 		),
 		range: z.object({
-			type: z.enum(['point', 'line', 'cone', 'cube', 'sphere', 'hemisphere', 'cylinder', 'plane', 'self']),
+			type: z.enum(["point", "line", "cone", "cube", "sphere", "hemisphere", "cylinder", "plane", "self"]),
 			distance: z.object({
-				type: z.enum(['feet', 'miles', 'sight']),
+				type: z.enum(["feet", "miles", "sight"]),
 				amount: z.number()
 			})
 		}),
@@ -218,10 +218,10 @@ const spells = defineCollection({
 			.optional(),
 		duration: z.array(
 			z.object({
-				type: z.enum(['instant', 'timed', 'permanent', 'special']),
+				type: z.enum(["instant", "timed", "permanent", "special"]),
 				duration: z
 					.object({
-						type: z.enum(['instant', 'round', 'minute', 'hour', 'day', 'year', 'special']),
+						type: z.enum(["instant", "round", "minute", "hour", "day", "year", "special"]),
 						amount: z.number()
 					})
 					.optional(),

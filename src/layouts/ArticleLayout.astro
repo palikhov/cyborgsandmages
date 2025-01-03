@@ -1,10 +1,9 @@
 ---
-import type { CollectionEntry } from 'astro:content';
+import type { CollectionEntry } from "astro:content";
 import { Image } from "astro:assets";
 import FormattedDate from "~components/FormattedDate.astro";
-import Share from "~components/Share.astro"
+import Share from "~components/Share.astro";
 import BaseLayout from "~layouts/BaseLayout.astro";
-
 
 type Props = CollectionEntry<"posts">;
 
@@ -13,10 +12,12 @@ const { data, headings, slug } = Astro.props;
 const { title, description, date, cover, author, translator, tags, links } = data;
 ---
 
-<BaseLayout {title} {description} {headings} {links}>
-	<article
-		class="prose my-8 w-full max-w-4xl px-2 font-serif sm:prose-lg lg:prose-xl sm:px-0"
-	>
+<BaseLayout
+	{title}
+	{description}
+	{headings}
+	{links}>
+	<article class="prose my-8 w-full max-w-4xl px-2 font-serif sm:prose-lg lg:prose-xl sm:px-0">
 		{
 			cover && (
 				<Image
@@ -41,7 +42,15 @@ const { title, description, date, cover, author, translator, tags, links } = dat
 			<div><FormattedDate date={date} /></div>
 
 			<div class="not-prose flex flex-wrap">
-				{tags.sort().flatMap((tag) => <a href=`/tags/${tag}` class="tag">{tag}</a>)}
+				{
+					tags.sort().flatMap((tag) => (
+						<a
+							href={`/tags/${tag}`}
+							class="tag">
+							{tag}
+						</a>
+					))
+				}
 			</div>
 		</div>
 
@@ -53,14 +62,21 @@ const { title, description, date, cover, author, translator, tags, links } = dat
 			<p>
 				Если вам понравилась эта статья или у вас есть комментарии, присоединяйтесь к дискуссии <a
 					href="https://t.me/cyborgs_and_mages"
-					target="_blank">в канале Telegram</a
-				> или <a href="https://discord.gg/yrJqvCqU3w" target="_blank"
+					target="_blank"
+					>в канале Telegram</a
+				> или <a
+					href="https://discord.gg/yrJqvCqU3w"
+					target="_blank"
 					>сервере в Discord</a
 				>.
 			</p>
 
-	
-		   <Share {title} {description} {slug} {tags} />  
+			<Share
+				{title}
+				{description}
+				{slug}
+				{tags}
+			/>
 		</div>
 	</article>
 </BaseLayout>

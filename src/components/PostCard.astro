@@ -11,8 +11,11 @@ interface Props {
 const { post } = Astro.props;
 ---
 
-<div class="prose mb-6 flex w-full max-w-none flex-col items-center font-serif sm:prose-lg sm:flex-row">
-	<a href={`/posts/${post.slug}`} class="w-full sm:w-64 sm:min-w-max">
+<div
+	class="prose mb-6 flex w-full max-w-none flex-col items-center font-serif sm:prose-lg sm:flex-row">
+	<a
+		href={`/posts/${post.slug}`}
+		class="w-full sm:w-64 sm:min-w-max">
 		{
 			post.data.cover ? (
 				<Image
@@ -34,11 +37,25 @@ const { post } = Astro.props;
 		}
 	</a>
 	<div class="mt-4 sm:ml-6 sm:mt-0">
-		<a href={`/posts/${post.slug}`} class="no-underline"><h2 class="!my-1">{post.data.title}</h2></a>
-		<span class="font-sans text-base text-brand-gold">{post.data.author}, <FormattedDate date={post.data.date} /></span>
+		<a
+			href={`/posts/${post.slug}`}
+			class="no-underline"
+			><h2 class="!my-1">{post.data.title}</h2></a
+		>
+		<span class="font-sans text-base text-brand-gold"
+			>{post.data.author}, <FormattedDate date={post.data.date} /></span
+		>
 
 		<div class="not-prose flex flex-wrap">
-			{post.data.tags.sort().flatMap((tag) => <a href=`/tags/${tag}` class="tag">{tag}</a>)}
+			{
+				post.data.tags.sort().flatMap((tag) => (
+					<a
+						href={`/tags/${tag}`}
+						class="tag">
+						{tag}
+					</a>
+				))
+			}
 		</div>
 
 		<p>

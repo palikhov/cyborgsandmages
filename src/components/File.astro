@@ -1,5 +1,5 @@
 ---
-import TablerChevronsRight from '~icons/tabler/chevrons-right';
+import TablerChevronsRight from "~icons/tabler/chevrons-right";
 
 export type Props = {
 	file: string;
@@ -11,9 +11,8 @@ const { file, title } = Astro.props;
 
 <div class="not-prose my-4 w-full">
 	<a
-		href={'/files/downloads/' + file}
-		class="flex items-center justify-between rounded-md border-2 border-brand-crimson bg-brand-mist p-1.5 hover:bg-brand-crimson hover:text-white"
-	>
+		href={"/files/downloads/" + file}
+		class="flex items-center justify-between rounded-md border-2 border-brand-crimson bg-brand-mist p-1.5 hover:bg-brand-crimson hover:text-white">
 		<span class="font-sans text-base font-medium"> {title ? title : file}</span>
 		<div class="flex items-center font-sans text-sm">
 			<span>Скачать</span>

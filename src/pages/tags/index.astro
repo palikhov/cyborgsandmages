@@ -1,16 +1,19 @@
 ---
-import BaseLayout from '~layouts/BaseLayout.astro';
-import { type CollectionEntry, getCollection } from 'astro:content';
+import BaseLayout from "~layouts/BaseLayout.astro";
+import { type CollectionEntry, getCollection } from "astro:content";
 
-const allPosts = await getCollection('posts');
+const allPosts = await getCollection("posts");
 const uniqueTags = [...new Set(allPosts.flatMap((post) => post.data.tags))];
 const sortedTags = uniqueTags.sort();
 
-const title = 'Тэги';
-const description = 'Список тэгов';
+const title = "Тэги";
+const description = "Список тэгов";
 ---
 
-<BaseLayout {title} {description} sidebar={false}>
+<BaseLayout
+	{title}
+	{description}
+	sidebar={false}>
 	<div class="mx-auto my-8 w-full max-w-4xl px-2">
 		<div class="prose mx-auto text-center font-serif md:prose-lg sm:px-0">
 			<h1>{description}</h1>
@@ -22,8 +25,7 @@ const description = 'Список тэгов';
 			sortedTags.map((tag) => (
 				<a
 					href={`/tags/${tag}`}
-					class="rounded border border-brand-crimson px-2 py-0.5 hover:bg-brand-crimson hover:text-white"
-				>
+					class="rounded border border-brand-crimson px-2 py-0.5 hover:bg-brand-crimson hover:text-white">
 					{tag}
 				</a>
 			))
