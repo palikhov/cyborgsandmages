@@ -1,8 +1,8 @@
 <script lang="ts">
-	import { useCompletion } from '@ai-sdk/svelte';
+	import { useCompletion } from "@ai-sdk/svelte";
 
 	const { input, handleSubmit, completion } = useCompletion({
-		api: '/api/qa'
+		api: "/api/qa"
 	});
 
 	export let article: string;
@@ -15,16 +15,16 @@
 <div class="grid gap-2 pb-2">
 	{#if $completion}
 		<h3>Краткое содержание статьи</h3>
-		<div class="border border-brand-ivory rounded px-4 font-sans prose text-white"><p>{@html $completion}</p></div>
+		<div class="prose rounded border border-brand-ivory px-4 font-sans text-white">
+			<p>{@html $completion}</p>
+		</div>
 	{:else}
 		<form on:submit={handleSubmit}>
-			<span class="text-sm font-sans">Нет времени читать всю статью?</span>
+			<span class="font-sans text-sm">Нет времени читать всю статью?</span>
 			<button
 				type="submit"
-				class="bg-brand-crimson p-2 rounded text-white font-medium font-sans flex items-center text-sm"
-			>
-				{@html icon} <span class="ml-0.5">Резюмировать</span></button
-			>
+				class="flex items-center rounded bg-brand-crimson p-2 font-sans text-sm font-medium text-white">
+				{@html icon} <span class="ml-0.5">Резюмировать</span></button>
 		</form>
 	{/if}
 </div>

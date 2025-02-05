@@ -1,6 +1,6 @@
 ---
-import { getEntry } from 'astro:content';
-import SvelteGenerator from '~components/SvelteGenerator.svelte';
+import { getEntry } from "astro:content";
+import SvelteGenerator from "~components/SvelteGenerator.svelte";
 
 export type Props = {
 	id: string;
@@ -8,13 +8,16 @@ export type Props = {
 
 const { id } = Astro.props;
 
-const generator = await getEntry('generators', id);
+const generator = await getEntry("generators", id);
 
 if (generator === undefined) {
-	throw new Error('Генератор не найден');
+	throw new Error("Генератор не найден");
 }
 
 const data = generator.data;
 ---
 
-<SvelteGenerator {data} client:visible />
+<SvelteGenerator
+	{data}
+	client:visible
+/>

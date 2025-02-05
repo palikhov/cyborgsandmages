@@ -1,10 +1,10 @@
 ---
-import { type CollectionEntry, getCollection } from 'astro:content';
-import BaseLayout from '~layouts/BaseLayout.astro';
-import PostCard from '~components/PostCard.astro';
+import { type CollectionEntry, getCollection } from "astro:content";
+import BaseLayout from "~layouts/BaseLayout.astro";
+import PostCard from "~components/PostCard.astro";
 
 export async function getStaticPaths() {
-	const allPosts = await getCollection('posts');
+	const allPosts = await getCollection("posts");
 	const uniqueTags = [...new Set(allPosts.flatMap((post) => post.data.tags))];
 
 	return uniqueTags.flatMap((tag) => {
@@ -26,14 +26,17 @@ const title = `Статьи с тэгом «${tag}»`;
 const description = `Статьи с тэгом «${tag}»`;
 ---
 
-<BaseLayout {title} {description} sidebar={false}>
+<BaseLayout
+	{title}
+	{description}
+	sidebar={false}>
 	<div class="mx-auto my-8 w-full max-w-4xl px-2">
 		<div class="prose mx-auto text-center font-serif md:prose-lg sm:px-0">
 			<h1>{description}</h1>
 		</div>
 
 		<div class="mt-12 flex flex-col">
-			{posts.flatMap((post: CollectionEntry<'posts'>) => <PostCard post={post} />)}
+			{posts.flatMap((post: CollectionEntry<"posts">) => <PostCard post={post} />)}
 		</div>
 	</div>
 </BaseLayout>

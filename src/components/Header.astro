@@ -1,25 +1,35 @@
 ---
-import HeaderLink from '~components/HeaderLink.astro';
-import Socials from '~components/Socials.astro';
-import { SITE_NAVIGATION, SITE_TITLE } from '../consts';
+import HeaderLink from "~components/HeaderLink.astro";
+import Socials from "~components/Socials.astro";
+import { SITE_NAVIGATION, SITE_TITLE } from "../consts";
 ---
 
 <!-- Google tag (gtag.js) -->
-<script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-ND6YW3GY5W"></script>
+<script
+	is:inline
+	async
+	src="https://www.googletagmanager.com/gtag/js?id=G-ND6YW3GY5W"
+></script>
 <script is:inline>
 	window.dataLayer = window.dataLayer || [];
 	function gtag() {
 		dataLayer.push(arguments);
 	}
-	gtag('js', new Date());
+	gtag("js", new Date());
 
-	gtag('config', 'G-ND6YW3GY5W');
+	gtag("config", "G-ND6YW3GY5W");
 </script>
 
 <header class="my-4 w-full sm:my-6">
 	<div class="flex flex-col items-center gap-2 md:flex-row">
-		<a href="/" class="flex flex-1 items-center gap-2">
-			<img src="/images/decoration/logo-small.webp" alt={SITE_TITLE} class="h-14 w-14" />
+		<a
+			href="/"
+			class="flex flex-1 items-center gap-2">
+			<img
+				src="/images/decoration/logo-small.webp"
+				alt={SITE_TITLE}
+				class="h-14 w-14"
+			/>
 			<h2 class="font-serif text-lg font-bold text-brand-ivory sm:text-xl">
 				{SITE_TITLE}
 			</h2>
@@ -38,7 +48,9 @@ import { SITE_NAVIGATION, SITE_TITLE } from '../consts';
 			<div class="mt-2 flex flex-col gap-2">
 				{
 					SITE_NAVIGATION.map((item) => (
-						<a href={item.href} class="font-medium hover:text-brand-crimson">
+						<a
+							href={item.href}
+							class="font-medium hover:text-brand-crimson">
 							{item.label}
 						</a>
 					))

@@ -1,16 +1,16 @@
 ---
-import { type CollectionEntry, getCollection } from 'astro:content';
-import BaseLayout from '~layouts/BaseLayout.astro';
-import PostCard from '~components/PostCard.astro';
-import { SITE_POST_CATEGORIES } from 'src/consts';
+import { type CollectionEntry, getCollection } from "astro:content";
+import BaseLayout from "~layouts/BaseLayout.astro";
+import PostCard from "~components/PostCard.astro";
+import { SITE_POST_CATEGORIES } from "src/consts";
 
-import TablerArrowBadgeLeft from '~icons/tabler/arrow-badge-left';
-import TablerArrowBadgeLeftFilled from '~icons/tabler/arrow-badge-left-filled';
-import TablerArrowBadgeRight from '~icons/tabler/arrow-badge-right';
-import TablerArrowBadgeRightFilled from '~icons/tabler/arrow-badge-right-filled';
+import TablerArrowBadgeLeft from "~icons/tabler/arrow-badge-left";
+import TablerArrowBadgeLeftFilled from "~icons/tabler/arrow-badge-left-filled";
+import TablerArrowBadgeRight from "~icons/tabler/arrow-badge-right";
+import TablerArrowBadgeRightFilled from "~icons/tabler/arrow-badge-right-filled";
 
 export async function getStaticPaths({ paginate }) {
-	const allPosts = await getCollection('posts');
+	const allPosts = await getCollection("posts");
 
 	const allCategories = SITE_POST_CATEGORIES.flatMap((category) => category.path);
 
@@ -33,7 +33,10 @@ export async function getStaticPaths({ paginate }) {
 const { page, meta } = Astro.props;
 ---
 
-<BaseLayout title={meta.title} description={meta.description} sidebar={false}>
+<BaseLayout
+	title={meta.title}
+	description={meta.description}
+	sidebar={false}>
 	<div class="mx-auto my-8 w-full max-w-4xl px-2">
 		<div class="prose mx-auto text-center font-serif md:prose-lg sm:px-0">
 			<h1>{meta.title}</h1>
@@ -41,7 +44,7 @@ const { page, meta } = Astro.props;
 		</div>
 
 		<div class="mt-12 flex flex-col">
-			{page.data.flatMap((post: CollectionEntry<'posts'>) => <PostCard post={post} />)}
+			{page.data.flatMap((post: CollectionEntry<"posts">) => <PostCard post={post} />)}
 		</div>
 
 		<div class="my-4 flex justify-center space-x-4">

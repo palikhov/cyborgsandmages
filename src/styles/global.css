@@ -27,11 +27,11 @@
 	@apply !bg-black;
 }
 
-input[type='checkbox'] {
+input[type="checkbox"] {
 	@apply my-0;
 }
 
-li:has(input[type='checkbox']) {
+li:has(input[type="checkbox"]) {
 	@apply list-none pl-0;
 }
 
@@ -43,7 +43,7 @@ li:has(input[type='checkbox']) {
 }
 
 .prose a .icon::before {
-	content: '#';
+	content: "#";
 	@apply ml-2;
 }
 

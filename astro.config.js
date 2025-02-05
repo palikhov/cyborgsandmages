@@ -7,29 +7,30 @@ import rehypeSlug from "rehype-slug";
 import sitemap from "@astrojs/sitemap";
 import svelte from "@astrojs/svelte";
 import tailwind from "@astrojs/tailwind";
-import vercel from "@astrojs/vercel/serverless";
+import vercel from "@astrojs/vercel";
+
+import { sitemapCopier } from "./sitemap-copier.ts";
 
 // https://astro.build/config
 export default defineConfig({
 	site: "https://cyborgsandmages.com",
-	output: "hybrid",
+	output: "static",
 	adapter: vercel({
 		webAnalytics: {
-			enabled: true,
-		},
+			enabled: true
+		}
 	}),
-	experimental: {
-    env: {
-      schema: {
-				GROQ_KEY: envField.string({ context: "server", access: "secret" }),
-			},
-    },
-  },
+	env: {
+		schema: {
+			GROQ_KEY: envField.string({ context: "server", access: "secret" })
+		}
+	},
+
 	integrations: [
 		svelte(),
 		mdx({
 			remarkRehype: {
-				footnoteLabel: "Примечания",
+				footnoteLabel: "Примечания"
 			},
 			rehypePlugins: [
 				rehypeSlug,
@@ -37,22 +38,23 @@ export default defineConfig({
 					rehypeAutolinkHeadings,
 					{
 						behavior: "append",
-						test: ["h2", "h3"],
-					},
-				],
+						test: ["h2", "h3"]
+					}
+				]
 			],
 			extendDefaultPlugins: true,
-			syntaxHighlight: false,
+			syntaxHighlight: false
 		}),
 		tailwind(),
 		sitemap(),
+		sitemapCopier()
 	],
 	vite: {
 		plugins: [
 			Icons({
 				compiler: "astro",
-				scale: 1.5,
-			}),
-		],
-	},
+				scale: 1.5
+			})
+		]
+	}
 });

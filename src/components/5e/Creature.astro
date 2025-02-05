@@ -1,8 +1,8 @@
 ---
-import type { CollectionEntry } from 'astro:content';
-import { getEntry } from 'astro:content';
+import type { CollectionEntry } from "astro:content";
+import { getEntry } from "astro:content";
 
-import { DND_ALIGNMENTS, DND_SIZES, DND_TYPES } from 'src/consts';
+import { DND_ALIGNMENTS, DND_SIZES, DND_TYPES } from "src/consts";
 
 export type Props = {
 	id: string;
@@ -10,15 +10,15 @@ export type Props = {
 
 const { id } = Astro.props;
 
-const creature = await getEntry('creatures', id);
+const creature = await getEntry("creatures", id);
 
 if (creature === undefined) {
-	throw new Error('Существо не найдено');
+	throw new Error("Существо не найдено");
 }
 
 const { Content } = await creature.render();
 
-const data: CollectionEntry<'creatures'>['data'] = creature.data;
+const data: CollectionEntry<"creatures">["data"] = creature.data;
 
 /* Трансформация данных 5E  */
 
@@ -26,27 +26,27 @@ const data: CollectionEntry<'creatures'>['data'] = creature.data;
 
 const abilities = [
 	{
-		name: 'СИЛ',
+		name: "СИЛ",
 		value: data.abilities.str
 	},
 	{
-		name: 'ЛОВ',
+		name: "ЛОВ",
 		value: data.abilities.dex
 	},
 	{
-		name: 'ТЕЛ',
+		name: "ТЕЛ",
 		value: data.abilities.con
 	},
 	{
-		name: 'ИНТ',
+		name: "ИНТ",
 		value: data.abilities.int
 	},
 	{
-		name: 'МУД',
+		name: "МУД",
 		value: data.abilities.wis
 	},
 	{
-		name: 'ХАР',
+		name: "ХАР",
 		value: data.abilities.cha
 	}
 ];
@@ -79,7 +79,7 @@ const proficiency = (crs: any) => {
 	let pb = 2;
 	let cr = 0;
 
-	if (typeof crs === 'number') {
+	if (typeof crs === "number") {
 		cr = crs;
 	}
 
@@ -135,8 +135,7 @@ const size = DND_SIZES[data.size];
 	</div>
 
 	<div
-		class="grid grid-cols-6 rounded border-b-4 border-t-4 border-brand-gold bg-brand-night py-2 text-sm sm:text-base"
-	>
+		class="grid grid-cols-6 rounded border-b-4 border-t-4 border-brand-gold bg-brand-night py-2 text-sm sm:text-base">
 		{
 			abilities.flatMap((ability) => (
 				<div class="flex flex-col text-center">
