@@ -56,7 +56,6 @@
 	"[css]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"dmbinder.chromeExecutablePath": "\\.local-chromium\\win64-686378\\chrome-win\\chrome.exe",
 	"spellright.language": [
 		"en-US-10-1.",
 		"ru_RU"
@@ -66,5 +65,6 @@
 		"latex",
 		"plaintext",
 		"xsl"
-	]
+	],
+	"dmbinder.chromeExecutablePath": "c:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
 }
