@@ -21,3 +21,4 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+_backups/site-backup-20260827-154632.zip

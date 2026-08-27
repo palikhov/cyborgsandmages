@@ -1,14 +1,195 @@
 ---
-import { getEntry } from "astro:content";
-import SingleLayout from "~layouts/SingleLayout.astro";
-import Aside from "~components/Aside.astro";
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import BaseLayout from "~layouts/BaseLayout.astro";
+import PostCard from "~components/PostCard.astro";
+import banner from "~assets/branding/banner.jpg";
+import { SITE_DESCRIPTION, SITE_TITLE } from "src/consts";
 
-const entry = await getEntry("singles", "home");
-const { Content } = await entry.render();
+const allPosts = await getCollection(
+	"posts",
+	({ data }) => !data.draft && new Date(data.date) <= new Date()
+);
+
+const posts = allPosts.sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
+const latestPosts = posts.slice(0, 6);
+
+const tagCounts = posts.reduce((acc, post) => {
+	post.data.tags.forEach((tag) => acc.set(tag, (acc.get(tag) ?? 0) + 1));
+	return acc;
+}, new Map<string, number>());
+
+const primaryTags = [
+	"Советы Мастеру",
+	"Core d20 RPG",
+	"Перевод",
+	"Forgotten Realms",
+	"Гекскраул",
+	"Сражение",
+	"Бестиарий",
+	"Снаряжение",
+	"Социальные взаимодействия",
+	"Экономика",
+	"Кампания",
+	"Магические предметы"
+].map((tag) => ({ tag, count: tagCounts.get(tag) ?? 0 }));
+
+const collections = [
+	{
+		title: "Статьи",
+		description: "Разборы правил, практические заметки, экономика, бестиарий и инструменты для игры.",
+		href: "/articles/1"
+	},
+	{
+		title: "Переводы",
+		description: "Alexandrian, Angry GM, Sly Flourish, Эд Гринвуд и другие полезные тексты.",
+		href: "/translations/1"
+	},
+	{
+		title: "Core d20 RPG",
+		description: "Домашняя переработка пятой редакции: правила, классы, сражение, снаряжение и бестиарий.",
+		href: "/cored20rpg"
+	},
+	{
+		title: "Забытые Королевства",
+		description: "Лор, города, организации, ответы Эда Гринвуда и материалы по Фаэруну.",
+		href: "/forgotten-realms/1"
+	}
+];
+
+const startingPoints = [
+	{ label: "Индекс переводов", href: "/posts/translations/translations-index" },
+	{ label: "Alexandrian", href: "/posts/translations/alexandrian-index" },
+	{ label: "Гекскраул", href: "/posts/articles/index-hexcrawl" },
+	{ label: "Социальные столкновения", href: "/posts/articles/index-social-encounters" },
+	{ label: "Экономика", href: "/posts/articles/index-economy" },
+	{ label: "Массовые сражения", href: "/posts/articles/index-mass-combat" },
+	{ label: "Советы игроку", href: "/posts/articles/index-player-advice" },
+	{ label: "Твердыни", href: "/posts/articles/index-stronghold" }
+];
+
+const projects = [
+	{
+		title: "Создатель чудовищ",
+		description: "Веб-инструмент для подготовки статблоков существ для пятой редакции.",
+		href: "https://monstermaker.cyborgsandmages.com/"
+	},
+	{
+		title: "Перевод SRD 5.1",
+		description: "Русскоязычная база открытых правил пятой редакции.",
+		href: "https://srd.dnd-5e.org/"
+	},
+	{
+		title: "Core d20 RPG",
+		description: "Правила и заметки по собственной версии игры на основе d20.",
+		href: "/cored20rpg"
+	}
+];
 ---
 
-<SingleLayout
-	title={entry.data.title}
-	description={entry.data.description}>
-	<Content components={{ Aside: Aside }} />
-</SingleLayout>
+<BaseLayout
+	title={SITE_TITLE}
+	description={SITE_DESCRIPTION}
+	sidebar={false}>
+	<div class="mx-auto w-full max-w-6xl px-2 pb-10 font-sans sm:px-0">
+		<section class="grid gap-8 py-8 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
+			<div class="space-y-6">
+				<p class="text-sm font-semibold uppercase tracking-wide text-brand-gold">D&D и настольные ролевые игры</p>
+				<div class="space-y-4 font-serif">
+					<h1 class="max-w-3xl text-4xl font-bold leading-tight text-brand-ivory sm:text-5xl lg:text-6xl">
+						Киборги и Чародеи
+					</h1>
+					<p class="max-w-2xl text-xl leading-8 text-brand-wave">
+						Статьи, переводы, ресурсы и рабочие заметки для мастеров и игроков: от социальных сцен до гекскраула, от Forgotten Realms до Core d20 RPG.
+					</p>
+				</div>
+				<div class="flex flex-wrap gap-3">
+					<a class="rounded bg-brand-crimson px-4 py-2 font-semibold text-white hover:bg-brand-gold hover:text-brand-night" href="/articles/1">Читать статьи</a>
+					<a class="rounded border border-brand-gold px-4 py-2 font-semibold text-brand-gold hover:bg-brand-gold hover:text-brand-night" href="/translations/1">Переводы</a>
+					<a class="rounded border border-brand-wave px-4 py-2 font-semibold text-brand-wave hover:bg-brand-wave hover:text-brand-night" href="/cored20rpg">Core d20 RPG</a>
+				</div>
+			</div>
+			<Image
+				src={banner}
+				alt="Киборги и Чародеи"
+				quality="mid"
+				class="h-auto w-full rounded-md border border-brand-mist object-cover"
+			/>
+		</section>
+
+		<section class="border-y border-brand-mist py-6">
+			<div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+				{
+					collections.map((item) => (
+						<a href={item.href} class="group rounded-md bg-brand-mist p-4 no-underline ring-1 ring-transparent hover:ring-brand-gold">
+							<h2 class="font-serif text-2xl font-bold text-brand-ivory group-hover:text-brand-gold">{item.title}</h2>
+							<p class="mt-2 text-sm leading-6 text-brand-wave">{item.description}</p>
+						</a>
+					))
+				}
+			</div>
+		</section>
+
+		<section class="py-8">
+			<div class="mb-4 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+				<div>
+					<p class="text-sm font-semibold uppercase tracking-wide text-brand-gold">Навигация</p>
+					<h2 class="font-serif text-3xl font-bold text-brand-ivory">Быстрый вход по темам</h2>
+				</div>
+				<a href="/tags" class="text-sm font-semibold text-brand-wave hover:text-brand-gold">Все теги</a>
+			</div>
+			<div class="flex flex-wrap gap-2">
+				{
+					primaryTags.map(({ tag, count }) => (
+						<a href={`/tags/${tag}`} class="tag">
+							{tag} <span class="text-brand-wave">{count}</span>
+						</a>
+					))
+				}
+			</div>
+		</section>
+
+		<section class="grid gap-8 py-8 lg:grid-cols-[1fr_1fr]">
+			<div>
+				<p class="text-sm font-semibold uppercase tracking-wide text-brand-gold">С чего начать</p>
+				<h2 class="mb-4 font-serif text-3xl font-bold text-brand-ivory">Ключевые подборки</h2>
+				<div class="grid gap-2 sm:grid-cols-2">
+					{
+						startingPoints.map((item) => (
+							<a href={item.href} class="rounded-md border border-brand-mist px-3 py-2 font-semibold text-brand-ivory hover:border-brand-gold hover:text-brand-gold">
+								{item.label}
+							</a>
+						))
+					}
+				</div>
+			</div>
+			<div>
+				<p class="text-sm font-semibold uppercase tracking-wide text-brand-gold">Проекты</p>
+				<h2 class="mb-4 font-serif text-3xl font-bold text-brand-ivory">Что сейчас важно</h2>
+				<div class="space-y-3">
+					{
+						projects.map((item) => (
+							<a href={item.href} class="block rounded-md bg-brand-mist p-4 ring-1 ring-transparent hover:ring-brand-gold">
+								<h3 class="font-serif text-xl font-bold text-brand-ivory">{item.title}</h3>
+								<p class="mt-1 text-sm leading-6 text-brand-wave">{item.description}</p>
+							</a>
+						))
+					}
+				</div>
+			</div>
+		</section>
+
+		<section class="py-8">
+			<div class="mb-6 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+				<div>
+					<p class="text-sm font-semibold uppercase tracking-wide text-brand-gold">Новое</p>
+					<h2 class="font-serif text-3xl font-bold text-brand-ivory">Последние материалы</h2>
+				</div>
+				<a href="/articles/1" class="text-sm font-semibold text-brand-wave hover:text-brand-gold">Архив статей</a>
+			</div>
+			<div class="space-y-6">
+				{latestPosts.map((post) => <PostCard post={post} />)}
+			</div>
+		</section>
+	</div>
+</BaseLayout>
