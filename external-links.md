@@ -21,6 +21,10 @@
 
 - `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
 
+## <https://theangrygm.com/lets-build-a-pretty-good-dungeon-series>
+
+- `src/content/posts/translations/angrygm-map-a-pretty-good-dungeon.mdx`
+
 ## <https://theangrygm.com/tweaking-the-core-of-dd-5e>
 
 - `src/content/posts/translations/angrygm-exploration-rules.mdx`
