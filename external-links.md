@@ -16,3 +16,15 @@
 После замены внешней ссылки внутренней соответствующий путь удаляется из записи. Если путей не осталось, удаляется весь раздел URL.
 
 <!-- Новые записи добавляйте ниже этой строки. -->
+
+## <https://gamemakerstoolkit.com>
+
+- `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
+
+## <https://theangrygm.com/tweaking-the-core-of-dd-5e>
+
+- `src/content/posts/translations/angrygm-exploration-rules.mdx`
+
+## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
+
+- `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
