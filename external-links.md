@@ -25,6 +25,10 @@
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
 
+## <https://theangrygm.com/abstract-dungeoneering>
+
+- `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
+
 ## <https://theangrygm.com/babys-first-dungeon-1>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
@@ -33,17 +37,37 @@
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
 
+## <https://theangrygm.com/getting-there-is-half-the-fun>
+
+- `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
+
 ## <https://theangrygm.com/lets-build-a-pretty-good-dungeon-series>
 
 - `src/content/posts/translations/angrygm-map-a-pretty-good-dungeon.mdx`
+
+## <https://theangrygm.com/series/crafting-crafting>
+
+- `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
+
+## <https://theangrygm.com/systematic-interaction>
+
+- `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
 
 ## <https://theangrygm.com/the-fall-of-silverpine-watch>
 
 - `src/content/posts/translations/angrygm-awesome-first-adventure-template.mdx`
 
-## <https://theangrygm.com/tweaking-the-core-of-dd-5e>
+## <https://theangrygm.com/wp-content/uploads/2020/08/PHB-Item-List-Final.pdf>
 
-- `src/content/posts/translations/angrygm-exploration-rules.mdx`
+- `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
+
+## <https://theangrygm.com/wp-content/uploads/2020/08/PHB-Item-List-Final.xlsx>
+
+- `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
+
+## <https://www.gmwordoftheweek.com/home/alchemy>
+
+- `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
 
 ## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
 
