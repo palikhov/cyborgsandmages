@@ -21,9 +21,25 @@
 
 - `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
 
+## <https://ko-fi.com/noxaeturnus>
+
+- `src/content/posts/translations/angrygm-battletoads-problem.mdx`
+
+## <https://theangrygm.com/babys-first-dungeon-1>
+
+- `src/content/posts/translations/angrygm-battletoads-problem.mdx`
+
+## <https://theangrygm.com/babys-first-dungeon-2>
+
+- `src/content/posts/translations/angrygm-battletoads-problem.mdx`
+
 ## <https://theangrygm.com/lets-build-a-pretty-good-dungeon-series>
 
 - `src/content/posts/translations/angrygm-map-a-pretty-good-dungeon.mdx`
+
+## <https://theangrygm.com/the-fall-of-silverpine-watch>
+
+- `src/content/posts/translations/angrygm-awesome-first-adventure-template.mdx`
 
 ## <https://theangrygm.com/tweaking-the-core-of-dd-5e>
 
