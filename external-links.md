@@ -17,6 +17,15 @@
 
 <!-- Новые записи добавляйте ниже этой строки. -->
 
+## <https://dmdavid.com/tag/what-is-the-typical-amout-of-treasure-awarded-in-a-fifth-edition-dungeons-dragons-campaign>
+
+- `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
+
+## <https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view>
+
+- `src/content/posts/translations/angrygm-how-to-price-an-item.mdx`
+- `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
+
 ## <https://gamemakerstoolkit.com>
 
 - `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
@@ -45,6 +54,10 @@
 
 - `src/content/posts/translations/angrygm-map-a-pretty-good-dungeon.mdx`
 
+## <https://theangrygm.com/minimum-necessary-boredom>
+
+- `src/content/posts/translations/angrygm-crafting-away-from-the-table.mdx`
+
 ## <https://theangrygm.com/series/crafting-crafting>
 
 - `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
@@ -57,6 +70,22 @@
 
 - `src/content/posts/translations/angrygm-awesome-first-adventure-template.mdx`
 
+## <https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-Original.xlsx>
+
+- `src/content/posts/translations/angrygm-how-to-describe-an-item.mdx`
+
+## <https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-With-Final-Qualities.xlsx>
+
+- `src/content/posts/translations/angrygm-how-to-describe-an-item.mdx`
+
+## <https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-With-Initial-Descriptors.xlsx>
+
+- `src/content/posts/translations/angrygm-how-to-describe-an-item.mdx`
+
+## <https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-With-Prices.xlsx>
+
+- `src/content/posts/translations/angrygm-how-to-describe-an-item.mdx`
+
 ## <https://theangrygm.com/wp-content/uploads/2020/08/PHB-Item-List-Final.pdf>
 
 - `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
@@ -64,6 +93,10 @@
 ## <https://theangrygm.com/wp-content/uploads/2020/08/PHB-Item-List-Final.xlsx>
 
 - `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
+
+## <https://www.enworld.org/threads/magic-item-math-of-5e.437937>
+
+- `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
 
 ## <https://www.gmwordoftheweek.com/home/alchemy>
 
