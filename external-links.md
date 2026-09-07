@@ -86,10 +86,6 @@
 
 - `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
 
-## <https://theangrygm.com/systematic-interaction>
-
-- `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
-
 ## <https://theangrygm.com/the-fall-of-silverpine-watch>
 
 - `src/content/posts/translations/angrygm-awesome-first-adventure-template.mdx`
