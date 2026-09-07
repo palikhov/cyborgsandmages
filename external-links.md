@@ -50,6 +50,10 @@
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
 
+## <https://magic.wizards.com/en/articles/archive/making-magic/ten-things-every-game-needs-part-1-part-2-2011-12-19>
+
+- `src/content/posts/translations/angrygm-the-gms-burden-and-other-stories.mdx`
+
 ## <https://possumcreek.medium.com/a-dozen-fragments-on-playground-theory-684104bcb4ab>
 
 - `src/content/posts/translations/the-game-left-unplayed.mdx`
@@ -69,6 +73,10 @@
 ## <https://theangrygm.com/babys-first-dungeon-2>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
+
+## <https://theangrygm.com/gaming-for-fun-part-1-eight-kinds-of-fun>
+
+- `src/content/posts/translations/angrygm-why-are-you-doing-this.mdx`
 
 ## <https://theangrygm.com/getting-there-is-half-the-fun>
 
@@ -114,6 +122,10 @@
 
 - `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
 
+## <https://wordpress.com>
+
+- `src/content/posts/translations/angrygm-the-gms-burden-and-other-stories.mdx`
+
 ## <https://www.artstation.com/artwork/wDWyg>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
@@ -137,6 +149,10 @@
 ## <https://www.prismaticwasteland.com/blog/my-favorite-trap>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.themonstersknow.com>
+
+- `src/content/posts/translations/angrygm-the-monsters-know-better-than-you.mdx`
 
 ## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
 
