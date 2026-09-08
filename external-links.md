@@ -78,9 +78,21 @@
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
 
+## <http://harbinger-of-doom.blogspot.com/2014/10/the-ranger-class-part-three.html>
+
+- `src/content/posts/translations/tribality-warlock-class-part-two.mdx`
+
 ## <http://harbinger-of-doom.blogspot.com/2014/12/d-5e-investigator-roguish-archetype.html>
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
+
+## <http://harbinger-of-doom.blogspot.com/2015/03/d-5e-problems-in-warlock-design.html>
+
+- `src/content/posts/translations/tribality-warlock-class-part-three.mdx`
+
+## <http://harbinger-of-doom.blogspot.com/2015/04/d-5e-new-warlock-invocations.html>
+
+- `src/content/posts/translations/tribality-warlock-class-part-three.mdx`
 
 ## <http://harbinger-of-doom.blogspot.com/2015/05/d-5e-divine-trickster-rogue-archetype.html>
 
@@ -98,6 +110,10 @@
 ## <http://tribality.com/2015/03/10/elemental-evil-players-companion>
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
+
+## <http://tribality.com/2015/04/13/new-options-for-your-gith-pcs>
+
+- `src/content/posts/translations/tribality-warlock-class-part-three.mdx`
 
 ## <http://tribality.com/2015/11/26/tribal-knowledge-the-single-class-campaign>
 
@@ -152,13 +168,33 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
 
+## <http://www.brandesstoddard.com/2016/12/dd-5e-alternate-threat-tracks>
+
+- `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
+
 ## <http://www.d20srd.org/srd/epic/monsters/leshay.htm>
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
 
+## <http://www.d20srd.org/srd/spells/planarAllyLesser.htm>
+
+- `src/content/posts/translations/tribality-shair-class-part-two.mdx`
+
+## <http://www.d20srd.org/srd/spells/planeShift.htm>
+
+- `src/content/posts/translations/tribality-shair-class-part-two.mdx`
+
+## <http://www.giantitp.com/comics/oots0031.html>
+
+- `src/content/posts/translations/tribality-warlord-class-part-three.mdx`
+
 ## <http://www.imdb.com/title/tt0057115>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <http://www.imdb.com/title/tt0103639>
+
+- `src/content/posts/translations/tribality-shair-part-one-and-only.mdx`
 
 ## <http://www.imdb.com/title/tt1392170>
 
@@ -167,6 +203,18 @@
 ## <http://www.realultimatepower.net/index4.htm>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <http://www.tribality.com/2017/06/29/the-monk-class-part-eight>
+
+- `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
+
+## <http://www.wizards.com/dnd/files/CC_Warlord.pdf>
+
+- `src/content/posts/translations/tribality-warlord-class-part-three.mdx`
+
+## <http://www.wordorigins.org/index.php/more/896>
+
+- `src/content/posts/translations/tribality-warlord-class-part-two.mdx`
 
 ## <https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html>
 
@@ -213,6 +261,18 @@
 ## <https://en.wikipedia.org/wiki/Parkour>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <https://en.wikipedia.org/wiki/Steven_Zirnkilton>
+
+- `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
+
+## <https://en.wikipedia.org/wiki/The_Sandman:_The_Doll%27s_House>
+
+- `src/content/posts/translations/tribality-assassin-class-redux.mdx`
+
+## <https://en.wikipedia.org/wiki/The_Tempest>
+
+- `src/content/posts/translations/tribality-shair-class-part-two.mdx`
 
 ## <https://gamemakerstoolkit.com>
 
@@ -273,6 +333,7 @@
 
 ## <https://theangrygm.com/adjudicate-actions-like-a-boss>
 
+- `src/content/posts/translations/angrygm-fumble-beats-crit.mdx`
 - `src/content/posts/translations/angrygm-the-whatever-stat.mdx`
 
 ## <https://theangrygm.com/babys-first-dungeon-1>
@@ -286,10 +347,6 @@
 ## <https://theangrygm.com/from-zero-to-pitch-in-24-hours>
 
 - `src/content/posts/translations/angrygm-drowning-in-armor-systems-part-1.mdx`
-
-## <https://theangrygm.com/fumble-beats-crit>
-
-- `src/content/posts/translations/angrygm-best-and-worst-of-dnd-3e.mdx`
 
 ## <https://theangrygm.com/gameangry>
 
@@ -380,6 +437,31 @@
 
 - `src/content/posts/translations/angrygm-the-gms-burden-and-other-stories.mdx`
 
+## <https://www.13thagesrd.com/classes/commander>
+
+- `src/content/posts/translations/tribality-warlord-class-part-four.mdx`
+
+## <https://www.amazon.com/Complete-Arcane-Players-Dungeons-Roleplaying/dp/0786934352>
+
+- `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.amazon.com/Dungeonscape-Essential-Adventuring-Dungeons-Roleplaying/dp/0786941189>
+
+- `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.amazon.com/Incarnum-Dungeons-Dragons-Fantasy-Roleplaying/dp/0786937017>
+
+- `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.amazon.com/Magic-TrueName-Dungeons-Roleplaying-Supplement/dp/0786939095>
+
+- `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+- `src/content/posts/translations/tribality-warlock-class-part-zero.mdx`
+
+## <https://www.amazon.com/Players-Option-Elemental-Dungeons-Rulebook/dp/0786959819>
+
+- `src/content/posts/translations/tribality-shair-class-part-two.mdx`
+
 ## <https://www.artstation.com/artwork/wDWyg>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
@@ -387,6 +469,32 @@
 ## <https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.brandesstoddard.com/2014/08/dd-5th-edition-mastermind-roguish-archetype>
+
+- `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
+
+## <https://www.brandesstoddard.com/2016/03/dd-5e-the-protection-fighting-style>
+
+- `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
+
+## <https://www.brandesstoddard.com/2019/01/dd-5e-medium-armor>
+
+- `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
+
+## <https://www.d20pfsrd.com/classes/hybrid-classes/skald>
+
+- `src/content/posts/translations/tribality-warlord-class-part-two.mdx`
+
+## <https://www.dmsguild.com/product/246330/The-Commander--A-Class-of-Leadership-and-Combat-Tactics>
+
+- `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
+- `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
+
+## <https://www.drivethrurpg.com/product/264030/Call-to-Arms-The-Warlord>
+
+- `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
+- `src/content/posts/translations/tribality-warlord-class-part-one.mdx`
 
 ## <https://www.enworld.org/threads/magic-item-math-of-5e.437937>
 
@@ -408,6 +516,22 @@
 
 - `src/content/posts/translations/angrygm-the-monsters-know-better-than-you.mdx`
 
+## <https://www.tribality.com/2017/08/24/the-fighter-class-part-two>
+
+- `src/content/posts/translations/tribality-warlord-class-part-one.mdx`
+
+## <https://www.tribality.com/2018/05/09/the-fighter-class-part-eight>
+
+- `src/content/posts/translations/tribality-warlord-class-part-one.mdx`
+
+## <https://www.tribality.com/2018/06/07/the-fighter-class-part-nine>
+
+- `src/content/posts/translations/tribality-warlord-class-part-one.mdx`
+
+## <https://www.tribality.com/2018/09/19/the-fighter-class-part-the-thirteenth-age>
+
+- `src/content/posts/translations/tribality-warlord-class-part-four.mdx`
+
 ## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
 
 - `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
@@ -423,3 +547,11 @@
 ## <https://www.youtube.com/watch?v=D8zlUUrFK-M>
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
+
+## <https://www.youtube.com/watch?v=bKK-KLDlm20>
+
+- `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.youtube.com/watch?v=jW3PFC86UNI>
+
+- `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
