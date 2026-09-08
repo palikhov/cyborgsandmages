@@ -70,6 +70,10 @@
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
 
+## <https://theangrygm.com/from-zero-to-pitch-in-24-hours>
+
+- `src/content/posts/translations/angrygm-drowning-in-armor-systems-part-1.mdx`
+
 ## <https://theangrygm.com/gaming-for-fun-part-1-eight-kinds-of-fun>
 
 - `src/content/posts/translations/angrygm-designing-with-a-strong-d.mdx`
@@ -78,6 +82,14 @@
 ## <https://theangrygm.com/getting-there-is-half-the-fun>
 
 - `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
+
+## <https://theangrygm.com/herbcraft-in-dd-5e>
+
+- `src/content/posts/translations/angrygm-crafting-herbcraft-part-1.mdx`
+
+## <https://theangrygm.com/i-hate-ability-scores>
+
+- `src/content/posts/translations/angrygm-crafting-herbcraft-part-2.mdx`
 
 ## <https://theangrygm.com/lets-build-a-pretty-good-dungeon-series>
 
@@ -94,6 +106,14 @@
 ## <https://theangrygm.com/the-fall-of-silverpine-watch>
 
 - `src/content/posts/translations/angrygm-awesome-first-adventure-template.mdx`
+
+## <https://theangrygm.com/wp-content/uploads/2017/09/Herbalism-for-DD.pdf>
+
+- `src/content/posts/translations/angrygm-crafting-herbcraft-part-2.mdx`
+
+## <https://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Table.pdf>
+
+- `src/content/posts/translations/angrygm-drowning-in-armor-systems-part-2.mdx`
 
 ## <https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-Original.xlsx>
 
