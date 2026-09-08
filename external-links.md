@@ -62,6 +62,22 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
+## <https://shop.mcdmproductions.com/collections/strongholds-followers>
+
+- `src/content/posts/translations/angrygm-how-to-stat-friends-part-1.mdx`
+
+## <https://theangrygm.com/30-days-of-rpg-a-day-in-one-day>
+
+- `src/content/posts/translations/angrygm-i-hate-ability-scores.mdx`
+
+## <https://theangrygm.com/a-wandering-and-a-a-wondering>
+
+- `src/content/posts/translations/angrygm-between-jobs.mdx`
+
+## <https://theangrygm.com/adjudicate-actions-like-a-boss>
+
+- `src/content/posts/translations/angrygm-the-whatever-stat.mdx`
+
 ## <https://theangrygm.com/babys-first-dungeon-1>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
@@ -74,6 +90,14 @@
 
 - `src/content/posts/translations/angrygm-drowning-in-armor-systems-part-1.mdx`
 
+## <https://theangrygm.com/fumble-beats-crit>
+
+- `src/content/posts/translations/angrygm-best-and-worst-of-dnd-3e.mdx`
+
+## <https://theangrygm.com/gameangry>
+
+- `src/content/posts/translations/angrygm-the-whatever-stat.mdx`
+
 ## <https://theangrygm.com/gaming-for-fun-part-1-eight-kinds-of-fun>
 
 - `src/content/posts/translations/angrygm-designing-with-a-strong-d.mdx`
@@ -83,13 +107,13 @@
 
 - `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
 
+## <https://theangrygm.com/hashtag-adventure-goals>
+
+- `src/content/posts/translations/angrygm-angrys-guide-to-experience.mdx`
+
 ## <https://theangrygm.com/herbcraft-in-dd-5e>
 
 - `src/content/posts/translations/angrygm-crafting-herbcraft-part-1.mdx`
-
-## <https://theangrygm.com/i-hate-ability-scores>
-
-- `src/content/posts/translations/angrygm-crafting-herbcraft-part-2.mdx`
 
 ## <https://theangrygm.com/lets-build-a-pretty-good-dungeon-series>
 
@@ -98,6 +122,10 @@
 ## <https://theangrygm.com/minimum-necessary-boredom>
 
 - `src/content/posts/translations/angrygm-crafting-away-from-the-table.mdx`
+
+## <https://theangrygm.com/monster-building-201-the-dd-monster-dissection-lab>
+
+- `src/content/posts/translations/angrygm-f-cr-theres-a-better-way-part-2.mdx`
 
 ## <https://theangrygm.com/series/crafting-crafting>
 
@@ -114,6 +142,10 @@
 ## <https://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Table.pdf>
 
 - `src/content/posts/translations/angrygm-drowning-in-armor-systems-part-2.mdx`
+
+## <https://theangrygm.com/wp-content/uploads/2019/10/Monster-Stats-by-Tier.pdf>
+
+- `src/content/posts/translations/angrygm-f-cr-theres-a-better-way-part-2.mdx`
 
 ## <https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-Original.xlsx>
 
@@ -138,6 +170,10 @@
 ## <https://theangrygm.com/wp-content/uploads/2020/08/PHB-Item-List-Final.xlsx>
 
 - `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
+
+## <https://theangrygm.com/wp-content/uploads/2020/11/Companion-Characters.pdf>
+
+- `src/content/posts/translations/angrygm-how-to-stat-friends-part-2.mdx`
 
 ## <https://valloric.github.io/statblock5e>
 
@@ -182,3 +218,7 @@
 ## <https://www.youtube.com/watch?v=2RBUR_gzsm0>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.youtube.com/watch?v=9Kgx2b1sIRs>
+
+- `src/content/posts/translations/angrygm-between-jobs.mdx`

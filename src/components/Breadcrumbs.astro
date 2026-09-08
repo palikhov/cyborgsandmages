@@ -1,0 +1,49 @@
+---
+import JsonLd from "~components/JsonLd.astro";
+
+interface Props {
+	items: { name: string; url: string }[];
+}
+
+const { items } = Astro.props;
+const metadata = {
+	"@context": "https://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": items.map((item, index) => ({
+		"@type": "ListItem",
+		"position": index + 1,
+		"name": item.name,
+		"item": item.url
+	}))
+};
+---
+
+<nav
+	aria-label="Хлебные крошки"
+	class="not-prose mb-6 font-sans text-sm">
+	<ol class="flex flex-wrap items-baseline gap-x-2 gap-y-1">
+		{
+			items.map((item, index) => (
+				<li class="min-w-0 [overflow-wrap:anywhere]">
+					{index > 0 && (
+						<span
+							aria-hidden="true"
+							class="mr-2">
+							/
+						</span>
+					)}
+					{index === items.length - 1 ? (
+						<span aria-current="page">{item.name}</span>
+					) : (
+						<a
+							href={item.url}
+							class="underline underline-offset-2 hover:text-brand-gold">
+							{item.name}
+						</a>
+					)}
+				</li>
+			))
+		}
+	</ol>
+</nav>
+<JsonLd data={metadata} />

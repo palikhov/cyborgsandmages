@@ -1,0 +1,29 @@
+---
+import type { CollectionEntry } from "astro:content";
+import JsonLd from "~components/JsonLd.astro";
+
+interface Props {
+	data: CollectionEntry<"posts">["data"];
+	url: string;
+}
+
+const { data, url } = Astro.props;
+const metadata = {
+	"@context": "https://schema.org",
+	"@type": "BlogPosting",
+	"@id": `${url}#article`,
+	url,
+	"mainEntityOfPage": { "@type": "WebPage", "@id": url },
+	"headline": data.title,
+	"description": data.description,
+	"inLanguage": "ru",
+	"author": { "@type": "Person", "name": data.author, "url": data.authorUrl },
+	"translator": data.translator ? { "@type": "Person", "name": data.translator } : undefined,
+	"datePublished": data.date.toISOString(),
+	"dateModified": data.updatedAt?.toISOString(),
+	"image": data.cover ? new URL(data.cover.src, url).href : undefined,
+	"isBasedOn": data.sourceUrl
+};
+---
+
+<JsonLd data={metadata} />

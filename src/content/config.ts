@@ -35,6 +35,9 @@ const posts = defineCollection({
 				.or(z.date())
 				.transform((val) => new Date(val)),
 			cover: image().optional(),
+			updatedAt: z.coerce.date().optional(),
+			sourceUrl: z.string().url().optional(),
+			authorUrl: z.string().url().optional(),
 			author: z.string().default("Антон «Palant» Палихов"),
 			translator: z.string().optional(),
 			tags: z.array(z.string()),

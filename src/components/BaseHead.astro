@@ -10,6 +10,10 @@ export interface Props {
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
 const { title, description = SITE_DESCRIPTION } = Astro.props;
+const documentTitle =
+	Astro.url.pathname === "/"
+		? `${SITE_TITLE} | D&D и другие настольные ролевые игры`
+		: `${title} | ${SITE_TITLE}`;
 ---
 
 <meta
@@ -40,7 +44,7 @@ const { title, description = SITE_DESCRIPTION } = Astro.props;
 />
 
 <!-- Primary Meta Tags -->
-<title>{title} | {SITE_TITLE}</title>
+<title>{documentTitle}</title>
 <meta
 	name="title"
 	content={title}

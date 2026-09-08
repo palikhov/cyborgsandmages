@@ -1,0 +1,14 @@
+---
+interface Props {
+	data: Record<string, unknown>;
+}
+
+const { data } = Astro.props;
+// Keep content containing </script> inside the JSON script element.
+const json = JSON.stringify(data).replace(/</g, "\\u003c");
+---
+
+<script
+	type="application/ld+json"
+	set:html={json}
+/>
