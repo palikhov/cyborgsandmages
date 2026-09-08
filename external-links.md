@@ -25,6 +25,10 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
+## <https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html>
+
+- `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
+
 ## <https://dmdavid.com/tag/what-is-the-typical-amout-of-treasure-awarded-in-a-fifth-edition-dungeons-dragons-campaign>
 
 - `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
@@ -33,6 +37,10 @@
 
 - `src/content/posts/translations/angrygm-how-to-price-an-item.mdx`
 - `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
+
+## <https://dungeons.hismajestytheworm.games>
+
+- `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
 
 ## <https://gamemakerstoolkit.com>
 
