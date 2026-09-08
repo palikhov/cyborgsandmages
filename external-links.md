@@ -62,10 +62,6 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
-## <https://theangrygm.com/abstract-dungeoneering>
-
-- `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
-
 ## <https://theangrygm.com/babys-first-dungeon-1>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
@@ -76,6 +72,7 @@
 
 ## <https://theangrygm.com/gaming-for-fun-part-1-eight-kinds-of-fun>
 
+- `src/content/posts/translations/angrygm-designing-with-a-strong-d.mdx`
 - `src/content/posts/translations/angrygm-why-are-you-doing-this.mdx`
 
 ## <https://theangrygm.com/getting-there-is-half-the-fun>
@@ -121,6 +118,10 @@
 ## <https://theangrygm.com/wp-content/uploads/2020/08/PHB-Item-List-Final.xlsx>
 
 - `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
+
+## <https://valloric.github.io/statblock5e>
+
+- `src/content/posts/translations/angrygm-monster-building-202-supplement.mdx`
 
 ## <https://wordpress.com>
 
