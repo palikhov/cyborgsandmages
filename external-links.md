@@ -17,13 +17,156 @@
 
 <!-- Новые записи добавляйте ниже этой строки. -->
 
+## <http://blogofholding.com>
+
+- `src/content/posts/translations/tribality-rogue-class-part-one.mdx`
+
 ## <http://deltasdnd.blogspot.com/2007/04/magic-number-seven.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
+## <http://dictionary.reference.com/browse/ovate>
+
+- `src/content/posts/translations/tribality-druid-class-part-two.mdx`
+
+## <http://dndtools.eu/feats/book-of-exalted-deeds--52/vow-of-poverty--3081>
+
+- `src/content/posts/translations/tribality-druid-class-part-six.mdx`
+
+## <http://dragaera.wikia.com/wiki/Vlad_Taltos>
+
+- `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <http://en.wikipedia.org/wiki/Baldr>
+
+- `src/content/posts/translations/tribality-druid-class-part-three.mdx`
+
+## <http://en.wikipedia.org/wiki/Pun>
+
+- `src/content/posts/translations/tribality-druid-class-part-five.mdx`
+
+## <http://en.wikipedia.org/wiki/Ritual_of_oak_and_mistletoe>
+
+- `src/content/posts/translations/tribality-druid-class-part-two.mdx`
+
+## <http://en.wikipedia.org/wiki/Shere_Khan>
+
+- `src/content/posts/translations/tribality-druid-class-part-six.mdx`
+
+## <http://en.wikipedia.org/wiki/The_Warlord_Chronicles>
+
+- `src/content/posts/translations/tribality-druid-class-part-one.mdx`
+
+## <http://en.wikipedia.org/wiki/Vates>
+
+- `src/content/posts/translations/tribality-druid-class-part-two.mdx`
+
 ## <http://falsemachine.blogspot.com/2021/02/sticky-goblins.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <http://gameofthrones.wikia.com/wiki/Faceless_Men>
+
+- `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=747>
+
+- `src/content/posts/translations/tribality-druid-class-part-four.mdx`
+
+## <http://harbinger-of-doom.blogspot.com/2014/08/d-5th-edition-mastermind-roguish.html>
+
+- `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
+- `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <http://harbinger-of-doom.blogspot.com/2014/12/d-5e-investigator-roguish-archetype.html>
+
+- `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
+
+## <http://harbinger-of-doom.blogspot.com/2015/05/d-5e-divine-trickster-rogue-archetype.html>
+
+- `src/content/posts/translations/tribality-avenger-part-one-and-onlyish.mdx`
+- `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
+
+## <http://harbinger-of-doom.blogspot.com/2015/10/d-5e-nightgaunt-rogue-archetype.html>
+
+- `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
+
+## <http://rfg.urbanup.com/1534776>
+
+- `src/content/posts/translations/tribality-druid-class-part-six.mdx`
+
+## <http://tribality.com/2015/03/10/elemental-evil-players-companion>
+
+- `src/content/posts/translations/tribality-druid-class-part-six.mdx`
+
+## <http://tribality.com/2015/11/26/tribal-knowledge-the-single-class-campaign>
+
+- `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <http://tvtropes.org/pmwiki/pmwiki.php/Literature/FafhrdAndTheGrayMouser>
+
+- `src/content/posts/translations/tribality-rogue-class-part-one.mdx`
+
+## <http://www.amazon.com/Advanced-Dungeons-Dragons-Complete-Humanoids/dp/1560766115>
+
+- `src/content/posts/translations/tribality-druid-class-part-three.mdx`
+
+## <http://www.amazon.com/Complete-Handbook-Advanced-Dungeons-Dragons/dp/0786901594>
+
+- `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <http://www.amazon.com/Complete-Handbook-Advanced-Dungeons-Supplement/dp/156076886X>
+
+- `src/content/posts/translations/tribality-druid-class-part-three.mdx`
+
+## <http://www.amazon.com/Dungeon-Master-Option-High-Level-Campaigns/dp/0786901683>
+
+- `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <http://www.amazon.com/Dungeons-Dragons-Supplement-I-Greyhawk/dp/B00073026C>
+
+- `src/content/posts/translations/tribality-druid-class-part-one.mdx`
+- `src/content/posts/translations/tribality-rogue-class-part-one.mdx`
+
+## <http://www.amazon.com/Dungeons-Dragons-Supplement-III-Eldritch/dp/B0007302AS>
+
+- `src/content/posts/translations/tribality-druid-class-part-one.mdx`
+
+## <http://www.amazon.com/Handbook-Dungeon-Dragons-Fantasy-Roleplaying/dp/0786926589>
+
+- `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <http://www.amazon.com/King-Arthur-Pendragon-Roleplaying-Legendary/dp/1568820062>
+
+- `src/content/posts/translations/tribality-druid-class-part-three.mdx`
+
+## <http://www.anarchydice.com/2016/01/26/5e-character-archetypes-woe-bearer-rogue>
+
+- `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
+
+## <http://www.atlas-games.com/arm5>
+
+- `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <http://www.bay12games.com/dwarves>
+
+- `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <http://www.d20srd.org/srd/epic/monsters/leshay.htm>
+
+- `src/content/posts/translations/tribality-druid-class-part-four.mdx`
+
+## <http://www.imdb.com/title/tt0057115>
+
+- `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <http://www.imdb.com/title/tt1392170>
+
+- `src/content/posts/translations/tribality-druid-class-part-one.mdx`
+
+## <http://www.realultimatepower.net/index4.htm>
+
+- `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
 
 ## <https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html>
 
@@ -41,6 +184,35 @@
 ## <https://dungeons.hismajestytheworm.games>
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
+
+## <https://en.wikipedia.org/wiki/Alamut_Castle>
+
+- `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <https://en.wikipedia.org/wiki/Argot>
+
+- `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <https://en.wikipedia.org/wiki/Assassin%27s_Creed>
+
+- `src/content/posts/translations/tribality-avenger-part-one-and-onlyish.mdx`
+- `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
+
+## <https://en.wikipedia.org/wiki/Garrett_(character)>
+
+- `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <https://en.wikipedia.org/wiki/Men%27s_high_jump_world_record_progression>
+
+- `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)>
+
+- `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
+
+## <https://en.wikipedia.org/wiki/Parkour>
+
+- `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 
 ## <https://gamemakerstoolkit.com>
 
@@ -73,6 +245,23 @@
 ## <https://shop.mcdmproductions.com/collections/strongholds-followers>
 
 - `src/content/posts/translations/angrygm-how-to-stat-friends-part-1.mdx`
+
+## <https://standsinfire.wordpress.com/2015/06/16/dnd-dark-brigand-rogue>
+
+- `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
+
+## <https://standsinfire.wordpress.com/2015/11/25/this-is-halloween-roguish-archetype-the-jinx>
+
+- `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
+
+## <https://standsinfire.wordpress.com/2015/12/06/al-qadim-adventures-the-holy-slayer>
+
+- `src/content/posts/translations/tribality-avenger-part-one-and-onlyish.mdx`
+- `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
+
+## <https://standsinfire.wordpress.com/2016/01/12/al-qadim-adventures-the-college-of-barbers>
+
+- `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
 
 ## <https://theangrygm.com/30-days-of-rpg-a-day-in-one-day>
 
@@ -230,3 +419,7 @@
 ## <https://www.youtube.com/watch?v=9Kgx2b1sIRs>
 
 - `src/content/posts/translations/angrygm-between-jobs.mdx`
+
+## <https://www.youtube.com/watch?v=D8zlUUrFK-M>
+
+- `src/content/posts/translations/tribality-druid-class-part-four.mdx`
