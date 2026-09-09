@@ -103,6 +103,14 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
 
+## <http://oots.wikia.com/wiki/Roy_Greenhilt>
+
+- `src/content/posts/translations/tribality-fighter-class-part-five.mdx`
+
+## <http://paizo.com/community/blog/v5748dyo5lkm9?Fighter-Class-Preview>
+
+- `src/content/posts/translations/tribality-fighter-class-part-ten.mdx`
+
 ## <http://rfg.urbanup.com/1534776>
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
@@ -168,6 +176,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
 
+## <http://www.brandesstoddard.com/2011/01/crafting-systems-in-tabletop-games-add-second-edition>
+
+- `src/content/posts/translations/tribality-fighter-class-part-four.mdx`
+
 ## <http://www.brandesstoddard.com/2016/12/dd-5e-alternate-threat-tracks>
 
 - `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
@@ -188,6 +200,10 @@
 
 - `src/content/posts/translations/tribality-warlord-class-part-three.mdx`
 
+## <http://www.giantitp.com/comics/oots0136.html>
+
+- `src/content/posts/translations/tribality-fighter-class-part-one.mdx`
+
 ## <http://www.imdb.com/title/tt0057115>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
@@ -203,6 +219,10 @@
 ## <http://www.realultimatepower.net/index4.htm>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <http://www.redcap.org/page/Grog>
+
+- `src/content/posts/translations/tribality-fighter-class-part-one.mdx`
 
 ## <http://www.tribality.com/2017/06/29/the-monk-class-part-eight>
 
@@ -236,6 +256,10 @@
 ## <https://en.wikipedia.org/wiki/Alamut_Castle>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <https://en.wikipedia.org/wiki/Arcana_Unearthed>
+
+- `src/content/posts/translations/tribality-fighter-class-part-seven.mdx`
 
 ## <https://en.wikipedia.org/wiki/Argot>
 
@@ -305,6 +329,10 @@
 ## <https://shop.mcdmproductions.com/collections/strongholds-followers>
 
 - `src/content/posts/translations/angrygm-how-to-stat-friends-part-1.mdx`
+
+## <https://songoftheblade.wordpress.com/2016/10/13/a-history-of-the-fighters-extra-attacks-versus-low-level-monsters>
+
+- `src/content/posts/translations/tribality-fighter-class-part-one.mdx`
 
 ## <https://standsinfire.wordpress.com/2015/06/16/dnd-dark-brigand-rogue>
 
@@ -458,6 +486,14 @@
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
 - `src/content/posts/translations/tribality-warlock-class-part-zero.mdx`
 
+## <https://www.amazon.com/Monte-Cooks-Arcana-Evolved-Handbook/dp/1588467805>
+
+- `src/content/posts/translations/tribality-fighter-class-part-seven.mdx`
+
+## <https://www.amazon.com/Monte-Presents-Heroes-Fantasy-Roleplaying/dp/1588467961>
+
+- `src/content/posts/translations/tribality-fighter-class-part-eight.mdx`
+
 ## <https://www.amazon.com/Players-Option-Elemental-Dungeons-Rulebook/dp/0786959819>
 
 - `src/content/posts/translations/tribality-shair-class-part-two.mdx`
@@ -478,6 +514,10 @@
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
 
+## <https://www.brandesstoddard.com/2016/08/dd-5e-warrior-orders-and-maneuvers>
+
+- `src/content/posts/translations/tribality-fighter-class-part-nine.mdx`
+
 ## <https://www.brandesstoddard.com/2019/01/dd-5e-medium-armor>
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
@@ -491,10 +531,22 @@
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
 - `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
 
+## <https://www.drivethrurpg.com/browse/pub/9/Malhavoc-Press>
+
+- `src/content/posts/translations/tribality-fighter-class-part-eight.mdx`
+
+## <https://www.drivethrurpg.com/product/240542/In-the-Company-of-Unicorns-5E>
+
+- `src/content/posts/translations/tribality-fighter-class-part-seven.mdx`
+
 ## <https://www.drivethrurpg.com/product/264030/Call-to-Arms-The-Warlord>
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
 - `src/content/posts/translations/tribality-warlord-class-part-one.mdx`
+
+## <https://www.drivethrurpg.com/product/2956/Race-Creation-Cookbook>
+
+- `src/content/posts/translations/tribality-fighter-class-part-four.mdx`
 
 ## <https://www.enworld.org/threads/magic-item-math-of-5e.437937>
 
@@ -515,18 +567,6 @@
 ## <https://www.themonstersknow.com>
 
 - `src/content/posts/translations/angrygm-the-monsters-know-better-than-you.mdx`
-
-## <https://www.tribality.com/2017/08/24/the-fighter-class-part-two>
-
-- `src/content/posts/translations/tribality-warlord-class-part-one.mdx`
-
-## <https://www.tribality.com/2018/05/09/the-fighter-class-part-eight>
-
-- `src/content/posts/translations/tribality-warlord-class-part-one.mdx`
-
-## <https://www.tribality.com/2018/06/07/the-fighter-class-part-nine>
-
-- `src/content/posts/translations/tribality-warlord-class-part-one.mdx`
 
 ## <https://www.tribality.com/2018/09/19/the-fighter-class-part-the-thirteenth-age>
 
