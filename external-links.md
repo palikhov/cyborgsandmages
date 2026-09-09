@@ -274,6 +274,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
 
+## <https://en.wikipedia.org/wiki/Knight_banneret>
+
+- `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
+
 ## <https://en.wikipedia.org/wiki/Men%27s_high_jump_world_record_progression>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
@@ -309,6 +313,10 @@
 ## <https://goblinpunch.blogspot.com/2017/10/impact.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://kenzerco.com>
+
+- `src/content/posts/translations/angrygm-five-simple-rules-for-dating-my-teenaged-skill-system.mdx`
 
 ## <https://ko-fi.com/noxaeturnus>
 
@@ -351,6 +359,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
 
+## <https://standsinthefire.com/2016/04/30/fighting-styles-in-dd-5e>
+
+- `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
+
 ## <https://theangrygm.com/30-days-of-rpg-a-day-in-one-day>
 
 - `src/content/posts/translations/angrygm-i-hate-ability-scores.mdx`
@@ -358,11 +370,6 @@
 ## <https://theangrygm.com/a-wandering-and-a-a-wondering>
 
 - `src/content/posts/translations/angrygm-between-jobs.mdx`
-
-## <https://theangrygm.com/adjudicate-actions-like-a-boss>
-
-- `src/content/posts/translations/angrygm-fumble-beats-crit.mdx`
-- `src/content/posts/translations/angrygm-the-whatever-stat.mdx`
 
 ## <https://theangrygm.com/babys-first-dungeon-1>
 
@@ -469,6 +476,10 @@
 
 - `src/content/posts/translations/tribality-warlord-class-part-four.mdx`
 
+## <https://www.13thagesrd.com/classes/fighter>
+
+- `src/content/posts/translations/tribality-fighter-class-part-thirteenth-age.mdx`
+
 ## <https://www.amazon.com/Complete-Arcane-Players-Dungeons-Roleplaying/dp/0786934352>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
@@ -512,11 +523,18 @@
 
 ## <https://www.brandesstoddard.com/2016/03/dd-5e-the-protection-fighting-style>
 
+- `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
 
 ## <https://www.brandesstoddard.com/2016/08/dd-5e-warrior-orders-and-maneuvers>
 
+- `src/content/posts/translations/tribality-fighter-class-part-eleven.mdx`
+- `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
 - `src/content/posts/translations/tribality-fighter-class-part-nine.mdx`
+
+## <https://www.brandesstoddard.com/2018/06/dd-5e-expanded-background-assets>
+
+- `src/content/posts/translations/tribality-fighter-class-part-twelve.mdx`
 
 ## <https://www.brandesstoddard.com/2019/01/dd-5e-medium-armor>
 
@@ -556,6 +574,10 @@
 
 - `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
 
+## <https://www.opengamingstore.com/collections/jon-brazer-enterprises/products/13-fighter-talents-and-maneuvers-13th-age-compatible>
+
+- `src/content/posts/translations/tribality-fighter-class-part-thirteenth-age.mdx`
+
 ## <https://www.paperspencils.com/8-reasons-why-dd-is-better-than-video-games>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
@@ -568,9 +590,9 @@
 
 - `src/content/posts/translations/angrygm-the-monsters-know-better-than-you.mdx`
 
-## <https://www.tribality.com/2018/09/19/the-fighter-class-part-the-thirteenth-age>
+## <https://www.tribality.com/2017/11/29/xanathars-guide-breakdown-part-two>
 
-- `src/content/posts/translations/tribality-warlord-class-part-four.mdx`
+- `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
 
 ## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
 
