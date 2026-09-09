@@ -256,34 +256,18 @@
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
-## <https://batintheattic.blogspot.com/2009/09/fantasy-sandbox-in-detail-part-iv.html>
-
-- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2009/09/fantasy-sandbox-in-detail-part-v.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2009/09/fantasy-sandbox-in-detail-part-vi.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2009/09/fantasy-sandbox-in-detail-part-vii.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2009/10/fantasy-sandbox-in-detail-part-ix.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2009/10/fantasy-sandbox-in-detail-part-viii.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
 ## <https://batintheattic.blogspot.com/2009/10/fantasy-sandbox-in-detail-part-x.html>
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-ix.mdx`
+
+## <https://batintheattic.blogspot.com/2009/08/new-map-style.html>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iv.mdx`
+
+## <https://batintheattic.blogspot.com/2009/07/my-secret-to-writing-wild-north.html>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-viii.mdx`
 
 ## <https://batintheattic.blogspot.com/2009/11/fantasy-sandbox-in-detail-part-xi.html>
 
