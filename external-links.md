@@ -224,6 +224,10 @@
 
 - `src/content/posts/translations/tribality-fighter-class-part-one.mdx`
 
+## <http://www.rpgnow.com/product/55266/A-Magical-Society-Guide-to-Mapping>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-i.mdx`
+
 ## <http://www.tribality.com/2017/06/29/the-monk-class-part-eight>
 
 - `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
@@ -236,9 +240,106 @@
 
 - `src/content/posts/translations/tribality-warlord-class-part-two.mdx`
 
+## <http://www222.pair.com/sjohn/blueroom/demog.htm>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
 ## <https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html>
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
+
+## <https://batintheattic.blogspot.com/2008/10/mapping-with-hexes.html>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
+
+## <https://batintheattic.blogspot.com/2009/04/how-to-make-traveller-sandbox.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2009/09/fantasy-sandbox-in-detail-part-iv.html>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2009/09/fantasy-sandbox-in-detail-part-v.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2009/09/fantasy-sandbox-in-detail-part-vi.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2009/09/fantasy-sandbox-in-detail-part-vii.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2009/10/fantasy-sandbox-in-detail-part-ix.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2009/10/fantasy-sandbox-in-detail-part-viii.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2009/10/fantasy-sandbox-in-detail-part-x.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2009/11/fantasy-sandbox-in-detail-part-xi.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2010/05/fantasy-sandbox-in-detail-part-xii.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2010/05/fantasy-sandbox-in-detail-part-xiii.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2010/05/fantasy-sandbox-in-detail-part-xiv.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2010/06/fantasy-sandbox-in-detail-part-xv.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2010/08/fantasy-sandbox-in-detail-part-xvi.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2010/09/fantasy-sandbox-in-detail-part-xvii.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2010/10/fantasy-sandbox-in-detail-part-xviii.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2016/08/a-fantasy-sandbox-in-detail-part-xix.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2016/09/a-fantasy-sandbox-in-detail-part-xx.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2016/09/a-fantasy-sandbox-in-detail-part-xxi.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2020/12/a-fantasy-sandbox-in-detail-part-xxii.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2022/12/a-fantasy-sandbox-in-detail-part-xxiii.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://batintheattic.blogspot.com/2023/08/a-fantasy-sandbox-in-detail-part-xxiv.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
 ## <https://dmdavid.com/tag/what-is-the-typical-amout-of-treasure-awarded-in-a-fifth-edition-dungeons-dragons-campaign>
 
@@ -290,9 +391,17 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 
+## <https://en.wikipedia.org/wiki/Presque_Isle_State_Park>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
+
 ## <https://en.wikipedia.org/wiki/Steven_Zirnkilton>
 
 - `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
+
+## <https://en.wikipedia.org/wiki/The_Perfect_Storm>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-i.mdx`
 
 ## <https://en.wikipedia.org/wiki/The_Sandman:_The_Doll%27s_House>
 
@@ -313,6 +422,10 @@
 ## <https://goblinpunch.blogspot.com/2017/10/impact.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://grognardia.blogspot.com/2024/04/review-how-to-make-fantasy-sandbox.html>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
 ## <https://kenzerco.com>
 
@@ -480,6 +593,10 @@
 
 - `src/content/posts/translations/tribality-fighter-class-part-thirteenth-age.mdx`
 
+## <https://www.acaeum.com/indexes/modules/desert.html>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-ii.mdx`
+
 ## <https://www.amazon.com/Complete-Arcane-Players-Dungeons-Roleplaying/dp/0786934352>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
@@ -516,6 +633,14 @@
 ## <https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview,_04.pdf>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview_02.pdf>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
 ## <https://www.brandesstoddard.com/2014/08/dd-5th-edition-mastermind-roguish-archetype>
 
@@ -566,6 +691,18 @@
 
 - `src/content/posts/translations/tribality-fighter-class-part-four.mdx`
 
+## <https://www.drivethrurpg.com/product/337515/The-Majestic-Fantasy-RPG-Basic-Rules>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://www.drivethrurpg.com/product/470041/How-to-Make-a-Fantasy-Sandbox>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://www.drivethrurpg.com/product/470159/The-Isle-of-Pyade>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
 ## <https://www.enworld.org/threads/magic-item-math-of-5e.437937>
 
 - `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
@@ -573,6 +710,10 @@
 ## <https://www.gmwordoftheweek.com/home/alchemy>
 
 - `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
+
+## <https://www.kickstarter.com/projects/batintheatticgames/into-the-majestic-fantasy-realms-the-northern-marches>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
 ## <https://www.opengamingstore.com/collections/jon-brazer-enterprises/products/13-fighter-talents-and-maneuvers-13th-age-compatible>
 
