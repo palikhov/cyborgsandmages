@@ -5,21 +5,34 @@
 ## Формат записи
 
 ```md
-## <https://example.com/canonical-article-url>
 
-- `src/content/posts/translations/article-with-link.mdx`
-- `src/content/posts/translations/another-article-with-link.mdx`
-```
+## <http://archive.wizards.com/default.asp?x=dnd/rl/20060727a>
 
-Один canonical URL должен встречаться в реестре только один раз. Пути под ним не должны повторяться. Не добавляются обязательная ссылка `[Оригинал]`, ссылки на локальные ресурсы сайта, внешние изображения, навигация, реклама, социальные сети и другие несодержательные ссылки.
+- `src/content/posts/translations/flutesloot-formulas-for-crafting-popular-magic-items-5e.mdx`
 
-После замены внешней ссылки внутренней соответствующий путь удаляется из записи. Если путей не осталось, удаляется весь раздел URL.
+## <http://batintheattic.blogspot.com/2009/10/more-mapping-secrets.html>
 
-<!-- Новые записи добавляйте ниже этой строки. -->
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvii.mdx`
+
+## <http://batintheattic.blogspot.com/2010/01/majestic-wilderlands-price-list.html>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx`
+
+## <http://batintheattic.blogspot.com/2010/04/river-secrets-for-mapping.html>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvii.mdx`
 
 ## <http://blogofholding.com>
 
 - `src/content/posts/translations/tribality-rogue-class-part-one.mdx`
+
+## <http://creativecommons.org/licenses/by-nc-nd/3.0/>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <http://creativecommons.org/licenses/by-nc/3.0/>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
 ## <http://deltasdnd.blogspot.com/2007/04/magic-number-seven.html>
 
@@ -103,6 +116,14 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
 
+## <http://heraldry.sca.org/laurel/names/parisbynames.html>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx`
+
+## <http://mythosa.net/site/index.php?option=com_content&view=article&id=51&Itemid=56>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
+
 ## <http://oots.wikia.com/wiki/Roy_Greenhilt>
 
 - `src/content/posts/translations/tribality-fighter-class-part-five.mdx`
@@ -130,6 +151,18 @@
 ## <http://tvtropes.org/pmwiki/pmwiki.php/Literature/FafhrdAndTheGrayMouser>
 
 - `src/content/posts/translations/tribality-rogue-class-part-one.mdx`
+
+## <http://www.aedificium.org/>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xiii.mdx`
+
+## <http://www.aedificium.org/Maps/LocalMaps.html>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xiii.mdx`
+
+## <http://www.aedificium.org/Maps/Serlby.gif>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xiii.mdx`
 
 ## <http://www.amazon.com/Advanced-Dungeons-Dragons-Complete-Humanoids/dp/1560766115>
 
@@ -164,6 +197,14 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-three.mdx`
 
+## <http://www.amazon.com/Pillars-Earth-Ken-Follett/dp/045123281X/>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
+
+## <http://www.amazon.com/World-Without-End-Ken-Follett/dp/0525950079/>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
+
 ## <http://www.anarchydice.com/2016/01/26/5e-character-archetypes-woe-bearer-rogue>
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
@@ -171,6 +212,18 @@
 ## <http://www.atlas-games.com/arm5>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <http://www.batintheattic.com/downloads/Fantasy%20Demographics%20Version%201.pdf>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx`
+
+## <http://www.batintheattic.com/downloads/NPCs_Personality.zip>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
+
+## <http://www.batintheattic.com/downloads/Tax%20roll%20Paris%201292%20Rev%202.xls>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx`
 
 ## <http://www.bay12games.com/dwarves>
 
@@ -184,6 +237,10 @@
 
 - `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
 
+## <http://www.columbiagames.com/cgi-bin/query/cfg/zoom.cfg?product_id=4751>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
+
 ## <http://www.d20srd.org/srd/epic/monsters/leshay.htm>
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
@@ -196,6 +253,10 @@
 
 - `src/content/posts/translations/tribality-shair-class-part-two.mdx`
 
+## <http://www.d20srd.org/srd/spells/soulBind.htm>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
 ## <http://www.giantitp.com/comics/oots0031.html>
 
 - `src/content/posts/translations/tribality-warlord-class-part-three.mdx`
@@ -203,6 +264,18 @@
 ## <http://www.giantitp.com/comics/oots0136.html>
 
 - `src/content/posts/translations/tribality-fighter-class-part-one.mdx`
+
+## <http://www.giantitp.com/forums/showthread.php?510021-Player-Race-Greater-Homunculus-(PEACH)>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <http://www.greydragon.org/trips/Wales2005/Wales-5/index3.html>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvii.mdx`
+
+## <http://www.ibiblio.org/mscorbit/beta/cropland.zip>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xiii.mdx`
 
 ## <http://www.imdb.com/title/tt0057115>
 
@@ -216,6 +289,10 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-one.mdx`
 
+## <http://www.lythia.com/2010/08/fortified-manor/>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
+
 ## <http://www.realultimatepower.net/index4.htm>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
@@ -223,6 +300,14 @@
 ## <http://www.redcap.org/page/Grog>
 
 - `src/content/posts/translations/tribality-fighter-class-part-one.mdx`
+
+## <http://www.rpglibrary.org/articles/storytelling/36plots.html>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
+
+## <http://www.rpgnow.com/product/17004/Dungeon-Masters-Guide-1e>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
 
 ## <http://www.rpgnow.com/product/55266/A-Magical-Society-Guide-to-Mapping>
 
@@ -240,13 +325,26 @@
 
 - `src/content/posts/translations/tribality-warlord-class-part-two.mdx`
 
+## <http://www.xrpshop.citymax.com/page/page/3906392.htm>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
+
 ## <http://www222.pair.com/sjohn/blueroom/demog.htm>
 
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx`
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <http://www222.pair.com/sjohn/fief.htm>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
 ## <https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html>
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
+
+## <https://answers.google.com/answers/threadview?id=339720>
+
+- `src/content/posts/translations/flutesloot-formulas-for-crafting-popular-magic-items-5e.mdx`
 
 ## <https://batintheattic.blogspot.com/2008/10/mapping-with-hexes.html>
 
@@ -256,83 +354,31 @@
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
-## <https://batintheattic.blogspot.com/2009/10/fantasy-sandbox-in-detail-part-x.html>
+## <https://batintheattic.blogspot.com/2009/07/my-secret-to-writing-wild-north.html>
 
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-ix.mdx`
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-viii.mdx`
 
 ## <https://batintheattic.blogspot.com/2009/08/new-map-style.html>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iv.mdx`
 
-## <https://batintheattic.blogspot.com/2009/07/my-secret-to-writing-wild-north.html>
-
-- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-viii.mdx`
-
-## <https://batintheattic.blogspot.com/2009/11/fantasy-sandbox-in-detail-part-xi.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2010/05/fantasy-sandbox-in-detail-part-xii.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2010/05/fantasy-sandbox-in-detail-part-xiii.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2010/05/fantasy-sandbox-in-detail-part-xiv.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2010/06/fantasy-sandbox-in-detail-part-xv.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2010/08/fantasy-sandbox-in-detail-part-xvi.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2010/09/fantasy-sandbox-in-detail-part-xvii.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2010/10/fantasy-sandbox-in-detail-part-xviii.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2016/08/a-fantasy-sandbox-in-detail-part-xix.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2016/09/a-fantasy-sandbox-in-detail-part-xx.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2016/09/a-fantasy-sandbox-in-detail-part-xxi.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2020/12/a-fantasy-sandbox-in-detail-part-xxii.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2022/12/a-fantasy-sandbox-in-detail-part-xxiii.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://batintheattic.blogspot.com/2023/08/a-fantasy-sandbox-in-detail-part-xxiv.html>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
 ## <https://dmdavid.com/tag/what-is-the-typical-amout-of-treasure-awarded-in-a-fifth-edition-dungeons-dragons-campaign>
 
 - `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
+
+## <https://dnd-wiki.org/wiki/Living_Mannequin_(3.5e_Monster)>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
 ## <https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view>
 
 - `src/content/posts/translations/angrygm-how-to-price-an-item.mdx`
 - `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
+
+## <https://drive.google.com/file/d/0Bx9oLF40m-b8S3FDcXJiUWhZRzQ/view?usp=sharing>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xx.mdx`
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxi.mdx`
 
 ## <https://dungeons.hismajestytheworm.games>
 
@@ -395,6 +441,17 @@
 
 - `src/content/posts/translations/tribality-shair-class-part-two.mdx`
 
+## <https://example.com/canonical-article-url>
+
+- `src/content/posts/translations/another-article-with-link.mdx`
+- `src/content/posts/translations/article-with-link.mdx`
+
+## <https://flutesloot.com/echoes-of-the-material-world>
+
+- `src/content/posts/translations/flutesloot-developing-the-inner-planes.mdx`
+- `src/content/posts/translations/flutesloot-materializing-elemental-chaos.mdx`
+- `src/content/posts/translations/flutesloot-orientation-of-the-planes.mdx`
+
 ## <https://gamemakerstoolkit.com>
 
 - `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
@@ -411,6 +468,10 @@
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
+## <https://holiviantales.wordpress.com/gameplay/spells/beget-bogun/>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
 ## <https://kenzerco.com>
 
 - `src/content/posts/translations/angrygm-five-simple-rules-for-dating-my-teenaged-skill-system.mdx`
@@ -422,6 +483,21 @@
 ## <https://magic.wizards.com/en/articles/archive/making-magic/ten-things-every-game-needs-part-1-part-2-2011-12-19>
 
 - `src/content/posts/translations/angrygm-the-gms-burden-and-other-stories.mdx`
+
+## <https://media.wizards.com/2016/dnd/downloads/UA_Druid11272016_CAWS.pdf>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://nbos.com/products/inspiration-pad-pro>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxi.mdx`
+
+## <https://paizo.com/products/btpy8ffn?Pathfinder-Roleplaying-Game-GameMastery-Guide>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xv.mdx`
 
 ## <https://possumcreek.medium.com/a-dozen-fragments-on-playground-theory-684104bcb4ab>
 
@@ -565,6 +641,14 @@
 
 - `src/content/posts/translations/angrygm-monster-building-202-supplement.mdx`
 
+## <https://web.archive.org/web/20110902100434/http://www222.pair.com/sjohn/blueroom/plots.htm>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
+
+## <https://wiki.lspace.org/mediawiki/Department_of_Post-Mortem_Communications>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
 ## <https://wordpress.com>
 
 - `src/content/posts/translations/angrygm-the-gms-burden-and-other-stories.mdx`
@@ -618,11 +702,19 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
-## <https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview,_04.pdf>
+## <https://www.batintheattic.com/downloads/MW%20Travel%20Rules%20Rev%2002.pdf>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxiv.mdx`
+
+## <https://www.batintheattic.com/downloads/NPCs%20of%20Piall%20Rev%2001.pdf>
+
+- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxiii.mdx`
+
+## <https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview_02.pdf>
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
-## <https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview_02.pdf>
+## <https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview,_04.pdf>
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
@@ -653,10 +745,38 @@
 
 - `src/content/posts/translations/tribality-warlord-class-part-two.mdx`
 
+## <https://www.deviantart.com/docwendigo/art/Dark-Ritual-358386909>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.deviantart.com/hamboggy/art/Ye-the-Hermit-595584518>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.deviantart.com/jeffleejohnson/art/raising-the-dead-63009482>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.deviantart.com/khaidu/art/More-Minions-286984990>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.deviantart.com/typhonart/art/Undead-Minions-397915865>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
 ## <https://www.dmsguild.com/product/246330/The-Commander--A-Class-of-Leadership-and-Combat-Tactics>
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
 - `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
+
+## <https://www.dndbeyond.com/sources/basic-rules/monsters>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.dndbeyond.com/spells/animate-dead>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
 ## <https://www.drivethrurpg.com/browse/pub/9/Malhavoc-Press>
 
@@ -691,6 +811,30 @@
 
 - `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
 
+## <https://www.flutesloot.com/5e-afterlife-lore-and-analysis/>
+
+- `src/content/posts/translations/flutesloot-orientation-of-the-planes.mdx`
+
+## <https://www.flutesloot.com/5e-guide-to-playing-a-witch/>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.flutesloot.com/5e-multiclassing-combinations/>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.flutesloot.com/herbalism-in-a-nutshell-5e/>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.flutesloot.com/ua-artificer-unpacked/>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.flutesloot.com/warlock-spells-and-invocations/>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
 ## <https://www.gmwordoftheweek.com/home/alchemy>
 
 - `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
@@ -711,6 +855,10 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
+## <https://www.skullsplitterdice.com/blogs/andrars-rumblings/ultimate-necromancers-guide>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
 ## <https://www.themonstersknow.com>
 
 - `src/content/posts/translations/angrygm-the-monsters-know-better-than-you.mdx`
@@ -718,6 +866,10 @@
 ## <https://www.tribality.com/2017/11/29/xanathars-guide-breakdown-part-two>
 
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
+
+## <https://www.tribality.com/2017/11/30/alternative-death-resurrection-systems-5e/>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
 ## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
 
@@ -731,14 +883,18 @@
 
 - `src/content/posts/translations/angrygm-between-jobs.mdx`
 
-## <https://www.youtube.com/watch?v=D8zlUUrFK-M>
-
-- `src/content/posts/translations/tribality-druid-class-part-four.mdx`
-
 ## <https://www.youtube.com/watch?v=bKK-KLDlm20>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
 
+## <https://www.youtube.com/watch?v=D8zlUUrFK-M>
+
+- `src/content/posts/translations/tribality-druid-class-part-four.mdx`
+
 ## <https://www.youtube.com/watch?v=jW3PFC86UNI>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.youtube.com/watch?v=Rsfyh3M_IKc>
+
+- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
