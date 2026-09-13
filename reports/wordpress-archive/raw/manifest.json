@@ -1,0 +1,18 @@
+{
+  "collections": [
+    {
+      "type": "post",
+      "downloaded": 423,
+      "found": 423,
+      "pages": 5
+    },
+    {
+      "type": "page",
+      "downloaded": 68,
+      "found": 68,
+      "pages": 1
+    }
+  ],
+  "fetchedAt": "2026-09-10T07:07:19.5671209Z",
+  "site": "adventurersleague.wordpress.com"
+}

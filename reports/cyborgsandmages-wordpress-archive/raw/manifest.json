@@ -1,0 +1,18 @@
+{
+  "site": "cyborgsandmages.wordpress.com",
+  "fetchedAt": "2026-09-10T07:26:26.3727772Z",
+  "collections": [
+    {
+      "found": 1955,
+      "downloaded": 1955,
+      "pages": 20,
+      "type": "post"
+    },
+    {
+      "found": 238,
+      "downloaded": 238,
+      "pages": 3,
+      "type": "page"
+    }
+  ]
+}

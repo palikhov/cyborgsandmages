@@ -46,6 +46,10 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
 
+## <http://dragaera.wikia.com/wiki/Orb>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
 ## <http://dragaera.wikia.com/wiki/Vlad_Taltos>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
@@ -53,6 +57,18 @@
 ## <http://en.wikipedia.org/wiki/Baldr>
 
 - `src/content/posts/translations/tribality-druid-class-part-three.mdx`
+
+## <http://en.wikipedia.org/wiki/Dramatic_structure>
+
+- `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
+
+## <http://en.wikipedia.org/wiki/Ecumenical_council>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://en.wikipedia.org/wiki/Handwaving>
+
+- `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
 
 ## <http://en.wikipedia.org/wiki/Pun>
 
@@ -66,6 +82,18 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
 
+## <http://en.wikipedia.org/wiki/Steven_Brust>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://en.wikipedia.org/wiki/The_Godfather_(film_series)>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://en.wikipedia.org/wiki/The_Realm_Online>
+
+- `src/content/posts/translations/brandesstoddard-crafting-systems-add-second-edition.mdx`
+
 ## <http://en.wikipedia.org/wiki/The_Warlord_Chronicles>
 
 - `src/content/posts/translations/tribality-druid-class-part-one.mdx`
@@ -74,9 +102,17 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-two.mdx`
 
+## <http://en.wiktionary.org/wiki/warlock>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
 ## <http://falsemachine.blogspot.com/2021/02/sticky-goblins.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <http://forum.rpg.net/showthread.php?t=352719>
+
+- `src/content/posts/translations/brandesstoddard-crafting-systems-part-two.mdx`
 
 ## <http://gameofthrones.wikia.com/wiki/Faceless_Men>
 
@@ -86,10 +122,19 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
 
+## <http://gregorhutton.com/boxninja/threesixteen/>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
 ## <http://harbinger-of-doom.blogspot.com/2014/08/d-5th-edition-mastermind-roguish.html>
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://harbinger-of-doom.blogspot.com/2014/09/d-5e-royal-bloodline-sorcerous-origin.html>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <http://harbinger-of-doom.blogspot.com/2014/10/the-ranger-class-part-three.html>
 
@@ -98,6 +143,7 @@
 ## <http://harbinger-of-doom.blogspot.com/2014/12/d-5e-investigator-roguish-archetype.html>
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <http://harbinger-of-doom.blogspot.com/2015/03/d-5e-problems-in-warlock-design.html>
 
@@ -105,16 +151,23 @@
 
 ## <http://harbinger-of-doom.blogspot.com/2015/04/d-5e-new-warlock-invocations.html>
 
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 - `src/content/posts/translations/tribality-warlock-class-part-three.mdx`
 
 ## <http://harbinger-of-doom.blogspot.com/2015/05/d-5e-divine-trickster-rogue-archetype.html>
 
 - `src/content/posts/translations/tribality-avenger-part-one-and-onlyish.mdx`
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://harbinger-of-doom.blogspot.com/2015/08/d-5e-demon-scarred-barbarian-path.html>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <http://harbinger-of-doom.blogspot.com/2015/10/d-5e-nightgaunt-rogue-archetype.html>
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <http://heraldry.sca.org/laurel/names/parisbynames.html>
 
@@ -136,6 +189,18 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
 
+## <http://samhaine.wordpress.com/2012/01/16/the-worst-adventurers-guild-in-town/>
+
+- `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
+
+## <http://shieldhaven.pbworks.com/w/page/7943947/FrontPage>
+
+- `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
+
+## <http://theonyxpath.com/category/projects/magetheawakening/>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
 ## <http://tribality.com/2015/03/10/elemental-evil-players-companion>
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
@@ -144,13 +209,17 @@
 
 - `src/content/posts/translations/tribality-warlock-class-part-three.mdx`
 
-## <http://tribality.com/2015/11/26/tribal-knowledge-the-single-class-campaign>
+## <http://tribality.com/tag/paladin/>
 
-- `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <http://tvtropes.org/pmwiki/pmwiki.php/Literature/FafhrdAndTheGrayMouser>
 
 - `src/content/posts/translations/tribality-rogue-class-part-one.mdx`
+
+## <http://tvtropes.org/pmwiki/pmwiki.php/Main/FiveManBand>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <http://www.aedificium.org/>
 
@@ -168,6 +237,10 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-three.mdx`
 
+## <http://www.amazon.com/Captain-Alatriste-Arturo-Perez-Reverte/dp/B000GFR9O4>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
 ## <http://www.amazon.com/Complete-Handbook-Advanced-Dungeons-Dragons/dp/0786901594>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
@@ -175,6 +248,7 @@
 ## <http://www.amazon.com/Complete-Handbook-Advanced-Dungeons-Supplement/dp/156076886X>
 
 - `src/content/posts/translations/tribality-druid-class-part-three.mdx`
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <http://www.amazon.com/Dungeon-Master-Option-High-Level-Campaigns/dp/0786901683>
 
@@ -212,6 +286,7 @@
 ## <http://www.atlas-games.com/arm5>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <http://www.batintheattic.com/downloads/Fantasy%20Demographics%20Version%201.pdf>
 
@@ -229,10 +304,6 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
 
-## <http://www.brandesstoddard.com/2011/01/crafting-systems-in-tabletop-games-add-second-edition>
-
-- `src/content/posts/translations/tribality-fighter-class-part-four.mdx`
-
 ## <http://www.brandesstoddard.com/2016/12/dd-5e-alternate-threat-tracks>
 
 - `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
@@ -244,6 +315,14 @@
 ## <http://www.d20srd.org/srd/epic/monsters/leshay.htm>
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
+
+## <http://www.d20srd.org/srd/feats.htm>
+
+- `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
+
+## <http://www.d20srd.org/srd/magicItems/magicWeapons.htm>
+
+- `src/content/posts/translations/brandesstoddard-crafting-systems-part-two.mdx`
 
 ## <http://www.d20srd.org/srd/spells/planarAllyLesser.htm>
 
@@ -257,6 +336,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <http://www.fallenearth.com/>
+
+- `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
+
 ## <http://www.giantitp.com/comics/oots0031.html>
 
 - `src/content/posts/translations/tribality-warlord-class-part-three.mdx`
@@ -264,6 +347,10 @@
 ## <http://www.giantitp.com/comics/oots0136.html>
 
 - `src/content/posts/translations/tribality-fighter-class-part-one.mdx`
+
+## <http://www.giantitp.com/comics/oots0145.html>
+
+- `src/content/posts/translations/angrygm-getting-there-is-half-the-fun.mdx`
 
 ## <http://www.giantitp.com/forums/showthread.php?510021-Player-Race-Greater-Homunculus-(PEACH)>
 
@@ -281,9 +368,33 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
 
+## <http://www.imdb.com/title/tt0090728/>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
 ## <http://www.imdb.com/title/tt0103639>
 
 - `src/content/posts/translations/tribality-shair-part-one-and-only.mdx`
+
+## <http://www.imdb.com/title/tt0172495/?ref_=nv_sr_1>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://www.imdb.com/title/tt0325980/>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://www.imdb.com/title/tt0384766/>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://www.imdb.com/title/tt0417299/>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://www.imdb.com/title/tt0934814/>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <http://www.imdb.com/title/tt1392170>
 
@@ -292,6 +403,14 @@
 ## <http://www.lythia.com/2010/08/fortified-manor/>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
+
+## <http://www.margaretweis.com/index.php/shop>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://www.pelgranepress.com/?cat=222>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <http://www.realultimatepower.net/index4.htm>
 
@@ -400,10 +519,15 @@
 
 - `src/content/posts/translations/tribality-avenger-part-one-and-onlyish.mdx`
 - `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <https://en.wikipedia.org/wiki/Garrett_(character)>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <https://en.wikipedia.org/wiki/Jem_(TV_series)>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <https://en.wikipedia.org/wiki/Knight_banneret>
 
@@ -440,6 +564,10 @@
 ## <https://en.wikipedia.org/wiki/The_Tempest>
 
 - `src/content/posts/translations/tribality-shair-class-part-two.mdx`
+
+## <https://en.wikipedia.org/wiki/The_Three_Musketeers>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <https://example.com/canonical-article-url>
 
@@ -565,10 +693,6 @@
 - `src/content/posts/translations/angrygm-designing-with-a-strong-d.mdx`
 - `src/content/posts/translations/angrygm-why-are-you-doing-this.mdx`
 
-## <https://theangrygm.com/getting-there-is-half-the-fun>
-
-- `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
-
 ## <https://theangrygm.com/hashtag-adventure-goals>
 
 - `src/content/posts/translations/angrygm-angrys-guide-to-experience.mdx`
@@ -689,6 +813,7 @@
 ## <https://www.amazon.com/Monte-Presents-Heroes-Fantasy-Roleplaying/dp/1588467961>
 
 - `src/content/posts/translations/tribality-fighter-class-part-eight.mdx`
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <https://www.amazon.com/Players-Option-Elemental-Dungeons-Rulebook/dp/0786959819>
 
@@ -717,6 +842,10 @@
 ## <https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview,_04.pdf>
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://www.brandesstoddard.com/2011/06/achievement-based-advancement/>
+
+- `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
 
 ## <https://www.brandesstoddard.com/2014/08/dd-5th-edition-mastermind-roguish-archetype>
 
@@ -839,6 +968,14 @@
 
 - `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
 
+## <https://www.kickstarter.com/projects/200664283/deluxe-mage-the-ascension-20th-anniversary-edition/video_share>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <https://www.kickstarter.com/projects/2080350433/blades-in-the-dark/video_share>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
 ## <https://www.kickstarter.com/projects/batintheatticgames/into-the-majestic-fantasy-realms-the-northern-marches>
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
@@ -891,6 +1028,10 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
 
+## <https://www.youtube.com/watch?v=hou0lU8WMgo>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
 ## <https://www.youtube.com/watch?v=jW3PFC86UNI>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
@@ -898,3 +1039,7 @@
 ## <https://www.youtube.com/watch?v=Rsfyh3M_IKc>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.youtube.com/watch?v=uk5NwLr3OmQ>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
