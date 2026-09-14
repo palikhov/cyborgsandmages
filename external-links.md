@@ -62,13 +62,25 @@
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
 
+## <http://en.wikipedia.org/wiki/Dungeon_Master's_Guide>
+
+- `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
+
 ## <http://en.wikipedia.org/wiki/Ecumenical_council>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://en.wikipedia.org/wiki/Editions_of_Dungeons_%26_Dragons>
+
+- `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
+
 ## <http://en.wikipedia.org/wiki/Handwaving>
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
+
+## <http://en.wikipedia.org/wiki/Horror_on_the_Hill>
+
+- `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
 
 ## <http://en.wikipedia.org/wiki/Pun>
 
@@ -97,6 +109,10 @@
 ## <http://en.wikipedia.org/wiki/The_Warlord_Chronicles>
 
 - `src/content/posts/translations/tribality-druid-class-part-one.mdx`
+
+## <http://en.wikipedia.org/wiki/Undermountain>
+
+- `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
 
 ## <http://en.wikipedia.org/wiki/Vates>
 
@@ -173,6 +189,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx`
 
+## <http://index.rpg.net/display-entry.phtml>
+
+- `src/content/posts/translations/creighton-gygax-on-henchmen-and-hirelings.mdx`
+
 ## <http://mythosa.net/site/index.php?option=com_content&view=article&id=51&Itemid=56>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
@@ -184,6 +204,10 @@
 ## <http://paizo.com/community/blog/v5748dyo5lkm9?Fighter-Class-Preview>
 
 - `src/content/posts/translations/tribality-fighter-class-part-ten.mdx`
+
+## <http://paizo.com/pathfinderRPG>
+
+- `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
 
 ## <http://rfg.urbanup.com/1534776>
 
@@ -263,6 +287,10 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-one.mdx`
 
+## <http://www.amazon.com/gp/product/0935696199/ref=as_li_qf_sp_asin_il_tl>
+
+- `src/content/posts/translations/creighton-timeless-advice-keep-on-the-borderlands.mdx`
+
 ## <http://www.amazon.com/Handbook-Dungeon-Dragons-Fantasy-Roleplaying/dp/0786926589>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
@@ -312,6 +340,53 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
+## <http://www.creightonbroadhurst.com/4-overlooked-classic-tsr-modules/>
+
+- `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure/>
+
+- `src/content/posts/translations/creighton-6-moral-dilemmas-for-pcs.mdx`
+- `src/content/posts/translations/creighton-gygax-on-henchmen-and-hirelings.mdx`
+- `src/content/posts/translations/creighton-how-and-why-to-say-no.mdx`
+- `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
+
+## <http://www.creightonbroadhurst.com/gaming-advice-building-your-perfect-gaming-kit/>
+
+- `src/content/posts/translations/creighton-3-things-behind-gm-screen.mdx`
+
+## <http://www.creightonbroadhurst.com/gloamhold-status-update-the-end-of-the-beginning/>
+
+- `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
+
+## <http://www.creightonbroadhurst.com/gloamhold/>
+
+- `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
+
+## <http://www.creightonbroadhurst.com/gm-advice-5-characteristics-of-terrible-gms/>
+
+- `src/content/posts/translations/creighton-6-common-gming-mistakes.mdx`
+
+## <http://www.creightonbroadhurst.com/gm-advice-8-characteristics-of-great-gms/>
+
+- `src/content/posts/translations/creighton-6-common-gming-mistakes.mdx`
+
+## <http://www.creightonbroadhurst.com/gm-advice-are-we-too-obsessed-with-balance/>
+
+- `src/content/posts/translations/creighton-gygax-on-saving-characters.mdx`
+
+## <http://www.creightonbroadhurst.com/gm-advice-excellent-house-rules/>
+
+- `src/content/posts/translations/creighton-how-and-why-to-say-no.mdx`
+
+## <http://www.creightonbroadhurst.com/gm-advice-the-illusion-of-dungeon-detail/>
+
+- `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
+
+## <http://www.creightonbroadhurst.com/the-concept-of-cr-appropriate-challenges-is-too-ingrained-in-our-minds/>
+
+- `src/content/posts/translations/creighton-gygax-on-saving-characters.mdx`
+
 ## <http://www.d20srd.org/srd/epic/monsters/leshay.htm>
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
@@ -335,6 +410,10 @@
 ## <http://www.d20srd.org/srd/spells/soulBind.htm>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <http://www.drivethrurpg.com/product/109474/Dragon-and-the-Thief>
+
+- `src/content/posts/translations/creighton-dragon-and-the-thief.mdx`
 
 ## <http://www.fallenearth.com/>
 
@@ -412,6 +491,40 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://www.ragingswan.com>
+
+- `src/content/posts/translations/creighton-dragon-and-the-thief.mdx`
+- `src/content/posts/translations/creighton-gygax-on-henchmen-and-hirelings.mdx`
+- `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
+
+## <http://www.ragingswan.com/free-resources/>
+
+- `src/content/posts/translations/creighton-3-things-behind-gm-screen.mdx`
+
+## <http://www.ragingswan.com/gms-screen-1-kobold-warren/>
+
+- `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
+
+## <http://www.ragingswan.com/gms-screen-2-borderland-forest/>
+
+- `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
+
+## <http://www.ragingswan.com/gms-screen-3-goblin-caves/>
+
+- `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
+
+## <http://www.ragingswan.com/gms-screen-4-seedy-tavern/>
+
+- `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
+
+## <http://www.ragingswan.com/gms-screen-5-noisome-sewer/>
+
+- `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
+
+## <http://www.ragingswan.com/gms-screen-6-borderland-keep/>
+
+- `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
+
 ## <http://www.realultimatepower.net/index4.htm>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
@@ -424,6 +537,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
 
+## <http://www.rpgnow.com/product/109474/Dragon-and-the-Thief>
+
+- `src/content/posts/translations/creighton-dragon-and-the-thief.mdx`
+
 ## <http://www.rpgnow.com/product/17004/Dungeon-Masters-Guide-1e>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
@@ -431,6 +548,10 @@
 ## <http://www.rpgnow.com/product/55266/A-Magical-Society-Guide-to-Mapping>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-i.mdx`
+
+## <http://www.rpgnow.com/product/92425/Henchfolk--Hirelings>
+
+- `src/content/posts/translations/creighton-gygax-on-henchmen-and-hirelings.mdx`
 
 ## <http://www.tribality.com/2017/06/29/the-monk-class-part-eight>
 
