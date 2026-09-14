@@ -126,6 +126,10 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
+## <http://fistsofcinderandstone.blogspot.ca/2017/04/lessons-in-forest-ecology-pt-1.html>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+
 ## <http://forum.rpg.net/showthread.php?t=352719>
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-two.mdx`
@@ -220,6 +224,10 @@
 ## <http://shieldhaven.pbworks.com/w/page/7943947/FrontPage>
 
 - `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
+
+## <http://tao-dnd.blogspot.ca/2013/03/scale-on-ground.html>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
 ## <http://theonyxpath.com/category/projects/magetheawakening/>
 
@@ -316,6 +324,10 @@
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://www.autarch.co/>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+
 ## <http://www.batintheattic.com/downloads/Fantasy%20Demographics%20Version%201.pdf>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx`
@@ -335,6 +347,10 @@
 ## <http://www.brandesstoddard.com/2016/12/dd-5e-alternate-threat-tracks>
 
 - `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
+
+## <http://www.britainirelandcastles.com/map/England.html>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
 ## <http://www.columbiagames.com/cgi-bin/query/cfg/zoom.cfg?product_id=4751>
 
@@ -415,6 +431,10 @@
 
 - `src/content/posts/translations/creighton-dragon-and-the-thief.mdx`
 
+## <http://www.edstephan.org/Book/contents.html>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+
 ## <http://www.fallenearth.com/>
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
@@ -438,6 +458,10 @@
 ## <http://www.greydragon.org/trips/Wales2005/Wales-5/index3.html>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvii.mdx`
+
+## <http://www.gspendragon.com/>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
 ## <http://www.ibiblio.org/mscorbit/beta/cropland.zip>
 
@@ -478,6 +502,10 @@
 ## <http://www.imdb.com/title/tt1392170>
 
 - `src/content/posts/translations/tribality-druid-class-part-one.mdx`
+
+## <http://www.kjd-imc.org/hall-of-fame/setting-design/how-to-make-a-fantasy-sandbox/>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 
 ## <http://www.lythia.com/2010/08/fortified-manor/>
 
@@ -578,6 +606,14 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
+## <https://acoup.blog/2020/05/22/collections-the-battle-of-helms-deep-part-iv-men-of-rohan/>
+
+- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+
+## <https://acoup.blog/2020/06/12/collections-the-battle-of-helms-deep-part-vii-hanging-by-a-thread/>
+
+- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+
 ## <https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html>
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
@@ -601,6 +637,23 @@
 ## <https://batintheattic.blogspot.com/2009/08/new-map-style.html>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iv.mdx`
+
+## <https://coinsandscrolls.blogspot.com/2017/06/osr-death-taxes-and-death-taxes.html>
+
+- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+
+## <https://coinsandscrolls.blogspot.com/2017/06/osr-three-estates.html>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
+- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+
+## <https://coinsandscrolls.blogspot.com/2019/06/osr-mercenary-pointcrawl-in-14th.html>
+
+- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+
+## <https://coinsandscrolls.blogspot.com/2019/07/book-notes-captains-of-fortune-profiles.html>
+
+- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
 ## <https://dmdavid.com/tag/what-is-the-typical-amout-of-treasure-awarded-in-a-fifth-edition-dungeons-dragons-campaign>
 
@@ -642,9 +695,25 @@
 - `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://en.wikipedia.org/wiki/Category:Barons_of_France>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
+
+## <https://en.wikipedia.org/wiki/Comtat_Venaissin>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
+
+## <https://en.wikipedia.org/wiki/Cromartyshire>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
+
 ## <https://en.wikipedia.org/wiki/Dungeon_Master%27s_Guide>
 
 - `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
+
+## <https://en.wikipedia.org/wiki/English_feudal_barony>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 
 ## <https://en.wikipedia.org/wiki/Garrett_(character)>
 
@@ -677,6 +746,22 @@
 ## <https://en.wikipedia.org/wiki/Presque_Isle_State_Park>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
+
+## <https://en.wikipedia.org/wiki/Rain_shadow>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+
+## <https://en.wikipedia.org/wiki/Royal_forest>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
+
+## <https://en.wikipedia.org/wiki/Scottish_Borders>
+
+- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+
+## <https://en.wikipedia.org/wiki/Siphonaptera_(poem)>
+
+- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
 ## <https://en.wikipedia.org/wiki/Steven_Zirnkilton>
 
@@ -1196,6 +1281,10 @@
 ## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
 
 - `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
+
+## <https://www.youtube.com/watch?v=-ZYlXEUo-Lo>
+
+- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
 ## <https://www.youtube.com/watch?v=2RBUR_gzsm0>
 
