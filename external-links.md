@@ -642,6 +642,10 @@
 - `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://en.wikipedia.org/wiki/Dungeon_Master%27s_Guide>
+
+- `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
+
 ## <https://en.wikipedia.org/wiki/Garrett_(character)>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
@@ -666,6 +670,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 
+## <https://en.wikipedia.org/wiki/Player%27s_Handbook>
+
+- `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
+
 ## <https://en.wikipedia.org/wiki/Presque_Isle_State_Park>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
@@ -673,6 +681,10 @@
 ## <https://en.wikipedia.org/wiki/Steven_Zirnkilton>
 
 - `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
+
+## <https://en.wikipedia.org/wiki/The_Keep_on_the_Borderlands>
+
+- `src/content/posts/translations/creighton-gygax-on-players-most-important-ability.mdx`
 
 ## <https://en.wikipedia.org/wiki/The_Perfect_Storm>
 
@@ -712,6 +724,10 @@
 ## <https://goblinpunch.blogspot.com/2017/10/impact.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://grognardia.blogspot.com/2008/09/gygaxian-naturalism.html>
+
+- `src/content/posts/translations/creighton-gygax-on-treasure.mdx`
 
 ## <https://grognardia.blogspot.com/2024/04/review-how-to-make-fantasy-sandbox.html>
 
@@ -910,6 +926,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-ii.mdx`
 
+## <https://www.amazon.co.uk/gp/product/0399512934>
+
+- `src/content/posts/translations/creighton-gygax-on-nature-and-variety-of-challenge.mdx`
+
 ## <https://www.amazon.com/Complete-Arcane-Players-Dungeons-Roleplaying/dp/0786934352>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
@@ -990,6 +1010,38 @@
 ## <https://www.brandesstoddard.com/2019/01/dd-5e-medium-armor>
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
+
+## <https://www.creightonbroadhurst.com/6-things-i-hate-about-module-presentation/>
+
+- `src/content/posts/translations/creighton-gygax-on-preparing-modules.mdx`
+
+## <https://www.creightonbroadhurst.com/borderland-of-adventure-41-a-close-run-thing/>
+
+- `src/content/posts/translations/creighton-gygax-on-nature-and-variety-of-challenge.mdx`
+
+## <https://www.creightonbroadhurst.com/borderland-of-adventure/>
+
+- `src/content/posts/translations/creighton-gygax-on-nature-and-variety-of-challenge.mdx`
+
+## <https://www.creightonbroadhurst.com/borderland-of-adventure/the-shattered-star/>
+
+- `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
+
+## <https://www.creightonbroadhurst.com/gm-advice-7-tips-to-help-you-prep-your-campaign/>
+
+- `src/content/posts/translations/creighton-gygax-on-preparing-modules.mdx`
+
+## <https://www.creightonbroadhurst.com/gm-advice-7-tips-to-help-you-prepare-modules-quicker-and-better/>
+
+- `src/content/posts/translations/creighton-gygax-on-preparing-modules.mdx`
+
+## <https://www.creightonbroadhurst.com/is-pathfinder-too-adventure-centric/>
+
+- `src/content/posts/translations/creighton-gygax-on-tracking-time-in-campaign.mdx`
+
+## <https://www.creightonbroadhurst.com/making-manufacturing-magical-items-more-magical/>
+
+- `src/content/posts/translations/creighton-gygax-on-tracking-time-in-campaign.mdx`
 
 ## <https://www.d20pfsrd.com/classes/hybrid-classes/skald>
 
@@ -1112,6 +1164,14 @@
 ## <https://www.prismaticwasteland.com/blog/my-favorite-trap>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.ragingswan.com>
+
+- `src/content/posts/translations/creighton-gygax-on-treasure.mdx`
+
+## <https://www.ragingswan.com/gm-essentials/all-that-glimmers/>
+
+- `src/content/posts/translations/creighton-gygax-on-treasure.mdx`
 
 ## <https://www.skullsplitterdice.com/blogs/andrars-rumblings/ultimate-necromancers-guide>
 
