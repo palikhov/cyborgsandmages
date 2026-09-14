@@ -7,7 +7,14 @@ const { href } = Astro.props;
 
 const { pathname } = Astro.url;
 
-let isActive = pathname.startsWith("/posts" + href) || pathname.startsWith(href);
+let isActive = false;
+
+if (href != null) {
+	const link = href.toString();
+	isActive =
+		link.length > 0 &&
+		(pathname.startsWith("/posts" + link) || pathname.startsWith(link));
+}
 
 if (href === "/" && pathname !== "/") {
 	isActive = false;
