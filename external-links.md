@@ -122,6 +122,14 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://falsemachine.blogspot.com/2013/02/phantom-hand-of-gargas.html>
+
+- `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
+
+## <http://falsemachine.blogspot.com/2014/05/food-in-veins.html>
+
+- `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
+
 ## <http://falsemachine.blogspot.com/2021/02/sticky-goblins.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
@@ -507,6 +515,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 
+## <http://www.lotfp.com/store/index.php?route=product/product&product_id=262>
+
+- `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
+
 ## <http://www.lythia.com/2010/08/fortified-manor/>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
@@ -638,6 +650,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iv.mdx`
 
+## <https://coinsandscrolls.blogspot.com/2017/03/currency-in-osr-games.html>
+
+- `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
+
 ## <https://coinsandscrolls.blogspot.com/2017/06/osr-death-taxes-and-death-taxes.html>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -646,6 +662,22 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+
+## <https://coinsandscrolls.blogspot.com/2017/07/monster-menu-all-part-1-eating-ad.html>
+
+- `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
+
+## <https://coinsandscrolls.blogspot.com/2017/07/monster-menu-all-part-2-veins-of-earth.html>
+
+- `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
+
+## <https://coinsandscrolls.blogspot.com/2017/07/osr-death-and-dismemberment-table-early.html>
+
+- `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
+
+## <https://coinsandscrolls.blogspot.com/2017/09/osr-medieval-price-list.html>
+
+- `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
 
 ## <https://coinsandscrolls.blogspot.com/2019/06/osr-mercenary-pointcrawl-in-14th.html>
 
