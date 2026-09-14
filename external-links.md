@@ -1113,6 +1113,10 @@
 
 - `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
 
+## <https://www.failuretolerated.com/a-small-rant-about-investigation-in-rpgs>
+
+- `src/content/posts/translations/why-most-ttrpg-mysteries-suck.mdx`
+
 ## <https://www.flutesloot.com/5e-afterlife-lore-and-analysis/>
 
 - `src/content/posts/translations/flutesloot-orientation-of-the-planes.mdx`
