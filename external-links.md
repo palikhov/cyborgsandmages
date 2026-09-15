@@ -26,6 +26,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-one.mdx`
 
+## <http://chaudronchromatique.blogspot.com/2017/03/elven-firefighters-campaign.html>
+
+- `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
+
 ## <http://creativecommons.org/licenses/by-nc-nd/3.0/>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
@@ -53,6 +57,10 @@
 ## <http://dragaera.wikia.com/wiki/Vlad_Taltos>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <http://dungeonsmashingempire.blogspot.co.uk/>
+
+- `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
 
 ## <http://en.wikipedia.org/wiki/Baldr>
 
@@ -130,13 +138,13 @@
 
 - `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
 
+## <http://falsemachine.blogspot.com/2015/05/an-interview-with-dungeon-smash-about.html>
+
+- `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
+
 ## <http://falsemachine.blogspot.com/2021/02/sticky-goblins.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
-
-## <http://fistsofcinderandstone.blogspot.ca/2017/04/lessons-in-forest-ecology-pt-1.html>
-
-- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
 ## <http://forum.rpg.net/showthread.php?t=352719>
 
@@ -208,6 +216,10 @@
 ## <http://medieval.ucdavis.edu/120D/Money.html>
 
 - `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
+
+## <http://monstersandmanuals.blogspot.com/2017/03/i-got-bad-desire.html>
+
+- `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
 
 ## <http://mythosa.net/site/index.php?option=com_content&view=article&id=51&Itemid=56>
 
@@ -659,6 +671,10 @@
 - `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
 - `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
 
+## <https://coinsandscrolls.blogspot.com/2017/03/osr-firewood-and-forestry.html?showComment=1489086174986>
+
+- `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
+
 ## <https://coinsandscrolls.blogspot.com/2017/06/osr-death-taxes-and-death-taxes.html>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -834,6 +850,10 @@
 - `src/content/posts/translations/another-article-with-link.mdx`
 - `src/content/posts/translations/article-with-link.mdx`
 
+## <https://fistsofcinderandstone.blogspot.com/2017/03/volos-guide-reviant-reviewrant-about.html>
+
+- `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
+
 ## <https://flutesloot.com/echoes-of-the-material-world>
 
 - `src/content/posts/translations/flutesloot-developing-the-inner-planes.mdx`
@@ -890,6 +910,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xv.mdx`
+
+## <https://plus.google.com/113028938340277151754/posts>
+
+- `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
 
 ## <https://possumcreek.medium.com/a-dozen-fragments-on-playground-theory-684104bcb4ab>
 
