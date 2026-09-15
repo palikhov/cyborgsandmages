@@ -6,7 +6,7 @@ export async function GET(context) {
 		.filter((post) => new Date(post.data.date) <= new Date())
 		.sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
 
-	return rss({
+	const response = await rss({
 		title: "Киборги и Чародеи",
 		description: "D&D и Настольные Ролевые Игры – Статьи, Ресурсы, Материалы, Советы, Переводы",
 		site: context.site,
@@ -18,4 +18,6 @@ export async function GET(context) {
 		})),
 		stylesheet: "/rss/pretty-feed-v3.xsl"
 	});
+	response.headers.set("Content-Type", "application/xml; charset=utf-8");
+	return response;
 }

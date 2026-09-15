@@ -1,4 +1,10 @@
 {
+	"headers": [
+		{
+			"source": "/rss.xml",
+			"headers": [{ "key": "Content-Type", "value": "application/xml; charset=utf-8" }]
+		}
+	],
 	"redirects": [
 		{ "source": "/core-d20", "destination": "/core-d20/1", "permanent": true },
 		{ "source": "/articles", "destination": "/articles/1", "permanent": true },
