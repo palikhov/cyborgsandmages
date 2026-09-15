@@ -10,6 +10,14 @@
 
 - `src/content/posts/translations/flutesloot-formulas-for-crafting-popular-magic-items-5e.mdx`
 
+## <http://avalon.law.yale.edu/medieval/salic.asp>
+
+- `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
+
+## <http://basicredrpg.blogspot.ca/2017/07/dungeons-xp.html>
+
+- `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
 ## <http://batintheattic.blogspot.com/2009/10/more-mapping-secrets.html>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvii.mdx`
@@ -61,6 +69,10 @@
 ## <http://dungeonsmashingempire.blogspot.co.uk/>
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
+
+## <http://elfmaidsandoctopi.blogspot.ca/2017/02/d100-terrible-letter-from-home.html>
+
+- `src/content/posts/translations/coinsandscrolls-dont-you-know-theres-war-on.mdx`
 
 ## <http://en.wikipedia.org/wiki/Baldr>
 
@@ -130,6 +142,10 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://erenow.com/postclassical/distantmirror/8.html>
+
+- `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
+
 ## <http://falsemachine.blogspot.com/2013/02/phantom-hand-of-gargas.html>
 
 - `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
@@ -157,6 +173,14 @@
 ## <http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=747>
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
+
+## <http://gloomtrain.blogspot.com/2016/06/playing-cute.html>
+
+- `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
+
+## <http://goblinpunch.blogspot.ca/>
+
+- `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
 
 ## <http://gregorhutton.com/boxninja/threesixteen/>
 
@@ -233,9 +257,21 @@
 
 - `src/content/posts/translations/tribality-fighter-class-part-ten.mdx`
 
+## <http://paizo.com/pathfinder/adventurePath/kingmaker>
+
+- `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
+
 ## <http://paizo.com/pathfinderRPG>
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
+
+## <http://retiredadventurer.blogspot.ca/2012/02/your-landholding-pcs-should-not-have.html>
+
+- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
+
+## <http://reverancepavane.blogspot.com/>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <http://rfg.urbanup.com/1534776>
 
@@ -249,9 +285,18 @@
 
 - `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
 
+## <http://soogagames.blogspot.ca/2015/10/the-far-war.html>
+
+- `src/content/posts/translations/coinsandscrolls-dont-you-know-theres-war-on.mdx`
+
+## <http://spellsandsteel.blogspot.ca/search/label/castles>
+
+- `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
 ## <http://tao-dnd.blogspot.ca/2013/03/scale-on-ground.html>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
 ## <http://theonyxpath.com/category/projects/magetheawakening/>
 
@@ -269,6 +314,10 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://turner.faculty.swau.edu/mathematics/materialslibrary/roman/>
+
+- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
+
 ## <http://tvtropes.org/pmwiki/pmwiki.php/Literature/FafhrdAndTheGrayMouser>
 
 - `src/content/posts/translations/tribality-rogue-class-part-one.mdx`
@@ -276,6 +325,18 @@
 ## <http://tvtropes.org/pmwiki/pmwiki.php/Main/FiveManBand>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://udan-adan.blogspot.com/2015/06/on-romance-in-fantasy-rpgs.html>
+
+- `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
+
+## <http://udan-adan.blogspot.com/2017/01/the-long-haul-time-and-distance-in-d.html>
+
+- `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
+
+## <http://whatwouldconando.blogspot.com/2015/05/postulants-of-new-sun.html>
+
+- `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
 
 ## <http://www.aedificium.org/>
 
@@ -350,7 +411,9 @@
 
 ## <http://www.autarch.co/>
 
+- `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <http://www.batintheattic.com/downloads/Fantasy%20Demographics%20Version%201.pdf>
 
@@ -426,6 +489,10 @@
 ## <http://www.creightonbroadhurst.com/the-concept-of-cr-appropriate-challenges-is-too-ingrained-in-our-minds/>
 
 - `src/content/posts/translations/creighton-gygax-on-saving-characters.mdx`
+
+## <http://www.d20pfsrd.com/gamemastering/other-rules/settlements/>
+
+- `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
 
 ## <http://www.d20srd.org/srd/epic/monsters/leshay.htm>
 
@@ -543,9 +610,21 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://www.nytimes.com/2009/02/10/nyregion/10indulgence.html>
+
+- `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
+
+## <http://www.paperspencils.com/2017/05/28/investments-citadels-and-domains/>
+
+- `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
 ## <http://www.pelgranepress.com/?cat=222>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0003.tlg001.perseus-eng3:2.47>
+
+- `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
 
 ## <http://www.ragingswan.com>
 
@@ -613,6 +692,10 @@
 
 - `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
 
+## <http://www.wealthdaily.com/articles/weekend-editon-europes-trillion-money-drop/2486>
+
+- `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
+
 ## <http://www.wizards.com/dnd/files/CC_Warlord.pdf>
 
 - `src/content/posts/translations/tribality-warlord-class-part-three.mdx`
@@ -629,6 +712,7 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx`
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
 ## <http://www222.pair.com/sjohn/fief.htm>
 
@@ -666,28 +750,46 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iv.mdx`
 
-## <https://coinsandscrolls.blogspot.com/2017/03/currency-in-osr-games.html>
+## <https://books.google.ca/books?id=cBqgOXfMxAoC>
 
-- `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
-- `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
+- `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
+
+## <https://books.google.ca/books/about/Feudal_Society_in_Medieval_France.html?id=Hb8UDJM90-wC&redir_esc=y>
+
+- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
 ## <https://coinsandscrolls.blogspot.com/2017/03/osr-firewood-and-forestry.html?showComment=1489086174986>
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
 
+## <https://coinsandscrolls.blogspot.com/2017/04/osr-religion-in-elderstone.html>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://coinsandscrolls.blogspot.com/2017/06/osr-1d100-actually-medieval-professions.html>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://coinsandscrolls.blogspot.com/2017/06/osr-class-fighters.html>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://coinsandscrolls.blogspot.com/2017/06/osr-class-knights.html>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
 ## <https://coinsandscrolls.blogspot.com/2017/06/osr-death-taxes-and-death-taxes.html>
 
+- `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
-## <https://coinsandscrolls.blogspot.com/2017/06/osr-indulgences-and-clerical-services.html>
+## <https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html>
 
-- `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
-## <https://coinsandscrolls.blogspot.com/2017/06/osr-three-estates.html>
+## <https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html>
 
-- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
-- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
-- `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
+- `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
 ## <https://coinsandscrolls.blogspot.com/2017/07/monster-menu-all-part-1-eating-ad.html>
 
@@ -700,10 +802,6 @@
 ## <https://coinsandscrolls.blogspot.com/2017/07/osr-death-and-dismemberment-table-early.html>
 
 - `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
-
-## <https://coinsandscrolls.blogspot.com/2017/09/osr-land-and-investments.html>
-
-- `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
 
 ## <https://coinsandscrolls.blogspot.com/2019/06/osr-mercenary-pointcrawl-in-14th.html>
 
@@ -747,6 +845,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 
+## <https://en.wikipedia.org/wiki/Ashlar>
+
+- `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
 ## <https://en.wikipedia.org/wiki/Assassin%27s_Creed>
 
 - `src/content/posts/translations/tribality-avenger-part-one-and-onlyish.mdx`
@@ -773,6 +875,19 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 
+## <https://en.wikipedia.org/wiki/Estates_of_the_realm>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Fermi_problem>
+
+- `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
+- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
+
+## <https://en.wikipedia.org/wiki/French_denier>
+
+- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
+
 ## <https://en.wikipedia.org/wiki/Garrett_(character)>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
@@ -784,6 +899,14 @@
 ## <https://en.wikipedia.org/wiki/Knight_banneret>
 
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
+
+## <https://en.wikipedia.org/wiki/Lady-in-waiting>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/League_(unit)>
+
+- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
 ## <https://en.wikipedia.org/wiki/Men%27s_high_jump_world_record_progression>
 
@@ -813,6 +936,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 
+## <https://en.wikipedia.org/wiki/Salic_law>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
 ## <https://en.wikipedia.org/wiki/Scottish_Borders>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
@@ -828,6 +955,10 @@
 ## <https://en.wikipedia.org/wiki/The_Keep_on_the_Borderlands>
 
 - `src/content/posts/translations/creighton-gygax-on-players-most-important-ability.mdx`
+
+## <https://en.wikipedia.org/wiki/The_Pardoner%27s_Tale>
+
+- `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
 
 ## <https://en.wikipedia.org/wiki/The_Perfect_Storm>
 
@@ -845,10 +976,18 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://en.wikipedia.org/wiki/World_War_I_memorials>
+
+- `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
+
 ## <https://example.com/canonical-article-url>
 
 - `src/content/posts/translations/another-article-with-link.mdx`
 - `src/content/posts/translations/article-with-link.mdx`
+
+## <https://fistsofcinderandstone.blogspot.com/2017/03/the-grandsires-enclave-look-at-automata.html>
+
+- `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
 
 ## <https://fistsofcinderandstone.blogspot.com/2017/03/volos-guide-reviant-reviewrant-about.html>
 
@@ -923,13 +1062,25 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
+## <https://rpgcharacters.wordpress.com/2016/12/13/the-hall-of-daniau-the-defender/>
+
+- `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
 ## <https://shop.mcdmproductions.com/collections/strongholds-followers>
 
 - `src/content/posts/translations/angrygm-how-to-stat-friends-part-1.mdx`
 
+## <https://simple.wikipedia.org/wiki/List_of_U.S._states_by_population_density>
+
+- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
+
 ## <https://songoftheblade.wordpress.com/2016/10/13/a-history-of-the-fighters-extra-attacks-versus-low-level-monsters>
 
 - `src/content/posts/translations/tribality-fighter-class-part-one.mdx`
+
+## <https://sourcebooks.fordham.edu/source/542procopius-plague.asp>
+
+- `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
 
 ## <https://standsinfire.wordpress.com/2015/06/16/dnd-dark-brigand-rogue>
 
@@ -1049,6 +1200,10 @@
 
 - `src/content/posts/translations/angrygm-how-to-stat-friends-part-2.mdx`
 
+## <https://tsojcanth.wordpress.com/2013/08/20/free-pdf-burgs-bailiffs-warfare-too/>
+
+- `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
 ## <https://valloric.github.io/statblock5e>
 
 - `src/content/posts/translations/angrygm-monster-building-202-supplement.mdx`
@@ -1165,6 +1320,10 @@
 ## <https://www.brandesstoddard.com/2019/01/dd-5e-medium-armor>
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
+
+## <https://www.catholic.com/tract/myths-about-indulgences>
+
+- `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
 
 ## <https://www.creightonbroadhurst.com/6-things-i-hate-about-module-presentation/>
 
@@ -1376,9 +1535,17 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://www.youtube.com/watch?v=JGbPShUpjpg>
+
+- `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
 ## <https://www.youtube.com/watch?v=jW3PFC86UNI>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.youtube.com/watch?v=NnjauJquWfw>
+
+- `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
 
 ## <https://www.youtube.com/watch?v=Rsfyh3M_IKc>
 
