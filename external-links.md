@@ -205,6 +205,10 @@
 
 - `src/content/posts/translations/creighton-gygax-on-henchmen-and-hirelings.mdx`
 
+## <http://medieval.ucdavis.edu/120D/Money.html>
+
+- `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
+
 ## <http://mythosa.net/site/index.php?option=com_content&view=article&id=51&Itemid=56>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
@@ -652,16 +656,22 @@
 
 ## <https://coinsandscrolls.blogspot.com/2017/03/currency-in-osr-games.html>
 
+- `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
 - `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
 
 ## <https://coinsandscrolls.blogspot.com/2017/06/osr-death-taxes-and-death-taxes.html>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
+## <https://coinsandscrolls.blogspot.com/2017/06/osr-indulgences-and-clerical-services.html>
+
+- `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
+
 ## <https://coinsandscrolls.blogspot.com/2017/06/osr-three-estates.html>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+- `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
 
 ## <https://coinsandscrolls.blogspot.com/2017/07/monster-menu-all-part-1-eating-ad.html>
 
@@ -675,9 +685,9 @@
 
 - `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
 
-## <https://coinsandscrolls.blogspot.com/2017/09/osr-medieval-price-list.html>
+## <https://coinsandscrolls.blogspot.com/2017/09/osr-land-and-investments.html>
 
-- `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
+- `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
 
 ## <https://coinsandscrolls.blogspot.com/2019/06/osr-mercenary-pointcrawl-in-14th.html>
 
@@ -1018,6 +1028,10 @@
 ## <https://valloric.github.io/statblock5e>
 
 - `src/content/posts/translations/angrygm-monster-building-202-supplement.mdx`
+
+## <https://web.archive.org/web/20110419191117/http://www.maisonstclaire.org/resources/pricelist/pricelist.html>
+
+- `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
 
 ## <https://web.archive.org/web/20110902100434/http://www222.pair.com/sjohn/blueroom/plots.htm>
 
