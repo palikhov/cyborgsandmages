@@ -142,6 +142,26 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://erenow.com/postclassical/distantmirror/10.html>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <http://erenow.com/postclassical/distantmirror/14.html>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <http://erenow.com/postclassical/distantmirror/17.html>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <http://erenow.com/postclassical/distantmirror/22.html>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <http://erenow.com/postclassical/distantmirror/4.html>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
 ## <http://erenow.com/postclassical/distantmirror/8.html>
 
 - `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
@@ -165,6 +185,10 @@
 ## <http://forum.rpg.net/showthread.php?t=352719>
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-two.mdx`
+
+## <http://gallica.bnf.fr/ark:/12148/bpt6k95366s/f65.item>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <http://gameofthrones.wikia.com/wiki/Faceless_Men>
 
@@ -762,6 +786,14 @@
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
 
+## <https://coinsandscrolls.blogspot.com/2017/03/osr-wizard-schools-stolen-from-goblin.html>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://coinsandscrolls.blogspot.com/2017/04/osr-cleric-spells.html>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
 ## <https://coinsandscrolls.blogspot.com/2017/04/osr-religion-in-elderstone.html>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -782,6 +814,7 @@
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html>
 
@@ -863,9 +896,21 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
 
+## <https://en.wikipedia.org/wiki/Corv%C3%A9e>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
 ## <https://en.wikipedia.org/wiki/Cromartyshire>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
+
+## <https://en.wikipedia.org/wiki/Drowning-pit>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Dule_tree>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <https://en.wikipedia.org/wiki/Dungeon_Master%27s_Guide>
 
@@ -884,6 +929,10 @@
 - `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
+## <https://en.wikipedia.org/wiki/Free_company>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
 ## <https://en.wikipedia.org/wiki/French_denier>
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
@@ -892,9 +941,17 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
 
+## <https://en.wikipedia.org/wiki/Infangthief_and_outfangthief>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
 ## <https://en.wikipedia.org/wiki/Jem_(TV_series)>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <https://en.wikipedia.org/wiki/John_Hawkwood>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <https://en.wikipedia.org/wiki/Knight_banneret>
 
@@ -924,6 +981,10 @@
 
 - `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
 
+## <https://en.wikipedia.org/wiki/Pope_Joan>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
 ## <https://en.wikipedia.org/wiki/Presque_Isle_State_Park>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
@@ -931,6 +992,10 @@
 ## <https://en.wikipedia.org/wiki/Rain_shadow>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+
+## <https://en.wikipedia.org/wiki/Rotary_International>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <https://en.wikipedia.org/wiki/Royal_forest>
 
@@ -947,6 +1012,10 @@
 ## <https://en.wikipedia.org/wiki/Siphonaptera_(poem)>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+
+## <https://en.wikipedia.org/wiki/Soke_(legal)>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <https://en.wikipedia.org/wiki/Steven_Zirnkilton>
 
@@ -975,6 +1044,14 @@
 ## <https://en.wikipedia.org/wiki/The_Three_Musketeers>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <https://en.wikipedia.org/wiki/Thelony>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Tonsure>
+
+- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <https://en.wikipedia.org/wiki/World_War_I_memorials>
 
