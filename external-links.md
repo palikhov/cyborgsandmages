@@ -1657,6 +1657,10 @@
 
 - `src/content/posts/translations/angrygm-between-jobs.mdx`
 
+## <https://www.youtube.com/watch?v=Bge2MQT6fOs>
+
+- `src/content/posts/translations/walker-map-a-little-smaller-darling.mdx`
+
 ## <https://www.youtube.com/watch?v=bKK-KLDlm20>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
@@ -1668,6 +1672,10 @@
 ## <https://www.youtube.com/watch?v=hou0lU8WMgo>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <https://www.youtube.com/watch?v=IBvuV9zuXnQ>
+
+- `src/content/posts/translations/walker-map-a-little-smaller-darling.mdx`
 
 ## <https://www.youtube.com/watch?v=JGbPShUpjpg>
 
