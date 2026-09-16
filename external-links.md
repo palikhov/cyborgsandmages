@@ -882,6 +882,14 @@
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
 
+## <https://dumpstatadventures.com/blog/deep-dive-wizard-class>
+
+- `src/content/posts/translations/deep-dive-cleric-class.mdx`
+
+## <https://dumpstatadventures.com/blog/rewind-the-lost-spells>
+
+- `src/content/posts/translations/deep-dive-cleric-class.mdx`
+
 ## <https://en.wikipedia.org/wiki/Alamut_Castle>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
