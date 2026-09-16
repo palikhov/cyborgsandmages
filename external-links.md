@@ -152,10 +152,12 @@
 
 ## <http://erenow.com/postclassical/distantmirror/10.html>
 
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <http://erenow.com/postclassical/distantmirror/14.html>
 
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <http://erenow.com/postclassical/distantmirror/17.html>
@@ -173,6 +175,14 @@
 ## <http://erenow.com/postclassical/distantmirror/8.html>
 
 - `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
+
+## <http://erenow.com/postclassical/distantmirror/9.html>
+
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <http://falsemachine.blogspot.ca/2017/05/a-review-of-seeing-like-state-by-james.html>
+
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
 ## <http://falsemachine.blogspot.com/2013/02/phantom-hand-of-gargas.html>
 
@@ -316,6 +326,10 @@
 ## <http://shieldhaven.pbworks.com/w/page/7943947/FrontPage>
 
 - `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
+
+## <http://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/>
+
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
 ## <http://soogagames.blogspot.ca/2015/10/the-far-war.html>
 
@@ -785,6 +799,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
+## <https://coinsandscrolls.blogspot.ca/2017/06/osr-death-taxes-and-death-taxes-part-2.html>
+
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
 ## <https://coinsandscrolls.blogspot.com/2017/03/osr-firewood-and-forestry.html?showComment=1489086174986>
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
@@ -811,12 +829,7 @@
 
 ## <https://coinsandscrolls.blogspot.com/2017/06/osr-class-knights.html>
 
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://coinsandscrolls.blogspot.com/2017/06/osr-death-taxes-and-death-taxes.html>
-
-- `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
-- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html>
@@ -891,6 +904,14 @@
 - `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://en.wikipedia.org/wiki/Beard_tax>
+
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <https://en.wikipedia.org/wiki/Benefice>
+
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
 ## <https://en.wikipedia.org/wiki/Category:Barons_of_France>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
@@ -925,6 +946,7 @@
 
 ## <https://en.wikipedia.org/wiki/Estates_of_the_realm>
 
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <https://en.wikipedia.org/wiki/Fermi_problem>
@@ -943,6 +965,10 @@
 ## <https://en.wikipedia.org/wiki/Garrett_(character)>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <https://en.wikipedia.org/wiki/Heriot>
+
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
 ## <https://en.wikipedia.org/wiki/Infangthief_and_outfangthief>
 
@@ -996,6 +1022,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
+## <https://en.wikipedia.org/wiki/Ransom_of_King_John_II_of_France>
+
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
 ## <https://en.wikipedia.org/wiki/Rotary_International>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -1007,6 +1037,10 @@
 ## <https://en.wikipedia.org/wiki/Salic_law>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Salt_tax>
+
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
 ## <https://en.wikipedia.org/wiki/Scottish_Borders>
 
@@ -1052,9 +1086,21 @@
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/Tithe>
+
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
 ## <https://en.wikipedia.org/wiki/Tonsure>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Tr%C3%A8s_Riches_Heures_du_Duc_de_Berry>
+
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <https://en.wikipedia.org/wiki/Window_tax>
+
+- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
 ## <https://en.wikipedia.org/wiki/World_War_I_memorials>
 
