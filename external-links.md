@@ -102,6 +102,10 @@
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
 
+## <http://en.wikipedia.org/wiki/Madhya_Pradesh>
+
+- `src/content/posts/translations/tao-dnd-scale-on-ground.mdx`
+
 ## <http://en.wikipedia.org/wiki/Pun>
 
 - `src/content/posts/translations/tribality-druid-class-part-five.mdx`
@@ -113,6 +117,10 @@
 ## <http://en.wikipedia.org/wiki/Shere_Khan>
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
+
+## <http://en.wikipedia.org/wiki/Shivpuri>
+
+- `src/content/posts/translations/tao-dnd-scale-on-ground.mdx`
 
 ## <http://en.wikipedia.org/wiki/Steven_Brust>
 
@@ -316,11 +324,6 @@
 ## <http://spellsandsteel.blogspot.ca/search/label/castles>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
-
-## <http://tao-dnd.blogspot.ca/2013/03/scale-on-ground.html>
-
-- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
-- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
 ## <http://theonyxpath.com/category/projects/magetheawakening/>
 
