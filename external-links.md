@@ -1566,6 +1566,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
+## <https://twitter.com/BrandesStoddard/status/1058075523367268353>
+
+- `src/content/posts/translations/brandes-leveling-up-your-background.mdx`
+
 ## <https://twitter.com/mikemearls/status/608068731562958848>
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
@@ -1664,9 +1668,18 @@
 
 - `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
 
+## <https://www.brandesstoddard.com/2014/08/dd-5th-edition-enforcer-background>
+
+- `src/content/posts/translations/brandes-leveling-up-your-background-part-three.mdx`
+- `src/content/posts/translations/brandes-leveling-up-your-background.mdx`
+
 ## <https://www.brandesstoddard.com/2014/08/dd-5th-edition-mastermind-roguish-archetype>
 
 - `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
+
+## <https://www.brandesstoddard.com/2014/10/homebrewed-5e-the-races-of-aurikesh-revised>
+
+- `src/content/posts/translations/brandes-leveling-up-your-background.mdx`
 
 ## <https://www.brandesstoddard.com/2016/03/dd-5e-the-protection-fighting-style>
 
@@ -1764,6 +1777,10 @@
 
 - `src/content/posts/translations/tribality-fighter-class-part-eight.mdx`
 
+## <https://www.drivethrurpg.com/en/product/351723/level-up-your-background>
+
+- `src/content/posts/translations/brandes-improving-backgrounds-dd-2024.mdx`
+
 ## <https://www.drivethrurpg.com/product/240542/In-the-Company-of-Unicorns-5E>
 
 - `src/content/posts/translations/tribality-fighter-class-part-seven.mdx`
@@ -1852,6 +1869,14 @@
 ## <https://www.paperspencils.com/8-reasons-why-dd-is-better-than-video-games>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.patreon.com/posts/27971295>
+
+- `src/content/posts/translations/brandes-leveling-up-your-background-part-three.mdx`
+
+## <https://www.patreon.com/posts/28554447>
+
+- `src/content/posts/translations/brandes-leveling-up-your-background-part-three.mdx`
 
 ## <https://www.prismaticwasteland.com/blog/my-favorite-trap>
 
