@@ -289,6 +289,10 @@
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://help.surveymonkey.com/articles/en_US/kb/5-Tips-for-Writing-a-Great-Survey>
+
+- `src/content/posts/translations/creighton-gm-advice-how-to-get-honest-feedback-on-your-campaign.mdx`
+
 ## <http://heraldry.sca.org/laurel/names/parisbynames.html>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx`
@@ -567,28 +571,75 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
+## <http://www.creightonbroadhurst.com/131000-design-word-challenge-april-update>
+
+- `src/content/posts/translations/creighton-2-campaign-prep-is-awesome.mdx`
+
 ## <http://www.creightonbroadhurst.com/4-overlooked-classic-tsr-modules>
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
 
+## <http://www.creightonbroadhurst.com/a-peek-inside-my-toolbox>
+
+- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
+
 ## <http://www.creightonbroadhurst.com/borderland-of-adventure>
 
+- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
 - `src/content/posts/translations/creighton-6-moral-dilemmas-for-pcs.mdx`
+- `src/content/posts/translations/creighton-gm-advice-4-signs-your-campaign-is-dying.mdx`
+- `src/content/posts/translations/creighton-gm-advice-changing-the-pace.mdx`
+- `src/content/posts/translations/creighton-gm-advice-dealing-with-house-rules.mdx`
+- `src/content/posts/translations/creighton-gm-advice-how-to-deal-with-broken-characters.mdx`
+- `src/content/posts/translations/creighton-gm-advice-how-to-herd-your-players-to-your-game.mdx`
+- `src/content/posts/translations/creighton-gm-advice-how-to-use-weather-in-your-campaign.mdx`
+- `src/content/posts/translations/creighton-gm-advice-why-your-campaign-needs-structure.mdx`
 - `src/content/posts/translations/creighton-gygax-on-henchmen-and-hirelings.mdx`
 - `src/content/posts/translations/creighton-how-and-why-to-say-no.mdx`
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure/the-shattered-star>
+
+- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
+- `src/content/posts/translations/creighton-how-i-use-slack-to-help-run-my-campaign.mdx`
+- `src/content/posts/translations/creighton-mine-is-conan-meets-cthulhu-in-a-megadungeon-whats-yours.mdx`
+
+## <http://www.creightonbroadhurst.com/gaming-advice-4-reasons-evernote-is-a-great-gamer-tool>
+
+- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
+- `src/content/posts/translations/creighton-gm-advice-4-reasons-you-should-have-a-copy-of-your-pcs-sheets.mdx`
+
+## <http://www.creightonbroadhurst.com/gaming-advice-5-more-reasons-evernote-is-an-amazing-gamers-tool>
+
+- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
 
 ## <http://www.creightonbroadhurst.com/gaming-advice-building-your-perfect-gaming-kit>
 
 - `src/content/posts/translations/creighton-3-things-behind-gm-screen.mdx`
 
+## <http://www.creightonbroadhurst.com/gaming-advice-how-to-use-evernote-as-a-player>
+
+- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
+
 ## <http://www.creightonbroadhurst.com/gloamhold>
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
 
+## <http://www.creightonbroadhurst.com/gloamhold-95-core>
+
+- `src/content/posts/translations/creighton-mine-is-conan-meets-cthulhu-in-a-megadungeon-whats-yours.mdx`
+
 ## <http://www.creightonbroadhurst.com/gloamhold-status-update-the-end-of-the-beginning>
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
+
+## <http://www.creightonbroadhurst.com/gloamhold/adventures-in-shadow>
+
+- `src/content/posts/translations/creighton-how-should-i-prepare-for-my-sandbox-campaign.mdx`
+
+## <http://www.creightonbroadhurst.com/gloamhold/languard>
+
+- `src/content/posts/translations/creighton-mine-is-conan-meets-cthulhu-in-a-megadungeon-whats-yours.mdx`
 
 ## <http://www.creightonbroadhurst.com/gm-advice-5-characteristics-of-terrible-gms>
 
@@ -600,15 +651,32 @@
 
 ## <http://www.creightonbroadhurst.com/gm-advice-are-we-too-obsessed-with-balance>
 
+- `src/content/posts/translations/creighton-gm-advice-4-reasons-you-should-have-a-copy-of-your-pcs-sheets.mdx`
 - `src/content/posts/translations/creighton-gygax-on-saving-characters.mdx`
 
-## <http://www.creightonbroadhurst.com/gm-advice-excellent-house-rules>
+## <http://www.creightonbroadhurst.com/gm-advice-how-to-use-evernote-to-help-run-your-session>
 
-- `src/content/posts/translations/creighton-how-and-why-to-say-no.mdx`
+- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
 
 ## <http://www.creightonbroadhurst.com/gm-advice-the-illusion-of-dungeon-detail>
 
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
+
+## <http://www.creightonbroadhurst.com/how-i-use-evernote-to-organise-my-campaign>
+
+- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
+
+## <http://www.creightonbroadhurst.com/ill-write-131000-design-words-in-2019>
+
+- `src/content/posts/translations/creighton-2-campaign-prep-is-awesome.mdx`
+
+## <http://www.creightonbroadhurst.com/pathfinder-advice-why-i-love-the-slow-advancement-track>
+
+- `src/content/posts/translations/creighton-mine-is-conan-meets-cthulhu-in-a-megadungeon-whats-yours.mdx`
+
+## <http://www.creightonbroadhurst.com/shattered-star-setup>
+
+- `src/content/posts/translations/creighton-gm-advice-4-reasons-you-should-have-a-copy-of-your-pcs-sheets.mdx`
 
 ## <http://www.creightonbroadhurst.com/the-concept-of-cr-appropriate-challenges-is-too-ingrained-in-our-minds>
 
@@ -677,6 +745,10 @@
 ## <http://www.giantitp.com/forums/showthread.php?510021-Player-Race-Greater-Homunculus-(PEACH)>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <http://www.goodreader.com>
+
+- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
 
 ## <http://www.greydragon.org/trips/Wales2005/Wales-5/index3.html>
 
@@ -780,6 +852,11 @@
 
 - `src/content/posts/translations/creighton-3-things-behind-gm-screen.mdx`
 
+## <http://www.ragingswan.com/gloamhold>
+
+- `src/content/posts/translations/creighton-how-should-i-prepare-for-my-sandbox-campaign.mdx`
+- `src/content/posts/translations/creighton-mine-is-conan-meets-cthulhu-in-a-megadungeon-whats-yours.mdx`
+
 ## <http://www.ragingswan.com/gms-screen-1-kobold-warren>
 
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
@@ -803,6 +880,10 @@
 ## <http://www.ragingswan.com/gms-screen-6-borderland-keep>
 
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
+
+## <http://www.ragingswan.com/retribution.html>
+
+- `src/content/posts/translations/creighton-gm-advice-how-to-use-weather-in-your-campaign.mdx`
 
 ## <http://www.realultimatepower.net/index4.htm>
 
@@ -843,6 +924,14 @@
 ## <http://www.wizards.com/dnd/files/CC_Warlord.pdf>
 
 - `src/content/posts/translations/tribality-warlord-class-part-three.mdx`
+
+## <http://www.wolflair.com/hero_lab>
+
+- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
+
+## <http://www.wolflair.com/index.php?context=hero_lab>
+
+- `src/content/posts/translations/creighton-gm-advice-4-reasons-you-should-have-a-copy-of-your-pcs-sheets.mdx`
 
 ## <http://www.wordorigins.org/index.php/more/896>
 
@@ -1241,6 +1330,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
 
+## <https://evernote.com>
+
+- `src/content/posts/translations/creighton-gm-advice-4-reasons-you-should-have-a-copy-of-your-pcs-sheets.mdx`
+
 ## <https://example.com/canonical-article-url>
 
 - `src/content/posts/translations/another-article-with-link.mdx`
@@ -1283,6 +1376,10 @@
 ## <https://holiviantales.wordpress.com/gameplay/spells/beget-bogun>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://itunes.apple.com/gb/app/rpg-books/id365514623?mt=8>
+
+- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
 
 ## <https://kenzerco.com>
 
@@ -1334,6 +1431,10 @@
 ## <https://simple.wikipedia.org/wiki/List_of_U.S._states_by_population_density>
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
+
+## <https://slack.com>
+
+- `src/content/posts/translations/creighton-how-i-use-slack-to-help-run-my-campaign.mdx`
 
 ## <https://songoftheblade.wordpress.com/2016/10/13/a-history-of-the-fighters-extra-attacks-versus-low-level-monsters>
 
@@ -1692,6 +1793,10 @@
 
 - `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
 
+## <https://www.evernote.com>
+
+- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
+
 ## <https://www.failuretolerated.com/a-small-rant-about-investigation-in-rpgs>
 
 - `src/content/posts/translations/why-most-ttrpg-mysteries-suck.mdx`
@@ -1719,6 +1824,10 @@
 ## <https://www.flutesloot.com/warlock-spells-and-invocations>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.gloamhold.com>
+
+- `src/content/posts/translations/creighton-2-campaign-prep-is-awesome.mdx`
 
 ## <https://www.gmwordoftheweek.com/home/alchemy>
 
@@ -1760,6 +1869,22 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <https://www.surveymonkey.com/blog/en/blog/2012/04/13/10-online-survey-tips>
+
+- `src/content/posts/translations/creighton-gm-advice-how-to-get-honest-feedback-on-your-campaign.mdx`
+
+## <https://www.surveymonkey.com/blog/en/blog/2014/08/29/4-tips-for-writing-matrix-questions>
+
+- `src/content/posts/translations/creighton-gm-advice-how-to-get-honest-feedback-on-your-campaign.mdx`
+
+## <https://www.surveymonkey.com/mp/lp/home-sem-1>
+
+- `src/content/posts/translations/creighton-gm-advice-how-to-get-honest-feedback-on-your-campaign.mdx`
+
+## <https://www.surveymonkey.com/s/28XK85W>
+
+- `src/content/posts/translations/creighton-gm-advice-how-to-get-honest-feedback-on-your-campaign.mdx`
+
 ## <https://www.themonstersknow.com>
 
 - `src/content/posts/translations/angrygm-the-monsters-know-better-than-you.mdx`
@@ -1771,6 +1896,10 @@
 ## <https://www.tribality.com/2017/11/30/alternative-death-resurrection-systems-5e>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.whatsapp.com>
+
+- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
 
 ## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
 
