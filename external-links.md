@@ -6,6 +6,10 @@
 
 ```md
 
+## <http://apocalypse-world.com>
+
+- `src/content/posts/translations/tribality-psionics-part-eight.mdx`
+
 ## <http://archive.wizards.com/default.asp?x=dnd/rl/20060727a>
 
 - `src/content/posts/translations/flutesloot-formulas-for-crafting-popular-magic-items-5e.mdx`
@@ -54,6 +58,10 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-two.mdx`
 
+## <http://dnd.wizards.com/articles/features/awakened-mystic>
+
+- `src/content/posts/translations/tribality-psionics-part-eight.mdx`
+
 ## <http://dndtools.eu/feats/book-of-exalted-deeds--52/vow-of-poverty--3081>
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
@@ -68,6 +76,7 @@
 
 ## <http://dragaera.wikia.com/wiki/Vlad_Taltos>
 
+- `src/content/posts/translations/tribality-psionics-part-eight.mdx`
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 
@@ -243,6 +252,10 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://harbinger-of-doom.blogspot.com/2014/09/the-ranger-class-part-one.html>
+
+- `src/content/posts/translations/tribality-psionics-part-eight.mdx`
+
 ## <http://harbinger-of-doom.blogspot.com/2014/10/the-ranger-class-part-three.html>
 
 - `src/content/posts/translations/tribality-warlock-class-part-two.mdx`
@@ -348,6 +361,10 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://theonyxpath.com/category/worlds/worldofdarkness/magetheawakening>
+
+- `src/content/posts/translations/tribality-psionics-part-eight.mdx`
+
 ## <http://tribality.com/2015/03/10/elemental-evil-players-companion>
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
@@ -355,6 +372,10 @@
 ## <http://tribality.com/2015/04/13/new-options-for-your-gith-pcs>
 
 - `src/content/posts/translations/tribality-warlock-class-part-three.mdx`
+
+## <http://tribality.com/category/columns/tribal-knowledge>
+
+- `src/content/posts/translations/tribality-psionics-part-eight.mdx`
 
 ## <http://tribality.com/tag/paladin>
 
@@ -400,6 +421,10 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-three.mdx`
 
+## <http://www.amazon.com/Advanced-Dungeons-Dragons-Edition-Accessory/dp/1560762357/ref=pd_sim_14_2?ie=UTF8&refRID=05CVAGYD84X9TECK6DYH>
+
+- `src/content/posts/translations/tribality-psionics-part-three.mdx`
+
 ## <http://www.amazon.com/Captain-Alatriste-Arturo-Perez-Reverte/dp/B000GFR9O4>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -412,6 +437,26 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-three.mdx`
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://www.amazon.com/Complete-Psionic-Dungeons-Roleplaying-Supplement/dp/0786939117>
+
+- `src/content/posts/translations/tribality-psionics-part-five.mdx`
+
+## <http://www.amazon.com/Complete-Psionic-Dungeons-Roleplaying-Supplement/dp/0786939117/ref=sr_1_1?s=books&ie=UTF8&qid=1438742818&sr=1-1&keywords=complete+psionic>
+
+- `src/content/posts/translations/tribality-psionics-part-six.mdx`
+
+## <http://www.amazon.com/Complete-Psionics-Handbook-Advanced-Supplement/dp/1560760540>
+
+- `src/content/posts/translations/tribality-psionics-part-three.mdx`
+
+## <http://www.amazon.com/Dark-Sun-Campaign-Advanced-Dungeons/dp/1560761040>
+
+- `src/content/posts/translations/tribality-psionics-part-three.mdx`
+
+## <http://www.amazon.com/Dragon-Advanced-Dungeons-Dragons-Accessory/dp/1560762357/ref=sr_1_2?s=books&ie=UTF8&qid=1436412831&sr=1-2&keywords=dragon+kings>
+
+- `src/content/posts/translations/tribality-dark-sun-psionics.mdx`
 
 ## <http://www.amazon.com/Dungeon-Master-Option-High-Level-Campaigns/dp/0786901683>
 
@@ -427,6 +472,10 @@
 - `src/content/posts/translations/tribality-druid-class-part-one.mdx`
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
 
+## <http://www.amazon.com/Expanded-Psionics-Handbook-Roleplaying-Supplement/dp/0786933011/ref=sr_1_1?s=books&ie=UTF8&qid=1438228861&sr=1-1&keywords=expanded+psionics+handbook+3.5>
+
+- `src/content/posts/translations/tribality-psionics-part-five.mdx`
+
 ## <http://www.amazon.com/Handbook-Dungeon-Dragons-Fantasy-Roleplaying/dp/0786926589>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
@@ -438,6 +487,34 @@
 ## <http://www.amazon.com/Pillars-Earth-Ken-Follett/dp/045123281X>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
+
+## <http://www.amazon.com/Players-Handbook-Edition-Core-Rulebook/dp/078695390X>
+
+- `src/content/posts/translations/tribality-psionics-part-seven.mdx`
+
+## <http://www.amazon.com/Psionic-Power-Supplement-Mike-Mearls/dp/0786955600/ref=sr_1_1?s=books&ie=UTF8&qid=1439437579&sr=1-1&keywords=psionic+power>
+
+- `src/content/posts/translations/tribality-psionics-part-seven.mdx`
+
+## <http://www.amazon.com/Psionics-Handbook-Dungeons-Dragons-Roleplaying/dp/0786918357>
+
+- `src/content/posts/translations/tribality-psionics-part-five.mdx`
+
+## <http://www.amazon.com/The-Psychics-Handbook-Steve-Kenson/dp/1932442103>
+
+- `src/content/posts/translations/tribality-psionics-part-six.mdx`
+
+## <http://www.amazon.com/Will-Fantasy-Roleplaying-Dark-Setting/dp/1560768614>
+
+- `src/content/posts/translations/tribality-dark-sun-psionics.mdx`
+
+## <http://www.amazon.com/Will-Fantasy-Roleplaying-Dark-Setting/dp/1560768614/ref=sr_1_1?s=books&ie=UTF8&qid=1435751346&sr=1-1&keywords=the+will+and+the+way>
+
+- `src/content/posts/translations/tribality-psionics-part-three.mdx`
+
+## <http://www.amazon.com/World-Synnibarr-Raven-c-s-McCracken/dp/1881171000>
+
+- `src/content/posts/translations/tribality-psionics-part-two.mdx`
 
 ## <http://www.amazon.com/World-Without-End-Ken-Follett/dp/0525950079>
 
@@ -569,6 +646,14 @@
 
 - `src/content/posts/translations/creighton-dragon-and-the-thief.mdx`
 
+## <http://www.dungeonworldsrd.com/classes/bard>
+
+- `src/content/posts/translations/tribality-psionics-part-eight.mdx`
+
+## <http://www.dungeonworldsrd.com/moves>
+
+- `src/content/posts/translations/tribality-psionics-part-eight.mdx`
+
 ## <http://www.edstephan.org/Book/contents.html>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
@@ -609,6 +694,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
 
+## <http://www.imdb.com/title/tt0090555>
+
+- `src/content/posts/translations/tribality-psionics-part-eight.mdx`
+
 ## <http://www.imdb.com/title/tt0090728>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -641,6 +730,10 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-one.mdx`
 
+## <http://www.imdb.com/title/tt2431438>
+
+- `src/content/posts/translations/tribality-psionics-part-two.mdx`
+
 ## <http://www.kjd-imc.org/hall-of-fame/setting-design/how-to-make-a-fantasy-sandbox>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
@@ -668,6 +761,10 @@
 ## <http://www.pelgranepress.com?cat=222>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://www.pelgranepress.com?cat=248>
+
+- `src/content/posts/translations/tribality-psionics-part-two.mdx`
 
 ## <http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0003.tlg001.perseus-eng3:2.47>
 
@@ -930,6 +1027,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 
+## <https://en.wikipedia.org/wiki/Cheating>
+
+- `src/content/posts/translations/tribality-psionics-part-two.mdx`
+
 ## <https://en.wikipedia.org/wiki/Comtat_Venaissin>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
@@ -942,6 +1043,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
 
+## <https://en.wikipedia.org/wiki/Deryni_novels>
+
+- `src/content/posts/translations/tribality-psionics-part-two.mdx`
+
 ## <https://en.wikipedia.org/wiki/Drowning-pit>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -953,6 +1058,10 @@
 ## <https://en.wikipedia.org/wiki/Dungeon_Master%27s_Guide>
 
 - `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
+
+## <https://en.wikipedia.org/wiki/Earthdawn>
+
+- `src/content/posts/translations/tribality-psionics-part-eight.mdx`
 
 ## <https://en.wikipedia.org/wiki/English_feudal_barony>
 
@@ -1119,6 +1228,10 @@
 ## <https://en.wikipedia.org/wiki/Tr%C3%A8s_Riches_Heures_du_Duc_de_Berry>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <https://en.wikipedia.org/wiki/Vajra>
+
+- `src/content/posts/translations/tribality-psionics-part-five.mdx`
 
 ## <https://en.wikipedia.org/wiki/Window_tax>
 
