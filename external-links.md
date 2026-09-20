@@ -1070,13 +1070,107 @@
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xx.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxi.mdx`
 
+## <https://dumpstatadventures.com/a-players-perspective/z7wohl957mn5f81h6idv92awerqq50>
+
+- `src/content/posts/translations/deep-dive-the-warforged.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-barbarian-class>
+
+- `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
+- `src/content/posts/translations/deep-dive-the-warforged.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-fireball-spell>
+
+- `src/content/posts/translations/deep-dive-red-wizards-of-thay.mdx`
+- `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-orcus>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-cockatrice>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-dragon-turtle>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-drow>
+
+- `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-frost-giant>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-lich>
+
+- `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
+- `src/content/posts/translations/deep-dive-the-wight.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-mind-flayer>
+
+- `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-named-spells>
+
+- `src/content/posts/translations/deep-dive-red-wizards-of-thay.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-purple-worm>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-red-dragon-pt-2>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-star-spawn>
+
+- `src/content/posts/translations/deep-dive-red-wizards-of-thay.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-werewolf>
+
+- `src/content/posts/translations/deep-dive-the-warforged.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-warlock-class>
+
+- `src/content/posts/translations/deep-dive-the-wight.mdx`
+
 ## <https://dumpstatadventures.com/blog/deep-dive-wizard-class>
 
 - `src/content/posts/translations/deep-dive-cleric-class.mdx`
+- `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
+- `src/content/posts/translations/deep-dive-the-wight.mdx`
 
 ## <https://dumpstatadventures.com/blog/rewind-the-lost-spells>
 
 - `src/content/posts/translations/deep-dive-cleric-class.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/10-reasons-why-you-might-join-a-cult>
+
+- `src/content/posts/translations/deep-dive-the-warforged.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/cult-boons-homebrew>
+
+- `src/content/posts/translations/deep-dive-the-warforged.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/the-planes-arborea>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/the-planes-energy-planes>
+
+- `src/content/posts/translations/deep-dive-the-wight.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/the-planes-the-abyss>
+
+- `src/content/posts/translations/deep-dive-the-wight.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/why-do-primordials-have-so-many-cults>
+
+- `src/content/posts/translations/deep-dive-the-warforged.mdx`
 
 ## <https://dungeons.hismajestytheworm.games>
 
