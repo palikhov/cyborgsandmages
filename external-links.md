@@ -38,11 +38,11 @@
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
 
-## <http://creativecommons.org/licenses/by-nc-nd/3.0/>
+## <http://creativecommons.org/licenses/by-nc-nd/3.0>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
-## <http://creativecommons.org/licenses/by-nc/3.0/>
+## <http://creativecommons.org/licenses/by-nc/3.0>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
@@ -58,15 +58,20 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
 
+## <http://dragaera.wikia.com/wiki/Daymar>
+
+- `src/content/posts/translations/tribality-psionics-part-one.mdx`
+
 ## <http://dragaera.wikia.com/wiki/Orb>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <http://dragaera.wikia.com/wiki/Vlad_Taltos>
 
+- `src/content/posts/translations/tribality-psionics-part-one.mdx`
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 
-## <http://dungeonsmashingempire.blogspot.co.uk/>
+## <http://dungeonsmashingempire.blogspot.co.uk>
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
 
@@ -220,11 +225,11 @@
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
 
-## <http://goblinpunch.blogspot.ca/>
+## <http://goblinpunch.blogspot.ca>
 
 - `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
 
-## <http://gregorhutton.com/boxninja/threesixteen/>
+## <http://gregorhutton.com/boxninja/threesixteen>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
@@ -311,7 +316,7 @@
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
-## <http://reverancepavane.blogspot.com/>
+## <http://reverancepavane.blogspot.com>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
@@ -319,7 +324,7 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
 
-## <http://samhaine.wordpress.com/2012/01/16/the-worst-adventurers-guild-in-town/>
+## <http://samhaine.wordpress.com/2012/01/16/the-worst-adventurers-guild-in-town>
 
 - `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
 
@@ -327,7 +332,7 @@
 
 - `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
 
-## <http://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/>
+## <http://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
@@ -339,7 +344,7 @@
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
-## <http://theonyxpath.com/category/projects/magetheawakening/>
+## <http://theonyxpath.com/category/projects/magetheawakening>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
@@ -351,11 +356,11 @@
 
 - `src/content/posts/translations/tribality-warlock-class-part-three.mdx`
 
-## <http://tribality.com/tag/paladin/>
+## <http://tribality.com/tag/paladin>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
-## <http://turner.faculty.swau.edu/mathematics/materialslibrary/roman/>
+## <http://turner.faculty.swau.edu/mathematics/materialslibrary/roman>
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
@@ -379,7 +384,7 @@
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
 
-## <http://www.aedificium.org/>
+## <http://www.aedificium.org>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xiii.mdx`
 
@@ -420,10 +425,7 @@
 ## <http://www.amazon.com/Dungeons-Dragons-Supplement-III-Eldritch/dp/B0007302AS>
 
 - `src/content/posts/translations/tribality-druid-class-part-one.mdx`
-
-## <http://www.amazon.com/gp/product/0935696199/ref=as_li_qf_sp_asin_il_tl>
-
-- `src/content/posts/translations/creighton-timeless-advice-keep-on-the-borderlands.mdx`
+- `src/content/posts/translations/tribality-psionics-part-one.mdx`
 
 ## <http://www.amazon.com/Handbook-Dungeon-Dragons-Fantasy-Roleplaying/dp/0786926589>
 
@@ -433,13 +435,17 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-three.mdx`
 
-## <http://www.amazon.com/Pillars-Earth-Ken-Follett/dp/045123281X/>
+## <http://www.amazon.com/Pillars-Earth-Ken-Follett/dp/045123281X>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
-## <http://www.amazon.com/World-Without-End-Ken-Follett/dp/0525950079/>
+## <http://www.amazon.com/World-Without-End-Ken-Follett/dp/0525950079>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
+
+## <http://www.amazon.com/gp/product/0935696199/ref=as_li_qf_sp_asin_il_tl>
+
+- `src/content/posts/translations/creighton-timeless-advice-keep-on-the-borderlands.mdx`
 
 ## <http://www.anarchydice.com/2016/01/26/5e-character-archetypes-woe-bearer-rogue>
 
@@ -450,7 +456,7 @@
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
-## <http://www.autarch.co/>
+## <http://www.autarch.co>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
@@ -484,54 +490,54 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
-## <http://www.creightonbroadhurst.com/4-overlooked-classic-tsr-modules/>
+## <http://www.creightonbroadhurst.com/4-overlooked-classic-tsr-modules>
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
 
-## <http://www.creightonbroadhurst.com/borderland-of-adventure/>
+## <http://www.creightonbroadhurst.com/borderland-of-adventure>
 
 - `src/content/posts/translations/creighton-6-moral-dilemmas-for-pcs.mdx`
 - `src/content/posts/translations/creighton-gygax-on-henchmen-and-hirelings.mdx`
 - `src/content/posts/translations/creighton-how-and-why-to-say-no.mdx`
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
 
-## <http://www.creightonbroadhurst.com/gaming-advice-building-your-perfect-gaming-kit/>
+## <http://www.creightonbroadhurst.com/gaming-advice-building-your-perfect-gaming-kit>
 
 - `src/content/posts/translations/creighton-3-things-behind-gm-screen.mdx`
 
-## <http://www.creightonbroadhurst.com/gloamhold-status-update-the-end-of-the-beginning/>
+## <http://www.creightonbroadhurst.com/gloamhold>
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
 
-## <http://www.creightonbroadhurst.com/gloamhold/>
+## <http://www.creightonbroadhurst.com/gloamhold-status-update-the-end-of-the-beginning>
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
 
-## <http://www.creightonbroadhurst.com/gm-advice-5-characteristics-of-terrible-gms/>
+## <http://www.creightonbroadhurst.com/gm-advice-5-characteristics-of-terrible-gms>
 
 - `src/content/posts/translations/creighton-6-common-gming-mistakes.mdx`
 
-## <http://www.creightonbroadhurst.com/gm-advice-8-characteristics-of-great-gms/>
+## <http://www.creightonbroadhurst.com/gm-advice-8-characteristics-of-great-gms>
 
 - `src/content/posts/translations/creighton-6-common-gming-mistakes.mdx`
 
-## <http://www.creightonbroadhurst.com/gm-advice-are-we-too-obsessed-with-balance/>
+## <http://www.creightonbroadhurst.com/gm-advice-are-we-too-obsessed-with-balance>
 
 - `src/content/posts/translations/creighton-gygax-on-saving-characters.mdx`
 
-## <http://www.creightonbroadhurst.com/gm-advice-excellent-house-rules/>
+## <http://www.creightonbroadhurst.com/gm-advice-excellent-house-rules>
 
 - `src/content/posts/translations/creighton-how-and-why-to-say-no.mdx`
 
-## <http://www.creightonbroadhurst.com/gm-advice-the-illusion-of-dungeon-detail/>
+## <http://www.creightonbroadhurst.com/gm-advice-the-illusion-of-dungeon-detail>
 
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
 
-## <http://www.creightonbroadhurst.com/the-concept-of-cr-appropriate-challenges-is-too-ingrained-in-our-minds/>
+## <http://www.creightonbroadhurst.com/the-concept-of-cr-appropriate-challenges-is-too-ingrained-in-our-minds>
 
 - `src/content/posts/translations/creighton-gygax-on-saving-characters.mdx`
 
-## <http://www.d20pfsrd.com/gamemastering/other-rules/settlements/>
+## <http://www.d20pfsrd.com/gamemastering/other-rules/settlements>
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
 
@@ -567,7 +573,7 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
-## <http://www.fallenearth.com/>
+## <http://www.fallenearth.com>
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
 
@@ -591,7 +597,7 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvii.mdx`
 
-## <http://www.gspendragon.com/>
+## <http://www.gspendragon.com>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
@@ -603,7 +609,7 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
 
-## <http://www.imdb.com/title/tt0090728/>
+## <http://www.imdb.com/title/tt0090728>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
@@ -611,23 +617,23 @@
 
 - `src/content/posts/translations/tribality-shair-part-one-and-only.mdx`
 
-## <http://www.imdb.com/title/tt0172495/?ref_=nv_sr_1>
+## <http://www.imdb.com/title/tt0172495?ref_=nv_sr_1>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
-## <http://www.imdb.com/title/tt0325980/>
+## <http://www.imdb.com/title/tt0325980>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
-## <http://www.imdb.com/title/tt0384766/>
+## <http://www.imdb.com/title/tt0384766>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
-## <http://www.imdb.com/title/tt0417299/>
+## <http://www.imdb.com/title/tt0417299>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
-## <http://www.imdb.com/title/tt0934814/>
+## <http://www.imdb.com/title/tt0934814>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
@@ -635,7 +641,7 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-one.mdx`
 
-## <http://www.kjd-imc.org/hall-of-fame/setting-design/how-to-make-a-fantasy-sandbox/>
+## <http://www.kjd-imc.org/hall-of-fame/setting-design/how-to-make-a-fantasy-sandbox>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 
@@ -643,7 +649,7 @@
 
 - `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
 
-## <http://www.lythia.com/2010/08/fortified-manor/>
+## <http://www.lythia.com/2010/08/fortified-manor>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
@@ -655,11 +661,11 @@
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
 
-## <http://www.paperspencils.com/2017/05/28/investments-citadels-and-domains/>
+## <http://www.paperspencils.com/2017/05/28/investments-citadels-and-domains>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
-## <http://www.pelgranepress.com/?cat=222>
+## <http://www.pelgranepress.com?cat=222>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
@@ -673,31 +679,31 @@
 - `src/content/posts/translations/creighton-gygax-on-henchmen-and-hirelings.mdx`
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
 
-## <http://www.ragingswan.com/free-resources/>
+## <http://www.ragingswan.com/free-resources>
 
 - `src/content/posts/translations/creighton-3-things-behind-gm-screen.mdx`
 
-## <http://www.ragingswan.com/gms-screen-1-kobold-warren/>
+## <http://www.ragingswan.com/gms-screen-1-kobold-warren>
 
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
 
-## <http://www.ragingswan.com/gms-screen-2-borderland-forest/>
+## <http://www.ragingswan.com/gms-screen-2-borderland-forest>
 
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
 
-## <http://www.ragingswan.com/gms-screen-3-goblin-caves/>
+## <http://www.ragingswan.com/gms-screen-3-goblin-caves>
 
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
 
-## <http://www.ragingswan.com/gms-screen-4-seedy-tavern/>
+## <http://www.ragingswan.com/gms-screen-4-seedy-tavern>
 
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
 
-## <http://www.ragingswan.com/gms-screen-5-noisome-sewer/>
+## <http://www.ragingswan.com/gms-screen-5-noisome-sewer>
 
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
 
-## <http://www.ragingswan.com/gms-screen-6-borderland-keep/>
+## <http://www.ragingswan.com/gms-screen-6-borderland-keep>
 
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
 
@@ -759,11 +765,11 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
-## <https://acoup.blog/2020/05/22/collections-the-battle-of-helms-deep-part-iv-men-of-rohan/>
+## <https://acoup.blog/2020/05/22/collections-the-battle-of-helms-deep-part-iv-men-of-rohan>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
-## <https://acoup.blog/2020/06/12/collections-the-battle-of-helms-deep-part-vii-hanging-by-a-thread/>
+## <https://acoup.blog/2020/06/12/collections-the-battle-of-helms-deep-part-vii-hanging-by-a-thread>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
@@ -791,13 +797,13 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iv.mdx`
 
-## <https://books.google.ca/books?id=cBqgOXfMxAoC>
-
-- `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
-
 ## <https://books.google.ca/books/about/Feudal_Society_in_Medieval_France.html?id=Hb8UDJM90-wC&redir_esc=y>
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
+
+## <https://books.google.ca/books?id=cBqgOXfMxAoC>
+
+- `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
 
 ## <https://coinsandscrolls.blogspot.ca/2017/06/osr-death-taxes-and-death-taxes-part-2.html>
 
@@ -878,10 +884,6 @@
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xx.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxi.mdx`
 
-## <https://dungeons.hismajestytheworm.games>
-
-- `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
-
 ## <https://dumpstatadventures.com/blog/deep-dive-wizard-class>
 
 - `src/content/posts/translations/deep-dive-cleric-class.mdx`
@@ -889,6 +891,10 @@
 ## <https://dumpstatadventures.com/blog/rewind-the-lost-spells>
 
 - `src/content/posts/translations/deep-dive-cleric-class.mdx`
+
+## <https://dungeons.hismajestytheworm.games>
+
+- `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
 
 ## <https://en.wikipedia.org/wiki/Alamut_Castle>
 
@@ -973,6 +979,14 @@
 ## <https://en.wikipedia.org/wiki/Garrett_(character)>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
+
+## <https://en.wikipedia.org/wiki/Garrett_P.I.>
+
+- `src/content/posts/translations/tribality-psionics-part-one.mdx`
+
+## <https://en.wikipedia.org/wiki/Gil_Hamilton>
+
+- `src/content/posts/translations/tribality-psionics-part-one.mdx`
 
 ## <https://en.wikipedia.org/wiki/Heriot>
 
@@ -1153,7 +1167,7 @@
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
-## <https://holiviantales.wordpress.com/gameplay/spells/beget-bogun/>
+## <https://holiviantales.wordpress.com/gameplay/spells/beget-bogun>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
@@ -1196,7 +1210,7 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
-## <https://rpgcharacters.wordpress.com/2016/12/13/the-hall-of-daniau-the-defender/>
+## <https://rpgcharacters.wordpress.com/2016/12/13/the-hall-of-daniau-the-defender>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
@@ -1334,9 +1348,13 @@
 
 - `src/content/posts/translations/angrygm-how-to-stat-friends-part-2.mdx`
 
-## <https://tsojcanth.wordpress.com/2013/08/20/free-pdf-burgs-bailiffs-warfare-too/>
+## <https://tsojcanth.wordpress.com/2013/08/20/free-pdf-burgs-bailiffs-warfare-too>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
+## <https://twitter.com/mikemearls/status/608068731562958848>
+
+- `src/content/posts/translations/tribality-psionics-part-one.mdx`
 
 ## <https://valloric.github.io/statblock5e>
 
@@ -1420,15 +1438,15 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxiii.mdx`
 
-## <https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview_02.pdf>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
 ## <https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview,_04.pdf>
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
-## <https://www.brandesstoddard.com/2011/06/achievement-based-advancement/>
+## <https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview_02.pdf>
+
+- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://www.brandesstoddard.com/2011/06/achievement-based-advancement>
 
 - `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
 
@@ -1459,35 +1477,35 @@
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
 
-## <https://www.creightonbroadhurst.com/6-things-i-hate-about-module-presentation/>
+## <https://www.creightonbroadhurst.com/6-things-i-hate-about-module-presentation>
 
 - `src/content/posts/translations/creighton-gygax-on-preparing-modules.mdx`
 
-## <https://www.creightonbroadhurst.com/borderland-of-adventure-41-a-close-run-thing/>
+## <https://www.creightonbroadhurst.com/borderland-of-adventure>
 
 - `src/content/posts/translations/creighton-gygax-on-nature-and-variety-of-challenge.mdx`
 
-## <https://www.creightonbroadhurst.com/borderland-of-adventure/>
+## <https://www.creightonbroadhurst.com/borderland-of-adventure-41-a-close-run-thing>
 
 - `src/content/posts/translations/creighton-gygax-on-nature-and-variety-of-challenge.mdx`
 
-## <https://www.creightonbroadhurst.com/borderland-of-adventure/the-shattered-star/>
+## <https://www.creightonbroadhurst.com/borderland-of-adventure/the-shattered-star>
 
 - `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
 
-## <https://www.creightonbroadhurst.com/gm-advice-7-tips-to-help-you-prep-your-campaign/>
+## <https://www.creightonbroadhurst.com/gm-advice-7-tips-to-help-you-prep-your-campaign>
 
 - `src/content/posts/translations/creighton-gygax-on-preparing-modules.mdx`
 
-## <https://www.creightonbroadhurst.com/gm-advice-7-tips-to-help-you-prepare-modules-quicker-and-better/>
+## <https://www.creightonbroadhurst.com/gm-advice-7-tips-to-help-you-prepare-modules-quicker-and-better>
 
 - `src/content/posts/translations/creighton-gygax-on-preparing-modules.mdx`
 
-## <https://www.creightonbroadhurst.com/is-pathfinder-too-adventure-centric/>
+## <https://www.creightonbroadhurst.com/is-pathfinder-too-adventure-centric>
 
 - `src/content/posts/translations/creighton-gygax-on-tracking-time-in-campaign.mdx`
 
-## <https://www.creightonbroadhurst.com/making-manufacturing-magical-items-more-magical/>
+## <https://www.creightonbroadhurst.com/making-manufacturing-magical-items-more-magical>
 
 - `src/content/posts/translations/creighton-gygax-on-tracking-time-in-campaign.mdx`
 
@@ -1565,27 +1583,27 @@
 
 - `src/content/posts/translations/why-most-ttrpg-mysteries-suck.mdx`
 
-## <https://www.flutesloot.com/5e-afterlife-lore-and-analysis/>
+## <https://www.flutesloot.com/5e-afterlife-lore-and-analysis>
 
 - `src/content/posts/translations/flutesloot-orientation-of-the-planes.mdx`
 
-## <https://www.flutesloot.com/5e-guide-to-playing-a-witch/>
+## <https://www.flutesloot.com/5e-guide-to-playing-a-witch>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
-## <https://www.flutesloot.com/5e-multiclassing-combinations/>
+## <https://www.flutesloot.com/5e-multiclassing-combinations>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
-## <https://www.flutesloot.com/herbalism-in-a-nutshell-5e/>
+## <https://www.flutesloot.com/herbalism-in-a-nutshell-5e>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
-## <https://www.flutesloot.com/ua-artificer-unpacked/>
+## <https://www.flutesloot.com/ua-artificer-unpacked>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
-## <https://www.flutesloot.com/warlock-spells-and-invocations/>
+## <https://www.flutesloot.com/warlock-spells-and-invocations>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
@@ -1621,7 +1639,7 @@
 
 - `src/content/posts/translations/creighton-gygax-on-treasure.mdx`
 
-## <https://www.ragingswan.com/gm-essentials/all-that-glimmers/>
+## <https://www.ragingswan.com/gm-essentials/all-that-glimmers>
 
 - `src/content/posts/translations/creighton-gygax-on-treasure.mdx`
 
@@ -1637,7 +1655,7 @@
 
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
 
-## <https://www.tribality.com/2017/11/30/alternative-death-resurrection-systems-5e/>
+## <https://www.tribality.com/2017/11/30/alternative-death-resurrection-systems-5e>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
@@ -1661,17 +1679,9 @@
 
 - `src/content/posts/translations/walker-map-a-little-smaller-darling.mdx`
 
-## <https://www.youtube.com/watch?v=bKK-KLDlm20>
-
-- `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
-
 ## <https://www.youtube.com/watch?v=D8zlUUrFK-M>
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
-
-## <https://www.youtube.com/watch?v=hou0lU8WMgo>
-
-- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
 ## <https://www.youtube.com/watch?v=IBvuV9zuXnQ>
 
@@ -1681,10 +1691,6 @@
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
-## <https://www.youtube.com/watch?v=jW3PFC86UNI>
-
-- `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
-
 ## <https://www.youtube.com/watch?v=NnjauJquWfw>
 
 - `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
@@ -1692,6 +1698,18 @@
 ## <https://www.youtube.com/watch?v=Rsfyh3M_IKc>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.youtube.com/watch?v=bKK-KLDlm20>
+
+- `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.youtube.com/watch?v=hou0lU8WMgo>
+
+- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <https://www.youtube.com/watch?v=jW3PFC86UNI>
+
+- `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
 
 ## <https://www.youtube.com/watch?v=uk5NwLr3OmQ>
 
