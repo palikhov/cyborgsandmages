@@ -100,9 +100,29 @@
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 
+## <http://dreamsinthelichhouse.blogspot.com/2011/03/illusionism-and-sandbox-3-resolutions.html>
+
+- `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
+
+## <http://dreamsinthelichhouse.blogspot.com/2011/03/illusionism-and-sandbox-part-1.html>
+
+- `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
+
+## <http://dreamsinthelichhouse.blogspot.com/2011/03/illusionism-and-sandbox-part-2.html>
+
+- `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
+
 ## <http://dreamsinthelichhouse.blogspot.com/2011/07/die-strahd-die.html>
 
 - `src/content/posts/translations/hackslashmaster-resurrecting-the-quantum-ogre.mdx`
+
+## <http://dreamsinthelichhouse.blogspot.com/2011/07/sandbox-triangle.html>
+
+- `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
+
+## <http://dreamsinthelichhouse.blogspot.com/2011/09/fixing-quantum-ogre.html>
+
+- `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
 
 ## <http://dungeonsmashingempire.blogspot.co.uk>
 
@@ -274,6 +294,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <http://hackslashmaster.blogspot.com/2011/09/on-list-of-ways-youre-ruining-your-game.html>
+
+- `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
+
 ## <http://harbinger-of-doom.blogspot.com/2014/08/d-5th-edition-mastermind-roguish.html>
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
@@ -356,6 +380,10 @@
 ## <http://minmaxforum.com/index.php>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://monstersandmanuals.blogspot.com/2011/09/wherein-i-drink-kool-aid.html>
+
+- `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
 
 ## <http://monstersandmanuals.blogspot.com/2017/03/i-got-bad-desire.html>
 
