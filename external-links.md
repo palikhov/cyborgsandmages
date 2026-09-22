@@ -429,10 +429,6 @@
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
-## <http://thealexandrian.net/wordpress/17231/roleplaying-games/dissociated-mechanics-a-brief-primer>
-
-- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
-
 ## <http://theonyxpath.com/category/projects/magetheawakening>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -595,6 +591,26 @@
 ## <http://www.amazon.com/World-Without-End-Ken-Follett/dp/0525950079>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0786948671/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1568821816/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1589942108/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B00000IWCT/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B002BRZ9G0/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
 
 ## <http://www.amazon.com/gp/product/0935696199/ref=as_li_qf_sp_asin_il_tl>
 
@@ -1184,6 +1200,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://drawtherestoftheowlbear.blogspot.com/2024/02/you-cant-elide-what-doesnt-exist.html>
+
+- `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
+
 ## <https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view>
 
 - `src/content/posts/translations/angrygm-how-to-price-an-item.mdx`
@@ -1639,6 +1659,10 @@
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
 
+## <https://jared.blot.im/rules-elide-and-its-consequences>
+
+- `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
+
 ## <https://kenzerco.com>
 
 - `src/content/posts/translations/angrygm-five-simple-rules-for-dating-my-teenaged-skill-system.mdx`
@@ -1650,6 +1674,10 @@
 ## <https://ko-fi.com/noxaeturnus>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
+
+## <https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign>
+
+- `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
 ## <https://magic.wizards.com/en/articles/archive/making-magic/ten-things-every-game-needs-part-1-part-2-2011-12-19>
 
@@ -1706,6 +1734,10 @@
 
 - `src/content/posts/translations/the-game-left-unplayed.mdx`
 
+## <https://press.uchicago.edu/ucp/books/book/chicago/S/bo5949823.html>
+
+- `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
+
 ## <https://retiredadventurer.blogspot.com/2019/05/motive-means-and-opportunity.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
@@ -1717,10 +1749,6 @@
 ## <https://rpgcharacters.wordpress.com/2016/12/13/the-hall-of-daniau-the-defender>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
-
-## <https://samsorensen.blot.im/which-rules-elide>
-
-- `src/content/posts/translations/orkish-odyssey-mechanizing-the-brothercrawl.mdx`
 
 ## <https://shop.mcdmproductions.com/collections/strongholds-followers>
 
@@ -1762,6 +1790,10 @@
 ## <https://standsinthefire.com/2016/04/30/fighting-styles-in-dd-5e>
 
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
+
+## <https://thealexandrian.net/wordpress/1545/roleplaying-games/dissociated-mechanic>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
 
 ## <https://theangrygm.com/30-days-of-rpg-a-day-in-one-day>
 
@@ -1859,6 +1891,10 @@
 ## <https://theangrygm.com/wp-content/uploads/2020/11/Companion-Characters.pdf>
 
 - `src/content/posts/translations/angrygm-how-to-stat-friends-part-2.mdx`
+
+## <https://thriftomancer.itch.io/null>
+
+- `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
 ## <https://tsojcanth.wordpress.com/2013/08/20/free-pdf-burgs-bailiffs-warfare-too>
 
@@ -2216,6 +2252,10 @@
 ## <https://www.reddit.com/r/gamedesign/comments/b5qdi0/the_tyranny_of_fun>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://www.researchgate.net/publication/273946812_The_Invisible_Rules_of_Role-Playing_The_Social_Framework_of_Role-Playing_Process>
+
+- `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
 ## <https://www.rpg.net/columns/advanced-designers-and-dragons/advanced-designers-and-dragons56.phtml>
 
