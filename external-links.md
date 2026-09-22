@@ -270,10 +270,6 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
-## <http://hackslashmaster.blogspot.com/2011/09/on-slaying-quantum-ogre.html>
-
-- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
-
 ## <http://harbinger-of-doom.blogspot.com/2014/08/d-5th-edition-mastermind-roguish.html>
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
