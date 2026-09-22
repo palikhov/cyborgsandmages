@@ -266,10 +266,6 @@
 
 - `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
 
-## <http://goblinpunch.blogspot.com/2015/04/two-rabbit-tattoos-argue-about.html>
-
-- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
-
 ## <http://gregorhutton.com/boxninja/threesixteen>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
