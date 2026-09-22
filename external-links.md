@@ -34,6 +34,18 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvii.mdx`
 
+## <http://big-model.info>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://big-model.info/wiki/Creative_Agenda>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://big-model.info/wiki/Incoherence>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <http://blogofholding.com>
 
 - `src/content/posts/translations/tribality-rogue-class-part-one.mdx`
@@ -246,6 +258,10 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://grognardia.blogspot.com>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <http://harbinger-of-doom.blogspot.com/2014/08/d-5th-edition-mastermind-roguish.html>
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
@@ -301,13 +317,33 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx`
 
+## <http://hillcantons.blogspot.com/2014/11/pointcrawl-series-index.html>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <http://index.rpg.net/display-entry.phtml>
 
 - `src/content/posts/translations/creighton-gygax-on-henchmen-and-hirelings.mdx`
 
+## <http://indie-rpgs.com/_articles/glossary.html>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://jeepen.org/dict>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <http://medieval.ucdavis.edu/120D/Money.html>
 
 - `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
+
+## <http://mikepohjola.com/turku/index.html>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://minmaxforum.com/index.php>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <http://monstersandmanuals.blogspot.com/2017/03/i-got-bad-desire.html>
 
@@ -344,6 +380,14 @@
 ## <http://rfg.urbanup.com/1534776>
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
+
+## <http://rolltop-indigo.blogspot.com/2018/05/deadly-goobers-hollow-points-another.html>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://rolltop-indigo.blogspot.com/p/an-rpg-lexicon.html>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <http://samhaine.wordpress.com/2012/01/16/the-worst-adventurers-guild-in-town>
 
@@ -810,6 +854,18 @@
 
 - `src/content/posts/translations/tribality-psionics-part-two.mdx`
 
+## <http://www.indie-rpgs.com/_articles/system_does_matter.html>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://www.indie-rpgs.com/archive/index.php?topic=18707.0>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://www.indie-rpgs.com/forge/index.php>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <http://www.kjd-imc.org/hall-of-fame/setting-design/how-to-make-a-fantasy-sandbox>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
@@ -967,9 +1023,17 @@
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
 
+## <https://alldeadgenerations.blogspot.com/p/the-classic-dungeon-crawl-theory.html>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <https://answers.google.com/answers/threadview?id=339720>
 
 - `src/content/posts/translations/flutesloot-formulas-for-crafting-popular-magic-items-5e.mdx`
+
+## <https://axthetable.wordpress.com/2017/10/23/the-origin-of-the-term-story-games>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <https://bastionlandpress.com/products/electric-bastionland-hardback-book>
 
@@ -1060,6 +1124,14 @@
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
+## <https://critrole.com>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://d66kobolds.blogspot.com/2021/03/play-worlds-not-rules-design-challenge.html>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <https://dmdavid.com/tag/what-is-the-typical-amout-of-treasure-awarded-in-a-fifth-edition-dungeons-dragons-campaign>
 
 - `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
@@ -1067,6 +1139,10 @@
 ## <https://dnd-wiki.org/wiki/Living_Mannequin_(3.5e_Monster)>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://dnd.dragonmag.com/2019/10/23/from-the-creators-unraveling-ravenloft/content.html>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view>
 
@@ -1288,6 +1364,10 @@
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
 
+## <https://en.wikipedia.org/wiki/Gulf_Cooperation_Council>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <https://en.wikipedia.org/wiki/Heriot>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
@@ -1316,17 +1396,37 @@
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
+## <https://en.wikipedia.org/wiki/Living_Greyhawk>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://en.wikipedia.org/wiki/Ludonarrative_dissonance>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <https://en.wikipedia.org/wiki/Men%27s_high_jump_world_record_progression>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <https://en.wikipedia.org/wiki/Network_of_practice>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)>
 
 - `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
 
+## <https://en.wikipedia.org/wiki/Parasocial_interaction>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <https://en.wikipedia.org/wiki/Parkour>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <https://en.wikipedia.org/wiki/Pharaoh_(module)>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <https://en.wikipedia.org/wiki/Player%27s_Handbook>
 
@@ -1335,6 +1435,10 @@
 ## <https://en.wikipedia.org/wiki/Pope_Joan>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Powered_by_the_Apocalypse>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <https://en.wikipedia.org/wiki/Presque_Isle_State_Park>
 
@@ -1379,6 +1483,10 @@
 ## <https://en.wikipedia.org/wiki/Steven_Zirnkilton>
 
 - `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
+
+## <https://en.wikipedia.org/wiki/Telos>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <https://en.wikipedia.org/wiki/The_Keep_on_the_Borderlands>
 
@@ -1455,6 +1563,10 @@
 - `src/content/posts/translations/flutesloot-materializing-elemental-chaos.mdx`
 - `src/content/posts/translations/flutesloot-orientation-of-the-planes.mdx`
 
+## <https://friendorfoe.com/d/Old%20School%20Primer.pdf>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <https://gamemakerstoolkit.com>
 
 - `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
@@ -1479,6 +1591,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <https://imbrattabit.wordpress.com/2019/12/09/what-does-it-take-to-be-a-neotrad-role-playing-game>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <https://itunes.apple.com/gb/app/rpg-books/id365514623?mt=8>
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
@@ -1486,6 +1602,10 @@
 ## <https://kenzerco.com>
 
 - `src/content/posts/translations/angrygm-five-simple-rules-for-dating-my-teenaged-skill-system.mdx`
+
+## <https://knights-n-knaves.com/phpbb3/index.php>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <https://ko-fi.com/noxaeturnus>
 
@@ -1504,6 +1624,26 @@
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxi.mdx`
+
+## <https://nordiclarp.org>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://nordiclarp.org/2015/03/02/bleed-the-spillover-between-player-and-character>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://nordiclarp.org/wiki/Nordic_Larp_(book)>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://nordiclarp.org/wiki/Nordic_larp>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://osricrpg.com>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <https://paizo.com/products/btpy8ffn?Pathfinder-Roleplaying-Game-GameMastery-Guide>
 
@@ -1526,9 +1666,9 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
-## <https://retiredadventurer.blogspot.com/2021/04/six-cultures-of-play.html>
+## <https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html>
 
-- `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <https://rpgcharacters.wordpress.com/2016/12/13/the-hall-of-daniau-the-defender>
 
@@ -1750,9 +1890,17 @@
 
 - `src/content/posts/translations/tribality-shair-class-part-two.mdx`
 
+## <https://www.arkenstonepublishing.net/isabout/2021/02/18/the-sacrament-of-death>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <https://www.artstation.com/artwork/wDWyg>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.bastionland.com/2016/01/choices-and-consequences-pick-or-push.html>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html>
 
@@ -1884,6 +2032,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <https://www.dragonsfoot.org>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
 ## <https://www.drivethrurpg.com/browse/pub/9/Malhavoc-Press>
 
 - `src/content/posts/translations/tribality-fighter-class-part-eight.mdx`
@@ -1916,6 +2068,14 @@
 ## <https://www.drivethrurpg.com/product/470159/The-Isle-of-Pyade>
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://www.drivethrurpg.com/product/64332/Labyrinth-Lord-Revised-Edition>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://www.enworld.org/threads/dungeon-layout-map-flow-and-old-school-game-design.168563>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <https://www.enworld.org/threads/magic-item-math-of-5e.437937>
 
@@ -2004,6 +2164,10 @@
 ## <https://www.ragingswan.com/gm-essentials/all-that-glimmers>
 
 - `src/content/posts/translations/creighton-gygax-on-treasure.mdx`
+
+## <https://www.reddit.com/r/gamedesign/comments/b5qdi0/the_tyranny_of_fun>
+
+- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <https://www.rpg.net/columns/advanced-designers-and-dragons/advanced-designers-and-dragons56.phtml>
 
