@@ -238,6 +238,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
 
+## <http://goblinpunch.blogspot.com/2016/02/osr-style-challenges-rulings-not-rules.html>
+
+- `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
+
 ## <http://gregorhutton.com/boxninja/threesixteen>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -967,6 +971,10 @@
 
 - `src/content/posts/translations/flutesloot-formulas-for-crafting-popular-magic-items-5e.mdx`
 
+## <https://bastionlandpress.com/products/electric-bastionland-hardback-book>
+
+- `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
+
 ## <https://batintheattic.blogspot.com/2008/10/mapping-with-hexes.html>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
@@ -1506,6 +1514,10 @@
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
 
+## <https://podcasts.apple.com/us/podcast/bastionland-podcast-tabletop-roleplaying-game-design/id1506416713>
+
+- `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
+
 ## <https://possumcreek.medium.com/a-dozen-fragments-on-playground-theory-684104bcb4ab>
 
 - `src/content/posts/translations/the-game-left-unplayed.mdx`
@@ -1513,6 +1525,10 @@
 ## <https://retiredadventurer.blogspot.com/2019/05/motive-means-and-opportunity.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://retiredadventurer.blogspot.com/2021/04/six-cultures-of-play.html>
+
+- `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
 
 ## <https://rpgcharacters.wordpress.com/2016/12/13/the-hall-of-daniau-the-defender>
 
@@ -1740,6 +1756,7 @@
 
 ## <https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html>
 
+- `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
 ## <https://www.batintheattic.com/downloads/MW%20Travel%20Rules%20Rev%2002.pdf>
@@ -1908,6 +1925,10 @@
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
 
+## <https://www.evilhat.com/home/designers-dragons>
+
+- `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
+
 ## <https://www.failuretolerated.com/a-small-rant-about-investigation-in-rpgs>
 
 - `src/content/posts/translations/why-most-ttrpg-mysteries-suck.mdx`
@@ -1983,6 +2004,10 @@
 ## <https://www.ragingswan.com/gm-essentials/all-that-glimmers>
 
 - `src/content/posts/translations/creighton-gygax-on-treasure.mdx`
+
+## <https://www.rpg.net/columns/advanced-designers-and-dragons/advanced-designers-and-dragons56.phtml>
+
+- `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
 
 ## <https://www.skullsplitterdice.com/blogs/andrars-rumblings/ultimate-necromancers-guide>
 
