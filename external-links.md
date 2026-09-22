@@ -120,10 +120,6 @@
 
 - `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
 
-## <http://dreamsinthelichhouse.blogspot.com/2011/09/fixing-quantum-ogre.html>
-
-- `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
-
 ## <http://dungeonsmashingempire.blogspot.co.uk>
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
@@ -293,6 +289,10 @@
 ## <http://grognardia.blogspot.com>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://hackslashmaster.blogspot.com/2011/09/on-how-illusion-can-rob-your-game-of.html>
+
+- `src/content/posts/translations/dreams-lich-house-fixing-the-quantum-ogre.mdx`
 
 ## <http://hackslashmaster.blogspot.com/2011/09/on-list-of-ways-youre-ruining-your-game.html>
 
