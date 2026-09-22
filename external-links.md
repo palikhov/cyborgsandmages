@@ -78,6 +78,10 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
 
+## <http://dndwithpornstars.blogspot.com>
+
+- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
+
 ## <http://dragaera.wikia.com/wiki/Daymar>
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
@@ -250,9 +254,13 @@
 
 - `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
 
-## <http://goblinpunch.blogspot.com/2016/02/osr-style-challenges-rulings-not-rules.html>
+## <http://goblinpunch.blogspot.com/2015/01/d100-minor-magical-items.html>
 
-- `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
+- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
+
+## <http://goblinpunch.blogspot.com/2015/04/two-rabbit-tattoos-argue-about.html>
+
+- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
 
 ## <http://gregorhutton.com/boxninja/threesixteen>
 
@@ -261,6 +269,10 @@
 ## <http://grognardia.blogspot.com>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://hackslashmaster.blogspot.com/2011/09/on-slaying-quantum-ogre.html>
+
+- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
 
 ## <http://harbinger-of-doom.blogspot.com/2014/08/d-5th-edition-mastermind-roguish.html>
 
@@ -405,9 +417,21 @@
 
 - `src/content/posts/translations/coinsandscrolls-dont-you-know-theres-war-on.mdx`
 
+## <http://soogagames.blogspot.com>
+
+- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
+
+## <http://soogagames.blogspot.com/2016/01/d100-oddities-for-new-characters.html>
+
+- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
+
 ## <http://spellsandsteel.blogspot.ca/search/label/castles>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
+## <http://thealexandrian.net/wordpress/17231/roleplaying-games/dissociated-mechanics-a-brief-primer>
+
+- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
 
 ## <http://theonyxpath.com/category/projects/magetheawakening>
 
@@ -746,6 +770,18 @@
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-two.mdx`
 
+## <http://www.d20srd.org/srd/skills/concentration.htm>
+
+- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
+
+## <http://www.d20srd.org/srd/skills/handleAnimal.htm>
+
+- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
+
+## <http://www.d20srd.org/srd/skills/jump.htm>
+
+- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
+
 ## <http://www.d20srd.org/srd/spells/planarAllyLesser.htm>
 
 - `src/content/posts/translations/tribality-shair-class-part-two.mdx`
@@ -873,6 +909,10 @@
 ## <http://www.lotfp.com/store/index.php?route=product/product&product_id=262>
 
 - `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
+
+## <http://www.lulu.com/us/en/shop/matthew-finch/quick-primer-for-old-school-gaming/ebook/product-3159558.html>
+
+- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
 
 ## <http://www.lythia.com/2010/08/fortified-manor>
 
@@ -1650,6 +1690,10 @@
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xv.mdx`
 
+## <https://plus.google.com/104927909965528500794>
+
+- `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
+
 ## <https://plus.google.com/113028938340277151754/posts>
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
@@ -1673,6 +1717,10 @@
 ## <https://rpgcharacters.wordpress.com/2016/12/13/the-hall-of-daniau-the-defender>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
+## <https://samsorensen.blot.im/which-rules-elide>
+
+- `src/content/posts/translations/orkish-odyssey-mechanizing-the-brothercrawl.mdx`
 
 ## <https://shop.mcdmproductions.com/collections/strongholds-followers>
 
