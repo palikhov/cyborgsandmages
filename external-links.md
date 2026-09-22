@@ -50,6 +50,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-one.mdx`
 
+## <http://brimleystudios.blogspot.com>
+
+- `src/content/posts/translations/hackslashmaster-resurrecting-the-quantum-ogre.mdx`
+
 ## <http://chaudronchromatique.blogspot.com/2017/03/elven-firefighters-campaign.html>
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
@@ -95,6 +99,10 @@
 - `src/content/posts/translations/tribality-psionics-part-eight.mdx`
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <http://dreamsinthelichhouse.blogspot.com/2011/07/die-strahd-die.html>
+
+- `src/content/posts/translations/hackslashmaster-resurrecting-the-quantum-ogre.mdx`
 
 ## <http://dungeonsmashingempire.blogspot.co.uk>
 
