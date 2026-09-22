@@ -477,6 +477,10 @@
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
 
+## <http://wiki.saberpunk.net/Wushu/OpenReloaded?action=print>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
 ## <http://www.aedificium.org>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xiii.mdx`
@@ -592,13 +596,22 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0786948507/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0786948671/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
+- `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1568821816/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1589780337/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1589942108/digitalcomi0a-20>
 
@@ -830,6 +843,10 @@
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
 
+## <http://www.giantitp.com/comics/oots0001.html>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
 ## <http://www.giantitp.com/comics/oots0031.html>
 
 - `src/content/posts/translations/tribality-warlord-class-part-three.mdx`
@@ -1029,6 +1046,10 @@
 
 - `src/content/posts/translations/creighton-gygax-on-henchmen-and-hirelings.mdx`
 
+## <http://www.shamusyoung.com/twentysidedtale?p=1084>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
 ## <http://www.tribality.com/2017/06/29/the-monk-class-part-eight>
 
 - `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
@@ -1036,6 +1057,10 @@
 ## <http://www.wealthdaily.com/articles/weekend-editon-europes-trillion-money-drop/2486>
 
 - `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
+
+## <http://www.wizards.com/default.asp?x=dnd/4ex/20080505a>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
 
 ## <http://www.wizards.com/dnd/files/CC_Warlord.pdf>
 
@@ -1791,9 +1816,17 @@
 
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
 
-## <https://thealexandrian.net/wordpress/1545/roleplaying-games/dissociated-mechanic>
+## <https://thealexandrian.net/wordpress/2028/roleplaying-games/playtesting-4th-edition-compiled>
 
-- `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
+- `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
+## <https://thealexandrian.net/wordpress/700/roleplaying-games/advanced-rules-diplomacy>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
+## <https://thealexandrian.net/wordpress/901/roleplaying-games/thoughts-on-4th-edition>
+
+- `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
 
 ## <https://theangrygm.com/30-days-of-rpg-a-day-in-one-day>
 
