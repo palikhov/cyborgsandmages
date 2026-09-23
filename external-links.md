@@ -6,6 +6,10 @@
 
 ```md
 
+## <http://aeonsnaugauries.blogspot.com/2014/02/different-magic-swords-proposal.html>
+
+- `src/content/posts/translations/hackslashmaster-magical-plus-one-weapons.mdx`
+
 ## <http://apocalypse-world.com>
 
 - `src/content/posts/translations/tribality-psionics-part-eight.mdx`
@@ -33,6 +37,10 @@
 ## <http://batintheattic.blogspot.com/2010/04/river-secrets-for-mapping.html>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvii.mdx`
+
+## <http://beyondfomalhaut.blogspot.com/2018/01/blog-formless-wilderness.html>
+
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
 
 ## <http://big-model.info>
 
@@ -120,6 +128,10 @@
 
 - `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
 
+## <http://dungeonofsigns.blogspot.com/2014/01/1-sword-equivilents.html>
+
+- `src/content/posts/translations/hackslashmaster-magical-plus-one-weapons.mdx`
+
 ## <http://dungeonsmashingempire.blogspot.co.uk>
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
@@ -127,6 +139,10 @@
 ## <http://elfmaidsandoctopi.blogspot.ca/2017/02/d100-terrible-letter-from-home.html>
 
 - `src/content/posts/translations/coinsandscrolls-dont-you-know-theres-war-on.mdx`
+
+## <http://en.wikipedia.org/wiki/Attention_span>
+
+- `src/content/posts/translations/hackslashmaster-inadequacy-of-boxed-text.mdx`
 
 ## <http://en.wikipedia.org/wiki/Baldr>
 
@@ -282,6 +298,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
 
+## <http://goblinpunch.blogspot.com/2014/02/weird-swords-and-not-swords.html>
+
+- `src/content/posts/translations/hackslashmaster-magical-plus-one-weapons.mdx`
+
 ## <http://goblinpunch.blogspot.com/2015/01/d100-minor-magical-items.html>
 
 - `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
@@ -301,6 +321,10 @@
 ## <http://hackslashmaster.blogspot.com/2011/09/on-list-of-ways-youre-ruining-your-game.html>
 
 - `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
+
+## <http://hackslashmaster.blogspot.com/2014/02/on-magical-1-swords.html>
+
+- `src/content/posts/translations/hackslashmaster-magical-plus-one-weapons.mdx`
 
 ## <http://harbinger-of-doom.blogspot.com/2014/08/d-5th-edition-mastermind-roguish.html>
 
@@ -357,8 +381,38 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx`
 
+## <http://hillcantons.blogspot.ca/2016/02/hexcrawls-vs-pointcrawls.html>
+
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+
+## <http://hillcantons.blogspot.com/2012/01/crawling-without-hexes-pointcrawl.html>
+
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+- `src/content/posts/translations/mazirians-garden-rules-for-citycrawling.mdx`
+
+## <http://hillcantons.blogspot.com/2012/05/pointcrawling-undercities.html>
+
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+
+## <http://hillcantons.blogspot.com/2013/03/whats-so-damn-hard-about-running-ruined.html>
+
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+
+## <http://hillcantons.blogspot.com/2014/01/pointcrawling-ruins-revisited.html>
+
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+
+## <http://hillcantons.blogspot.com/2014/01/pointcrawling-ruins-stocking-structures.html>
+
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+
+## <http://hillcantons.blogspot.com/2014/03/breaking-out-vertical-pointcrawls.html>
+
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+
 ## <http://hillcantons.blogspot.com/2014/11/pointcrawl-series-index.html>
 
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <http://index.rpg.net/display-entry.phtml>
@@ -372,6 +426,10 @@
 ## <http://jeepen.org/dict>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://maziriansgarden.blogspot.com/2017/09/two-years-through-ultans-door-zyan.html>
+
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
 
 ## <http://medieval.ucdavis.edu/120D/Money.html>
 
@@ -500,6 +558,10 @@
 ## <http://udan-adan.blogspot.com/2015/06/on-romance-in-fantasy-rpgs.html>
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
+
+## <http://udan-adan.blogspot.com/2016/11/conceptual-density-or-what-are-rpg.html>
+
+- `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
 
 ## <http://udan-adan.blogspot.com/2017/01/the-long-haul-time-and-distance-in-d.html>
 
@@ -815,6 +877,10 @@
 
 - `src/content/posts/translations/creighton-gygax-on-saving-characters.mdx`
 
+## <http://www.critical-hits.com/blog/2010/08/27/thinking-outside-the-boxed-text>
+
+- `src/content/posts/translations/hackslashmaster-inadequacy-of-boxed-text.mdx`
+
 ## <http://www.d20pfsrd.com/gamemastering/other-rules/settlements>
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
@@ -995,6 +1061,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
+## <http://www.paperspencils.com/2017/07/09/flux-space-in-dungeons>
+
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+
 ## <http://www.pelgranepress.com?cat=222>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -1124,6 +1194,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
+## <http://zzarchov.blogspot.com/2014/03/scenic-dunnsmouth-is-now-available.html>
+
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+
 ## <https://acoup.blog/2020/05/22/collections-the-battle-of-helms-deep-part-iv-men-of-rohan>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -1168,6 +1242,14 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iv.mdx`
 
+## <https://bearded-devil.com/2016/07/08/hex-session-v-5th-edition-actual-play-the-van-lurken-house>
+
+- `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
+
+## <https://bearded-devil.com/2018/05/10/hex-session-xxii-5th-edition-actual-play-chateau-de-la-marche-pt-1>
+
+- `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
+
 ## <https://books.google.ca/books/about/Feudal_Society_in_Medieval_France.html?id=Hb8UDJM90-wC&redir_esc=y>
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
@@ -1198,6 +1280,7 @@
 
 ## <https://coinsandscrolls.blogspot.com/2017/06/osr-1d100-actually-medieval-professions.html>
 
+- `src/content/posts/translations/billhook-cities-fixed-at-last.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <https://coinsandscrolls.blogspot.com/2017/06/osr-class-fighters.html>
@@ -1245,6 +1328,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://delvingwolf.blogspot.com>
+
+- `src/content/posts/translations/billhook-cities-fixed-at-last.mdx`
+
 ## <https://dmdavid.com/tag/what-is-the-typical-amout-of-treasure-awarded-in-a-fifth-edition-dungeons-dragons-campaign>
 
 - `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
@@ -1270,6 +1357,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xx.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxi.mdx`
+
+## <https://drive.google.com/file/d/17KSElkPbquuP10sO_om1XAhWc0CQNWhi/view>
+
+- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
 
 ## <https://dumpstatadventures.com/a-players-perspective/z7wohl957mn5f81h6idv92awerqq50>
 
@@ -1422,6 +1513,10 @@
 ## <https://dungeons.hismajestytheworm.games>
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
+
+## <https://elmc.at>
+
+- `src/content/posts/translations/billhook-cities-fixed-at-last.mdx`
 
 ## <https://en.wikipedia.org/wiki/Alamut_Castle>
 
@@ -1726,6 +1821,14 @@
 - `src/content/posts/translations/flutesloot-materializing-elemental-chaos.mdx`
 - `src/content/posts/translations/flutesloot-orientation-of-the-planes.mdx`
 
+## <https://forlornencystment.blogspot.com/2024/01/character-progression-and-tiers-of-play.html>
+
+- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
+## <https://forlornencystment.blogspot.com/2024/02/ad-2e-play-report-session-8.html>
+
+- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
 ## <https://friendorfoe.com/d/Old%20School%20Primer.pdf>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -1733,6 +1836,10 @@
 ## <https://gamemakerstoolkit.com>
 
 - `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
+
+## <https://gamingballistic.com/wp-content/uploads/2018/11/Medieval-Demographics-Made-Easy-1.pdf>
+
+- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
 
 ## <https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html>
 
@@ -1749,6 +1856,10 @@
 ## <https://grognardia.blogspot.com/2024/04/review-how-to-make-fantasy-sandbox.html>
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://groups.io>
+
+- `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
 
 ## <https://holiviantales.wordpress.com/gameplay/spells/beget-bogun>
 
@@ -1770,9 +1881,21 @@
 
 - `src/content/posts/translations/angrygm-five-simple-rules-for-dating-my-teenaged-skill-system.mdx`
 
+## <https://knightattheopera.blogspot.com>
+
+- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
+## <https://knightattheopera.blogspot.com/2021/06/a-thorough-look-at-urban-gameplay-in-d.html>
+
+- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
 ## <https://knights-n-knaves.com/phpbb3/index.php>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://knightssemantic.wordpress.com/2016/06/01/the-west-marches-a-style-of-dd-campaign-for-large-groups>
+
+- `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
 
 ## <https://ko-fi.com/noxaeturnus>
 
@@ -1785,6 +1908,18 @@
 ## <https://magic.wizards.com/en/articles/archive/making-magic/ten-things-every-game-needs-part-1-part-2-2011-12-19>
 
 - `src/content/posts/translations/angrygm-the-gms-burden-and-other-stories.mdx`
+
+## <https://maziriansgarden.blogspot.com/2018/04/city-state-of-invincible-overlord-city.html>
+
+- `src/content/posts/translations/mazirians-garden-rules-for-citycrawling.mdx`
+
+## <https://maziriansgarden.blogspot.com/2019/04/pleasures-of-osr-secrecy-and-discovery.html>
+
+- `src/content/posts/translations/mazirians-garden-rules-for-citycrawling.mdx`
+
+## <https://maziriansgarden.blogspot.com/2020/08/the-carriages-of-zyan.html>
+
+- `src/content/posts/translations/mazirians-garden-rules-for-citycrawling.mdx`
 
 ## <https://media.wizards.com/2016/dnd/downloads/UA_Druid11272016_CAWS.pdf>
 
@@ -1853,6 +1988,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
+## <https://scrollforinitiative.com/2021/02/08/how-medieval-is-dd>
+
+- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
 ## <https://shop.mcdmproductions.com/collections/strongholds-followers>
 
 - `src/content/posts/translations/angrygm-how-to-stat-friends-part-1.mdx`
@@ -1894,9 +2033,61 @@
 
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
 
+## <https://thealexandrian.net/wordpress/1223/roleplaying-games/opening-your-game-table>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/15126/roleplaying-games/game-structures>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
 ## <https://thealexandrian.net/wordpress/2028/roleplaying-games/playtesting-4th-edition-compiled>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
+## <https://thealexandrian.net/wordpress/36490/roleplaying-games/thinking-about-urbancrawls-part-2-applying-the-crawl>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/36498/roleplaying-games/thinking-about-urbancrawls-part-3-vertical-integration>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/36508/roleplaying-games/thinking-about-urbancrawls-part-4-experimental-city-hexes>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/36520/roleplaying-games/thinking-about-urbancrawls-part-5-using-the-ptolus-hexmap>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/36526/roleplaying-games/thinking-about-urbancrawls-part-6-old-school-inspiration>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/36542/roleplaying-games/thinking-about-urbancrawls-part-7-city-states-of-the-judges-guild>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/36553/roleplaying-games/thinking-about-urbancrawls-part-8-other-old-school-cities>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/36575/roleplaying-games/thinking-about-urbancrawls-part-9-new-school-urbancrawls>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/36600/roleplaying-games/thinking-about-urbancrawls-part-10-one-city-many-urbancrawls>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/36605/roleplaying-games/thinking-about-urbancrawls-part-11-the-investigation-action>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/36611/roleplaying-games/thinking-about-urbancrawls-part-12-exploring-the-advanced-urbancrawl>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
 
 ## <https://thealexandrian.net/wordpress/700/roleplaying-games/advanced-rules-diplomacy>
 
@@ -1905,6 +2096,10 @@
 ## <https://thealexandrian.net/wordpress/901/roleplaying-games/thoughts-on-4th-edition>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
+## <https://thealexandrian.net?p=36490>
+
+- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
 
 ## <https://theangrygm.com/30-days-of-rpg-a-day-in-one-day>
 
@@ -2035,6 +2230,18 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
 
+## <https://welshpiper.com/hex-based-campaign-design-part-1?sfw=pass1729610011>
+
+- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
+## <https://welshpiper.com/hex-based-campaign-design-part-2>
+
+- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
+## <https://widdershinswanderings.bearblog.dev>
+
+- `src/content/posts/translations/billhook-cities-fixed-at-last.mdx`
+
 ## <https://wiki.lspace.org/mediawiki/Department_of_Post-Mortem_Communications>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
@@ -2122,6 +2329,14 @@
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
+## <https://www.blogofholding.com?p=6789>
+
+- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
+## <https://www.blogofholding.com?p=7182&cpage=1>
+
+- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
 ## <https://www.brandesstoddard.com/2011/06/achievement-based-advancement>
 
 - `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
@@ -2152,6 +2367,10 @@
 ## <https://www.brandesstoddard.com/2019/01/dd-5e-medium-armor>
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
+
+## <https://www.burningwheel.com/store/index.php/torchbearer.html>
+
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
 
 ## <https://www.catholic.com/tract/myths-about-indulgences>
 
@@ -2339,6 +2558,14 @@
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
+## <https://www.lastgaspgrimoire.com/in-corpathium>
+
+- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+
+## <https://www.lastgaspgrimoire.com/tag/corpathium>
+
+- `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
+
 ## <https://www.opengamingstore.com/collections/jon-brazer-enterprises/products/13-fighter-talents-and-maneuvers-13th-age-compatible>
 
 - `src/content/posts/translations/tribality-fighter-class-part-thirteenth-age.mdx`
@@ -2375,6 +2602,10 @@
 ## <https://www.reddit.com/r/gamedesign/comments/b5qdi0/the_tyranny_of_fun>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://www.redraggedfiend.com/practical-settlement-design-dnd>
+
+- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
 
 ## <https://www.researchgate.net/publication/273946812_The_Invisible_Rules_of_Role-Playing_The_Social_Framework_of_Role-Playing_Process>
 
@@ -2435,6 +2666,10 @@
 ## <https://www.youtube.com/watch?v=2RBUR_gzsm0>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.youtube.com/watch?v=3PWWtqfwacQ>
+
+- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
 
 ## <https://www.youtube.com/watch?v=9Kgx2b1sIRs>
 
