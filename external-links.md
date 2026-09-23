@@ -12,6 +12,7 @@
 
 ## <http://apocalypse-world.com>
 
+- `src/content/posts/translations/alexandrian-game-structures-part-2-game-structure-basics.mdx`
 - `src/content/posts/translations/tribality-psionics-part-eight.mdx`
 
 ## <http://archive.wizards.com/default.asp?x=dnd/rl/20060727a>
@@ -73,6 +74,10 @@
 ## <http://creativecommons.org/licenses/by-nc/3.0>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <http://dconstructions.wordpress.com/2011/12/21/rules-whats-your-point-of-first-contact>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 
 ## <http://deltasdnd.blogspot.com/2007/04/magic-number-seven.html>
 
@@ -175,6 +180,10 @@
 ## <http://en.wikipedia.org/wiki/Madhya_Pradesh>
 
 - `src/content/posts/translations/tao-dnd-scale-on-ground.mdx`
+
+## <http://en.wikipedia.org/wiki/Network_effect>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
 
 ## <http://en.wikipedia.org/wiki/Pun>
 
@@ -690,6 +699,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/078692893X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-4-combat.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0786948507/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
@@ -699,9 +712,26 @@
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0981666361/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1556344546/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-3-dungeoncrawl.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1560760850/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1565042492/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-addendum-katanas-trenchcoats.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1568821816/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-5-mysteries.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1589780337/digitalcomi0a-20>
 
@@ -711,13 +741,87 @@
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1601252293/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1905176244/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1932564136/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1934857319/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B00000IWCT/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B0000DC3VM/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000F950GU/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000JLPMPI/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000RZIGVS/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000W4HIY0/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000ZG4K14/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-13-custom-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B001AOAB9A/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B001LXIDVI/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B0020EK4QY/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B002BRZ9G0/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B002DUJ9Q6/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B002JBD262/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B002XMGGJM/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B003XVYLEY/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B004RE29PO/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
 
 ## <http://www.amazon.com/gp/product/0935696199/ref=as_li_qf_sp_asin_il_tl>
 
@@ -2033,17 +2137,106 @@
 
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
 
+## <https://thealexandrian.net/gamemastery-101>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+
+## <https://thealexandrian.net/in-the-shadow-of-the-spire>
+
+- `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+
+## <https://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-5-mysteries.mdx`
+
+## <https://thealexandrian.net/wordpress/12031/roleplaying-games/review-carcosa>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+
+## <https://thealexandrian.net/wordpress/12094/roleplaying-games/thought-of-the-day-history-of-rpg-mechanical-design>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
+
 ## <https://thealexandrian.net/wordpress/1223/roleplaying-games/opening-your-game-table>
 
+- `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/13085/roleplaying-games/xandering-the-dungeon>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+
+## <https://thealexandrian.net/wordpress/13103/roleplaying-games/xandering-the-dungeon-part-2-xandering-techniques>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+
+## <https://thealexandrian.net/wordpress/13182/reviews/what-im-reading-73-the-elfish-gene>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-2-game-structure-basics.mdx`
 
 ## <https://thealexandrian.net/wordpress/15126/roleplaying-games/game-structures>
 
+- `src/content/posts/translations/alexandrian-game-structures-addendum-katanas-trenchcoats.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-11-complete-game-structures.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-13-custom-structures.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-15-generic-scenario-structures.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-2-game-structure-basics.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-3-dungeoncrawl.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-4-combat.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-5-mysteries.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/15140/roleplaying-games/game-structures-part-3-%D0%B4%D0%B0%D0%BD%D0%B6%D0%B5%D0%BD-%D0%BA%D1%80%D0%B0%D1%83%D0%BB>
+
+- `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
+
+## <https://thealexandrian.net/wordpress/15156/roleplaying-games/game-structures-part-6-%D0%B3%D0%B5%D0%BA%D1%81%D0%BA%D1%80%D0%B0%D1%83%D0%BBs>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
+
+## <https://thealexandrian.net/wordpress/15164/roleplaying-games/game-structures-part-7-playing-with-%D0%B3%D0%B5%D0%BA%D1%81%D0%BA%D1%80%D0%B0%D1%83%D0%BBs>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-13-custom-structures.mdx`
+
+## <https://thealexandrian.net/wordpress/15331/roleplaying-games/deus-ex-tactical-hacking%22>
+
+- `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
+
+## <https://thealexandrian.net/wordpress/15339/roleplaying-games/deus-ex-tactical-hacking-part-2-tools-for-tactical-hacking>
+
+- `src/content/posts/translations/alexandrian-deus-ex-tactical-hacking.mdx`
+
+## <https://thealexandrian.net/wordpress/17308/roleplaying-games/%D0%B3%D0%B5%D0%BA%D1%81%D0%BA%D1%80%D0%B0%D1%83%D0%BB>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+
+## <https://thealexandrian.net/wordpress/1900/roleplaying-games/treasure-maps-the-unknown-goals-in-the-megadungeon>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-3-dungeoncrawl.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
 
 ## <https://thealexandrian.net/wordpress/2028/roleplaying-games/playtesting-4th-edition-compiled>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
+## <https://thealexandrian.net/wordpress/2662/roleplaying-games/a-nomenclature-of-dd-editions>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+
+## <https://thealexandrian.net/wordpress/33791/roleplaying-games/the-art-of-pacing-part-5-advanced-techniques>
+
+- `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 
 ## <https://thealexandrian.net/wordpress/36490/roleplaying-games/thinking-about-urbancrawls-part-2-applying-the-crawl>
 
@@ -2089,13 +2282,75 @@
 
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
 
+## <https://thealexandrian.net/wordpress/39221/roleplaying-games/call-of-cthulhu-5th-edition-revised-system-cheat-sheet>
+
+- `src/content/posts/translations/alexandrian-game-structures-addendum-katanas-trenchcoats.mdx`
+
+## <https://thealexandrian.net/wordpress/39941/roleplaying-games/scenario-structure-challenge>
+
+- `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
+
+## <https://thealexandrian.net/wordpress/4006/roleplaying-games/encumbrance-by-stone-design-notes>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+
+## <https://thealexandrian.net/wordpress/4131/roleplaying-games/reactions-to-odd-experience-points>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-11-complete-game-structures.mdx`
+
+## <https://thealexandrian.net/wordpress/4147/roleplaying-games/dont-prep-plots>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+
+## <https://thealexandrian.net/wordpress/4238/roleplaying-games/the-art-of-rulings>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-2-game-structure-basics.mdx`
+
+## <https://thealexandrian.net/wordpress/42944/roleplaying-games/running-the-campaign-dragon-heist-a-party-at-shipswrights-house>
+
+- `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+
+## <https://thealexandrian.net/wordpress/46020/roleplaying-games/5e-%D0%B3%D0%B5%D0%BA%D1%81%D0%BA%D1%80%D0%B0%D1%83%D0%BB>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
+
 ## <https://thealexandrian.net/wordpress/700/roleplaying-games/advanced-rules-diplomacy>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
 
+## <https://thealexandrian.net/wordpress/7949/roleplaying-games/node-based-scenario-design-part-1-the-plotted-approach>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+
+## <https://thealexandrian.net/wordpress/8171/roleplaying-games/advanced-node-based-design-part-1-moving-between-nodes>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+
+## <https://thealexandrian.net/wordpress/8197/roleplaying-games/advanced-node-based-design-part-4-the-second-track>
+
+- `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+
+## <https://thealexandrian.net/wordpress/8409/roleplaying-games/rpgnet-reviews-heavy-gear-second-edition-rulebook-into-the-eye-of-the-storm>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+
 ## <https://thealexandrian.net/wordpress/901/roleplaying-games/thoughts-on-4th-edition>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
+## <https://thealexandrian.net/wordpress/9595/roleplaying-games/technoir-sequences-vs-skill-challenges>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-15-generic-scenario-structures.mdx`
+
+## <https://thealexandrian.net/wordpress/tag/gumshoe>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-5-mysteries.mdx`
+
+## <https://thealexandrian.net/www.amazon.com/exec/obidos/ASIN/B000ALCC5K/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
 
 ## <https://thealexandrian.net?p=36490>
 
