@@ -200,6 +200,10 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-two.mdx`
 
+## <http://en.wikipedia.org/wiki/Vic_Mackey>
+
+- `src/content/posts/translations/brandes-dd-5e-enforcer-background.mdx`
+
 ## <http://en.wiktionary.org/wiki/warlock>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -1273,7 +1277,9 @@
 
 ## <https://dumpstatadventures.com/blog/deep-dive-barbarian-class>
 
+- `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
 - `src/content/posts/translations/deep-dive-the-warforged.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-fireball-spell>
@@ -1282,9 +1288,18 @@
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
 
+## <https://dumpstatadventures.com/blog/deep-dive-history-of-bigby>
+
+- `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-history-of-vecna>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+
 ## <https://dumpstatadventures.com/blog/deep-dive-orcus>
 
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-the-cockatrice>
 
@@ -1294,6 +1309,10 @@
 
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
 
+## <https://dumpstatadventures.com/blog/deep-dive-the-dragonborn>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+
 ## <https://dumpstatadventures.com/blog/deep-dive-the-drow>
 
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
@@ -1301,6 +1320,19 @@
 ## <https://dumpstatadventures.com/blog/deep-dive-the-frost-giant>
 
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-gith>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-kobold>
+
+- `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-kraken>
+
+- `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-the-lich>
 
@@ -1314,12 +1346,9 @@
 ## <https://dumpstatadventures.com/blog/deep-dive-the-named-spells>
 
 - `src/content/posts/translations/deep-dive-red-wizards-of-thay.mdx`
+- `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-the-purple-worm>
-
-- `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
-
-## <https://dumpstatadventures.com/blog/deep-dive-the-red-dragon-pt-2>
 
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
 
@@ -1330,6 +1359,10 @@
 ## <https://dumpstatadventures.com/blog/deep-dive-the-werewolf>
 
 - `src/content/posts/translations/deep-dive-the-warforged.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-wyvern>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-warlock-class>
 
@@ -1353,13 +1386,30 @@
 
 - `src/content/posts/translations/deep-dive-the-warforged.mdx`
 
+## <https://dumpstatadventures.com/the-gm-is-always-right/the-hobbit-reviewing-appendix-n>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+
 ## <https://dumpstatadventures.com/the-gm-is-always-right/the-planes-arborea>
 
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
 
+## <https://dumpstatadventures.com/the-gm-is-always-right/the-planes-baator-nine-hells>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+
 ## <https://dumpstatadventures.com/the-gm-is-always-right/the-planes-energy-planes>
 
 - `src/content/posts/translations/deep-dive-the-wight.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/the-planes-pandemonium>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/the-planes-plane-of-fire>
+
+- `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
 
 ## <https://dumpstatadventures.com/the-gm-is-always-right/the-planes-the-abyss>
 
@@ -1969,6 +2019,10 @@
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
 
+## <https://twitter.com/stat_dump>
+
+- `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
+
 ## <https://valloric.github.io/statblock5e>
 
 - `src/content/posts/translations/angrygm-monster-building-202-supplement.mdx`
@@ -2071,11 +2125,6 @@
 ## <https://www.brandesstoddard.com/2011/06/achievement-based-advancement>
 
 - `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
-
-## <https://www.brandesstoddard.com/2014/08/dd-5th-edition-enforcer-background>
-
-- `src/content/posts/translations/brandes-leveling-up-your-background-part-three.mdx`
-- `src/content/posts/translations/brandes-leveling-up-your-background.mdx`
 
 ## <https://www.brandesstoddard.com/2014/08/dd-5th-edition-mastermind-roguish-archetype>
 
@@ -2234,6 +2283,10 @@
 
 - `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
 
+## <https://www.facebook.com/dumpstatadventures>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+
 ## <https://www.failuretolerated.com/a-small-rant-about-investigation-in-rpgs>
 
 - `src/content/posts/translations/why-most-ttrpg-mysteries-suck.mdx`
@@ -2270,6 +2323,10 @@
 
 - `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
 
+## <https://www.instagram.com/dumpstatadventures>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+
 ## <https://www.kickstarter.com/projects/200664283/deluxe-mage-the-ascension-20th-anniversary-edition/video_share>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -2289,6 +2346,11 @@
 ## <https://www.paperspencils.com/8-reasons-why-dd-is-better-than-video-games>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.patreon.com/dumpstat>
+
+- `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
 
 ## <https://www.patreon.com/posts/27971295>
 
@@ -2361,6 +2423,10 @@
 ## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
 
 - `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
+
+## <https://www.youtube.com/shorts/o-slFgtuQtI>
+
+- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
 
 ## <https://www.youtube.com/watch?v=-ZYlXEUo-Lo>
 
