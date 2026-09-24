@@ -181,9 +181,17 @@
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
 
+## <http://en.wikipedia.org/wiki/Herma>
+
+- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
+
 ## <http://en.wikipedia.org/wiki/Horror_on_the_Hill>
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
+
+## <http://en.wikipedia.org/wiki/Lingam>
+
+- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
 
 ## <http://en.wikipedia.org/wiki/Madhya_Pradesh>
 
@@ -196,6 +204,10 @@
 ## <http://en.wikipedia.org/wiki/Pun>
 
 - `src/content/posts/translations/tribality-druid-class-part-five.mdx`
+
+## <http://en.wikipedia.org/wiki/Qanat>
+
+- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
 
 ## <http://en.wikipedia.org/wiki/Ritual_of_oak_and_mistletoe>
 
@@ -212,6 +224,10 @@
 ## <http://en.wikipedia.org/wiki/Steven_Brust>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://en.wikipedia.org/wiki/Tarpeian_Rock>
+
+- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
 
 ## <http://en.wikipedia.org/wiki/The_Godfather_(film_series)>
 
@@ -236,6 +252,18 @@
 ## <http://en.wikipedia.org/wiki/Vic_Mackey>
 
 - `src/content/posts/translations/brandes-dd-5e-enforcer-background.mdx`
+
+## <http://en.wikipedia.org/wiki/Vomitorium>
+
+- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
+
+## <http://en.wikipedia.org/wiki/Windcatchers>
+
+- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
+
+## <http://en.wikipedia.org/wiki/Yakhchal>
+
+- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
 
 ## <http://en.wiktionary.org/wiki/warlock>
 
@@ -331,6 +359,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <http://gutenberg.net.au/ebooks06/0600771h.html>
+
+- `src/content/posts/translations/running-ruined-cities.mdx`
+
 ## <http://hackslashmaster.blogspot.com/2011/09/on-how-illusion-can-rob-your-game-of.html>
 
 - `src/content/posts/translations/dreams-lich-house-fixing-the-quantum-ogre.mdx`
@@ -402,30 +434,30 @@
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
 
-## <http://hillcantons.blogspot.com/2012/05/pointcrawling-undercities.html>
+## <http://hillcantons.blogspot.com/2009/05/discreet-charm-of-city-ruins.html>
 
-- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+- `src/content/posts/translations/running-ruined-cities.mdx`
 
-## <http://hillcantons.blogspot.com/2013/03/whats-so-damn-hard-about-running-ruined.html>
+## <http://hillcantons.blogspot.com/2012/05/designing-undercities-giant.html>
 
-- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+- `src/content/posts/translations/pointcrawling-undercities.mdx`
 
-## <http://hillcantons.blogspot.com/2014/01/pointcrawling-ruins-revisited.html>
+## <http://hillcantons.blogspot.com/2012/07/kezmarok-great-tour-part-one.html>
 
-- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+- `src/content/posts/translations/running-ruined-cities.mdx`
 
-## <http://hillcantons.blogspot.com/2014/01/pointcrawling-ruins-stocking-structures.html>
+## <http://hillcantons.blogspot.com/2013/04/pointcrawling-urban-ruins-part-one.html>
 
-- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
-
-## <http://hillcantons.blogspot.com/2014/03/breaking-out-vertical-pointcrawls.html>
-
-- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+- `src/content/posts/translations/vertical-pointcrawls.mdx`
 
 ## <http://hillcantons.blogspot.com/2014/11/pointcrawl-series-index.html>
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://hillcantons.blogspot.com/search/label/pointcrawling>
+
+- `src/content/posts/translations/pointcrawling-ruins-revisited.mdx`
 
 ## <http://index.rpg.net/display-entry.phtml>
 
@@ -454,6 +486,10 @@
 ## <http://minmaxforum.com/index.php>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://monstersandmanuals.blogspot.co.uk/2012/03/being-illustration-of-contents-of-1.html>
+
+- `src/content/posts/translations/pointcrawling-inside-hexes.mdx`
 
 ## <http://monstersandmanuals.blogspot.com/2011/09/wherein-i-drink-kool-aid.html>
 
@@ -2179,6 +2215,10 @@
 ## <https://plus.google.com/113028938340277151754/posts>
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
+
+## <https://plus.google.com/u/0/105788250456300773414/posts/LhdRQyBmkRt>
+
+- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
 
 ## <https://pnprpg.ru/blog/2014/09/04/thealexandrian-game-structures-p7>
 
