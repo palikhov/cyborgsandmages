@@ -1,0 +1,24 @@
+{
+  "article": "src/content/posts/translations/alexandrian-dont-prep-plots.mdx",
+  "canonicalUrl": "https://thealexandrian.net/wordpress/4147/roleplaying-games/dont-prep-plots",
+  "originalTitle": "Don’t Prep Plots",
+  "date": "2026-09-24",
+  "category": "translations",
+  "verifiedAliases": [
+    {
+      "urls": [
+        "https://thealexandrian.net/?p=51068",
+        "https://thealexandrian.net/wordpress/51068/roleplaying-games/empower-your-prep-the-rachov-principle"
+      ],
+      "evidence": "Web click from source on 2026-09-24 confirmed redirect."
+    },
+    {
+      "urls": [
+        "https://thealexandrian.net/?p=53341",
+        "https://thealexandrian.net/wordpress/53341/roleplaying-games/is-node-based-design-prepping-a-plot"
+      ],
+      "evidence": "Web click from source on 2026-09-24 confirmed redirect."
+    }
+  ],
+  "excludeExternal": []
+}
