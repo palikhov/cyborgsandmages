@@ -724,6 +724,10 @@
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0786955708/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0786965592/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
@@ -766,9 +770,14 @@
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/158994206X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1589942108/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
+- `src/content/posts/translations/alexandrian-game-structures.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1601252293/digitalcomi0a-20>
 
@@ -790,14 +799,27 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B00000DMF5/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B00000IWCT/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
+- `src/content/posts/translations/alexandrian-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B00000JRSB/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B00003OPES/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-deus-ex-tactical-hacking.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B00004SVXH/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B0000AQS0F/digitalcomi0a-20>
 
@@ -810,6 +832,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B000ALCC5K/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000BNLVA4/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B000F950GU/digitalcomi0a-20>
 
@@ -881,6 +907,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B003XVYLEY/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B004HYK956/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-game-structures.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B004RE29PO/digitalcomi0a-20>
 
@@ -2267,27 +2297,6 @@
 ## <https://thealexandrian.net/wordpress/13182/reviews/what-im-reading-73-the-elfish-gene>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-2-game-structure-basics.mdx`
-
-## <https://thealexandrian.net/wordpress/15126/roleplaying-games/game-structures>
-
-- `src/content/posts/translations/alexandrian-game-structures-7.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-addendum-katanas-trenchcoats.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-11-complete-game-structures.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-13-custom-structures.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-15-generic-scenario-structures.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-2-game-structure-basics.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-3-dungeoncrawl.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-4-combat.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-5-mysteries.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
-- `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
 
 ## <https://thealexandrian.net/wordpress/15339/roleplaying-games/deus-ex-tactical-hacking-part-2-tools-for-tactical-hacking>
 
