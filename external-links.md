@@ -2576,6 +2576,14 @@
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
+## <https://tvtropes.org/pmwiki/pmwiki.php/Administrivia/TropesAreTools?from=Administrivia.TropesAreNotBad>
+
+- `src/content/posts/translations/flutesloot-dramatic-questions.mdx`
+
+## <https://tvtropes.org/pmwiki/pmwiki.php/Main/TheLawOfConservationOfDetail>
+
+- `src/content/posts/translations/flutesloot-dramatic-questions.mdx`
+
 ## <https://twitter.com/BrandesStoddard/status/1058075523367268353>
 
 - `src/content/posts/translations/brandes-leveling-up-your-background.mdx`
@@ -2669,6 +2677,10 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/0394527453/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+
+## <https://www.amazon.com/gp/product/0786967021/ref=as_li_tl?camp=1789&creative=9325&creativeASIN=0786967021&ie=UTF8&linkCode=as2&linkId=21961fec467b2327f97ff93b97255afb&tag=flutesloot-20>
+
+- `src/content/posts/translations/flutesloot-dramatic-questions.mdx`
 
 ## <https://www.arkenstonepublishing.net/isabout/2021/02/18/the-sacrament-of-death>
 
