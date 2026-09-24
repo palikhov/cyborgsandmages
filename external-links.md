@@ -2391,6 +2391,7 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+- `src/content/posts/translations/three-step-session-prep-adventure-modules.mdx`
 
 ## <https://thealexandrian.net/wordpress/42944/roleplaying-games/running-the-campaign-dragon-heist-a-party-at-shipswrights-house>
 
