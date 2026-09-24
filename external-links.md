@@ -1261,6 +1261,10 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://www.migellito.blogspot.com/search/label/Nicodemus>
+
+- `src/content/posts/translations/pointcrawling-sigils-undercity.mdx`
+
 ## <http://www.nytimes.com/2009/02/10/nyregion/10indulgence.html>
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
@@ -1363,6 +1367,10 @@
 ## <http://www.shamusyoung.com/twentysidedtale?p=1084>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
+## <http://www.sorcerers.net/Games/Torment/Walkthrough/act3-underground/underground-overview.php>
+
+- `src/content/posts/translations/pointcrawling-sigils-undercity.mdx`
 
 ## <http://www.tribality.com/2017/06/29/the-monk-class-part-eight>
 
