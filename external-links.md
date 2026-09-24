@@ -1599,6 +1599,7 @@
 ## <https://dumpstatadventures.com/blog/deep-dive-history-of-bigby>
 
 - `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
+- `src/content/posts/translations/deep-dive-the-named-spells.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-history-of-vecna>
 
@@ -1650,11 +1651,6 @@
 ## <https://dumpstatadventures.com/blog/deep-dive-the-mind-flayer>
 
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
-
-## <https://dumpstatadventures.com/blog/deep-dive-the-named-spells>
-
-- `src/content/posts/translations/deep-dive-red-wizards-of-thay.mdx`
-- `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-the-purple-worm>
 
@@ -2588,6 +2584,10 @@
 
 - `src/content/posts/translations/brandes-leveling-up-your-background.mdx`
 
+## <https://twitter.com/TheEdVerse/status/1232757800142622722>
+
+- `src/content/posts/translations/deep-dive-the-named-spells.mdx`
+
 ## <https://twitter.com/mikemearls/status/608068731562958848>
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
@@ -2595,6 +2595,10 @@
 ## <https://twitter.com/stat_dump>
 
 - `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
+
+## <https://twitter.com/webjr1981/status/1026653349595279366>
+
+- `src/content/posts/translations/deep-dive-the-named-spells.mdx`
 
 ## <https://valloric.github.io/statblock5e>
 
@@ -3025,6 +3029,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-3-dungeoncrawl.mdx`
 
+## <https://www.thebluebard.com/post/a-deck-of-many-things-using-ad-d-s-mixed-bag-of-rules-and-loving-them>
+
+- `src/content/posts/translations/adnd-why-we-train.mdx`
+
 ## <https://www.themonstersknow.com>
 
 - `src/content/posts/translations/angrygm-the-monsters-know-better-than-you.mdx`
@@ -3088,6 +3096,10 @@
 ## <https://www.youtube.com/watch?v=Rsfyh3M_IKc>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.youtube.com/watch?v=SYZy5CPc93M>
+
+- `src/content/posts/translations/deep-dive-the-named-spells.mdx`
 
 ## <https://www.youtube.com/watch?v=bKK-KLDlm20>
 
