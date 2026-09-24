@@ -2260,6 +2260,7 @@
 
 ## <https://thealexandrian.net/gamemastery-101>
 
+- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 
 ## <https://thealexandrian.net/in-the-shadow-of-the-spire>
@@ -2323,6 +2324,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 
+## <https://thealexandrian.net/wordpress/36383/roleplaying-games/dont-prep-plots-you-will-rue-this-day-heroes-the-principles-of-rpg-villainy>
+
+- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+
 ## <https://thealexandrian.net/wordpress/36490/roleplaying-games/thinking-about-urbancrawls-part-2-applying-the-crawl>
 
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
@@ -2367,6 +2372,10 @@
 
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
 
+## <https://thealexandrian.net/wordpress/37422/roleplaying-games/dont-prep-plots-tools-not-contingencies>
+
+- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+
 ## <https://thealexandrian.net/wordpress/37916/roleplaying-games/universal-npc-roleplaying-template>
 
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
@@ -2387,11 +2396,9 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-11-complete-game-structures.mdx`
 
-## <https://thealexandrian.net/wordpress/4147/roleplaying-games/dont-prep-plots>
+## <https://thealexandrian.net/wordpress/4154/roleplaying-games/dont-prep-plots-prepping-scenario-timelines>
 
-- `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
-- `src/content/posts/translations/three-step-session-prep-adventure-modules.mdx`
+- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 
 ## <https://thealexandrian.net/wordpress/42944/roleplaying-games/running-the-campaign-dragon-heist-a-party-at-shipswrights-house>
 
@@ -2402,9 +2409,25 @@
 - `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
 
+## <https://thealexandrian.net/wordpress/51068/roleplaying-games/empower-your-prep-the-rachov-principle>
+
+- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+
+## <https://thealexandrian.net/wordpress/53341/roleplaying-games/is-node-based-design-prepping-a-plot>
+
+- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+
 ## <https://thealexandrian.net/wordpress/5785/roleplaying-games/so-you-want-to-write-a-railroad>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+
+## <https://thealexandrian.net/wordpress/580/roleplaying-games/tales-from-the-table-in-the-depths-of-khunbaral>
+
+- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+
+## <https://thealexandrian.net/wordpress/599/roleplaying-games/tales-from-the-table-bumbling-in-freeport>
+
+- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 
 ## <https://thealexandrian.net/wordpress/700/roleplaying-games/advanced-rules-diplomacy>
 
@@ -2435,6 +2458,10 @@
 ## <https://thealexandrian.net/wordpress/9595/roleplaying-games/technoir-sequences-vs-skill-challenges>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-15-generic-scenario-structures.mdx`
+
+## <https://thealexandrian.net/wordpress/991/roleplaying-games/tales-from-the-table-unexpected-successes>
+
+- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 
 ## <https://thealexandrian.net/wordpress/tag/gumshoe>
 
@@ -2638,6 +2665,10 @@
 ## <https://www.amazon.com/Players-Option-Elemental-Dungeons-Rulebook/dp/0786959819>
 
 - `src/content/posts/translations/tribality-shair-class-part-two.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/0394527453/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 
 ## <https://www.arkenstonepublishing.net/isabout/2021/02/18/the-sacrament-of-death>
 
