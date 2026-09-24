@@ -402,11 +402,6 @@
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
 
-## <http://hillcantons.blogspot.com/2012/01/crawling-without-hexes-pointcrawl.html>
-
-- `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
-- `src/content/posts/translations/mazirians-garden-rules-for-citycrawling.mdx`
-
 ## <http://hillcantons.blogspot.com/2012/05/pointcrawling-undercities.html>
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
