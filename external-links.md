@@ -1576,6 +1576,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
+## <https://commons.wikimedia.org/wiki/Category:HMS_Victory_(ship,_1765)_in_art>
+
+- `src/content/posts/translations/starships-in-silhouette.mdx`
+
 ## <https://critrole.com>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -1866,6 +1870,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
+## <https://en.wikipedia.org/wiki/Galley>
+
+- `src/content/posts/translations/starships-in-silhouette.mdx`
+
 ## <https://en.wikipedia.org/wiki/Garrett_(character)>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
@@ -1905,6 +1913,10 @@
 ## <https://en.wikipedia.org/wiki/Infangthief_and_outfangthief>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Japanese_battleship_Mikasa>
+
+- `src/content/posts/translations/starships-in-silhouette.mdx`
 
 ## <https://en.wikipedia.org/wiki/Jem_(TV_series)>
 
@@ -2066,6 +2078,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
+## <https://en.wikipedia.org/wiki/Trireme>
+
+- `src/content/posts/translations/starships-in-silhouette.mdx`
+
 ## <https://en.wikipedia.org/wiki/USS_South_Carolina_(BB-26)>
 
 - `src/content/posts/translations/where-does-my-main-battery-go.mdx`
@@ -2090,6 +2106,10 @@
 
 - `src/content/posts/translations/another-article-with-link.mdx`
 - `src/content/posts/translations/article-with-link.mdx`
+
+## <https://expanse.fandom.com/wiki/Donnager>
+
+- `src/content/posts/translations/starships-in-silhouette.mdx`
 
 ## <https://fistsofcinderandstone.blogspot.com/2017/03/the-grandsires-enclave-look-at-automata.html>
 
@@ -2328,6 +2348,10 @@
 ## <https://standsinthefire.com/2016/04/30/fighting-styles-in-dd-5e>
 
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
+
+## <https://starwars.fandom.com/wiki/Raddus_(MC85_Star_Cruiser)>
+
+- `src/content/posts/translations/starships-in-silhouette.mdx`
 
 ## <https://thealexandrian.net/gamemastery-101>
 
@@ -2674,6 +2698,10 @@
 ## <https://twitter.com/webjr1981/status/1026653349595279366>
 
 - `src/content/posts/translations/deep-dive-the-named-spells.mdx`
+
+## <https://ussmissouri.org/learn-the-history/the-ship/as-built-blueprints>
+
+- `src/content/posts/translations/starships-in-silhouette.mdx`
 
 ## <https://valloric.github.io/statblock5e>
 
@@ -3136,6 +3164,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
+## <https://www.youtube.com/watch?v=0OmOQs0ziSU>
+
+- `src/content/posts/translations/starships-in-silhouette.mdx`
+
 ## <https://www.youtube.com/watch?v=2RBUR_gzsm0>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
@@ -3191,3 +3223,7 @@
 ## <https://www.youtube.com/watch?v=uk5NwLr3OmQ>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <https://youtu.be/LPPLCkIhxt0>
+
+- `src/content/posts/translations/starships-in-silhouette.mdx`
