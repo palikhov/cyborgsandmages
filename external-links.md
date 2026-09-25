@@ -459,6 +459,10 @@
 
 - `src/content/posts/translations/pointcrawling-ruins-revisited.mdx`
 
+## <http://homebrewery.naturalcrit.com>
+
+- `src/content/posts/translations/social-encounter-statblocks-dnd-5e.mdx`
+
 ## <http://index.rpg.net/display-entry.phtml>
 
 - `src/content/posts/translations/creighton-gygax-on-henchmen-and-hirelings.mdx`
@@ -1583,6 +1587,7 @@
 ## <https://critrole.com>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+- `src/content/posts/translations/social-encounter-statblocks-dnd-5e.mdx`
 
 ## <https://d66kobolds.blogspot.com/2021/03/play-worlds-not-rules-design-challenge.html>
 
@@ -2933,6 +2938,10 @@
 ## <https://www.dndbeyond.com/sources/basic-rules/monsters>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.dndbeyond.com/sources/lmop>
+
+- `src/content/posts/translations/social-encounter-statblocks-dnd-5e.mdx`
 
 ## <https://www.dndbeyond.com/spells/animate-dead>
 
