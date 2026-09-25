@@ -1828,6 +1828,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/Dual-purpose_gun>
+
+- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
+
 ## <https://en.wikipedia.org/wiki/Dule_tree>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -1877,6 +1881,22 @@
 ## <https://en.wikipedia.org/wiki/Gulf_Cooperation_Council>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://en.wikipedia.org/wiki/HMS_Dreadnought_(1906)>
+
+- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
+
+## <https://en.wikipedia.org/wiki/HMS_Majestic_(1895)>
+
+- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
+
+## <https://en.wikipedia.org/wiki/HMS_Nelson_(28)>
+
+- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
+
+## <https://en.wikipedia.org/wiki/HMS_Neptune_(1909)>
+
+- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
 
 ## <https://en.wikipedia.org/wiki/Heriot>
 
@@ -1970,6 +1990,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 
+## <https://en.wikipedia.org/wiki/SMS_Nassau>
+
+- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
+
 ## <https://en.wikipedia.org/wiki/Salic_law>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -1977,6 +2001,10 @@
 ## <https://en.wikipedia.org/wiki/Salt_tax>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <https://en.wikipedia.org/wiki/Satsuma-class_battleship>
+
+- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
 
 ## <https://en.wikipedia.org/wiki/Scottish_Borders>
 
@@ -2037,6 +2065,10 @@
 ## <https://en.wikipedia.org/wiki/Tr%C3%A8s_Riches_Heures_du_Duc_de_Berry>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <https://en.wikipedia.org/wiki/USS_South_Carolina_(BB-26)>
+
+- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
 
 ## <https://en.wikipedia.org/wiki/Vajra>
 
