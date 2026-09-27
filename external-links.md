@@ -1480,6 +1480,7 @@
 
 ## <https://acoup.blog/2019/05/10/collections-the-siege-of-gondor>
 
+- `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
@@ -1498,6 +1499,14 @@
 ## <https://acoup.blog/2019/05/31/collections-the-siege-of-gondor-part-iv-the-cavalry-arrives>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://acoup.blog/2019/06/12/new-acquisitions-how-it-wasnt-game-of-thrones-and-the-middle-ages-part-iii>
+
+- `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
+
+## <https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school>
+
+- `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
 
 ## <https://acoup.blog/2019/08/23/collections-this-isnt-sparta-part-ii-spartan-equality>
 
@@ -2219,6 +2228,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://en.wikipedia.org/wiki/Medieval_demography>
+
+- `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
+
 ## <https://en.wikipedia.org/wiki/Men%27s_high_jump_world_record_progression>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
@@ -2474,6 +2487,10 @@
 
 - `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
 
+## <https://gameofthrones.fandom.com/wiki/Battle_of_the_Goldroad>
+
+- `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
+
 ## <https://gamingballistic.com/wp-content/uploads/2018/11/Medieval-Demographics-Made-Easy-1.pdf>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
@@ -2569,6 +2586,10 @@
 ## <https://media.wizards.com/2016/dnd/downloads/UA_Druid11272016_CAWS.pdf>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://medium.com/migration-issues/notes-on-medieval-population-geography-fd062449364f>
+
+- `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
 
 ## <https://nbos.com/products/inspiration-pad-pro>
 
@@ -3485,6 +3506,10 @@
 
 - `src/content/posts/translations/creighton-gygax-on-treasure.mdx`
 
+## <https://www.reddit.com/r/asoiaf/comments/3pt6su/no_spoilers_ever_wonder_how_far_apart_stuff_is>
+
+- `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
+
 ## <https://www.reddit.com/r/gamedesign/comments/b5qdi0/the_tyranny_of_fun>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -3648,6 +3673,10 @@
 ## <https://youtu.be/NZmH0DGVXCo>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://youtu.be/TM1OpCG8_1I>
+
+- `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
 
 ## <https://youtu.be/mzDf52M21J0?t=168>
 
