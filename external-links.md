@@ -1782,6 +1782,10 @@
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xx.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxi.mdx`
 
+## <https://drive.google.com/file/d/0BznYauJBmGDJU2d5aHhUX3V6S00/view?usp=sharing&resourcekey=0-iQpgm9F0Hq73Mv6UOejIzQ>
+
+- `src/content/posts/translations/procedure-for-wandering-monsters.mdx`
+
 ## <https://drive.google.com/file/d/17KSElkPbquuP10sO_om1XAhWc0CQNWhi/view>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
@@ -2654,6 +2658,26 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
 
+## <https://retiredadventurer.blogspot.com/2013/03/roles-and-tasks-for-pc-groups.html>
+
+- `src/content/posts/translations/encounter-grid-six-years-out.mdx`
+
+## <https://retiredadventurer.blogspot.com/2015/02/trapplications.html>
+
+- `src/content/posts/translations/encounter-grid-six-years-out.mdx`
+
+## <https://retiredadventurer.blogspot.com/2017/02/considerations-on-restocking-dungeons.html>
+
+- `src/content/posts/translations/encounter-grid-six-years-out.mdx`
+
+## <https://retiredadventurer.blogspot.com/2017/02/determining-magical-item-components.html>
+
+- `src/content/posts/translations/encounter-grid-six-years-out.mdx`
+
+## <https://retiredadventurer.blogspot.com/2017/07/radiant-quests-and-restocking.html>
+
+- `src/content/posts/translations/encounter-grid-six-years-out.mdx`
+
 ## <https://retiredadventurer.blogspot.com/2019/05/motive-means-and-opportunity.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
@@ -2669,6 +2693,10 @@
 ## <https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://rpg.stackexchange.com/questions/96829/remembering-to-add-tracks-and-signs-of-wandering-monsters/96854>
+
+- `src/content/posts/translations/encounter-grid-six-years-out.mdx`
 
 ## <https://rpgcharacters.wordpress.com/2016/12/13/the-hall-of-daniau-the-defender>
 
@@ -3514,6 +3542,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://www.reddit.com/r/osr/comments/ay9ec4/best_tables_at_the_table>
+
+- `src/content/posts/translations/encounter-grid-six-years-out.mdx`
+
 ## <https://www.redraggedfiend.com/practical-settlement-design-dnd>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
@@ -3589,6 +3621,10 @@
 ## <https://www.youtube.com/watch?v=0OmOQs0ziSU>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
+
+## <https://www.youtube.com/watch?v=0z_vI05D4rk>
+
+- `src/content/posts/translations/encounter-grid-six-years-out.mdx`
 
 ## <https://www.youtube.com/watch?v=2RBUR_gzsm0>
 
