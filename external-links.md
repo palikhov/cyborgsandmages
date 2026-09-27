@@ -1333,6 +1333,10 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
+## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0148%3Abook%3D3%3Awhiston+chapter%3D5%3Awhiston+section%3D1>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
 ## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D28%3Achapter%3D3>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
@@ -1477,6 +1481,11 @@
 ## <https://acoup.blog/2019/05/10/collections-the-siege-of-gondor>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://acoup.blog/2019/05/12/new-acquisitions-lannister-infantry-kit-review>
+
+- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
 ## <https://acoup.blog/2019/05/17/collections-the-siege-of-gondor-part-ii-these-beacons-are-liiiiiiit>
 
@@ -1486,34 +1495,70 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
+## <https://acoup.blog/2019/05/31/collections-the-siege-of-gondor-part-iv-the-cavalry-arrives>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
 ## <https://acoup.blog/2019/06/28/collections-oaths-how-do-they-work>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <https://acoup.blog/2019/08/23/collections-this-isnt-sparta-part-ii-spartan-equality>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://acoup.blog/2019/08/29/collections-this-isnt-sparta-part-iii-spartan-women>
 
 - `src/content/posts/translations/practical-polytheism-part-iv-little-gods-and-big-people.mdx`
 
+## <https://acoup.blog/2019/09/20/collections-this-isnt-sparta-part-vi-spartan-battle>
+
+- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
+
+## <https://acoup.blog/2020/04/10/collections-antarah-ibn-shaddad-victory-songs>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
 ## <https://acoup.blog/2020/04/16/collections-a-trip-through-bertran-de-born-martial-values-in-the-12th-century-occitan-nobility>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://acoup.blog/2020/05/08/collections-the-battle-of-helms-deep-part-ii-total-warg>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://acoup.blog/2020/05/15/collections-the-battle-of-helms-deep-part-iii-the-host-of-saruman>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://acoup.blog/2020/05/22/collections-the-battle-of-helms-deep-part-iv-men-of-rohan>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://acoup.blog/2020/06/12/collections-the-battle-of-helms-deep-part-vii-hanging-by-a-thread>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
+## <https://acoup.blog/2020/06/25/fireside-friday-june-26th-2020>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
 ## <https://acoup.blog/2021/01/08/collections-that-dothraki-horde-part-iv-screamers-and-howlers>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
 ## <https://acoup.blog/2021/01/29/collections-the-universal-warrior-part-i-soldiers-warriors-and>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
 ## <https://acoup.blog/2021/02/05/collections-the-universal-warrior-part-iia-the-many-faces-of-battle>
 
@@ -1523,24 +1568,25 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
+## <https://acoup.blog/2021/09/24/collections-no-mans-land-part-ii-breaking-the-stalemate>
+
+- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
+
 ## <https://acoup.blog/2022/04/01/collection-total-wars-missing-infantry-type>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
-## <https://acoup.blog/2022/06/17/collections-total-generalship-commanding-pre-modern-armies-part-iiia-discipline>
+## <https://acoup.blog/2022/07/15/collections-logistics-how-did-they-do-it-part-i-the-problem>
 
-- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
-## <https://acoup.blog/2022/06/24/collections-total-generalship-commanding-pre-modern-armies-part-iiib-officers>
+## <https://acws.co.uk/gilhams/gilhcomp.htm>
 
-- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
-## <https://acoup.blog/2022/07/01/collections-total-generalship-commanding-pre-modern-armies-part-iiic-morale-and-cohesion>
+## <https://adamtooze.substack.com/p/chartbook-128-mission-command-natos?s=w>
 
-- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
 ## <https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html>
 
@@ -1549,6 +1595,34 @@
 ## <https://alldeadgenerations.blogspot.com/p/the-classic-dungeon-crawl-theory.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://amzn.to/39RFm39>
+
+- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
+
+## <https://amzn.to/3MT50ll>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://amzn.to/3OQaJd0>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://amzn.to/3OsqRSm>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://amzn.to/3Qmlh5d>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://amzn.to/3npnuzR>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://amzn.to/3nqKtu8>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://answers.google.com/answers/threadview?id=339720>
 
@@ -1859,6 +1933,14 @@
 
 - `src/content/posts/translations/billhook-cities-fixed-at-last.mdx`
 
+## <https://en.wikipedia.org/wiki/1917_French_Army_mutinies>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://en.wikipedia.org/wiki/Agios_Athanasios,_Thessaloniki>
+
+- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
+
 ## <https://en.wikipedia.org/wiki/Alamut_Castle>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
@@ -1883,6 +1965,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 
+## <https://en.wikipedia.org/wiki/Asclepiodotus_(philosopher)>
+
+- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
+
 ## <https://en.wikipedia.org/wiki/Ashlar>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
@@ -1897,6 +1983,14 @@
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
+## <https://en.wikipedia.org/wiki/Battle_of_Cold_Harbor>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://en.wikipedia.org/wiki/Battle_of_Cunaxa>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
 ## <https://en.wikipedia.org/wiki/Battle_of_Cynoscephalae>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -1904,6 +1998,15 @@
 ## <https://en.wikipedia.org/wiki/Battle_of_Gaugamela>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
+
+## <https://en.wikipedia.org/wiki/Battle_of_Hastings>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://en.wikipedia.org/wiki/Bayeux_Tapestry>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://en.wikipedia.org/wiki/Beard_tax>
 
@@ -1932,6 +2035,10 @@
 ## <https://en.wikipedia.org/wiki/Cats_in_ancient_Egypt>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <https://en.wikipedia.org/wiki/Centurion>
+
+- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
 ## <https://en.wikipedia.org/wiki/Cheating>
 
@@ -2003,9 +2110,17 @@
 
 - `src/content/posts/translations/practical-polytheism-part-i-knowledge.mdx`
 
+## <https://en.wikipedia.org/wiki/First_Battle_of_Bull_Run>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
 ## <https://en.wikipedia.org/wiki/Free_company>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/French_Army_in_World_War_I>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://en.wikipedia.org/wiki/French_denier>
 
@@ -2026,6 +2141,11 @@
 ## <https://en.wikipedia.org/wiki/Gil_Hamilton>
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
+
+## <https://en.wikipedia.org/wiki/Grant,_Lee,_Sherman:_Civil_War_Generals_2>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://en.wikipedia.org/wiki/Gulf_Cooperation_Council>
 
@@ -2054,6 +2174,10 @@
 ## <https://en.wikipedia.org/wiki/Heriot>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <https://en.wikipedia.org/wiki/Housecarl>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://en.wikipedia.org/wiki/Infangthief_and_outfangthief>
 
@@ -2087,6 +2211,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
+## <https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
 ## <https://en.wikipedia.org/wiki/Living_Greyhawk>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -2098,6 +2226,18 @@
 ## <https://en.wikipedia.org/wiki/Men%27s_high_jump_world_record_progression>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <https://en.wikipedia.org/wiki/Mercenary_War>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://en.wikipedia.org/wiki/Museum_aan_de_Stroom>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://en.wikipedia.org/wiki/Musket>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
 ## <https://en.wikipedia.org/wiki/National_Mall>
 
@@ -2139,6 +2279,10 @@
 
 - `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
 
+## <https://en.wikipedia.org/wiki/Pool_noodle>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
 ## <https://en.wikipedia.org/wiki/Pope_Joan>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -2163,6 +2307,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
+## <https://en.wikipedia.org/wiki/Roman_army>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
 ## <https://en.wikipedia.org/wiki/Rotary_International>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -2174,6 +2322,10 @@
 ## <https://en.wikipedia.org/wiki/SMS_Nassau>
 
 - `src/content/posts/translations/where-does-my-main-battery-go.mdx`
+
+## <https://en.wikipedia.org/wiki/Sack_of_Antwerp>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://en.wikipedia.org/wiki/Salic_law>
 
@@ -2239,6 +2391,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
+## <https://en.wikipedia.org/wiki/Todd_Howard>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
 ## <https://en.wikipedia.org/wiki/Tonsure>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -2255,6 +2411,10 @@
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
 
+## <https://en.wikipedia.org/wiki/Tyche>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
 ## <https://en.wikipedia.org/wiki/USS_South_Carolina_(BB-26)>
 
 - `src/content/posts/translations/where-does-my-main-battery-go.mdx`
@@ -2270,6 +2430,10 @@
 ## <https://en.wikipedia.org/wiki/World_War_I_memorials>
 
 - `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
+
+## <https://en.wikisource.org/wiki/The_Art_of_War_(Sun)/Section_I>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
 ## <https://evernote.com>
 
@@ -2541,6 +2705,10 @@
 ## <https://store.steampowered.com/app/1434950/HighFleet>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://store.steampowered.com/app/377520/Pike_and_Shot__Campaigns>
+
+- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://store.steampowered.com/app/871530/Radio_Commander>
 
@@ -2860,6 +3028,14 @@
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
+## <https://totalwarwarhammer.fandom.com/wiki/Peasant_Mob>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://totalwarwarhammer.fandom.com/wiki/Swordsmen>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
 ## <https://tsojcanth.wordpress.com/2013/08/20/free-pdf-burgs-bailiffs-warfare-too>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
@@ -2879,6 +3055,10 @@
 ## <https://twitter.com/BrandesStoddard/status/1058075523367268353>
 
 - `src/content/posts/translations/brandes-leveling-up-your-background.mdx`
+
+## <https://twitter.com/BretDevereaux/status/1539645516098707458>
+
+- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
 ## <https://twitter.com/TheEdVerse/status/1232757800142622722>
 
@@ -3433,6 +3613,14 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://www.youtube.com/watch?v=zgywD3XJaWU>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://youtu.be/-EZziqodt-g>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
 ## <https://youtu.be/H0Of8a26J-4>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -3441,9 +3629,17 @@
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
 
+## <https://youtu.be/NZmH0DGVXCo>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
 ## <https://youtu.be/nrxpv_ax3_A>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://youtu.be/t4D-HUUTXvQ>
+
+- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
 ## <https://youtu.be/u73M1iBwW8o?t=41>
 
