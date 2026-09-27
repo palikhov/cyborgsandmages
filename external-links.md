@@ -1329,6 +1329,10 @@
 
 - `src/content/posts/translations/tribality-psionics-part-two.mdx`
 
+## <http://www.perseus.tufts.edu/hopper/morph?l=%CE%A3%CF%85%CE%BD%CE%B1%CF%83%CF%80%CE%B9%CF%83%CE%BC%CF%8C%CF%82+&la=greek>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
 ## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D28%3Achapter%3D3>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
@@ -1466,6 +1470,14 @@
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
 
+## <https://acoup.blog/2019/05/10/collections-the-siege-of-gondor>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://acoup.blog/2019/05/24/collections-the-siege-of-gondor-part-iii-having-fun-storming-the-city>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
 ## <https://acoup.blog/2019/06/28/collections-oaths-how-do-they-work>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
@@ -1481,6 +1493,34 @@
 ## <https://acoup.blog/2020/06/12/collections-the-battle-of-helms-deep-part-vii-hanging-by-a-thread>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+
+## <https://acoup.blog/2021/01/08/collections-that-dothraki-horde-part-iv-screamers-and-howlers>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://acoup.blog/2021/06/25/collections-the-queens-latin-or-who-were-the-romans-part-ii-citizens-and-allies>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://acoup.blog/2022/04/01/collection-total-wars-missing-infantry-type>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://acoup.blog/2022/06/03/collections-total-generalship-commanding-pre-modern-armies-part-ii-commands>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://acoup.blog/2022/06/17/collections-total-generalship-commanding-pre-modern-armies-part-iiia-discipline>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://acoup.blog/2022/06/24/collections-total-generalship-commanding-pre-modern-armies-part-iiib-officers>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://acoup.blog/2022/07/01/collections-total-generalship-commanding-pre-modern-armies-part-iiic-morale-and-cohesion>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
 ## <https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html>
 
@@ -1799,6 +1839,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 
+## <https://en.wikipedia.org/wiki/Alexander_(2004_film)>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
 ## <https://en.wikipedia.org/wiki/Arcana_Unearthed>
 
 - `src/content/posts/translations/tribality-fighter-class-part-seven.mdx`
@@ -1828,6 +1872,10 @@
 ## <https://en.wikipedia.org/wiki/Black_box>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <https://en.wikipedia.org/wiki/Braveheart>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
 ## <https://en.wikipedia.org/wiki/Category:Barons_of_France>
 
@@ -1886,6 +1934,10 @@
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/Facing_colour>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
 ## <https://en.wikipedia.org/wiki/Fermi_problem>
 
 - `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
@@ -1939,6 +1991,10 @@
 
 - `src/content/posts/translations/where-does-my-main-battery-go.mdx`
 
+## <https://en.wikipedia.org/wiki/Henry_V_(play)>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
 ## <https://en.wikipedia.org/wiki/Heriot>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
@@ -1990,6 +2046,10 @@
 ## <https://en.wikipedia.org/wiki/Network_of_practice>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://en.wikipedia.org/wiki/Outlaw_King>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
 ## <https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)>
 
@@ -2193,6 +2253,10 @@
 ## <https://goblinpunch.blogspot.com/2017/10/impact.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://grbs.library.duke.edu/article/view/16636/7487>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
 ## <https://grognardia.blogspot.com/2008/09/gygaxian-naturalism.html>
 
@@ -2401,6 +2465,14 @@
 ## <https://starwars.fandom.com/wiki/Raddus_(MC85_Star_Cruiser)>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
+
+## <https://store.steampowered.com/app/1434950/HighFleet>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://store.steampowered.com/app/871530/Radio_Commander>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
 ## <https://thealexandrian.net/gamemastery-101>
 
@@ -3280,3 +3352,7 @@
 ## <https://youtu.be/LPPLCkIhxt0>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
+
+## <https://youtu.be/nrxpv_ax3_A>
+
+- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
