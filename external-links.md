@@ -531,6 +531,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
+## <http://retiredadventurer.blogspot.ca/2017/02/considerations-on-restocking-dungeons.html>
+
+- `src/content/posts/translations/radiant-quests-and-restocking.mdx`
+
 ## <http://reverancepavane.blogspot.com>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -1177,6 +1181,10 @@
 
 - `src/content/posts/translations/creighton-dragon-and-the-thief.mdx`
 
+## <http://www.drivethrurpg.com/product/89888/Red-Tide-Campaign-Sourcebook-and-Sandbox-Toolkit>
+
+- `src/content/posts/translations/radiant-quests-and-restocking.mdx`
+
 ## <http://www.dungeonworldsrd.com/classes/bard>
 
 - `src/content/posts/translations/tribality-psionics-part-eight.mdx`
@@ -1192,6 +1200,10 @@
 ## <http://www.fallenearth.com>
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
+
+## <http://www.gameinformer.com/games/the_elder_scrolls_v_skyrim/b/xbox360/archive/2011/01/17/the-technology-behind-elder-scrolls-v-skyrim.aspx>
+
+- `src/content/posts/translations/radiant-quests-and-restocking.mdx`
 
 ## <http://www.giantitp.com/comics/oots0001.html>
 
@@ -2679,10 +2691,6 @@
 - `src/content/posts/translations/encounter-grid-six-years-out.mdx`
 
 ## <https://retiredadventurer.blogspot.com/2017/02/determining-magical-item-components.html>
-
-- `src/content/posts/translations/encounter-grid-six-years-out.mdx`
-
-## <https://retiredadventurer.blogspot.com/2017/07/radiant-quests-and-restocking.html>
 
 - `src/content/posts/translations/encounter-grid-six-years-out.mdx`
 
