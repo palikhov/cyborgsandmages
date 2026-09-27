@@ -1470,9 +1470,17 @@
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
 
+## <https://acoup.blog/2019/05/05/new-acquisitions-unsullied-kit-review>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
 ## <https://acoup.blog/2019/05/10/collections-the-siege-of-gondor>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://acoup.blog/2019/05/17/collections-the-siege-of-gondor-part-ii-these-beacons-are-liiiiiiit>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://acoup.blog/2019/05/24/collections-the-siege-of-gondor-part-iii-having-fun-storming-the-city>
 
@@ -1486,6 +1494,10 @@
 
 - `src/content/posts/translations/practical-polytheism-part-iv-little-gods-and-big-people.mdx`
 
+## <https://acoup.blog/2020/04/16/collections-a-trip-through-bertran-de-born-martial-values-in-the-12th-century-occitan-nobility>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
 ## <https://acoup.blog/2020/05/22/collections-the-battle-of-helms-deep-part-iv-men-of-rohan>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -1493,10 +1505,19 @@
 ## <https://acoup.blog/2020/06/12/collections-the-battle-of-helms-deep-part-vii-hanging-by-a-thread>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://acoup.blog/2021/01/08/collections-that-dothraki-horde-part-iv-screamers-and-howlers>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://acoup.blog/2021/01/29/collections-the-universal-warrior-part-i-soldiers-warriors-and>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://acoup.blog/2021/02/05/collections-the-universal-warrior-part-iia-the-many-faces-of-battle>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://acoup.blog/2021/06/25/collections-the-queens-latin-or-who-were-the-romans-part-ii-citizens-and-allies>
 
@@ -1506,21 +1527,20 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
-## <https://acoup.blog/2022/06/03/collections-total-generalship-commanding-pre-modern-armies-part-ii-commands>
-
-- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
-
 ## <https://acoup.blog/2022/06/17/collections-total-generalship-commanding-pre-modern-armies-part-iiia-discipline>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://acoup.blog/2022/06/24/collections-total-generalship-commanding-pre-modern-armies-part-iiib-officers>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://acoup.blog/2022/07/01/collections-total-generalship-commanding-pre-modern-armies-part-iiic-morale-and-cohesion>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html>
 
@@ -1639,6 +1659,10 @@
 ## <https://commons.wikimedia.org/wiki/Category:HMS_Victory_(ship,_1765)_in_art>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
+
+## <https://commons.wikimedia.org/wiki/Category:Vexilla>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://critrole.com>
 
@@ -1843,6 +1867,14 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
+## <https://en.wikipedia.org/wiki/Alexander_Mosaic>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://en.wikipedia.org/wiki/Aquila_(Roman)>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
 ## <https://en.wikipedia.org/wiki/Arcana_Unearthed>
 
 - `src/content/posts/translations/tribality-fighter-class-part-seven.mdx`
@@ -1861,6 +1893,18 @@
 - `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://en.wikipedia.org/wiki/Battle_of_Chancellorsville>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://en.wikipedia.org/wiki/Battle_of_Cynoscephalae>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://en.wikipedia.org/wiki/Battle_of_Gaugamela>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
 ## <https://en.wikipedia.org/wiki/Beard_tax>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
@@ -1877,6 +1921,10 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
+## <https://en.wikipedia.org/wiki/Bugle_call>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
 ## <https://en.wikipedia.org/wiki/Category:Barons_of_France>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
@@ -1889,9 +1937,17 @@
 
 - `src/content/posts/translations/tribality-psionics-part-two.mdx`
 
+## <https://en.wikipedia.org/wiki/Chigi_vase>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
 ## <https://en.wikipedia.org/wiki/Comtat_Venaissin>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
+
+## <https://en.wikipedia.org/wiki/Cornicen>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://en.wikipedia.org/wiki/Corv%C3%A9e>
 
@@ -2015,6 +2071,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/Kadesh_inscriptions>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
 ## <https://en.wikipedia.org/wiki/Knight_banneret>
 
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
@@ -2062,6 +2122,14 @@
 ## <https://en.wikipedia.org/wiki/Parkour>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <https://en.wikipedia.org/wiki/Parmenion>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://en.wikipedia.org/wiki/Pericles>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://en.wikipedia.org/wiki/Pharaoh_(module)>
 
@@ -2178,6 +2246,10 @@
 ## <https://en.wikipedia.org/wiki/Tr%C3%A8s_Riches_Heures_du_Duc_de_Berry>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <https://en.wikipedia.org/wiki/Trajan>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://en.wikipedia.org/wiki/Trireme>
 
@@ -2796,6 +2868,10 @@
 
 - `src/content/posts/translations/flutesloot-dramatic-questions.mdx`
 
+## <https://tvtropes.org/pmwiki/pmwiki.php/Main/TheChessmaster>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/TheLawOfConservationOfDetail>
 
 - `src/content/posts/translations/flutesloot-dramatic-questions.mdx`
@@ -3184,6 +3260,10 @@
 
 - `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
 
+## <https://www.museicapitolini.org/en/percorso/scalone-0>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
 ## <https://www.opengamingstore.com/collections/jon-brazer-enterprises/products/13-fighter-talents-and-maneuvers-13th-age-compatible>
 
 - `src/content/posts/translations/tribality-fighter-class-part-thirteenth-age.mdx`
@@ -3264,6 +3344,10 @@
 ## <https://www.themonstersknow.com>
 
 - `src/content/posts/translations/angrygm-the-monsters-know-better-than-you.mdx`
+
+## <https://www.totalwar.com/blog/twwh3-update120>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://www.tribality.com/2017/11/29/xanathars-guide-breakdown-part-two>
 
@@ -3349,6 +3433,10 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://youtu.be/H0Of8a26J-4>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
 ## <https://youtu.be/LPPLCkIhxt0>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
@@ -3356,3 +3444,15 @@
 ## <https://youtu.be/nrxpv_ax3_A>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://youtu.be/u73M1iBwW8o?t=41>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://youtu.be/u73M1iBwW8o?t=64>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://youtu.be/u73M1iBwW8o?t=95>
+
+- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
