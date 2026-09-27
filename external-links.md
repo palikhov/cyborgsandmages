@@ -1305,6 +1305,10 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://www.midkemia.com/HomePage/Products.html>
+
+- `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
 ## <http://www.migellito.blogspot.com/search/label/Nicodemus>
 
 - `src/content/posts/translations/pointcrawling-sigils-undercity.mdx`
@@ -2654,6 +2658,10 @@
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
+## <https://pxhere.com/en/photo/2164>
+
+- `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
 ## <https://pxhere.com/en/photo/597481>
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
@@ -2917,6 +2925,22 @@
 
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 
+## <https://thealexandrian.net/wordpress/44214/roleplaying-games/remixing-avernus>
+
+- `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
+## <https://thealexandrian.net/wordpress/44693/roleplaying-games/remixing-avernus-addendum-elturian-names>
+
+- `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
+## <https://thealexandrian.net/wordpress/44705/roleplaying-games/remixing-avernus-part-5b-a-arriving-in-hellturel>
+
+- `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
+## <https://thealexandrian.net/wordpress/44881/roleplaying-games/remixing-avernus-part-5c-c-elturel-locations>
+
+- `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
 ## <https://thealexandrian.net/wordpress/46020/roleplaying-games/5e-hexcrawl>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
@@ -2983,6 +3007,10 @@
 ## <https://thealexandrian.net?p=36490>
 
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
+
+## <https://thealexandrian.net?p=44705>
+
+- `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
 
 ## <https://theangrygm.com/30-days-of-rpg-a-day-in-one-day>
 
@@ -3218,6 +3246,14 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/0394527453/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/0922335001/digitalcomi0a-20>
+
+- `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/093363501X/digitalcomi0a-20>
+
+- `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
 
 ## <https://www.amazon.com/gp/product/0786967021/ref=as_li_tl?camp=1789&creative=9325&creativeASIN=0786967021&ie=UTF8&linkCode=as2&linkId=21961fec467b2327f97ff93b97255afb&tag=flutesloot-20>
 
