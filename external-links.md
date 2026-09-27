@@ -479,6 +479,10 @@
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
 
+## <http://mcadams.posc.mu.edu/txt/ah/Livy/Livy22.html>
+
+- `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
 ## <http://medieval.ucdavis.edu/120D/Money.html>
 
 - `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
@@ -1325,6 +1329,10 @@
 
 - `src/content/posts/translations/tribality-psionics-part-two.mdx`
 
+## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D28%3Achapter%3D3>
+
+- `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
 ## <http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0003.tlg001.perseus-eng3:2.47>
 
 - `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
@@ -1457,6 +1465,14 @@
 ## <http://zzarchov.blogspot.com/2014/03/scenic-dunnsmouth-is-now-available.html>
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+
+## <https://acoup.blog/2019/06/28/collections-oaths-how-do-they-work>
+
+- `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <https://acoup.blog/2019/08/29/collections-this-isnt-sparta-part-iii-spartan-women>
+
+- `src/content/posts/translations/practical-polytheism-part-iv-little-gods-and-big-people.mdx`
 
 ## <https://acoup.blog/2020/05/22/collections-the-battle-of-helms-deep-part-iv-men-of-rohan>
 
@@ -1809,9 +1825,17 @@
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
+## <https://en.wikipedia.org/wiki/Black_box>
+
+- `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
 ## <https://en.wikipedia.org/wiki/Category:Barons_of_France>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
+
+## <https://en.wikipedia.org/wiki/Cats_in_ancient_Egypt>
+
+- `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
 
 ## <https://en.wikipedia.org/wiki/Cheating>
 
@@ -1866,6 +1890,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
+
+## <https://en.wikipedia.org/wiki/Finlandization>
+
+- `src/content/posts/translations/practical-polytheism-part-i-knowledge.mdx`
 
 ## <https://en.wikipedia.org/wiki/Free_company>
 
@@ -1955,6 +1983,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 
+## <https://en.wikipedia.org/wiki/National_Mall>
+
+- `src/content/posts/translations/practical-polytheism-part-iv-little-gods-and-big-people.mdx`
+
 ## <https://en.wikipedia.org/wiki/Network_of_practice>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -1986,6 +2018,10 @@
 ## <https://en.wikipedia.org/wiki/Powered_by_the_Apocalypse>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://en.wikipedia.org/wiki/Prayer_of_Humble_Access>
+
+- `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
 
 ## <https://en.wikipedia.org/wiki/Presque_Isle_State_Park>
 
@@ -2210,6 +2246,10 @@
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
 
+## <https://leorningcniht.wordpress.com/2017/08/08/article-25-sacraments>
+
+- `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
 ## <https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign>
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
@@ -2308,6 +2348,10 @@
 ## <https://rpgcharacters.wordpress.com/2016/12/13/the-hall-of-daniau-the-defender>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
+## <https://saint-aelfric-customary.org/2019/02/18/martin-luther-the-baptismal-liturgy>
+
+- `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
 
 ## <https://scrollforinitiative.com/2021/02/08/how-medieval-is-dd>
 
