@@ -1499,10 +1499,6 @@
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
-## <https://acoup.blog/2019/06/28/collections-oaths-how-do-they-work>
-
-- `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
-
 ## <https://acoup.blog/2019/08/23/collections-this-isnt-sparta-part-ii-spartan-equality>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
@@ -2641,6 +2637,14 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
+## <https://rochestercathedralresearchguild.files.wordpress.com/2018/02/2018-02-18_swerian_edited.pdf>
+
+- `src/content/posts/translations/oaths-how-do-they-work.mdx`
+
+## <https://rochestercathedralresearchguild.org/chris_monk>
+
+- `src/content/posts/translations/oaths-how-do-they-work.mdx`
+
 ## <https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -2676,6 +2680,10 @@
 ## <https://sourcebooks.fordham.edu/source/542procopius-plague.asp>
 
 - `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
+
+## <https://sourcebooks.fordham.edu/source/feud-fief1.asp>
+
+- `src/content/posts/translations/oaths-how-do-they-work.mdx`
 
 ## <https://standsinfire.wordpress.com/2015/06/16/dnd-dark-brigand-rogue>
 
@@ -3613,6 +3621,14 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://www.youtube.com/watch?v=xn7igUOFHRU>
+
+- `src/content/posts/translations/oaths-how-do-they-work.mdx`
+
+## <https://www.youtube.com/watch?v=zU_zsyulWDg>
+
+- `src/content/posts/translations/oaths-how-do-they-work.mdx`
+
 ## <https://www.youtube.com/watch?v=zgywD3XJaWU>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -3633,6 +3649,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://youtu.be/mzDf52M21J0?t=168>
+
+- `src/content/posts/translations/oaths-how-do-they-work.mdx`
+
 ## <https://youtu.be/nrxpv_ax3_A>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
@@ -3640,6 +3660,10 @@
 ## <https://youtu.be/t4D-HUUTXvQ>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://youtu.be/tsVBo-Gq110?t=36>
+
+- `src/content/posts/translations/oaths-how-do-they-work.mdx`
 
 ## <https://youtu.be/u73M1iBwW8o?t=41>
 
