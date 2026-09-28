@@ -1502,6 +1502,7 @@
 
 ## <https://acoup.blog/2019/05/12/new-acquisitions-lannister-infantry-kit-review>
 
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
 ## <https://acoup.blog/2019/05/17/collections-the-siege-of-gondor-part-ii-these-beacons-are-liiiiiiit>
@@ -1515,10 +1516,6 @@
 ## <https://acoup.blog/2019/05/31/collections-the-siege-of-gondor-part-iv-the-cavalry-arrives>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://acoup.blog/2019/06/12/new-acquisitions-how-it-wasnt-game-of-thrones-and-the-middle-ages-part-iii>
-
-- `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
 
 ## <https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school>
 
@@ -1648,6 +1645,10 @@
 ## <https://answers.google.com/answers/threadview?id=339720>
 
 - `src/content/posts/translations/flutesloot-formulas-for-crafting-popular-magic-items-5e.mdx`
+
+## <https://awoiaf.westeros.org/index.php/Military_strength>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
 
 ## <https://axthetable.wordpress.com/2017/10/23/the-origin-of-the-term-story-games>
 
@@ -2212,6 +2213,10 @@
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
 
+## <https://en.wikipedia.org/wiki/Japanese_imperial_family_tree>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
 ## <https://en.wikipedia.org/wiki/Jem_(TV_series)>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -2239,6 +2244,10 @@
 ## <https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://en.wikipedia.org/wiki/List_of_queens_regnant>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
 
 ## <https://en.wikipedia.org/wiki/Living_Greyhawk>
 
@@ -2539,6 +2548,10 @@
 
 - `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
 
+## <https://hawkstower.wordpress.com/2015/06/16/comparing-the-red-wedding-to-historical-events>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
 ## <https://holiviantales.wordpress.com/gameplay/spells/beget-bogun>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
@@ -2610,6 +2623,10 @@
 ## <https://medium.com/migration-issues/notes-on-medieval-population-geography-fd062449364f>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
+
+## <https://mossmaps.wordpress.com>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
 
 ## <https://nbos.com/products/inspiration-pad-pro>
 
@@ -3275,6 +3292,10 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
+## <https://www.avclub.com/the-middle-ages-weren-t-as-sexist-as-game-of-thrones-wo-1834980838>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
 ## <https://www.bastionland.com/2016/01/choices-and-consequences-pick-or-push.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -3517,6 +3538,10 @@
 
 - `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
 
+## <https://www.huffpost.com/entry/game-of-thrones-red-wedding-black-dinner-real-events_n_3393099>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
 ## <https://www.instagram.com/dumpstatadventures>
 
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
@@ -3540,6 +3565,10 @@
 ## <https://www.lastgaspgrimoire.com/tag/corpathium>
 
 - `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
+
+## <https://www.maximumfun.org/sound-young-america/george-r-r-martin-author-song-ice-and-fire-series-interview-sound-young-america>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
 
 ## <https://www.museicapitolini.org/en/percorso/scalone-0>
 
@@ -3634,6 +3663,10 @@
 
 - `src/content/posts/translations/angrygm-the-monsters-know-better-than-you.mdx`
 
+## <https://www.thevintagenews.com/2018/03/10/game-of-thrones-red-wedding>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
 ## <https://www.totalwar.com/blog/twwh3-update120>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -3653,6 +3686,12 @@
 ## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
 
 - `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
+
+## <https://www.youtube.com/playlist?list=PLcIwe3bxds8YhvNk2zgNaUN95egZ3KWxI>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
 
 ## <https://www.youtube.com/shorts/o-slFgtuQtI>
 
@@ -3677,6 +3716,10 @@
 ## <https://www.youtube.com/watch?v=3PWWtqfwacQ>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
+## <https://www.youtube.com/watch?v=4I8kic8xZh8>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
 
 ## <https://www.youtube.com/watch?v=9Kgx2b1sIRs>
 
@@ -3710,6 +3753,14 @@
 
 - `src/content/posts/translations/deep-dive-the-named-spells.mdx`
 
+## <https://www.youtube.com/watch?v=T3kX3mzCSQ4>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
+
+## <https://www.youtube.com/watch?v=aewtOGH9ab4>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
+
 ## <https://www.youtube.com/watch?v=bKK-KLDlm20>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
@@ -3734,6 +3785,10 @@
 
 - `src/content/posts/translations/oaths-how-do-they-work.mdx`
 
+## <https://www.youtube.com/watch?v=zdRJybJ047I>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
+
 ## <https://www.youtube.com/watch?v=zgywD3XJaWU>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -3741,6 +3796,10 @@
 ## <https://youtu.be/-EZziqodt-g>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://youtu.be/47MazYDnmaU?t=112>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
 
 ## <https://youtu.be/H0Of8a26J-4>
 
@@ -3754,9 +3813,17 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://youtu.be/QTTW8M_etko?t=2890>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
 ## <https://youtu.be/TM1OpCG8_1I>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
+
+## <https://youtu.be/ek2O6bVAIQQ>
+
+- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
 
 ## <https://youtu.be/mzDf52M21J0?t=168>
 
