@@ -459,6 +459,11 @@
 
 - `src/content/posts/translations/pointcrawling-ruins-revisited.mdx`
 
+## <http://historic-cities.huji.ac.il/historic_cities.html>
+
+- `src/content/posts/translations/acoup-lonely-city-part-i-ideal-city.mdx`
+- `src/content/posts/translations/acoup-lonely-city-part-ii-real-cities-have-curves.mdx`
+
 ## <http://homebrewery.naturalcrit.com>
 
 - `src/content/posts/translations/social-encounter-statblocks-dnd-5e.mdx`
@@ -514,6 +519,10 @@
 ## <http://oots.wikia.com/wiki/Roy_Greenhilt>
 
 - `src/content/posts/translations/tribality-fighter-class-part-five.mdx`
+
+## <http://orbis.stanford.edu>
+
+- `src/content/posts/translations/acoup-lonely-city-part-ii-real-cities-have-curves.mdx`
 
 ## <http://paizo.com/community/blog/v5748dyo5lkm9?Fighter-Class-Preview>
 
@@ -2381,6 +2390,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
+## <https://en.wikipedia.org/wiki/Silvopasture>
+
+- `src/content/posts/translations/acoup-lonely-city-part-ii-real-cities-have-curves.mdx`
+
 ## <https://en.wikipedia.org/wiki/Siphonaptera_(poem)>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -3785,6 +3798,10 @@
 
 - `src/content/posts/translations/oaths-how-do-they-work.mdx`
 
+## <https://www.youtube.com/watch?v=zVPUFMwm73Y>
+
+- `src/content/posts/translations/acoup-lonely-city-part-i-ideal-city.mdx`
+
 ## <https://www.youtube.com/watch?v=zdRJybJ047I>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
@@ -3824,6 +3841,10 @@
 ## <https://youtu.be/ek2O6bVAIQQ>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
+## <https://youtu.be/m0zYZhJXELQ>
+
+- `src/content/posts/translations/acoup-lonely-city-part-i-ideal-city.mdx`
 
 ## <https://youtu.be/mzDf52M21J0?t=168>
 
