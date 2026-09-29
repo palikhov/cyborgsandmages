@@ -3454,6 +3454,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
+## <https://twitter.com/MilHist_Lee>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+
 ## <https://twitter.com/TheEdVerse/status/1232757800142622722>
 
 - `src/content/posts/translations/deep-dive-the-named-spells.mdx`
