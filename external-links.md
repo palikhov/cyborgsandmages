@@ -2735,6 +2735,26 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
 
+## <https://historynet.com/military-history-review-from-sun-tzu-to-xbox>
+
+- `src/content/posts/translations/mongols-logistics-of-grass.mdx`
+
+## <https://historynet.com/mongols-met-march>
+
+- `src/content/posts/translations/mongols-logistics-of-grass.mdx`
+
+## <https://historynet.com/the-napoleonic-wars-a-global-history>
+
+- `src/content/posts/translations/mongols-logistics-of-grass.mdx`
+
+## <https://historynet.com/vietnam-war>
+
+- `src/content/posts/translations/mongols-logistics-of-grass.mdx`
+
+## <https://historynet.com/weapons-of-world-war-i>
+
+- `src/content/posts/translations/mongols-logistics-of-grass.mdx`
+
 ## <https://holiviantales.wordpress.com/gameplay/spells/beget-bogun>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
@@ -3748,11 +3768,6 @@
 ## <https://www.gmwordoftheweek.com/home/alchemy>
 
 - `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
-
-## <https://www.historynet.com/mongols-on-the-march-the-logistics-of-grass>
-
-- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
-- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
 ## <https://www.historynet.com/women-in-war>
 
