@@ -499,6 +499,7 @@
 
 ## <http://medieval.ucdavis.edu/120D/Money.html>
 
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 - `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
 
 ## <http://mikepohjola.com/turku/index.html>
@@ -652,6 +653,10 @@
 ## <http://wiki.saberpunk.net/Wushu/OpenReloaded?action=print>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
+## <http://wiktenauer.com/wiki/Paulus_Hector_Mair>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 
 ## <http://www.aedificium.org>
 
@@ -1513,33 +1518,21 @@
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
 
+## <https://acoup.blog/2019/05/04/new-acquisitions-that-dothraki-charge>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
 ## <https://acoup.blog/2019/05/05/new-acquisitions-unsullied-kit-review>
 
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://acoup.blog/2019/05/12/new-acquisitions-lannister-infantry-kit-review>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
-
-## <https://acoup.blog/2019/05/31/collections-the-siege-of-gondor-part-iv-the-cavalry-arrives>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://acoup.blog/2019/06/07/collections-the-siege-of-gondor-part-v-just-flailing-about-flails>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
-
-## <https://acoup.blog/2019/06/14/collections-the-siege-of-gondor-part-vi-black-sails-and-gleaming-banners>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
 
 ## <https://acoup.blog/2019/06/21/collections-punching-through-some-armor-myths>
 
@@ -1548,14 +1541,17 @@
 ## <https://acoup.blog/2019/07/26/collections-war-elephants-part-i-battle-pachyderms>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 
 ## <https://acoup.blog/2019/08/02/collections-war-elephants-part-ii-elephants-against-wolves>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 
 ## <https://acoup.blog/2019/08/09/collections-war-elephants-part-iii-elephant-memories>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 
 ## <https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school>
 
@@ -1579,6 +1575,10 @@
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 
+## <https://acoup.blog/2020/01/10/collections-gondor-heavy-infantry-kit-review>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+
 ## <https://acoup.blog/2020/04/10/collections-antarah-ibn-shaddad-victory-songs>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -1594,22 +1594,26 @@
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
 ## <https://acoup.blog/2020/05/08/collections-the-battle-of-helms-deep-part-ii-total-warg>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
 ## <https://acoup.blog/2020/05/15/collections-the-battle-of-helms-deep-part-iii-the-host-of-saruman>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://acoup.blog/2020/05/22/collections-the-battle-of-helms-deep-part-iv-men-of-rohan>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
@@ -1618,20 +1622,24 @@
 ## <https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
 ## <https://acoup.blog/2020/06/05/collections-the-battle-of-helms-deep-part-vi-is-this-a-good-sword>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
 ## <https://acoup.blog/2020/06/12/collections-the-battle-of-helms-deep-part-vii-hanging-by-a-thread>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://acoup.blog/2020/06/19/collections-the-battle-of-helms-deep-part-viii-the-mind-of-saruman>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
 ## <https://acoup.blog/2020/06/25/fireside-friday-june-26th-2020>
 
@@ -2339,6 +2347,10 @@
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://en.wikipedia.org/wiki/Guisarme>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
 ## <https://en.wikipedia.org/wiki/Gulf_Cooperation_Council>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -2391,6 +2403,10 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://en.wikipedia.org/wiki/Ji_(polearm)>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
 ## <https://en.wikipedia.org/wiki/John_Hawkwood>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -2406,6 +2422,10 @@
 ## <https://en.wikipedia.org/wiki/Knight_banneret>
 
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
+
+## <https://en.wikipedia.org/wiki/Kto%C5%BE_js%C3%BA_bo%C5%BE%C3%AD_bojovn%C3%ADci>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 
 ## <https://en.wikipedia.org/wiki/Lady-in-waiting>
 
@@ -2496,6 +2516,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://en.wikipedia.org/wiki/Physiological_cross-sectional_area>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+
 ## <https://en.wikipedia.org/wiki/Player%27s_Handbook>
 
 - `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
@@ -2531,6 +2555,10 @@
 ## <https://en.wikipedia.org/wiki/Ransom_of_King_John_II_of_France>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <https://en.wikipedia.org/wiki/Red_Rover>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 
 ## <https://en.wikipedia.org/wiki/Roman_army>
 
@@ -2600,6 +2628,10 @@
 ## <https://en.wikipedia.org/wiki/Telos>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://en.wikipedia.org/wiki/The_British_Grenadiers>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 
 ## <https://en.wikipedia.org/wiki/The_Keep_on_the_Borderlands>
 
@@ -2867,6 +2899,10 @@
 ## <https://medium.com/migration-issues/notes-on-medieval-population-geography-fd062449364f>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
+
+## <https://memory-alpha.fandom.com/wiki/Vreenak>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 
 ## <https://mossmaps.wordpress.com>
 
@@ -3398,6 +3434,10 @@
 
 - `src/content/posts/translations/flutesloot-dramatic-questions.mdx`
 
+## <https://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
+
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/TheChessmaster>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -3770,6 +3810,10 @@
 
 - `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
 
+## <https://www.facebook.com/arany.janos.1/videos/2171409979558430/UzpfSTI0MjMwODY5NTc4NzAwMjoyODgwMDYwNDE4Njc4NDcw>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
 ## <https://www.facebook.com/dumpstatadventures>
 
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
@@ -3846,9 +3890,25 @@
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
+## <https://www.looper.com/74899/gwendoline-christie-got-ripped-play-brienne-tarth>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+
 ## <https://www.maximumfun.org/sound-young-america/george-r-r-martin-author-song-ice-and-fire-series-interview-sound-young-america>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
+## <https://www.metmuseum.org/art/collection/search/25072>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+
+## <https://www.metmuseum.org/art/collection/search/33866>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+
+## <https://www.metmuseum.org/art/collection/search/33867>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 
 ## <https://www.museicapitolini.org/en/percorso/scalone-0>
 
@@ -3882,6 +3942,10 @@
 ## <https://www.prismaticwasteland.com/blog/my-favorite-trap>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.publicmedievalist.com/curious-case-weapon-didnt-exist>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 
 ## <https://www.ragingswan.com>
 
@@ -3971,6 +4035,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <https://www.wallacecollection.org>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+
 ## <https://www.whatsapp.com>
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
@@ -4017,6 +4085,10 @@
 
 - `src/content/posts/translations/angrygm-between-jobs.mdx`
 
+## <https://www.youtube.com/watch?v=AyPHGQcE8dI>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
 ## <https://www.youtube.com/watch?v=Bge2MQT6fOs>
 
 - `src/content/posts/translations/walker-map-a-little-smaller-darling.mdx`
@@ -4024,6 +4096,10 @@
 ## <https://www.youtube.com/watch?v=D8zlUUrFK-M>
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
+
+## <https://www.youtube.com/watch?v=GrauBQf7FpI>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
 ## <https://www.youtube.com/watch?v=IBvuV9zuXnQ>
 
@@ -4041,6 +4117,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <https://www.youtube.com/watch?v=S-u9YDDrTFo>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
 ## <https://www.youtube.com/watch?v=SYZy5CPc93M>
 
 - `src/content/posts/translations/deep-dive-the-named-spells.mdx`
@@ -4049,6 +4129,10 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
 
+## <https://www.youtube.com/watch?v=ZAO4t8672hc>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+
 ## <https://www.youtube.com/watch?v=aewtOGH9ab4>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
@@ -4056,6 +4140,14 @@
 ## <https://www.youtube.com/watch?v=bKK-KLDlm20>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.youtube.com/watch?v=cbT-8BmMtVk>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
+## <https://www.youtube.com/watch?v=h3BShfhygbk>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 
 ## <https://www.youtube.com/watch?v=hou0lU8WMgo>
 
@@ -4097,6 +4189,10 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
 
+## <https://youtu.be/Ci_ychn7ga0?t=29>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
 ## <https://youtu.be/Ej3qjUzUzQg?t=48>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
@@ -4113,6 +4209,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://youtu.be/PG_wCD1z1Pw?t=788>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
 ## <https://youtu.be/QTTW8M_etko?t=2890>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
@@ -4120,6 +4220,10 @@
 ## <https://youtu.be/TM1OpCG8_1I>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
+
+## <https://youtu.be/_qhUTF4hOp8?t=39>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 
 ## <https://youtu.be/ek2O6bVAIQQ>
 
