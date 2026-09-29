@@ -31,6 +31,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
 
+## <http://awmc.unc.edu/wordpress/free-maps/the-romans-from-village-to-empire-2nd-edition-2011>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
 ## <http://basicredrpg.blogspot.ca/2017/07/dungeons-xp.html>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
@@ -461,6 +465,7 @@
 
 ## <http://historic-cities.huji.ac.il/historic_cities.html>
 
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 - `src/content/posts/translations/acoup-lonely-city-part-i-ideal-city.mdx`
 - `src/content/posts/translations/acoup-lonely-city-part-ii-real-cities-have-curves.mdx`
 
@@ -1453,6 +1458,11 @@
 
 - `src/content/posts/translations/pointcrawling-sigils-undercity.mdx`
 
+## <http://www.trajans-column.org?page_id=578>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
 ## <http://www.tribality.com/2017/06/29/the-monk-class-part-eight>
 
 - `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
@@ -1505,6 +1515,8 @@
 
 ## <https://acoup.blog/2019/05/10/collections-the-siege-of-gondor>
 
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -1532,6 +1544,7 @@
 
 ## <https://acoup.blog/2019/08/23/collections-this-isnt-sparta-part-ii-spartan-equality>
 
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://acoup.blog/2019/08/29/collections-this-isnt-sparta-part-iii-spartan-women>
@@ -1542,17 +1555,28 @@
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
+## <https://acoup.blog/2019/10/06/new-acquisitions-how-fast-do-armies-move>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
 ## <https://acoup.blog/2020/04/10/collections-antarah-ibn-shaddad-victory-songs>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
 ## <https://acoup.blog/2020/04/16/collections-a-trip-through-bertran-de-born-martial-values-in-the-12th-century-occitan-nobility>
 
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://acoup.blog/2020/05/01/collections-the-battle-of-helms-deep-part-i-bargaining-for-goods-at-helms-gate>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
 ## <https://acoup.blog/2020/05/08/collections-the-battle-of-helms-deep-part-ii-total-warg>
 
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
 ## <https://acoup.blog/2020/05/15/collections-the-battle-of-helms-deep-part-iii-the-host-of-saruman>
@@ -1575,6 +1599,18 @@
 ## <https://acoup.blog/2020/06/25/fireside-friday-june-26th-2020>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
+## <https://acoup.blog/2020/08/06/collections-bread-how-did-they-make-it-part-iii-actually-farming>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
+## <https://acoup.blog/2020/12/11/collections-that-dothraki-horde-part-ii-subsistence-on-the-hoof>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
 ## <https://acoup.blog/2021/01/08/collections-that-dothraki-horde-part-iv-screamers-and-howlers>
 
@@ -1599,13 +1635,13 @@
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
+## <https://acoup.blog/2021/11/12/collections-fortification-part-ii-roman-playing-cards>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
 ## <https://acoup.blog/2022/04/01/collection-total-wars-missing-infantry-type>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
-
-## <https://acoup.blog/2022/07/15/collections-logistics-how-did-they-do-it-part-i-the-problem>
-
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://acws.co.uk/gilhams/gilhcomp.htm>
 
@@ -1627,13 +1663,37 @@
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
+## <https://amzn.to/3BUgy6f>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
+## <https://amzn.to/3ImPnSR>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
 ## <https://amzn.to/3MT50ll>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://amzn.to/3OI1ivK>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
+## <https://amzn.to/3ONwHhn>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
 ## <https://amzn.to/3OQaJd0>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://amzn.to/3OTP0lb>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
+## <https://amzn.to/3OW7cKN>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
 ## <https://amzn.to/3OsqRSm>
 
@@ -1643,6 +1703,18 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://amzn.to/3c1fjav>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
+## <https://amzn.to/3cigeU8>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
+## <https://amzn.to/3nM1Fuz>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
 ## <https://amzn.to/3npnuzR>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
@@ -1651,9 +1723,33 @@
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://amzn.to/3uPXO3v>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
+## <https://amzn.to/3yu7cdY>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
+## <https://amzn.to/3yuuUH0>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
+## <https://amzn.to/3zBVEHt>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
 ## <https://answers.google.com/answers/threadview?id=339720>
 
 - `src/content/posts/translations/flutesloot-formulas-for-crafting-popular-magic-items-5e.mdx`
+
+## <https://archive.org/details/case_f_475_12/page/n71/mode/2up>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
+## <https://archive.org/details/organizationand01wagngoog/page/466/mode/2up>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
 ## <https://awoiaf.westeros.org/index.php/Military_strength>
 
@@ -1690,6 +1786,10 @@
 ## <https://bearded-devil.com/2018/05/10/hex-session-xxii-5th-edition-actual-play-chateau-de-la-marche-pt-1>
 
 - `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
+
+## <https://bmcr.brynmawr.edu/2021/2021.03.19>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
 ## <https://books.google.ca/books/about/Feudal_Society_in_Medieval_France.html?id=Hb8UDJM90-wC&redir_esc=y>
 
@@ -1972,6 +2072,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://en.wikipedia.org/wiki/Adrien_Moreau>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
 ## <https://en.wikipedia.org/wiki/Agios_Athanasios,_Thessaloniki>
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
@@ -2030,6 +2134,10 @@
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
+## <https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_(48_BC)>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
 ## <https://en.wikipedia.org/wiki/Battle_of_Gaugamela>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -2038,6 +2146,10 @@
 ## <https://en.wikipedia.org/wiki/Battle_of_Hastings>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://en.wikipedia.org/wiki/Battle_of_Philippi>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
 ## <https://en.wikipedia.org/wiki/Bayeux_Tapestry>
 
@@ -2102,6 +2214,14 @@
 ## <https://en.wikipedia.org/wiki/Deryni_novels>
 
 - `src/content/posts/translations/tribality-psionics-part-two.mdx`
+
+## <https://en.wikipedia.org/wiki/DoorDash>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
+## <https://en.wikipedia.org/wiki/Dragonnades>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 
 ## <https://en.wikipedia.org/wiki/Drowning-pit>
 
@@ -2202,6 +2322,10 @@
 
 - `src/content/posts/translations/where-does-my-main-battery-go.mdx`
 
+## <https://en.wikipedia.org/wiki/Hardtack>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
 ## <https://en.wikipedia.org/wiki/Henry_V_(play)>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
@@ -2234,6 +2358,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/Julian%27s_Persian_expedition>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
 ## <https://en.wikipedia.org/wiki/Kadesh_inscriptions>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -2246,12 +2374,17 @@
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/Landsknecht>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
 ## <https://en.wikipedia.org/wiki/League_(unit)>
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
 ## <https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre>
 
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
 ## <https://en.wikipedia.org/wiki/List_of_queens_regnant>
@@ -2293,6 +2426,10 @@
 ## <https://en.wikipedia.org/wiki/Network_of_practice>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://en.wikipedia.org/wiki/Orienteering>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
 ## <https://en.wikipedia.org/wiki/Outlaw_King>
 
@@ -2346,6 +2483,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
 
+## <https://en.wikipedia.org/wiki/Quartering_Acts>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
 ## <https://en.wikipedia.org/wiki/Rain_shadow>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
@@ -2372,6 +2513,7 @@
 
 ## <https://en.wikipedia.org/wiki/Sack_of_Antwerp>
 
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://en.wikipedia.org/wiki/Salic_law>
@@ -2382,6 +2524,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
+## <https://en.wikipedia.org/wiki/Sarcina>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
 ## <https://en.wikipedia.org/wiki/Satsuma-class_battleship>
 
 - `src/content/posts/translations/where-does-my-main-battery-go.mdx`
@@ -2389,6 +2535,10 @@
 ## <https://en.wikipedia.org/wiki/Scottish_Borders>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+
+## <https://en.wikipedia.org/wiki/Siege_of_Masada>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 
 ## <https://en.wikipedia.org/wiki/Silvopasture>
 
@@ -2405,6 +2555,10 @@
 ## <https://en.wikipedia.org/wiki/Steven_Zirnkilton>
 
 - `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
+
+## <https://en.wikipedia.org/wiki/Tabula_Peutingeriana>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
 ## <https://en.wikipedia.org/wiki/Telos>
 
@@ -2437,6 +2591,10 @@
 ## <https://en.wikipedia.org/wiki/Thelony>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Third_Amendment_to_the_United_States_Constitution>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 
 ## <https://en.wikipedia.org/wiki/Tithe>
 
@@ -2474,6 +2632,10 @@
 
 - `src/content/posts/translations/tribality-psionics-part-five.mdx`
 
+## <https://en.wikipedia.org/wiki/Vivandi%C3%A8re>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
 ## <https://en.wikipedia.org/wiki/Window_tax>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
@@ -2481,6 +2643,10 @@
 ## <https://en.wikipedia.org/wiki/World_War_I_memorials>
 
 - `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
+
+## <https://en.wikipedia.org/wiki/Zodiacal_light>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
 ## <https://en.wikisource.org/wiki/The_Art_of_War_(Sun)/Section_I>
 
@@ -2512,6 +2678,10 @@
 - `src/content/posts/translations/flutesloot-developing-the-inner-planes.mdx`
 - `src/content/posts/translations/flutesloot-materializing-elemental-chaos.mdx`
 - `src/content/posts/translations/flutesloot-orientation-of-the-planes.mdx`
+
+## <https://foreignpolicy.com/2022/04/06/russia-ukraine-atrocities-war-crimes>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 
 ## <https://forlornencystment.blogspot.com/2024/01/character-progression-and-tiers-of-play.html>
 
@@ -3334,6 +3504,10 @@
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
+## <https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=8466&CollID=16&NStart=200307>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
 ## <https://www.blogofholding.com?p=6789>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
@@ -3372,6 +3546,30 @@
 ## <https://www.brandesstoddard.com/2019/01/dd-5e-medium-armor>
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1855-0414-44>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1873-0712-105>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1933-0610-12-6>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1946-0713-683>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1983-U-389>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_2006-U-305>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
 ## <https://www.burningwheel.com/store/index.php/torchbearer.html>
 
@@ -3551,6 +3749,15 @@
 
 - `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
 
+## <https://www.historynet.com/mongols-on-the-march-the-logistics-of-grass>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
+## <https://www.historynet.com/women-in-war>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
 ## <https://www.huffpost.com/entry/game-of-thrones-red-wedding-black-dinner-real-events_n_3393099>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
@@ -3579,6 +3786,10 @@
 
 - `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
 
+## <https://www.loc.gov/pictures/collection/cwp/item/98507952>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
 ## <https://www.maximumfun.org/sound-young-america/george-r-r-martin-author-song-ice-and-fire-series-interview-sound-young-america>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
@@ -3590,6 +3801,10 @@
 ## <https://www.opengamingstore.com/collections/jon-brazer-enterprises/products/13-fighter-talents-and-maneuvers-13th-age-compatible>
 
 - `src/content/posts/translations/tribality-fighter-class-part-thirteenth-age.mdx`
+
+## <https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095425331>
+
+- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
 ## <https://www.paperspencils.com/8-reasons-why-dd-is-better-than-video-games>
 
@@ -3640,6 +3855,10 @@
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
+## <https://www.rferl.org/a/russian-soldiers-loot-ukraine/31732450.html>
+
+- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
 ## <https://www.rpg.net/columns/advanced-designers-and-dragons/advanced-designers-and-dragons56.phtml>
 
 - `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
@@ -3647,6 +3866,10 @@
 ## <https://www.skullsplitterdice.com/blogs/andrars-rumblings/ultimate-necromancers-guide>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.smh-hq.org/jmh/jmhvols/852.html>
+
+- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
 ## <https://www.surveymonkey.com/blog/en/blog/2012/04/13/10-online-survey-tips>
 
