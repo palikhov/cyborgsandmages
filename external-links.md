@@ -485,6 +485,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <http://lotrproject.com>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+
 ## <http://maziriansgarden.blogspot.com/2017/09/two-years-through-ultans-door-zyan.html>
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
@@ -1513,30 +1517,45 @@
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
-## <https://acoup.blog/2019/05/10/collections-the-siege-of-gondor>
-
-- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
-- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
-- `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
-- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-
 ## <https://acoup.blog/2019/05/12/new-acquisitions-lannister-infantry-kit-review>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
-## <https://acoup.blog/2019/05/17/collections-the-siege-of-gondor-part-ii-these-beacons-are-liiiiiiit>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://acoup.blog/2019/05/24/collections-the-siege-of-gondor-part-iii-having-fun-storming-the-city>
-
-- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
-
 ## <https://acoup.blog/2019/05/31/collections-the-siege-of-gondor-part-iv-the-cavalry-arrives>
 
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://acoup.blog/2019/06/07/collections-the-siege-of-gondor-part-v-just-flailing-about-flails>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
+
+## <https://acoup.blog/2019/06/14/collections-the-siege-of-gondor-part-vi-black-sails-and-gleaming-banners>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
+
+## <https://acoup.blog/2019/06/21/collections-punching-through-some-armor-myths>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
+
+## <https://acoup.blog/2019/07/26/collections-war-elephants-part-i-battle-pachyderms>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
+
+## <https://acoup.blog/2019/08/02/collections-war-elephants-part-ii-elephants-against-wolves>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
+
+## <https://acoup.blog/2019/08/09/collections-war-elephants-part-iii-elephant-memories>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
 
 ## <https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school>
 
@@ -1558,6 +1577,7 @@
 ## <https://acoup.blog/2019/10/06/new-acquisitions-how-fast-do-armies-move>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 
 ## <https://acoup.blog/2020/04/10/collections-antarah-ibn-shaddad-victory-songs>
 
@@ -1573,28 +1593,45 @@
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 
 ## <https://acoup.blog/2020/05/08/collections-the-battle-of-helms-deep-part-ii-total-warg>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
 ## <https://acoup.blog/2020/05/15/collections-the-battle-of-helms-deep-part-iii-the-host-of-saruman>
 
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://acoup.blog/2020/05/22/collections-the-battle-of-helms-deep-part-iv-men-of-rohan>
 
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+
+## <https://acoup.blog/2020/06/05/collections-the-battle-of-helms-deep-part-vi-is-this-a-good-sword>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+
 ## <https://acoup.blog/2020/06/12/collections-the-battle-of-helms-deep-part-vii-hanging-by-a-thread>
 
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://acoup.blog/2020/06/19/collections-the-battle-of-helms-deep-part-viii-the-mind-of-saruman>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 
 ## <https://acoup.blog/2020/06/25/fireside-friday-june-26th-2020>
 
@@ -2798,6 +2835,10 @@
 ## <https://leorningcniht.wordpress.com/2017/08/08/article-25-sacraments>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <https://lotr.fandom.com/wiki/Rammas_Echor>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
 
 ## <https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign>
 
@@ -4056,6 +4097,10 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
 
+## <https://youtu.be/Ej3qjUzUzQg?t=48>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
+
 ## <https://youtu.be/H0Of8a26J-4>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -4079,6 +4124,10 @@
 ## <https://youtu.be/ek2O6bVAIQQ>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
+## <https://youtu.be/jJ1Qm1Z_D7w>
+
+- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
 
 ## <https://youtu.be/m0zYZhJXELQ>
 
