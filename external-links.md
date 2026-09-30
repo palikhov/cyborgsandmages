@@ -1538,20 +1538,17 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
 
-## <https://acoup.blog/2019/07/26/collections-war-elephants-part-i-battle-pachyderms>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
-
 ## <https://acoup.blog/2019/08/02/collections-war-elephants-part-ii-elephants-against-wolves>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+- `src/content/posts/translations/acoup-war-elephants-part-i-battle-pachyderms.mdx`
 
 ## <https://acoup.blog/2019/08/09/collections-war-elephants-part-iii-elephant-memories>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+- `src/content/posts/translations/acoup-war-elephants-part-i-battle-pachyderms.mdx`
 
 ## <https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school>
 
@@ -2704,6 +2701,10 @@
 ## <https://en.wikipedia.org/wiki/Vivandi%C3%A8re>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
+## <https://en.wikipedia.org/wiki/War_elephant>
+
+- `src/content/posts/translations/acoup-war-elephants-part-i-battle-pachyderms.mdx`
 
 ## <https://en.wikipedia.org/wiki/Window_tax>
 
