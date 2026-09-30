@@ -4235,6 +4235,7 @@
 
 ## <https://youtu.be/jJ1Qm1Z_D7w>
 
+- `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
 
 ## <https://youtu.be/m0zYZhJXELQ>
