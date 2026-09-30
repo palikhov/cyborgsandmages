@@ -1529,6 +1529,7 @@
 
 ## <https://acoup.blog/2019/05/04/new-acquisitions-that-dothraki-charge>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 
 ## <https://acoup.blog/2019/05/05/new-acquisitions-unsullied-kit-review>
@@ -1545,6 +1546,7 @@
 
 ## <https://acoup.blog/2019/06/21/collections-punching-through-some-armor-myths>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
 
 ## <https://acoup.blog/2019/08/02/collections-war-elephants-part-ii-elephants-against-wolves>
@@ -1596,17 +1598,10 @@
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
-## <https://acoup.blog/2020/05/08/collections-the-battle-of-helms-deep-part-ii-total-warg>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
-- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-
 ## <https://acoup.blog/2020/05/15/collections-the-battle-of-helms-deep-part-iii-the-host-of-saruman>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -1615,6 +1610,7 @@
 ## <https://acoup.blog/2020/05/22/collections-the-battle-of-helms-deep-part-iv-men-of-rohan>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -1625,18 +1621,21 @@
 ## <https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
 ## <https://acoup.blog/2020/06/05/collections-the-battle-of-helms-deep-part-vi-is-this-a-good-sword>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
 ## <https://acoup.blog/2020/06/12/collections-the-battle-of-helms-deep-part-vii-hanging-by-a-thread>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -1645,6 +1644,7 @@
 ## <https://acoup.blog/2020/06/19/collections-the-battle-of-helms-deep-part-viii-the-mind-of-saruman>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
@@ -2170,6 +2170,10 @@
 - `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://en.wikipedia.org/wiki/Bardiche>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+
 ## <https://en.wikipedia.org/wiki/Battle_of_Bannockburn>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
@@ -2230,6 +2234,10 @@
 ## <https://en.wikipedia.org/wiki/Bugle_call>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://en.wikipedia.org/wiki/Calvary>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
 ## <https://en.wikipedia.org/wiki/Category:Barons_of_France>
 
@@ -2353,10 +2361,18 @@
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
 
+## <https://en.wikipedia.org/wiki/Glaive>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+
 ## <https://en.wikipedia.org/wiki/Grant,_Lee,_Sherman:_Civil_War_Generals_2>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://en.wikipedia.org/wiki/Great_Stirrup_Controversy>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
 ## <https://en.wikipedia.org/wiki/Guisarme>
 
@@ -2656,6 +2672,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://en.wikipedia.org/wiki/Tent_pegging>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+
 ## <https://en.wikipedia.org/wiki/The_British_Grenadiers>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
@@ -2930,6 +2950,10 @@
 ## <https://media.wizards.com/2016/dnd/downloads/UA_Druid11272016_CAWS.pdf>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1315>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
 ## <https://medium.com/migration-issues/notes-on-medieval-population-geography-fd062449364f>
 
@@ -3465,6 +3489,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://totalwarwarhammer.gamepedia.com/Demigryph_Knights_%28Halberds%29>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+
 ## <https://tsojcanth.wordpress.com/2013/08/20/free-pdf-burgs-bailiffs-warfare-too>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
@@ -3512,6 +3540,10 @@
 ## <https://twitter.com/webjr1981/status/1026653349595279366>
 
 - `src/content/posts/translations/deep-dive-the-named-spells.mdx`
+
+## <https://twitter.com/xv40rds>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
 ## <https://ussmissouri.org/learn-the-history/the-ship/as-built-blueprints>
 
@@ -3569,6 +3601,10 @@
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
 
+## <https://www.amazon.com/Dancing-Glory-Monsters-Collapse-Africa-ebook/dp/B0076M4VDC/ref=sr_1_1?crid=30R57JX8CXAT1&dchild=1&keywords=dancing+in+the+glory+of+monsters&qid=1588601904&sprefix=dancing+in+the+glory+%2Caps%2C157&sr=8-1>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+
 ## <https://www.amazon.com/Dungeonscape-Essential-Adventuring-Dungeons-Roleplaying/dp/0786941189>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
@@ -3602,6 +3638,10 @@
 ## <https://www.amazon.com/Players-Option-Elemental-Dungeons-Rulebook/dp/0786959819>
 
 - `src/content/posts/translations/tribality-shair-class-part-two.mdx`
+
+## <https://www.amazon.com/Shattered-Sword-Untold-Battle-Midway/dp/1574889249>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/0394527453/digitalcomi0a-20>
 
@@ -4279,6 +4319,10 @@
 ## <https://youtu.be/ek2O6bVAIQQ>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
+## <https://youtu.be/h3BShfhygbk>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
 ## <https://youtu.be/jJ1Qm1Z_D7w>
 
