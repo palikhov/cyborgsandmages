@@ -1576,6 +1576,7 @@
 
 ## <https://acoup.blog/2019/09/20/collections-this-isnt-sparta-part-vi-spartan-battle>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
 ## <https://acoup.blog/2019/10/06/new-acquisitions-how-fast-do-armies-move>
@@ -1588,6 +1589,14 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 
+## <https://acoup.blog/2020/02/28/collections-the-fremen-mirage-part-iv-desert-power>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
+## <https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
 ## <https://acoup.blog/2020/04/10/collections-antarah-ibn-shaddad-victory-songs>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -1598,19 +1607,11 @@
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
-## <https://acoup.blog/2020/05/15/collections-the-battle-of-helms-deep-part-iii-the-host-of-saruman>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
 ## <https://acoup.blog/2020/05/22/collections-the-battle-of-helms-deep-part-iv-men-of-rohan>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -1622,6 +1623,7 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
@@ -1629,6 +1631,7 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
@@ -1636,6 +1639,7 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -1645,6 +1649,7 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
@@ -2156,6 +2161,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 
+## <https://en.wikipedia.org/wiki/Asclepiodotus_%28philosopher%29>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
 ## <https://en.wikipedia.org/wiki/Asclepiodotus_(philosopher)>
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
@@ -2169,6 +2178,10 @@
 - `src/content/posts/translations/tribality-avenger-part-one-and-onlyish.mdx`
 - `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <https://en.wikipedia.org/wiki/Augustus>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 
 ## <https://en.wikipedia.org/wiki/Bardiche>
 
@@ -2442,6 +2455,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
+## <https://en.wikipedia.org/wiki/Julius_Caesar>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
 ## <https://en.wikipedia.org/wiki/Kadesh_inscriptions>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -2479,9 +2496,17 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://en.wikipedia.org/wiki/Loeb_Classical_Library>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
 ## <https://en.wikipedia.org/wiki/Ludonarrative_dissonance>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://en.wikipedia.org/wiki/Mark_Antony>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 
 ## <https://en.wikipedia.org/wiki/Medieval_demography>
 
@@ -2514,6 +2539,10 @@
 ## <https://en.wikipedia.org/wiki/Network_of_practice>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://en.wikipedia.org/wiki/Non-commissioned_officer>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 
 ## <https://en.wikipedia.org/wiki/Orienteering>
 
@@ -2555,9 +2584,17 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 
+## <https://en.wikipedia.org/wiki/Pike_and_shot>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
 ## <https://en.wikipedia.org/wiki/Player%27s_Handbook>
 
 - `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
+
+## <https://en.wikipedia.org/wiki/Pompey>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 
 ## <https://en.wikipedia.org/wiki/Pool_noodle>
 
@@ -2591,6 +2628,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
+## <https://en.wikipedia.org/wiki/Recruitment_to_the_British_Army_during_the_First_World_War>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
 ## <https://en.wikipedia.org/wiki/Red_Rover>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
@@ -2598,6 +2639,10 @@
 ## <https://en.wikipedia.org/wiki/Roman_army>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://en.wikipedia.org/wiki/Roman_legion>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 
 ## <https://en.wikipedia.org/wiki/Rotary_International>
 
@@ -2663,6 +2708,10 @@
 ## <https://en.wikipedia.org/wiki/Stirling_Castle>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+
+## <https://en.wikipedia.org/wiki/Sulla>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 
 ## <https://en.wikipedia.org/wiki/Tabula_Peutingeriana>
 
@@ -2922,6 +2971,10 @@
 ## <https://lotr.fandom.com/wiki/H%C3%A1ma>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+
+## <https://lotr.fandom.com/wiki/Lurtz>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 
 ## <https://lotr.fandom.com/wiki/Rammas_Echor>
 
@@ -3517,6 +3570,10 @@
 
 - `src/content/posts/translations/brandes-leveling-up-your-background.mdx`
 
+## <https://twitter.com/BretDevereaux/status/1245118933893513218>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
 ## <https://twitter.com/BretDevereaux/status/1539645516098707458>
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
@@ -3604,6 +3661,10 @@
 ## <https://www.amazon.com/Dancing-Glory-Monsters-Collapse-Africa-ebook/dp/B0076M4VDC/ref=sr_1_1?crid=30R57JX8CXAT1&dchild=1&keywords=dancing+in+the+glory+of+monsters&qid=1588601904&sprefix=dancing+in+the+glory+%2Caps%2C157&sr=8-1>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+
+## <https://www.amazon.com/Dancing-Glory-Monsters-Collapse-Africa/dp/1610391071>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 
 ## <https://www.amazon.com/Dungeonscape-Essential-Adventuring-Dungeons-Roleplaying/dp/0786941189>
 
@@ -4126,6 +4187,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <https://www.vice.com/en_us/article/ywq5zy/the-pentagon-has-the-worst-powerpoint-slides-youve-ever-seen>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
 ## <https://www.wallacecollection.org>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
@@ -4326,6 +4391,7 @@
 
 ## <https://youtu.be/jJ1Qm1Z_D7w>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
 
