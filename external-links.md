@@ -1038,6 +1038,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
 
+## <http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=57364>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+
 ## <http://www.brandesstoddard.com/2016/12/dd-5e-alternate-threat-tracks>
 
 - `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
@@ -1604,6 +1608,7 @@
 ## <https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
 
 ## <https://acoup.blog/2020/04/10/collections-antarah-ibn-shaddad-victory-songs>
 
@@ -1615,21 +1620,13 @@
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
-## <https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
-
 ## <https://acoup.blog/2020/06/05/collections-the-battle-of-helms-deep-part-vi-is-this-a-good-sword>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
@@ -1639,6 +1636,7 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -1650,6 +1648,7 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
@@ -2187,6 +2186,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
+## <https://en.wikipedia.org/wiki/Battle_of_Antietam>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+
 ## <https://en.wikipedia.org/wiki/Battle_of_Bannockburn>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
@@ -2411,6 +2414,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://en.wikipedia.org/wiki/Gunpowder>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+
 ## <https://en.wikipedia.org/wiki/HMS_Dreadnought_(1906)>
 
 - `src/content/posts/translations/where-does-my-main-battery-go.mdx`
@@ -2528,6 +2535,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://en.wikipedia.org/wiki/Mantlet>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+
 ## <https://en.wikipedia.org/wiki/Mark_Antony>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
@@ -2543,6 +2554,10 @@
 ## <https://en.wikipedia.org/wiki/Mercenary_War>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://en.wikipedia.org/wiki/Merlon>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
 
 ## <https://en.wikipedia.org/wiki/Murus_gallicus>
 
@@ -2705,6 +2720,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
+## <https://en.wikipedia.org/wiki/Siege_of_Antioch>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+
 ## <https://en.wikipedia.org/wiki/Siege_of_Masada>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
@@ -2824,6 +2843,10 @@
 ## <https://en.wikipedia.org/wiki/Vivandi%C3%A8re>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
+## <https://en.wikipedia.org/wiki/Walls_of_Constantinople>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
 
 ## <https://en.wikipedia.org/wiki/War_elephant>
 
