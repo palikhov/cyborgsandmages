@@ -1539,6 +1539,7 @@
 
 ## <https://acoup.blog/2019/05/12/new-acquisitions-lannister-infantry-kit-review>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
@@ -1547,6 +1548,7 @@
 ## <https://acoup.blog/2019/06/21/collections-punching-through-some-armor-myths>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
 
 ## <https://acoup.blog/2019/08/02/collections-war-elephants-part-ii-elephants-against-wolves>
@@ -1582,11 +1584,17 @@
 ## <https://acoup.blog/2019/10/06/new-acquisitions-how-fast-do-armies-move>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 
+## <https://acoup.blog/2019/11/22/collections-why-are-there-no-empires-in-age-of-empires>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
+
 ## <https://acoup.blog/2020/01/10/collections-gondor-heavy-infantry-kit-review>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 
 ## <https://acoup.blog/2020/02/28/collections-the-fremen-mirage-part-iv-desert-power>
@@ -1607,23 +1615,12 @@
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
-## <https://acoup.blog/2020/05/22/collections-the-battle-of-helms-deep-part-iv-men-of-rohan>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
-- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
 ## <https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
@@ -1632,6 +1629,7 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
@@ -1640,6 +1638,7 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -1650,6 +1649,7 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
@@ -2199,6 +2199,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
+
 ## <https://en.wikipedia.org/wiki/Battle_of_Cunaxa>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
@@ -2224,6 +2228,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
+## <https://en.wikipedia.org/wiki/Battle_of_Tours>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
+
 ## <https://en.wikipedia.org/wiki/Bayeux_Tapestry>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
@@ -2239,6 +2247,10 @@
 ## <https://en.wikipedia.org/wiki/Black_box>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <https://en.wikipedia.org/wiki/Boiled_leather>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 
 ## <https://en.wikipedia.org/wiki/Braveheart>
 
@@ -2362,6 +2374,10 @@
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
 
+## <https://en.wikipedia.org/wiki/Gambeson>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
+
 ## <https://en.wikipedia.org/wiki/Garrett_(character)>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
@@ -2422,6 +2438,10 @@
 ## <https://en.wikipedia.org/wiki/Heriot>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <https://en.wikipedia.org/wiki/Hoarding_(castle)>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 
 ## <https://en.wikipedia.org/wiki/Housecarl>
 
@@ -2487,6 +2507,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://en.wikipedia.org/wiki/Lev%C3%A9e_en_masse>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 
 ## <https://en.wikipedia.org/wiki/List_of_queens_regnant>
 
