@@ -523,6 +523,10 @@
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
 
+## <http://myarmoury.com/feature_arms_gls.html>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
 ## <http://mythosa.net/site/index.php?option=com_content&view=article&id=51&Itemid=56>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
@@ -1385,6 +1389,10 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
+## <http://www.perseus.tufts.edu/hopper/text?doc=Liv.+44+42&fromdoc=Perseus%3Atext%3A1999.02.0165>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
 ## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0148%3Abook%3D3%3Awhiston+chapter%3D5%3Awhiston+section%3D1>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -1392,6 +1400,10 @@
 ## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D28%3Achapter%3D3>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0165%3Abook%3D37%3Achapter%3D44>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
 ## <http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0003.tlg001.perseus-eng3:2.47>
 
@@ -1553,6 +1565,7 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
 
 ## <https://acoup.blog/2019/08/02/collections-war-elephants-part-ii-elephants-against-wolves>
@@ -1620,16 +1633,6 @@
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
-## <https://acoup.blog/2020/06/05/collections-the-battle-of-helms-deep-part-vi-is-this-a-good-sword>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
-
 ## <https://acoup.blog/2020/06/12/collections-the-battle-of-helms-deep-part-vii-hanging-by-a-thread>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
@@ -1637,6 +1640,7 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -1649,6 +1653,7 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
@@ -2225,6 +2230,7 @@
 
 ## <https://en.wikipedia.org/wiki/Battle_of_Hastings>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://en.wikipedia.org/wiki/Battle_of_Philippi>
@@ -2275,6 +2281,10 @@
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
 
+## <https://en.wikipedia.org/wiki/Center_of_percussion>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
 ## <https://en.wikipedia.org/wiki/Centurion>
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
@@ -2286,6 +2296,10 @@
 ## <https://en.wikipedia.org/wiki/Chigi_vase>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://en.wikipedia.org/wiki/Cinquedea>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
 ## <https://en.wikipedia.org/wiki/Comtat_Venaissin>
 
@@ -2352,6 +2366,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
+
+## <https://en.wikipedia.org/wiki/Ferrous_metallurgy>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
 ## <https://en.wikipedia.org/wiki/Finlandization>
 
@@ -2472,6 +2490,7 @@
 
 ## <https://en.wikipedia.org/wiki/Ji_(polearm)>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 
 ## <https://en.wikipedia.org/wiki/John_Hawkwood>
@@ -2655,6 +2674,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
 
+## <https://en.wikipedia.org/wiki/Push_of_pike>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
 ## <https://en.wikipedia.org/wiki/Quartering_Acts>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
@@ -2674,6 +2697,10 @@
 ## <https://en.wikipedia.org/wiki/Red_Rover>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+
+## <https://en.wikipedia.org/wiki/Ricasso>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
 ## <https://en.wikipedia.org/wiki/Roman_army>
 
@@ -2815,6 +2842,10 @@
 ## <https://en.wikipedia.org/wiki/Tonsure>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Total_War_Saga:_Thrones_of_Britannia>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
 ## <https://en.wikipedia.org/wiki/Tr%C3%A8s_Riches_Heures_du_Duc_de_Berry>
 
@@ -3097,6 +3128,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xv.mdx`
+
+## <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/18*.html>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
 ## <https://plus.google.com/104927909965528500794>
 
@@ -3605,6 +3640,10 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
+## <https://tvtropes.org/pmwiki/pmwiki.php/Main/OrangeBlueContrast>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/TheChessmaster>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -3657,6 +3696,18 @@
 
 - `src/content/posts/translations/angrygm-monster-building-202-supplement.mdx`
 
+## <https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=60511&viewType=detailView>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
+## <https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=direct/1/ResultListView/result.t1.collection_list.$TspTitleImageLink.link&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=0&sp=2&sp=SdetailList&sp=0&sp=Sdetail&sp=0&sp=F&sp=T&sp=3>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
+## <https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=direct/1/ResultListView/result.t1.collection_list.$TspTitleImageLink.link&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=1&sp=2&sp=SdetailList&sp=21&sp=Sdetail&sp=3&sp=F&sp=T&sp=41>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
 ## <https://web.archive.org/web/20110419191117/http://www.maisonstclaire.org/resources/pricelist/pricelist.html>
 
 - `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
@@ -3680,6 +3731,10 @@
 ## <https://wiki.lspace.org/mediawiki/Department_of_Post-Mortem_Communications>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://wiktenauer.com/wiki/Talhoffer_Fechtbuch_(MS_Thott.290.2%C2%BA)>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
 ## <https://wordpress.com>
 
@@ -4388,9 +4443,17 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://youtu.be/3w5c-U_gUJw>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
 ## <https://youtu.be/47MazYDnmaU?t=112>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
+
+## <https://youtu.be/8E6TzT0eCYs>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
 ## <https://youtu.be/Ci_ychn7ga0?t=29>
 
@@ -4423,6 +4486,10 @@
 ## <https://youtu.be/TM1OpCG8_1I>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
+
+## <https://youtu.be/XnN22pMpt4o>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
 ## <https://youtu.be/_qhUTF4hOp8?t=39>
 
