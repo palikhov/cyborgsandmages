@@ -487,6 +487,7 @@
 
 ## <http://lotrproject.com>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 
 ## <http://maziriansgarden.blogspot.com/2017/09/two-years-through-ultans-door-zyan.html>
@@ -605,6 +606,14 @@
 ## <http://theonyxpath.com/category/worlds/worldofdarkness/magetheawakening>
 
 - `src/content/posts/translations/tribality-psionics-part-eight.mdx`
+
+## <http://tolkiengateway.net/wiki/H%C3%A1ma>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+
+## <http://tolkiengateway.net/wiki/Helm%27s_Deep>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 
 ## <http://tribality.com/2015/03/10/elemental-evil-players-companion>
 
@@ -1569,6 +1578,7 @@
 
 ## <https://acoup.blog/2019/10/06/new-acquisitions-how-fast-do-armies-move>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 
@@ -1586,15 +1596,9 @@
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
-## <https://acoup.blog/2020/05/01/collections-the-battle-of-helms-deep-part-i-bargaining-for-goods-at-helms-gate>
-
-- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
-- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
-
 ## <https://acoup.blog/2020/05/08/collections-the-battle-of-helms-deep-part-ii-total-warg>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
@@ -1602,6 +1606,7 @@
 
 ## <https://acoup.blog/2020/05/15/collections-the-battle-of-helms-deep-part-iii-the-host-of-saruman>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -1609,6 +1614,7 @@
 
 ## <https://acoup.blog/2020/05/22/collections-the-battle-of-helms-deep-part-iv-men-of-rohan>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -1618,16 +1624,19 @@
 
 ## <https://acoup.blog/2020/05/28/collections-the-battle-of-helms-deep-part-v-ladders-are-chaos>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
 ## <https://acoup.blog/2020/06/05/collections-the-battle-of-helms-deep-part-vi-is-this-a-good-sword>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
 ## <https://acoup.blog/2020/06/12/collections-the-battle-of-helms-deep-part-vii-hanging-by-a-thread>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
@@ -1635,6 +1644,7 @@
 
 ## <https://acoup.blog/2020/06/19/collections-the-battle-of-helms-deep-part-viii-the-mind-of-saruman>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
@@ -2160,6 +2170,10 @@
 - `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://en.wikipedia.org/wiki/Battle_of_Bannockburn>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+
 ## <https://en.wikipedia.org/wiki/Battle_of_Chancellorsville>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -2465,6 +2479,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://en.wikipedia.org/wiki/Murus_gallicus>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+
 ## <https://en.wikipedia.org/wiki/Museum_aan_de_Stroom>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
@@ -2508,6 +2526,10 @@
 ## <https://en.wikipedia.org/wiki/Pericles>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://en.wikipedia.org/wiki/Pfostenschlitzmauer>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 
 ## <https://en.wikipedia.org/wiki/Pharaoh_(module)>
 
@@ -2602,6 +2624,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 
+## <https://en.wikipedia.org/wiki/Sieges_of_Stirling_Castle>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+
 ## <https://en.wikipedia.org/wiki/Silvopasture>
 
 - `src/content/posts/translations/acoup-lonely-city-part-ii-real-cities-have-curves.mdx`
@@ -2617,6 +2643,10 @@
 ## <https://en.wikipedia.org/wiki/Steven_Zirnkilton>
 
 - `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
+
+## <https://en.wikipedia.org/wiki/Stirling_Castle>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 
 ## <https://en.wikipedia.org/wiki/Tabula_Peutingeriana>
 
@@ -2868,6 +2898,10 @@
 ## <https://leorningcniht.wordpress.com/2017/08/08/article-25-sacraments>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <https://lotr.fandom.com/wiki/H%C3%A1ma>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 
 ## <https://lotr.fandom.com/wiki/Rammas_Echor>
 
@@ -3419,6 +3453,10 @@
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
+## <https://tolkiengateway.net/wiki/Helm%27s_Deep>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+
 ## <https://totalwarwarhammer.fandom.com/wiki/Peasant_Mob>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -3535,6 +3573,10 @@
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
 
+## <https://www.amazon.com/Hunger-Sword-Republican-monographs-archaeology/dp/905063608X>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+
 ## <https://www.amazon.com/Incarnum-Dungeons-Dragons-Fantasy-Roleplaying/dp/0786937017>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
@@ -3543,6 +3585,10 @@
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
 - `src/content/posts/translations/tribality-warlock-class-part-zero.mdx`
+
+## <https://www.amazon.com/Maps-Tolkiens-Middle-earth-Brian-Sibley/dp/061839110X>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 
 ## <https://www.amazon.com/Monte-Cooks-Arcana-Evolved-Handbook/dp/1588467805>
 
