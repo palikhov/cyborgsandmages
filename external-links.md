@@ -1660,22 +1660,20 @@
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
-## <https://acoup.blog/2021/11/12/collections-fortification-part-ii-roman-playing-cards>
-
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
-- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
-
 ## <https://acoup.blog/2021/12/10/collections-fortification-part-iii-castling>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
 ## <https://acoup.blog/2021/12/17/collections-fortification-part-iv-french-guns-and-italian-lines>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
 ## <https://acoup.blog/2021/12/31/collections-fortification-part-v-the-age-of-industrial-firepower>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
 ## <https://acoup.blog/2022/04/01/collection-total-wars-missing-infantry-type>
 
@@ -1899,6 +1897,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
+## <https://commons.wikimedia.org/w/index.php?curid=7992355>
+
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
+
 ## <https://commons.wikimedia.org/wiki/Category:Elephas_maximus>
 
 - `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
@@ -1923,6 +1925,10 @@
 ## <https://d66kobolds.blogspot.com/2021/03/play-worlds-not-rules-design-challenge.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://danubelimes-robg.eu/index.php/en/45en>
+
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
 ## <https://delvingwolf.blogspot.com>
 
@@ -2146,6 +2152,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
+## <https://en.wikipedia.org/wiki/Agri_Decumates>
+
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
+
 ## <https://en.wikipedia.org/wiki/Alamut_Castle>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
@@ -2207,6 +2217,10 @@
 ## <https://en.wikipedia.org/wiki/Bardiche>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+
+## <https://en.wikipedia.org/wiki/Battle_of_Adrianople>
+
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
 ## <https://en.wikipedia.org/wiki/Battle_of_Antietam>
 
@@ -2294,6 +2308,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
+## <https://en.wikipedia.org/wiki/Castra>
+
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
+
 ## <https://en.wikipedia.org/wiki/Category:Barons_of_France>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
@@ -2349,6 +2367,10 @@
 ## <https://en.wikipedia.org/wiki/Deryni_novels>
 
 - `src/content/posts/translations/tribality-psionics-part-two.mdx`
+
+## <https://en.wikipedia.org/wiki/Deva_Victrix>
+
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
 ## <https://en.wikipedia.org/wiki/DoorDash>
 
@@ -2465,6 +2487,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
+## <https://en.wikipedia.org/wiki/Great_Wall_of_China>
+
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
+
 ## <https://en.wikipedia.org/wiki/Groom_(profession)>
 
 - `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
@@ -2556,6 +2582,7 @@
 
 ## <https://en.wikipedia.org/wiki/Julian%27s_Persian_expedition>
 
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
 ## <https://en.wikipedia.org/wiki/Julius_Caesar>
@@ -2678,6 +2705,10 @@
 ## <https://en.wikipedia.org/wiki/Non-commissioned_officer>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
+## <https://en.wikipedia.org/wiki/Nusaybin>
+
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
 ## <https://en.wikipedia.org/wiki/Onside_kick>
 
@@ -2836,9 +2867,17 @@
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
+## <https://en.wikipedia.org/wiki/Siege_of_Amida_(359)>
+
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
+
 ## <https://en.wikipedia.org/wiki/Siege_of_Antioch>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+
+## <https://en.wikipedia.org/wiki/Siege_of_Dara_(573)>
+
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
 ## <https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)>
 
@@ -2846,6 +2885,7 @@
 
 ## <https://en.wikipedia.org/wiki/Siege_of_Masada>
 
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 
 ## <https://en.wikipedia.org/wiki/Sieges_of_Stirling_Castle>
@@ -2855,6 +2895,10 @@
 ## <https://en.wikipedia.org/wiki/Silvopasture>
 
 - `src/content/posts/translations/acoup-lonely-city-part-ii-real-cities-have-curves.mdx`
+
+## <https://en.wikipedia.org/wiki/Singara>
+
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
 ## <https://en.wikipedia.org/wiki/Siphonaptera_(poem)>
 
@@ -3824,6 +3868,7 @@
 ## <https://twitter.com/Roelkonijn>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
 ## <https://twitter.com/Roelkonijn/status/1453049486964572162>
 
@@ -4342,6 +4387,10 @@
 
 - `src/content/posts/translations/tribality-fighter-class-part-thirteenth-age.mdx`
 
+## <https://www.oxfordreference.com/view/10.1093/acref/9780191866692.001.0001/q-oro-ed6-00016315>
+
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
+
 ## <https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095425331>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
@@ -4668,6 +4717,10 @@
 ## <https://youtu.be/Ci_ychn7ga0?t=29>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
+## <https://youtu.be/DPMiWwqX4wI>
+
+- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
 ## <https://youtu.be/Ej3qjUzUzQg?t=48>
 
