@@ -1546,6 +1546,7 @@
 ## <https://acoup.blog/2019/05/04/new-acquisitions-that-dothraki-charge>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 
 ## <https://acoup.blog/2019/05/05/new-acquisitions-unsullied-kit-review>
@@ -1633,19 +1634,6 @@
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
-## <https://acoup.blog/2020/06/12/collections-the-battle-of-helms-deep-part-vii-hanging-by-a-thread>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
-- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
 ## <https://acoup.blog/2020/06/19/collections-the-battle-of-helms-deep-part-viii-the-mind-of-saruman>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
@@ -1654,6 +1642,7 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
@@ -2133,6 +2122,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://en.wikipedia.org/wiki/Adlocutio>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
+
 ## <https://en.wikipedia.org/wiki/Adrien_Moreau>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
@@ -2186,6 +2179,10 @@
 ## <https://en.wikipedia.org/wiki/Augustus>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
+## <https://en.wikipedia.org/wiki/Augustus_of_Prima_Porta>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
 ## <https://en.wikipedia.org/wiki/Bardiche>
 
@@ -2301,6 +2298,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
+## <https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
+
 ## <https://en.wikipedia.org/wiki/Comtat_Venaissin>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
@@ -2379,6 +2380,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://en.wikipedia.org/wiki/Frederick_the_Great>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
+
 ## <https://en.wikipedia.org/wiki/Free_company>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -2406,6 +2411,10 @@
 ## <https://en.wikipedia.org/wiki/Garrett_P.I.>
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
+
+## <https://en.wikipedia.org/wiki/George_S._Patton%27s_speech_to_the_Third_Army>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
 ## <https://en.wikipedia.org/wiki/Gil_Hamilton>
 
@@ -2435,6 +2444,10 @@
 ## <https://en.wikipedia.org/wiki/Gunpowder>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+
+## <https://en.wikipedia.org/wiki/Gustavus_Adolphus_of_Sweden>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
 ## <https://en.wikipedia.org/wiki/HMS_Dreadnought_(1906)>
 
@@ -2589,6 +2602,10 @@
 ## <https://en.wikipedia.org/wiki/Musket>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://en.wikipedia.org/wiki/Napoleon_Crossing_the_Alps>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
 ## <https://en.wikipedia.org/wiki/National_Mall>
 
@@ -2771,6 +2788,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/St_Crispin%27s_Day_Speech>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
+
 ## <https://en.wikipedia.org/wiki/Steven_Zirnkilton>
 
 - `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
@@ -2814,6 +2835,10 @@
 ## <https://en.wikipedia.org/wiki/The_Sandman:_The_Doll%27s_House>
 
 - `src/content/posts/translations/tribality-assassin-class-redux.mdx`
+
+## <https://en.wikipedia.org/wiki/The_Tale_of_the_Heike>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
 ## <https://en.wikipedia.org/wiki/The_Tempest>
 
@@ -3129,9 +3154,17 @@
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xv.mdx`
 
+## <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Onasander/A*.html>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
+
 ## <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/18*.html>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
+## <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Sallust/Bellum_Catilinae*.html>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
 ## <https://plus.google.com/104927909965528500794>
 
@@ -3656,6 +3689,10 @@
 
 - `src/content/posts/translations/brandes-leveling-up-your-background.mdx`
 
+## <https://twitter.com/BretDevereaux/status/1225207804568494081>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
+
 ## <https://twitter.com/BretDevereaux/status/1245118933893513218>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
@@ -3755,6 +3792,14 @@
 ## <https://www.amazon.co.uk/gp/product/0399512934>
 
 - `src/content/posts/translations/creighton-gygax-on-nature-and-variety-of-challenge.mdx`
+
+## <https://www.amazon.com/Beowulf-Translation-Norton-Critical-Editions/dp/0393975800>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
+
+## <https://www.amazon.com/Beowulf-Verse-Translation-Seamus-Heaney/dp/0374111197>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
 ## <https://www.amazon.com/Complete-Arcane-Players-Dungeons-Roleplaying/dp/0786934352>
 
@@ -4366,6 +4411,10 @@
 ## <https://www.youtube.com/watch?v=JGbPShUpjpg>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
+## <https://www.youtube.com/watch?v=JZctCxAmzDs>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
 ## <https://www.youtube.com/watch?v=NnjauJquWfw>
 
