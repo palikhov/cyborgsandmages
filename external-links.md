@@ -1390,6 +1390,10 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
+## <http://www.perseus.tufts.edu/hopper/text?doc=Caes.%20Gal.%202.32&lang=original>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+
 ## <http://www.perseus.tufts.edu/hopper/text?doc=Liv.+44+42&fromdoc=Perseus%3Atext%3A1999.02.0165>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
@@ -1590,6 +1594,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 
+## <https://acoup.blog/2020/01/17/collections-the-fremen-mirage-part-i-war-at-the-dawn-of-civilization>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+
 ## <https://acoup.blog/2020/02/28/collections-the-fremen-mirage-part-iv-desert-power>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
@@ -1640,6 +1648,10 @@
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
+## <https://acoup.blog/2021/05/07/collections-teaching-paradox-europa-universalis-iv-part-ii-red-queens>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+
 ## <https://acoup.blog/2021/06/25/collections-the-queens-latin-or-who-were-the-romans-part-ii-citizens-and-allies>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
@@ -1650,7 +1662,20 @@
 
 ## <https://acoup.blog/2021/11/12/collections-fortification-part-ii-roman-playing-cards>
 
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
+## <https://acoup.blog/2021/12/10/collections-fortification-part-iii-castling>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+
+## <https://acoup.blog/2021/12/17/collections-fortification-part-iv-french-guns-and-italian-lines>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+
+## <https://acoup.blog/2021/12/31/collections-fortification-part-v-the-age-of-industrial-firepower>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
 ## <https://acoup.blog/2022/04/01/collection-total-wars-missing-infantry-type>
 
@@ -1881,6 +1906,10 @@
 ## <https://commons.wikimedia.org/wiki/Category:HMS_Victory_(ship,_1765)_in_art>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
+
+## <https://commons.wikimedia.org/wiki/Category:Lachish_Reliefs>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
 ## <https://commons.wikimedia.org/wiki/Category:Vexilla>
 
@@ -2187,6 +2216,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 
+## <https://en.wikipedia.org/wiki/Battle_of_Cartagena_(209_BC)>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+
 ## <https://en.wikipedia.org/wiki/Battle_of_Chancellorsville>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -2288,6 +2321,10 @@
 ## <https://en.wikipedia.org/wiki/Cinquedea>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
+## <https://en.wikipedia.org/wiki/Coevolution>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
 ## <https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy>
 
@@ -2488,6 +2525,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://en.wikipedia.org/wiki/In_medias_res>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+
 ## <https://en.wikipedia.org/wiki/Infangthief_and_outfangthief>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -2558,6 +2599,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 
+## <https://en.wikipedia.org/wiki/Libyan_Palette>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+
 ## <https://en.wikipedia.org/wiki/List_of_queens_regnant>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
@@ -2621,6 +2666,10 @@
 ## <https://en.wikipedia.org/wiki/National_Mall>
 
 - `src/content/posts/translations/practical-polytheism-part-iv-little-gods-and-big-people.mdx`
+
+## <https://en.wikipedia.org/wiki/Neo-Assyrian_Empire>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
 ## <https://en.wikipedia.org/wiki/Network_of_practice>
 
@@ -2783,9 +2832,17 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
+## <https://en.wikipedia.org/wiki/Siege>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+
 ## <https://en.wikipedia.org/wiki/Siege_of_Antioch>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+
+## <https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
 ## <https://en.wikipedia.org/wiki/Siege_of_Masada>
 
@@ -2826,6 +2883,10 @@
 ## <https://en.wikipedia.org/wiki/Tabula_Peutingeriana>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
+## <https://en.wikipedia.org/wiki/Tell_es-Sultan>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
 ## <https://en.wikipedia.org/wiki/Telos>
 
@@ -3760,6 +3821,14 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 
+## <https://twitter.com/Roelkonijn>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+
+## <https://twitter.com/Roelkonijn/status/1453049486964572162>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+
 ## <https://twitter.com/TheEdVerse/status/1232757800142622722>
 
 - `src/content/posts/translations/deep-dive-the-named-spells.mdx`
@@ -4587,6 +4656,10 @@
 ## <https://youtu.be/47MazYDnmaU?t=112>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
+
+## <https://youtu.be/4I8kic8xZh8>
+
+- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
 ## <https://youtu.be/8E6TzT0eCYs>
 
