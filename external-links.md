@@ -1562,25 +1562,6 @@
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
-## <https://acoup.blog/2019/06/21/collections-punching-through-some-armor-myths>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
-
-## <https://acoup.blog/2019/08/02/collections-war-elephants-part-ii-elephants-against-wolves>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
-- `src/content/posts/translations/acoup-war-elephants-part-i-battle-pachyderms.mdx`
-
-## <https://acoup.blog/2019/08/09/collections-war-elephants-part-iii-elephant-memories>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
-- `src/content/posts/translations/acoup-war-elephants-part-i-battle-pachyderms.mdx`
-
 ## <https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
@@ -1903,6 +1884,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
+## <https://commons.wikimedia.org/wiki/Category:Elephas_maximus>
+
+- `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
+
 ## <https://commons.wikimedia.org/wiki/Category:HMS_Victory_(ship,_1765)_in_art>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
@@ -2110,6 +2095,18 @@
 
 - `src/content/posts/translations/billhook-cities-fixed-at-last.mdx`
 
+## <https://en.wikipedia.org/w/index.php?title=File:Asian_Elephant,_Royal_Chitwan_National_Park.jpg>
+
+- `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
+
+## <https://en.wikipedia.org/w/index.php?title=File:Battle_at_Lanka,_Ramayana,_Udaipur,_1649-53.jpg>
+
+- `src/content/posts/translations/acoup-war-elephants-part-iii-elephant-memories.mdx`
+
+## <https://en.wikipedia.org/w/index.php?title=File:Dishekel_hispano-cartagin%C3%A9s-2.jpg>
+
+- `src/content/posts/translations/acoup-war-elephants-part-iii-elephant-memories.mdx`
+
 ## <https://en.wikipedia.org/wiki/1917_French_Army_mutinies>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
@@ -2121,6 +2118,10 @@
 ## <https://en.wikipedia.org/wiki/Adrien_Moreau>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
+## <https://en.wikipedia.org/wiki/African_forest_elephant>
+
+- `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
 
 ## <https://en.wikipedia.org/wiki/Agios_Athanasios,_Thessaloniki>
 
@@ -2425,6 +2426,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
+## <https://en.wikipedia.org/wiki/Groom_(profession)>
+
+- `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
+
 ## <https://en.wikipedia.org/wiki/Guisarme>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
@@ -2562,6 +2567,10 @@
 ## <https://en.wikipedia.org/wiki/Ludonarrative_dissonance>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://en.wikipedia.org/wiki/Mahabharata>
+
+- `src/content/posts/translations/acoup-war-elephants-part-iii-elephant-memories.mdx`
 
 ## <https://en.wikipedia.org/wiki/Mantlet>
 
@@ -2819,6 +2828,10 @@
 ## <https://en.wikipedia.org/wiki/Tent_pegging>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+
+## <https://en.wikipedia.org/wiki/Terracotta_Army>
+
+- `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
 
 ## <https://en.wikipedia.org/wiki/The_British_Grenadiers>
 
@@ -3677,6 +3690,10 @@
 
 - `src/content/posts/translations/flutesloot-dramatic-questions.mdx`
 
+## <https://tvtropes.org/pmwiki/pmwiki.php/Main/ArmorIsUseless>
+
+- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
+
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
@@ -3692,6 +3709,10 @@
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/TheChessmaster>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://tvtropes.org/pmwiki/pmwiki.php/Main/TheGoodKing>
+
+- `src/content/posts/translations/acoup-war-elephants-part-iii-elephant-memories.mdx`
 
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/TheLawOfConservationOfDetail>
 
@@ -4393,6 +4414,10 @@
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
 
+## <https://www.youtube.com/watch?v=42NDuagLd4k>
+
+- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
+
 ## <https://www.youtube.com/watch?v=4I8kic8xZh8>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
@@ -4409,9 +4434,21 @@
 
 - `src/content/posts/translations/walker-map-a-little-smaller-darling.mdx`
 
+## <https://www.youtube.com/watch?v=CtMMY-QqRYQ>
+
+- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
+
 ## <https://www.youtube.com/watch?v=D8zlUUrFK-M>
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
+
+## <https://www.youtube.com/watch?v=Ej3qjUzUzQg&t=60s>
+
+- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
+
+## <https://www.youtube.com/watch?v=FOgpEW7N_8Q>
+
+- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
 
 ## <https://www.youtube.com/watch?v=GrauBQf7FpI>
 
@@ -4428,6 +4465,10 @@
 ## <https://www.youtube.com/watch?v=JZctCxAmzDs>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
+
+## <https://www.youtube.com/watch?v=NGSL7XApz2s&t=1s>
+
+- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
 
 ## <https://www.youtube.com/watch?v=NnjauJquWfw>
 
@@ -4476,6 +4517,14 @@
 ## <https://www.youtube.com/watch?v=jW3PFC86UNI>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.youtube.com/watch?v=pzNCA3hlbuQ>
+
+- `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
+
+## <https://www.youtube.com/watch?v=uP4wLMmp-8U>
+
+- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
 
 ## <https://www.youtube.com/watch?v=uk5NwLr3OmQ>
 
@@ -4533,6 +4582,10 @@
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
 
+## <https://youtu.be/McnKrV0aDjo>
+
+- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
+
 ## <https://youtu.be/NZmH0DGVXCo>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -4552,6 +4605,10 @@
 ## <https://youtu.be/WKU0qDpu3AM>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
+
+## <https://youtu.be/XMT6hjwY8NQ>
+
+- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
 
 ## <https://youtu.be/XnN22pMpt4o>
 
