@@ -1553,17 +1553,9 @@
 ## <https://acoup.blog/2019/05/05/new-acquisitions-unsullied-kit-review>
 
 - `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
+- `src/content/posts/translations/acoup-lannister-infantry-kit-review.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://acoup.blog/2019/05/12/new-acquisitions-lannister-infantry-kit-review>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
-- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
-- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
 ## <https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school>
 
@@ -2418,6 +2410,10 @@
 ## <https://en.wikipedia.org/wiki/Gil_Hamilton>
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
+
+## <https://en.wikipedia.org/wiki/Gjermundbu_helmet>
+
+- `src/content/posts/translations/acoup-lannister-infantry-kit-review.mdx`
 
 ## <https://en.wikipedia.org/wiki/Glaive>
 
@@ -4492,6 +4488,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
+## <https://www.youtube.com/watch?v=NGSL7XApz2s>
+
+- `src/content/posts/translations/acoup-lannister-infantry-kit-review.mdx`
+
 ## <https://www.youtube.com/watch?v=NGSL7XApz2s&t=1s>
 
 - `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
@@ -4652,6 +4652,10 @@
 ## <https://youtu.be/h3BShfhygbk>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+
+## <https://youtu.be/j7w-_QH607U>
+
+- `src/content/posts/translations/acoup-lannister-infantry-kit-review.mdx`
 
 ## <https://youtu.be/jJ1Qm1Z_D7w>
 
