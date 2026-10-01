@@ -488,6 +488,7 @@
 ## <http://lotrproject.com>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 
 ## <http://maziriansgarden.blogspot.com/2017/09/two-years-through-ultans-door-zyan.html>
@@ -1551,12 +1552,14 @@
 
 ## <https://acoup.blog/2019/05/05/new-acquisitions-unsullied-kit-review>
 
+- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://acoup.blog/2019/05/12/new-acquisitions-lannister-infantry-kit-review>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
+- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
@@ -1594,11 +1597,6 @@
 ## <https://acoup.blog/2019/11/22/collections-why-are-there-no-empires-in-age-of-empires>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-
-## <https://acoup.blog/2020/01/10/collections-gondor-heavy-infantry-kit-review>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 
 ## <https://acoup.blog/2020/02/28/collections-the-fremen-mirage-part-iv-desert-power>
 
@@ -2139,6 +2137,10 @@
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
+## <https://en.wikipedia.org/wiki/Almain_rivet>
+
+- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
+
 ## <https://en.wikipedia.org/wiki/Aquila_(Roman)>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -2176,6 +2178,10 @@
 ## <https://en.wikipedia.org/wiki/Augustus_of_Prima_Porta>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
+
+## <https://en.wikipedia.org/wiki/Barbute>
+
+- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
 
 ## <https://en.wikipedia.org/wiki/Bardiche>
 
@@ -2531,6 +2537,10 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 
+## <https://en.wikipedia.org/wiki/Kulah_khud>
+
+- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
+
 ## <https://en.wikipedia.org/wiki/Lady-in-waiting>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -2869,6 +2879,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/Theme_(Byzantine_district)>
+
+- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
+
 ## <https://en.wikipedia.org/wiki/Third_Amendment_to_the_United_States_Constitution>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
@@ -2900,6 +2914,10 @@
 ## <https://en.wikipedia.org/wiki/Trireme>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
+
+## <https://en.wikipedia.org/wiki/Turban_helmet>
+
+- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
 
 ## <https://en.wikipedia.org/wiki/Tyche>
 
@@ -2936,6 +2954,10 @@
 ## <https://en.wikipedia.org/wiki/World_War_I_memorials>
 
 - `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
+
+## <https://en.wikipedia.org/wiki/Yari>
+
+- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
 
 ## <https://en.wikipedia.org/wiki/Zodiacal_light>
 
@@ -3665,6 +3687,10 @@
 ## <https://thriftomancer.itch.io/null>
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
+
+## <https://todsworkshop.com/collections/historical-shields/products/flat-topped-kite-shield>
+
+- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
 
 ## <https://tolkiengateway.net/wiki/Helm%27s_Deep>
 
