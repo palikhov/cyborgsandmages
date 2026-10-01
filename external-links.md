@@ -465,6 +465,7 @@
 
 ## <http://historic-cities.huji.ac.il/historic_cities.html>
 
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 - `src/content/posts/translations/acoup-lonely-city-part-i-ideal-city.mdx`
 - `src/content/posts/translations/acoup-lonely-city-part-ii-real-cities-have-curves.mdx`
@@ -1652,6 +1653,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
+## <https://acoup.blog/2021/05/28/collections-teaching-paradox-europa-universalis-iv-part-iv-why-europe>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
 ## <https://acoup.blog/2021/06/25/collections-the-queens-latin-or-who-were-the-romans-part-ii-citizens-and-allies>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
@@ -1660,20 +1665,12 @@
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
-## <https://acoup.blog/2021/12/10/collections-fortification-part-iii-castling>
-
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-
-## <https://acoup.blog/2021/12/17/collections-fortification-part-iv-french-guns-and-italian-lines>
-
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-
 ## <https://acoup.blog/2021/12/31/collections-fortification-part-v-the-age-of-industrial-firepower>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
 ## <https://acoup.blog/2022/04/01/collection-total-wars-missing-infantry-type>
 
@@ -1695,6 +1692,14 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://amzn.to/2RSu0CM>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://amzn.to/33DLj0b>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
 ## <https://amzn.to/39RFm39>
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
@@ -1702,6 +1707,14 @@
 ## <https://amzn.to/3BUgy6f>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
+## <https://amzn.to/3CNf2PX>
+
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
+
+## <https://amzn.to/3E3kHC7>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
 ## <https://amzn.to/3ImPnSR>
 
@@ -1747,6 +1760,14 @@
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
+## <https://amzn.to/3eD252p>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://amzn.to/3mdjp1s>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
 ## <https://amzn.to/3nM1Fuz>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
@@ -1758,6 +1779,22 @@
 ## <https://amzn.to/3nqKtu8>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://amzn.to/3p0LFF1>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://amzn.to/3p2oHhX>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://amzn.to/3q2MaPw>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://amzn.to/3q6MDA6>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
 ## <https://amzn.to/3uPXO3v>
 
@@ -2168,6 +2205,10 @@
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
+## <https://en.wikipedia.org/wiki/Alice%27s_Restaurant>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
 ## <https://en.wikipedia.org/wiki/Almain_rivet>
 
 - `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
@@ -2210,6 +2251,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
+## <https://en.wikipedia.org/wiki/Avaricum>
+
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
+
 ## <https://en.wikipedia.org/wiki/Barbute>
 
 - `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
@@ -2218,6 +2263,14 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
+## <https://en.wikipedia.org/wiki/Bastion>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://en.wikipedia.org/wiki/Bastion_fort>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
 ## <https://en.wikipedia.org/wiki/Battle_of_Adrianople>
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
@@ -2225,6 +2278,10 @@
 ## <https://en.wikipedia.org/wiki/Battle_of_Antietam>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+
+## <https://en.wikipedia.org/wiki/Battle_of_Baltimore>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
 ## <https://en.wikipedia.org/wiki/Battle_of_Bannockburn>
 
@@ -2258,6 +2315,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
+## <https://en.wikipedia.org/wiki/Battle_of_Fornovo>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
 ## <https://en.wikipedia.org/wiki/Battle_of_Gaugamela>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -2278,11 +2339,16 @@
 
 ## <https://en.wikipedia.org/wiki/Bayeux_Tapestry>
 
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://en.wikipedia.org/wiki/Beard_tax>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <https://en.wikipedia.org/wiki/Beaumaris_Castle>
+
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 
 ## <https://en.wikipedia.org/wiki/Benefice>
 
@@ -2308,9 +2374,21 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
+## <https://en.wikipedia.org/wiki/Caponier>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://en.wikipedia.org/wiki/Casemate>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
 ## <https://en.wikipedia.org/wiki/Castra>
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
+
+## <https://en.wikipedia.org/wiki/Catapult>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
 ## <https://en.wikipedia.org/wiki/Category:Barons_of_France>
 
@@ -2363,6 +2441,10 @@
 ## <https://en.wikipedia.org/wiki/Cromartyshire>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
+
+## <https://en.wikipedia.org/wiki/Defensive_wall>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
 ## <https://en.wikipedia.org/wiki/Deryni_novels>
 
@@ -2430,6 +2512,22 @@
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://en.wikipedia.org/wiki/Fort_Bourtange>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://en.wikipedia.org/wiki/Fort_Knox_(Maine)>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://en.wikipedia.org/wiki/Fort_McHenry>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://en.wikipedia.org/wiki/Fort_Sumter>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
 ## <https://en.wikipedia.org/wiki/Frederick_the_Great>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
@@ -2473,6 +2571,10 @@
 ## <https://en.wikipedia.org/wiki/Gjermundbu_helmet>
 
 - `src/content/posts/translations/acoup-lannister-infantry-kit-review.mdx`
+
+## <https://en.wikipedia.org/wiki/Glacis>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
 ## <https://en.wikipedia.org/wiki/Glaive>
 
@@ -2546,6 +2648,11 @@
 ## <https://en.wikipedia.org/wiki/Hoarding_(castle)>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
+
+## <https://en.wikipedia.org/wiki/Honours_of_war>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
 ## <https://en.wikipedia.org/wiki/Housecarl>
 
@@ -2559,9 +2666,17 @@
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/Italian_Wars>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
 ## <https://en.wikipedia.org/wiki/Japanese_battleship_Mikasa>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
+
+## <https://en.wikipedia.org/wiki/Japanese_castle>
+
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 
 ## <https://en.wikipedia.org/wiki/Japanese_imperial_family_tree>
 
@@ -2593,9 +2708,21 @@
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
+## <https://en.wikipedia.org/wiki/Keep>
+
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
+
 ## <https://en.wikipedia.org/wiki/Knight_banneret>
 
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
+
+## <https://en.wikipedia.org/wiki/Kom%C3%A1rno>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://en.wikipedia.org/wiki/Krak_des_Chevaliers>
+
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 
 ## <https://en.wikipedia.org/wiki/Kto%C5%BE_js%C3%BA_bo%C5%BE%C3%AD_bojovn%C3%ADci>
 
@@ -2646,6 +2773,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://en.wikipedia.org/wiki/Machicolation>
+
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
+
 ## <https://en.wikipedia.org/wiki/Mahabharata>
 
 - `src/content/posts/translations/acoup-war-elephants-part-iii-elephant-memories.mdx`
@@ -2657,6 +2788,10 @@
 ## <https://en.wikipedia.org/wiki/Mark_Antony>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
+## <https://en.wikipedia.org/wiki/Marseille>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
 ## <https://en.wikipedia.org/wiki/Medieval_demography>
 
@@ -2673,6 +2808,18 @@
 ## <https://en.wikipedia.org/wiki/Merlon>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+
+## <https://en.wikipedia.org/wiki/Mons_Meg>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://en.wikipedia.org/wiki/Motte-and-bailey_castle>
+
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
+
+## <https://en.wikipedia.org/wiki/Murus_Gallicus>
+
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 
 ## <https://en.wikipedia.org/wiki/Murus_gallicus>
 
@@ -2722,6 +2869,10 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
+## <https://en.wikipedia.org/wiki/Palmanova>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
 ## <https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)>
 
 - `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
@@ -2737,6 +2888,10 @@
 ## <https://en.wikipedia.org/wiki/Parmenion>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://en.wikipedia.org/wiki/Path_dependence>
+
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 
 ## <https://en.wikipedia.org/wiki/Pericles>
 
@@ -2761,6 +2916,10 @@
 ## <https://en.wikipedia.org/wiki/Player%27s_Handbook>
 
 - `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
+
+## <https://en.wikipedia.org/wiki/Polygonal_fort>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
 ## <https://en.wikipedia.org/wiki/Pompey>
 
@@ -2867,6 +3026,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
+## <https://en.wikipedia.org/wiki/Siege_artillery_in_the_American_Civil_War>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
 ## <https://en.wikipedia.org/wiki/Siege_of_Amida_(359)>
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
@@ -2879,6 +3042,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
+## <https://en.wikipedia.org/wiki/Siege_of_Fort_Pulaski>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
 ## <https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
@@ -2887,6 +3054,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
+## <https://en.wikipedia.org/wiki/Siege_of_Yorktown>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
 ## <https://en.wikipedia.org/wiki/Sieges_of_Stirling_Castle>
 
@@ -3012,6 +3183,10 @@
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
+## <https://en.wikipedia.org/wiki/Trebuchet>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
 ## <https://en.wikipedia.org/wiki/Trireme>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
@@ -3043,10 +3218,15 @@
 ## <https://en.wikipedia.org/wiki/Walls_of_Constantinople>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 
 ## <https://en.wikipedia.org/wiki/War_elephant>
 
 - `src/content/posts/translations/acoup-war-elephants-part-i-battle-pachyderms.mdx`
+
+## <https://en.wikipedia.org/wiki/Warwolf>
+
+- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
 ## <https://en.wikipedia.org/wiki/Window_tax>
 
@@ -3265,6 +3445,7 @@
 
 ## <https://mossmaps.wordpress.com>
 
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
 
 ## <https://nbos.com/products/inspiration-pad-pro>
@@ -4390,6 +4571,7 @@
 ## <https://www.oxfordreference.com/view/10.1093/acref/9780191866692.001.0001/q-oro-ed6-00016315>
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
+- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 
 ## <https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095425331>
 
