@@ -1599,6 +1599,10 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
+## <https://acoup.blog/2019/09/27/collections-this-isnt-sparta-part-vii-spartan-ends>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
+
 ## <https://acoup.blog/2019/10/06/new-acquisitions-how-fast-do-armies-move>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
@@ -1633,18 +1637,6 @@
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-
-## <https://acoup.blog/2020/06/19/collections-the-battle-of-helms-deep-part-viii-the-mind-of-saruman>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
 
 ## <https://acoup.blog/2020/06/25/fireside-friday-june-26th-2020>
 
@@ -2465,6 +2457,10 @@
 
 - `src/content/posts/translations/where-does-my-main-battery-go.mdx`
 
+## <https://en.wikipedia.org/wiki/Hail_Mary_pass>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
+
 ## <https://en.wikipedia.org/wiki/Hardtack>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
@@ -2619,6 +2615,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 
+## <https://en.wikipedia.org/wiki/Onside_kick>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
+
 ## <https://en.wikipedia.org/wiki/Orienteering>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
@@ -2690,6 +2690,10 @@
 ## <https://en.wikipedia.org/wiki/Presque_Isle_State_Park>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
+
+## <https://en.wikipedia.org/wiki/Psychological_operations_(United_States)>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
 
 ## <https://en.wikipedia.org/wiki/Push_of_pike>
 
@@ -2895,6 +2899,10 @@
 ## <https://en.wikipedia.org/wiki/Vajra>
 
 - `src/content/posts/translations/tribality-psionics-part-five.mdx`
+
+## <https://en.wikipedia.org/wiki/Victory_disease>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
 
 ## <https://en.wikipedia.org/wiki/Vivandi%C3%A8re>
 
@@ -3677,6 +3685,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
+## <https://tvtropes.org/pmwiki/pmwiki.php/Main/OutsideContextProblem?from=Main.OutsideContextVillain>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
+
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/TheChessmaster>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -3850,6 +3862,7 @@
 ## <https://www.amazon.com/Shattered-Sword-Untold-Battle-Midway/dp/1574889249>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/0394527453/digitalcomi0a-20>
 
@@ -4536,6 +4549,10 @@
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
 
+## <https://youtu.be/WKU0qDpu3AM>
+
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
+
 ## <https://youtu.be/XnN22pMpt4o>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
@@ -4546,6 +4563,7 @@
 
 ## <https://youtu.be/ek2O6bVAIQQ>
 
+- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
 
 ## <https://youtu.be/h3BShfhygbk>
