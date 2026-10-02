@@ -1971,9 +1971,17 @@
 
 - `src/content/posts/translations/critical-hits-youve-decided-to-run-a-dd-campaign.mdx`
 
+## <https://critical-hits.com/blog/2010/10/20/the-architect-dm-give-it-some-structure>
+
+- `src/content/posts/translations/critical-hits-architect-dm-structural-dungeon-design.mdx`
+
 ## <https://critical-hits.com/blog/2011/10/05/the-architect-dm-dungeon-interconnectivity>
 
 - `src/content/posts/translations/critical-hits-youve-decided-to-run-a-dd-campaign.mdx`
+
+## <https://critical-hits.com/blog/tag/architect-dm>
+
+- `src/content/posts/translations/critical-hits-architect-dm-structural-dungeon-design.mdx`
 
 ## <https://critrole.com>
 
