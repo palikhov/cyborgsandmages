@@ -1176,10 +1176,6 @@
 
 - `src/content/posts/translations/creighton-gygax-on-saving-characters.mdx`
 
-## <http://www.critical-hits.com/blog/2010/08/27/thinking-outside-the-boxed-text>
-
-- `src/content/posts/translations/hackslashmaster-inadequacy-of-boxed-text.mdx`
-
 ## <http://www.crydee.com/node/9352>
 
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
