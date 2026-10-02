@@ -1955,6 +1955,26 @@
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
+## <https://critical-hits.com/blog/2008/05/20/session-report-keep-on-the-shadowfell>
+
+- `src/content/posts/translations/critical-hits-youve-decided-to-run-a-dd-campaign.mdx`
+
+## <https://critical-hits.com/blog/2009/10/15/leveling-up-as-an-inexperienced-dm>
+
+- `src/content/posts/translations/critical-hits-youve-decided-to-run-a-dd-campaign.mdx`
+
+## <https://critical-hits.com/blog/2009/12/08/let-me-tell-you-about-my-campaign-might-of-the-inquisition>
+
+- `src/content/posts/translations/critical-hits-youve-decided-to-run-a-dd-campaign.mdx`
+
+## <https://critical-hits.com/blog/2010/02/10/let-me-tell-you-about-my-campaign-age-of-awakening>
+
+- `src/content/posts/translations/critical-hits-youve-decided-to-run-a-dd-campaign.mdx`
+
+## <https://critical-hits.com/blog/2011/10/05/the-architect-dm-dungeon-interconnectivity>
+
+- `src/content/posts/translations/critical-hits-youve-decided-to-run-a-dd-campaign.mdx`
+
 ## <https://critrole.com>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
