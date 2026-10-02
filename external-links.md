@@ -139,6 +139,7 @@
 
 ## <http://dreamsinthelichhouse.blogspot.com/2011/07/die-strahd-die.html>
 
+- `src/content/posts/translations/hackslashmaster-illusion-can-rob-your-game-of-fun.mdx`
 - `src/content/posts/translations/hackslashmaster-resurrecting-the-quantum-ogre.mdx`
 
 ## <http://dreamsinthelichhouse.blogspot.com/2011/07/sandbox-triangle.html>
@@ -367,10 +368,6 @@
 
 - `src/content/posts/translations/running-ruined-cities.mdx`
 
-## <http://hackslashmaster.blogspot.com/2011/09/on-how-illusion-can-rob-your-game-of.html>
-
-- `src/content/posts/translations/dreams-lich-house-fixing-the-quantum-ogre.mdx`
-
 ## <http://hackslashmaster.blogspot.com/2011/09/on-list-of-ways-youre-ruining-your-game.html>
 
 - `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
@@ -577,6 +574,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <http://rpgtheoryreview.blogspot.com/2007/01/lesson-illusionism.html>
+
+- `src/content/posts/translations/hackslashmaster-illusion-can-rob-your-game-of-fun.mdx`
+
 ## <http://samhaine.wordpress.com/2012/01/16/the-worst-adventurers-guild-in-town>
 
 - `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
@@ -604,6 +605,10 @@
 ## <http://spellsandsteel.blogspot.ca/search/label/castles>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
+## <http://thealexandrian.net/wordpress/2434/roleplaying-games/on-the-importance-of-spherical-cows>
+
+- `src/content/posts/translations/hackslashmaster-illusion-can-rob-your-game-of-fun.mdx`
 
 ## <http://theonyxpath.com/category/projects/magetheawakening>
 
