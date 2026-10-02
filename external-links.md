@@ -1607,6 +1607,7 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
 ## <https://acoup.blog/2020/04/10/collections-antarah-ibn-shaddad-victory-songs>
 
@@ -1661,16 +1662,18 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
+## <https://acoup.blog/2021/09/17/collections-no-mans-land-part-i-the-trench-stalemate>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
 ## <https://acoup.blog/2021/09/24/collections-no-mans-land-part-ii-breaking-the-stalemate>
 
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
-## <https://acoup.blog/2021/12/31/collections-fortification-part-v-the-age-of-industrial-firepower>
+## <https://acoup.blog/2021/10/08/collections-luigi-cadorna-was-the-worst>
 
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
 ## <https://acoup.blog/2022/04/01/collection-total-wars-missing-infantry-type>
 
@@ -1715,6 +1718,10 @@
 ## <https://amzn.to/3E3kHC7>
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://amzn.to/3FuvAyn>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
 ## <https://amzn.to/3ImPnSR>
 
@@ -2173,6 +2180,14 @@
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://en.wikipedia.org/wiki/42_cm_Gamma_howitzer>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
+## <https://en.wikipedia.org/wiki/5.7_cm_Maxim-Nordenfelt>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
 ## <https://en.wikipedia.org/wiki/Adlocutio>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
@@ -2329,6 +2344,10 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://en.wikipedia.org/wiki/Battle_of_Li%C3%A8ge>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
 ## <https://en.wikipedia.org/wiki/Battle_of_Philippi>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
@@ -2353,6 +2372,10 @@
 ## <https://en.wikipedia.org/wiki/Benefice>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <https://en.wikipedia.org/wiki/Big_Bertha_(howitzer)>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
 ## <https://en.wikipedia.org/wiki/Black_box>
 
@@ -2528,6 +2551,14 @@
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
+## <https://en.wikipedia.org/wiki/Fortified_position_of_Li%C3%A8ge>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
+## <https://en.wikipedia.org/wiki/Franco-Prussian_War>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
 ## <https://en.wikipedia.org/wiki/Frederick_the_Great>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
@@ -2543,6 +2574,10 @@
 ## <https://en.wikipedia.org/wiki/French_denier>
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
+
+## <https://en.wikipedia.org/wiki/Gabion>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
 ## <https://en.wikipedia.org/wiki/Galley>
 
@@ -2585,6 +2620,10 @@
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://en.wikipedia.org/wiki/Great_Retreat_(Russian)>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
 ## <https://en.wikipedia.org/wiki/Great_Stirrup_Controversy>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
@@ -2596,6 +2635,10 @@
 ## <https://en.wikipedia.org/wiki/Groom_(profession)>
 
 - `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
+
+## <https://en.wikipedia.org/wiki/Ground-Based_Midcourse_Defense>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
 ## <https://en.wikipedia.org/wiki/Guisarme>
 
@@ -2645,6 +2688,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
+## <https://en.wikipedia.org/wiki/Hesco_bastion>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
 ## <https://en.wikipedia.org/wiki/Hoarding_(castle)>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
@@ -2665,6 +2712,10 @@
 ## <https://en.wikipedia.org/wiki/Infangthief_and_outfangthief>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Infiltration_tactics>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
 ## <https://en.wikipedia.org/wiki/Italian_Wars>
 
@@ -2761,6 +2812,10 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
 
+## <https://en.wikipedia.org/wiki/List_of_states_with_nuclear_weapons>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
 ## <https://en.wikipedia.org/wiki/Living_Greyhawk>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -2809,6 +2864,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
 
+## <https://en.wikipedia.org/wiki/Missile_Defense_Agency>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
 ## <https://en.wikipedia.org/wiki/Mons_Meg>
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
@@ -2848,6 +2907,14 @@
 ## <https://en.wikipedia.org/wiki/Network_of_practice>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://en.wikipedia.org/wiki/Nike_Hercules>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
+## <https://en.wikipedia.org/wiki/Nike_Zeus>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
 ## <https://en.wikipedia.org/wiki/Non-commissioned_officer>
 
@@ -2945,6 +3012,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
 
+## <https://en.wikipedia.org/wiki/Przemy%C5%9Bl_Fortress>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
 ## <https://en.wikipedia.org/wiki/Psychological_operations_(United_States)>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
@@ -2972,6 +3043,10 @@
 ## <https://en.wikipedia.org/wiki/Red_Rover>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+
+## <https://en.wikipedia.org/wiki/Revolution_in_military_affairs>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
 ## <https://en.wikipedia.org/wiki/Ricasso>
 
@@ -3055,6 +3130,14 @@
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 
+## <https://en.wikipedia.org/wiki/Siege_of_Namur_(1914)>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
+## <https://en.wikipedia.org/wiki/Siege_of_Novogeorgievsk>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
 ## <https://en.wikipedia.org/wiki/Siege_of_Yorktown>
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
@@ -3090,6 +3173,10 @@
 ## <https://en.wikipedia.org/wiki/Stirling_Castle>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+
+## <https://en.wikipedia.org/wiki/Strategic_Defense_Initiative>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
 ## <https://en.wikipedia.org/wiki/Sulla>
 
@@ -3970,6 +4057,10 @@
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
+## <https://tnsr.org/2021/12/a-large-number-of-small-things-a-porcupine-strategy-for-taiwan>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
 ## <https://todsworkshop.com/collections/historical-shields/products/flat-topped-kite-shield>
 
 - `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
@@ -4094,6 +4185,10 @@
 ## <https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=direct/1/ResultListView/result.t1.collection_list.$TspTitleImageLink.link&sp=10&sp=Scollection&sp=SfieldValue&sp=0&sp=1&sp=2&sp=SdetailList&sp=21&sp=Sdetail&sp=3&sp=F&sp=T&sp=41>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
+## <https://warontherocks.com/index.php?s=A2%2FAD>
+
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
 ## <https://web.archive.org/web/20110419191117/http://www.maisonstclaire.org/resources/pricelist/pricelist.html>
 
@@ -4572,6 +4667,7 @@
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
+- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
 ## <https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095425331>
 
