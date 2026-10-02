@@ -1555,13 +1555,6 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 
-## <https://acoup.blog/2019/05/05/new-acquisitions-unsullied-kit-review>
-
-- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
-- `src/content/posts/translations/acoup-lannister-infantry-kit-review.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
 ## <https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
