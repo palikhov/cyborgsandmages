@@ -1990,6 +1990,7 @@
 
 ## <https://critical-hits.com/blog/2011/02/16/the-architect-dm-open-spaces-design-toolbox>
 
+- `src/content/posts/translations/critical-hits-architect-dm-how-to-improvise-fantasy-buildings.mdx`
 - `src/content/posts/translations/critical-hits-architect-dm-negative-space-in-dungeons.mdx`
 
 ## <https://critical-hits.com/blog/2011/10/05/the-architect-dm-dungeon-interconnectivity>
