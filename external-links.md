@@ -4057,6 +4057,7 @@
 - `src/content/posts/translations/angrygm-true-mechanical-managery-experience-and-advancement-systems-ii.mdx`
 - `src/content/posts/translations/angrygm-true-mechanical-managery-experience-and-advancement-systems.mdx`
 - `src/content/posts/translations/angrygm-true-mechanical-managery-when-death-comes-calling-ii.mdx`
+- `src/content/posts/translations/angrygm-true-mechanical-managery.mdx`
 
 ## <https://theangrygm.com/wp-content/uploads/2017/09/Herbalism-for-DD.pdf>
 
