@@ -1057,6 +1057,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
 
+## <http://www.boingboing.net/2011/02/17/hand-drawn-dd-maps-o.html>
+
+- `src/content/posts/translations/critical-hits-architect-dm-negative-space-in-dungeons.mdx`
+
 ## <http://www.brandesstoddard.com/2016/12/dd-5e-alternate-threat-tracks>
 
 - `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
@@ -1981,7 +1985,12 @@
 
 ## <https://critical-hits.com/blog/2010/10/20/the-architect-dm-give-it-some-structure>
 
+- `src/content/posts/translations/critical-hits-architect-dm-negative-space-in-dungeons.mdx`
 - `src/content/posts/translations/critical-hits-architect-dm-structural-dungeon-design.mdx`
+
+## <https://critical-hits.com/blog/2011/02/16/the-architect-dm-open-spaces-design-toolbox>
+
+- `src/content/posts/translations/critical-hits-architect-dm-negative-space-in-dungeons.mdx`
 
 ## <https://critical-hits.com/blog/2011/10/05/the-architect-dm-dungeon-interconnectivity>
 
