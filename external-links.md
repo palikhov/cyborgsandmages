@@ -10,6 +10,10 @@
 
 - `src/content/posts/translations/hackslashmaster-magical-plus-one-weapons.mdx`
 
+## <http://anydice.com/program/12e6>
+
+- `src/content/posts/translations/critical-hits-dd-advantage-vs-flat-bonuses.mdx`
+
 ## <http://apocalypse-world.com>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-2-game-structure-basics.mdx`
@@ -1243,6 +1247,10 @@
 ## <http://www.fallenearth.com>
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
+
+## <http://www.flickr.com/photos/megabee>
+
+- `src/content/posts/translations/critical-hits-dd-advantage-vs-flat-bonuses.mdx`
 
 ## <http://www.gameinformer.com/games/the_elder_scrolls_v_skyrim/b/xbox360/archive/2011/01/17/the-technology-behind-elder-scrolls-v-skyrim.aspx>
 
