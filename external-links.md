@@ -1897,6 +1897,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
+## <https://boardgamegeek.com>
+
+- `src/content/posts/translations/angrygm-two-game-mechanics.mdx`
+
 ## <https://books.google.ca/books/about/Feudal_Society_in_Medieval_France.html?id=Hb8UDJM90-wC&redir_esc=y>
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
@@ -4028,10 +4032,6 @@
 
 - `src/content/posts/translations/angrygm-i-hate-ability-scores.mdx`
 
-## <https://theangrygm.com/a-wandering-and-a-a-wondering>
-
-- `src/content/posts/translations/angrygm-between-jobs.mdx`
-
 ## <https://theangrygm.com/babys-first-dungeon-1>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
@@ -4061,6 +4061,10 @@
 
 - `src/content/posts/translations/angrygm-crafting-herbcraft-part-1.mdx`
 
+## <https://theangrygm.com/how-i-learned-to-hate-the-dice>
+
+- `src/content/posts/translations/angrygm-ask-angry-called-shots-and-colossuses.mdx`
+
 ## <https://theangrygm.com/lets-build-a-pretty-good-dungeon-series>
 
 - `src/content/posts/translations/angrygm-map-a-pretty-good-dungeon.mdx`
@@ -4074,9 +4078,17 @@
 - `src/content/posts/translations/angrygm-f-cr-theres-a-better-way-part-2.mdx`
 - `src/content/posts/translations/angrygm-monster-building-202.mdx`
 
+## <https://theangrygm.com/ringing-in-the-new-game>
+
+- `src/content/posts/translations/angrygm-angry-open-world.mdx`
+
 ## <https://theangrygm.com/series/crafting-crafting>
 
 - `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
+
+## <https://theangrygm.com/session-zero-part-zero>
+
+- `src/content/posts/translations/angrygm-angry-open-world.mdx`
 
 ## <https://theangrygm.com/take-the-suck-out-of-inspiration>
 
@@ -4084,6 +4096,7 @@
 
 ## <https://theangrygm.com/the-fall-of-silverpine-watch>
 
+- `src/content/posts/translations/angrygm-ask-angry-called-shots-and-colossuses.mdx`
 - `src/content/posts/translations/angrygm-awesome-first-adventure-template.mdx`
 
 ## <https://theangrygm.com/true-campaign-managery>
@@ -4172,6 +4185,10 @@
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/ArmorIsUseless>
 
 - `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
+
+## <https://tvtropes.org/pmwiki/pmwiki.php/Main/FightWoosh>
+
+- `src/content/posts/translations/angrygm-two-game-mechanics.mdx`
 
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss>
 
@@ -4882,6 +4899,10 @@
 ## <https://www.whatsapp.com>
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
+
+## <https://www.youtube.com/channel/UClOYVGj0DjerkCd8norpANQ>
+
+- `src/content/posts/translations/angrygm-a-wandering-and-a-a-wondering.mdx`
 
 ## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
 
