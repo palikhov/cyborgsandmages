@@ -23,6 +23,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-13-custom-structures.mdx`
 
+## <http://archive.wizards.com/DnD/Article.aspx?x=dnd/4pod/20071005e16>
+
+- `src/content/posts/translations/angrygm-monster-building-202.mdx`
+
 ## <http://archive.wizards.com/default.asp?x=dnd/rl/20060727a>
 
 - `src/content/posts/translations/flutesloot-formulas-for-crafting-popular-magic-items-5e.mdx`
@@ -102,6 +106,10 @@
 ## <http://dictionary.reference.com/browse/ovate>
 
 - `src/content/posts/translations/tribality-druid-class-part-two.mdx`
+
+## <http://digressionsanddragons.com>
+
+- `src/content/posts/translations/angrygm-fix-yourself-break-the-game.mdx`
 
 ## <http://dnd.wizards.com/articles/features/awakened-mystic>
 
@@ -360,6 +368,10 @@
 
 - `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
 
+## <http://gregbilsland.wordpress.com/2010/08/12/my-dungeon-has-empty-rooms>
+
+- `src/content/posts/translations/angrygm-schrodinger-chekhov-samus.mdx`
+
 ## <http://gregorhutton.com/boxninja/threesixteen>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -614,6 +626,10 @@
 
 - `src/content/posts/translations/hackslashmaster-illusion-can-rob-your-game-of-fun.mdx`
 
+## <http://thegeniusinc.com/dd-monster-maker-download?ref=2.3.3>
+
+- `src/content/posts/translations/angrygm-monster-building-202.mdx`
+
 ## <http://theonyxpath.com/category/projects/magetheawakening>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -657,6 +673,10 @@
 ## <http://tvtropes.org/pmwiki/pmwiki.php/Main/FiveManBand>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <http://tvtropes.org/pmwiki/pmwiki.php/Main/Metroidvania>
+
+- `src/content/posts/translations/angrygm-schrodinger-chekhov-samus.mdx`
 
 ## <http://udan-adan.blogspot.com/2015/06/on-romance-in-fantasy-rpgs.html>
 
@@ -2033,6 +2053,14 @@
 ## <https://drawtherestoftheowlbear.blogspot.com/2024/02/you-cant-elide-what-doesnt-exist.html>
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
+
+## <https://drive.google.com/file/d/0B2RlGhhWYcFtYnF0VFQ0a3hCcEU/view?usp=sharing>
+
+- `src/content/posts/translations/angrygm-monster-building-202.mdx`
+
+## <https://drive.google.com/file/d/0B2RlGhhWYcFtdnJiV2ppd3YwUTg/view?usp=sharing>
+
+- `src/content/posts/translations/angrygm-monster-building-202.mdx`
 
 ## <https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view>
 
@@ -4044,10 +4072,15 @@
 ## <https://theangrygm.com/monster-building-201-the-dd-monster-dissection-lab>
 
 - `src/content/posts/translations/angrygm-f-cr-theres-a-better-way-part-2.mdx`
+- `src/content/posts/translations/angrygm-monster-building-202.mdx`
 
 ## <https://theangrygm.com/series/crafting-crafting>
 
 - `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
+
+## <https://theangrygm.com/take-the-suck-out-of-inspiration>
+
+- `src/content/posts/translations/angrygm-fix-yourself-break-the-game.mdx`
 
 ## <https://theangrygm.com/the-fall-of-silverpine-watch>
 
@@ -4220,6 +4253,7 @@
 ## <https://valloric.github.io/statblock5e>
 
 - `src/content/posts/translations/angrygm-monster-building-202-supplement.mdx`
+- `src/content/posts/translations/angrygm-monster-building-202.mdx`
 
 ## <https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=60511&viewType=detailView>
 
