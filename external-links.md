@@ -2752,6 +2752,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
+## <https://en.wikipedia.org/wiki/Health_(gaming)>
+
+- `src/content/posts/translations/gaming-logic-hit-points.mdx`
+
 ## <https://en.wikipedia.org/wiki/Henry_V_(play)>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
@@ -3407,9 +3411,13 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
-## <https://erikscottdebie.com/2017/09/05/gaming-logic-hit-points>
+## <https://erikscottdebie.com/2017/07/19/facets-of-alignment-lawful>
 
-- `src/content/posts/translations/how-much-combat-is-in-dd.mdx`
+- `src/content/posts/translations/gaming-logic-hit-points.mdx`
+
+## <https://erikscottdebie.com/2017/07/25/characters-with-class-paladins>
+
+- `src/content/posts/translations/gaming-logic-hit-points.mdx`
 
 ## <https://erikscottdebie.com/wp-content/uploads/2022/02/feats-survey.pdf>
 
@@ -3670,6 +3678,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
+## <https://plus.google.com/+JonathanTweet/posts/LXCKdDqaZUy>
+
+- `src/content/posts/translations/gaming-logic-hit-points.mdx`
+
 ## <https://plus.google.com/104927909965528500794>
 
 - `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
@@ -3737,6 +3749,10 @@
 ## <https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://rpg.stackexchange.com/questions/63613/hit-dice-vs-hit-points>
+
+- `src/content/posts/translations/gaming-logic-hit-points.mdx`
 
 ## <https://rpg.stackexchange.com/questions/96829/remembering-to-add-tracks-and-signs-of-wandering-monsters/96854>
 
@@ -4066,6 +4082,7 @@
 
 ## <https://theangrygm.com/gameangry>
 
+- `src/content/posts/translations/angrygm-angry-manual-of-style.mdx`
 - `src/content/posts/translations/angrygm-the-whatever-stat.mdx`
 
 ## <https://theangrygm.com/gaming-for-fun-part-1-eight-kinds-of-fun>
