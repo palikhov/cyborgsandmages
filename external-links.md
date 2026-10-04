@@ -4541,6 +4541,10 @@
 
 - `src/content/posts/translations/social-encounter-statblocks-dnd-5e.mdx`
 
+## <https://www.dndbeyond.com/sources/sac/sage-advice-compendium>
+
+- `src/content/posts/translations/angrygm-what-detect-magic-detects.mdx`
+
 ## <https://www.dndbeyond.com/spells/animate-dead>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
