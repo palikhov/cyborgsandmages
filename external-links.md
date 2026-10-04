@@ -3407,6 +3407,26 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://erikscottdebie.com/2017/09/05/gaming-logic-hit-points>
+
+- `src/content/posts/translations/how-much-combat-is-in-dd.mdx`
+
+## <https://erikscottdebie.com/wp-content/uploads/2022/02/feats-survey.pdf>
+
+- `src/content/posts/translations/how-much-combat-is-in-dd.mdx`
+
+## <https://erikscottdebie.com/wp-content/uploads/2022/02/invocation-survey.pdf>
+
+- `src/content/posts/translations/how-much-combat-is-in-dd.mdx`
+
+## <https://erikscottdebie.com/wp-content/uploads/2022/02/phb-combat-content-survey.xlsx>
+
+- `src/content/posts/translations/how-much-combat-is-in-dd.mdx`
+
+## <https://erikscottdebie.com/wp-content/uploads/2022/02/spells-survey.pdf>
+
+- `src/content/posts/translations/how-much-combat-is-in-dd.mdx`
+
 ## <https://evernote.com>
 
 - `src/content/posts/translations/creighton-gm-advice-4-reasons-you-should-have-a-copy-of-your-pcs-sheets.mdx`
@@ -4247,6 +4267,10 @@
 
 - `src/content/posts/translations/deep-dive-the-named-spells.mdx`
 
+## <https://twitter.com/WinningerR/status/1495110310830559235>
+
+- `src/content/posts/translations/how-much-combat-is-in-dd.mdx`
+
 ## <https://twitter.com/mikemearls/status/608068731562958848>
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
@@ -4644,6 +4668,10 @@
 ## <https://www.enworld.org/threads/dungeon-layout-map-flow-and-old-school-game-design.168563>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://www.enworld.org/threads/is-d-d-90-combat.686169>
+
+- `src/content/posts/translations/how-much-combat-is-in-dd.mdx`
 
 ## <https://www.enworld.org/threads/magic-item-math-of-5e.437937>
 
