@@ -4123,11 +4123,6 @@
 
 - `src/content/posts/translations/angrygm-crafting-away-from-the-table.mdx`
 
-## <https://theangrygm.com/monster-building-201-the-dd-monster-dissection-lab>
-
-- `src/content/posts/translations/angrygm-f-cr-theres-a-better-way-part-2.mdx`
-- `src/content/posts/translations/angrygm-monster-building-202.mdx`
-
 ## <https://theangrygm.com/phobias>
 
 - `src/content/posts/translations/angrygm-take-the-suck-out-of-inspiration.mdx`
