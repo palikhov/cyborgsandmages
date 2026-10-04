@@ -4068,6 +4068,10 @@
 
 - `src/content/posts/translations/angrygm-i-hate-ability-scores.mdx`
 
+## <https://theangrygm.com/angry-open-world-lesson-two>
+
+- `src/content/posts/translations/angrygm-angry-open-world-lesson-three-part-one.mdx`
+
 ## <https://theangrygm.com/babys-first-dungeon-1>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
@@ -4087,6 +4091,7 @@
 
 ## <https://theangrygm.com/gaming-for-fun-part-1-eight-kinds-of-fun>
 
+- `src/content/posts/translations/angrygm-angry-open-world-lesson-three-part-one.mdx`
 - `src/content/posts/translations/angrygm-designing-with-a-strong-d.mdx`
 - `src/content/posts/translations/angrygm-why-are-you-doing-this.mdx`
 
