@@ -4078,6 +4078,10 @@
 - `src/content/posts/translations/angrygm-f-cr-theres-a-better-way-part-2.mdx`
 - `src/content/posts/translations/angrygm-monster-building-202.mdx`
 
+## <https://theangrygm.com/phobias>
+
+- `src/content/posts/translations/angrygm-take-the-suck-out-of-inspiration.mdx`
+
 ## <https://theangrygm.com/ringing-in-the-new-game>
 
 - `src/content/posts/translations/angrygm-angry-open-world.mdx`
@@ -4089,10 +4093,6 @@
 ## <https://theangrygm.com/session-zero-part-zero>
 
 - `src/content/posts/translations/angrygm-angry-open-world.mdx`
-
-## <https://theangrygm.com/take-the-suck-out-of-inspiration>
-
-- `src/content/posts/translations/angrygm-fix-yourself-break-the-game.mdx`
 
 ## <https://theangrygm.com/the-fall-of-silverpine-watch>
 
@@ -4700,6 +4700,10 @@
 ## <https://www.gmwordoftheweek.com/home/alchemy>
 
 - `src/content/posts/translations/angrygm-modes-of-play-in-dd.mdx`
+
+## <https://www.gmwordoftheweek.com/home/wool>
+
+- `src/content/posts/translations/angrygm-lets-fix-inspiration-again.mdx`
 
 ## <https://www.historynet.com/women-in-war>
 
