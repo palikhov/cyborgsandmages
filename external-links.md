@@ -4136,6 +4136,11 @@
 
 - `src/content/posts/translations/angrygm-angry-open-world.mdx`
 
+## <https://theangrygm.com/start-a-campaign-1-introduction>
+
+- `src/content/posts/translations/angrygm-start-a-campaign-2-premise.mdx`
+- `src/content/posts/translations/angrygm-whats-really-in-a-campaign.mdx`
+
 ## <https://theangrygm.com/the-fall-of-silverpine-watch>
 
 - `src/content/posts/translations/angrygm-ask-angry-called-shots-and-colossuses.mdx`
@@ -4227,6 +4232,10 @@
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/ArmorIsUseless>
 
 - `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
+
+## <https://tvtropes.org/pmwiki/pmwiki.php/Main/BreatherLevel>
+
+- `src/content/posts/translations/angrygm-magic-is-bulls-in-dd.mdx`
 
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/FightWoosh>
 
@@ -4742,6 +4751,14 @@
 ## <https://www.flutesloot.com/warlock-spells-and-invocations>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.giantitp.com/comics/oots0126.html>
+
+- `src/content/posts/translations/angrygm-magic-is-bulls-in-dd.mdx`
+
+## <https://www.giantitp.com/comics/oots0206.html>
+
+- `src/content/posts/translations/angrygm-whats-really-in-a-campaign.mdx`
 
 ## <https://www.gloamhold.com>
 
