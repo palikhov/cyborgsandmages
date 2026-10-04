@@ -4080,6 +4080,10 @@
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
 
+## <https://theangrygm.com/everything-about-conflict>
+
+- `src/content/posts/translations/angrygm-motivational-xp.mdx`
+
 ## <https://theangrygm.com/from-zero-to-pitch-in-24-hours>
 
 - `src/content/posts/translations/angrygm-drowning-in-armor-systems-part-1.mdx`
@@ -4106,6 +4110,10 @@
 ## <https://theangrygm.com/how-i-learned-to-hate-the-dice>
 
 - `src/content/posts/translations/angrygm-ask-angry-called-shots-and-colossuses.mdx`
+
+## <https://theangrygm.com/how-to-actually-play-a-character>
+
+- `src/content/posts/translations/angrygm-motivational-xp.mdx`
 
 ## <https://theangrygm.com/lets-build-a-pretty-good-dungeon-series>
 
@@ -5184,6 +5192,10 @@
 ## <https://youtu.be/H0Of8a26J-4>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://youtu.be/KL1FErzQWI8>
+
+- `src/content/posts/translations/angrygm-pooling-your-information.mdx`
 
 ## <https://youtu.be/LPPLCkIhxt0>
 
