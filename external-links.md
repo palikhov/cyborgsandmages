@@ -3657,6 +3657,14 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://olddungeonmaster.com>
+
+- `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
+
+## <https://olddungeonmaster.com/2017/02/20/dd-5e-how-far-can-you-see>
+
+- `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
+
 ## <https://osricrpg.com>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -4072,6 +4080,10 @@
 
 - `src/content/posts/translations/angrygm-angry-open-world-lesson-three-part-one.mdx`
 
+## <https://theangrygm.com/as-the-game-turns>
+
+- `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
+
 ## <https://theangrygm.com/babys-first-dungeon-1>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
@@ -4119,6 +4131,10 @@
 
 - `src/content/posts/translations/angrygm-map-a-pretty-good-dungeon.mdx`
 
+## <https://theangrygm.com/manage-combat-like-a-dolphin>
+
+- `src/content/posts/translations/angrygm-fixing-initiative-part-i.mdx`
+
 ## <https://theangrygm.com/minimum-necessary-boredom>
 
 - `src/content/posts/translations/angrygm-crafting-away-from-the-table.mdx`
@@ -4155,6 +4171,10 @@
 - `src/content/posts/translations/angrygm-true-mechanical-managery-experience-and-advancement-systems.mdx`
 - `src/content/posts/translations/angrygm-true-mechanical-managery-when-death-comes-calling-ii.mdx`
 - `src/content/posts/translations/angrygm-true-mechanical-managery.mdx`
+
+## <https://theangrygm.com/true-game-mastery>
+
+- `src/content/posts/translations/angrygm-fixing-initiative-part-i.mdx`
 
 ## <https://theangrygm.com/wp-content/uploads/2017/09/Herbalism-for-DD.pdf>
 
@@ -4425,6 +4445,10 @@
 ## <https://www.amazon.com/Incarnum-Dungeons-Dragons-Fantasy-Roleplaying/dp/0786937017>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.amazon.com/Jared-Blando/e/B00IVYMNVQ>
+
+- `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
 
 ## <https://www.amazon.com/Magic-TrueName-Dungeons-Roleplaying-Supplement/dp/0786939095>
 
@@ -5152,6 +5176,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://www3.autarch.co?wpdmpro=region-hex-maps>
+
+- `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
+
 ## <https://youtu.be/-EZziqodt-g>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -5219,6 +5247,10 @@
 ## <https://youtu.be/WKU0qDpu3AM>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
+
+## <https://youtu.be/WRRd8mYLTKQ>
+
+- `src/content/posts/translations/angrygm-fixing-initiative-part-i.mdx`
 
 ## <https://youtu.be/XMT6hjwY8NQ>
 
