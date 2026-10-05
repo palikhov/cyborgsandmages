@@ -2075,6 +2075,10 @@
 - `src/content/posts/translations/angrygm-how-to-price-an-item.mdx`
 - `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
 
+## <https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA>
+
+- `src/content/posts/translations/olddungeonmaster-settlement-item-availability.mdx`
+
 ## <https://drive.google.com/file/d/0Bx9oLF40m-b8S3FDcXJiUWhZRzQ/view?usp=sharing>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xx.mdx`
@@ -3662,10 +3666,6 @@
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
 ## <https://olddungeonmaster.com>
-
-- `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
-
-## <https://olddungeonmaster.com/2017/02/20/dd-5e-how-far-can-you-see>
 
 - `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
 
