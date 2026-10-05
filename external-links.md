@@ -4658,6 +4658,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <https://www.deviantart.com/feliciacano/art/Goblin-Ambush-76841432>
+
+- `src/content/posts/translations/osr-as-applied-epistemology.mdx`
+
 ## <https://www.deviantart.com/hamboggy/art/Ye-the-Hermit-595584518>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
