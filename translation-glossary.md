@@ -33,6 +33,7 @@
 |Zhentarim|Зентарим| | |
 |Darkvision|Темнозрение| | |
 |Low-light vision|Сумеречное зрение| | |
+|Long rest|Длительный отдых| | |
 
 
 
