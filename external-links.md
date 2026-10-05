@@ -4076,14 +4076,6 @@
 
 - `src/content/posts/translations/angrygm-i-hate-ability-scores.mdx`
 
-## <https://theangrygm.com/angry-open-world-lesson-two>
-
-- `src/content/posts/translations/angrygm-angry-open-world-lesson-three-part-one.mdx`
-
-## <https://theangrygm.com/as-the-game-turns>
-
-- `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
-
 ## <https://theangrygm.com/babys-first-dungeon-1>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
@@ -4103,6 +4095,7 @@
 ## <https://theangrygm.com/gameangry>
 
 - `src/content/posts/translations/angrygm-angry-manual-of-style.mdx`
+- `src/content/posts/translations/angrygm-as-the-game-turns.mdx`
 - `src/content/posts/translations/angrygm-the-whatever-stat.mdx`
 
 ## <https://theangrygm.com/gaming-for-fun-part-1-eight-kinds-of-fun>
@@ -4127,9 +4120,17 @@
 
 - `src/content/posts/translations/angrygm-motivational-xp.mdx`
 
+## <https://theangrygm.com/how-to-run-a-biblical-campaign>
+
+- `src/content/posts/translations/angrygm-angry-open-world-lesson-four.mdx`
+
 ## <https://theangrygm.com/lets-build-a-pretty-good-dungeon-series>
 
 - `src/content/posts/translations/angrygm-map-a-pretty-good-dungeon.mdx`
+
+## <https://theangrygm.com/like-players-do>
+
+- `src/content/posts/translations/angrygm-angry-open-world-lesson-four.mdx`
 
 ## <https://theangrygm.com/manage-combat-like-a-dolphin>
 
@@ -4146,6 +4147,10 @@
 ## <https://theangrygm.com/ringing-in-the-new-game>
 
 - `src/content/posts/translations/angrygm-angry-open-world.mdx`
+
+## <https://theangrygm.com/series/angrys-open-world-game>
+
+- `src/content/posts/translations/angrygm-angry-open-world-lesson-four.mdx`
 
 ## <https://theangrygm.com/series/crafting-crafting>
 
@@ -4215,6 +4220,14 @@
 ## <https://theangrygm.com/wp-content/uploads/2020/11/Companion-Characters.pdf>
 
 - `src/content/posts/translations/angrygm-how-to-stat-friends-part-2.mdx`
+
+## <https://theangrygm.com/wp-content/uploads/Memo-to-the-Game-Master-2-Portraying-Characters.pdf>
+
+- `src/content/posts/translations/angrygm-memo-to-the-players-2.mdx`
+
+## <https://theangrygm.com/wp-content/uploads/Memo-to-the-Players-2-Portraying-Characters.pdf>
+
+- `src/content/posts/translations/angrygm-memo-to-the-players-2.mdx`
 
 ## <https://thriftomancer.itch.io/null>
 
