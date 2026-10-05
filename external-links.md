@@ -4172,6 +4172,10 @@
 
 - `src/content/posts/translations/angrygm-true-game-mastery.mdx`
 
+## <https://theangrygm.com/open-endedness-open-challenges-and-hat-theory>
+
+- `src/content/posts/translations/angrygm-rant-box-text.mdx`
+
 ## <https://theangrygm.com/phobias>
 
 - `src/content/posts/translations/angrygm-take-the-suck-out-of-inspiration.mdx`
@@ -4191,6 +4195,10 @@
 ## <https://theangrygm.com/session-zero-part-zero>
 
 - `src/content/posts/translations/angrygm-angry-open-world.mdx`
+
+## <https://theangrygm.com/speaking-off-the-cuff>
+
+- `src/content/posts/translations/angrygm-rant-box-text.mdx`
 
 ## <https://theangrygm.com/start-a-campaign-1-introduction>
 
@@ -4212,6 +4220,10 @@
 - `src/content/posts/translations/angrygm-true-mechanical-managery-experience-and-advancement-systems.mdx`
 - `src/content/posts/translations/angrygm-true-mechanical-managery-when-death-comes-calling-ii.mdx`
 - `src/content/posts/translations/angrygm-true-mechanical-managery.mdx`
+
+## <https://theangrygm.com/viewpoint-characters>
+
+- `src/content/posts/translations/angrygm-rant-box-text.mdx`
 
 ## <https://theangrygm.com/wp-content/uploads/2017/09/Herbalism-for-DD.pdf>
 

@@ -31,6 +31,8 @@
 |Striker|Атакующий| | |
 |Lurker|Скрытень| | |
 |Zhentarim|Зентарим| | |
-| | | | |
+|Darkvision|Темнозрение| | |
+|Low-light vision|Сумеречное зрение| | |
+
 
 
