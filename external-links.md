@@ -3669,6 +3669,10 @@
 
 - `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
 
+## <https://olddungeonmaster.com/2016/12/02/dd-5e-metals>
+
+- `src/content/posts/translations/olddungeonmaster-weights-of-materials.mdx`
+
 ## <https://osricrpg.com>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
