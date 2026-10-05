@@ -4076,6 +4076,10 @@
 
 - `src/content/posts/translations/angrygm-i-hate-ability-scores.mdx`
 
+## <https://theangrygm.com/angry-office-hours-1>
+
+- `src/content/posts/translations/angrygm-true-game-mastery.mdx`
+
 ## <https://theangrygm.com/babys-first-dungeon-1>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
@@ -4084,6 +4088,10 @@
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
 
+## <https://theangrygm.com/big-battle-example>
+
+- `src/content/posts/translations/angrygm-true-game-mastery.mdx`
+
 ## <https://theangrygm.com/everything-about-conflict>
 
 - `src/content/posts/translations/angrygm-motivational-xp.mdx`
@@ -4091,6 +4099,10 @@
 ## <https://theangrygm.com/from-zero-to-pitch-in-24-hours>
 
 - `src/content/posts/translations/angrygm-drowning-in-armor-systems-part-1.mdx`
+
+## <https://theangrygm.com/game-mastering-makes-no-sense>
+
+- `src/content/posts/translations/angrygm-true-game-mastery.mdx`
 
 ## <https://theangrygm.com/gameangry>
 
@@ -4124,6 +4136,10 @@
 
 - `src/content/posts/translations/angrygm-angry-open-world-lesson-four.mdx`
 
+## <https://theangrygm.com/inviting-pcs-to-act>
+
+- `src/content/posts/translations/angrygm-true-game-mastery.mdx`
+
 ## <https://theangrygm.com/lets-build-a-pretty-good-dungeon-series>
 
 - `src/content/posts/translations/angrygm-map-a-pretty-good-dungeon.mdx`
@@ -4136,9 +4152,17 @@
 
 - `src/content/posts/translations/angrygm-fixing-initiative-part-i.mdx`
 
+## <https://theangrygm.com/master-a-game>
+
+- `src/content/posts/translations/angrygm-true-game-mastery.mdx`
+
 ## <https://theangrygm.com/minimum-necessary-boredom>
 
 - `src/content/posts/translations/angrygm-crafting-away-from-the-table.mdx`
+
+## <https://theangrygm.com/narration-through-visualization>
+
+- `src/content/posts/translations/angrygm-true-game-mastery.mdx`
 
 ## <https://theangrygm.com/phobias>
 
@@ -4165,6 +4189,10 @@
 - `src/content/posts/translations/angrygm-start-a-campaign-2-premise.mdx`
 - `src/content/posts/translations/angrygm-whats-really-in-a-campaign.mdx`
 
+## <https://theangrygm.com/tao-of-dice>
+
+- `src/content/posts/translations/angrygm-true-game-mastery.mdx`
+
 ## <https://theangrygm.com/the-fall-of-silverpine-watch>
 
 - `src/content/posts/translations/angrygm-ask-angry-called-shots-and-colossuses.mdx`
@@ -4176,10 +4204,6 @@
 - `src/content/posts/translations/angrygm-true-mechanical-managery-experience-and-advancement-systems.mdx`
 - `src/content/posts/translations/angrygm-true-mechanical-managery-when-death-comes-calling-ii.mdx`
 - `src/content/posts/translations/angrygm-true-mechanical-managery.mdx`
-
-## <https://theangrygm.com/true-game-mastery>
-
-- `src/content/posts/translations/angrygm-fixing-initiative-part-i.mdx`
 
 ## <https://theangrygm.com/wp-content/uploads/2017/09/Herbalism-for-DD.pdf>
 
