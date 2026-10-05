@@ -622,6 +622,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
+## <http://tetra-cube.com/dnd/dnd-statblock.html>
+
+- `src/content/posts/translations/angrygm-how-to-f-cr-practical-example-1.mdx`
+
 ## <http://thealexandrian.net/wordpress/2434/roleplaying-games/on-the-importance-of-spherical-cows>
 
 - `src/content/posts/translations/hackslashmaster-illusion-can-rob-your-game-of-fun.mdx`
@@ -4216,6 +4220,7 @@
 ## <https://theangrygm.com/wp-content/uploads/2019/10/Monster-Stats-by-Tier.pdf>
 
 - `src/content/posts/translations/angrygm-f-cr-theres-a-better-way-part-2.mdx`
+- `src/content/posts/translations/angrygm-how-to-f-cr-practical-example-1.mdx`
 
 ## <https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-Original.xlsx>
 
