@@ -4152,6 +4152,10 @@
 
 - `src/content/posts/translations/angrygm-map-a-pretty-good-dungeon.mdx`
 
+## <https://theangrygm.com/lets-start-at-the-very-end>
+
+- `src/content/posts/translations/angrygm-managing-information-part-1.mdx`
+
 ## <https://theangrygm.com/like-players-do>
 
 - `src/content/posts/translations/angrygm-angry-open-world-lesson-four.mdx`
