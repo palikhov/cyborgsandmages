@@ -4087,10 +4087,15 @@
 ## <https://theangrygm.com/babys-first-dungeon-1>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
+- `src/content/posts/translations/angrygm-start-a-campaign-1-introduction.mdx`
 
 ## <https://theangrygm.com/babys-first-dungeon-2>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
+
+## <https://theangrygm.com/designing-on-purpose>
+
+- `src/content/posts/translations/angrygm-anatomy-of-a-game.mdx`
 
 ## <https://theangrygm.com/everything-about-conflict>
 
@@ -4105,6 +4110,7 @@
 - `src/content/posts/translations/angrygm-angry-manual-of-style.mdx`
 - `src/content/posts/translations/angrygm-angry-office-hours-1.mdx`
 - `src/content/posts/translations/angrygm-as-the-game-turns.mdx`
+- `src/content/posts/translations/angrygm-start-a-campaign-1-introduction.mdx`
 - `src/content/posts/translations/angrygm-the-whatever-stat.mdx`
 
 ## <https://theangrygm.com/gaming-for-fun-part-1-eight-kinds-of-fun>
@@ -4174,6 +4180,10 @@
 
 - `src/content/posts/translations/angrygm-take-the-suck-out-of-inspiration.mdx`
 
+## <https://theangrygm.com/podcast/q-and-angry-the-anatomy-of-a-game>
+
+- `src/content/posts/translations/angrygm-anatomy-of-a-game.mdx`
+
 ## <https://theangrygm.com/ringing-in-the-new-game>
 
 - `src/content/posts/translations/angrygm-angry-open-world.mdx`
@@ -4194,11 +4204,6 @@
 
 - `src/content/posts/translations/angrygm-rant-box-text.mdx`
 
-## <https://theangrygm.com/start-a-campaign-1-introduction>
-
-- `src/content/posts/translations/angrygm-start-a-campaign-2-premise.mdx`
-- `src/content/posts/translations/angrygm-whats-really-in-a-campaign.mdx`
-
 ## <https://theangrygm.com/tao-of-dice>
 
 - `src/content/posts/translations/angrygm-true-game-mastery.mdx`
@@ -4214,6 +4219,13 @@
 - `src/content/posts/translations/angrygm-true-mechanical-managery-experience-and-advancement-systems.mdx`
 - `src/content/posts/translations/angrygm-true-mechanical-managery-when-death-comes-calling-ii.mdx`
 - `src/content/posts/translations/angrygm-true-mechanical-managery.mdx`
+
+## <https://theangrygm.com/true-scenario-designery>
+
+- `src/content/posts/translations/angrygm-anatomy-of-a-game.mdx`
+- `src/content/posts/translations/angrygm-angrys-five-rules-for-amazing-adventure-design.mdx`
+- `src/content/posts/translations/angrygm-momentum-building-victory.mdx`
+- `src/content/posts/translations/angrygm-what-do-players-know-anyway.mdx`
 
 ## <https://theangrygm.com/viewpoint-characters>
 
@@ -4745,6 +4757,10 @@
 ## <https://www.dragonsfoot.org>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://www.drivethrurpg.com>
+
+- `src/content/posts/translations/angrygm-start-a-campaign-1-introduction.mdx`
 
 ## <https://www.drivethrurpg.com/browse/pub/9/Malhavoc-Press>
 
