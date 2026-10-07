@@ -953,6 +953,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1939979439/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B00000DMF5/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures.mdx`
@@ -4053,6 +4057,14 @@
 
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 
+## <https://thealexandrian.net/wordpress/38104/roleplaying-games/random-gm-tip-matryoshka-search-technique>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
+
+## <https://thealexandrian.net/wordpress/39183/roleplaying-games/review-strange-revelations-the-strange>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
+
 ## <https://thealexandrian.net/wordpress/39221/roleplaying-games/call-of-cthulhu-5th-edition-revised-system-cheat-sheet>
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-katanas-trenchcoats.mdx`
@@ -4078,6 +4090,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
 
+## <https://thealexandrian.net/wordpress/40978/roleplaying-games/random-gm-tip-using-revelation-lists>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
+
 ## <https://thealexandrian.net/wordpress/4131/roleplaying-games/reactions-to-odd-experience-points>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-11-complete-game-structures.mdx`
@@ -4093,6 +4109,7 @@
 ## <https://thealexandrian.net/wordpress/43708/roleplaying-games/gm-dont-list-9-fudging>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
 
 ## <https://thealexandrian.net/wordpress/44214/roleplaying-games/remixing-avernus>
 
@@ -4171,6 +4188,7 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
 
 ## <https://thealexandrian.net/wordpress/8171/roleplaying-games/advanced-node-based-design-part-1-moving-between-nodes>
 
@@ -4204,10 +4222,6 @@
 ## <https://thealexandrian.net?p=36490>
 
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
-
-## <https://thealexandrian.net?p=40698>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
 
 ## <https://thealexandrian.net?p=44705>
 
