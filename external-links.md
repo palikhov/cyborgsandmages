@@ -31,6 +31,10 @@
 
 - `src/content/posts/translations/flutesloot-formulas-for-crafting-popular-magic-items-5e.mdx`
 
+## <http://arsludi.lamemage.com/index.php/29/same-description-same-rule>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
 ## <http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
@@ -110,6 +114,34 @@
 ## <http://digressionsanddragons.com>
 
 - `src/content/posts/translations/angrygm-fix-yourself-break-the-game.mdx`
+
+## <http://dmdavid.com/tag/hitting-the-to-hit-sweet-spot>
+
+- `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
+
+## <http://dmdavid.com/tag/how-dd-next-moves-toward-a-simpler-core-game>
+
+- `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
+
+## <http://dmdavid.com/tag/in-dd-next-ability-modifiers-are-too-small-for-the-ability-check-mechanic>
+
+- `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
+
+## <http://dmdavid.com/tag/matters-of-taste>
+
+- `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
+
+## <http://dmdavid.com/tag/saving-throw-proficiency-and-ghouls>
+
+- `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
+
+## <http://dmdavid.com/tag/the-brilliance-of-unrealistic-hit-points>
+
+- `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
+
+## <http://dmdavid.com/tag/two-problems-that-provoked-bounded-accuracy>
+
+- `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
 
 ## <http://dnd.wizards.com/articles/features/awakened-mystic>
 
@@ -1316,6 +1348,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
+## <http://www.howlingtower.com/2012/01/to-hit-vs-armor-class.html>
+
+- `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
+
 ## <http://www.ibiblio.org/mscorbit/beta/cropland.zip>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xiii.mdx`
@@ -2045,6 +2081,10 @@
 ## <https://delvingwolf.blogspot.com>
 
 - `src/content/posts/translations/billhook-cities-fixed-at-last.mdx`
+
+## <https://dmdavid.com/tag/using-the-small-world-principle-to-build-a-better-game>
+
+- `src/content/posts/translations/dmdavid-bring-character-backstory-into-campaigns.mdx`
 
 ## <https://dmdavid.com/tag/what-is-the-typical-amout-of-treasure-awarded-in-a-fifth-edition-dungeons-dragons-campaign>
 
@@ -3482,6 +3522,10 @@
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
 
+## <https://freeleaguepublishing.com/games/alien>
+
+- `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
+
 ## <https://friendorfoe.com/d/Old%20School%20Primer.pdf>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -3798,6 +3842,10 @@
 
 - `src/content/posts/translations/creighton-how-i-use-slack-to-help-run-my-campaign.mdx`
 
+## <https://slyflourish.com>
+
+- `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
+
 ## <https://songoftheblade.wordpress.com/2016/10/13/a-history-of-the-fighters-extra-attacks-versus-low-level-monsters>
 
 - `src/content/posts/translations/tribality-fighter-class-part-one.mdx`
@@ -3846,6 +3894,10 @@
 ## <https://store.steampowered.com/app/871530/Radio_Commander>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://thealexandrian.net>
+
+- `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
 
 ## <https://thealexandrian.net/gamemastery-101>
 
@@ -3905,9 +3957,17 @@
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
 
+## <https://thealexandrian.net/wordpress/237/roleplaying-games/the-tomb-of-horrors>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-2-rolling-to-failure.mdx`
+
 ## <https://thealexandrian.net/wordpress/2662/roleplaying-games/a-nomenclature-of-dd-editions>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+
+## <https://thealexandrian.net/wordpress/31520/roleplaying-games/the-art-of-pacing-part-2-scene-framing>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
 
 ## <https://thealexandrian.net/wordpress/33791/roleplaying-games/the-art-of-pacing-part-5-advanced-techniques>
 
@@ -3973,6 +4033,19 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-katanas-trenchcoats.mdx`
 
+## <https://thealexandrian.net/wordpress/39303/roleplaying-games/gm-dont-list-5-not-knowing-the-rules>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
+
+## <https://thealexandrian.net/wordpress/39378/roleplaying-games/gm-dont-list-6-choose-your-own-adventure>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
+## <https://thealexandrian.net/wordpress/39682/roleplaying-games/gm-dont-list-7-preempting-investigation>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
 ## <https://thealexandrian.net/wordpress/39941/roleplaying-games/scenario-structure-challenge>
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
@@ -3993,9 +4066,17 @@
 
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 
+## <https://thealexandrian.net/wordpress/43708/roleplaying-games/gm-dont-list-9-fudging>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
 ## <https://thealexandrian.net/wordpress/44214/roleplaying-games/remixing-avernus>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
+## <https://thealexandrian.net/wordpress/44589/roleplaying-games/gm-dont-list-10-idea-rolls>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
 
 ## <https://thealexandrian.net/wordpress/44693/roleplaying-games/remixing-avernus-addendum-elturian-names>
 
@@ -4009,10 +4090,30 @@
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
 
+## <https://thealexandrian.net/wordpress/44891/roleplaying-games/gm-dont-list-11-description-on-demand>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
 ## <https://thealexandrian.net/wordpress/46020/roleplaying-games/5e-hexcrawl>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
+
+## <https://thealexandrian.net/wordpress/47140/uncategorized/gm-dont-list-12-mail-carrier-scenario-hooks>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
+## <https://thealexandrian.net/wordpress/48312/roleplaying-games/gm-dont-list-13-boxed-text-pitfalls>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
+## <https://thealexandrian.net/wordpress/50454/roleplaying-games/gm-dont-list-18-too-precious-encounters>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
+## <https://thealexandrian.net/wordpress/51025/roleplaying-games/gm-dont-list-19-ignoring-character-backstories>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
 
 ## <https://thealexandrian.net/wordpress/51068/roleplaying-games/empower-your-prep-the-rachov-principle>
 
@@ -4037,6 +4138,10 @@
 ## <https://thealexandrian.net/wordpress/700/roleplaying-games/advanced-rules-diplomacy>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
+## <https://thealexandrian.net/wordpress/7842/roleplaying-games/justins-house-rules-for-odd>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
 
 ## <https://thealexandrian.net/wordpress/7949/roleplaying-games/node-based-scenario-design-part-1-the-plotted-approach>
 
@@ -4076,13 +4181,41 @@
 
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
 
+## <https://thealexandrian.net?p=40698>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
 ## <https://thealexandrian.net?p=44705>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
 
+## <https://thealexandrian.net?p=48717>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
+## <https://thealexandrian.net?p=49152>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
+## <https://thealexandrian.net?p=50254>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
+## <https://thealexandrian.net?p=50279>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
+## <https://thealexandrian.net?p=52303>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+
 ## <https://theangrygm.com/30-days-of-rpg-a-day-in-one-day>
 
 - `src/content/posts/translations/angrygm-i-hate-ability-scores.mdx`
+
+## <https://theangrygm.com/a-scenario-design-interlude-why-are-we-here>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
 
 ## <https://theangrygm.com/babys-first-dungeon-1>
 
@@ -4093,9 +4226,9 @@
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
 
-## <https://theangrygm.com/designing-on-purpose>
+## <https://theangrygm.com/challenge-or-goal>
 
-- `src/content/posts/translations/angrygm-anatomy-of-a-game.mdx`
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
 
 ## <https://theangrygm.com/everything-about-conflict>
 
@@ -4110,6 +4243,7 @@
 - `src/content/posts/translations/angrygm-angry-manual-of-style.mdx`
 - `src/content/posts/translations/angrygm-angry-office-hours-1.mdx`
 - `src/content/posts/translations/angrygm-as-the-game-turns.mdx`
+- `src/content/posts/translations/angrygm-designing-on-purpose.mdx`
 - `src/content/posts/translations/angrygm-start-a-campaign-1-introduction.mdx`
 - `src/content/posts/translations/angrygm-the-whatever-stat.mdx`
 
@@ -4118,6 +4252,10 @@
 - `src/content/posts/translations/angrygm-angry-open-world-lesson-three-part-one.mdx`
 - `src/content/posts/translations/angrygm-designing-with-a-strong-d.mdx`
 - `src/content/posts/translations/angrygm-why-are-you-doing-this.mdx`
+
+## <https://theangrygm.com/gaming-in-fits-and-starts>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
 
 ## <https://theangrygm.com/hashtag-adventure-goals>
 
@@ -4139,9 +4277,17 @@
 
 - `src/content/posts/translations/angrygm-angry-open-world-lesson-four.mdx`
 
+## <https://theangrygm.com/inertia-fighting-failure>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
+
 ## <https://theangrygm.com/inviting-pcs-to-act>
 
 - `src/content/posts/translations/angrygm-true-game-mastery.mdx`
+
+## <https://theangrygm.com/just-design-a-good-game>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
 
 ## <https://theangrygm.com/lets-build-a-pretty-good-dungeon-series>
 
@@ -4168,13 +4314,23 @@
 
 - `src/content/posts/translations/angrygm-crafting-away-from-the-table.mdx`
 
+## <https://theangrygm.com/momentous-and-inertial-adventure-design>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
+
 ## <https://theangrygm.com/narration-through-visualization>
 
 - `src/content/posts/translations/angrygm-true-game-mastery.mdx`
 
+## <https://theangrygm.com/office-hours-is-attrition-inertia>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
+
 ## <https://theangrygm.com/open-endedness-open-challenges-and-hat-theory>
 
 - `src/content/posts/translations/angrygm-rant-box-text.mdx`
+- `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
 
 ## <https://theangrygm.com/phobias>
 
@@ -4184,9 +4340,17 @@
 
 - `src/content/posts/translations/angrygm-anatomy-of-a-game.mdx`
 
+## <https://theangrygm.com/quality-wins-and-losses>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
+
 ## <https://theangrygm.com/ringing-in-the-new-game>
 
 - `src/content/posts/translations/angrygm-angry-open-world.mdx`
+
+## <https://theangrygm.com/scenario-design-that-makes-a-statement>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
 
 ## <https://theangrygm.com/series/angrys-open-world-game>
 
@@ -4204,6 +4368,18 @@
 
 - `src/content/posts/translations/angrygm-rant-box-text.mdx`
 
+## <https://theangrygm.com/struction-an-introduction-to-structure>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
+
+## <https://theangrygm.com/structure-all-the-way-down>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
+
+## <https://theangrygm.com/support-theangrygm-com>
+
+- `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
+
 ## <https://theangrygm.com/tao-of-dice>
 
 - `src/content/posts/translations/angrygm-true-game-mastery.mdx`
@@ -4220,16 +4396,25 @@
 - `src/content/posts/translations/angrygm-true-mechanical-managery-when-death-comes-calling-ii.mdx`
 - `src/content/posts/translations/angrygm-true-mechanical-managery.mdx`
 
-## <https://theangrygm.com/true-scenario-designery>
-
-- `src/content/posts/translations/angrygm-anatomy-of-a-game.mdx`
-- `src/content/posts/translations/angrygm-angrys-five-rules-for-amazing-adventure-design.mdx`
-- `src/content/posts/translations/angrygm-momentum-building-victory.mdx`
-- `src/content/posts/translations/angrygm-what-do-players-know-anyway.mdx`
-
 ## <https://theangrygm.com/viewpoint-characters>
 
 - `src/content/posts/translations/angrygm-rant-box-text.mdx`
+
+## <https://theangrygm.com/what-is-scenario-design>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
+
+## <https://theangrygm.com/what-makes-a-challenge>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
+
+## <https://theangrygm.com/when-is-a-scenario-not-a-scenario>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
+
+## <https://theangrygm.com/win-lose-or-draw>
+
+- `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
 
 ## <https://theangrygm.com/wp-content/uploads/2017/09/Herbalism-for-DD.pdf>
 
@@ -4441,6 +4626,10 @@
 ## <https://web.archive.org/web/20110902100434/http://www222.pair.com/sjohn/blueroom/plots.htm>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
+
+## <https://web.archive.org/web/20120707065112/wizards.com/DnD/Article.aspx?x=dnd/4ll/20120604>
+
+- `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
 
 ## <https://welshpiper.com/hex-based-campaign-design-part-1?sfw=pass1729610011>
 
@@ -4733,6 +4922,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <https://www.dmsguild.com>
+
+- `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
+
 ## <https://www.dmsguild.com/product/246330/The-Commander--A-Class-of-Leadership-and-Combat-Tactics>
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
@@ -4765,6 +4958,10 @@
 ## <https://www.drivethrurpg.com/browse/pub/9/Malhavoc-Press>
 
 - `src/content/posts/translations/tribality-fighter-class-part-eight.mdx`
+
+## <https://www.drivethrurpg.com/en>
+
+- `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
 
 ## <https://www.drivethrurpg.com/en/product/351723/level-up-your-background>
 
