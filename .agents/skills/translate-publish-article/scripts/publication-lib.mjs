@@ -129,8 +129,13 @@ export async function validateArticle(root, path, options = {}, text = readFileS
   for (const field of ['title', 'author', 'translator']) if (typeof data[field] !== 'string' || !data[field].trim()) errors.push(`Missing ${field}`);
   if (typeof data.description !== 'string' || !data.description.startsWith('ПЕРЕВОД - ') || data.description.includes('#')) errors.push('Invalid translation description');
   if ('draft' in data) errors.push('Do not include draft');
-  if (typeof data.date !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(data.date) || !Number.isFinite(Date.parse(data.date)) || new Date(data.date).toISOString().slice(0, 10) !== data.date) errors.push('Invalid publication date');
-  if (options.date && data.date !== options.date) errors.push(`Expected publication date ${options.date}`);
+  const dateOnly = /^\d{4}-\d{2}-\d{2}$/;
+  const dateTime = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})$/;
+  const publicationDay = typeof data.date === 'string' && (dateOnly.test(data.date) || dateTime.test(data.date)) && Number.isFinite(Date.parse(data.date))
+    ? data.date.slice(0, 10)
+    : null;
+  if (!publicationDay || (dateOnly.test(data.date) && new Date(data.date).toISOString().slice(0, 10) !== data.date)) errors.push('Invalid publication date');
+  if (options.date && publicationDay !== options.date) errors.push(`Expected publication date ${options.date}`);
   if (options.category && path.split('/')[3] !== options.category) errors.push('Wrong category');
   const tagText = readFileSync(safePath(root, 'tag-system.md'), 'utf8');
   const canonical = new Set([...tagText.matchAll(/^\d+\. `([^`]+)`/gm)].map(m => m[1]));

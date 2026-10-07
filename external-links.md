@@ -882,6 +882,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0786966769/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-12-mail-carrier-scenario-hooks.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0935696237/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
@@ -3678,6 +3682,10 @@
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
+## <https://m.youtube.com/watch?time_continue=2&v=SiCJkdM2wcM&embeds_referring_euri=https%3A%2F%2Fthealexandrian.net%2F&source_ve_path=Mjg2NjY&feature=emb_logo>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+
 ## <https://magic.wizards.com/en/articles/archive/making-magic/ten-things-every-game-needs-part-1-part-2-2011-12-19>
 
 - `src/content/posts/translations/angrygm-the-gms-burden-and-other-stories.mdx`
@@ -3806,6 +3814,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
 
+## <https://pxhere.com/en/photo/968633>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-12-mail-carrier-scenario-hooks.mdx`
+
 ## <https://retiredadventurer.blogspot.com/2013/03/roles-and-tasks-for-pc-groups.html>
 
 - `src/content/posts/translations/encounter-grid-six-years-out.mdx`
@@ -3911,6 +3923,14 @@
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
 
+## <https://stock.adobe.com/images/dice-bag-filled-with-multicolor-dice/422399858>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
+
+## <https://stock.adobe.com/images/large-cave-with-piles-of-gold-vector-cartoon-illustration-of-underground-dungeon-with-treasure-chest-full-of-golden-coins-sparkling-gemstones-jewelry-medieval-swords-adventure-game-background/653096214?prev_url=detail>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
+
 ## <https://store.steampowered.com/app/1434950/HighFleet>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
@@ -3922,6 +3942,10 @@
 ## <https://store.steampowered.com/app/871530/Radio_Commander>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://t.co/WfNQ9LPupJ>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
 
 ## <https://thealexandrian.net>
 
@@ -3935,6 +3959,18 @@
 ## <https://thealexandrian.net/in-the-shadow-of-the-spire>
 
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+
+## <https://thealexandrian.net/so-you-want-to-be-a-game-master>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-20-always-say-yes.mdx`
+
+## <https://thealexandrian.net/wordpress/1047/roleplaying-games/super-simple-grappling>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-5-not-knowing-the-rules.mdx`
+
+## <https://thealexandrian.net/wordpress/10651/roleplaying-games/prepping-system-cheat-sheets>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-5-not-knowing-the-rules.mdx`
 
 ## <https://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule>
 
@@ -3976,6 +4012,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 
+## <https://thealexandrian.net/wordpress/1861/roleplaying-games/keep-on-the-shadowfell-the-complete-collection>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
+
 ## <https://thealexandrian.net/wordpress/1900/roleplaying-games/treasure-maps-the-unknown-goals-in-the-megadungeon>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-3-dungeoncrawl.mdx`
@@ -3985,6 +4025,10 @@
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
 
+## <https://thealexandrian.net/wordpress/2184/roleplaying-games/ptolus-running-the-campaign-non-standard-groups>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-17-too-many-players.mdx`
+
 ## <https://thealexandrian.net/wordpress/237/roleplaying-games/the-tomb-of-horrors>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-2-rolling-to-failure.mdx`
@@ -3992,6 +4036,12 @@
 ## <https://thealexandrian.net/wordpress/2662/roleplaying-games/a-nomenclature-of-dd-editions>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+
+## <https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-5-not-knowing-the-rules.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
 
 ## <https://thealexandrian.net/wordpress/31520/roleplaying-games/the-art-of-pacing-part-2-scene-framing>
 
@@ -4001,9 +4051,25 @@
 
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 
+## <https://thealexandrian.net/wordpress/35063/board-games/thought-of-the-day-quarterbacking-in-co-op-games>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
+
+## <https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
+
+## <https://thealexandrian.net/wordpress/35587/roleplaying-games/trail-of-cthulhu-cheat-sheet>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-10-idea-rolls.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+
 ## <https://thealexandrian.net/wordpress/36383/roleplaying-games/dont-prep-plots-you-will-rue-this-day-heroes-the-principles-of-rpg-villainy>
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
 
 ## <https://thealexandrian.net/wordpress/36490/roleplaying-games/thinking-about-urbancrawls-part-2-applying-the-crawl>
 
@@ -4049,9 +4115,21 @@
 
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
 
+## <https://thealexandrian.net/wordpress/36914/roleplaying-games/the-railroading-manifesto-part-3-penumbra-of-problems>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
+
 ## <https://thealexandrian.net/wordpress/37422/roleplaying-games/dont-prep-plots-tools-not-contingencies>
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+
+## <https://thealexandrian.net/wordpress/37530/roleplaying-games/thought-of-the-day-juggling-scenario-hooks-in-a-sandbox>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
+
+## <https://thealexandrian.net/wordpress/37903/roleplaying-games/5-node-mystery>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 
 ## <https://thealexandrian.net/wordpress/37916/roleplaying-games/universal-npc-roleplaying-template>
 
@@ -4059,7 +4137,26 @@
 
 ## <https://thealexandrian.net/wordpress/38104/roleplaying-games/random-gm-tip-matryoshka-search-technique>
 
+- `src/content/posts/translations/alexandrian-gm-dont-list-10-idea-rolls.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
+
+## <https://thealexandrian.net/wordpress/38466/roleplaying-games/art-of-rulings-part-9-narrating-outcome>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
+
+## <https://thealexandrian.net/wordpress/38497/roleplaying-games/the-art-of-the-key-part-3-hierarchy-of-reference>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-5-not-knowing-the-rules.mdx`
+
+## <https://thealexandrian.net/wordpress/38547/roleplaying-games/the-art-of-the-key-part-4-adversary-rosters>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
+
+## <https://thealexandrian.net/wordpress/38643/roleplaying-games/open-table-manifesto>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-17-too-many-players.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
 
 ## <https://thealexandrian.net/wordpress/39183/roleplaying-games/review-strange-revelations-the-strange>
 
@@ -4068,30 +4165,43 @@
 ## <https://thealexandrian.net/wordpress/39221/roleplaying-games/call-of-cthulhu-5th-edition-revised-system-cheat-sheet>
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-katanas-trenchcoats.mdx`
-
-## <https://thealexandrian.net/wordpress/39303/roleplaying-games/gm-dont-list-5-not-knowing-the-rules>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
-
-## <https://thealexandrian.net/wordpress/39378/roleplaying-games/gm-dont-list-6-choose-your-own-adventure>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-10-idea-rolls.mdx`
 
 ## <https://thealexandrian.net/wordpress/39682/roleplaying-games/gm-dont-list-7-preempting-investigation>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-10-idea-rolls.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
+
+## <https://thealexandrian.net/wordpress/39885/roleplaying-games/smart-prep>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
 
 ## <https://thealexandrian.net/wordpress/39941/roleplaying-games/scenario-structure-challenge>
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
+
+## <https://thealexandrian.net/wordpress/40005/roleplaying-games/ptolus-running-the-campaign-bluebooking>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
 
 ## <https://thealexandrian.net/wordpress/4006/roleplaying-games/encumbrance-by-stone-design-notes>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
 
+## <https://thealexandrian.net/wordpress/40692/roleplaying-games/ptolus-running-the-campaign-whoops-forgot-the-wolf>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
+
+## <https://thealexandrian.net/wordpress/40931/roleplaying-games/ptolus-running-the-campaign-the-tpk-gamble>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
+
 ## <https://thealexandrian.net/wordpress/40978/roleplaying-games/random-gm-tip-using-revelation-lists>
 
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
 
 ## <https://thealexandrian.net/wordpress/4131/roleplaying-games/reactions-to-odd-experience-points>
@@ -4106,18 +4216,25 @@
 
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 
-## <https://thealexandrian.net/wordpress/43708/roleplaying-games/gm-dont-list-9-fudging>
+## <https://thealexandrian.net/wordpress/43049/roleplaying-games/feng-shui-2-system-cheat-sheet>
 
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-20-always-say-yes.mdx`
+
+## <https://thealexandrian.net/wordpress/43360/roleplaying-games/rulings-in-practice-social-skills>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
+
+## <https://thealexandrian.net/wordpress/43593/roleplaying-games/feng-shui-using-the-shot-counter>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
+
+## <https://thealexandrian.net/wordpress/44011/roleplaying-games/random-gm-tip-swap-notes-for-your-gm-screen>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
 
 ## <https://thealexandrian.net/wordpress/44214/roleplaying-games/remixing-avernus>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
-
-## <https://thealexandrian.net/wordpress/44589/roleplaying-games/gm-dont-list-10-idea-rolls>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
 
 ## <https://thealexandrian.net/wordpress/44693/roleplaying-games/remixing-avernus-addendum-elturian-names>
 
@@ -4127,34 +4244,55 @@
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
 
+## <https://thealexandrian.net/wordpress/44773/roleplaying-games/so-you-want-to-be-a-feng-shui-player>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
+
 ## <https://thealexandrian.net/wordpress/44881/roleplaying-games/remixing-avernus-part-5c-c-elturel-locations>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
 
-## <https://thealexandrian.net/wordpress/44891/roleplaying-games/gm-dont-list-11-description-on-demand>
+## <https://thealexandrian.net/wordpress/45125/roleplaying-games/icewind-dale-running-the-sandbox>
 
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
+
+## <https://thealexandrian.net/wordpress/45263/roleplaying-games/the-secret-life-of-nodes>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
+
+## <https://thealexandrian.net/wordpress/45297/roleplaying-games/random-gm-tip-the-reaction-point>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-14-fearing-the-silence.mdx`
+
+## <https://thealexandrian.net/wordpress/45834/roleplaying-games/random-gm-tip-fistfuls-of-dice>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
 
 ## <https://thealexandrian.net/wordpress/46020/roleplaying-games/5e-hexcrawl>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
 
-## <https://thealexandrian.net/wordpress/47140/uncategorized/gm-dont-list-12-mail-carrier-scenario-hooks>
+## <https://thealexandrian.net/wordpress/46186/roleplaying-games/failure-for-the-beginning-gm>
 
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-20-always-say-yes.mdx`
 
-## <https://thealexandrian.net/wordpress/48312/roleplaying-games/gm-dont-list-13-boxed-text-pitfalls>
+## <https://thealexandrian.net/wordpress/47259/roleplaying-games/random-gm-tip-splitting-the-party>
 
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-17-too-many-players.mdx`
 
-## <https://thealexandrian.net/wordpress/50454/roleplaying-games/gm-dont-list-18-too-precious-encounters>
+## <https://thealexandrian.net/wordpress/49659/roleplaying-games/review-nights-black-agents>
 
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 
-## <https://thealexandrian.net/wordpress/51025/roleplaying-games/gm-dont-list-19-ignoring-character-backstories>
+## <https://thealexandrian.net/wordpress/50260/roleplaying-games/random-gm-tip-collecting-initiative>
 
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
+
+## <https://thealexandrian.net/wordpress/50995/roleplaying-games/rpg-flags-wants-vs-warnings>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 
 ## <https://thealexandrian.net/wordpress/51068/roleplaying-games/empower-your-prep-the-rachov-principle>
 
@@ -4184,10 +4322,15 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
 
+## <https://thealexandrian.net/wordpress/7897/roleplaying-games/breathing-life-into-the-wandering-monster>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
+
 ## <https://thealexandrian.net/wordpress/7949/roleplaying-games/node-based-scenario-design-part-1-the-plotted-approach>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
 
 ## <https://thealexandrian.net/wordpress/8171/roleplaying-games/advanced-node-based-design-part-1-moving-between-nodes>
@@ -4226,26 +4369,6 @@
 ## <https://thealexandrian.net?p=44705>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
-
-## <https://thealexandrian.net?p=48717>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
-
-## <https://thealexandrian.net?p=49152>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
-
-## <https://thealexandrian.net?p=50254>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
-
-## <https://thealexandrian.net?p=50279>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
-
-## <https://thealexandrian.net?p=52303>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
 
 ## <https://theangrygm.com/30-days-of-rpg-a-day-in-one-day>
 
@@ -4772,9 +4895,25 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/0063347539/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/0358653037/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/0394527453/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/0786966009/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-12-mail-carrier-scenario-hooks.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/0786967994/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/0922335001/digitalcomi0a-20>
 
@@ -4783,6 +4922,42 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/093363501X/digitalcomi0a-20>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/158978152X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-14-fearing-the-silence.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/1933390913/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B002ZG981E/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B01CMLN9NY/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-5-not-knowing-the-rules.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B01NCO9V09/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B0771RWCH3/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B082PQKG2B/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-12-mail-carrier-scenario-hooks.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B09R26TLNY/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B09YZ37XMQ/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 
 ## <https://www.amazon.com/gp/product/0786967021/ref=as_li_tl?camp=1789&creative=9325&creativeASIN=0786967021&ie=UTF8&linkCode=as2&linkId=21961fec467b2327f97ff93b97255afb&tag=flutesloot-20>
 
@@ -5013,6 +5188,10 @@
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
 - `src/content/posts/translations/tribality-warlord-class-part-one.mdx`
+
+## <https://www.drivethrurpg.com/product/28409/MiniAdventure-1-The-Complex-of-Zombies?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
 
 ## <https://www.drivethrurpg.com/product/2956/Race-Creation-Cookbook>
 
@@ -5375,6 +5554,15 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
 
+## <https://www.youtube.com/watch?v=DrRFzwPE0d4>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
+
+## <https://www.youtube.com/watch?v=EFzQaZlyXHw>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-12-mail-carrier-scenario-hooks.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+
 ## <https://www.youtube.com/watch?v=Ej3qjUzUzQg&t=60s>
 
 - `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
@@ -5427,6 +5615,10 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
 
+## <https://www.youtube.com/watch?v=Y3E3LZzfqZA>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+
 ## <https://www.youtube.com/watch?v=ZAO4t8672hc>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
@@ -5438,6 +5630,10 @@
 ## <https://www.youtube.com/watch?v=bKK-KLDlm20>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.youtube.com/watch?v=cJiY7qvSS-k>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 
 ## <https://www.youtube.com/watch?v=cbT-8BmMtVk>
 
@@ -5454,6 +5650,10 @@
 ## <https://www.youtube.com/watch?v=jW3PFC86UNI>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.youtube.com/watch?v=mDpoSNmey0c>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
 
 ## <https://www.youtube.com/watch?v=pzNCA3hlbuQ>
 

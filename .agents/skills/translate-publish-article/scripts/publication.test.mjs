@@ -73,6 +73,13 @@ test('validation rejects broken MDX, unknown tags/fields, external images, missi
   await assert.rejects(() => validateArticle(root, article, input));
 });
 
+test('validation accepts an ISO 8601 publication timestamp with a timezone', async t => {
+  const { root, input, put } = fixture(t);
+  put(article, front(input.canonicalUrl).replace('date: 2026-09-17', 'date: "2026-09-17T12:34:56+03:00"'));
+  const result = await validateArticle(root, article, input);
+  assert.equal(result.ok, true);
+});
+
 test('failed plan leaves all files untouched; source duplicates and path traversal are rejected', async t => {
   const { root, input, put } = fixture(t);
   const before = readFileSync(join(root, article), 'utf8');
