@@ -857,6 +857,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0441569595/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/078692893X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-4-combat.mdx`
@@ -898,6 +902,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1560760850/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/156389484X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1565042492/digitalcomi0a-20>
 
@@ -1073,6 +1081,18 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B006CD1BU2/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B00EAUM1GW/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B00NP06DJE/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B011MHBDH8/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
 
 ## <http://www.amazon.com/gp/product/0935696199/ref=as_li_qf_sp_asin_il_tl>
 
@@ -1439,6 +1459,10 @@
 ## <http://www.migellito.blogspot.com/search/label/Nicodemus>
 
 - `src/content/posts/translations/pointcrawling-sigils-undercity.mdx`
+
+## <http://www.modiphius.com/infinity.html>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
 
 ## <http://www.nytimes.com/2009/02/10/nyregion/10indulgence.html>
 
