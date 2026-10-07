@@ -899,6 +899,14 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0984583505/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1401274765/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1556344546/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-3-dungeoncrawl.mdx`
@@ -937,6 +945,10 @@
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
 - `src/content/posts/translations/alexandrian-game-structures.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1601251505/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1601252293/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
@@ -956,6 +968,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1934857319/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1934859079/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1939979439/digitalcomi0a-20>
 
@@ -4041,6 +4057,7 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-5-not-knowing-the-rules.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
 
 ## <https://thealexandrian.net/wordpress/31520/roleplaying-games/the-art-of-pacing-part-2-scene-framing>
@@ -4055,6 +4072,7 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
 
 ## <https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key>
 
@@ -4139,6 +4157,7 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-10-idea-rolls.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
+- `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
 
 ## <https://thealexandrian.net/wordpress/38466/roleplaying-games/art-of-rulings-part-9-narrating-outcome>
@@ -4166,12 +4185,6 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-katanas-trenchcoats.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-10-idea-rolls.mdx`
-
-## <https://thealexandrian.net/wordpress/39682/roleplaying-games/gm-dont-list-7-preempting-investigation>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-10-idea-rolls.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
 
 ## <https://thealexandrian.net/wordpress/39885/roleplaying-games/smart-prep>
 
