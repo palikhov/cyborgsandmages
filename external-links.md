@@ -1320,6 +1320,14 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
 
+## <http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_42130&index=50>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
+
+## <http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Egerton_MS_1894>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
+
 ## <http://www.boingboing.net/2011/02/17/hand-drawn-dd-maps-o.html>
 
 - `src/content/posts/translations/critical-hits-architect-dm-negative-space-in-dungeons.mdx`
@@ -1827,6 +1835,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
 
+## <http://www.webexhibits.org/pigments/intro/history.html>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
 ## <http://www.wizards.com/default.asp?x=dnd/4ex/20080505a>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
@@ -1952,8 +1964,17 @@
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 
+## <https://acoup.blog/2020/09/18/collections-iron-how-did-they-make-it-part-i-mining>
+
+- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
+
+## <https://acoup.blog/2020/12/04/collections-that-dothraki-horde-part-i-barbarian-couture>
+
+- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
+
 ## <https://acoup.blog/2020/12/11/collections-that-dothraki-horde-part-ii-subsistence-on-the-hoof>
 
+- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
 ## <https://acoup.blog/2021/01/08/collections-that-dothraki-horde-part-iv-screamers-and-howlers>
@@ -2568,6 +2589,10 @@
 
 - `src/content/posts/translations/acoup-war-elephants-part-iii-elephant-memories.mdx`
 
+## <https://en.wikipedia.org/wiki/1200%E2%80%931300_in_European_fashion>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
 ## <https://en.wikipedia.org/wiki/1917_French_Army_mutinies>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
@@ -2620,6 +2645,10 @@
 
 - `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
 
+## <https://en.wikipedia.org/wiki/Alum>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
 ## <https://en.wikipedia.org/wiki/Amurca>
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
@@ -2652,6 +2681,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
+## <https://en.wikipedia.org/wiki/Asia_(Roman_province)>
+
+- `src/content/posts/translations/acoup-clothing-4b-cloth-money.mdx`
+
 ## <https://en.wikipedia.org/wiki/Assassin%27s_Creed>
 
 - `src/content/posts/translations/tribality-avenger-part-one-and-onlyish.mdx`
@@ -2681,6 +2714,11 @@
 ## <https://en.wikipedia.org/wiki/Barley>
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
+
+## <https://en.wikipedia.org/wiki/Bast_fibre>
+
+- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
 
 ## <https://en.wikipedia.org/wiki/Bastion>
 
@@ -2777,6 +2815,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
+## <https://en.wikipedia.org/wiki/Bertha_of_Swabia>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
+
 ## <https://en.wikipedia.org/wiki/Big_Bertha_(howitzer)>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
@@ -2784,6 +2826,10 @@
 ## <https://en.wikipedia.org/wiki/Black_box>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <https://en.wikipedia.org/wiki/Bleachfield>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
 
 ## <https://en.wikipedia.org/wiki/Boiled_leather>
 
@@ -2881,6 +2927,10 @@
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
+## <https://en.wikipedia.org/wiki/Cortex_(botany)>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
 ## <https://en.wikipedia.org/wiki/Corv%C3%A9e>
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
@@ -2905,6 +2955,10 @@
 ## <https://en.wikipedia.org/wiki/Deva_Victrix>
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
+
+## <https://en.wikipedia.org/wiki/Dipsacus>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
 
 ## <https://en.wikipedia.org/wiki/DoorDash>
 
@@ -2946,6 +3000,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 
+## <https://en.wikipedia.org/wiki/Epidermis_(botany)>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
 ## <https://en.wikipedia.org/wiki/Estates_of_the_realm>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
@@ -2979,6 +3037,19 @@
 ## <https://en.wikipedia.org/wiki/First_Battle_of_Bull_Run>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://en.wikipedia.org/wiki/Flax>
+
+- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
+## <https://en.wikipedia.org/wiki/Florence_Cathedral>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
+## <https://en.wikipedia.org/wiki/Flying_shuttle>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
 ## <https://en.wikipedia.org/wiki/Fort_Bourtange>
 
@@ -3019,6 +3090,10 @@
 ## <https://en.wikipedia.org/wiki/French_denier>
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
+
+## <https://en.wikipedia.org/wiki/Fuller%27s_earth>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
 
 ## <https://en.wikipedia.org/wiki/Fulling>
 
@@ -3100,6 +3175,14 @@
 ## <https://en.wikipedia.org/wiki/Ground-Based_Midcourse_Defense>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
+## <https://en.wikipedia.org/wiki/Guilds_of_Florence>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
+## <https://en.wikipedia.org/wiki/Guillaume_Fouace>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
 ## <https://en.wikipedia.org/wiki/Guisarme>
 
@@ -3272,6 +3355,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
+## <https://en.wikipedia.org/wiki/Lanolin>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
 ## <https://en.wikipedia.org/wiki/Latifundium>
 
 - `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
@@ -3293,6 +3380,14 @@
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
+## <https://en.wikipedia.org/wiki/Linseed_oil>
+
+- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
+
+## <https://en.wikipedia.org/wiki/Linsey-woolsey>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
+
 ## <https://en.wikipedia.org/wiki/List_of_queens_regnant>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
@@ -3304,6 +3399,10 @@
 ## <https://en.wikipedia.org/wiki/Living_Greyhawk>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://en.wikipedia.org/wiki/Loam>
+
+- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
 
 ## <https://en.wikipedia.org/wiki/Loeb_Classical_Library>
 
@@ -3385,6 +3484,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
+## <https://en.wikipedia.org/wiki/Mordant>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
 ## <https://en.wikipedia.org/wiki/Motte-and-bailey_castle>
 
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
@@ -3404,6 +3507,10 @@
 ## <https://en.wikipedia.org/wiki/Musket>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://en.wikipedia.org/wiki/Nap_(fabric)>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
 
 ## <https://en.wikipedia.org/wiki/Napoleon_Crossing_the_Alps>
 
@@ -3477,6 +3584,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 
+## <https://en.wikipedia.org/wiki/Pectin>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
 ## <https://en.wikipedia.org/wiki/Pericles>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -3489,6 +3600,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://en.wikipedia.org/wiki/Phloem>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
 ## <https://en.wikipedia.org/wiki/Physiological_cross-sectional_area>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
@@ -3497,9 +3612,17 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 
+## <https://en.wikipedia.org/wiki/Pith>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
 ## <https://en.wikipedia.org/wiki/Player%27s_Handbook>
 
 - `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
+
+## <https://en.wikipedia.org/wiki/Pleat>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
 
 ## <https://en.wikipedia.org/wiki/Plough>
 
@@ -3524,6 +3647,10 @@
 ## <https://en.wikipedia.org/wiki/Pope_Joan>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Potash_pit>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
 
 ## <https://en.wikipedia.org/wiki/Potassium_nitrate>
 
@@ -3625,6 +3752,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 
+## <https://en.wikipedia.org/wiki/Rubia_tinctorum>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
 ## <https://en.wikipedia.org/wiki/SMS_Nassau>
 
 - `src/content/posts/translations/where-does-my-main-battery-go.mdx`
@@ -3642,6 +3773,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
+## <https://en.wikipedia.org/wiki/Saponaria>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
 ## <https://en.wikipedia.org/wiki/Sarcina>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
@@ -3653,6 +3788,10 @@
 ## <https://en.wikipedia.org/wiki/Scottish_Borders>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+
+## <https://en.wikipedia.org/wiki/Sheep>
+
+- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
 
 ## <https://en.wikipedia.org/wiki/Siege>
 
@@ -3703,6 +3842,14 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 
+## <https://en.wikipedia.org/wiki/Siena_Cathedral>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
+## <https://en.wikipedia.org/wiki/Silk_Road>
+
+- `src/content/posts/translations/acoup-clothing-4b-cloth-money.mdx`
+
 ## <https://en.wikipedia.org/wiki/Silvopasture>
 
 - `src/content/posts/translations/acoup-lonely-city-part-ii-real-cities-have-curves.mdx`
@@ -3727,6 +3874,10 @@
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
+## <https://en.wikipedia.org/wiki/Staple_(wool)>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
 ## <https://en.wikipedia.org/wiki/Steven_Zirnkilton>
 
 - `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
@@ -3738,6 +3889,10 @@
 ## <https://en.wikipedia.org/wiki/Strategic_Defense_Initiative>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
+## <https://en.wikipedia.org/wiki/Strigil>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
 
 ## <https://en.wikipedia.org/wiki/Sulla>
 
@@ -3755,6 +3910,10 @@
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
+## <https://en.wikipedia.org/wiki/Tannic_acid>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
 ## <https://en.wikipedia.org/wiki/Tell_es-Sultan>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
@@ -3770,6 +3929,10 @@
 ## <https://en.wikipedia.org/wiki/Terracotta_Army>
 
 - `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
+
+## <https://en.wikipedia.org/wiki/Textiles_in_folklore>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
 ## <https://en.wikipedia.org/wiki/The_British_Grenadiers>
 
@@ -3790,6 +3953,10 @@
 ## <https://en.wikipedia.org/wiki/The_Sandman:_The_Doll%27s_House>
 
 - `src/content/posts/translations/tribality-assassin-class-redux.mdx`
+
+## <https://en.wikipedia.org/wiki/The_Shepherdess>
+
+- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
 
 ## <https://en.wikipedia.org/wiki/The_Tale_of_the_Heike>
 
@@ -3846,6 +4013,10 @@
 ## <https://en.wikipedia.org/wiki/Trajan>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://en.wikipedia.org/wiki/Transhumance>
+
+- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
 
 ## <https://en.wikipedia.org/wiki/Trebuchet>
 
@@ -3907,6 +4078,10 @@
 ## <https://en.wikipedia.org/wiki/World_War_I_memorials>
 
 - `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
+
+## <https://en.wikipedia.org/wiki/Xylem>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
 
 ## <https://en.wikipedia.org/wiki/Yari>
 
@@ -4042,6 +4217,10 @@
 ## <https://hawkstower.wordpress.com/2015/06/16/comparing-the-red-wedding-to-historical-events>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
+## <https://historicenterprises.com/fabrics-colors-c-100_198_200.html>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
 
 ## <https://historynet.com/military-history-review-from-sun-tzu-to-xbox>
 
@@ -4334,6 +4513,10 @@
 ## <https://scrollforinitiative.com/2021/02/08/how-medieval-is-dd>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
+## <https://sententiaeantiquae.com/2018/05/28/what-is-written-here-is-brief-some-roman-memorials-for-memorial-day>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
 ## <https://shop.mcdmproductions.com/collections/strongholds-followers>
 
@@ -5387,6 +5570,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
+## <https://web.archive.org/web/20070928120647/http://www.memo-online.com/article.asp?ID=PAY_SUI_MOY_002>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
+
 ## <https://web.archive.org/web/20110419191117/http://www.maisonstclaire.org/resources/pricelist/pricelist.html>
 
 - `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
@@ -5690,6 +5877,14 @@
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
+## <https://www.britishmuseum.org/collection/object/G_1814-0704-573>
+
+- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
+
+## <https://www.britishmuseum.org/collection/object/G_1873-0820-304>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
+
 ## <https://www.britishmuseum.org/collection/object/G_1894-1101-182>
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
@@ -5717,6 +5912,14 @@
 ## <https://www.britishmuseum.org/collection/object/P_1874-0509-44>
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1875-0710-996>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1882-0909-163>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
 
 ## <https://www.britishmuseum.org/collection/object/P_1924-0415-31>
 
@@ -5749,6 +5952,18 @@
 ## <https://www.britishmuseum.org/collection/object/P_E-9-170>
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_SL-5214-281>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
+## <https://www.britishmuseum.org/collection/object/W_As1974-02-36-a-d>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
+## <https://www.britishmuseum.org/collection/object/Y_EA10471-13>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
 
 ## <https://www.burningwheel.com/store/index.php/torchbearer.html>
 
@@ -5984,6 +6199,14 @@
 
 - `src/content/posts/translations/angrygm-lets-fix-inspiration-again.mdx`
 
+## <https://www.google.com/search?q=undyed+linen&client=firefox-b-1-d&sxsrf=ALeKk00eZlXuz74AJmpmprNpm-Wu8QKoFA:1617298727520&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiHspihy93vAhWmGFkFHfmuBnAQ_AUoAnoECAEQBA&biw=1920&bih=910>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
+## <https://www.google.com/search?q=undyed+wool&client=firefox-b-1-d&sxsrf=ALeKk00fhngXqc5rg-U3c8Av7rAsdn-zrg:1617298573740&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj9z-7Xyt3vAhVuFVkFHQ2wAVoQ_AUoAnoECAEQBA&biw=1920&bih=910>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
 ## <https://www.historynet.com/women-in-war>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
@@ -6051,6 +6274,10 @@
 ## <https://www.metmuseum.org/art/collection/search/33867>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+
+## <https://www.metmuseum.org/art/collection/search/548575?searchField=All&sortBy=Relevance&where=Egypt&ft=weaving&offset=40&rpp=20&pos=45>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
 ## <https://www.museicapitolini.org/en/percorso/scalone-0>
 
@@ -6139,6 +6366,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <https://www.sleuthsayers.org/2013/06/the-3500-shirt-history-lesson-in.html>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
+
 ## <https://www.smh-hq.org/jmh/jmhvols/852.html>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
@@ -6202,6 +6433,14 @@
 ## <https://www.whatsapp.com>
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
+
+## <https://www.youtube.com/@AGreatDivorce/featured>
+
+- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+- `src/content/posts/translations/acoup-clothing-4b-cloth-money.mdx`
 
 ## <https://www.youtube.com/channel/UClOYVGj0DjerkCd8norpANQ>
 
@@ -6418,6 +6657,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://youtu.be/0U1RCuJPPMk>
+
+- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
+
 ## <https://youtu.be/3w5c-U_gUJw>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
@@ -6430,6 +6673,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
+## <https://youtu.be/5_16tXT-Knc>
+
+- `src/content/posts/translations/acoup-clothing-4b-cloth-money.mdx`
+
 ## <https://youtu.be/8E6TzT0eCYs>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
@@ -6437,6 +6684,10 @@
 ## <https://youtu.be/AchISJUKfH4>
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
+
+## <https://youtu.be/ApCp4499Ykc>
+
+- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
 
 ## <https://youtu.be/Ci_ychn7ga0?t=29>
 
@@ -6453,6 +6704,10 @@
 ## <https://youtu.be/H0Of8a26J-4>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://youtu.be/Jkwlbk5s4a4>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
 
 ## <https://youtu.be/KL1FErzQWI8>
 
@@ -6478,9 +6733,17 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
 
+## <https://youtu.be/SA8oCxLN7sQ>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
 ## <https://youtu.be/TM1OpCG8_1I>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
+
+## <https://youtu.be/UUsDVFPYtGQ>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
 ## <https://youtu.be/WKU0qDpu3AM>
 
@@ -6502,10 +6765,22 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 
+## <https://youtu.be/bGbhEuqyTGo>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
+## <https://youtu.be/c3L9zWo4_r4>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
+
 ## <https://youtu.be/ek2O6bVAIQQ>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
+## <https://youtu.be/ex1Atx1tQPk>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
 ## <https://youtu.be/h3BShfhygbk>
 
@@ -6533,9 +6808,17 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
+## <https://youtu.be/qkYHIergMJI>
+
+- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
 ## <https://youtu.be/t4D-HUUTXvQ>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://youtu.be/tQYdmRw-gHM>
+
+- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
 ## <https://youtu.be/tsVBo-Gq110?t=36>
 
