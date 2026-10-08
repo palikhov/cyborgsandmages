@@ -662,6 +662,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
+## <http://technoirrpg.com>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-running-awesome-scenes.mdx`
+
 ## <http://tetra-cube.com/dnd/dnd-statblock.html>
 
 - `src/content/posts/translations/angrygm-how-to-f-cr-practical-example-1.mdx`
@@ -902,6 +906,10 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-2-scene-framing.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0880387297/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0935696237/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
@@ -910,6 +918,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/0955162300/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0970917600/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0976658062/digitalcomi0a-20>
 
@@ -926,6 +938,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1401274765/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1555601251/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-how-not-to-frame-a-scene.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1556344546/digitalcomi0a-20>
 
@@ -956,6 +972,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1589780337/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1589780701/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/158994206X/digitalcomi0a-20>
 
@@ -999,6 +1019,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1936876515/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-how-not-to-frame-a-scene.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1939979439/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
@@ -1040,6 +1064,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B000BNLVA4/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000E4CIWK/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B000F950GU/digitalcomi0a-20>
 
@@ -4026,6 +4054,7 @@
 
 ## <https://thealexandrian.net/in-the-shadow-of-the-spire>
 
+- `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 
 ## <https://thealexandrian.net/so-you-want-to-be-a-game-master>
@@ -4105,12 +4134,6 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
 
-## <https://thealexandrian.net/wordpress/32589/roleplaying-games/thought-of-the-day-how-not-to-frame-a-scene>
-
-- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
-- `src/content/posts/translations/alexandrian-art-of-pacing-3-filling-the-frame.mdx`
-- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
-
 ## <https://thealexandrian.net/wordpress/32599/roleplaying-games/film-banging-agendas-and-bangs-from-non-rpg-media>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
@@ -4165,6 +4188,7 @@
 
 ## <https://thealexandrian.net/wordpress/36542/roleplaying-games/thinking-about-urbancrawls-part-7-city-states-of-the-judges-guild>
 
+- `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
 
 ## <https://thealexandrian.net/wordpress/36553/roleplaying-games/thinking-about-urbancrawls-part-8-other-old-school-cities>
@@ -4192,27 +4216,18 @@
 - `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
 - `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
 
-## <https://thealexandrian.net/wordpress/36768/roleplaying-games/the-art-of-pacing-prepping-bangs>
-
-- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
-- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
-
 ## <https://thealexandrian.net/wordpress/36914/roleplaying-games/the-railroading-manifesto-part-3-penumbra-of-problems>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
 
 ## <https://thealexandrian.net/wordpress/37422/roleplaying-games/dont-prep-plots-tools-not-contingencies>
 
+- `src/content/posts/translations/alexandrian-art-of-pacing-running-awesome-scenes.mdx`
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 
 ## <https://thealexandrian.net/wordpress/37530/roleplaying-games/thought-of-the-day-juggling-scenario-hooks-in-a-sandbox>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
-
-## <https://thealexandrian.net/wordpress/37544/roleplaying-games/thought-of-the-day-running-awesome-scenes>
-
-- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
-- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
 
 ## <https://thealexandrian.net/wordpress/37903/roleplaying-games/5-node-mystery>
 
@@ -4410,6 +4425,7 @@
 
 ## <https://thealexandrian.net/wordpress/7897/roleplaying-games/breathing-life-into-the-wandering-monster>
 
+- `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
 
 ## <https://thealexandrian.net/wordpress/7949/roleplaying-games/node-based-scenario-design-part-1-the-plotted-approach>
@@ -4460,6 +4476,10 @@
 ## <https://thealexandrian.net?p=44705>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
+## <https://thealexandrian.net?p=640>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 
 ## <https://theangrygm.com/30-days-of-rpg-a-day-in-one-day>
 
