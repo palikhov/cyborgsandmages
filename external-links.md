@@ -384,6 +384,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <http://game-icons.net/delapouite/originals/tabletop-players.html>
+
+- `src/content/posts/translations/alexandrian-open-table-manifesto.mdx`
+
 ## <http://gameofthrones.wikia.com/wiki/Faceless_Men>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
@@ -4152,6 +4156,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
 
+## <https://stock.adobe.com/images/night-scenery-of-man-with-a-lantern-standing-on-giant-gears-in-dark-city-digital-art-style-illustration-painting/178583275>
+
+- `src/content/posts/translations/alexandrian-running-the-city.mdx`
+
 ## <https://store.steampowered.com/app/1434950/HighFleet>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
@@ -4185,6 +4193,7 @@
 - `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+- `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
 
 ## <https://thealexandrian.net/rpg-cheat-sheets>
@@ -4226,6 +4235,7 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
+- `src/content/posts/translations/alexandrian-open-table-manifesto.mdx`
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
 
 ## <https://thealexandrian.net/wordpress/13085/roleplaying-games/xandering-the-dungeon>
@@ -4373,6 +4383,8 @@
 ## <https://thealexandrian.net/wordpress/37078/roleplaying-games/eternal-lies-the-alexandrian-remix>
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+- `src/content/posts/translations/alexandrian-open-table-manifesto.mdx`
+- `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
 
 ## <https://thealexandrian.net/wordpress/37422/roleplaying-games/dont-prep-plots-tools-not-contingencies>
@@ -4414,10 +4426,9 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
 
-## <https://thealexandrian.net/wordpress/38643/roleplaying-games/open-table-manifesto>
+## <https://thealexandrian.net/wordpress/38659/roleplaying-games/open-table-manifesto-part-2-what-an-open-table-needs>
 
-- `src/content/posts/translations/alexandrian-gm-dont-list-17-too-many-players.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
+- `src/content/posts/translations/alexandrian-open-table-manifesto.mdx`
 
 ## <https://thealexandrian.net/wordpress/39183/roleplaying-games/review-strange-revelations-the-strange>
 
@@ -4427,6 +4438,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-katanas-trenchcoats.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-10-idea-rolls.mdx`
+
+## <https://thealexandrian.net/wordpress/39736/roleplaying-games/eternal-lies-addendum-hotels>
+
+- `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
 ## <https://thealexandrian.net/wordpress/39941/roleplaying-games/scenario-structure-challenge>
 
@@ -4459,10 +4474,15 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
+## <https://thealexandrian.net/wordpress/41025/roleplaying-games/blades-in-the-dark-system-cheat-sheet-v3>
+
+- `src/content/posts/translations/alexandrian-running-the-city.mdx`
+
 ## <https://thealexandrian.net/wordpress/41217/roleplaying-games/dragon-heist-remix-part-1-the-villains>
 
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+- `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
 ## <https://thealexandrian.net/wordpress/4131/roleplaying-games/reactions-to-odd-experience-points>
 
@@ -4478,6 +4498,10 @@
 - `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+
+## <https://thealexandrian.net/wordpress/42867/roleplaying-games/scenario-structure-challenge-4-heists>
+
+- `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
 ## <https://thealexandrian.net/wordpress/42944/roleplaying-games/running-the-campaign-dragon-heist-a-party-at-shipswrights-house>
 
@@ -4554,6 +4578,7 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
+- `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
 ## <https://thealexandrian.net/wordpress/46186/roleplaying-games/failure-for-the-beginning-gm>
 
@@ -4570,6 +4595,10 @@
 ## <https://thealexandrian.net/wordpress/47259/roleplaying-games/random-gm-tip-splitting-the-party>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-17-too-many-players.mdx`
+
+## <https://thealexandrian.net/wordpress/48186/roleplaying-games/running-the-city-part-2-life-in-the-city>
+
+- `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
 ## <https://thealexandrian.net/wordpress/49659/roleplaying-games/review-nights-black-agents>
 
@@ -4641,6 +4670,7 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+- `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
 ## <https://thealexandrian.net/wordpress/7961/roleplaying-games/node-based-scenario-design-part-2-choose-your-own-adventure>
 
@@ -5256,6 +5286,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-14-fearing-the-silence.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/1908983396/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-running-the-city.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/1932442510/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
@@ -5267,6 +5301,10 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/B002ZG981E/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B008CP1C5M/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/B01CMLN9NY/digitalcomi0a-20>
 
@@ -5476,6 +5514,10 @@
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
 - `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
+
+## <https://www.dmsguild.com/product/251816/Waterdeep-City-Encounters?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
 ## <https://www.dndbeyond.com/sources/basic-rules/monsters>
 
