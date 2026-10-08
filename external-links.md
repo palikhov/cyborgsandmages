@@ -87,6 +87,10 @@
 
 - `src/content/posts/translations/hackslashmaster-resurrecting-the-quantum-ogre.mdx`
 
+## <http://cavalrygames.com/ten-candles>
+
+- `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
+
 ## <http://chaudronchromatique.blogspot.com/2017/03/elven-firefighters-campaign.html>
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
@@ -420,6 +424,10 @@
 
 - `src/content/posts/translations/running-ruined-cities.mdx`
 
+## <http://hackslashmaster.blogspot.co.nz/2012/06/on-set-design.html>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
+
 ## <http://hackslashmaster.blogspot.com/2011/09/on-list-of-ways-youre-ruining-your-game.html>
 
 - `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
@@ -665,6 +673,7 @@
 ## <http://technoirrpg.com>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-running-awesome-scenes.mdx`
+- `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
 
 ## <http://tetra-cube.com/dnd/dnd-statblock.html>
 
@@ -877,6 +886,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0786916141/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/078692893X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-4-combat.mdx`
@@ -894,6 +907,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0786964626/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0786965592/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
@@ -906,14 +923,38 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-2-scene-framing.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0880380071/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0880380187/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0880387297/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0935696040/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0935696121/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0935696237/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0935696598/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0935696725/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0955162300/digitalcomi0a-20>
 
@@ -990,6 +1031,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1601251971/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1601252293/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
@@ -998,9 +1043,25 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1887801944/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1905176244/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1908983477/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1910132217/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1912200546/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1931567891/digitalcomi0a-20>
 
@@ -1018,6 +1079,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1934859079/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1934859397/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1936876515/digitalcomi0a-20>
 
@@ -1072,6 +1137,11 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B000F950GU/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000I9ILM2/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
+- `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B000JLPMPI/digitalcomi0a-20>
 
@@ -1161,6 +1231,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B004LY6LMC/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B004RE29PO/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
@@ -1180,6 +1254,14 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B00EAUM1GW/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B00GPS2Z2C/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B00JLY9OFI/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B00NP06DJE/digitalcomi0a-20>
 
@@ -1399,6 +1481,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <http://www.drivethrurpg.com/product/108572/The-Lazy-Dungeon-Master>
+
+- `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
+
 ## <http://www.drivethrurpg.com/product/109474/Dragon-and-the-Thief>
 
 - `src/content/posts/translations/creighton-dragon-and-the-thief.mdx`
@@ -1406,6 +1492,10 @@
 ## <http://www.drivethrurpg.com/product/89888/Red-Tide-Campaign-Sourcebook-and-Sandbox-Toolkit>
 
 - `src/content/posts/translations/radiant-quests-and-restocking.mdx`
+
+## <http://www.drivethrurpg.com/product/93378/Technoir>
+
+- `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
 
 ## <http://www.dungeonworldsrd.com/classes/bard>
 
@@ -1418,6 +1508,10 @@
 ## <http://www.edstephan.org/Book/contents.html>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+
+## <http://www.enworld.org/forum/showthread.php?276741-Modules-it-turns-out-apparently-DO-sell&p=5182450&viewfull=1>
+
+- `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
 
 ## <http://www.fallenearth.com>
 
@@ -1559,9 +1653,17 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
 
+## <http://www.necropraxis.com/2013/12/07/improved-area-keys>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
+
 ## <http://www.nytimes.com/2009/02/10/nyregion/10indulgence.html>
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
+
+## <http://www.onesevendesign.com/ladyblackbird>
+
+- `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
 
 ## <http://www.paperspencils.com/2017/05/28/investments-citadels-and-domains>
 
@@ -3619,6 +3721,10 @@
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
 
+## <https://explorebeneathandbeyond.blogspot.com/2023/07/saving-fazzlewood-quest-for-fazzlewood.html>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
+
 ## <https://fistsofcinderandstone.blogspot.com/2017/03/the-grandsires-enclave-look-at-automata.html>
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
@@ -3793,6 +3899,10 @@
 
 - `src/content/posts/translations/mazirians-garden-rules-for-citycrawling.mdx`
 
+## <https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf>
+
+- `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
+
 ## <https://media.wizards.com/2016/dnd/downloads/UA_Druid11272016_CAWS.pdf>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
@@ -3819,6 +3929,10 @@
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxi.mdx`
+
+## <https://newbiedm.com/2008/11/22/newbiedm-tutorial-counters-tokens-or-pogs>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
 
 ## <https://nordiclarp.org>
 
@@ -3949,6 +4063,10 @@
 
 - `src/content/posts/translations/encounter-grid-six-years-out.mdx`
 
+## <https://rpgcharacters.wordpress.com/2016/04/08/the-caravanserai>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
+
 ## <https://rpgcharacters.wordpress.com/2016/12/13/the-hall-of-daniau-the-defender>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
@@ -4014,6 +4132,10 @@
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
 
+## <https://stock.adobe.com/images/abstract-photo-of-connectivity-concept-linking-entities-hierarchy-and-hr/240226298>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-3-hierarchy-of-reference.mdx`
+
 ## <https://stock.adobe.com/images/afro-american-gamer-puts-on-vr-goggles-and-emotionally-discusses-with-holographic-avatars-of-teammates-gaming-tournament-in-meta-universe-cyberspace/506942103?prev_url=detail>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
@@ -4049,13 +4171,21 @@
 ## <https://thealexandrian.net/gamemastery-101>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
+- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 
 ## <https://thealexandrian.net/in-the-shadow-of-the-spire>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
+- `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+- `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
+
+## <https://thealexandrian.net/rpg-cheat-sheets>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-3-hierarchy-of-reference.mdx`
 
 ## <https://thealexandrian.net/so-you-want-to-be-a-game-master>
 
@@ -4083,6 +4213,11 @@
 - `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
 
+## <https://thealexandrian.net/wordpress/1217/roleplaying-games/are-we-really-this-stupid>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
+- `src/content/posts/translations/alexandrian-art-of-the-key-3-hierarchy-of-reference.mdx`
+
 ## <https://thealexandrian.net/wordpress/1223/roleplaying-games/opening-your-game-table>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
@@ -4091,6 +4226,7 @@
 
 ## <https://thealexandrian.net/wordpress/13085/roleplaying-games/xandering-the-dungeon>
 
+- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 
 ## <https://thealexandrian.net/wordpress/13103/roleplaying-games/xandering-the-dungeon-part-2-xandering-techniques>
@@ -4128,11 +4264,20 @@
 
 ## <https://thealexandrian.net/wordpress/237/roleplaying-games/the-tomb-of-horrors>
 
+- `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-2-rolling-to-failure.mdx`
+
+## <https://thealexandrian.net/wordpress/2537/roleplaying-games/ptolus-running-the-campaign-graphical-resources>
+
+- `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
 
 ## <https://thealexandrian.net/wordpress/2662/roleplaying-games/a-nomenclature-of-dd-editions>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+
+## <https://thealexandrian.net/wordpress/2747/roleplaying-games/random-gm-tip-how-to-use-published-3rd-edition-modules>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
 
 ## <https://thealexandrian.net/wordpress/32599/roleplaying-games/film-banging-agendas-and-bangs-from-non-rpg-media>
 
@@ -4149,11 +4294,6 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
-
-## <https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key>
-
-- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
 
 ## <https://thealexandrian.net/wordpress/35587/roleplaying-games/trail-of-cthulhu-cheat-sheet>
 
@@ -4220,14 +4360,23 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
 
+## <https://thealexandrian.net/wordpress/37078/roleplaying-games/eternal-lies-the-alexandrian-remix>
+
+- `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
+
 ## <https://thealexandrian.net/wordpress/37422/roleplaying-games/dont-prep-plots-tools-not-contingencies>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-running-awesome-scenes.mdx`
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+- `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
 
 ## <https://thealexandrian.net/wordpress/37530/roleplaying-games/thought-of-the-day-juggling-scenario-hooks-in-a-sandbox>
 
+- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
+- `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
+- `src/content/posts/translations/alexandrian-smart-prep-3-status-quo-design.mdx`
 
 ## <https://thealexandrian.net/wordpress/37903/roleplaying-games/5-node-mystery>
 
@@ -4236,6 +4385,10 @@
 ## <https://thealexandrian.net/wordpress/37916/roleplaying-games/universal-npc-roleplaying-template>
 
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+
+## <https://thealexandrian.net/wordpress/38047/roleplaying-games/lost-laboratories-of-arn>
+
+- `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
 
 ## <https://thealexandrian.net/wordpress/38104/roleplaying-games/random-gm-tip-matryoshka-search-technique>
 
@@ -4247,14 +4400,6 @@
 ## <https://thealexandrian.net/wordpress/38466/roleplaying-games/art-of-rulings-part-9-narrating-outcome>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
-
-## <https://thealexandrian.net/wordpress/38497/roleplaying-games/the-art-of-the-key-part-3-hierarchy-of-reference>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-5-not-knowing-the-rules.mdx`
-
-## <https://thealexandrian.net/wordpress/38547/roleplaying-games/the-art-of-the-key-part-4-adversary-rosters>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
 
 ## <https://thealexandrian.net/wordpress/38643/roleplaying-games/open-table-manifesto>
 
@@ -4270,15 +4415,14 @@
 - `src/content/posts/translations/alexandrian-game-structures-addendum-katanas-trenchcoats.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-10-idea-rolls.mdx`
 
-## <https://thealexandrian.net/wordpress/39885/roleplaying-games/smart-prep>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
-
 ## <https://thealexandrian.net/wordpress/39941/roleplaying-games/scenario-structure-challenge>
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
+
+## <https://thealexandrian.net/wordpress/39950/roleplaying-games/scenario-structure-challenge-1-raiding-the-death-star>
+
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 
 ## <https://thealexandrian.net/wordpress/40005/roleplaying-games/ptolus-running-the-campaign-bluebooking>
 
@@ -4301,6 +4445,10 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
 
+## <https://thealexandrian.net/wordpress/41217/roleplaying-games/dragon-heist-remix-part-1-the-villains>
+
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
+
 ## <https://thealexandrian.net/wordpress/4131/roleplaying-games/reactions-to-odd-experience-points>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-11-complete-game-structures.mdx`
@@ -4308,14 +4456,21 @@
 ## <https://thealexandrian.net/wordpress/4136/roleplaying-games/reactions-to-odd-encounter-probability>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
+- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
 
 ## <https://thealexandrian.net/wordpress/4154/roleplaying-games/dont-prep-plots-prepping-scenario-timelines>
 
+- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 
 ## <https://thealexandrian.net/wordpress/42944/roleplaying-games/running-the-campaign-dragon-heist-a-party-at-shipswrights-house>
 
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+
+## <https://thealexandrian.net/wordpress/42961/roleplaying-games/smart-prep-part-4-campaign-status-documents>
+
+- `src/content/posts/translations/alexandrian-smart-prep-3-status-quo-design.mdx`
 
 ## <https://thealexandrian.net/wordpress/43049/roleplaying-games/feng-shui-2-system-cheat-sheet>
 
@@ -4335,6 +4490,7 @@
 
 ## <https://thealexandrian.net/wordpress/44214/roleplaying-games/remixing-avernus>
 
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
 
 ## <https://thealexandrian.net/wordpress/44693/roleplaying-games/remixing-avernus-addendum-elturian-names>
@@ -4387,6 +4543,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 
+## <https://thealexandrian.net/wordpress/5/roleplaying-games/re-running-the-megadungeon>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
+
 ## <https://thealexandrian.net/wordpress/50260/roleplaying-games/random-gm-tip-collecting-initiative>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
@@ -4403,12 +4563,17 @@
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 
+## <https://thealexandrian.net/wordpress/5597/roleplaying-games/better-dungeon-maps-7-the-monster-roster>
+
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
+
 ## <https://thealexandrian.net/wordpress/5785/roleplaying-games/so-you-want-to-write-a-railroad>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
 
 ## <https://thealexandrian.net/wordpress/580/roleplaying-games/tales-from-the-table-in-the-depths-of-khunbaral>
 
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 
 ## <https://thealexandrian.net/wordpress/599/roleplaying-games/tales-from-the-table-bumbling-in-freeport>
@@ -4418,6 +4583,14 @@
 ## <https://thealexandrian.net/wordpress/700/roleplaying-games/advanced-rules-diplomacy>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
+## <https://thealexandrian.net/wordpress/7401/roleplaying-games/legends-labyrinths-sidebar-reference-system-srs>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-3-hierarchy-of-reference.mdx`
+
+## <https://thealexandrian.net/wordpress/7530/roleplaying-games/a-history-of-the-stat-block>
+
+- `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
 
 ## <https://thealexandrian.net/wordpress/7842/roleplaying-games/justins-house-rules-for-odd>
 
@@ -4435,6 +4608,14 @@
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
+
+## <https://thealexandrian.net/wordpress/7961/roleplaying-games/node-based-scenario-design-part-2-choose-your-own-adventure>
+
+- `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
+
+## <https://thealexandrian.net/wordpress/8157/roleplaying-games/on-the-matter-of-quantum-ogres>
+
+- `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
 
 ## <https://thealexandrian.net/wordpress/8171/roleplaying-games/advanced-node-based-design-part-1-moving-between-nodes>
 
@@ -5038,6 +5219,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-14-fearing-the-silence.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/1932442510/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/1933390913/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
@@ -5307,6 +5492,10 @@
 ## <https://www.drivethrurpg.com/product/2956/Race-Creation-Cookbook>
 
 - `src/content/posts/translations/tribality-fighter-class-part-four.mdx`
+
+## <https://www.drivethrurpg.com/product/310285/Welcome-to-the-Island-Over-the-Edge-3E-digital>
+
+- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 
 ## <https://www.drivethrurpg.com/product/337515/The-Majestic-Fantasy-RPG-Basic-Rules>
 
