@@ -396,6 +396,10 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
 
+## <http://gdrsd.org/gdrhs/faculty/michael-hoffman>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
 ## <http://gloomtrain.blogspot.com/2016/06/playing-cute.html>
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
@@ -526,6 +530,7 @@
 
 ## <http://historic-cities.huji.ac.il/historic_cities.html>
 
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 - `src/content/posts/translations/acoup-lonely-city-part-i-ideal-city.mdx`
@@ -604,6 +609,7 @@
 
 ## <http://orbis.stanford.edu>
 
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 - `src/content/posts/translations/acoup-lonely-city-part-ii-real-cities-have-curves.mdx`
 
 ## <http://paizo.com/community/blog/v5748dyo5lkm9?Fighter-Class-Preview>
@@ -1326,6 +1332,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
+## <http://www.carrborofarmersmarket.com>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
 ## <http://www.columbiagames.com/cgi-bin/query/cfg/zoom.cfg?product_id=4751>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
@@ -1625,6 +1635,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <http://www.jstor.org/stable/4214842>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
+
 ## <http://www.kjd-imc.org/hall-of-fame/setting-design/how-to-make-a-fantasy-sandbox>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
@@ -1708,6 +1722,10 @@
 ## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0165%3Abook%3D37%3Achapter%3D44>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
+## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dmolarius&highlight=mill>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
 ## <http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0003.tlg001.perseus-eng3:2.47>
 
@@ -1864,6 +1882,7 @@
 
 ## <https://acoup.blog/2019/08/29/collections-this-isnt-sparta-part-iii-spartan-women>
 
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 - `src/content/posts/translations/practical-polytheism-part-iv-little-gods-and-big-people.mdx`
 
 ## <https://acoup.blog/2019/09/20/collections-this-isnt-sparta-part-vi-spartan-battle>
@@ -1886,13 +1905,23 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 
+## <https://acoup.blog/2019/12/05/collections-a-trip-through-thucydides-fear-honor-and-interest>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
+## <https://acoup.blog/2019/12/12/collections-a-trip-through-cicero-natural-law>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
 ## <https://acoup.blog/2020/01/17/collections-the-fremen-mirage-part-i-war-at-the-dawn-of-civilization>
 
+- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
 ## <https://acoup.blog/2020/02/28/collections-the-fremen-mirage-part-iv-desert-power>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
 
 ## <https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore>
 
@@ -1900,12 +1929,17 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
+## <https://acoup.blog/2020/03/27/a-trip-through-dhuoda-of-uzes-carolingian-values>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
 ## <https://acoup.blog/2020/04/10/collections-antarah-ibn-shaddad-victory-songs>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
 ## <https://acoup.blog/2020/04/16/collections-a-trip-through-bertran-de-born-martial-values-in-the-12th-century-occitan-nobility>
 
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -1914,13 +1948,9 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
-## <https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers>
+## <https://acoup.blog/2020/08/14/fireside-friday-august-14th-2020>
 
-- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
-
-## <https://acoup.blog/2020/08/06/collections-bread-how-did-they-make-it-part-iii-actually-farming>
-
-- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 
 ## <https://acoup.blog/2020/12/11/collections-that-dothraki-horde-part-ii-subsistence-on-the-hoof>
 
@@ -2256,6 +2286,15 @@
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
+## <https://commons.wikimedia.org/wiki/Category:Ten_Views_in_the_Island_of_Antigua_(1823)>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
+## <https://commons.wikimedia.org/wiki/Category:Tomb_of_Sennedjem>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
 ## <https://commons.wikimedia.org/wiki/Category:Vexilla>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -2298,6 +2337,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 - `src/content/posts/translations/social-encounter-statblocks-dnd-5e.mdx`
+
+## <https://cropwatch.unl.edu/determining-seeding-rate-your-winter-wheat>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
 ## <https://d66kobolds.blogspot.com/2021/03/play-worlds-not-rules-design-challenge.html>
 
@@ -2577,6 +2620,14 @@
 
 - `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
 
+## <https://en.wikipedia.org/wiki/Amurca>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://en.wikipedia.org/wiki/Ancient_Egyptian_agriculture>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
 ## <https://en.wikipedia.org/wiki/Aquila_(Roman)>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -2626,6 +2677,10 @@
 ## <https://en.wikipedia.org/wiki/Bardiche>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+
+## <https://en.wikipedia.org/wiki/Barley>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
 
 ## <https://en.wikipedia.org/wiki/Bastion>
 
@@ -2734,9 +2789,17 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 
+## <https://en.wikipedia.org/wiki/Boule_(bread)>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
 ## <https://en.wikipedia.org/wiki/Braveheart>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://en.wikipedia.org/wiki/Bread>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
 ## <https://en.wikipedia.org/wiki/Bugle_call>
 
@@ -2774,6 +2837,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
+## <https://en.wikipedia.org/wiki/Centuriation>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
+
 ## <https://en.wikipedia.org/wiki/Centurion>
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
@@ -2798,6 +2865,14 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
+## <https://en.wikipedia.org/wiki/Coin>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
+## <https://en.wikipedia.org/wiki/Columella>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
 ## <https://en.wikipedia.org/wiki/Comtat_Venaissin>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
@@ -2808,11 +2883,16 @@
 
 ## <https://en.wikipedia.org/wiki/Corv%C3%A9e>
 
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
 ## <https://en.wikipedia.org/wiki/Cromartyshire>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
+
+## <https://en.wikipedia.org/wiki/Das_Kapital>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 
 ## <https://en.wikipedia.org/wiki/Defensive_wall>
 
@@ -2850,9 +2930,17 @@
 
 - `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
 
+## <https://en.wikipedia.org/wiki/Dust_Bowl>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
 ## <https://en.wikipedia.org/wiki/Earthdawn>
 
 - `src/content/posts/translations/tribality-psionics-part-eight.mdx`
+
+## <https://en.wikipedia.org/wiki/Egyptian_calendar>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
 
 ## <https://en.wikipedia.org/wiki/English_feudal_barony>
 
@@ -2867,6 +2955,10 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
+## <https://en.wikipedia.org/wiki/Federal_Deposit_Insurance_Corporation>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
+
 ## <https://en.wikipedia.org/wiki/Fermi_problem>
 
 - `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
@@ -2875,6 +2967,10 @@
 ## <https://en.wikipedia.org/wiki/Ferrous_metallurgy>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
+## <https://en.wikipedia.org/wiki/File:Jato_An_ancient_tool_used_to_grind_food_item_in_Nepal.ogv>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
 ## <https://en.wikipedia.org/wiki/Finlandization>
 
@@ -2924,6 +3020,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
+## <https://en.wikipedia.org/wiki/Fulling>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
 ## <https://en.wikipedia.org/wiki/Gabion>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
@@ -2964,10 +3064,22 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
+## <https://en.wikipedia.org/wiki/Grain>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://en.wikipedia.org/wiki/Granary>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
 ## <https://en.wikipedia.org/wiki/Grant,_Lee,_Sherman:_Civil_War_Generals_2>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://en.wikipedia.org/wiki/Great_Leap_Forward>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
 ## <https://en.wikipedia.org/wiki/Great_Retreat_(Russian)>
 
@@ -3025,6 +3137,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
 
+## <https://en.wikipedia.org/wiki/Hardpan>
+
+- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
+
 ## <https://en.wikipedia.org/wiki/Hardtack>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
@@ -3050,9 +3166,17 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 
+## <https://en.wikipedia.org/wiki/Hoe-farming>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
 ## <https://en.wikipedia.org/wiki/Honours_of_war>
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://en.wikipedia.org/wiki/Horae>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
 
 ## <https://en.wikipedia.org/wiki/Housecarl>
 
@@ -3094,6 +3218,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
+## <https://en.wikipedia.org/wiki/Johann_Ludwig_Ernst_Morgenstern>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
 
 ## <https://en.wikipedia.org/wiki/John_Hawkwood>
 
@@ -3144,6 +3272,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
+## <https://en.wikipedia.org/wiki/Latifundium>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
 ## <https://en.wikipedia.org/wiki/League_(unit)>
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
@@ -3189,6 +3321,18 @@
 
 - `src/content/posts/translations/acoup-war-elephants-part-iii-elephant-memories.mdx`
 
+## <https://en.wikipedia.org/wiki/Maize>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
+
+## <https://en.wikipedia.org/wiki/Malthusian_catastrophe>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
+## <https://en.wikipedia.org/wiki/Manorialism>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
 ## <https://en.wikipedia.org/wiki/Mantlet>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
@@ -3213,9 +3357,25 @@
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://en.wikipedia.org/wiki/Merchant>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
 ## <https://en.wikipedia.org/wiki/Merlon>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
+
+## <https://en.wikipedia.org/wiki/Middleman_minority>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
+## <https://en.wikipedia.org/wiki/Miller>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://en.wikipedia.org/wiki/Millstone>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
 ## <https://en.wikipedia.org/wiki/Missile_Defense_Agency>
 
@@ -3272,6 +3432,10 @@
 ## <https://en.wikipedia.org/wiki/Non-commissioned_officer>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
+## <https://en.wikipedia.org/wiki/Norman_Borlaug>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
 
 ## <https://en.wikipedia.org/wiki/Nusaybin>
 
@@ -3337,6 +3501,14 @@
 
 - `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
 
+## <https://en.wikipedia.org/wiki/Plough>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://en.wikipedia.org/wiki/Podzol>
+
+- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
+
 ## <https://en.wikipedia.org/wiki/Polygonal_fort>
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
@@ -3353,9 +3525,17 @@
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/Potassium_nitrate>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
 ## <https://en.wikipedia.org/wiki/Powered_by_the_Apocalypse>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://en.wikipedia.org/wiki/Praefectus_annonae>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
 ## <https://en.wikipedia.org/wiki/Prayer_of_Humble_Access>
 
@@ -3364,6 +3544,10 @@
 ## <https://en.wikipedia.org/wiki/Presque_Isle_State_Park>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
+
+## <https://en.wikipedia.org/wiki/Price_controls>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
 ## <https://en.wikipedia.org/wiki/Przemy%C5%9Bl_Fortress>
 
@@ -3381,9 +3565,17 @@
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 
+## <https://en.wikipedia.org/wiki/Quern-stone>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
 ## <https://en.wikipedia.org/wiki/Rain_shadow>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+
+## <https://en.wikipedia.org/wiki/Rangkiang>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
 ## <https://en.wikipedia.org/wiki/Ransom_of_King_John_II_of_France>
 
@@ -3405,9 +3597,21 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
+## <https://en.wikipedia.org/wiki/Rice_pounder>
+
+- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
+
+## <https://en.wikipedia.org/wiki/Rice_production_in_China>
+
+- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
+
 ## <https://en.wikipedia.org/wiki/Roman_army>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://en.wikipedia.org/wiki/Roman_commerce>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 
 ## <https://en.wikipedia.org/wiki/Roman_legion>
 
@@ -3519,6 +3723,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
+## <https://en.wikipedia.org/wiki/Staddle_stones>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
 ## <https://en.wikipedia.org/wiki/Steven_Zirnkilton>
 
 - `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
@@ -3535,9 +3743,17 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 
+## <https://en.wikipedia.org/wiki/Sumptuary_law>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
 ## <https://en.wikipedia.org/wiki/Tabula_Peutingeriana>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
+## <https://en.wikipedia.org/wiki/Tacuinum_Sanitatis>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
 ## <https://en.wikipedia.org/wiki/Tell_es-Sultan>
 
@@ -3595,6 +3811,10 @@
 
 - `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
 
+## <https://en.wikipedia.org/wiki/Thiamine_deficiency>
+
+- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
+
 ## <https://en.wikipedia.org/wiki/Third_Amendment_to_the_United_States_Constitution>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
@@ -3606,6 +3826,10 @@
 ## <https://en.wikipedia.org/wiki/Todd_Howard>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://en.wikipedia.org/wiki/Tomb_of_Eurysaces_the_Baker>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
 ## <https://en.wikipedia.org/wiki/Tonsure>
 
@@ -3626,6 +3850,10 @@
 ## <https://en.wikipedia.org/wiki/Trebuchet>
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://en.wikipedia.org/wiki/Trimalchio>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 
 ## <https://en.wikipedia.org/wiki/Trireme>
 
@@ -3668,6 +3896,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
+## <https://en.wikipedia.org/wiki/Wheat>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
+
 ## <https://en.wikipedia.org/wiki/Window_tax>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
@@ -3687,6 +3919,14 @@
 ## <https://en.wikisource.org/wiki/The_Art_of_War_(Sun)/Section_I>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://en.wiktionary.org/wiki/diachronic>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://en.wiktionary.org/wiki/quern>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
 ## <https://erikscottdebie.com/2017/07/19/facets-of-alignment-lawful>
 
@@ -3962,6 +4202,10 @@
 
 - `src/content/posts/translations/olddungeonmaster-weights-of-materials.mdx`
 
+## <https://opacplus.bsb-muenchen.de/title/BV043788507>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
 ## <https://osricrpg.com>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -4014,6 +4258,10 @@
 ## <https://press.uchicago.edu/ucp/books/book/chicago/S/bo5949823.html>
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
+
+## <https://pubmed.ncbi.nlm.nih.gov/19093521>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
 
 ## <https://pxhere.com/en/photo/1168447>
 
@@ -5110,6 +5358,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
+## <https://uh.edu/~cldue/texts/demeter.html>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
+
 ## <https://ussmissouri.org/learn-the-history/the-ship/as-built-blueprints>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
@@ -5199,6 +5451,10 @@
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
 
+## <https://www.amazon.com/Crime-Monstrous-Face-Face-Modern-Day-ebook/dp/B0015S85W6>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
 ## <https://www.amazon.com/Dancing-Glory-Monsters-Collapse-Africa-ebook/dp/B0076M4VDC/ref=sr_1_1?crid=30R57JX8CXAT1&dchild=1&keywords=dancing+in+the+glory+of+monsters&qid=1588601904&sprefix=dancing+in+the+glory+%2Caps%2C157&sr=8-1>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
@@ -5210,6 +5466,10 @@
 ## <https://www.amazon.com/Dungeonscape-Essential-Adventuring-Dungeons-Roleplaying/dp/0786941189>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.amazon.com/Fall-Rome-End-Civilization/dp/0192807285>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 
 ## <https://www.amazon.com/Hunger-Sword-Republican-monographs-archaeology/dp/905063608X>
 
@@ -5414,13 +5674,53 @@
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
 
+## <https://www.britishmuseum.org/collection/object/A_1915-0823-0-749>
+
+- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
+
+## <https://www.britishmuseum.org/collection/object/A_1929-0611-0-2>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
+## <https://www.britishmuseum.org/collection/object/A_1939-0311-0-6-56>
+
+- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
+
+## <https://www.britishmuseum.org/collection/object/A_2003-0224-0-38>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://www.britishmuseum.org/collection/object/G_1894-1101-182>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1831-1212-19>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
 ## <https://www.britishmuseum.org/collection/object/P_1855-0414-44>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
+## <https://www.britishmuseum.org/collection/object/P_1858-0626-227>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1865-0520-236>
+
+- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
+
 ## <https://www.britishmuseum.org/collection/object/P_1873-0712-105>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1874-0509-44>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1924-0415-31>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
 
 ## <https://www.britishmuseum.org/collection/object/P_1933-0610-12-6>
 
@@ -5430,6 +5730,14 @@
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
+## <https://www.britishmuseum.org/collection/object/P_1958-0712-1397>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1981-U-459>
+
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
 ## <https://www.britishmuseum.org/collection/object/P_1983-U-389>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
@@ -5438,6 +5746,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
+## <https://www.britishmuseum.org/collection/object/P_E-9-170>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
 ## <https://www.burningwheel.com/store/index.php/torchbearer.html>
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
@@ -5445,6 +5757,10 @@
 ## <https://www.catholic.com/tract/myths-about-indulgences>
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
+
+## <https://www.census.gov/data/tables/time-series/demo/families/households.html>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
 
 ## <https://www.creightonbroadhurst.com/6-things-i-hate-about-module-presentation>
 
@@ -5716,6 +6032,14 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
 
+## <https://www.medievalists.net/2013/07/bread-in-the-middle-ages>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://www.merriam-webster.com/dictionary/harrowing>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
 ## <https://www.metmuseum.org/art/collection/search/25072>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
@@ -5731,6 +6055,10 @@
 ## <https://www.museicapitolini.org/en/percorso/scalone-0>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2677789>
+
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
 ## <https://www.opengamingstore.com/collections/jon-brazer-enterprises/products/13-fighter-talents-and-maneuvers-13th-age-compatible>
 
@@ -5859,6 +6187,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <https://www.usf.edu/arts-sciences/departments/world-languages/about-us/hedrick.aspx>
+
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
 ## <https://www.vice.com/en_us/article/ywq5zy/the-pentagon-has-the-worst-powerpoint-slides-youve-ever-seen>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
@@ -5878,6 +6210,14 @@
 ## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
 
 - `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
+
+## <https://www.youtube.com/playlist?list=PLcIwe3bxds8YEy9-kqvQbwW-g--96Brlg>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
+- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
 
 ## <https://www.youtube.com/playlist?list=PLcIwe3bxds8YhvNk2zgNaUN95egZ3KWxI>
 
@@ -6093,6 +6433,10 @@
 ## <https://youtu.be/8E6TzT0eCYs>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
+## <https://youtu.be/AchISJUKfH4>
+
+- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
 
 ## <https://youtu.be/Ci_ychn7ga0?t=29>
 
