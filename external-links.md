@@ -4011,6 +4011,10 @@
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
+## <https://pxhere.com/en/photo/1168447>
+
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+
 ## <https://pxhere.com/en/photo/2164>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
@@ -4248,6 +4252,7 @@
 ## <https://thealexandrian.net/wordpress/1861/roleplaying-games/keep-on-the-shadowfell-the-complete-collection>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
 ## <https://thealexandrian.net/wordpress/1900/roleplaying-games/treasure-maps-the-unknown-goals-in-the-megadungeon>
 
@@ -4258,6 +4263,10 @@
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
 
+## <https://thealexandrian.net/wordpress/20441/roleplaying-games/eclipse-phase-ego-hunter-prep-notes>
+
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+
 ## <https://thealexandrian.net/wordpress/2184/roleplaying-games/ptolus-running-the-campaign-non-standard-groups>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-17-too-many-players.mdx`
@@ -4266,6 +4275,7 @@
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-2-rolling-to-failure.mdx`
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
 ## <https://thealexandrian.net/wordpress/2537/roleplaying-games/ptolus-running-the-campaign-graphical-resources>
 
@@ -4362,6 +4372,7 @@
 
 ## <https://thealexandrian.net/wordpress/37078/roleplaying-games/eternal-lies-the-alexandrian-remix>
 
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
 
 ## <https://thealexandrian.net/wordpress/37422/roleplaying-games/dont-prep-plots-tools-not-contingencies>
@@ -4369,6 +4380,7 @@
 - `src/content/posts/translations/alexandrian-art-of-pacing-running-awesome-scenes.mdx`
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
 
 ## <https://thealexandrian.net/wordpress/37530/roleplaying-games/thought-of-the-day-juggling-scenario-hooks-in-a-sandbox>
@@ -4381,6 +4393,7 @@
 ## <https://thealexandrian.net/wordpress/37903/roleplaying-games/5-node-mystery>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
 ## <https://thealexandrian.net/wordpress/37916/roleplaying-games/universal-npc-roleplaying-template>
 
@@ -4444,10 +4457,12 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
 ## <https://thealexandrian.net/wordpress/41217/roleplaying-games/dragon-heist-remix-part-1-the-villains>
 
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
 ## <https://thealexandrian.net/wordpress/4131/roleplaying-games/reactions-to-odd-experience-points>
 
@@ -4491,7 +4506,12 @@
 ## <https://thealexandrian.net/wordpress/44214/roleplaying-games/remixing-avernus>
 
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
+## <https://thealexandrian.net/wordpress/44578/roleplaying-games/whither-the-dungeon-the-decline-and-fall-of-dd-adventures>
+
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
 ## <https://thealexandrian.net/wordpress/44693/roleplaying-games/remixing-avernus-addendum-elturian-names>
 
@@ -4517,6 +4537,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
 
+## <https://thealexandrian.net/wordpress/45283/roleplaying-games/the-secret-life-of-nodes-part-5-naturalistic-node-design>
+
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+
 ## <https://thealexandrian.net/wordpress/45297/roleplaying-games/random-gm-tip-the-reaction-point>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
@@ -4534,6 +4558,14 @@
 ## <https://thealexandrian.net/wordpress/46186/roleplaying-games/failure-for-the-beginning-gm>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-20-always-say-yes.mdx`
+
+## <https://thealexandrian.net/wordpress/46338/roleplaying-games/random-gm-tips-making-clues>
+
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+
+## <https://thealexandrian.net/wordpress/46523/roleplaying-games/how-to-prep-a-module>
+
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
 ## <https://thealexandrian.net/wordpress/47259/roleplaying-games/random-gm-tip-splitting-the-party>
 
@@ -4608,6 +4640,7 @@
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
 ## <https://thealexandrian.net/wordpress/7961/roleplaying-games/node-based-scenario-design-part-2-choose-your-own-adventure>
 
@@ -5215,6 +5248,10 @@
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/1568824114/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/158978152X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-14-fearing-the-silence.mdx`
@@ -5608,6 +5645,10 @@
 ## <https://www.kickstarter.com/projects/2080350433/blades-in-the-dark/video_share>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <https://www.kickstarter.com/projects/482503977/masks-of-nyarlathotep-companion>
+
+- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
 ## <https://www.kickstarter.com/projects/batintheatticgames/into-the-majestic-fantasy-realms-the-northern-marches>
 
