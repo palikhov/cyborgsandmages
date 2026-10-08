@@ -107,6 +107,10 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
+## <http://deltasdnd.blogspot.com/2008/03/1-2-3-infinity.html>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-3-filling-the-frame.mdx`
+
 ## <http://dictionary.reference.com/browse/ovate>
 
 - `src/content/posts/translations/tribality-druid-class-part-two.mdx`
@@ -578,6 +582,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
 
+## <http://norwegianstyle.wordpress.com/2007/12/07/37>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-4-closing-the-frame.mdx`
+
 ## <http://oots.wikia.com/wiki/Roy_Greenhilt>
 
 - `src/content/posts/translations/tribality-fighter-class-part-five.mdx`
@@ -853,6 +861,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0316030570/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-5-advanced-techniques.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0394518799/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
@@ -886,6 +898,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-12-mail-carrier-scenario-hooks.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0857441035/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-2-scene-framing.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0935696237/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
@@ -894,6 +910,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/0955162300/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0976658062/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-5-advanced-techniques.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0981666361/digitalcomi0a-20>
 
@@ -921,6 +941,7 @@
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1565042492/digitalcomi0a-20>
 
+- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-addendum-katanas-trenchcoats.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1568821816/digitalcomi0a-20>
@@ -960,6 +981,11 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1905176244/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1931567891/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
+- `src/content/posts/translations/alexandrian-art-of-pacing-4-closing-the-frame.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1932564136/digitalcomi0a-20>
 
@@ -1032,9 +1058,17 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B000NTPDSW/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-5-advanced-techniques.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B000NY2OPW/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000P0J0AQ/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-3-filling-the-frame.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B000PE37QA/digitalcomi0a-20>
 
@@ -1085,6 +1119,15 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B003XVYLEY/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B0046XG48O/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B004FHCH96/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
+- `src/content/posts/translations/alexandrian-art-of-pacing-5-advanced-techniques.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B004HYK956/digitalcomi0a-20>
 
@@ -2062,6 +2105,10 @@
 ## <https://commons.wikimedia.org/w/index.php?curid=7992355>
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
+
+## <https://commons.wikimedia.org/w/index.php?title=File%3ATexas_State_Highway_222%2C_King_County%2C_Texas%2Ejpg&uselang=ru>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-2-scene-framing.mdx`
 
 ## <https://commons.wikimedia.org/wiki/Category:Elephas_maximus>
 
@@ -3939,6 +3986,10 @@
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
 
+## <https://stock.adobe.com/images/afro-american-gamer-puts-on-vr-goggles-and-emotionally-discusses-with-holographic-avatars-of-teammates-gaming-tournament-in-meta-universe-cyberspace/506942103?prev_url=detail>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
+
 ## <https://stock.adobe.com/images/dice-bag-filled-with-multicolor-dice/422399858>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
@@ -3969,6 +4020,7 @@
 
 ## <https://thealexandrian.net/gamemastery-101>
 
+- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 
@@ -4053,20 +4105,21 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
 
-## <https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing>
+## <https://thealexandrian.net/wordpress/32589/roleplaying-games/thought-of-the-day-how-not-to-frame-a-scene>
 
-- `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-5-not-knowing-the-rules.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
+- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
+- `src/content/posts/translations/alexandrian-art-of-pacing-3-filling-the-frame.mdx`
+- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
 
-## <https://thealexandrian.net/wordpress/31520/roleplaying-games/the-art-of-pacing-part-2-scene-framing>
+## <https://thealexandrian.net/wordpress/32599/roleplaying-games/film-banging-agendas-and-bangs-from-non-rpg-media>
 
-- `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
+- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
+- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
 
-## <https://thealexandrian.net/wordpress/33791/roleplaying-games/the-art-of-pacing-part-5-advanced-techniques>
+## <https://thealexandrian.net/wordpress/32626/roleplaying-games/film-banging-alien>
 
-- `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
+- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
 
 ## <https://thealexandrian.net/wordpress/35063/board-games/thought-of-the-day-quarterbacking-in-co-op-games>
 
@@ -4076,6 +4129,7 @@
 
 ## <https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key>
 
+- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
 
 ## <https://thealexandrian.net/wordpress/35587/roleplaying-games/trail-of-cthulhu-cheat-sheet>
@@ -4133,6 +4187,16 @@
 
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
 
+## <https://thealexandrian.net/wordpress/36748/roleplaying-games/film-banging-the-matrix>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
+- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
+
+## <https://thealexandrian.net/wordpress/36768/roleplaying-games/the-art-of-pacing-prepping-bangs>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
+- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
+
 ## <https://thealexandrian.net/wordpress/36914/roleplaying-games/the-railroading-manifesto-part-3-penumbra-of-problems>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
@@ -4144,6 +4208,11 @@
 ## <https://thealexandrian.net/wordpress/37530/roleplaying-games/thought-of-the-day-juggling-scenario-hooks-in-a-sandbox>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
+
+## <https://thealexandrian.net/wordpress/37544/roleplaying-games/thought-of-the-day-running-awesome-scenes>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
+- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
 
 ## <https://thealexandrian.net/wordpress/37903/roleplaying-games/5-node-mystery>
 
@@ -4220,6 +4289,10 @@
 ## <https://thealexandrian.net/wordpress/4131/roleplaying-games/reactions-to-odd-experience-points>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-11-complete-game-structures.mdx`
+
+## <https://thealexandrian.net/wordpress/4136/roleplaying-games/reactions-to-odd-encounter-probability>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
 
 ## <https://thealexandrian.net/wordpress/4154/roleplaying-games/dont-prep-plots-prepping-scenario-timelines>
 
@@ -4341,6 +4414,7 @@
 
 ## <https://thealexandrian.net/wordpress/7949/roleplaying-games/node-based-scenario-design-part-1-the-plotted-approach>
 
+- `src/content/posts/translations/alexandrian-art-of-pacing-2-scene-framing.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
@@ -4362,6 +4436,10 @@
 ## <https://thealexandrian.net/wordpress/901/roleplaying-games/thoughts-on-4th-edition>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+
+## <https://thealexandrian.net/wordpress/9584/roleplaying-games/apocalypse-world>
+
+- `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
 
 ## <https://thealexandrian.net/wordpress/9595/roleplaying-games/technoir-sequences-vs-skill-challenges>
 
