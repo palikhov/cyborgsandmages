@@ -2029,6 +2029,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
+## <https://alldeadgenerations.blogspot.com>
+
+- `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
+
 ## <https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html>
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
@@ -2390,6 +2394,10 @@
 ## <https://dnd.dragonmag.com/2019/10/23/from-the-creators-unraveling-ravenloft/content.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://docs.google.com/spreadsheets/d/1ofuzHPMbQP31FZ5RWsIezE9dFGUlzmBbeZqM7pr8ruc/edit?usp=sharing>
+
+- `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
 
 ## <https://drawtherestoftheowlbear.blogspot.com/2024/02/you-cant-elide-what-doesnt-exist.html>
 
@@ -4406,6 +4414,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 
+## <https://permacrandam.blogspot.com/2021/02/errant-design-deep-dive-2-core.html>
+
+- `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
+
 ## <https://plus.google.com/+JonathanTweet/posts/LXCKdDqaZUy>
 
 - `src/content/posts/translations/gaming-logic-hit-points.mdx`
@@ -4457,6 +4469,10 @@
 ## <https://pxhere.com/en/photo/968633>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-12-mail-carrier-scenario-hooks.mdx`
+
+## <https://replit.com/join/botfhoeixo-arnoldkemp>
+
+- `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
 
 ## <https://retiredadventurer.blogspot.com/2013/03/roles-and-tasks-for-pc-groups.html>
 
@@ -6287,6 +6303,10 @@
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
+## <https://www.necropraxis.com/2014/02/03/overloading-the-encounter-die>
+
+- `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
+
 ## <https://www.opengamingstore.com/collections/jon-brazer-enterprises/products/13-fighter-talents-and-maneuvers-13th-age-compatible>
 
 - `src/content/posts/translations/tribality-fighter-class-part-thirteenth-age.mdx`
@@ -6560,6 +6580,10 @@
 ## <https://www.youtube.com/watch?v=NnjauJquWfw>
 
 - `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
+
+## <https://www.youtube.com/watch?v=PL4cXMLfkVE>
+
+- `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
 
 ## <https://www.youtube.com/watch?v=Rsfyh3M_IKc>
 
