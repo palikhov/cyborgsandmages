@@ -548,6 +548,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <http://iron.wlu.edu/reports/RoastingOre.htm>
+
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+
 ## <http://jeepen.org/dict>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -568,6 +572,7 @@
 
 ## <http://medieval.ucdavis.edu/120D/Money.html>
 
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 - `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
 
@@ -1579,6 +1584,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
+## <http://www.gutenberg.org/files/38015/38015-h/38015-h.htm>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
+
 ## <http://www.howlingtower.com/2012/01/to-hit-vs-armor-class.html>
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
@@ -1964,9 +1973,25 @@
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 
-## <https://acoup.blog/2020/09/18/collections-iron-how-did-they-make-it-part-i-mining>
+## <https://acoup.blog/2020/10/02/collections-iron-how-did-they-make-it-part-iii-hammer-time>
 
-- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+
+## <https://acoup.blog/2020/10/09/collections-iron-how-did-they-make-it-part-iva-steel-yourself>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+
+## <https://acoup.blog/2020/10/16/collections-iron-how-did-they-make-it-part-ivb-work-hardening-or-hardly-working>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+
+## <https://acoup.blog/2020/11/06/collections-iron-how-did-they-make-it-addendum-crucible-steel-and-cast-iron>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
 
 ## <https://acoup.blog/2020/12/04/collections-that-dothraki-horde-part-i-barbarian-couture>
 
@@ -2040,6 +2065,10 @@
 ## <https://alldeadgenerations.blogspot.com/p/the-classic-dungeon-crawl-theory.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://americanart.si.edu/artwork/iron-mine-port-henry-new-york-16373>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
 ## <https://amzn.to/2RSu0CM>
 
@@ -2165,6 +2194,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 
+## <https://anno1800.fandom.com/wiki/Iron_Mine>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
+
 ## <https://answers.google.com/answers/threadview?id=339720>
 
 - `src/content/posts/translations/flutesloot-formulas-for-crafting-popular-magic-items-5e.mdx`
@@ -2228,6 +2261,10 @@
 ## <https://books.google.ca/books?id=cBqgOXfMxAoC>
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
+
+## <https://civilization.fandom.com/wiki/Iron_(Civ4)>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
 ## <https://coinsandscrolls.blogspot.ca/2017/06/osr-death-taxes-and-death-taxes-part-2.html>
 
@@ -2323,6 +2360,10 @@
 ## <https://commons.wikimedia.org/wiki/Category:Vexilla>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://commons.wikimedia.org/wiki/Dur_Sharrukin>
+
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
 
 ## <https://critical-hits.com/blog/2008/05/20/session-report-keep-on-the-shadowfell>
 
@@ -2613,6 +2654,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
+## <https://en.wikipedia.org/wiki/Abundance_of_elements_in_Earth%27s_crust>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
+
 ## <https://en.wikipedia.org/wiki/Adlocutio>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
@@ -2672,6 +2717,10 @@
 ## <https://en.wikipedia.org/wiki/Arcana_Unearthed>
 
 - `src/content/posts/translations/tribality-fighter-class-part-seven.mdx`
+
+## <https://en.wikipedia.org/wiki/Archimedes%27_screw>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
 ## <https://en.wikipedia.org/wiki/Argot>
 
@@ -2819,6 +2868,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 
+## <https://en.wikipedia.org/wiki/Bed_(geology)>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
+
 ## <https://en.wikipedia.org/wiki/Benefice>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
@@ -2835,9 +2888,21 @@
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
 
+## <https://en.wikipedia.org/wiki/Blast_furnace>
+
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+
 ## <https://en.wikipedia.org/wiki/Bleachfield>
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
+## <https://en.wikipedia.org/wiki/Bloomery>
+
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+
+## <https://en.wikipedia.org/wiki/Bog_iron>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
 ## <https://en.wikipedia.org/wiki/Boiled_leather>
 
@@ -2854,6 +2919,10 @@
 ## <https://en.wikipedia.org/wiki/Bread>
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://en.wikipedia.org/wiki/Briquette>
+
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
 
 ## <https://en.wikipedia.org/wiki/Bugle_call>
 
@@ -2899,6 +2968,14 @@
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
+## <https://en.wikipedia.org/wiki/Charcoal>
+
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+
+## <https://en.wikipedia.org/wiki/Charcoal_pile>
+
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+
 ## <https://en.wikipedia.org/wiki/Cheating>
 
 - `src/content/posts/translations/tribality-psionics-part-two.mdx`
@@ -2931,6 +3008,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
 
+## <https://en.wikipedia.org/wiki/Cord_(unit)>
+
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+
 ## <https://en.wikipedia.org/wiki/Cornicen>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -2943,6 +3024,10 @@
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Country_rock_(geology)>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
 ## <https://en.wikipedia.org/wiki/Cromartyshire>
 
@@ -2971,6 +3056,10 @@
 ## <https://en.wikipedia.org/wiki/DoorDash>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
+## <https://en.wikipedia.org/wiki/Dowsing>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
 ## <https://en.wikipedia.org/wiki/Dragonnades>
 
@@ -3042,6 +3131,10 @@
 
 - `src/content/posts/translations/practical-polytheism-part-i-knowledge.mdx`
 
+## <https://en.wikipedia.org/wiki/Fire-setting>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
+
 ## <https://en.wikipedia.org/wiki/First_Battle_of_Bull_Run>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
@@ -3054,6 +3147,10 @@
 ## <https://en.wikipedia.org/wiki/Florence_Cathedral>
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
+## <https://en.wikipedia.org/wiki/Flux_(metallurgy)>
+
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
 
 ## <https://en.wikipedia.org/wiki/Flying_shuttle>
 
@@ -3118,6 +3215,10 @@
 ## <https://en.wikipedia.org/wiki/Gambeson>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
+
+## <https://en.wikipedia.org/wiki/Gangue>
+
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
 
 ## <https://en.wikipedia.org/wiki/Garrett_(character)>
 
@@ -3239,6 +3340,14 @@
 ## <https://en.wikipedia.org/wiki/Health_(gaming)>
 
 - `src/content/posts/translations/gaming-logic-hit-points.mdx`
+
+## <https://en.wikipedia.org/wiki/Hellenistic_period>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
+
+## <https://en.wikipedia.org/wiki/Hematite>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
 ## <https://en.wikipedia.org/wiki/Henry_V_(play)>
 
@@ -3472,6 +3581,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
 
+## <https://en.wikipedia.org/wiki/Meteoric_iron>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
+
 ## <https://en.wikipedia.org/wiki/Middleman_minority>
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
@@ -3559,6 +3672,10 @@
 ## <https://en.wikipedia.org/wiki/Onside_kick>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
+
+## <https://en.wikipedia.org/wiki/Open-pit_mining>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
 ## <https://en.wikipedia.org/wiki/Orienteering>
 
@@ -3663,6 +3780,10 @@
 ## <https://en.wikipedia.org/wiki/Potassium_nitrate>
 
 - `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
+## <https://en.wikipedia.org/wiki/Potos%C3%AD>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
 ## <https://en.wikipedia.org/wiki/Powered_by_the_Apocalypse>
 
@@ -3926,6 +4047,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 
+## <https://en.wikipedia.org/wiki/Telluric_iron>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
+
 ## <https://en.wikipedia.org/wiki/Telos>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -4025,6 +4150,10 @@
 ## <https://en.wikipedia.org/wiki/Transhumance>
 
 - `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
+
+## <https://en.wikipedia.org/wiki/Treadwheel>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
 ## <https://en.wikipedia.org/wiki/Trebuchet>
 
@@ -4169,6 +4298,10 @@
 ## <https://foreignpolicy.com/2022/04/06/russia-ukraine-atrocities-war-crimes>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
+## <https://forestry.usu.edu/forest-products/wood-heating>
+
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
 
 ## <https://forlornencystment.blogspot.com/2024/01/character-progression-and-tiers-of-play.html>
 
@@ -4401,6 +4534,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xv.mdx`
+
+## <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/3A*.html>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
 ## <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Onasander/A*.html>
 
@@ -5921,6 +6058,10 @@
 
 - `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
 
+## <https://www.britishmuseum.org/collection/object/P_1872-1012-3315>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
+
 ## <https://www.britishmuseum.org/collection/object/P_1873-0712-105>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
@@ -6516,6 +6657,10 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
 
+## <https://www.youtube.com/watch?v=8E6TzT0eCYs>
+
+- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+
 ## <https://www.youtube.com/watch?v=9Kgx2b1sIRs>
 
 - `src/content/posts/translations/angrygm-between-jobs.mdx`
@@ -6859,3 +7004,7 @@
 ## <https://youtu.be/u73M1iBwW8o?t=95>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://youtu.be/zsywnQJMJEk>
+
+- `src/content/posts/translations/acoup-iron-1-mining.mdx`
