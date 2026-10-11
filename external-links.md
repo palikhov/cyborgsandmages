@@ -1831,6 +1831,10 @@
 
 - `src/content/posts/translations/pointcrawling-sigils-undercity.mdx`
 
+## <http://www.spelljammer.org>
+
+- `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
+
 ## <http://www.trajans-column.org?page_id=578>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
@@ -2194,6 +2198,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 
+## <https://annarchive.com/files/Dungeon%20Magazine%20%23088.pdf>
+
+- `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
+
 ## <https://anno1800.fandom.com/wiki/Iron_Mine>
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
@@ -2209,6 +2217,19 @@
 ## <https://archive.org/details/organizationand01wagngoog/page/466/mode/2up>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
+## <https://archive.org/details/tsr09021bd3vaultofthedrow>
+
+- `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
+
+## <https://archive.wizards.com/DnD/Archive.aspx?category=all&subcategory=dmexperience>
+
+- `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
+
+## <https://archive.wizards.com/DnD/Article.aspx?x=dnd/4dmxp/20120315>
+
+- `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
+- `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
 
 ## <https://awoiaf.westeros.org/index.php/Military_strength>
 
@@ -2420,6 +2441,14 @@
 
 - `src/content/posts/translations/billhook-cities-fixed-at-last.mdx`
 
+## <https://dmdavid.com/tag/gallery-of-poster-battle-maps-published-for-dungeons-dragons>
+
+- `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
+
+## <https://dmdavid.com/tag/how-to-run-an-ambush>
+
+- `src/content/posts/translations/ludusludorum-glen-cooks-goblin-recon.mdx`
+
 ## <https://dmdavid.com/tag/using-the-small-world-principle-to-build-a-better-game>
 
 - `src/content/posts/translations/dmdavid-bring-character-backstory-into-campaigns.mdx`
@@ -2436,9 +2465,17 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://dnd.wizards.com/articles/features/basicrules>
+
+- `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
+
 ## <https://docs.google.com/spreadsheets/d/1ofuzHPMbQP31FZ5RWsIezE9dFGUlzmBbeZqM7pr8ruc/edit?usp=sharing>
 
 - `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
+
+## <https://donjon.bin.sh/d20/dungeon>
+
+- `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
 
 ## <https://drawtherestoftheowlbear.blogspot.com/2024/02/you-cant-elide-what-doesnt-exist.html>
 
@@ -2983,6 +3020,10 @@
 ## <https://en.wikipedia.org/wiki/Chigi_vase>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://en.wikipedia.org/wiki/Cinnabar>
+
+- `src/content/posts/translations/knight-at-the-opera-alternative-economics-1-money.mdx`
 
 ## <https://en.wikipedia.org/wiki/Cinquedea>
 
@@ -4311,6 +4352,10 @@
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
 
+## <https://fractalfoundation.org/resources/what-are-fractals>
+
+- `src/content/posts/translations/ludusludorum-glen-cooks-goblin-recon.mdx`
+
 ## <https://freeleaguepublishing.com/games/alien>
 
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
@@ -4331,6 +4376,10 @@
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
 
+## <https://geekdad.com/2014/12/5e-dungeon-masters-guide-1>
+
+- `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
+
 ## <https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
@@ -4346,6 +4395,10 @@
 ## <https://grognardia.blogspot.com/2008/09/gygaxian-naturalism.html>
 
 - `src/content/posts/translations/creighton-gygax-on-treasure.mdx`
+
+## <https://grognardia.blogspot.com/2009/04/retrospective-rogues-gallery_16.html>
+
+- `src/content/posts/translations/ludusludorum-old-school-magic-joseph-garcia.mdx`
 
 ## <https://grognardia.blogspot.com/2024/04/review-how-to-make-fantasy-sandbox.html>
 
@@ -4391,6 +4444,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://inkwellideas.com/free-tools/random-city-map-generator>
+
+- `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
+
 ## <https://itunes.apple.com/gb/app/rpg-books/id365514623?mt=8>
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
@@ -4410,6 +4467,18 @@
 ## <https://knightattheopera.blogspot.com/2021/06/a-thorough-look-at-urban-gameplay-in-d.html>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
+## <https://knightattheopera.blogspot.com/2021/06/unity-vs-division.html>
+
+- `src/content/posts/translations/knight-at-the-opera-alternative-economics-1-money.mdx`
+
+## <https://knightattheopera.blogspot.com/2021/07/brave-design-notes-2-items-and-shopping.html>
+
+- `src/content/posts/translations/knight-at-the-opera-alternative-economics-1-money.mdx`
+
+## <https://knightattheopera.blogspot.com/2022/02/alternative-economics-part-2.html>
+
+- `src/content/posts/translations/knight-at-the-opera-alternative-economics-1-money.mdx`
 
 ## <https://knights-n-knaves.com/phpbb3/index.php>
 
@@ -4463,6 +4532,11 @@
 
 - `src/content/posts/translations/mazirians-garden-rules-for-citycrawling.mdx`
 
+## <https://media.wizards.com/2014/downloads/dnd/DMBasicRulesv.0.3.pdf>
+
+- `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
+- `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
+
 ## <https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf>
 
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
@@ -4513,6 +4587,10 @@
 ## <https://nordiclarp.org/wiki/Nordic_larp>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://og.myth-weavers.com/generate_dungeon.php>
+
+- `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
 
 ## <https://olddungeonmaster.com>
 
@@ -4570,6 +4648,10 @@
 ## <https://plus.google.com/u/0/105788250456300773414/posts/LhdRQyBmkRt>
 
 - `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
+
+## <https://pneymatiko.files.wordpress.com/2012/06/dnd-next_caves-of-chaos1.pdf>
+
+- `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
 
 ## <https://pnprpg.ru/blog/2014/09/04/thealexandrian-game-structures-p7>
 
@@ -4686,6 +4768,14 @@
 ## <https://slyflourish.com>
 
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
+
+## <https://slyflourish.com/lazydm>
+
+- `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
+
+## <https://slyflourish.com/lazydm/lazy_dm_preview.pdf>
+
+- `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
 
 ## <https://songoftheblade.wordpress.com/2016/10/13/a-history-of-the-fighters-extra-attacks-versus-low-level-monsters>
 
@@ -5309,6 +5399,10 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 
+## <https://theangrygm.com>
+
+- `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
+
 ## <https://theangrygm.com/30-days-of-rpg-a-day-in-one-day>
 
 - `src/content/posts/translations/angrygm-i-hate-ability-scores.mdx`
@@ -5352,6 +5446,7 @@
 - `src/content/posts/translations/angrygm-angry-open-world-lesson-three-part-one.mdx`
 - `src/content/posts/translations/angrygm-designing-with-a-strong-d.mdx`
 - `src/content/posts/translations/angrygm-why-are-you-doing-this.mdx`
+- `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
 
 ## <https://theangrygm.com/gaming-in-fits-and-starts>
 
@@ -5617,6 +5712,10 @@
 
 - `src/content/posts/translations/angrygm-two-game-mechanics.mdx`
 
+## <https://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging>
+
+- `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
+
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
@@ -5739,6 +5838,10 @@
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
 
+## <https://web.archive.org/web/20150212171312/http://www.1km1kt.net/geomorph>
+
+- `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
+
 ## <https://welshpiper.com/hex-based-campaign-design-part-1?sfw=pass1729610011>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
@@ -5803,13 +5906,29 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 
+## <https://www.amazon.com/Dungeon-Module-Q1-Demonweb-Advanced/dp/0935696202>
+
+- `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
+
 ## <https://www.amazon.com/Dungeonscape-Essential-Adventuring-Dungeons-Roleplaying/dp/0786941189>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
 
+## <https://www.amazon.com/Expedition-Greyhawk-Dungeons-Roleplaying-Adventure/dp/0786943580>
+
+- `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
+
 ## <https://www.amazon.com/Fall-Rome-End-Civilization/dp/0192807285>
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
+## <https://www.amazon.com/Greyhawk-Advanced-Dungeons-Dragons-module/dp/0880388609>
+
+- `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
+
+## <https://www.amazon.com/Greyhawk-Adventure-Advanced-Dungeons-Dragons/dp/0786912499>
+
+- `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
 
 ## <https://www.amazon.com/Hunger-Sword-Republican-monographs-archaeology/dp/905063608X>
 
@@ -5822,6 +5941,10 @@
 ## <https://www.amazon.com/Jared-Blando/e/B00IVYMNVQ>
 
 - `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
+
+## <https://www.amazon.com/Life-Medieval-City-Joseph-Gies/dp/0060908807>
+
+- `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
 
 ## <https://www.amazon.com/Magic-TrueName-Dungeons-Roleplaying-Supplement/dp/0786939095>
 
@@ -5849,6 +5972,30 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
+
+## <https://www.amazon.com/Spelljammer-Adventures-Fantasy-Roleplaying-counters/dp/0880387629>
+
+- `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
+
+## <https://www.amazon.com/The-Black-Company-Chronicles/dp/0812521390>
+
+- `src/content/posts/translations/ludusludorum-glen-cooks-goblin-recon.mdx`
+
+## <https://www.amazon.com/The-Lions-al-Rassan-Guy-Gavriel/dp/0060733497>
+
+- `src/content/posts/translations/ludusludorum-low-prep-5-arena.mdx`
+
+## <https://www.amazon.com/Vault-Advanced-Dungeons-Dragons-Module/dp/0394511824>
+
+- `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
+
+## <https://www.amazon.com/Volos-Waterdeep-Accessory-Forgotten-Realms/dp/1560763353>
+
+- `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
+
+## <https://www.amazon.com/Your-Scattered-Bodies-Riverworld-Saga/dp/0345419677>
+
+- `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/0063347539/digitalcomi0a-20>
 
@@ -6170,6 +6317,10 @@
 
 - `src/content/posts/translations/tribality-warlord-class-part-two.mdx`
 
+## <https://www.deviantart.com/art-of-josephg/art/The-Toad-that-Said-Meh-508938106>
+
+- `src/content/posts/translations/ludusludorum-old-school-magic-joseph-garcia.mdx`
+
 ## <https://www.deviantart.com/docwendigo/art/Dark-Ritual-358386909>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
@@ -6189,6 +6340,18 @@
 ## <https://www.deviantart.com/khaidu/art/More-Minions-286984990>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.deviantart.com/kingcorvid>
+
+- `src/content/posts/translations/ludusludorum-old-school-magic-joseph-garcia.mdx`
+
+## <https://www.deviantart.com/kingcorvid/art/Cleric-of-the-Raven-Queen-479167149>
+
+- `src/content/posts/translations/ludusludorum-old-school-magic-joseph-garcia.mdx`
+
+## <https://www.deviantart.com/kingcorvid/art/What-Oh-no-I-found-them-like-this-506660514>
+
+- `src/content/posts/translations/ludusludorum-old-school-magic-joseph-garcia.mdx`
 
 ## <https://www.deviantart.com/typhonart/art/Undead-Minions-397915865>
 
@@ -6356,6 +6519,10 @@
 
 - `src/content/posts/translations/angrygm-lets-fix-inspiration-again.mdx`
 
+## <https://www.goodreads.com/shelf/show/military-fantasy>
+
+- `src/content/posts/translations/ludusludorum-glen-cooks-goblin-recon.mdx`
+
 ## <https://www.google.com/search?q=undyed+linen&client=firefox-b-1-d&sxsrf=ALeKk00eZlXuz74AJmpmprNpm-Wu8QKoFA:1617298727520&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiHspihy93vAhWmGFkFHfmuBnAQ_AUoAnoECAEQBA&biw=1920&bih=910>
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
@@ -6363,6 +6530,18 @@
 ## <https://www.google.com/search?q=undyed+wool&client=firefox-b-1-d&sxsrf=ALeKk00fhngXqc5rg-U3c8Av7rAsdn-zrg:1617298573740&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj9z-7Xyt3vAhVuFVkFHQ2wAVoQ_AUoAnoECAEQBA&biw=1920&bih=910>
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
+## <https://www.gozzys.com/dungeon-maps>
+
+- `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
+
+## <https://www.gozzys.com/wilderness-maps>
+
+- `src/content/posts/translations/ludusludorum-glen-cooks-goblin-recon.mdx`
+
+## <https://www.greyhawkonline.com/grodog/gh_castle.html>
+
+- `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
 
 ## <https://www.historynet.com/women-in-war>
 
@@ -6391,6 +6570,10 @@
 ## <https://www.kickstarter.com/projects/batintheatticgames/into-the-majestic-fantasy-realms-the-northern-marches>
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://www.kickstarter.com/projects/jeffdee/re-creating-my-art-from-the-adandd-rogues-gallery>
+
+- `src/content/posts/translations/ludusludorum-old-school-magic-joseph-garcia.mdx`
 
 ## <https://www.lastgaspgrimoire.com/in-corpathium>
 
@@ -6440,6 +6623,10 @@
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
+## <https://www.nationalgeographic.com/science/article/140927-largest-cave-china-exploration-science>
+
+- `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
+
 ## <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2677789>
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
@@ -6465,6 +6652,10 @@
 ## <https://www.paperspencils.com/8-reasons-why-dd-is-better-than-video-games>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.paratime.ca/cartography/index.html>
+
+- `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
 
 ## <https://www.patreon.com/dumpstat>
 
@@ -6522,6 +6713,10 @@
 ## <https://www.rpg.net/columns/advanced-designers-and-dragons/advanced-designers-and-dragons56.phtml>
 
 - `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
+
+## <https://www.scribd.com/doc/271962069/Godfathom>
+
+- `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
 
 ## <https://www.skullsplitterdice.com/blogs/andrars-rumblings/ultimate-necromancers-guide>
 
@@ -6594,6 +6789,10 @@
 ## <https://www.whatsapp.com>
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
+
+## <https://www.wizards.com/dnd/mapper/launcher.htm>
+
+- `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
 
 ## <https://www.youtube.com/@AGreatDivorce/featured>
 
@@ -6773,6 +6972,10 @@
 ## <https://www.youtube.com/watch?v=h3BShfhygbk>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
+## <https://www.youtube.com/watch?v=hG5rCZaiY4Q>
+
+- `src/content/posts/translations/necropraxis-wilderness-of-building.mdx`
 
 ## <https://www.youtube.com/watch?v=hou0lU8WMgo>
 
