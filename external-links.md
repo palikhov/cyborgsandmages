@@ -1740,6 +1740,14 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
+## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dsi%2Fdhros&highlight=iron>
+
+- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
+
+## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dchalybs1&highlight=steel>
+
+- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
+
 ## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dmolarius&highlight=mill>
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
@@ -1977,25 +1985,13 @@
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 
-## <https://acoup.blog/2020/10/02/collections-iron-how-did-they-make-it-part-iii-hammer-time>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-
-## <https://acoup.blog/2020/10/09/collections-iron-how-did-they-make-it-part-iva-steel-yourself>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-
-## <https://acoup.blog/2020/10/16/collections-iron-how-did-they-make-it-part-ivb-work-hardening-or-hardly-working>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-
 ## <https://acoup.blog/2020/11/06/collections-iron-how-did-they-make-it-addendum-crucible-steel-and-cast-iron>
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
 - `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
+- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
+- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
 
 ## <https://acoup.blog/2020/12/04/collections-that-dothraki-horde-part-i-barbarian-couture>
 
@@ -2365,6 +2361,10 @@
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
 
+## <https://commons.wikimedia.org/wiki/Category:Hephaestus_making_arms_for_Achilles>
+
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
+
 ## <https://commons.wikimedia.org/wiki/Category:Lachish_Reliefs>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
@@ -2440,6 +2440,10 @@
 ## <https://delvingwolf.blogspot.com>
 
 - `src/content/posts/translations/billhook-cities-fixed-at-last.mdx`
+
+## <https://digital.library.pitt.edu/islandora/object/pitt%3AFCW048AP0201>
+
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
 
 ## <https://dmdavid.com/tag/gallery-of-poster-battle-maps-published-for-dungeons-dragons>
 
@@ -2731,6 +2735,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
+## <https://en.wikipedia.org/wiki/Allotropes_of_iron>
+
+- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
+
 ## <https://en.wikipedia.org/wiki/Almain_rivet>
 
 - `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
@@ -2746,6 +2754,10 @@
 ## <https://en.wikipedia.org/wiki/Ancient_Egyptian_agriculture>
 
 - `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
+## <https://en.wikipedia.org/wiki/Annealing_(metallurgy)>
+
+- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
 
 ## <https://en.wikipedia.org/wiki/Aquila_(Roman)>
 
@@ -2792,6 +2804,10 @@
 ## <https://en.wikipedia.org/wiki/Augustus_of_Prima_Porta>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
+
+## <https://en.wikipedia.org/wiki/Austenite>
+
+- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
 
 ## <https://en.wikipedia.org/wiki/Avaricum>
 
@@ -2936,6 +2952,7 @@
 ## <https://en.wikipedia.org/wiki/Bloomery>
 
 - `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
 
 ## <https://en.wikipedia.org/wiki/Bog_iron>
 
@@ -2944,6 +2961,10 @@
 ## <https://en.wikipedia.org/wiki/Boiled_leather>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
+
+## <https://en.wikipedia.org/wiki/Bombard_(weapon)>
+
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
 
 ## <https://en.wikipedia.org/wiki/Boule_(bread)>
 
@@ -2992,6 +3013,10 @@
 ## <https://en.wikipedia.org/wiki/Cats_in_ancient_Egypt>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <https://en.wikipedia.org/wiki/Cementite>
+
+- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
 
 ## <https://en.wikipedia.org/wiki/Center_of_percussion>
 
@@ -3329,6 +3354,7 @@
 ## <https://en.wikipedia.org/wiki/Guilds_of_Florence>
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
 
 ## <https://en.wikipedia.org/wiki/Guillaume_Fouace>
 
@@ -3378,9 +3404,17 @@
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
+## <https://en.wikipedia.org/wiki/Hardy_tool>
+
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
+
 ## <https://en.wikipedia.org/wiki/Health_(gaming)>
 
 - `src/content/posts/translations/gaming-logic-hit-points.mdx`
+
+## <https://en.wikipedia.org/wiki/Heat_treating>
+
+- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
 
 ## <https://en.wikipedia.org/wiki/Hellenistic_period>
 
@@ -3480,6 +3514,10 @@
 ## <https://en.wikipedia.org/wiki/Kadesh_inscriptions>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://en.wikipedia.org/wiki/Katana>
+
+- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
 
 ## <https://en.wikipedia.org/wiki/Keep>
 
@@ -3602,6 +3640,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
+## <https://en.wikipedia.org/wiki/Martensite>
+
+- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
+
 ## <https://en.wikipedia.org/wiki/Medieval_demography>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
@@ -3682,6 +3724,10 @@
 
 - `src/content/posts/translations/practical-polytheism-part-iv-little-gods-and-big-people.mdx`
 
+## <https://en.wikipedia.org/wiki/Naval_ram>
+
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
+
 ## <https://en.wikipedia.org/wiki/Neo-Assyrian_Empire>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
@@ -3701,6 +3747,10 @@
 ## <https://en.wikipedia.org/wiki/Non-commissioned_officer>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
+## <https://en.wikipedia.org/wiki/Noricum>
+
+- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
 
 ## <https://en.wikipedia.org/wiki/Norman_Borlaug>
 
@@ -3749,6 +3799,10 @@
 ## <https://en.wikipedia.org/wiki/Path_dependence>
 
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
+
+## <https://en.wikipedia.org/wiki/Pattern_welding>
+
+- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
 
 ## <https://en.wikipedia.org/wiki/Pectin>
 
@@ -4048,6 +4102,14 @@
 
 - `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
 
+## <https://en.wikipedia.org/wiki/Steel>
+
+- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
+
+## <https://en.wikipedia.org/wiki/Steelmaking>
+
+- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
+
 ## <https://en.wikipedia.org/wiki/Steven_Zirnkilton>
 
 - `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
@@ -4096,6 +4158,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://en.wikipedia.org/wiki/Tempering_(metallurgy)>
+
+- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
+
 ## <https://en.wikipedia.org/wiki/Tent_pegging>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
@@ -4103,6 +4169,10 @@
 ## <https://en.wikipedia.org/wiki/Terracotta_Army>
 
 - `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
+
+## <https://en.wikipedia.org/wiki/Tetragonal_crystal_system>
+
+- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
 
 ## <https://en.wikipedia.org/wiki/Textiles_in_folklore>
 
@@ -6173,13 +6243,25 @@
 
 - `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
 
+## <https://www.britishmuseum.org/collection/object/A_1993-0714-2>
+
+- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
+
 ## <https://www.britishmuseum.org/collection/object/A_2003-0224-0-38>
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
+## <https://www.britishmuseum.org/collection/object/C_R-8937>
+
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
+
 ## <https://www.britishmuseum.org/collection/object/G_1814-0704-573>
 
 - `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
+
+## <https://www.britishmuseum.org/collection/object/G_1866-0806-1>
+
+- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
 
 ## <https://www.britishmuseum.org/collection/object/G_1873-0820-304>
 
@@ -6189,9 +6271,21 @@
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 
+## <https://www.britishmuseum.org/collection/object/H_1939-1010-95>
+
+- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
+
+## <https://www.britishmuseum.org/collection/object/H_ML-2928>
+
+- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
+
 ## <https://www.britishmuseum.org/collection/object/P_1831-1212-19>
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1836-0811-78>
+
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
 
 ## <https://www.britishmuseum.org/collection/object/P_1855-0414-44>
 
@@ -6221,6 +6315,10 @@
 
 - `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
 
+## <https://www.britishmuseum.org/collection/object/P_1882-0311-3689>
+
+- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
+
 ## <https://www.britishmuseum.org/collection/object/P_1882-0909-163>
 
 - `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
@@ -6236,6 +6334,10 @@
 ## <https://www.britishmuseum.org/collection/object/P_1946-0713-683>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
+## <https://www.britishmuseum.org/collection/object/P_1951-1110-70-5>
+
+- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
 
 ## <https://www.britishmuseum.org/collection/object/P_1958-0712-1397>
 
@@ -6280,6 +6382,10 @@
 ## <https://www.census.gov/data/tables/time-series/demo/families/households.html>
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
+
+## <https://www.colonialwilliamsburg.org/locations/anderson-blacksmith-shop-and-public-armoury>
+
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
 
 ## <https://www.creightonbroadhurst.com/6-things-i-hate-about-module-presentation>
 
@@ -7065,6 +7171,10 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 
+## <https://youtu.be/DEkDsdzFyVU>
+
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
+
 ## <https://youtu.be/DPMiWwqX4wI>
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
@@ -7145,6 +7255,14 @@
 
 - `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
+## <https://youtu.be/cc_n8H-2-I0>
+
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
+
+## <https://youtu.be/ehQWXiixTxc>
+
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
+
 ## <https://youtu.be/ek2O6bVAIQQ>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
@@ -7171,6 +7289,10 @@
 ## <https://youtu.be/m0zYZhJXELQ>
 
 - `src/content/posts/translations/acoup-lonely-city-part-i-ideal-city.mdx`
+
+## <https://youtu.be/mPdviIiNAM8>
+
+- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
 
 ## <https://youtu.be/mzDf52M21J0?t=168>
 
