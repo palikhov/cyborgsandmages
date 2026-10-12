@@ -4365,6 +4365,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
+## <https://en.wikipedia.org/wiki/Wechsler_Adult_Intelligence_Scale>
+
+- `src/content/posts/translations/ludusludorum-magic-prevalent-pervasive.mdx`
+
 ## <https://en.wikipedia.org/wiki/Wheat>
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
@@ -4632,15 +4636,13 @@
 
 - `src/content/posts/translations/ludusludorum-american-geography-european-history.mdx`
 - `src/content/posts/translations/ludusludorum-classical-medieval-fairy-tale-western.mdx`
+- `src/content/posts/translations/ludusludorum-magic-prevalent-pervasive.mdx`
 
 ## <https://ludusludorum.com/2014/10/21/introducing-the-ludus-population-engine>
 
 - `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
 - `src/content/posts/translations/ludusludorum-american-geography-european-history.mdx`
-
-## <https://ludusludorum.com/2014/12/23/how-common-is-magic-in-dd-the-third-of-four-principles>
-
-- `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
+- `src/content/posts/translations/ludusludorum-magic-prevalent-pervasive.mdx`
 
 ## <https://ludusludorum.com/wp-content/uploads/2016/04/PREGEN-CHARACTER-ANALYSIS-RAW-DATA.pdf>
 
@@ -4922,6 +4924,10 @@
 ## <https://slack.com>
 
 - `src/content/posts/translations/creighton-how-i-use-slack-to-help-run-my-campaign.mdx`
+
+## <https://slate.com/technology/2014/04/what-do-sat-and-iq-tests-measure-general-intelligence-predicts-school-and-life-success.html>
+
+- `src/content/posts/translations/ludusludorum-magic-prevalent-pervasive.mdx`
 
 ## <https://slyflourish.com>
 
@@ -5996,9 +6002,17 @@
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
 
+## <https://web.archive.org/web/20141223030817/http://tedwordsblog.com/2012/11/16/chicken-sexers-plane-spotters-and-the-elegance-of-tagteaching>
+
+- `src/content/posts/translations/ludusludorum-magic-prevalent-pervasive.mdx`
+
 ## <https://web.archive.org/web/20150212171312/http://www.1km1kt.net/geomorph>
 
 - `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
+
+## <https://web.archive.org/web/20150316173235/http://www.psych-it.com.au/Psychlopedia/article.asp?id%3D242>
+
+- `src/content/posts/translations/ludusludorum-magic-prevalent-pervasive.mdx`
 
 ## <https://web.archive.org/web/20160511175527/http://dndadventurersleague.org/rage-of-demons-pregens>
 
@@ -6895,6 +6909,10 @@
 ## <https://www.patreon.com/posts/28554447>
 
 - `src/content/posts/translations/brandes-leveling-up-your-background-part-three.mdx`
+
+## <https://www.polygon.com/2014/7/9/5882509/dungeons-and-dragons-gender-sexuality>
+
+- `src/content/posts/translations/ludusludorum-dd-isnt-even-human.mdx`
 
 ## <https://www.prismaticwasteland.com/blog/my-favorite-trap>
 
