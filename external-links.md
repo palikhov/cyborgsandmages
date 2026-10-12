@@ -5998,9 +5998,17 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
 
+## <https://web.archive.org/web/20120322194411/http://www.wizards.com/DnD/Article.aspx?x=dnd/4ll/20120319>
+
+- `src/content/posts/translations/dmdavid-dd-2024-lost-speed-of-play.mdx`
+
 ## <https://web.archive.org/web/20120707065112/wizards.com/DnD/Article.aspx?x=dnd/4ll/20120604>
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
+
+## <https://web.archive.org/web/20130405150054/http:/www.wizards.com/DnD/Article.aspx?x=dnd/4ll/20120409>
+
+- `src/content/posts/translations/dmdavid-dd-2024-lost-speed-of-play.mdx`
 
 ## <https://web.archive.org/web/20141223030817/http://tedwordsblog.com/2012/11/16/chicken-sexers-plane-spotters-and-the-elegance-of-tagteaching>
 
@@ -6581,6 +6589,10 @@
 
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
 
+## <https://www.dmsguild.com/product/189132/DDAL0501-Treasure-of-the-Broken-Hoard-5e?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-dd-2024-lost-speed-of-play.mdx`
+
 ## <https://www.dmsguild.com/product/246330/The-Commander--A-Class-of-Leadership-and-Combat-Tactics>
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
@@ -6589,6 +6601,10 @@
 ## <https://www.dmsguild.com/product/251816/Waterdeep-City-Encounters?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
+
+## <https://www.dmsguild.com/product/328476/DDAL1000-Ice-Road-Trackers?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-dd-2024-lost-speed-of-play.mdx`
 
 ## <https://www.dndbeyond.com/sources/basic-rules/monsters>
 
