@@ -127,6 +127,10 @@
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
 
+## <http://dmdavid.com/tag/how-dd-next-almost-made-knowledge-count-and-then-backtracked>
+
+- `src/content/posts/translations/dmdavid-how-to-run-an-ambush.mdx`
+
 ## <http://dmdavid.com/tag/how-dd-next-moves-toward-a-simpler-core-game>
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
@@ -134,6 +138,10 @@
 ## <http://dmdavid.com/tag/in-dd-next-ability-modifiers-are-too-small-for-the-ability-check-mechanic>
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
+
+## <http://dmdavid.com/tag/is-it-noticed-how-to-run-alertness>
+
+- `src/content/posts/translations/dmdavid-how-to-run-an-ambush.mdx`
 
 ## <http://dmdavid.com/tag/matters-of-taste>
 
@@ -2464,10 +2472,6 @@
 ## <https://dmdavid.com/tag/gallery-of-poster-battle-maps-published-for-dungeons-dragons>
 
 - `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
-
-## <https://dmdavid.com/tag/how-to-run-an-ambush>
-
-- `src/content/posts/translations/ludusludorum-glen-cooks-goblin-recon.mdx`
 
 ## <https://dmdavid.com/tag/using-the-small-world-principle-to-build-a-better-game>
 
