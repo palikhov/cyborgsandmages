@@ -1516,6 +1516,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <http://www.dragonsfoot.org/forums/viewtopic.php?t=18710&postdays=0&postorder=asc&start=35>
+
+- `src/content/posts/translations/melan-dungeon-mapping.mdx`
+
 ## <http://www.drivethrurpg.com/product/108572/The-Lazy-Dungeon-Master>
 
 - `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
@@ -1547,6 +1551,10 @@
 ## <http://www.enworld.org/forum/showthread.php?276741-Modules-it-turns-out-apparently-DO-sell&p=5182450&viewfull=1>
 
 - `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
+
+## <http://www.enworld.org/showthread.php?t=168563>
+
+- `src/content/posts/translations/melan-dungeon-mapping.mdx`
 
 ## <http://www.fallenearth.com>
 
@@ -2235,6 +2243,10 @@
 - `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
 - `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
 
+## <https://awkwardturtle.itch.io/waypoints>
+
+- `src/content/posts/translations/d66kobolds-faction-procedures-dolmenwood-example.mdx`
+
 ## <https://awoiaf.westeros.org/index.php/Military_strength>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
@@ -2302,6 +2314,10 @@
 ## <https://civilization.fandom.com/wiki/Iron_(Civ4)>
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
+
+## <https://classless-kobolds.itch.io/the-lounge-temple-of-asavraki>
+
+- `src/content/posts/translations/d66kobolds-faction-procedures-dolmenwood-example.mdx`
 
 ## <https://coinsandscrolls.blogspot.ca/2017/06/osr-death-taxes-and-death-taxes-part-2.html>
 
@@ -2452,10 +2468,6 @@
 ## <https://d66kobolds.blogspot.com/2021/03/play-worlds-not-rules-design-challenge.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
-
-## <https://d66kobolds.blogspot.com/2021/10/faction-procedures-dolmenwood-example.html>
-
-- `src/content/posts/translations/faction-procedures-comparative-review.mdx`
 
 ## <https://danubelimes-robg.eu/index.php/en/45en>
 
@@ -2694,6 +2706,11 @@
 ## <https://elmc.at/how-to-set-up-and-use-faction-turns>
 
 - `src/content/posts/translations/faction-procedures-comparative-review.mdx`
+- `src/content/posts/translations/patchworkpaladin-the-faction-turn.mdx`
+
+## <https://emdt.bigcartel.com/product/castle-xyntillan>
+
+- `src/content/posts/translations/d66kobolds-faction-procedures-dolmenwood-example.mdx`
 
 ## <https://en.wikipedia.org/w/index.php?title=File:Asian_Elephant,_Royal_Chitwan_National_Park.jpg>
 
@@ -4735,9 +4752,9 @@
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xv.mdx`
 
-## <https://patchworkpaladin.com/2025/01/06/the-faction-turn>
+## <https://patchworkpaladin.com/2025/01/03/playtime-dungeon-time-wilderness-time-journey-time-faction-turns-and-calendars>
 
-- `src/content/posts/translations/faction-procedures-comparative-review.mdx`
+- `src/content/posts/translations/patchworkpaladin-the-faction-turn.mdx`
 
 ## <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/3A*.html>
 
@@ -6576,9 +6593,17 @@
 
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
 
+## <https://www.drivethrurpg.com/en/product/313115/mausritter?affiliate_id=1368722>
+
+- `src/content/posts/translations/patchworkpaladin-the-faction-turn.mdx`
+
 ## <https://www.drivethrurpg.com/en/product/351723/level-up-your-background>
 
 - `src/content/posts/translations/brandes-improving-backgrounds-dd-2024.mdx`
+
+## <https://www.drivethrurpg.com/en/product/500478/cairn-warden-s-guide-2nd-edition?affiliate_id=1368722>
+
+- `src/content/posts/translations/patchworkpaladin-the-faction-turn.mdx`
 
 ## <https://www.drivethrurpg.com/en/product/581335/gary-s-appendix-issue-10?affiliate_id=345498>
 
