@@ -2263,6 +2263,14 @@
 
 - `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
 
+## <https://bladesinthedark.com/faction-game>
+
+- `src/content/posts/translations/faction-procedures-comparative-review.mdx`
+
+## <https://bladesinthedark.com/progress-clocks>
+
+- `src/content/posts/translations/faction-procedures-comparative-review.mdx`
+
 ## <https://bmcr.brynmawr.edu/2021/2021.03.19>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
@@ -2278,6 +2286,10 @@
 ## <https://books.google.ca/books?id=cBqgOXfMxAoC>
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
+
+## <https://cairnrpg.com/second-edition/wardens-guide/setting-seeds>
+
+- `src/content/posts/translations/faction-procedures-comparative-review.mdx`
 
 ## <https://civilization.fandom.com/wiki/Iron_(Civ4)>
 
@@ -2433,6 +2445,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://d66kobolds.blogspot.com/2021/10/faction-procedures-dolmenwood-example.html>
+
+- `src/content/posts/translations/faction-procedures-comparative-review.mdx`
+
 ## <https://danubelimes-robg.eu/index.php/en/45en>
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
@@ -2472,6 +2488,10 @@
 ## <https://dnd.wizards.com/articles/features/basicrules>
 
 - `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
+
+## <https://dnd.wizards.com/articles/features/character_sheets>
+
+- `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
 
 ## <https://docs.google.com/spreadsheets/d/1ofuzHPMbQP31FZ5RWsIezE9dFGUlzmBbeZqM7pr8ruc/edit?usp=sharing>
 
@@ -2666,6 +2686,10 @@
 ## <https://elmc.at>
 
 - `src/content/posts/translations/billhook-cities-fixed-at-last.mdx`
+
+## <https://elmc.at/how-to-set-up-and-use-faction-turns>
+
+- `src/content/posts/translations/faction-procedures-comparative-review.mdx`
 
 ## <https://en.wikipedia.org/w/index.php?title=File:Asian_Elephant,_Royal_Chitwan_National_Park.jpg>
 
@@ -4578,6 +4602,22 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
 
+## <https://ludusludorum.com/2014/10/21/introducing-the-ludus-population-engine>
+
+- `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
+
+## <https://ludusludorum.com/2014/12/23/how-common-is-magic-in-dd-the-third-of-four-principles>
+
+- `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
+
+## <https://ludusludorum.com/wp-content/uploads/2016/04/PREGEN-CHARACTER-ANALYSIS-RAW-DATA.pdf>
+
+- `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
+
+## <https://ludusludorum.com/wp-content/uploads/2016/04/PREGEN-CHARACTER-ANALYSIS.pdf>
+
+- `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
+
 ## <https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign>
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
@@ -4589,6 +4629,10 @@
 ## <https://magic.wizards.com/en/articles/archive/making-magic/ten-things-every-game-needs-part-1-part-2-2011-12-19>
 
 - `src/content/posts/translations/angrygm-the-gms-burden-and-other-stories.mdx`
+
+## <https://mausritter.com/srd/hexcrawl-toolbox>
+
+- `src/content/posts/translations/faction-procedures-comparative-review.mdx`
 
 ## <https://maziriansgarden.blogspot.com/2018/04/city-state-of-invincible-overlord-city.html>
 
@@ -4614,6 +4658,10 @@
 ## <https://media.wizards.com/2016/dnd/downloads/UA_Druid11272016_CAWS.pdf>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://media.wizards.com/downloads/dnd/StarterSet_Characters.pdf>
+
+- `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
 
 ## <https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1315>
 
@@ -4682,6 +4730,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xv.mdx`
+
+## <https://patchworkpaladin.com/2025/01/06/the-faction-turn>
+
+- `src/content/posts/translations/faction-procedures-comparative-review.mdx`
 
 ## <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/3A*.html>
 
@@ -4810,6 +4862,10 @@
 ## <https://rpgcharacters.wordpress.com/2016/12/13/the-hall-of-daniau-the-defender>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
+## <https://rpgramblings.com>
+
+- `src/content/posts/translations/garys-appendix-10-hells.mdx`
 
 ## <https://saint-aelfric-customary.org/2019/02/18/martin-luther-the-baptismal-liturgy>
 
@@ -5912,6 +5968,14 @@
 
 - `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
 
+## <https://web.archive.org/web/20160511175527/http://dndadventurersleague.org/rage-of-demons-pregens>
+
+- `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
+
+## <https://web.archive.org/web/20160514151126/http://dndadventurersleague.org/elemental-evil-pregens>
+
+- `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
+
 ## <https://welshpiper.com/hex-based-campaign-design-part-1?sfw=pass1729610011>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
@@ -6512,6 +6576,14 @@
 
 - `src/content/posts/translations/brandes-improving-backgrounds-dd-2024.mdx`
 
+## <https://www.drivethrurpg.com/en/product/581335/gary-s-appendix-issue-10?affiliate_id=345498>
+
+- `src/content/posts/translations/garys-appendix-10-hells.mdx`
+
+## <https://www.drivethrurpg.com/en/publisher/5606/necrotic-gnome/category/32434/old-school-essentials?affiliate_id=345498>
+
+- `src/content/posts/translations/garys-appendix-10-hells.mdx`
+
 ## <https://www.drivethrurpg.com/product/240542/In-the-Company-of-Unicorns-5E>
 
 - `src/content/posts/translations/tribality-fighter-class-part-seven.mdx`
@@ -6933,6 +7005,10 @@
 ## <https://www.youtube.com/shorts/o-slFgtuQtI>
 
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+
+## <https://www.youtube.com/watch?v=-ORbIu5C5UM>
+
+- `src/content/posts/translations/faction-procedures-comparative-review.mdx`
 
 ## <https://www.youtube.com/watch?v=-ZYlXEUo-Lo>
 
