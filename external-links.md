@@ -123,13 +123,13 @@
 
 - `src/content/posts/translations/angrygm-fix-yourself-break-the-game.mdx`
 
+## <http://dmdavid.com/tag/choosing-which-type-of-perception-check-fits-a-situation>
+
+- `src/content/posts/translations/dmdavid-is-it-noticed-how-to-run-alertness.mdx`
+
 ## <http://dmdavid.com/tag/hitting-the-to-hit-sweet-spot>
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
-
-## <http://dmdavid.com/tag/how-dd-next-almost-made-knowledge-count-and-then-backtracked>
-
-- `src/content/posts/translations/dmdavid-how-to-run-an-ambush.mdx`
 
 ## <http://dmdavid.com/tag/how-dd-next-moves-toward-a-simpler-core-game>
 
@@ -138,10 +138,6 @@
 ## <http://dmdavid.com/tag/in-dd-next-ability-modifiers-are-too-small-for-the-ability-check-mechanic>
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
-
-## <http://dmdavid.com/tag/is-it-noticed-how-to-run-alertness>
-
-- `src/content/posts/translations/dmdavid-how-to-run-an-ambush.mdx`
 
 ## <http://dmdavid.com/tag/matters-of-taste>
 
@@ -153,6 +149,7 @@
 
 ## <http://dmdavid.com/tag/the-brilliance-of-unrealistic-hit-points>
 
+- `src/content/posts/translations/dmdavid-how-dd-next-almost-made-knowledge-count-and-then-backtracked.mdx`
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
 
 ## <http://dmdavid.com/tag/two-problems-that-provoked-bounded-accuracy>
@@ -1668,6 +1665,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <http://www.jerryspringertv.com>
+
+- `src/content/posts/translations/dmdavid-how-dd-next-almost-made-knowledge-count-and-then-backtracked.mdx`
+
 ## <http://www.jstor.org/stable/4214842>
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
@@ -1723,6 +1724,10 @@
 ## <http://www.paperspencils.com/2017/07/09/flux-space-in-dungeons>
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+
+## <http://www.pbs.org/wgbh/roadshow>
+
+- `src/content/posts/translations/dmdavid-how-dd-next-almost-made-knowledge-count-and-then-backtracked.mdx`
 
 ## <http://www.pelgranepress.com?cat=222>
 
