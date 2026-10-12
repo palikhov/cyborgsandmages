@@ -4628,9 +4628,15 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
 
+## <https://ludusludorum.com/2014/10/21/game-world-design-four-first-principles>
+
+- `src/content/posts/translations/ludusludorum-american-geography-european-history.mdx`
+- `src/content/posts/translations/ludusludorum-classical-medieval-fairy-tale-western.mdx`
+
 ## <https://ludusludorum.com/2014/10/21/introducing-the-ludus-population-engine>
 
 - `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
+- `src/content/posts/translations/ludusludorum-american-geography-european-history.mdx`
 
 ## <https://ludusludorum.com/2014/12/23/how-common-is-magic-in-dd-the-third-of-four-principles>
 
@@ -6098,6 +6104,10 @@
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
 
+## <https://www.amazon.com/Inventing-Middle-Ages-Norman-Cantor/dp/0688123023>
+
+- `src/content/posts/translations/ludusludorum-classical-medieval-fairy-tale-western.mdx`
+
 ## <https://www.amazon.com/Jared-Blando/e/B00IVYMNVQ>
 
 - `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
@@ -6754,6 +6764,10 @@
 ## <https://www.greyhawkonline.com/grodog/gh_castle.html>
 
 - `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
+
+## <https://www.gutenberg.org/ebooks/169>
+
+- `src/content/posts/translations/ludusludorum-classical-medieval-fairy-tale-western.mdx`
 
 ## <https://www.historynet.com/women-in-war>
 
