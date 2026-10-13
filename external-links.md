@@ -130,14 +130,11 @@
 ## <http://dmdavid.com/tag/a-lack-of-ability-checks-once-shaped-how-people-played-dungeons-dragons>
 
 - `src/content/posts/translations/dmdavid-ability-checks-history.mdx`
+- `src/content/posts/translations/dmdavid-challenging-player-skill.mdx`
 
 ## <http://dmdavid.com/tag/a-priest-a-warlock-and-a-dwarf-walk-into-a-bar-and-nothing-happens>
 
 - `src/content/posts/translations/dmdavid-encouraging-role-playing.mdx`
-
-## <http://dmdavid.com/tag/a-role-playing-game-players-obligation>
-
-- `src/content/posts/translations/dmdavid-city-state-weird-questions.mdx`
 
 ## <http://dmdavid.com/tag/choosing-which-type-of-perception-check-fits-a-situation>
 
@@ -184,6 +181,10 @@
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
 
+## <http://dmdavid.com/tag/should-a-dungeon-master-invite-players-to-help-create-the-dd-world-beyond-their-characters>
+
+- `src/content/posts/translations/dmdavid-make-players-care-npcs.mdx`
+
 ## <http://dmdavid.com/tag/side-trek-for-storm-kings-thunder-to-steal-a-primordial>
 
 - `src/content/posts/translations/dmdavid-dynamic-combat-locations.mdx`
@@ -191,6 +192,10 @@
 ## <http://dmdavid.com/tag/speed-factor-weapon-armor-class-adjustments-and-skill-challenges>
 
 - `src/content/posts/translations/dmdavid-skill-challenge-good-intentions.mdx`
+
+## <http://dmdavid.com/tag/the-pros-and-cons-of-dds-ability-checks>
+
+- `src/content/posts/translations/dmdavid-challenging-player-skill.mdx`
 
 ## <http://dmdavid.com/tag/two-problems-that-provoked-bounded-accuracy>
 
@@ -505,6 +510,10 @@
 
 - `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
 
+## <http://grognardia.blogspot.com/2009/09/interview-ed-greenwood-part-iii.html>
+
+- `src/content/posts/translations/dmdavid-party-guide.mdx`
+
 ## <http://grognardia.blogspot.com/2010/02/interview-jean-wells-part-i.html>
 
 - `src/content/posts/translations/dmdavid-palace-silver-princess-story.mdx`
@@ -665,6 +674,10 @@
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 - `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
 
+## <http://mentalfloss.com/article/21918/5-minor-tv-characters-who-hijacked-show>
+
+- `src/content/posts/translations/dmdavid-make-players-care-npcs.mdx`
+
 ## <http://mikepohjola.com/turku/index.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -773,6 +786,14 @@
 ## <http://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <http://slyflourish.com/2016_dm_survey_results.html>
+
+- `src/content/posts/translations/dmdavid-say-yes.mdx`
+
+## <http://slyflourish.com/dm_traits_analysis.html>
+
+- `src/content/posts/translations/dmdavid-challenging-player-skill.mdx`
 
 ## <http://soogagames.blogspot.ca/2015/10/the-far-war.html>
 
@@ -1968,6 +1989,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
 
+## <http://www.rpgmusings.com/2012/10/when-a-gm-loves-an-npc>
+
+- `src/content/posts/translations/dmdavid-party-guide.mdx`
+
 ## <http://www.rpgnow.com/product/109474/Dragon-and-the-Thief>
 
 - `src/content/posts/translations/creighton-dragon-and-the-thief.mdx`
@@ -2016,6 +2041,10 @@
 ## <http://www.webexhibits.org/pigments/intro/history.html>
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
+## <http://www.wired.com/geekdad/2012/10/go-villain>
+
+- `src/content/posts/translations/dmdavid-player-obligation.mdx`
 
 ## <http://www.wizards.com/default.asp?x=dnd/4ex/20080505a>
 
@@ -2670,18 +2699,9 @@
 
 - `src/content/posts/translations/dmdavid-11-dm-tips-winter-fantasy-2020.mdx`
 
-## <https://dmdavid.com/tag/a-role-playing-game-players-obligation>
-
-- `src/content/posts/translations/dmdavid-choose-your-adventure-pacing-decisions.mdx`
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
-
 ## <https://dmdavid.com/tag/basic-and-advanced-dave-arneson-takes-a-job-at-tsr-part-4>
 
 - `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
-
-## <https://dmdavid.com/tag/challenging-players-skill-without-frustrating-anyone>
-
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
 ## <https://dmdavid.com/tag/confidence-game-why-faking-confidence-makes-you-a-better-dungeon-master>
 
@@ -2745,10 +2765,6 @@
 
 - `src/content/posts/translations/dmdavid-fourth-edition-skill-challenges-bad-adventures.mdx`
 
-## <https://dmdavid.com/tag/how-to-make-players-care-for-non-player-characters>
-
-- `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
-
 ## <https://dmdavid.com/tag/how-to-use-scenes-and-summaries-to-focus-on-the-best-parts-of-a-role-playing-adventure>
 
 - `src/content/posts/translations/dmdavid-choose-your-adventure-pacing-decisions.mdx`
@@ -2784,10 +2800,6 @@
 ## <https://dmdavid.com/tag/queen-of-the-demonweb-pits-opened-dungeons-dragons-to-the-planes>
 
 - `src/content/posts/translations/dmdavid-astral-ethereal-overcomplicated.mdx`
-
-## <https://dmdavid.com/tag/sometimes-i-tell-players-no-but-say-yes-made-me-a-better-dungeon-master>
-
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
 ## <https://dmdavid.com/tag/strong-moral-dilemmas-in-dd-and-the-unwanted-kind-that-keeps-appearing>
 
@@ -6348,6 +6360,10 @@
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/OutsideContextProblem?from=Main.OutsideContextVillain>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
+
+## <https://tvtropes.org/pmwiki/pmwiki.php/Main/StuffedIntoTheFridge>
+
+- `src/content/posts/translations/dmdavid-make-players-care-npcs.mdx`
 
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/TheChessmaster>
 
