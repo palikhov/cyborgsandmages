@@ -123,17 +123,37 @@
 
 - `src/content/posts/translations/angrygm-fix-yourself-break-the-game.mdx`
 
+## <http://dmdavid.com/tag/a-butcher-a-baker-and-naughty-nannies-in-the-city-state-of-the-invincible-overlord>
+
+- `src/content/posts/translations/dmdavid-city-state-weird-questions.mdx`
+
 ## <http://dmdavid.com/tag/a-lack-of-ability-checks-once-shaped-how-people-played-dungeons-dragons>
 
 - `src/content/posts/translations/dmdavid-ability-checks-history.mdx`
+
+## <http://dmdavid.com/tag/a-priest-a-warlock-and-a-dwarf-walk-into-a-bar-and-nothing-happens>
+
+- `src/content/posts/translations/dmdavid-encouraging-role-playing.mdx`
+
+## <http://dmdavid.com/tag/a-role-playing-game-players-obligation>
+
+- `src/content/posts/translations/dmdavid-city-state-weird-questions.mdx`
 
 ## <http://dmdavid.com/tag/choosing-which-type-of-perception-check-fits-a-situation>
 
 - `src/content/posts/translations/dmdavid-is-it-noticed-how-to-run-alertness.mdx`
 
+## <http://dmdavid.com/tag/everything-i-know-about-tracking-initiative>
+
+- `src/content/posts/translations/dmdavid-delegate-game-mastering.mdx`
+
 ## <http://dmdavid.com/tag/evolution-of-the-skill-challenge>
 
 - `src/content/posts/translations/dmdavid-skill-challenge-good-intentions.mdx`
+
+## <http://dmdavid.com/tag/gen-con-2013-recap-and-the-dd-championship-visits-the-lost-city>
+
+- `src/content/posts/translations/dmdavid-delegate-game-mastering.mdx`
 
 ## <http://dmdavid.com/tag/hitting-the-to-hit-sweet-spot>
 
@@ -187,6 +207,14 @@
 ## <http://dmdavid.com/tag/what-game-masters-and-their-monsters-should-say-during-a-combat-encounter>
 
 - `src/content/posts/translations/dmdavid-four-tactics-cunning-foes.mdx`
+
+## <http://dmdavid.com/tag/why-second-edition-dungeons-dragons-dropped-thieves-and-assassins>
+
+- `src/content/posts/translations/dmdavid-city-state-weird-questions.mdx`
+
+## <http://dnd.wizards.com/articles/events/adventurers-league-resources>
+
+- `src/content/posts/translations/dmdavid-city-state-weird-questions.mdx`
 
 ## <http://dnd.wizards.com/articles/features/awakened-mystic>
 
@@ -302,6 +330,10 @@
 ## <http://en.wikipedia.org/wiki/Qanat>
 
 - `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
+
+## <http://en.wikipedia.org/wiki/RPGA>
+
+- `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
 
 ## <http://en.wikipedia.org/wiki/Ritual_of_oak_and_mistletoe>
 
@@ -623,6 +655,10 @@
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
 
+## <http://media.wizards.com/2017/podcasts/dnd/DnDPodcast_02_02_2017.mp3>
+
+- `src/content/posts/translations/dmdavid-encouraging-role-playing.mdx`
+
 ## <http://medieval.ucdavis.edu/120D/Money.html>
 
 - `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
@@ -685,6 +721,10 @@
 ## <http://paizo.com/pathfinderRPG>
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
+
+## <http://quagkeep.blogspot.com/2012/01/i11-needle-painful-enchantment.html>
+
+- `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
 
 ## <http://retiredadventurer.blogspot.ca/2012/02/your-landholding-pcs-should-not-have.html>
 
@@ -763,6 +803,10 @@
 
 - `src/content/posts/translations/hackslashmaster-illusion-can-rob-your-game-of-fun.mdx`
 
+## <http://thealexandrian.net/wordpress/36526/roleplaying-games/thinking-about-urbancrawls-part-6-old-school-inspiration>
+
+- `src/content/posts/translations/dmdavid-city-state-weird-questions.mdx`
+
 ## <http://thegeniusinc.com/dd-monster-maker-download?ref=2.3.3>
 
 - `src/content/posts/translations/angrygm-monster-building-202.mdx`
@@ -814,6 +858,10 @@
 ## <http://tvtropes.org/pmwiki/pmwiki.php/Main/Metroidvania>
 
 - `src/content/posts/translations/angrygm-schrodinger-chekhov-samus.mdx`
+
+## <http://tvtropes.org/pmwiki/pmwiki.php/Main/PlotArmor>
+
+- `src/content/posts/translations/dmdavid-city-state-weird-questions.mdx`
 
 ## <http://udan-adan.blogspot.com/2015/06/on-romance-in-fantasy-rpgs.html>
 
@@ -2606,10 +2654,6 @@
 
 - `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
 
-## <https://dmdavid.com/tag/11-great-dungeon-master-tips-revealed-at-winter-fantasy-2020>
-
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
-
 ## <https://dmdavid.com/tag/4-pop-culture-assumptions-that-dungeons-dragons-destroyed>
 
 - `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
@@ -2617,6 +2661,14 @@
 ## <https://dmdavid.com/tag/6-things-to-include-in-a-1st-level-dd-adventure>
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/8-dd-thoughts-from-winter-fantasy>
+
+- `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
+
+## <https://dmdavid.com/tag/a-priest-a-wizard-and-a-dwarf-enter-a-bar-and-nothing-happens-without-the-2-key-ingredients-of-a-role-playing-scene>
+
+- `src/content/posts/translations/dmdavid-11-dm-tips-winter-fantasy-2020.mdx`
 
 ## <https://dmdavid.com/tag/a-role-playing-game-players-obligation>
 
@@ -2632,10 +2684,6 @@
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
 ## <https://dmdavid.com/tag/confidence-game-why-faking-confidence-makes-you-a-better-dungeon-master>
-
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
-
-## <https://dmdavid.com/tag/delegate-to-run-better-role-playing-game-sessions-by-doing-less>
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
@@ -2689,10 +2737,6 @@
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
-## <https://dmdavid.com/tag/how-to-create-loveable-non-player-characters-while-you-supercharge-your-sex-appeal>
-
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
-
 ## <https://dmdavid.com/tag/how-to-end-combat-encounters-before-they-become-a-grind>
 
 - `src/content/posts/translations/dmdavid-end-combat-before-grind.mdx`
@@ -2701,17 +2745,25 @@
 
 - `src/content/posts/translations/dmdavid-fourth-edition-skill-challenges-bad-adventures.mdx`
 
-## <https://dmdavid.com/tag/how-to-make-descriptions-vivid-and-evocative>
+## <https://dmdavid.com/tag/how-to-make-players-care-for-non-player-characters>
 
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+- `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
 
 ## <https://dmdavid.com/tag/how-to-use-scenes-and-summaries-to-focus-on-the-best-parts-of-a-role-playing-adventure>
 
 - `src/content/posts/translations/dmdavid-choose-your-adventure-pacing-decisions.mdx`
 
+## <https://dmdavid.com/tag/if-you-want-to-write-games-for-everyone-play-with-everyone>
+
+- `src/content/posts/translations/dmdavid-11-dm-tips-winter-fantasy-2020.mdx`
+
 ## <https://dmdavid.com/tag/improve-roleplaying-investigation-scenes-with-these-22-reasons-an-npc-wont-cooperate>
 
 - `src/content/posts/translations/dmdavid-fourth-edition-skill-challenges-bad-adventures.mdx`
+
+## <https://dmdavid.com/tag/little-known-dd-classics-fez>
+
+- `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
 
 ## <https://dmdavid.com/tag/lost-mine-of-phandelver-2014-greatest-dd-adventures-since-1985-number-3>
 
@@ -2721,17 +2773,9 @@
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
-## <https://dmdavid.com/tag/most-advice-for-encouraging-role-playing-stinks-but-i-found-the-good-stuff>
+## <https://dmdavid.com/tag/never-split-the-party-except-when-it-adds-fun>
 
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
-
-## <https://dmdavid.com/tag/my-5-biggest-game-mastering-blunders-ever>
-
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
-
-## <https://dmdavid.com/tag/narrating-your-games-the-essentials>
-
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+- `src/content/posts/translations/dmdavid-11-dm-tips-winter-fantasy-2020.mdx`
 
 ## <https://dmdavid.com/tag/nights-dark-terror-1986-greatest-dd-adventures-since-1985-number-1>
 
@@ -2749,9 +2793,17 @@
 
 - `src/content/posts/translations/dmdavid-end-combat-before-grind.mdx`
 
+## <https://dmdavid.com/tag/tag/winter-fantasy>
+
+- `src/content/posts/translations/dmdavid-11-dm-tips-winter-fantasy-2020.mdx`
+
 ## <https://dmdavid.com/tag/the-3-most-annoying-high-level-spells-in-dd>
 
 - `src/content/posts/translations/dmdavid-2024-core-books-apprehensive.mdx`
+
+## <https://dmdavid.com/tag/the-4-unwritten-rules-no-dungeon-master-should-break>
+
+- `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
 
 ## <https://dmdavid.com/tag/the-best-dm-tricks-for-helping-a-party-make-choices>
 
@@ -2786,10 +2838,6 @@
 - `src/content/posts/translations/dmdavid-fourth-edition-skill-challenges-bad-adventures.mdx`
 - `src/content/posts/translations/dmdavid-neglected-secret-dungeons-fun-explore.mdx`
 
-## <https://dmdavid.com/tag/two-weird-dd-questions-no-one-asks-anymore-answered-by-the-city-state-of-the-invincible-overlord>
-
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
-
 ## <https://dmdavid.com/tag/using-the-small-world-principle-to-build-a-better-game>
 
 - `src/content/posts/translations/dmdavid-bring-character-backstory-into-campaigns.mdx`
@@ -2814,6 +2862,7 @@
 
 ## <https://dmdavid.com/tag/would-you-play-with-a-dungeon-master-who-kept-your-character-sheet-and-hid-your-pcs-hit-points>
 
+- `src/content/posts/translations/dmdavid-11-dm-tips-winter-fantasy-2020.mdx`
 - `src/content/posts/translations/dmdavid-fixing-obnoxious-people-shrank-appeal.mdx`
 
 ## <https://dnd-wiki.org/wiki/Living_Mannequin_(3.5e_Monster)>
@@ -2848,9 +2897,9 @@
 
 - `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
 
-## <https://drawtherestoftheowlbear.blogspot.com/2024/02/you-cant-elide-what-doesnt-exist.html>
+## <https://dontsplitthepodcastnetwork.com/dms-deep-dive/2017/7/26/dms-deep-dive-episode-7-with-matt-mercer>
 
-- `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
+- `src/content/posts/translations/dmdavid-encouraging-role-playing.mdx`
 
 ## <https://drive.google.com/file/d/0B2RlGhhWYcFtYnF0VFQ0a3hCcEU/view?usp=sharing>
 
@@ -3029,6 +3078,10 @@
 ## <https://dungeons.hismajestytheworm.games>
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
+
+## <https://effectiviology.com/benjamin-franklin-effect>
+
+- `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
 
 ## <https://elmc.at>
 
@@ -4910,6 +4963,10 @@
 
 - `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
 
+## <https://insight.kellogg.northwestern.edu/article/why-warmth-is-the-underappreciated-skill-leaders-need>
+
+- `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
+
 ## <https://io9.gizmodo.com/is-this-the-oldest-d20-on-earth-5958203>
 
 - `src/content/posts/translations/dmdavid-role-of-die-roll-love-letter.mdx`
@@ -4920,6 +4977,7 @@
 
 ## <https://jared.blot.im/rules-elide-and-its-consequences>
 
+- `src/content/posts/translations/draw-rest-owlbear-cant-elide.mdx`
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
 ## <https://jasonzavoda-hallofthemountainking.blogspot.com/2012/04/alarums-and-excursions-8-letter-from-e.html>
@@ -5099,6 +5157,10 @@
 ## <https://olddungeonmaster.com/2016/12/02/dd-5e-metals>
 
 - `src/content/posts/translations/olddungeonmaster-weights-of-materials.mdx`
+
+## <https://online.brescia.edu/psychology-news/pratfall-effect>
+
+- `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
 
 ## <https://opacplus.bsb-muenchen.de/title/BV043788507>
 
@@ -6684,9 +6746,17 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 
+## <https://www.amazon.com/gp/product/0313385858/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=dmdavid-20&creative=9325&linkCode=as2&creativeASIN=0313385858&linkId=fef034d10c5296ad54a6849fc9b7e635>
+
+- `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
+
 ## <https://www.amazon.com/gp/product/0786967021/ref=as_li_tl?camp=1789&creative=9325&creativeASIN=0786967021&ie=UTF8&linkCode=as2&linkId=21961fec467b2327f97ff93b97255afb&tag=flutesloot-20>
 
 - `src/content/posts/translations/flutesloot-dramatic-questions.mdx`
+
+## <https://www.amazon.com/gp/product/1591845947/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=dmdavid-20&creative=9325&linkCode=as2&creativeASIN=1591845947&linkId=7b1b33c8f38d746dd0ec67a24e57af05>
+
+- `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
 
 ## <https://www.amazon.com/s?k=phandelver+and+below+the+shattered+obelisk&crid=2YG5RKFZ0P9T3&sprefix=phande%2Caps%2C1089&linkCode=ll2&tag=dmdavid-20&linkId=f6d09084f3e0501e8c1672378aebc21f&language=en_US&ref_=as_li_ss_tl>
 
@@ -7089,6 +7159,10 @@
 
 - `src/content/posts/translations/dmdavid-dd-2024-lost-speed-of-play.mdx`
 
+## <https://www.dmsguild.com/product/339685/CCCBMGMOON81-Blood-on-the-Moors>
+
+- `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
+
 ## <https://www.dndbeyond.com/posts/1625-peril-in-pinebrook-a-free-introductory-adventure>
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
@@ -7169,6 +7243,10 @@
 
 - `src/content/posts/translations/tribality-fighter-class-part-seven.mdx`
 
+## <https://www.drivethrurpg.com/product/24384/Basic-Roleplaying>
+
+- `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
+
 ## <https://www.drivethrurpg.com/product/264030/Call-to-Arms-The-Warlord>
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
@@ -7189,6 +7267,10 @@
 ## <https://www.drivethrurpg.com/product/337515/The-Majestic-Fantasy-RPG-Basic-Rules>
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
+
+## <https://www.drivethrurpg.com/product/3727/The-Sunless-Citadel-3e?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
 
 ## <https://www.drivethrurpg.com/product/470041/How-to-Make-a-Fantasy-Sandbox>
 
@@ -7509,6 +7591,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
+## <https://www.smith.edu/about-smith/news/art-small-talk-and-networking>
+
+- `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
+
 ## <https://www.surveymonkey.com/blog/en/blog/2012/04/13/10-online-survey-tips>
 
 - `src/content/posts/translations/creighton-gm-advice-how-to-get-honest-feedback-on-your-campaign.mdx`
@@ -7644,6 +7730,10 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
 
+## <https://www.youtube.com/watch?v=5V7qEGYQLVw>
+
+- `src/content/posts/translations/dmdavid-encouraging-role-playing.mdx`
+
 ## <https://www.youtube.com/watch?v=8E6TzT0eCYs>
 
 - `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
@@ -7721,6 +7811,10 @@
 
 - `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
 
+## <https://www.youtube.com/watch?v=RRjRgT8QQ3c>
+
+- `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
+
 ## <https://www.youtube.com/watch?v=Rsfyh3M_IKc>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
@@ -7792,6 +7886,10 @@
 ## <https://www.youtube.com/watch?v=s1sfnwGb_jY>
 
 - `src/content/posts/translations/dmdavid-fifth-editions-secret-error.mdx`
+
+## <https://www.youtube.com/watch?v=srsSEIb-Bw4>
+
+- `src/content/posts/translations/dmdavid-encouraging-role-playing.mdx`
 
 ## <https://www.youtube.com/watch?v=uP4wLMmp-8U>
 
