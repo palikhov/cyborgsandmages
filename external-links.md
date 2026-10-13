@@ -2183,6 +2183,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://amzn.to/3SCNlop>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
 ## <https://amzn.to/3UNUBvv>
 
 - `src/content/posts/translations/dmdavid-d20-tests-make-experts-look-inept.mdx`
@@ -2343,6 +2347,10 @@
 ## <https://books.google.ca/books?id=cBqgOXfMxAoC>
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
+
+## <https://bsky.app/profile/mearls.bsky.social/post/3lceejw4njt2o>
+
+- `src/content/posts/translations/dmdavid-fifth-editions-secret-error.mdx`
 
 ## <https://cairnrpg.com/second-edition/wardens-guide/setting-seeds>
 
@@ -2518,29 +2526,122 @@
 
 - `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
 
+## <https://dmdavid.com/tag/11-great-dungeon-master-tips-revealed-at-winter-fantasy-2020>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
 ## <https://dmdavid.com/tag/4-pop-culture-assumptions-that-dungeons-dragons-destroyed>
 
 - `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
+
+## <https://dmdavid.com/tag/6-things-to-include-in-a-1st-level-dd-adventure>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/a-role-playing-game-players-obligation>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
 ## <https://dmdavid.com/tag/basic-and-advanced-dave-arneson-takes-a-job-at-tsr-part-4>
 
 - `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
 
+## <https://dmdavid.com/tag/challenging-players-skill-without-frustrating-anyone>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/confidence-game-why-faking-confidence-makes-you-a-better-dungeon-master>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
 ## <https://dmdavid.com/tag/dd-and-the-role-of-the-die-roll-a-love-letter>
 
 - `src/content/posts/translations/dmdavid-d20-tests-make-experts-look-inept.mdx`
 
+## <https://dmdavid.com/tag/delegate-to-run-better-role-playing-game-sessions-by-doing-less>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
 ## <https://dmdavid.com/tag/every-version-of-dd-has-initiative-but-no-rule-changed-as-much>
 
 - `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
+- `src/content/posts/translations/dmdavid-turns-and-turn-order-are-the-worst.mdx`
+
+## <https://dmdavid.com/tag/for-10-years-dd-suffered-from-an-unplayable-initiative-system-blame-the-games-wargaming-roots>
+
+- `src/content/posts/translations/dmdavid-turns-and-turn-order-are-the-worst.mdx`
 
 ## <https://dmdavid.com/tag/gallery-of-poster-battle-maps-published-for-dungeons-dragons>
 
 - `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
 
+## <https://dmdavid.com/tag/getting-players-moving-especially-when-no-one-wants-to-drive>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/how-to-adjust-combat-difficulty-on-the-fly-using-the-magic-of-roleplaying>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/how-to-create-loveable-non-player-characters-while-you-supercharge-your-sex-appeal>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/how-to-make-descriptions-vivid-and-evocative>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/just-because-a-dungeon-numbers-every-room-doesnt-mean-players-have-to-explore-room-by-room>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/lost-mine-of-phandelver-2014-greatest-dd-adventures-since-1985-number-3>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/mapping-half-of-dd-to-forgotten>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/most-advice-for-encouraging-role-playing-stinks-but-i-found-the-good-stuff>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/my-5-biggest-game-mastering-blunders-ever>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/narrating-your-games-the-essentials>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/nights-dark-terror-1986-greatest-dd-adventures-since-1985-number-1>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/sometimes-i-tell-players-no-but-say-yes-made-me-a-better-dungeon-master>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/the-best-dm-tricks-for-helping-a-party-make-choices>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/the-dd-adventures-that-stumble-by-missing-the-hook>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/two-weird-dd-questions-no-one-asks-anymore-answered-by-the-city-state-of-the-invincible-overlord>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
 ## <https://dmdavid.com/tag/using-the-small-world-principle-to-build-a-better-game>
 
 - `src/content/posts/translations/dmdavid-bring-character-backstory-into-campaigns.mdx`
+
+## <https://dmdavid.com/tag/what-choose-your-adventure-books-can-teach-game-masters-about-pacing-and-decisions>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
 ## <https://dmdavid.com/tag/what-is-the-typical-amout-of-treasure-awarded-in-a-fifth-edition-dungeons-dragons-campaign>
 
@@ -4879,6 +4980,14 @@
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
+## <https://preview.drivethrurpg.com/en/product/244016/The-Hidden-Halls-of-Hazakor>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://preview.drivethrurpg.com/en/product/244016/The-Hidden-Halls-of-Hazakor?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
 ## <https://pubmed.ncbi.nlm.nih.gov/19093521>
 
 - `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
@@ -6354,6 +6463,10 @@
 
 - `src/content/posts/translations/flutesloot-dramatic-questions.mdx`
 
+## <https://www.amazon.com/s?k=phandelver+and+below+the+shattered+obelisk&crid=2YG5RKFZ0P9T3&sprefix=phande%2Caps%2C1089&linkCode=ll2&tag=dmdavid-20&linkId=f6d09084f3e0501e8c1672378aebc21f&language=en_US&ref_=as_li_ss_tl>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
 ## <https://www.arkenstonepublishing.net/isabout/2021/02/18/the-sacrament-of-death>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -6682,9 +6795,53 @@
 
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
 
+## <https://www.dmsguild.com/product/110212/H1-Keep-on-the-Shadowfell--QuickStart-Rules-4e>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://www.dmsguild.com/product/17067/T1-The-Village-of-Hommlet-1e?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://www.dmsguild.com/product/17081/B1-In-Search-of-the-Unknown-Basic?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://www.dmsguild.com/product/17119/B10-Nights-Dark-Terror-Basic?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://www.dmsguild.com/product/17141/B11-Kings-Festival-Basic?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://www.dmsguild.com/product/17145/DDA1-Arena-of-Thyatis-Basic>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://www.dmsguild.com/product/17158/B2-The-Keep-on-the-Borderlands-Basic?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://www.dmsguild.com/product/17424/WGA4-Vecna-Lives-2e?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://www.dmsguild.com/product/180846/Eye-of-the-Wyvern-2e>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
 ## <https://www.dmsguild.com/product/189132/DDAL0501-Treasure-of-the-Broken-Hoard-5e?affiliate_id=8278>
 
 - `src/content/posts/translations/dmdavid-dd-2024-lost-speed-of-play.mdx`
+
+## <https://www.dmsguild.com/product/191511/DDA2-Legions-of-Thyatis-Basic>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://www.dmsguild.com/product/192379/Wrath-of-the-Minotaur-2e>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
 ## <https://www.dmsguild.com/product/246330/The-Commander--A-Class-of-Leadership-and-Combat-Tactics>
 
@@ -6698,6 +6855,10 @@
 ## <https://www.dmsguild.com/product/328476/DDAL1000-Ice-Road-Trackers?affiliate_id=8278>
 
 - `src/content/posts/translations/dmdavid-dd-2024-lost-speed-of-play.mdx`
+
+## <https://www.dndbeyond.com/posts/1625-peril-in-pinebrook-a-free-introductory-adventure>
+
+- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
 ## <https://www.dndbeyond.com/sources/basic-rules/monsters>
 
@@ -7365,6 +7526,10 @@
 ## <https://www.youtube.com/watch?v=pzNCA3hlbuQ>
 
 - `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
+
+## <https://www.youtube.com/watch?v=s1sfnwGb_jY>
+
+- `src/content/posts/translations/dmdavid-fifth-editions-secret-error.mdx`
 
 ## <https://www.youtube.com/watch?v=uP4wLMmp-8U>
 
