@@ -129,13 +129,10 @@
 
 ## <http://dmdavid.com/tag/hitting-the-to-hit-sweet-spot>
 
+- `src/content/posts/translations/dmdavid-brilliance-of-unrealistic-hit-points.mdx`
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
 
 ## <http://dmdavid.com/tag/how-dd-next-moves-toward-a-simpler-core-game>
-
-- `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
-
-## <http://dmdavid.com/tag/in-dd-next-ability-modifiers-are-too-small-for-the-ability-check-mechanic>
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
 
@@ -147,14 +144,13 @@
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
 
-## <http://dmdavid.com/tag/the-brilliance-of-unrealistic-hit-points>
-
-- `src/content/posts/translations/dmdavid-how-dd-next-almost-made-knowledge-count-and-then-backtracked.mdx`
-- `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
-
 ## <http://dmdavid.com/tag/two-problems-that-provoked-bounded-accuracy>
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
+
+## <http://dmdavid.com/tag/what-does-dd-have-to-do-with-ironclad-ships>
+
+- `src/content/posts/translations/dmdavid-brilliance-of-unrealistic-hit-points.mdx`
 
 ## <http://dnd.wizards.com/articles/features/awakened-mystic>
 
@@ -433,6 +429,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <http://grognardia.blogspot.com/2009/04/interview-with-lee-gold.html>
+
+- `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
+
 ## <http://gutenberg.net.au/ebooks06/0600771h.html>
 
 - `src/content/posts/translations/running-ruined-cities.mdx`
@@ -613,6 +613,10 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-4-closing-the-frame.mdx`
 
+## <http://obeythedna.com/podcast/dna-episode-086-interview-with-lee-gold>
+
+- `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
+
 ## <http://oots.wikia.com/wiki/Roy_Greenhilt>
 
 - `src/content/posts/translations/tribality-fighter-class-part-five.mdx`
@@ -657,6 +661,10 @@
 ## <http://rolltop-indigo.blogspot.com/p/an-rpg-lexicon.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://rpgreview.net/files/rpgreview_39.pdf>
+
+- `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
 
 ## <http://rpgtheoryreview.blogspot.com/2007/01/lesson-illusionism.html>
 
@@ -968,6 +976,10 @@
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0935696474/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0935696598/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
@@ -1199,6 +1211,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B000W4HIY0/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000YBFHEE/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B000ZG4K14/digitalcomi0a-20>
 
@@ -1705,6 +1721,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
 
+## <http://www.mongoosepublishing.com/rpgs/paranoia.html>
+
+- `src/content/posts/translations/dmdavid-brilliance-of-unrealistic-hit-points.mdx`
+
 ## <http://www.necropraxis.com/2013/12/07/improved-area-keys>
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
@@ -1716,6 +1736,10 @@
 ## <http://www.onesevendesign.com/ladyblackbird>
 
 - `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
+
+## <http://www.panix.com/~sos/rpg/fud-des.html>
+
+- `src/content/posts/translations/dmdavid-d20-tests-make-experts-look-inept.mdx`
 
 ## <http://www.paperspencils.com/2017/05/28/investments-citadels-and-domains>
 
@@ -2115,6 +2139,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
+## <https://amzn.to/3FNmf7k>
+
+- `src/content/posts/translations/dmdavid-d20-tests-make-experts-look-inept.mdx`
+
 ## <https://amzn.to/3FuvAyn>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
@@ -2154,6 +2182,10 @@
 ## <https://amzn.to/3Qmlh5d>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://amzn.to/3UNUBvv>
+
+- `src/content/posts/translations/dmdavid-d20-tests-make-experts-look-inept.mdx`
 
 ## <https://amzn.to/3c1fjav>
 
@@ -2486,6 +2518,22 @@
 
 - `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
 
+## <https://dmdavid.com/tag/4-pop-culture-assumptions-that-dungeons-dragons-destroyed>
+
+- `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
+
+## <https://dmdavid.com/tag/basic-and-advanced-dave-arneson-takes-a-job-at-tsr-part-4>
+
+- `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
+
+## <https://dmdavid.com/tag/dd-and-the-role-of-the-die-roll-a-love-letter>
+
+- `src/content/posts/translations/dmdavid-d20-tests-make-experts-look-inept.mdx`
+
+## <https://dmdavid.com/tag/every-version-of-dd-has-initiative-but-no-rule-changed-as-much>
+
+- `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
+
 ## <https://dmdavid.com/tag/gallery-of-poster-battle-maps-published-for-dungeons-dragons>
 
 - `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
@@ -2497,6 +2545,10 @@
 ## <https://dmdavid.com/tag/what-is-the-typical-amout-of-treasure-awarded-in-a-fifth-edition-dungeons-dragons-campaign>
 
 - `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
+
+## <https://dmdavid.com/tag/when-you-describe-outcomes-flatter-your-games-heroes-and-monsters>
+
+- `src/content/posts/translations/dmdavid-d20-tests-make-experts-look-inept.mdx`
 
 ## <https://dnd-wiki.org/wiki/Living_Mannequin_(3.5e_Monster)>
 
@@ -4580,6 +4632,10 @@
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
+## <https://jasonzavoda-hallofthemountainking.blogspot.com/2012/04/alarums-and-excursions-8-letter-from-e.html>
+
+- `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
+
 ## <https://kenzerco.com>
 
 - `src/content/posts/translations/angrygm-five-simple-rules-for-dating-my-teenaged-skill-system.mdx`
@@ -4631,12 +4687,6 @@
 ## <https://lotr.fandom.com/wiki/Rammas_Echor>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
-
-## <https://ludusludorum.com/2014/10/21/game-world-design-four-first-principles>
-
-- `src/content/posts/translations/ludusludorum-american-geography-european-history.mdx`
-- `src/content/posts/translations/ludusludorum-classical-medieval-fairy-tale-western.mdx`
-- `src/content/posts/translations/ludusludorum-magic-prevalent-pervasive.mdx`
 
 ## <https://ludusludorum.com/2014/10/21/introducing-the-ludus-population-engine>
 
@@ -4788,6 +4838,10 @@
 ## <https://permacrandam.blogspot.com/2021/02/errant-design-deep-dive-2-core.html>
 
 - `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
+
+## <https://playingattheworld.blogspot.com/2020/02/identifying-dice-of-1970s.html>
+
+- `src/content/posts/translations/playing-at-the-world-how-gaming-got-its-dice.mdx`
 
 ## <https://plus.google.com/+JonathanTweet/posts/LXCKdDqaZUy>
 
@@ -5041,6 +5095,7 @@
 ## <https://thealexandrian.net/so-you-want-to-be-a-game-master>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-20-always-say-yes.mdx`
+- `src/content/posts/translations/alexandrian-types-of-dungeons.mdx`
 
 ## <https://thealexandrian.net/wordpress/1047/roleplaying-games/super-simple-grappling>
 
@@ -5076,10 +5131,15 @@
 - `src/content/posts/translations/alexandrian-open-table-manifesto.mdx`
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
 
+## <https://thealexandrian.net/wordpress/1248/roleplaying-games/re-running-the-megadungeon-part-2-restocking-the-dungeon>
+
+- `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
+
 ## <https://thealexandrian.net/wordpress/13085/roleplaying-games/xandering-the-dungeon>
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+- `src/content/posts/translations/alexandrian-types-of-dungeons.mdx`
 
 ## <https://thealexandrian.net/wordpress/13103/roleplaying-games/xandering-the-dungeon-part-2-xandering-techniques>
 
@@ -5106,6 +5166,7 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-3-dungeoncrawl.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+- `src/content/posts/translations/alexandrian-types-of-dungeons.mdx`
 
 ## <https://thealexandrian.net/wordpress/2028/roleplaying-games/playtesting-4th-edition-compiled>
 
@@ -5426,6 +5487,10 @@
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
+## <https://thealexandrian.net/wordpress/46476/roleplaying-games/resting-in-the-dungeon>
+
+- `src/content/posts/translations/alexandrian-types-of-dungeons.mdx`
+
 ## <https://thealexandrian.net/wordpress/46523/roleplaying-games/how-to-prep-a-module>
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
@@ -5445,6 +5510,8 @@
 ## <https://thealexandrian.net/wordpress/5/roleplaying-games/re-running-the-megadungeon>
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
+- `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
+- `src/content/posts/translations/alexandrian-types-of-dungeons.mdx`
 
 ## <https://thealexandrian.net/wordpress/50260/roleplaying-games/random-gm-tip-collecting-initiative>
 
@@ -5499,6 +5566,7 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
+- `src/content/posts/translations/alexandrian-types-of-dungeons.mdx`
 
 ## <https://thealexandrian.net/wordpress/7949/roleplaying-games/node-based-scenario-design-part-1-the-plotted-approach>
 
@@ -5562,6 +5630,7 @@
 ## <https://thealexandrian.net?p=640>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
+- `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
 
 ## <https://theangrygm.com>
 
@@ -6006,6 +6075,10 @@
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
 
+## <https://web.archive.org/web/20120804000836/https:/www.montecookgames.com/i-like-my-20-sider>
+
+- `src/content/posts/translations/dmdavid-d20-tests-make-experts-look-inept.mdx`
+
 ## <https://web.archive.org/web/20130405150054/http:/www.wizards.com/DnD/Article.aspx?x=dnd/4ll/20120409>
 
 - `src/content/posts/translations/dmdavid-dd-2024-lost-speed-of-play.mdx`
@@ -6061,6 +6134,14 @@
 ## <https://www.13thagesrd.com/classes/fighter>
 
 - `src/content/posts/translations/tribality-fighter-class-part-thirteenth-age.mdx`
+
+## <https://www.acaeum.com/forum/viewtopic.php?cache=1&f=10&t=12598&c=1>
+
+- `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
+
+## <https://www.acaeum.com/forum/viewtopic.php?cache=1&f=10&t=12631&c=1>
+
+- `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
 
 ## <https://www.acaeum.com/indexes/modules/desert.html>
 
@@ -6285,6 +6366,10 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
 
+## <https://www.backerkit.com/c/projects/mcdm-productions/mcdm-rpg>
+
+- `src/content/posts/translations/dmdavid-checks-versus-attack-rolls.mdx`
+
 ## <https://www.bastionland.com/2016/01/choices-and-consequences-pick-or-push.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -6505,6 +6590,10 @@
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
 
+## <https://www.chaosium.com/call-of-cthulhu-rpg>
+
+- `src/content/posts/translations/dmdavid-brilliance-of-unrealistic-hit-points.mdx`
+
 ## <https://www.colonialwilliamsburg.org/locations/anderson-blacksmith-shop-and-public-armoury>
 
 - `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
@@ -6544,6 +6633,10 @@
 ## <https://www.d20pfsrd.com/classes/hybrid-classes/skald>
 
 - `src/content/posts/translations/tribality-warlord-class-part-two.mdx`
+
+## <https://www.daggerheart.com>
+
+- `src/content/posts/translations/dmdavid-checks-versus-attack-rolls.mdx`
 
 ## <https://www.deviantart.com/art-of-josephg/art/The-Toad-that-Said-Meh-508938106>
 
@@ -6638,6 +6731,14 @@
 
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
 
+## <https://www.drivethrurpg.com/en/product/114903/fate-core-system?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-checks-versus-attack-rolls.mdx`
+
+## <https://www.drivethrurpg.com/en/product/177116/runequest-2nd-edition-1980?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-checks-versus-attack-rolls.mdx`
+
 ## <https://www.drivethrurpg.com/en/product/313115/mausritter?affiliate_id=1368722>
 
 - `src/content/posts/translations/patchworkpaladin-the-faction-turn.mdx`
@@ -6645,6 +6746,14 @@
 ## <https://www.drivethrurpg.com/en/product/351723/level-up-your-background>
 
 - `src/content/posts/translations/brandes-improving-backgrounds-dd-2024.mdx`
+
+## <https://www.drivethrurpg.com/en/product/3734/unearthed-arcana-3-5?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-checks-versus-attack-rolls.mdx`
+
+## <https://www.drivethrurpg.com/en/product/448187/burning-wheel-gold-revised?affiliate_id=8278>
+
+- `src/content/posts/translations/dmdavid-checks-versus-attack-rolls.mdx`
 
 ## <https://www.drivethrurpg.com/en/product/500478/cairn-warden-s-guide-2nd-edition?affiliate_id=1368722>
 
@@ -7491,3 +7600,7 @@
 ## <https://youtu.be/zsywnQJMJEk>
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
+
+## <https://zenopusarchives.blogspot.com/2014/01/part-16-exchange-of-two-blows-with.html>
+
+- `src/content/posts/translations/dmdavid-add-rounds-six-times-longer.mdx`
