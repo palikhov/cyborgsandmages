@@ -6774,10 +6774,6 @@
 
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
 
-## <https://welshpiper.com/less-is-more>
-
-- `src/content/posts/translations/welsh-piper-laws-of-worldbuilding.mdx`
-
 ## <https://welshpiper.com/medieval-demographics-online>
 
 - `src/content/posts/translations/welsh-piper-low-fantasy-populations.mdx`
