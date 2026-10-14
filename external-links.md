@@ -2084,6 +2084,10 @@
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
 
+## <http://www.welshpiper.com/hex-based-campaign-design-part-1>
+
+- `src/content/posts/translations/hex-basics-1-why-hex-maps.mdx`
+
 ## <http://www.wired.com/geekdad/2012/10/go-villain>
 
 - `src/content/posts/translations/dmdavid-player-obligation.mdx`
@@ -4969,6 +4973,22 @@
 ## <https://hawkstower.wordpress.com/2015/06/16/comparing-the-red-wedding-to-historical-events>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
+## <https://hexcrawl.wordpress.com/2013/02/06/hex-basics-part-ii-getting-started>
+
+- `src/content/posts/translations/hex-basics-1-why-hex-maps.mdx`
+
+## <https://hexcrawl.wordpress.com/2013/02/08/hex-basics-part-iii-stocking>
+
+- `src/content/posts/translations/hex-basics-1-why-hex-maps.mdx`
+
+## <https://hexcrawl.wordpress.com/2013/02/14/hex-basics-part-iv-detailing-outposts-and-adventure-sites>
+
+- `src/content/posts/translations/hex-basics-1-why-hex-maps.mdx`
+
+## <https://hexcrawl.wordpress.com/2013/02/16/hex-basics-v-finishing-your-region>
+
+- `src/content/posts/translations/hex-basics-1-why-hex-maps.mdx`
 
 ## <https://historicenterprises.com/fabrics-colors-c-100_198_200.html>
 
