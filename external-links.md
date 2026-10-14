@@ -161,10 +161,6 @@
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
 
-## <http://dmdavid.com/tag/how-new-changes-created-the-4-most-annoying-spells-in-dungeons-dragons>
-
-- `src/content/posts/translations/dmdavid-dynamic-combat-locations.mdx`
-
 ## <http://dmdavid.com/tag/how-the-end-of-lonely-fun-lead-to-todays-trickle-of-dd-books>
 
 - `src/content/posts/translations/dmdavid-threat-nearly-killed-dnd-twice.mdx`
@@ -176,6 +172,10 @@
 ## <http://dmdavid.com/tag/origin-2017-choose-your-own-dungeons-dragons-adventure>
 
 - `src/content/posts/translations/dmdavid-dynamic-combat-locations.mdx`
+
+## <http://dmdavid.com/tag/origins-2016>
+
+- `src/content/posts/translations/dmdavid-four-annoying-spells.mdx`
 
 ## <http://dmdavid.com/tag/saving-throw-proficiency-and-ghouls>
 
@@ -192,6 +192,14 @@
 ## <http://dmdavid.com/tag/speed-factor-weapon-armor-class-adjustments-and-skill-challenges>
 
 - `src/content/posts/translations/dmdavid-skill-challenge-good-intentions.mdx`
+
+## <http://dmdavid.com/tag/the-3-most-annoying-high-level-spells-in-dd>
+
+- `src/content/posts/translations/dmdavid-four-annoying-spells.mdx`
+
+## <http://dmdavid.com/tag/the-dungeons-dragons-spells-gary-gygax-never-meant-for-players>
+
+- `src/content/posts/translations/dmdavid-four-annoying-spells.mdx`
 
 ## <http://dmdavid.com/tag/the-pros-and-cons-of-dds-ability-checks>
 
@@ -224,6 +232,14 @@
 ## <http://dnd.wizards.com/articles/features/awakened-mystic>
 
 - `src/content/posts/translations/tribality-psionics-part-eight.mdx`
+
+## <http://dnd.wizards.com/articles/features/sageadvice_july2015>
+
+- `src/content/posts/translations/dmdavid-four-annoying-spells.mdx`
+
+## <http://dndadventurersleague.org>
+
+- `src/content/posts/translations/dmdavid-four-annoying-spells.mdx`
 
 ## <http://dndtools.eu/feats/book-of-exalted-deeds--52/vow-of-poverty--3081>
 
@@ -794,6 +810,10 @@
 ## <http://slyflourish.com/dm_traits_analysis.html>
 
 - `src/content/posts/translations/dmdavid-challenging-player-skill.mdx`
+
+## <http://slyflourish.com/making_counterspell_awesome.html>
+
+- `src/content/posts/translations/dmdavid-four-annoying-spells.mdx`
 
 ## <http://soogagames.blogspot.ca/2015/10/the-far-war.html>
 
@@ -2481,6 +2501,10 @@
 
 - `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
 
+## <https://beyondfomalhaut.blogspot.com/2016/09/blog-dirt-cheap-sandbox.html>
+
+- `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
+
 ## <https://bladesinthedark.com/faction-game>
 
 - `src/content/posts/translations/faction-procedures-comparative-review.mdx`
@@ -2687,10 +2711,6 @@
 
 - `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
 
-## <https://dmdavid.com/tag/6-things-to-include-in-a-1st-level-dd-adventure>
-
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
-
 ## <https://dmdavid.com/tag/8-dd-thoughts-from-winter-fantasy>
 
 - `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
@@ -2698,6 +2718,7 @@
 ## <https://dmdavid.com/tag/a-priest-a-wizard-and-a-dwarf-enter-a-bar-and-nothing-happens-without-the-2-key-ingredients-of-a-role-playing-scene>
 
 - `src/content/posts/translations/dmdavid-11-dm-tips-winter-fantasy-2020.mdx`
+- `src/content/posts/translations/dmdavid-first-level-adventure-six-things.mdx`
 
 ## <https://dmdavid.com/tag/basic-and-advanced-dave-arneson-takes-a-job-at-tsr-part-4>
 
@@ -2753,10 +2774,6 @@
 - `src/content/posts/translations/dmdavid-choose-your-adventure-pacing-decisions.mdx`
 - `src/content/posts/translations/dmdavid-rumors-secrets-clues-hooks-leads.mdx`
 
-## <https://dmdavid.com/tag/how-to-adjust-combat-difficulty-on-the-fly-using-the-magic-of-roleplaying>
-
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
-
 ## <https://dmdavid.com/tag/how-to-end-combat-encounters-before-they-become-a-grind>
 
 - `src/content/posts/translations/dmdavid-end-combat-before-grind.mdx`
@@ -2775,6 +2792,7 @@
 
 ## <https://dmdavid.com/tag/improve-roleplaying-investigation-scenes-with-these-22-reasons-an-npc-wont-cooperate>
 
+- `src/content/posts/translations/dmdavid-first-level-adventure-six-things.mdx`
 - `src/content/posts/translations/dmdavid-fourth-edition-skill-challenges-bad-adventures.mdx`
 
 ## <https://dmdavid.com/tag/little-known-dd-classics-fez>
@@ -2817,18 +2835,9 @@
 
 - `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
 
-## <https://dmdavid.com/tag/the-best-dm-tricks-for-helping-a-party-make-choices>
-
-- `src/content/posts/translations/dmdavid-choose-your-adventure-pacing-decisions.mdx`
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
-
-## <https://dmdavid.com/tag/the-dd-adventures-that-stumble-by-missing-the-hook>
-
-- `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
-- `src/content/posts/translations/dmdavid-rumors-secrets-clues-hooks-leads.mdx`
-
 ## <https://dmdavid.com/tag/the-fun-thing-dd-players-love-that-no-one-mentions-and-that-the-game-almost-lost>
 
+- `src/content/posts/translations/dmdavid-first-level-adventure-six-things.mdx`
 - `src/content/posts/translations/dmdavid-fourth-edition-skill-challenges-bad-adventures.mdx`
 - `src/content/posts/translations/dmdavid-neglected-secret-dungeons-fun-explore.mdx`
 
@@ -5034,6 +5043,7 @@
 
 ## <https://koboldpress.com/howling-tower-baiting-the-hook>
 
+- `src/content/posts/translations/dmdavid-adventures-missing-hook.mdx`
 - `src/content/posts/translations/dmdavid-rumors-secrets-clues-hooks-leads.mdx`
 
 ## <https://leorningcniht.wordpress.com/2017/08/08/article-25-sacraments>
@@ -5052,11 +5062,37 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
 
-## <https://ludusludorum.com/2014/10/21/introducing-the-ludus-population-engine>
+## <https://ludusludorum.com/wp-content/uploads/2014/10/Class-Demographics-for-5th-Edition-The-Population-Engine.xlsx>
 
-- `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
-- `src/content/posts/translations/ludusludorum-american-geography-european-history.mdx`
-- `src/content/posts/translations/ludusludorum-magic-prevalent-pervasive.mdx`
+- `src/content/posts/translations/ludus-population-engine.mdx`
+
+## <https://ludusludorum.com/wp-content/uploads/2014/10/Eador.pdf>
+
+- `src/content/posts/translations/ludus-population-engine.mdx`
+
+## <https://ludusludorum.com/wp-content/uploads/2014/10/Kings-Reach.pdf>
+
+- `src/content/posts/translations/ludus-population-engine.mdx`
+
+## <https://ludusludorum.com/wp-content/uploads/2014/10/Kirin-revised.pdf>
+
+- `src/content/posts/translations/ludus-population-engine.mdx`
+
+## <https://ludusludorum.com/wp-content/uploads/2014/10/Maficester.pdf>
+
+- `src/content/posts/translations/ludus-population-engine.mdx`
+
+## <https://ludusludorum.com/wp-content/uploads/2014/10/Runerock.pdf>
+
+- `src/content/posts/translations/ludus-population-engine.mdx`
+
+## <https://ludusludorum.com/wp-content/uploads/2014/11/eador.wav>
+
+- `src/content/posts/translations/ludus-population-engine.mdx`
+
+## <https://ludusludorum.com/wp-content/uploads/2014/11/maficester.wav>
+
+- `src/content/posts/translations/ludus-population-engine.mdx`
 
 ## <https://ludusludorum.com/wp-content/uploads/2016/04/PREGEN-CHARACTER-ANALYSIS-RAW-DATA.pdf>
 
@@ -5387,6 +5423,10 @@
 
 - `src/content/posts/translations/dmdavid-end-combat-before-grind.mdx`
 
+## <https://slyflourish.com/three_choices.html>
+
+- `src/content/posts/translations/dmdavid-help-party-make-choices.mdx`
+
 ## <https://songoftheblade.wordpress.com/2016/10/13/a-history-of-the-fighters-extra-attacks-versus-low-level-monsters>
 
 - `src/content/posts/translations/tribality-fighter-class-part-one.mdx`
@@ -5459,6 +5499,10 @@
 ## <https://t.co/WfNQ9LPupJ>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
+
+## <https://tenfootpole.org/ironspike?p=7345>
+
+- `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
 
 ## <https://thealexandrian.net>
 
@@ -5548,6 +5592,7 @@
 ## <https://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+- `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
 
 ## <https://thealexandrian.net/wordpress/1861/roleplaying-games/keep-on-the-shadowfell-the-complete-collection>
 
@@ -6027,6 +6072,10 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 - `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
+
+## <https://thealexandrian.net?s=hexcrawl>
+
+- `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
 
 ## <https://theangrygm.com>
 
@@ -6774,6 +6823,14 @@
 
 - `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
 
+## <https://www.amazon.com/gp/product/1939979951/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=dmdavid-20&creative=9325&linkCode=as2&creativeASIN=1939979951&linkId=993ee3c66e1938a799080b9bcbe3394c>
+
+- `src/content/posts/translations/dmdavid-help-party-make-choices.mdx`
+
+## <https://www.amazon.com/gp/product/B07CRVVPSR/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=dmdavid-20&creative=9325&linkCode=as2&creativeASIN=B07CRVVPSR&linkId=0985ad5753ad3239a636c2d241a4ebb7>
+
+- `src/content/posts/translations/dmdavid-help-party-make-choices.mdx`
+
 ## <https://www.amazon.com/s?k=phandelver+and+below+the+shattered+obelisk&crid=2YG5RKFZ0P9T3&sprefix=phande%2Caps%2C1089&linkCode=ll2&tag=dmdavid-20&linkId=f6d09084f3e0501e8c1672378aebc21f&language=en_US&ref_=as_li_ss_tl>
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
@@ -6793,6 +6850,10 @@
 ## <https://www.backerkit.com/c/projects/mcdm-productions/mcdm-rpg>
 
 - `src/content/posts/translations/dmdavid-checks-versus-attack-rolls.mdx`
+
+## <https://www.badassoftheweek.com/lamaupin.html>
+
+- `src/content/posts/translations/ludus-population-engine.mdx`
 
 ## <https://www.bastionland.com/2016/01/choices-and-consequences-pick-or-push.html>
 
@@ -7014,6 +7075,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
 
+## <https://www.census.gov/content/dam/Census/library/publications/2012/demo/p20-566.pdf>
+
+- `src/content/posts/translations/ludus-population-engine.mdx`
+
 ## <https://www.census.gov/data/tables/time-series/demo/families/households.html>
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
@@ -7105,6 +7170,10 @@
 ## <https://www.deviantart.com/typhonart/art/Undead-Minions-397915865>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.discovermagazine.com/1992/mar/livingthroughthe4>
+
+- `src/content/posts/translations/ludus-population-engine.mdx`
 
 ## <https://www.dmsguild.com>
 
@@ -7254,6 +7323,10 @@
 ## <https://www.drivethrurpg.com/en/publisher/5606/necrotic-gnome/category/32434/old-school-essentials?affiliate_id=345498>
 
 - `src/content/posts/translations/garys-appendix-10-hells.mdx`
+
+## <https://www.drivethrurpg.com/product/225959/SEVEN-VOYAGES-of-ZYLARTHEN-Volume-4-The-Campaign?src=hottest_filtered>
+
+- `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
 
 ## <https://www.drivethrurpg.com/product/240542/In-the-Company-of-Unicorns-5E>
 
@@ -7408,6 +7481,10 @@
 
 - `src/content/posts/translations/ludusludorum-classical-medieval-fairy-tale-western.mdx`
 
+## <https://www.hexographer.com>
+
+- `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
+
 ## <https://www.historynet.com/women-in-war>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
@@ -7492,6 +7569,10 @@
 
 - `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
+## <https://www.militaryonesource.mil/12038/MOS/Reports/2011_Demographics_Report.pdf>
+
+- `src/content/posts/translations/ludus-population-engine.mdx`
+
 ## <https://www.museicapitolini.org/en/percorso/scalone-0>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -7542,6 +7623,10 @@
 ## <https://www.patreon.com/posts/28554447>
 
 - `src/content/posts/translations/brandes-leveling-up-your-background-part-three.mdx`
+
+## <https://www.pbs.org/program/irena-sendler>
+
+- `src/content/posts/translations/ludus-population-engine.mdx`
 
 ## <https://www.polygon.com/2014/7/9/5882509/dungeons-and-dragons-gender-sexuality>
 
@@ -7915,6 +8000,10 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://www.youtube.com/watch?v=ve6Krsc0joY>
+
+- `src/content/posts/translations/dmdavid-adjust-combat-difficulty-on-the-fly.mdx`
+
 ## <https://www.youtube.com/watch?v=xn7igUOFHRU>
 
 - `src/content/posts/translations/oaths-how-do-they-work.mdx`
@@ -7938,6 +8027,10 @@
 ## <https://www.youtube.com/watch?v=zgywD3XJaWU>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://www2.census.gov/library/publications/2011/compendia/statab/131ed/tables/12s0286.pdf>
+
+- `src/content/posts/translations/ludus-population-engine.mdx`
 
 ## <https://www3.autarch.co?wpdmpro=region-hex-maps>
 
