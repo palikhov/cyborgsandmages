@@ -1066,6 +1066,7 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/0786948507/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0786948671/digitalcomi0a-20>
 
@@ -1307,6 +1308,10 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B000F3N8SS/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B000F950GU/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
@@ -1356,6 +1361,7 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B000YBFHEE/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B000ZG4K14/digitalcomi0a-20>
 
@@ -1375,6 +1381,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B0023SSJR8/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B002BRZ9G0/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
@@ -1390,6 +1400,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B002XMGGJM/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B0034JKYO6/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B003XVYLEY/digitalcomi0a-20>
 
@@ -1766,6 +1780,10 @@
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
+## <http://www.halowars.com/GameInfo/maps/crevice.aspx>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+
 ## <http://www.howlingtower.com/2012/01/to-hit-vs-armor-class.html>
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
@@ -2004,6 +2022,10 @@
 ## <http://www.redcap.org/page/Grog>
 
 - `src/content/posts/translations/tribality-fighter-class-part-one.mdx`
+
+## <http://www.roachkings.com/ROL-GenMed1.html>
+
+- `src/content/posts/translations/bruce-heard-how-big-is-that-gold-coin.mdx`
 
 ## <http://www.rpglibrary.org/articles/storytelling/36plots.html>
 
@@ -2528,6 +2550,10 @@
 ## <https://books.google.ca/books?id=cBqgOXfMxAoC>
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
+
+## <https://bruce-heard.blogspot.com/2020/06/Swords-true-cost.html>
+
+- `src/content/posts/translations/bruce-heard-how-big-is-that-gold-coin.mdx`
 
 ## <https://bsky.app/profile/mearls.bsky.social/post/3lceejw4njt2o>
 
@@ -5571,15 +5597,22 @@
 
 - `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
 
-## <https://thealexandrian.net/wordpress/13085/roleplaying-games/xandering-the-dungeon>
-
-- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
-- `src/content/posts/translations/alexandrian-types-of-dungeons.mdx`
-
 ## <https://thealexandrian.net/wordpress/13103/roleplaying-games/xandering-the-dungeon-part-2-xandering-techniques>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+
+## <https://thealexandrian.net/wordpress/13113/roleplaying-games/xandering-the-dungeon-part-3-the-philosophy-of-xandering>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+
+## <https://thealexandrian.net/wordpress/13123/roleplaying-games/xandering-the-dungeon-part-4-xandering-the-keep-on-the-shadowfell>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+
+## <https://thealexandrian.net/wordpress/13132/roleplaying-games/xandering-the-dungeon-part-5-xandering-for-fun-and-profit>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <https://thealexandrian.net/wordpress/13182/reviews/what-im-reading-73-the-elfish-gene>
 
@@ -5627,6 +5660,14 @@
 
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
 
+## <https://thealexandrian.net/wordpress/2603/roleplaying-games/reactions-to-odd>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+
+## <https://thealexandrian.net/wordpress/2619/roleplaying-games/odd-in-the-caverns-of-thracia-part-1-character-creation>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+
 ## <https://thealexandrian.net/wordpress/2662/roleplaying-games/a-nomenclature-of-dd-editions>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
@@ -5644,6 +5685,10 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
 - `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
+
+## <https://thealexandrian.net/wordpress/34950/roleplaying-games/thought-of-the-day-xandering-on-the-small-scale>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <https://thealexandrian.net/wordpress/35063/board-games/thought-of-the-day-quarterbacking-in-co-op-games>
 
@@ -5906,6 +5951,10 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-14-fearing-the-silence.mdx`
 
+## <https://thealexandrian.net/wordpress/45711/roleplaying-games/xandering-the-dungeon-addendum-how-to-use-a-melan-diagram>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+
 ## <https://thealexandrian.net/wordpress/45834/roleplaying-games/random-gm-tip-fistfuls-of-dice>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
@@ -5935,6 +5984,10 @@
 ## <https://thealexandrian.net/wordpress/46523/roleplaying-games/how-to-prep-a-module>
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+
+## <https://thealexandrian.net/wordpress/46646/roleplaying-games/dark-tower-level-connections>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <https://thealexandrian.net/wordpress/47259/roleplaying-games/random-gm-tip-splitting-the-party>
 
@@ -6060,6 +6113,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-5-mysteries.mdx`
 
+## <https://thealexandrian.net?p=13141>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+
 ## <https://thealexandrian.net?p=36490>
 
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
@@ -6067,6 +6124,10 @@
 ## <https://thealexandrian.net?p=44705>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
+## <https://thealexandrian.net?p=50123>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <https://thealexandrian.net?p=640>
 
@@ -6555,6 +6616,10 @@
 ## <https://web.archive.org/web/20150316173235/http://www.psych-it.com.au/Psychlopedia/article.asp?id%3D242>
 
 - `src/content/posts/translations/ludusludorum-magic-prevalent-pervasive.mdx`
+
+## <https://web.archive.org/web/20150926064945/http://www.enworld.org/forum/showthread.php?168563-Dungeon-layout-map-flow-and-old-school-game-design>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <https://web.archive.org/web/20160511175527/http://dndadventurersleague.org/rage-of-demons-pregens>
 
@@ -7887,6 +7952,10 @@
 ## <https://www.youtube.com/watch?v=IBvuV9zuXnQ>
 
 - `src/content/posts/translations/walker-map-a-little-smaller-darling.mdx`
+
+## <https://www.youtube.com/watch?v=IOWKUNQEf-Y>
+
+- `src/content/posts/translations/alexandrian-awesome-dungeon-rooms.mdx`
 
 ## <https://www.youtube.com/watch?v=JGbPShUpjpg>
 
