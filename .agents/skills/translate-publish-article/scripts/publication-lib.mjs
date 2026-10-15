@@ -62,6 +62,23 @@ export function parseArticle(text) {
   return { text, prefix: match[0], data, body, tree, nodes, links, images, anchors, original };
 }
 
+export function authorTagRegistry(tagText) {
+  const authorSection = tagText.split('### Авторские теги переводов')[1]?.split('###')[0] ?? '';
+  const authorTags = new Set([...authorSection.matchAll(/^- `([^`]+)`/gm)].map(match => match[1]));
+  const mappingSection = tagText.split('### Соответствие авторов переводов тегам')[1]?.split('###')[0] ?? '';
+  const byAuthor = new Map();
+  const errors = [];
+  for (const match of mappingSection.matchAll(/^\| `([^`]+)` \| `([^`]+)` \|\s*$/gm)) {
+    const [, author, tag] = match;
+    if (!authorTags.has(tag)) errors.push(`Author mapping uses a non-author tag: ${author} -> ${tag}`);
+    if (byAuthor.has(author) && byAuthor.get(author) !== tag) errors.push(`Author has multiple tags: ${author}`);
+    byAuthor.set(author, tag);
+  }
+  for (const tag of authorTags) if (![...byAuthor.values()].includes(tag)) errors.push(`Author tag has no mapping: ${tag}`);
+  if (!authorTags.size) errors.push('No author tags found in tag-system.md');
+  return { authorTags, byAuthor, errors };
+}
+
 export function rewriteLinks(article, replacements) {
   let body = article.body;
   for (const { item, url } of replacements.sort((a, b) => b.item.node.position.start.offset - a.item.node.position.start.offset)) {
@@ -141,7 +158,19 @@ export async function validateArticle(root, path, options = {}, text = readFileS
   const canonical = new Set([...tagText.matchAll(/^\d+\. `([^`]+)`/gm)].map(m => m[1]));
   const systemsSection = tagText.split('### Игровые системы')[1]?.split('###')[0] ?? '';
   const systems = new Set([...systemsSection.matchAll(/^\d+\. `([^`]+)`/gm)].map(m => m[1]));
+  const authorRegistry = authorTagRegistry(tagText);
+  for (const tag of authorRegistry.authorTags) canonical.add(tag);
+  errors.push(...authorRegistry.errors);
   if (!Array.isArray(data.tags) || data.tags[0] !== 'Перевод' || data.tags.length < 3 || data.tags.length > 6 || new Set(data.tags).size !== data.tags.length || data.tags.some(t => !canonical.has(t)) || data.tags.filter(t => systems.has(t)).length > 1) errors.push('Invalid canonical tags');
+  if (Array.isArray(data.tags)) {
+    const usedAuthorTags = data.tags.filter(tag => authorRegistry.authorTags.has(tag));
+    if (path.split('/')[3] === 'translations') {
+      const expectedAuthorTag = authorRegistry.byAuthor.get(data.author);
+      if (!expectedAuthorTag) errors.push(`Author is missing from the author-tag registry: ${data.author}`);
+      if (usedAuthorTags.length !== 1) errors.push(`Expected exactly one author tag, found ${usedAuthorTags.length}`);
+      else if (expectedAuthorTag && usedAuthorTags[0] !== expectedAuthorTag) errors.push(`Expected author tag ${expectedAuthorTag} for ${data.author}, found ${usedAuthorTags[0]}`);
+    } else if (usedAuthorTags.length) errors.push(`Author tags are allowed only in translations: ${usedAuthorTags.join(', ')}`);
+  }
   if (!article.original || (options.canonicalUrl && article.original.url !== options.canonicalUrl)) errors.push('Missing or incorrect original link immediately after frontmatter');
   if (article.original) await attempt('Canonical original URL', () => { if (normalizeUrl(article.original.url) !== article.original.url) throw new Error('Remove tracking, fragment and trailing slash'); });
   await attempt('MDX syntax', () => compile(article.body, { remarkPlugins: [gfm] }));

@@ -11,7 +11,7 @@ import { equivalentUrls } from './publication-lib.mjs';
 const article = 'src/content/posts/translations/new-article.mdx';
 const target = 'src/content/posts/translations/related.mdx';
 const old = 'src/content/posts/translations/old.mdx';
-const front = (url, body = '', extra = '') => `---\ntitle: Перевод\ndescription: "ПЕРЕВОД - ${'Описание статьи. '.repeat(20)}"\ndate: 2026-09-17\nauthor: Author\ntranslator: Translator\ntags: [Перевод, Правила, Советы Мастеру]\n${extra}---\n\n[Оригинал](<${url}>)\n\n${body}\n`;
+const front = (url, body = '', extra = '') => `---\ntitle: Перевод\ndescription: "ПЕРЕВОД - ${'Описание статьи. '.repeat(20)}"\ndate: 2026-09-17\nauthor: Justin Alexander\ntranslator: Translator\ntags: [Перевод, Alexandrian, Правила]\n${extra}---\n\n[Оригинал](<${url}>)\n\n${body}\n`;
 const entry = (url, slug) => `| Original | Перевод | Author | Translator | <${url}> | <https://cyborgsandmages.com/posts/translations/${slug}> |`;
 const header = '| Original | Title | Author | Translator | URL | Target |\n| --- | --- | --- | --- | --- | --- |\n';
 function fixture(t) {
@@ -78,6 +78,19 @@ test('validation accepts an ISO 8601 publication timestamp with a timezone', asy
   put(article, front(input.canonicalUrl).replace('date: 2026-09-17', 'date: "2026-09-17T12:34:56+03:00"'));
   const result = await validateArticle(root, article, input);
   assert.equal(result.ok, true);
+});
+
+test('validation requires exactly one author tag matching the registered author', async t => {
+  const { root, input, put } = fixture(t);
+  put(article, front(input.canonicalUrl).replace('Alexandrian, Правила', 'Angry GM, Правила'));
+  let result = await validateArticle(root, article, input);
+  assert.ok(result.errors.some(error => error.includes('Expected author tag Alexandrian')));
+  put(article, front(input.canonicalUrl).replace('Alexandrian, Правила', 'Alexandrian, Angry GM'));
+  result = await validateArticle(root, article, input);
+  assert.ok(result.errors.some(error => error.includes('Expected exactly one author tag')));
+  put(article, front(input.canonicalUrl).replace('author: Justin Alexander', 'author: New Author'));
+  result = await validateArticle(root, article, input);
+  assert.ok(result.errors.some(error => error.includes('missing from the author-tag registry')));
 });
 
 test('failed plan leaves all files untouched; source duplicates and path traversal are rejected', async t => {

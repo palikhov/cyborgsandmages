@@ -1,6 +1,6 @@
 # Система тегов для `src/content/posts`
 
-Цель: свести текущие разрозненные теги к единому словарю не более чем из 50 ключевых слов.
+Цель: свести тематические теги к компактному единому словарю. Авторские теги переводов ведутся отдельно и не входят в тематический лимит.
 
 ## Правила
 
@@ -9,6 +9,9 @@
 - Первый тег может описывать тип материала: `Перевод`, `Обзор`, `Ресурсы`, `Новости`, `Мысли вслух`, `Дневник разработки`, `Руководство`.
 - Для системы/редакции использовать один главный тег: `D&D 5e`, `D&D 2024`, `D&D 3.x`, `AD&D и BECMI`, `OSR`, `Core d20 RPG`, `E5E`, `Tales of Valiant`.
 - Для авторов и источников всегда оставлять тег и добавлять в этот список канонических тегов.
+- Только у публикаций из `src/content/posts/translations/` обязателен авторский тег. В переводе должен быть ровно один тег из раздела «Авторские теги переводов», и он должен соответствовать значению `author` по таблице ниже.
+- Для нового автора перевода создай один уникальный канонический тег, добавь его в раздел «Авторские теги переводов» и зарегистрируй соответствие `author` -> тег. Один автор не должен иметь несколько авторских тегов, а один авторский тег не должен обозначать разных авторов; варианты написания одного имени регистрируй как дополнительные строки с тем же тегом.
+- В публикациях вне `translations` авторские теги не используй. Теги сайтов и издательств из раздела «Источники» не считаются авторскими.
 - Узкие сущности вроде конкретного заклинания, CR, города, сезона или имени NPC лучше не делать отдельными тегами, если они не образуют заметную серию.
 
 ## Канонические теги
@@ -34,13 +37,205 @@
 14. `E5E`
 15. `Tales of Valiant`
 
-### Авторы и источники
+### Авторские теги переводов
 
-16. `Alexandrian`
-17. `Angry GM`
-18. `Эд Гринвуд`
-19. `Sly Flourish`
-20. `Kobold Press`
+- `Амбер Э. Скотт`
+- `Бен Робинсон`
+- `Джеймс Малижевски`
+- `Мэтт Данн`
+- `Скотт Тернбулл`
+- `Эд Гринвуд`
+- `Эрин Велш`
+- `Alexander Macris`
+- `Alexandrian`
+- `Alexis Smolensk`
+- `Amaril`
+- `Angry GM`
+- `Anne Hunter`
+- `Anthony Huso`
+- `Arbrethil`
+- `Arnold K`
+- `Bartoneus`
+- `Basheer Ghouse`
+- `Bearded-Devil`
+- `Ben L.`
+- `Billiam Bannock`
+- `Bradford C. Walker`
+- `Brandes Stoddard`
+- `Bret Devereaux`
+- `Bruce Heard`
+- `C. Stapleford`
+- `Charles Ryan`
+- `Chris Kutalik`
+- `Connor W.`
+- `Creighton Broadhurst`
+- `David Hartlage`
+- `Delta`
+- `DragnaCarta`
+- `Dump Stat`
+- `Dwiz`
+- `Erik Scott de Bie`
+- `Erin D. Smale`
+- `Flutes`
+- `Forlorn Encystment`
+- `Graham Robert Scott`
+- `Gus L`
+- `hackandslash`
+- `hackslashmaster`
+- `Iestwyn`
+- `Jacob Huebsch`
+- `Jay Dragon`
+- `Jeff McAleer`
+- `Jim Parkin`
+- `Joe`
+- `Joe Inkwell Ideas`
+- `Joel H`
+- `John`
+- `John Bell`
+- `John Large`
+- `Jon Peterson`
+- `Kelly Pawlik`
+- `KibblesTasty`
+- `Kobold Press`
+- `Light`
+- `Lordmatteus`
+- `lorekeeper0`
+- `M.T.Black`
+- `Mark A. Hart`
+- `Melan`
+- `Mike Mearls`
+- `Monte Cook`
+- `Murkdice`
+- `Necropraxis`
+- `Odd Skull`
+- `Old Dungeon Master`
+- `Opal`
+- `Orkish Odyssey`
+- `Patchwork Paladin`
+- `Phenomen`
+- `Raven Crowking`
+- `Ravenswing`
+- `Riley Silverman`
+- `Robert Conley`
+- `Ronny`
+- `S. John Ross`
+- `Sam Sorensen`
+- `Serban Ionita`
+- `Shawn Merwin`
+- `Skerples`
+- `Sly Flourish`
+- `Steamtunnel`
+- `steamtunnel.blogspot.com`
+- `Stephen Bandstra`
+- `The Usual Tongues`
+- `Tomás Giménez Rioja`
+- `W. F. Smith`
+- `Wallace Cleaves`
+- `Wayne E. Lee`
+- `Yora`
+
+### Соответствие авторов переводов тегам
+
+| Значение `author` | Авторский тег |
+| --- | --- |
+| `Амбер Э. Скотт` | `Амбер Э. Скотт` |
+| `Бен Робинсон` | `Бен Робинсон` |
+| `Джеймс Малижевски` | `Джеймс Малижевски` |
+| `Мэтт Данн` | `Мэтт Данн` |
+| `Скотт Тернбулл` | `Скотт Тернбулл` |
+| `Эрин Велш` | `Эрин Велш` |
+| `Alexander Macris` | `Alexander Macris` |
+| `Alexis Smolensk` | `Alexis Smolensk` |
+| `Amaril` | `Amaril` |
+| `Angry GM` | `Angry GM` |
+| `Anne Hunter` | `Anne Hunter` |
+| `Anthony Huso` | `Anthony Huso` |
+| `Arbrethil` | `Arbrethil` |
+| `Arnold K` | `Arnold K` |
+| `Bartoneus` | `Bartoneus` |
+| `Basheer Ghouse` | `Basheer Ghouse` |
+| `Bearded-Devil` | `Bearded-Devil` |
+| `Ben L.` | `Ben L.` |
+| `Billiam Bannock` | `Billiam Bannock` |
+| `Bradford C. Walker` | `Bradford C. Walker` |
+| `Brandes Stoddard` | `Brandes Stoddard` |
+| `Bret Devereaux` | `Bret Devereaux` |
+| `Bruce Heard` | `Bruce Heard` |
+| `C. Stapleford` | `C. Stapleford` |
+| `Charles Ryan` | `Charles Ryan` |
+| `Chris Kutalik` | `Chris Kutalik` |
+| `Connor W.` | `Connor W.` |
+| `Courtney Campbell` | `hackandslash` |
+| `Creighton Broadhurst` | `Creighton Broadhurst` |
+| `David Hartlage` | `David Hartlage` |
+| `Delta` | `Delta` |
+| `DragnaCarta` | `DragnaCarta` |
+| `Dump Stat` | `Dump Stat` |
+| `Dwiz` | `Dwiz` |
+| `Ed Greenwood` | `Эд Гринвуд` |
+| `Erik Scott de Bie` | `Erik Scott de Bie` |
+| `Erin D. Smale` | `Erin D. Smale` |
+| `Flutes` | `Flutes` |
+| `Forlorn Encystment` | `Forlorn Encystment` |
+| `Graham Robert Scott` | `Graham Robert Scott` |
+| `Gus L` | `Gus L` |
+| `hackandslash` | `hackandslash` |
+| `hackslashmaster` | `hackslashmaster` |
+| `Iestwyn` | `Iestwyn` |
+| `Jacob Huebsch` | `Jacob Huebsch` |
+| `Jay Dragon` | `Jay Dragon` |
+| `Jeff McAleer` | `Jeff McAleer` |
+| `Jim Parkin` | `Jim Parkin` |
+| `Joe` | `Joe` |
+| `Joe Inkwell Ideas` | `Joe Inkwell Ideas` |
+| `Joel H` | `Joel H` |
+| `John` | `John` |
+| `John Bell` | `John Bell` |
+| `John Large` | `John Large` |
+| `Jon Peterson` | `Jon Peterson` |
+| `Justin Alexander` | `Alexandrian` |
+| `Kelly Pawlik` | `Kelly Pawlik` |
+| `KibblesTasty` | `KibblesTasty` |
+| `Kobold Press` | `Kobold Press` |
+| `Light` | `Light` |
+| `Lordmatteus` | `Lordmatteus` |
+| `lorekeeper0` | `lorekeeper0` |
+| `M.T.Black` | `M.T.Black` |
+| `Mark A. Hart` | `Mark A. Hart` |
+| `Melan` | `Melan` |
+| `Mike Mearls` | `Mike Mearls` |
+| `Mike Shea` | `Sly Flourish` |
+| `Monte Cook` | `Monte Cook` |
+| `Murkdice` | `Murkdice` |
+| `Necropraxis` | `Necropraxis` |
+| `Odd Skull` | `Odd Skull` |
+| `Old Dungeon Master` | `Old Dungeon Master` |
+| `Opal` | `Opal` |
+| `Orkish Odyssey` | `Orkish Odyssey` |
+| `Patchwork Paladin` | `Patchwork Paladin` |
+| `Phenomen` | `Phenomen` |
+| `Raven Crowking` | `Raven Crowking` |
+| `Ravenswing` | `Ravenswing` |
+| `Riley Silverman` | `Riley Silverman` |
+| `Robert Conley` | `Robert Conley` |
+| `Ronny` | `Ronny` |
+| `S. John Ross` | `S. John Ross` |
+| `Sam Sorensen` | `Sam Sorensen` |
+| `Serban Ionita` | `Serban Ionita` |
+| `Shawn Merwin` | `Shawn Merwin` |
+| `Skerples` | `Skerples` |
+| `Steamtunnel` | `Steamtunnel` |
+| `steamtunnel.blogspot.com` | `steamtunnel.blogspot.com` |
+| `Stephen Bandstra` | `Stephen Bandstra` |
+| `The Angry GM` | `Angry GM` |
+| `The Usual Tongues` | `The Usual Tongues` |
+| `Tomás Giménez Rioja` | `Tomás Giménez Rioja` |
+| `W. F. Smith` | `W. F. Smith` |
+| `Wallace Cleaves` | `Wallace Cleaves` |
+| `Wayne E. Lee` | `Wayne E. Lee` |
+| `Yora` | `Yora` |
+
+### Источники
 
 ### Сеттинги и линии материалов
 
@@ -126,6 +321,8 @@
 - `Ed Greenwood`, `Эд Гринвуд` -> `Эд Гринвуд`
 - `Slyflourish`, `Sly Flourish`, `Mike Shea`, `LazyDM` -> `Sly Flourish`
 - `Kobold Press`, `Tome of Heroes`, `Tales of Valiant` -> `Kobold Press`
+
+Алиасы в этом разделе нормализуют старые и входные значения тегов, но не задают соответствие поля `author` авторскому тегу. Для переводов источником истины служит таблица «Соответствие авторов переводов тегам».
 
 ## Что убрать как отдельные теги
 

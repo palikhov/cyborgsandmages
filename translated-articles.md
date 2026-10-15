@@ -264,7 +264,7 @@
 | Hexplorations: Village Secrets | Гексоследование: деревенские секреты | Joe | Codex по инструкциям Антона "Palant" Палихова | <https://inkwellideas.com/2021/02/hexplorations-village-secrets> | <https://cyborgsandmages.com/posts/translations/inkwell-hexplorations-village-secrets> |
 | Hexplorations: Tombs Redux | Гексоследование: гробницы — новая версия | Joe | Codex по инструкциям Антона "Palant" Палихова | <https://inkwellideas.com/2022/02/hexplorations-tombs> | <https://cyborgsandmages.com/posts/translations/inkwell-hexplorations-tombs-redux> |
 | Alternative Economics (Part 1: Money) | Альтернативная экономика. Часть 1: деньги | Dwiz | Codex по инструкциям Антона "Palant" Палихова | <https://knightattheopera.blogspot.com/2022/02/alternative-economics-part-1-money.html> | <https://cyborgsandmages.com/posts/translations/knight-at-the-opera-alternative-economics-1-money> |
-| Gnoll lineage and heritages for the Tales of the Valiant RPG | Происхождение Гнолл и наследия характерные для них | — | — | <https://koboldpress.com/gnoll-lineage-and-heritages-for-the-tales-of-the-valiant-rpg> | <https://cyborgsandmages.com/posts/translations/kobold-press-tov-gnolll-lineage> |
+| Gnoll lineage and heritages for the Tales of the Valiant RPG | Происхождение Гнолл и наследия характерные для них | Kelly Pawlik | — | <https://koboldpress.com/gnoll-lineage-and-heritages-for-the-tales-of-the-valiant-rpg> | <https://cyborgsandmages.com/posts/translations/kobold-press-tov-gnolll-lineage> |
 | Tools of War: Formations and Hordes | Орудия войны: формации и орды | Basheer Ghouse | Codex по инструкциям Антона "Palant" Палихова | <https://koboldpress.com/tools-of-war-formations-and-hordes> | <https://cyborgsandmages.com/posts/translations/koboldpress-tools-of-war-formations-and-hordes> |
 | Can you do gritty realism with D&D 5E? A DM’s confession. | Можно ли сделать D&D 5E суровой и реалистичной? Исповедь Мастера | Lordmatteus | Codex по инструкциям Антона "Palant" Палихова | <https://lordmatteus.wordpress.com/2020/12/03/can-you-do-gritty-realism-with-dd-5e-a-dms-confession/> | <https://cyborgsandmages.com/posts/translations/lordmatteus-gritty-realism-dd-5e> |
 | Game World Design: Four First Principles | Проектирование игрового мира: четыре первых принципа | Wallace Cleaves | Codex по инструкциям Антона "Palant" Палихова | <https://ludusludorum.com/2014/10/21/game-world-design-four-first-principles> | <https://cyborgsandmages.com/posts/translations/ludusludorum-game-world-design-four-first-principles> |
@@ -309,7 +309,7 @@
 | What’s the function of a Stronghold? | Какова задача твердыни? | Yora | Антон "Palant" Палихов | <https://spriggans-den.com/2022/04/11/whats-the-function-of-a-stronghold> | <https://cyborgsandmages.com/posts/translations/yora-what-is-function-of-stronghold> |
 | — | Вопросы и ответы Эда Гринвуда. Ноябрь 2018. 2/2. | Ed Greenwood | — | <https://t.co/jJXuHJI7ub> | <https://cyborgsandmages.com/posts/translations/ed-greenwood-questions-11-2018-2> |
 | Scale on the Ground | Масштаб на местности | Alexis Smolensk | Codex по инструкциям Антона "Palant" Палихова | <https://tao-dnd.blogspot.com/2013/03/scale-on-ground.html> | <https://cyborgsandmages.com/posts/translations/tao-dnd-scale-on-ground> |
-| Как быть хорошим командным игроком | Как быть хорошим командным игроком | — | — | <https://tentaculus.ru/archive/articles/How_to_be_a_good_team_player.html> | <https://cyborgsandmages.com/posts/translations/how-to-team-player> |
+| Как быть хорошим командным игроком | Как быть хорошим командным игроком | John Large | — | <https://tentaculus.ru/archive/articles/How_to_be_a_good_team_player.html> | <https://cyborgsandmages.com/posts/translations/how-to-team-player> |
 | Three Clue Rule | Правило Трёх Улик | Justin Alexander | pnprpg | <https://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule> | <https://cyborgsandmages.com/posts/translations/alexandrian-three-clue-rule> |
 | Xandering the Dungeon | Ксандрирование подземелья | Justin Alexander | Codex по инструкциям Антона "Palant" Палихова | <https://thealexandrian.net/wordpress/13085/roleplaying-games/xandering-the-dungeon> | <https://cyborgsandmages.com/posts/translations/alexandrian-xandering-the-dungeon> |
 | Game Structures | Игровые структуры. Часть 1 | Justin Alexander | Codex по инструкциям Антона "Palant" Палихова | <https://thealexandrian.net/wordpress/15126/roleplaying-games/game-structures> | <https://cyborgsandmages.com/posts/translations/alexandrian-game-structures> |
@@ -645,7 +645,7 @@
 | Hexcrawl Checklist: Part One — Prismatic Wasteland | Чек-лист гекскраула. Часть первая | W. F. Smith | Codex по инструкциям Антона "Palant" Палихова | <https://www.prismaticwasteland.com/blog/hexcrawl-checklist-part-one> | <https://cyborgsandmages.com/posts/translations/prismaticwasteland-hexcrawl-checklist-part-one> |
 | The Hexcrawl Checklist: Part Two | Чек-лист гекскраула. Часть вторая | W. F. Smith | Codex по инструкциям Антона "Palant" Палихова | <https://www.prismaticwasteland.com/blog/hexcrawl-checklist-part-two> | <https://cyborgsandmages.com/posts/translations/prismaticwasteland-hexcrawl-checklist-part-two> |
 | The Secret to Realism in Games | Секрет реализма в играх | W. F. Smith | Codex по инструкциям Антона "Palant" Палихова | <https://www.prismaticwasteland.com/blog/the-secret-to-realism-in-games> | <https://cyborgsandmages.com/posts/translations/prismatic-wasteland-secret-to-realism-in-games> |
-| Creating NPCs with Rich Personalities | Создание персонажа Мастера с интересной личностью | — | — | <https://www.reddit.com/r/DnDBehindTheScreen/comments/aa73t0/creating_npcs_with_rich_personalities> | <https://cyborgsandmages.com/posts/translations/sozdanie-personazha-mastera-s-interesnoj-lichnostyu> |
+| Creating NPCs with Rich Personalities | Создание персонажа Мастера с интересной личностью | Unknown | — | <https://www.reddit.com/r/DnDBehindTheScreen/comments/aa73t0/creating_npcs_with_rich_personalities> | <https://cyborgsandmages.com/posts/translations/sozdanie-personazha-mastera-s-interesnoj-lichnostyu> |
 | Facts about premodern life to make livelier settlements and NPCs | Жизнь в Средневековье. Черпаем вдохновение из реальной истории | Iestwyn | Евгений Вислоухов | <https://www.reddit.com/r/DnDBehindTheScreen/comments/qk6oo6/for_your_enjoyment_facts_about_premodern_life_to> | <https://cyborgsandmages.com/posts/translations/premodern-life-facts> |
 | Reddit | Обзор D&D 2024 (One D&D) от KibblesTasty | KibblesTasty | — | <https://www.reddit.com/r/KibblesTasty/comments/1ehtw5e/dd_2024_one_dd_review> | <https://cyborgsandmages.com/posts/translations/kt-review-of-dnd-2024> |
 | AD&D: Why We Train | AD&D: зачем мы тренируемся | Anthony Huso | Codex по инструкциям Антона "Palant" Палихова | <https://www.thebluebard.com/blog/adampd-why-we-train> | <https://cyborgsandmages.com/posts/translations/adnd-why-we-train> |
@@ -739,9 +739,9 @@
 | The Barbarian Class, Part One - Tribality | Класс варвара, часть первая | Brandes Stoddard | Codex по инструкциям Антона "Palant" Палихова | <https://www.tribality.com/2022/09/26/the-barbarian-class-part-one> | <https://cyborgsandmages.com/posts/translations/tribality-barbarian-class-part-one> |
 | The Barbarian Class, Part Two - Tribality | Класс варвара, часть вторая | Brandes Stoddard | Codex по инструкциям Антона "Palant" Палихова | <https://www.tribality.com/2022/10/18/the-barbarian-class-part-two> | <https://cyborgsandmages.com/posts/translations/tribality-barbarian-class-part-two> |
 | The Barbarian Class, Part Three - Tribality | Класс варвара, часть третья | Brandes Stoddard | Codex по инструкциям Антона "Palant" Палихова | <https://www.tribality.com/2022/12/15/the-barbarian-class-part-three> | <https://cyborgsandmages.com/posts/translations/tribality-barbarian-class-part-three> |
-| — | «Давайте напишем приключение!» Руководство Шона Мервина. | — | — | — | <https://cyborgsandmages.com/posts/translations/davajte-napishem-priklyuchenie-rukovodstvo-shona-mervina> |
-| — | [AD&D 2ed] Религии и аватары | — | — | — | <https://cyborgsandmages.com/posts/translations/adnd-2-religions-and-faiths.mdx> |
-| — | [D&D 3e] Книга Жестокой Тьмы - Природа Зла | — | — | — | <https://cyborgsandmages.com/posts/translations/book-of-vile-darkness-nature-of-evil.mdx> |
+| — | «Давайте напишем приключение!» Руководство Шона Мервина. | Shawn Merwin | — | — | <https://cyborgsandmages.com/posts/translations/davajte-napishem-priklyuchenie-rukovodstvo-shona-mervina> |
+| — | [AD&D 2ed] Религии и аватары | Unknown | — | — | <https://cyborgsandmages.com/posts/translations/adnd-2-religions-and-faiths.mdx> |
+| — | [D&D 3e] Книга Жестокой Тьмы - Природа Зла | Monte Cook | — | — | <https://cyborgsandmages.com/posts/translations/book-of-vile-darkness-nature-of-evil.mdx> |
 | — | #Теория — Александрийский Hexcrawl, ч.1 | Justin Alexander | pnprpg.ru | — | <https://cyborgsandmages.com/posts/translations/alexandrian-hexcrawl-1> |
 | — | #Теория — Александрийский Hexcrawl, ч.10: Наполнение гексов | Justin Alexander | pnprpg.ru | — | <https://cyborgsandmages.com/posts/translations/alexandrian-hexcrawl-10> |
 | — | #Теория — Александрийский Hexcrawl, ч.11: Продолжаем наполнять гексы | Justin Alexander | pnprpg.ru | — | <https://cyborgsandmages.com/posts/translations/alexandrian-hexcrawl-11> |
@@ -764,7 +764,7 @@
 | — | Вождение детективов: Нулевой результат | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-running-detectives-zero-result> |
 | — | Вопросы и ответы Эда Гринвуда. Ноябрь 2018. 1/2. | Ed Greenwood | — | — | <https://cyborgsandmages.com/posts/translations/ed-greenwood-questions-11-2018-1> |
 | — | Вотердип: Драконий Куш - Ремикс Александриана | Justin Alexander | — | — | <https://cyborgsandmages.com/posts/translations/alexandrian-waterdeep-dragon-heist-remix> |
-| — | Гекскраул Александриана по пятой редакции в одном файле | — | — | — | <https://cyborgsandmages.com/posts/translations/alexandrian-hexcrawl-5e-onefile> |
+| — | Гекскраул Александриана по пятой редакции в одном файле | Justin Alexander | — | — | <https://cyborgsandmages.com/posts/translations/alexandrian-hexcrawl-5e-onefile> |
 | — | Гексоследование: обычная деревня | Joe Inkwell Ideas | Антон "Palant" Палихов | — | <https://cyborgsandmages.com/posts/translations/inkwell-hexplorations-village> |
 | — | Грамотная подготовка. Часть I | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-preparing-1> |
 | — | Грамотная подготовка. Часть II | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-preparing-2> |
@@ -779,12 +779,12 @@
 | — | Дополнение к исследованию гексов: Специализированные таблицы столкновений | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-hexcrawl-5e-specialised-tables-of-encounters> |
 | — | Зачахшее исследование? – Невидимый столп пятой редакции | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-exploration-invisible-pillar-of-5e> |
 | — | Злой ГМ - 5 простых правил для игр с системой навыков | Angry GM | Настольное королевство | — | <https://cyborgsandmages.com/posts/translations/angrygm-five-simple-rules-for-games-with-skill-system> |
-| — | Злой ГМ - Всегда говори мне о шансах: переосмысление случайных встреч (часть 1) | — | Киборги и Чародеи | — | <https://cyborgsandmages.com/posts/translations/always-tell-me-about-chances> |
+| — | Злой ГМ - Всегда говори мне о шансах: переосмысление случайных встреч (часть 1) | The Angry GM | Киборги и Чародеи | — | <https://cyborgsandmages.com/posts/translations/always-tell-me-about-chances> |
 | — | Злой ГМ - Карты: что у вас на столе? | Angry GM | Настольное королевство | — | <https://cyborgsandmages.com/posts/translations/angrygm-maps-whats-on-your-table> |
 | — | Злой ГМ - Помогите! Мои игроки говорят с вещами! Часть 1 | Angry GM | Настольное королевство | — | <https://cyborgsandmages.com/posts/translations/angrygm-help-my-players-are-talking-to-things-1> |
 | — | Злой ГМ - Помогите! Мои игроки говорят с вещами! Часть 2 | Angry GM | Настольное королевство | — | <https://cyborgsandmages.com/posts/translations/angrygm-help-my-players-are-talking-to-things-2> |
 | — | Злой ГМ - Прыжок за ширму: как провести свою первую игру | Angry GM | Настольное королевство | — | <https://cyborgsandmages.com/posts/translations/angrygm-jumping-the-screen-how-to-run-your-first-rpg-session> |
-| — | Злой ГМ - Система деятельности во время простоя | — | — | — | <https://cyborgsandmages.com/posts/translations/translate-angry-gm-downtime-activities-rules> |
+| — | Злой ГМ - Система деятельности во время простоя | The Angry GM | — | — | <https://cyborgsandmages.com/posts/translations/translate-angry-gm-downtime-activities-rules> |
 | — | Злой ГМ - Таро для мастеров- чайников | Angry GM | Киборги и Чародеи | — | <https://cyborgsandmages.com/posts/translations/angrygm-taro-for-dummies> |
 | — | Злой ГМ Выиграть ролевую игру | Angry GM | — | — | <https://cyborgsandmages.com/posts/translations/angrygm-winning-rpg> |
 | — | Игровые структуры: Система имеет значение | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-game-structures-system-matter> |
@@ -815,11 +815,11 @@
 | — | Как вести кампанию: Советы от Майкла Мёрлса | Mike Mearls | — | — | <https://cyborgsandmages.com/posts/translations/mike-mearls-advices-how-to-run-campaign> |
 | — | Как готовить модуль – Часть 1 | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-how-to-prepare-module-1> |
 | — | Как готовить модуль – Часть 2 | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-how-to-prepare-module-2> |
-| — | Как играть в открытом мире Злого ГМ-а | — | — | — | <https://cyborgsandmages.com/posts/translations/translate-how-to-play-open-world-angry-gm> |
+| — | Как играть в открытом мире Злого ГМ-а | The Angry GM | — | — | <https://cyborgsandmages.com/posts/translations/translate-how-to-play-open-world-angry-gm> |
 | — | Как собирать приключение заново, часть 2 | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-how-to-remix-adventure-2> |
 | — | Как строить столкновения используя очки опасности | Mike Mearls | — | — | <https://cyborgsandmages.com/posts/translations/mike-mearls-encounter-building-challenge-points> |
 | — | Книги и журналы Baldur's Gate I и II | Phenomen | Arcane Coast | — | <https://cyborgsandmages.com/posts/translations/baldurs-gate-books> |
-| — | Конан или Арагорн | ravencrowking | Антон "Palant" Палихов | — | <https://cyborgsandmages.com/posts/translations/conan-or-aragorn> |
+| — | Конан или Арагорн | Raven Crowking | Антон "Palant" Палихов | — | <https://cyborgsandmages.com/posts/translations/conan-or-aragorn> |
 | — | Лев, ведьма и сюжетная завязка | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-lion-witch-plot-hook> |
 | — | Манифест вождения по рельсам – Дополнение: Но я хочу играть по рельсам | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-railroading-manifesto-addendum> |
 | — | Модуль статуса кампании: Корреспонденция | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-campaign-status-module-correspondence> |
@@ -837,16 +837,16 @@
 | — | О военно-морской логистике Средних веков | Bruce Heard | Антон "Palant" Палихов | — | <https://cyborgsandmages.com/posts/translations/on-naval-logistics> |
 | — | О потерянном “эндшпиле” D&D | Джеймс Малижевски | Настольное королевство | — | <https://cyborgsandmages.com/posts/translations/lost-endgame-dnd> |
 | — | О творческой загадке крокодила | hackslashmaster | Антон "Palant" Palikhov | — | <https://cyborgsandmages.com/posts/translations/on-creative-crocodile-conundrum> |
-| — | Описание доспехов из Arms and Equipment Guide (AD&D 2ed) | — | — | — | <https://cyborgsandmages.com/posts/translations/adnd-2-ed-arms-and-equipment-guide-armor> |
+| — | Описание доспехов из Arms and Equipment Guide (AD&D 2ed) | Unknown | — | — | <https://cyborgsandmages.com/posts/translations/adnd-2-ed-arms-and-equipment-guide-armor> |
 | — | Орк и пирог | Monte Cook | Антон Палихов | — | <https://cyborgsandmages.com/posts/translations/orc-and-pie> |
 | — | Основная механика Злого ГМ-а | Angry GM | — | — | <https://cyborgsandmages.com/posts/translations/angrygm-core-mechanics> |
 | — | Памятка для игроков №2: Изображение персонажей на игре | Angry GM | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/angrygm-player-memo-2> |
 | — | Перевод - Как работают «рельсы» | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-how-work-railroading> |
-| — | Перевод Ленивого Мастера Подземелий | — | — | — | <https://cyborgsandmages.com/posts/translations/slyflourish> |
+| — | Перевод Ленивого Мастера Подземелий | Mike Shea | — | — | <https://cyborgsandmages.com/posts/translations/slyflourish> |
 | — | Поднимаясь к состязанию | Mike Mearls | — | — | <https://cyborgsandmages.com/posts/translations/mearls-skills-challenge-20-02-24> |
 | — | Последствие подтасовок: Не все броски дайсов являются механикой | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-cons-of-dice-fudging> |
 | — | Представление своего сеттинга | Эрин Велш | — | — | <https://cyborgsandmages.com/posts/translations/welsh-presentation-of-setting> |
-| — | Про руководство для новых Мастеров Подземелий | Courtny Campbell | Киборги и Чародеи | — | <https://cyborgsandmages.com/posts/translations/about-guide-for-new-dungeon-masters> |
+| — | Про руководство для новых Мастеров Подземелий | Courtney Campbell | Киборги и Чародеи | — | <https://cyborgsandmages.com/posts/translations/about-guide-for-new-dungeon-masters> |
 | — | Про руководство для новых Мастеров Подземелий | hackandslash | Дмитрий "xattttta" Нелюбов | — | <https://cyborgsandmages.com/posts/translations/hackandslash-pro-rukovodstvo-dlya-novyh-masterov-podzemelij> |
 | — | Прогулка по Иммерси | Ed Greenwood | — | — | <https://cyborgsandmages.com/posts/translations/ed-greenwood-immersea> |
 | — | Размышления о путешествиях по диким землям - Часть 2 | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-thinking-wilderness-travel-2> |
@@ -876,7 +876,7 @@
 | — | Список «Нет» для ДМа № 15: Заблуждение водящего по рельсам | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-dont-15> |
 | — | Спроси Александриана № 10 - Как попрощаться с игроком | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-ask10> |
 | — | Спроси Александриана № 9 - Продвинутые рулинги для 5е | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-ask9> |
-| — | Средневековая Демография для Чайников | Джон Росс, © 1993, 1999 | Орин | — | <https://cyborgsandmages.com/posts/translations/medeival-demographics-for-dummies> |
+| — | Средневековая Демография для Чайников | S. John Ross | Орин | — | <https://cyborgsandmages.com/posts/translations/medeival-demographics-for-dummies> |
 | — | Стоимость металлов в D&D | Old Dungeon Master | — | — | <https://cyborgsandmages.com/posts/translations/olddungeonmaaster-metals> |
 | — | Суровое исцеление в 5e Часть 2: Заклинания | Скотт Тернбулл | — | — | <https://cyborgsandmages.com/posts/translations/gritty-healing 2> |
 | — | Суровое исцеление и выживание в 5e | Скотт Тернбулл | — | — | <https://cyborgsandmages.com/posts/translations/gritty-healing> |
@@ -897,7 +897,7 @@
 | — | Эд Гринвуд про Мистру и контроль магии | Ed Greenwood | — | — | <https://cyborgsandmages.com/posts/translations/ed-greenwood-about-mystra-and-control-of-magic> |
 | — | Эд Гринвуд про паладинов в пятой редакции D&D и Forgotten Realms | Ed Greenwood | — | — | <https://cyborgsandmages.com/posts/translations/ed-greenwod-about-paladins-in-fifth-edition> |
 | — | Эррата на исследование гексов: Использование таблиц столкновений | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-hexcrawl-5e-errata-random-encounters> |
-| — | AD&D Руководство по замкам DMGR2: Строительство замка | — | — | — | <https://cyborgsandmages.com/posts/translations/adnd-2-dmgr-castles-building> |
+| — | AD&D Руководство по замкам DMGR2: Строительство замка | Unknown | — | — | <https://cyborgsandmages.com/posts/translations/adnd-2-dmgr-castles-building> |
 | — | Cypher vs Fate | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-cypher-vs-fate> |
 | — | Downtime & Demesnes 5e - Влияние | hackslashmaster | Антон "Palant" Палихов | — | <https://cyborgsandmages.com/posts/translations/downtime-and-demesnes-5e-leverage> |
 | — | OSR: Банки драконов | Skerples | Антон "Palant" Палихов | — | <https://cyborgsandmages.com/posts/translations/skerples-osr-dragon-banks> |

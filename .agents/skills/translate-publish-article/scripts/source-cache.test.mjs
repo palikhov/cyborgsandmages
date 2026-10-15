@@ -82,7 +82,7 @@ test('short descriptions are accepted without minimum-length warnings, maximum r
   const put = (path, text) => { mkdirSync(dirname(join(root, path)), { recursive: true }); writeFileSync(join(root, path), text); };
   for (const path of ['src/content/config.ts', 'tag-system.md']) put(path, readFileSync(join(repositoryRoot, path)));
   const path = 'src/content/posts/translations/short.mdx';
-  const article = description => `---\ntitle: Статья\ndescription: "${description}"\ndate: 2026-09-20\nauthor: Author\ntranslator: Translator\ntags: [Перевод, Правила, Советы Мастеру]\n---\n\n[Оригинал](<https://example.com/article>)\n\n## Текст\n\nПеревод.`;
+  const article = description => `---\ntitle: Статья\ndescription: "${description}"\ndate: 2026-09-20\nauthor: Justin Alexander\ntranslator: Translator\ntags: [Перевод, Alexandrian, Правила]\n---\n\n[Оригинал](<https://example.com/article>)\n\n## Текст\n\nПеревод.`;
   put(path, article('ПЕРЕВОД - Краткое описание.'));
   const short = await validateArticle(root, path);
   assert.equal(short.ok, true);
