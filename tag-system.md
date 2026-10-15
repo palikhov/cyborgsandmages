@@ -80,8 +80,7 @@
 - `Forlorn Encystment`
 - `Graham Robert Scott`
 - `Gus L`
-- `hackandslash`
-- `hackslashmaster`
+- `Courtney Campbell`
 - `Iestwyn`
 - `Jacob Huebsch`
 - `Jay Dragon`
@@ -165,7 +164,7 @@
 | `Charles Ryan` | `Charles Ryan` |
 | `Chris Kutalik` | `Chris Kutalik` |
 | `Connor W.` | `Connor W.` |
-| `Courtney Campbell` | `hackandslash` |
+| `Courtney Campbell` | `Courtney Campbell` |
 | `Creighton Broadhurst` | `Creighton Broadhurst` |
 | `David Hartlage` | `David Hartlage` |
 | `Delta` | `Delta` |
@@ -179,8 +178,8 @@
 | `Forlorn Encystment` | `Forlorn Encystment` |
 | `Graham Robert Scott` | `Graham Robert Scott` |
 | `Gus L` | `Gus L` |
-| `hackandslash` | `hackandslash` |
-| `hackslashmaster` | `hackslashmaster` |
+| `hackandslash` | `Courtney Campbell` |
+| `hackslashmaster` | `Courtney Campbell` |
 | `Iestwyn` | `Iestwyn` |
 | `Jacob Huebsch` | `Jacob Huebsch` |
 | `Jay Dragon` | `Jay Dragon` |
@@ -240,9 +239,13 @@
 ### Сеттинги и линии материалов
 
 21. `Forgotten Realms`
-22. `Waterdeep`
-23. `Лунное море`
-24. `Adventurers League`
+22. `Eberron`
+23. `Marwang`
+24. `Ravenloft`
+25. `Cormyr`
+26. `Waterdeep`
+27. `Лунное море`
+28. `Adventurers League`
 
 ### Игровые темы
 

@@ -836,7 +836,7 @@
 | — | Нуменера: Фрактальные персонажи Мастера | Justin Alexander | — | — | <https://cyborgsandmages.com/posts/translations/alexandrian-numenera-fractal-characters> |
 | — | О военно-морской логистике Средних веков | Bruce Heard | Антон "Palant" Палихов | — | <https://cyborgsandmages.com/posts/translations/on-naval-logistics> |
 | — | О потерянном “эндшпиле” D&D | Джеймс Малижевски | Настольное королевство | — | <https://cyborgsandmages.com/posts/translations/lost-endgame-dnd> |
-| — | О творческой загадке крокодила | hackslashmaster | Антон "Palant" Palikhov | — | <https://cyborgsandmages.com/posts/translations/on-creative-crocodile-conundrum> |
+| — | О творческой загадке крокодила | Courtney Campbell | Антон "Palant" Palikhov | — | <https://cyborgsandmages.com/posts/translations/on-creative-crocodile-conundrum> |
 | — | Описание доспехов из Arms and Equipment Guide (AD&D 2ed) | Unknown | — | — | <https://cyborgsandmages.com/posts/translations/adnd-2-ed-arms-and-equipment-guide-armor> |
 | — | Орк и пирог | Monte Cook | Антон Палихов | — | <https://cyborgsandmages.com/posts/translations/orc-and-pie> |
 | — | Основная механика Злого ГМ-а | Angry GM | — | — | <https://cyborgsandmages.com/posts/translations/angrygm-core-mechanics> |
@@ -847,11 +847,11 @@
 | — | Последствие подтасовок: Не все броски дайсов являются механикой | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-cons-of-dice-fudging> |
 | — | Представление своего сеттинга | Эрин Велш | — | — | <https://cyborgsandmages.com/posts/translations/welsh-presentation-of-setting> |
 | — | Про руководство для новых Мастеров Подземелий | Courtney Campbell | Киборги и Чародеи | — | <https://cyborgsandmages.com/posts/translations/about-guide-for-new-dungeon-masters> |
-| — | Про руководство для новых Мастеров Подземелий | hackandslash | Дмитрий "xattttta" Нелюбов | — | <https://cyborgsandmages.com/posts/translations/hackandslash-pro-rukovodstvo-dlya-novyh-masterov-podzemelij> |
+| — | Про руководство для новых Мастеров Подземелий | Courtney Campbell | Дмитрий "xattttta" Нелюбов | — | <https://cyborgsandmages.com/posts/translations/hackandslash-pro-rukovodstvo-dlya-novyh-masterov-podzemelij> |
 | — | Прогулка по Иммерси | Ed Greenwood | — | — | <https://cyborgsandmages.com/posts/translations/ed-greenwood-immersea> |
 | — | Размышления о путешествиях по диким землям - Часть 2 | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-thinking-wilderness-travel-2> |
 | — | Размышления о путешествиях по диким землям | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-thinking-wilderness-travel> |
-| — | Розетский камень OSR | hackandslash | Дмитрий "xattttta" Нелюбов | — | <https://cyborgsandmages.com/posts/translations/hackandslash-rosette-stone-osr> |
+| — | Розетский камень OSR | Courtney Campbell | Дмитрий "xattttta" Нелюбов | — | <https://cyborgsandmages.com/posts/translations/hackandslash-rosette-stone-osr> |
 | — | Ролевые игры против Повествовательных | Justin Alexander | Anno | — | <https://cyborgsandmages.com/posts/translations/alexandrian-roleplaying-vs-storytelling> |
 | — | Руководство по изготовлению ядов | Амбер Э. Скотт | — | — | <https://cyborgsandmages.com/posts/translations/dragon-magazine-guide-to-poison-crafting> |
 | — | Рулинги на практике: Ловушки | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-rulings-practice-traps> |
@@ -899,5 +899,5 @@
 | — | Эррата на исследование гексов: Использование таблиц столкновений | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-hexcrawl-5e-errata-random-encounters> |
 | — | AD&D Руководство по замкам DMGR2: Строительство замка | Unknown | — | — | <https://cyborgsandmages.com/posts/translations/adnd-2-dmgr-castles-building> |
 | — | Cypher vs Fate | Justin Alexander | Станислав "Drakzar" Иванов | — | <https://cyborgsandmages.com/posts/translations/alexandrian-cypher-vs-fate> |
-| — | Downtime & Demesnes 5e - Влияние | hackslashmaster | Антон "Palant" Палихов | — | <https://cyborgsandmages.com/posts/translations/downtime-and-demesnes-5e-leverage> |
+| — | Downtime & Demesnes 5e - Влияние | Courtney Campbell | Антон "Palant" Палихов | — | <https://cyborgsandmages.com/posts/translations/downtime-and-demesnes-5e-leverage> |
 | — | OSR: Банки драконов | Skerples | Антон "Palant" Палихов | — | <https://cyborgsandmages.com/posts/translations/skerples-osr-dragon-banks> |
