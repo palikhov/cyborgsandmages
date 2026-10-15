@@ -933,6 +933,10 @@
 
 - `src/content/posts/translations/angrygm-monster-building-202.mdx`
 
+## <http://themansegaming.blogspot.com/2019/11/darkvision-orc-eye-lantern.html>
+
+- `src/content/posts/translations/diy-and-dragons-alternatives-to-darkvision.mdx`
+
 ## <http://theonyxpath.com/category/projects/magetheawakening>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -2392,6 +2396,10 @@
 
 - `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
 
+## <https://alldeadgenerations.blogspot.com/2019/07/time-risk-economy-part-ii.html>
+
+- `src/content/posts/translations/diy-and-dragons-alternatives-to-darkvision.mdx`
+
 ## <https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html>
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
@@ -2399,6 +2407,10 @@
 ## <https://alldeadgenerations.blogspot.com/p/the-classic-dungeon-crawl-theory.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://alphastream.org/index.php/2021/06/10/how-to-challenge-players-just-add-damage>
+
+- `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
 
 ## <https://americanart.si.edu/artwork/iron-mine-port-henry-new-york-16373>
 
@@ -2843,6 +2855,10 @@
 
 - `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
 
+## <https://diyanddragons.blogspot.com/2019/04/your-life-is-forfeit.html>
+
+- `src/content/posts/translations/diy-and-dragons-alternatives-to-darkvision.mdx`
+
 ## <https://dmdavid.com/tag/4-pop-culture-assumptions-that-dungeons-dragons-destroyed>
 
 - `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
@@ -2863,6 +2879,10 @@
 ## <https://dmdavid.com/tag/confidence-game-why-faking-confidence-makes-you-a-better-dungeon-master>
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://dmdavid.com/tag/dd-designers-cant-decide-whether-characters-must-rest-for-hit-points-and-healing-but-you-can-choose>
+
+- `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
 
 ## <https://dmdavid.com/tag/dungeon-masters-instead-of-plots-prepare-secrets-clues-and-leads>
 
@@ -2887,6 +2907,7 @@
 
 ## <https://dmdavid.com/tag/for-10-years-dd-suffered-from-an-unplayable-initiative-system-blame-the-games-wargaming-roots>
 
+- `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
 - `src/content/posts/translations/dmdavid-turns-and-turn-order-are-the-worst.mdx`
 
 ## <https://dmdavid.com/tag/forcing-characters-into-tough-choices>
@@ -2910,6 +2931,10 @@
 - `src/content/posts/translations/dmdavid-choose-your-adventure-pacing-decisions.mdx`
 - `src/content/posts/translations/dmdavid-rumors-secrets-clues-hooks-leads.mdx`
 
+## <https://dmdavid.com/tag/how-to-build-a-dd-monk-so-good-that-dms-want-to-cheat>
+
+- `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
+
 ## <https://dmdavid.com/tag/how-to-end-combat-encounters-before-they-become-a-grind>
 
 - `src/content/posts/translations/dmdavid-end-combat-before-grind.mdx`
@@ -2921,6 +2946,10 @@
 ## <https://dmdavid.com/tag/how-to-use-scenes-and-summaries-to-focus-on-the-best-parts-of-a-role-playing-adventure>
 
 - `src/content/posts/translations/dmdavid-choose-your-adventure-pacing-decisions.mdx`
+
+## <https://dmdavid.com/tag/if-a-mind-flayer-fed-on-dd-pcs-brains-it-would-go-hungry-should-pc-intelligence-matter>
+
+- `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
 
 ## <https://dmdavid.com/tag/if-you-want-to-write-games-for-everyone-play-with-everyone>
 
@@ -2943,6 +2972,10 @@
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
+## <https://dmdavid.com/tag/monsters-of-the-multiverse-should-have-given-foes-a-boost-but-it-didnt-next-chance-2024>
+
+- `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
+
 ## <https://dmdavid.com/tag/never-split-the-party-except-when-it-adds-fun>
 
 - `src/content/posts/translations/dmdavid-11-dm-tips-winter-fantasy-2020.mdx`
@@ -2954,6 +2987,14 @@
 ## <https://dmdavid.com/tag/queen-of-the-demonweb-pits-opened-dungeons-dragons-to-the-planes>
 
 - `src/content/posts/translations/dmdavid-astral-ethereal-overcomplicated.mdx`
+
+## <https://dmdavid.com/tag/scrutinizing-the-9-most-popular-house-rules-for-dd>
+
+- `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
+
+## <https://dmdavid.com/tag/sharpshooters-are-the-worst-thing-in-dd-but-that-speaks-well-of-fifth-edition>
+
+- `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
 
 ## <https://dmdavid.com/tag/strong-moral-dilemmas-in-dd-and-the-unwanted-kind-that-keeps-appearing>
 
@@ -3016,6 +3057,10 @@
 
 - `src/content/posts/translations/dmdavid-fixing-obnoxious-people-shrank-appeal.mdx`
 - `src/content/posts/translations/dmdavid-threat-nearly-killed-dnd-twice.mdx`
+
+## <https://dmdavid.com/tag/would-dungeons-dragons-play-better-if-it-stayed-loyal-to-how-gary-gygax-awarded-hit-points>
+
+- `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
 
 ## <https://dmdavid.com/tag/would-you-play-with-a-dungeon-master-who-kept-your-character-sheet-and-hid-your-pcs-hit-points>
 
@@ -3231,6 +3276,10 @@
 ## <https://dumpstatadventures.com/the-gm-is-always-right/why-do-primordials-have-so-many-cults>
 
 - `src/content/posts/translations/deep-dive-the-warforged.mdx`
+
+## <https://dumpstatadventures.com/the-podcast/episode-21-dump-stats-treasury-of-fizban>
+
+- `src/content/posts/translations/dump-stat-fun-facts-spells-edition.mdx`
 
 ## <https://dungeons.hismajestytheworm.games>
 
@@ -5582,6 +5631,14 @@
 ## <https://slyflourish.com>
 
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
+
+## <https://slyflourish.com/add_necrotic_damage.html>
+
+- `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
+
+## <https://slyflourish.com/lazy_approach_to_stronger_monsters.html>
+
+- `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
 
 ## <https://slyflourish.com/lazydm>
 
@@ -8251,6 +8308,7 @@
 ## <https://www.youtube.com/watch?v=SYZy5CPc93M>
 
 - `src/content/posts/translations/deep-dive-the-named-spells.mdx`
+- `src/content/posts/translations/dump-stat-fun-facts-spells-edition.mdx`
 
 ## <https://www.youtube.com/watch?v=T3kX3mzCSQ4>
 

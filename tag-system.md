@@ -66,6 +66,7 @@
 - `Bruce Heard`
 - `C. Stapleford`
 - `Charles Ryan`
+- `Chris Curran`
 - `Chris Kutalik`
 - `Connor W.`
 - `Creighton Broadhurst`
@@ -128,6 +129,7 @@
 - `Stephen Bandstra`
 - `The Usual Tongues`
 - `Tomás Giménez Rioja`
+- `Unknown`
 - `W. F. Smith`
 - `Wallace Cleaves`
 - `Wayne E. Lee`
@@ -162,6 +164,7 @@
 | `Bruce Heard` | `Bruce Heard` |
 | `C. Stapleford` | `C. Stapleford` |
 | `Charles Ryan` | `Charles Ryan` |
+| `Chris Curran` | `Chris Curran` |
 | `Chris Kutalik` | `Chris Kutalik` |
 | `Connor W.` | `Connor W.` |
 | `Courtney Campbell` | `Courtney Campbell` |
@@ -229,6 +232,7 @@
 | `The Angry GM` | `Angry GM` |
 | `The Usual Tongues` | `The Usual Tongues` |
 | `Tomás Giménez Rioja` | `Tomás Giménez Rioja` |
+| `Unknown` | `Unknown` |
 | `W. F. Smith` | `W. F. Smith` |
 | `Wallace Cleaves` | `Wallace Cleaves` |
 | `Wayne E. Lee` | `Wayne E. Lee` |
