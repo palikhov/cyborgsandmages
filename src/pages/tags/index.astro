@@ -1,10 +1,15 @@
 ---
 import BaseLayout from "~layouts/BaseLayout.astro";
-import { type CollectionEntry, getCollection } from "astro:content";
+import { getCollection } from "astro:content";
 
 const allPosts = await getCollection("posts");
 const uniqueTags = [...new Set(allPosts.flatMap((post) => post.data.tags))];
 const sortedTags = uniqueTags.sort();
+const authorNames = new Set(allPosts.map((post) => post.data.author));
+const authorAliases = new Set(["Alexandrian", "Angry GM", "Sly Flourish"]);
+
+const authorTags = sortedTags.filter((tag) => authorNames.has(tag) || authorAliases.has(tag));
+const semanticTags = sortedTags.filter((tag) => !authorNames.has(tag) && !authorAliases.has(tag));
 
 const title = "Тэги";
 const description = "Список тэгов";
@@ -20,15 +25,35 @@ const description = "Список тэгов";
 		</div>
 	</div>
 
-	<div class="mx-auto flex max-w-5xl flex-wrap gap-2">
-		{
-			sortedTags.map((tag) => (
-				<a
-					href={`/tags/${tag}`}
-					class="rounded border border-brand-crimson px-2 py-0.5 hover:bg-brand-crimson hover:text-white">
-					{tag}
-				</a>
-			))
-		}
+	<div class="mx-auto max-w-5xl px-2">
+		<section>
+			<h2 class="mb-4 font-serif text-2xl font-semibold">Смысловые тэги</h2>
+			<div class="flex flex-wrap gap-2">
+				{
+					semanticTags.map((tag) => (
+						<a
+							href={`/tags/${tag}`}
+							class="rounded border border-brand-crimson px-2 py-0.5 hover:bg-brand-crimson hover:text-white">
+							{tag}
+						</a>
+					))
+				}
+			</div>
+		</section>
+
+		<section class="mt-12">
+			<h2 class="mb-4 font-serif text-2xl font-semibold">Авторские тэги</h2>
+			<div class="flex flex-wrap gap-2">
+				{
+					authorTags.map((tag) => (
+						<a
+							href={`/tags/${tag}`}
+							class="rounded border border-brand-crimson px-2 py-0.5 hover:bg-brand-crimson hover:text-white">
+							{tag}
+						</a>
+					))
+				}
+			</div>
+		</section>
 	</div>
 </BaseLayout>
