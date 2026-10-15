@@ -43,6 +43,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
 
+## <http://avp.wikia.com/wiki/Colette_Ferro>
+
+- `src/content/posts/translations/writing-your-players-guide.mdx`
+
 ## <http://awmc.unc.edu/wordpress/free-maps/the-romans-from-village-to-empire-2nd-edition-2011>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
@@ -78,6 +82,10 @@
 ## <http://big-model.info/wiki/Incoherence>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://bladerunner.wikia.com/wiki/Hannibal_Chew>
+
+- `src/content/posts/translations/writing-your-players-guide.mdx`
 
 ## <http://blogofholding.com>
 
@@ -514,6 +522,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
 
+## <http://gameofthrones.wikia.com/wiki/High_Sparrow>
+
+- `src/content/posts/translations/writing-your-players-guide.mdx`
+
 ## <http://games.groups.yahoo.com/group/Hexmapper_Haven>
 
 - `src/content/posts/translations/welsh-piper-may-the-hex-be-with-you.mdx`
@@ -694,9 +706,17 @@
 
 - `src/content/posts/translations/creighton-gygax-on-henchmen-and-hirelings.mdx`
 
+## <http://indianajones.wikia.com/wiki/Mola_Ram>
+
+- `src/content/posts/translations/writing-your-players-guide.mdx`
+
 ## <http://indie-rpgs.com/_articles/glossary.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://inplacesdeep.blogspot.com/2013/12/what-elephand-lands-are-like.html>
+
+- `src/content/posts/translations/introducing-your-setting.mdx`
 
 ## <http://iron.wlu.edu/reports/RoastingOre.htm>
 
@@ -1784,6 +1804,10 @@
 ## <http://www.flickr.com/photos/megabee>
 
 - `src/content/posts/translations/critical-hits-dd-advantage-vs-flat-bonuses.mdx`
+
+## <http://www.forcematerial.com/home/2016/12/12/the-origin-of-the-crawl>
+
+- `src/content/posts/translations/introducing-your-setting.mdx`
 
 ## <http://www.gameinformer.com/games/the_elder_scrolls_v_skyrim/b/xbox360/archive/2011/01/17/the-technology-behind-elder-scrolls-v-skyrim.aspx>
 
@@ -5479,6 +5503,10 @@
 
 - `src/content/posts/translations/oaths-how-do-they-work.mdx`
 
+## <https://roleplayingtips.com/5-room-dungeons>
+
+- `src/content/posts/translations/writing-your-gms-guide.mdx`
+
 ## <https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -6675,6 +6703,14 @@
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
+## <https://watabou.itch.io/medieval-fantasy-city-generator>
+
+- `src/content/posts/translations/writing-your-players-guide.mdx`
+
+## <https://watabou.itch.io/perilous-shores>
+
+- `src/content/posts/translations/top-down-worldbuilding.mdx`
+
 ## <https://web.archive.org/web/20070928120647/http://www.memo-online.com/article.asp?ID=PAY_SUI_MOY_002>
 
 - `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
@@ -6735,21 +6771,22 @@
 
 - `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
 
+## <https://welshpiper.com/69-villages>
+
+- `src/content/posts/translations/mighty-fortresses.mdx`
+
 ## <https://welshpiper.com/adventure-hooks>
 
 - `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
 
-## <https://welshpiper.com/cities-and-settlements>
-
-- `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
-- `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
-
 ## <https://welshpiper.com/encounter-populations>
 
+- `src/content/posts/translations/monster-lairs.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
 
 ## <https://welshpiper.com/gazetteer-template>
 
+- `src/content/posts/translations/introducing-your-setting.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
 
 ## <https://welshpiper.com/greenfish-relief-map-generator>
@@ -6770,9 +6807,9 @@
 - `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
 
-## <https://welshpiper.com/introducing-your-setting>
+## <https://welshpiper.com/imploding-dice>
 
-- `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
+- `src/content/posts/translations/ruinous-ruins.mdx`
 
 ## <https://welshpiper.com/medieval-demographics-online>
 
@@ -6782,28 +6819,20 @@
 
 - `src/content/posts/translations/welsh-piper-hex-based-campaign-design-1.mdx`
 
-## <https://welshpiper.com/mighty-fortresses>
-
-- `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
-- `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
-
 ## <https://welshpiper.com/minocra-campaign-map>
 
+- `src/content/posts/translations/religious-orders.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
 
 ## <https://welshpiper.com/minocra-map-tutorial>
 
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
 
-## <https://welshpiper.com/monster-lairs>
+## <https://welshpiper.com/more-major-encounters>
 
-- `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
-- `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
-
-## <https://welshpiper.com/natural-phenomena>
-
-- `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
-- `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
+- `src/content/posts/translations/monster-lairs.mdx`
+- `src/content/posts/translations/natural-phenomena.mdx`
+- `src/content/posts/translations/religious-orders.mdx`
 
 ## <https://welshpiper.com/packages/low-fantasy-population-generator>
 
@@ -6817,15 +6846,14 @@
 
 - `src/content/posts/translations/welsh-piper-low-fantasy-populations.mdx`
 
-## <https://welshpiper.com/religious-orders>
+## <https://welshpiper.com/random-noble-houses>
 
-- `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
-- `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
+- `src/content/posts/translations/mighty-fortresses.mdx`
 
-## <https://welshpiper.com/ruinous-ruins>
+## <https://welshpiper.com/random-social-hooks>
 
-- `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
-- `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
+- `src/content/posts/translations/cities-and-settlements.mdx`
+- `src/content/posts/translations/writing-your-players-guide.mdx`
 
 ## <https://welshpiper.com/strange-money-and-old-economies>
 
@@ -6834,6 +6862,10 @@
 ## <https://welshpiper.com/tag/top-down-worldbuilding>
 
 - `src/content/posts/translations/welsh-piper-laws-of-worldbuilding.mdx`
+
+## <https://welshpiper.com/who-builds-a-world>
+
+- `src/content/posts/translations/top-down-worldbuilding.mdx`
 
 ## <https://widdershinswanderings.bearblog.dev>
 
@@ -7635,6 +7667,10 @@
 ## <https://www.drivethrurpg.com/product/64332/Labyrinth-Lord-Revised-Edition>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://www.dungeoncontest.com>
+
+- `src/content/posts/translations/writing-your-gms-guide.mdx`
 
 ## <https://www.enworld.org/threads/dungeon-layout-map-flow-and-old-school-game-design.168563>
 
