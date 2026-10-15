@@ -506,6 +506,10 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
+## <http://fomalhaut.lfg.hu/2010/03/04/broken-wastes>
+
+- `src/content/posts/translations/beyond-fomalhaut-dirt-cheap-sandbox.mdx`
+
 ## <http://forum.rpg.net/showthread.php?t=352719>
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-two.mdx`
@@ -714,6 +718,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <http://inkwellideas.com/2012/03/inkwell-ideashexographer-hex-crawl-contest>
+
+- `src/content/posts/translations/hex-crawl-encounters.mdx`
+
 ## <http://inplacesdeep.blogspot.com/2013/12/what-elephand-lands-are-like.html>
 
 - `src/content/posts/translations/introducing-your-setting.mdx`
@@ -725,6 +733,10 @@
 ## <http://jeepen.org/dict>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://jrients.blogspot.com/2010/02/sandboxes-dragons.html>
+
+- `src/content/posts/translations/monster-turf.mdx`
 
 ## <http://lotrproject.com>
 
@@ -819,6 +831,10 @@
 ## <http://quagkeep.blogspot.com/2012/01/i11-needle-painful-enchantment.html>
 
 - `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
+
+## <http://ravencrowking.blogspot.hu/2011/05/c-is-for-choices-context-and.html>
+
+- `src/content/posts/translations/beyond-fomalhaut-dirt-cheap-sandbox.mdx`
 
 ## <http://retiredadventurer.blogspot.ca/2012/02/your-landholding-pcs-should-not-have.html>
 
@@ -1545,6 +1561,10 @@
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <http://www.batintheattic.com>
+
+- `src/content/posts/translations/beyond-fomalhaut-dirt-cheap-sandbox.mdx`
 
 ## <http://www.batintheattic.com/downloads/Fantasy%20Demographics%20Version%201.pdf>
 
@@ -2616,10 +2636,6 @@
 ## <https://bearded-devil.com/2018/05/10/hex-session-xxii-5th-edition-actual-play-chateau-de-la-marche-pt-1>
 
 - `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
-
-## <https://beyondfomalhaut.blogspot.com/2016/09/blog-dirt-cheap-sandbox.html>
-
-- `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
 
 ## <https://bladesinthedark.com/faction-game>
 
@@ -6775,14 +6791,14 @@
 
 - `src/content/posts/translations/mighty-fortresses.mdx`
 
-## <https://welshpiper.com/adventure-hooks>
-
-- `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
-
 ## <https://welshpiper.com/encounter-populations>
 
 - `src/content/posts/translations/monster-lairs.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
+
+## <https://welshpiper.com/forums/chimera-development/size-comparisons>
+
+- `src/content/posts/translations/monster-turf.mdx`
 
 ## <https://welshpiper.com/gazetteer-template>
 
@@ -6797,12 +6813,9 @@
 
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
 
-## <https://welshpiper.com/hex-crawl-encounters>
-
-- `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
-
 ## <https://welshpiper.com/hex-templates>
 
+- `src/content/posts/translations/monster-turf.mdx`
 - `src/content/posts/translations/welsh-piper-hex-based-campaign-design-1.mdx`
 - `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
@@ -6819,20 +6832,24 @@
 
 - `src/content/posts/translations/welsh-piper-hex-based-campaign-design-1.mdx`
 
+## <https://welshpiper.com/mid-size-campaigns-part-3>
+
+- `src/content/posts/translations/adventure-hooks.mdx`
+
 ## <https://welshpiper.com/minocra-campaign-map>
 
+- `src/content/posts/translations/more-major-encounters.mdx`
 - `src/content/posts/translations/religious-orders.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
 
 ## <https://welshpiper.com/minocra-map-tutorial>
 
+- `src/content/posts/translations/hex-crawl-encounters.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
 
-## <https://welshpiper.com/more-major-encounters>
+## <https://welshpiper.com/packages/chimera-rpg-core-rules>
 
-- `src/content/posts/translations/monster-lairs.mdx`
-- `src/content/posts/translations/natural-phenomena.mdx`
-- `src/content/posts/translations/religious-orders.mdx`
+- `src/content/posts/translations/more-major-encounters.mdx`
 
 ## <https://welshpiper.com/packages/low-fantasy-population-generator>
 
