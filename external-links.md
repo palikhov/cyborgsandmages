@@ -868,6 +868,10 @@
 
 - `src/content/posts/translations/tribality-druid-class-part-six.mdx`
 
+## <http://ringmar.net/irhistorynew/index.php/2015/10/09/were-the-manchus-nomads>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iv.mdx`
+
 ## <http://rolltop-indigo.blogspot.com/2018/05/deadly-goobers-hollow-points-another.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -891,6 +895,10 @@
 ## <http://saveordie.info?p=173>
 
 - `src/content/posts/translations/dmdavid-palace-silver-princess-scandal.mdx`
+
+## <http://scholars-stage.blogspot.com/2015/05/introducing-asabiyah.html>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
 
 ## <http://shieldhaven.pbworks.com/w/page/7943947/FrontPage>
 
@@ -2302,6 +2310,8 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiia.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-iv.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
 ## <https://acoup.blog/2019/09/27/collections-this-isnt-sparta-part-vii-spartan-ends>
@@ -2309,6 +2319,7 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
 - `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
 - `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-iv.mdx`
 
 ## <https://acoup.blog/2019/10/06/new-acquisitions-how-fast-do-armies-move>
 
@@ -2328,28 +2339,6 @@
 ## <https://acoup.blog/2019/12/12/collections-a-trip-through-cicero-natural-law>
 
 - `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
-
-## <https://acoup.blog/2020/02/07/collections-the-fremen-mirage-part-iiia-by-the-princess-irulan>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
-- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
-
-## <https://acoup.blog/2020/02/14/collections-the-fremen-mirage-part-iiib-myths-of-the-atreides>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
-- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
-
-## <https://acoup.blog/2020/02/21/collections-the-fremen-mirage-interlude-ways-of-the-fremen>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
-- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
-
-## <https://acoup.blog/2020/02/28/collections-the-fremen-mirage-part-iv-desert-power>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
-- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
-- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 
 ## <https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore>
 
@@ -3375,6 +3364,10 @@
 
 - `src/content/posts/translations/acoup-war-elephants-part-iii-elephant-memories.mdx`
 
+## <https://en.wikipedia.org/w/index.php?title=File:Blaeu_1645_-_Germaniae_veteris_typus.jpg>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiia.mdx`
+
 ## <https://en.wikipedia.org/w/index.php?title=File:Dishekel_hispano-cartagin%C3%A9s-2.jpg>
 
 - `src/content/posts/translations/acoup-war-elephants-part-iii-elephant-memories.mdx`
@@ -3459,6 +3452,10 @@
 
 - `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
 
+## <https://en.wikipedia.org/wiki/Antoine-Augustin_Pr%C3%A9ault>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
+
 ## <https://en.wikipedia.org/wiki/Aquila_(Roman)>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -3474,6 +3471,10 @@
 ## <https://en.wikipedia.org/wiki/Argot>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
+
+## <https://en.wikipedia.org/wiki/Arminius>
+
+- `src/content/posts/translations/acoup-fremen-mirage-interlude.mdx`
 
 ## <https://en.wikipedia.org/wiki/Asclepiodotus_%28philosopher%29>
 
@@ -3654,6 +3655,10 @@
 - `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
 - `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
 
+## <https://en.wikipedia.org/wiki/Boadicea_and_Her_Daughters>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
+
 ## <https://en.wikipedia.org/wiki/Bog_iron>
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
@@ -3665,6 +3670,10 @@
 ## <https://en.wikipedia.org/wiki/Bombard_(weapon)>
 
 - `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
+
+## <https://en.wikipedia.org/wiki/Boudica>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Boule_(bread)>
 
@@ -3713,6 +3722,10 @@
 ## <https://en.wikipedia.org/wiki/Cats_in_ancient_Egypt>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <https://en.wikipedia.org/wiki/Celtic_languages>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Cementite>
 
@@ -3810,6 +3823,10 @@
 ## <https://en.wikipedia.org/wiki/Defensive_wall>
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Deryni_novels>
 
@@ -3966,6 +3983,14 @@
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
 
+## <https://en.wikipedia.org/wiki/Friedrich_Kohlrausch_(educator)>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
+
+## <https://en.wikipedia.org/wiki/Friedrich_Kohlrausch_(physicist)>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
+
 ## <https://en.wikipedia.org/wiki/Fuller%27s_earth>
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
@@ -3989,6 +4014,10 @@
 ## <https://en.wikipedia.org/wiki/Gangue>
 
 - `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+
+## <https://en.wikipedia.org/wiki/Gardens_of_Sallust>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiia.mdx`
 
 ## <https://en.wikipedia.org/wiki/Garrett_(character)>
 
@@ -4017,6 +4046,10 @@
 ## <https://en.wikipedia.org/wiki/Glaive>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+
+## <https://en.wikipedia.org/wiki/Godwin%27s_law>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Grain>
 
@@ -4189,6 +4222,10 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
 
+## <https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
+
 ## <https://en.wikipedia.org/wiki/Jem_(TV_series)>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -4246,6 +4283,10 @@
 ## <https://en.wikipedia.org/wiki/Kulah_khud>
 
 - `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
+
+## <https://en.wikipedia.org/wiki/La_T%C3%A8ne_culture>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Lady-in-waiting>
 
@@ -4353,6 +4394,10 @@
 
 - `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
 
+## <https://en.wikipedia.org/wiki/Martial_race>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
+
 ## <https://en.wikipedia.org/wiki/Medieval_demography>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
@@ -4449,6 +4494,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://en.wikipedia.org/wiki/New_Imperialism>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
+
 ## <https://en.wikipedia.org/wiki/Nike_Hercules>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
@@ -4456,6 +4505,10 @@
 ## <https://en.wikipedia.org/wiki/Nike_Zeus>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
+## <https://en.wikipedia.org/wiki/Nivelle_Offensive>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iv.mdx`
 
 ## <https://en.wikipedia.org/wiki/Non-commissioned_officer>
 
@@ -4473,6 +4526,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
+## <https://en.wikipedia.org/wiki/Obscurantism>
+
+- `src/content/posts/translations/acoup-fremen-mirage-interlude.mdx`
+
 ## <https://en.wikipedia.org/wiki/Onside_kick>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
@@ -4484,6 +4541,10 @@
 ## <https://en.wikipedia.org/wiki/Orienteering>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
+## <https://en.wikipedia.org/wiki/Ossian>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Outlaw_King>
 
@@ -4730,6 +4791,10 @@
 
 - `src/content/posts/translations/where-does-my-main-battery-go.mdx`
 
+## <https://en.wikipedia.org/wiki/Scientific_racism>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
+
 ## <https://en.wikipedia.org/wiki/Scottish_Borders>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
@@ -4907,6 +4972,7 @@
 ## <https://en.wikipedia.org/wiki/The_Course_of_Empire_(paintings)>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
 
 ## <https://en.wikipedia.org/wiki/The_Keep_on_the_Borderlands>
 
@@ -8037,6 +8103,10 @@
 
 - `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
 
+## <https://www.nybooks.com/articles/1995/06/22/ur-fascism>
+
+- `src/content/posts/translations/acoup-fremen-mirage-interlude.mdx`
+
 ## <https://www.opengamingstore.com/collections/jon-brazer-enterprises/products/13-fighter-talents-and-maneuvers-13th-age-compatible>
 
 - `src/content/posts/translations/tribality-fighter-class-part-thirteenth-age.mdx`
@@ -8200,6 +8270,10 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
 
+## <https://www.tor.com/2019/02/05/how-to-handle-the-baron-harkonnen-in-a-modern-dune-adaptation>
+
+- `src/content/posts/translations/acoup-fremen-mirage-interlude.mdx`
+
 ## <https://www.totalwar.com/blog/twwh3-update120>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -8240,6 +8314,10 @@
 ## <https://www.wizards.com/dnd/mapper/launcher.htm>
 
 - `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
+
+## <https://www.wsj.com/articles/SB10001424127887323596204578243702404190338>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iv.mdx`
 
 ## <https://www.youtube.com/@AGreatDivorce/featured>
 
@@ -8412,6 +8490,10 @@
 ## <https://www.youtube.com/watch?v=T3kX3mzCSQ4>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
+
+## <https://www.youtube.com/watch?v=XrhrXTDeue0>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
 
 ## <https://www.youtube.com/watch?v=Y3E3LZzfqZA>
 
