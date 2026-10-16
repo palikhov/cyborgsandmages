@@ -828,6 +828,10 @@
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 - `src/content/posts/translations/acoup-lonely-city-part-ii-real-cities-have-curves.mdx`
 
+## <http://oxrep.classics.ox.ac.uk/databases/shipwrecks_database>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
 ## <http://paizo.com/community/blog/v5748dyo5lkm9?Fighter-Class-Preview>
 
 - `src/content/posts/translations/tribality-fighter-class-part-ten.mdx`
@@ -2272,6 +2276,8 @@
 
 ## <https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school>
 
+- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
 
 ## <https://acoup.blog/2019/08/23/collections-this-isnt-sparta-part-ii-spartan-equality>
@@ -2284,14 +2290,25 @@
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 - `src/content/posts/translations/practical-polytheism-part-iv-little-gods-and-big-people.mdx`
 
+## <https://acoup.blog/2019/09/05/collections-this-isnt-sparta-part-iv-spartan-wealth>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
+## <https://acoup.blog/2019/09/12/collections-this-isnt-sparta-part-v-spartan-government>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
 ## <https://acoup.blog/2019/09/20/collections-this-isnt-sparta-part-vi-spartan-battle>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
 ## <https://acoup.blog/2019/09/27/collections-this-isnt-sparta-part-vii-spartan-ends>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 
 ## <https://acoup.blog/2019/10/06/new-acquisitions-how-fast-do-armies-move>
 
@@ -2312,15 +2329,27 @@
 
 - `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
 
-## <https://acoup.blog/2020/01/17/collections-the-fremen-mirage-part-i-war-at-the-dawn-of-civilization>
+## <https://acoup.blog/2020/02/07/collections-the-fremen-mirage-part-iiia-by-the-princess-irulan>
 
-- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
+## <https://acoup.blog/2020/02/14/collections-the-fremen-mirage-part-iiib-myths-of-the-atreides>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
+## <https://acoup.blog/2020/02/21/collections-the-fremen-mirage-interlude-ways-of-the-fremen>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 
 ## <https://acoup.blog/2020/02/28/collections-the-fremen-mirage-part-iv-desert-power>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 
 ## <https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore>
 
@@ -2790,6 +2819,14 @@
 ## <https://commons.wikimedia.org/w/index.php?title=File%3ATexas_State_Highway_222%2C_King_County%2C_Texas%2Ejpg&uselang=ru>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-2-scene-framing.mdx`
+
+## <https://commons.wikimedia.org/w/index.php?title=File:Alter_Orient_0001AD.svg>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
+## <https://commons.wikimedia.org/w/index.php?title=File:Centres_of_origin_and_spread_of_agriculture.svg>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
 
 ## <https://commons.wikimedia.org/wiki/Category:Elephas_maximus>
 
@@ -3733,6 +3770,10 @@
 
 - `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
 
+## <https://en.wikipedia.org/wiki/Column_of_Marcus_Aurelius>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
 ## <https://en.wikipedia.org/wiki/Comtat_Venaissin>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
@@ -4242,6 +4283,7 @@
 ## <https://en.wikipedia.org/wiki/Libyan_Palette>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
 
 ## <https://en.wikipedia.org/wiki/Linseed_oil>
 
@@ -4386,6 +4428,10 @@
 ## <https://en.wikipedia.org/wiki/Napoleon_Crossing_the_Alps>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
+
+## <https://en.wikipedia.org/wiki/Narmer_Palette>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
 
 ## <https://en.wikipedia.org/wiki/National_Mall>
 
@@ -4635,6 +4681,10 @@
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 
+## <https://en.wikipedia.org/wiki/Roman_economy>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
 ## <https://en.wikipedia.org/wiki/Roman_legion>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
@@ -4800,6 +4850,7 @@
 ## <https://en.wikipedia.org/wiki/Sulla>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 
 ## <https://en.wikipedia.org/wiki/Sumptuary_law>
 
@@ -4853,6 +4904,10 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
 
+## <https://en.wikipedia.org/wiki/The_Course_of_Empire_(paintings)>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
+
 ## <https://en.wikipedia.org/wiki/The_Keep_on_the_Borderlands>
 
 - `src/content/posts/translations/creighton-gygax-on-players-most-important-ability.mdx`
@@ -4864,6 +4919,10 @@
 ## <https://en.wikipedia.org/wiki/The_Perfect_Storm>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-i.mdx`
+
+## <https://en.wikipedia.org/wiki/The_Romans_in_their_Decadence>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 
 ## <https://en.wikipedia.org/wiki/The_Sandman:_The_Doll%27s_House>
 
@@ -5551,6 +5610,10 @@
 ## <https://replit.com/join/botfhoeixo-arnoldkemp>
 
 - `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
+
+## <https://research.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=463448&partId=1>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 
 ## <https://retiredadventurer.blogspot.com/2013/03/roles-and-tasks-for-pc-groups.html>
 
@@ -8033,6 +8096,14 @@
 
 - `src/content/posts/translations/creighton-gygax-on-treasure.mdx`
 
+## <https://www.reddit.com/r/AskHistorians/comments/3ckwpr/what_was_the_role_of_decadence_in_the_fall_of_the>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
+## <https://www.reddit.com/r/AskHistorians/comments/6q73qz/did_decadence_destroy_the_roman_empire>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
 ## <https://www.reddit.com/r/asoiaf/comments/3pt6su/no_spoilers_ever_wonder_how_far_apart_stuff_is>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
@@ -8040,6 +8111,14 @@
 ## <https://www.reddit.com/r/gamedesign/comments/b5qdi0/the_tyranny_of_fun>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://www.reddit.com/r/history/comments/5xhg1o/how_exactly_did_moral_decay_contribute_to_the>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
+## <https://www.reddit.com/r/history/comments/azr3oi/roman_decadence>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 
 ## <https://www.reddit.com/r/osr/comments/ay9ec4/best_tables_at_the_table>
 
@@ -8101,6 +8180,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-3-dungeoncrawl.mdx`
 
+## <https://www.theatlantic.com/science/archive/2018/05/scientists-reclaim-the-long-lost-economic-history-of-rome/560339>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
 ## <https://www.thebluebard.com/post/a-deck-of-many-things-using-ad-d-s-mixed-bag-of-rules-and-loving-them>
 
 - `src/content/posts/translations/adnd-why-we-train.mdx`
@@ -8136,6 +8219,10 @@
 ## <https://www.vice.com/en_us/article/ywq5zy/the-pentagon-has-the-worst-powerpoint-slides-youve-ever-seen>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+
+## <https://www.vox.com/2015/5/7/8564895/crazy-roman-emperors>
+
+- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 
 ## <https://www.wallacecollection.org>
 
