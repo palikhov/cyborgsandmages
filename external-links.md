@@ -71,6 +71,14 @@
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
 
+## <http://beyondfomalhaut.blogspot.hu/2016/10/blog-castle-xyntillan.html>
+
+- `src/content/posts/translations/beyond-fomalhaut-overly-thematic-dungeon.mdx`
+
+## <http://beyondfomalhaut.blogspot.hu/2017/01/review-el-raja-key-archive.html>
+
+- `src/content/posts/translations/beyond-fomalhaut-overly-thematic-dungeon.mdx`
+
 ## <http://big-model.info>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -510,6 +518,10 @@
 
 - `src/content/posts/translations/beyond-fomalhaut-dirt-cheap-sandbox.mdx`
 
+## <http://forum.rpg.net/showthread.php?580891-Lazily-GMing-a-sandbox-campaign>
+
+- `src/content/posts/translations/hex-basics-2-getting-started.mdx`
+
 ## <http://forum.rpg.net/showthread.php?t=352719>
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-two.mdx`
@@ -911,6 +923,10 @@
 ## <http://spellsandsteel.blogspot.ca/search/label/castles>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
+## <http://talesofthefroggod.com/tome-of-adventurer.html>
+
+- `src/content/posts/translations/hex-basics-4-detailing-outposts-and-adventure-sites.mdx`
 
 ## <http://technoirrpg.com>
 
@@ -1614,6 +1630,10 @@
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 
+## <http://www.cartographersguild.com/content>
+
+- `src/content/posts/translations/hex-basics-2-getting-started.mdx`
+
 ## <http://www.columbiagames.com/cgi-bin/query/cfg/zoom.cfg?product_id=4751>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
@@ -2177,6 +2197,10 @@
 
 - `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
 
+## <http://www.talesofthefroggod.com/files/LairsEnhance.pdf>
+
+- `src/content/posts/translations/hex-basics-4-detailing-outposts-and-adventure-sites.mdx`
+
 ## <http://www.trajans-column.org?page_id=578>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
@@ -2193,6 +2217,10 @@
 ## <http://www.webexhibits.org/pigments/intro/history.html>
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
+## <http://www.welshpiper.com/wp-content/uploads/2009/10/hex_regional.pdf>
+
+- `src/content/posts/translations/hex-basics-2-getting-started.mdx`
 
 ## <http://www.wired.com/geekdad/2012/10/go-villain>
 
@@ -5140,22 +5168,6 @@
 ## <https://hawkstower.wordpress.com/2015/06/16/comparing-the-red-wedding-to-historical-events>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
-
-## <https://hexcrawl.wordpress.com/2013/02/06/hex-basics-part-ii-getting-started>
-
-- `src/content/posts/translations/hex-basics-1-why-hex-maps.mdx`
-
-## <https://hexcrawl.wordpress.com/2013/02/08/hex-basics-part-iii-stocking>
-
-- `src/content/posts/translations/hex-basics-1-why-hex-maps.mdx`
-
-## <https://hexcrawl.wordpress.com/2013/02/14/hex-basics-part-iv-detailing-outposts-and-adventure-sites>
-
-- `src/content/posts/translations/hex-basics-1-why-hex-maps.mdx`
-
-## <https://hexcrawl.wordpress.com/2013/02/16/hex-basics-v-finishing-your-region>
-
-- `src/content/posts/translations/hex-basics-1-why-hex-maps.mdx`
 
 ## <https://historicenterprises.com/fabrics-colors-c-100_198_200.html>
 
