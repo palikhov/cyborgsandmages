@@ -39,6 +39,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
 
+## <http://arsludi.lamemage.com/index.php/94/west-marches-running-your-own>
+
+- `src/content/posts/translations/just-three-hexes-campaign-starters.mdx`
+
 ## <http://avalon.law.yale.edu/medieval/salic.asp>
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
@@ -118,6 +122,10 @@
 ## <http://creativecommons.org/licenses/by-nc/3.0>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <http://creativecommons.org/licenses/by/4.0>
+
+- `src/content/posts/translations/just-three-hexes-campaign-starters.mdx`
 
 ## <http://dconstructions.wordpress.com/2011/12/21/rules-whats-your-point-of-first-contact>
 
@@ -224,6 +232,10 @@
 ## <http://dmdavid.com/tag/the-dungeons-dragons-spells-gary-gygax-never-meant-for-players>
 
 - `src/content/posts/translations/dmdavid-four-annoying-spells.mdx`
+
+## <http://dmdavid.com/tag/the-evil-wizards-guide-to-defense-against-murderous-treasure-hunters>
+
+- `src/content/posts/translations/dmdavid-end-combat-before-grind-2016.mdx`
 
 ## <http://dmdavid.com/tag/the-pros-and-cons-of-dds-ability-checks>
 
@@ -818,6 +830,14 @@
 ## <http://obeythedna.com/podcast/dna-episode-086-interview-with-lee-gold>
 
 - `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
+
+## <http://oldguyrpg.blogspot.com/2008/12/one-page-dungeon-level-templates.html>
+
+- `src/content/posts/translations/just-three-hexes-campaign-starters.mdx`
+
+## <http://oldguyrpg.blogspot.com/2009/06/dispelling-myth-sandbox-prep.html>
+
+- `src/content/posts/translations/just-three-hexes-campaign-starters.mdx`
 
 ## <http://oots.wikia.com/wiki/Roy_Greenhilt>
 
@@ -1998,6 +2018,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
 
+## <http://www.lulu.com/spotlight/FightOn>
+
+- `src/content/posts/translations/just-three-hexes-campaign-starters.mdx`
+
 ## <http://www.lulu.com/us/en/shop/matthew-finch/quick-primer-for-old-school-gaming/ebook/product-3159558.html>
 
 - `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
@@ -2989,10 +3013,6 @@
 
 - `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
 
-## <https://dmdavid.com/tag/how-to-end-combat-encounters-before-they-become-a-grind>
-
-- `src/content/posts/translations/dmdavid-end-combat-before-grind.mdx`
-
 ## <https://dmdavid.com/tag/how-to-improve-your-dd-game-by-posing-difficult-dilemmas>
 
 - `src/content/posts/translations/dmdavid-fourth-edition-skill-challenges-bad-adventures.mdx`
@@ -3187,6 +3207,22 @@
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
 
+## <https://dumpstatadventures.com/a-players-perspective/monsters-as-mounts>
+
+- `src/content/posts/translations/dumpstat-tactics-outside-the-box.mdx`
+
+## <https://dumpstatadventures.com/a-players-perspective/war-mounts>
+
+- `src/content/posts/translations/dumpstat-tactics-outside-the-box.mdx`
+
+## <https://dumpstatadventures.com/a-players-perspective/why-are-we-always-hitting-things-other-action-options>
+
+- `src/content/posts/translations/dumpstat-tactics-outside-the-box.mdx`
+
+## <https://dumpstatadventures.com/a-players-perspective/why-are-we-always-hitting-things-other-action-options?rq=other%20actions>
+
+- `src/content/posts/translations/dumpstat-tactics-surprise.mdx`
+
 ## <https://dumpstatadventures.com/a-players-perspective/z7wohl957mn5f81h6idv92awerqq50>
 
 - `src/content/posts/translations/deep-dive-the-warforged.mdx`
@@ -3242,10 +3278,15 @@
 
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
 
+## <https://dumpstatadventures.com/blog/deep-dive-the-gnoll>
+
+- `src/content/posts/translations/dumpstat-tactics-surprise.mdx`
+
 ## <https://dumpstatadventures.com/blog/deep-dive-the-kobold>
 
 - `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+- `src/content/posts/translations/dumpstat-tactics-outside-the-box.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-the-kraken>
 
@@ -3256,9 +3297,17 @@
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
 - `src/content/posts/translations/deep-dive-the-wight.mdx`
 
+## <https://dumpstatadventures.com/blog/deep-dive-the-lizardfolk>
+
+- `src/content/posts/translations/dumpstat-tactics-surprise.mdx`
+
 ## <https://dumpstatadventures.com/blog/deep-dive-the-mind-flayer>
 
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-owlbear>
+
+- `src/content/posts/translations/dumpstat-tactics-outside-the-box.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-the-purple-worm>
 
@@ -6937,6 +6986,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
 
+## <https://web.archive.org/web/20110924113732/http://oldguyrpg.blogspot.com/2009/02/dark-ages-and-west-marches-style-of.html>
+
+- `src/content/posts/translations/just-three-hexes-campaign-starters.mdx`
+
 ## <https://web.archive.org/web/20120322194411/http://www.wizards.com/DnD/Article.aspx?x=dnd/4ll/20120319>
 
 - `src/content/posts/translations/dmdavid-dd-2024-lost-speed-of-play.mdx`
@@ -6984,6 +7037,10 @@
 ## <https://web.archive.org/web/20160514151126/http://dndadventurersleague.org/elemental-evil-pregens>
 
 - `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
+
+## <https://web.archive.org/web/20170820163612/http://www.critical-hits.com:80/blog/2011/02/28/the-combat-out>
+
+- `src/content/posts/translations/dmdavid-end-combat-before-grind-2016.mdx`
 
 ## <https://welshpiper.com/69-villages>
 

@@ -103,6 +103,7 @@
 - `M.T.Black`
 - `Mark A. Hart`
 - `Melan`
+- `Michael "Chgowiz" Shorten`
 - `Mike Mearls`
 - `Monte Cook`
 - `Murkdice`
@@ -205,6 +206,7 @@
 | `M.T.Black` | `M.T.Black` |
 | `Mark A. Hart` | `Mark A. Hart` |
 | `Melan` | `Melan` |
+| `Michael "Chgowiz" Shorten` | `Michael "Chgowiz" Shorten` |
 | `Mike Mearls` | `Mike Mearls` |
 | `Mike Shea` | `Sly Flourish` |
 | `Monte Cook` | `Monte Cook` |
