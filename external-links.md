@@ -320,9 +320,17 @@
 
 - `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
 
+## <http://dreamsinthelichhouse.blogspot.com/2020/03/revisiting-points-of-light-as-setting.html>
+
+- `src/content/posts/translations/prismaticwasteland-keep-borderlands-full-of-lies.mdx`
+
 ## <http://dungeonofsigns.blogspot.com/2014/01/1-sword-equivilents.html>
 
 - `src/content/posts/translations/hackslashmaster-magical-plus-one-weapons.mdx`
+
+## <http://dungeonofsigns.blogspot.com/2014/01/b2-keep-on-borderlands-review.html>
+
+- `src/content/posts/translations/prismaticwasteland-keep-borderlands-full-of-lies.mdx`
 
 ## <http://dungeonsmashingempire.blogspot.co.uk>
 
@@ -1048,6 +1056,10 @@
 ## <http://udan-adan.blogspot.com/2017/01/the-long-haul-time-and-distance-in-d.html>
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
+
+## <http://udan-adan.blogspot.com/2021/05/meet-new-boss-some-thoughts-on-domain.html>
+
+- `src/content/posts/translations/prismaticwasteland-keep-borderlands-full-of-lies.mdx`
 
 ## <http://whatwouldconando.blogspot.com/2015/05/postulants-of-new-sun.html>
 
@@ -5407,6 +5419,10 @@
 ## <https://jasonzavoda-hallofthemountainking.blogspot.com/2012/04/alarums-and-excursions-8-letter-from-e.html>
 
 - `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
+
+## <https://journals.sagepub.com/doi/10.1177/1741659019873757>
+
+- `src/content/posts/translations/prismaticwasteland-keep-borderlands-full-of-lies.mdx`
 
 ## <https://kenzerco.com>
 
