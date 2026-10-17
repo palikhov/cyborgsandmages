@@ -2466,6 +2466,18 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
+## <https://acoup.blog/2022/10/07/collections-teaching-paradox-crusader-kings-iii-part-iii-constructivisting-a-kingdom>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
+## <https://acoup.blog/2023/03/10/collections-how-to-polis-101-part-i-component-parts>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
+## <https://acoup.blog/2024/06/07/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-i-aristocrats-retainers-and-clients>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
 ## <https://acws.co.uk/gilhams/gilhcomp.htm>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -3417,6 +3429,14 @@
 
 - `src/content/posts/translations/d66kobolds-faction-procedures-dolmenwood-example.mdx`
 
+## <https://en.uesp.net/wiki/Online:Gold>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
+## <https://en.uesp.net/wiki/Skyrim:Gold>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
 ## <https://en.wikipedia.org/w/index.php?title=File:Asian_Elephant,_Royal_Chitwan_National_Park.jpg>
 
 - `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
@@ -3508,6 +3528,10 @@
 ## <https://en.wikipedia.org/wiki/Ancient_Egyptian_agriculture>
 
 - `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+
+## <https://en.wikipedia.org/wiki/Ancient_drachma>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
 ## <https://en.wikipedia.org/wiki/Annealing_(metallurgy)>
 
@@ -3873,6 +3897,10 @@
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
+## <https://en.wikipedia.org/wiki/Croeseid>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
 ## <https://en.wikipedia.org/wiki/Cromartyshire>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
@@ -3897,6 +3925,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
+## <https://en.wikipedia.org/wiki/Dinar>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
 ## <https://en.wikipedia.org/wiki/Dipsacus>
 
 - `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
@@ -3920,6 +3952,10 @@
 ## <https://en.wikipedia.org/wiki/Dual-purpose_gun>
 
 - `src/content/posts/translations/where-does-my-main-battery-go.mdx`
+
+## <https://en.wikipedia.org/wiki/Ducat>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
 ## <https://en.wikipedia.org/wiki/Dule_tree>
 
@@ -3995,6 +4031,10 @@
 ## <https://en.wikipedia.org/wiki/Florence_Cathedral>
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
+## <https://en.wikipedia.org/wiki/Florin>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
 ## <https://en.wikipedia.org/wiki/Flux_(metallurgy)>
 
@@ -4141,6 +4181,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
+## <https://en.wikipedia.org/wiki/Gresham%27s_law>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
 ## <https://en.wikipedia.org/wiki/Groom_(profession)>
 
 - `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
@@ -4233,6 +4277,10 @@
 ## <https://en.wikipedia.org/wiki/Hesco_bastion>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
+## <https://en.wikipedia.org/wiki/History_of_coins_in_Italy>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
 ## <https://en.wikipedia.org/wiki/Hoarding_(castle)>
 
@@ -4406,6 +4454,10 @@
 ## <https://en.wikipedia.org/wiki/Living_Greyhawk>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://en.wikipedia.org/wiki/Livre_tournois>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
 ## <https://en.wikipedia.org/wiki/Loam>
 
@@ -4719,6 +4771,10 @@
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
+## <https://en.wikipedia.org/wiki/Pound_sterling>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
 ## <https://en.wikipedia.org/wiki/Powered_by_the_Apocalypse>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -4859,6 +4915,10 @@
 ## <https://en.wikipedia.org/wiki/Scottish_Borders>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+
+## <https://en.wikipedia.org/wiki/Sestertius>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
 ## <https://en.wikipedia.org/wiki/Sheep>
 
@@ -5570,6 +5630,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
+## <https://medieval.ucdavis.edu/120D/Money.html>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
 ## <https://medium.com/migration-issues/notes-on-medieval-population-geography-fd062449364f>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
@@ -5612,6 +5676,10 @@
 ## <https://nordiclarp.org/wiki/Nordic_larp>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://nwn.fandom.com/wiki/Gold_piece>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
 ## <https://og.myth-weavers.com/generate_dungeon.php>
 
@@ -5665,6 +5733,10 @@
 ## <https://permacrandam.blogspot.com/2021/02/errant-design-deep-dive-2-core.html>
 
 - `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
+
+## <https://pillarsofeternity.fandom.com/wiki/Currency>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
 ## <https://playingattheworld.blogspot.com/2020/02/identifying-dice-of-1970s.html>
 
@@ -5777,6 +5849,10 @@
 ## <https://roleplayingtips.com/5-room-dungeons>
 
 - `src/content/posts/translations/writing-your-gms-guide.mdx`
+
+## <https://roll20.net/compendium/dnd5e/Weapons>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
 ## <https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html>
 
@@ -7710,6 +7786,10 @@
 
 - `src/content/posts/translations/tribality-warlord-class-part-two.mdx`
 
+## <https://www.d20srd.org/srd/equipment/weapons.htm>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
 ## <https://www.daggerheart.com>
 
 - `src/content/posts/translations/dmdavid-checks-versus-attack-rolls.mdx`
@@ -7830,6 +7910,10 @@
 ## <https://www.dmsguild.com/product/339685/CCCBMGMOON81-Blood-on-the-Moors>
 
 - `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
+
+## <https://www.dndbeyond.com/monsters/16762-aboleth>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
 ## <https://www.dndbeyond.com/posts/1625-peril-in-pinebrook-a-free-introductory-adventure>
 
@@ -8139,6 +8223,10 @@
 ## <https://www.merriam-webster.com/dictionary/harrowing>
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://www.merriam-webster.com/dictionary/tariff>
+
+- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
 ## <https://www.metmuseum.org/art/collection/search/25072>
 
