@@ -2439,6 +2439,7 @@
 
 ## <https://acoup.blog/2021/02/05/collections-the-universal-warrior-part-iia-the-many-faces-of-battle>
 
+- `src/content/posts/translations/acoup-on-lighter-bows.mdx`
 - `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
@@ -2467,26 +2468,100 @@
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
+## <https://acoup.blog/2021/10/15/fireside-friday-october-15-2021>
+
+- `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
+
+## <https://acoup.blog/2022/02/11/collections-rome-decline-and-fall-part-iii-things>
+
+- `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
+
 ## <https://acoup.blog/2022/04/01/collection-total-wars-missing-infantry-type>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://acoup.blog/2022/08/19/collections-this-isnt-sparta-retrospective>
+
+- `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
 
 ## <https://acoup.blog/2022/10/07/collections-teaching-paradox-crusader-kings-iii-part-iii-constructivisting-a-kingdom>
 
 - `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
+## <https://acoup.blog/2022/12/02/collections-why-roman-egypt-was-such-a-strange-province>
+
+- `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
+
 ## <https://acoup.blog/2023/03/10/collections-how-to-polis-101-part-i-component-parts>
 
 - `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
+## <https://acoup.blog/2023/03/24/collections-how-to-polis-101-part-iib-archons>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+
+## <https://acoup.blog/2023/06/16/collections-how-to-raise-a-roman-army-the-dilectus>
+
+- `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
+
+## <https://acoup.blog/2023/06/30/collections-the-marian-reforms-werent-a-thing>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+
+## <https://acoup.blog/2023/08/25/collections-how-to-roman-republic-part-iiic-ten-tribunes-two-censors-and-twenty-six-guys>
+
+- `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
+
+## <https://acoup.blog/2023/10/20/collections-how-to-roman-republic-101-addenda-the-socii>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+
 ## <https://acoup.blog/2023/12/15/collections-shield-walls-and-spacing-hollywood-mobs-and-ancient-tactics>
 
 - `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
+- `src/content/posts/translations/acoup-warfare-in-dune-part-i.mdx`
 - `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
+
+## <https://acoup.blog/2024/01/19/collections-phalanxs-twilight-legions-triumph-part-ia-heirs-of-alexander>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+
+## <https://acoup.blog/2024/01/26/collections-phalanxs-twilight-legions-triumph-part-ib-subjects-of-the-successors>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+
+## <https://acoup.blog/2024/04/05/collections-phalanxs-twilight-legions-triumph-part-ivb-antiochus-iii>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+
+## <https://acoup.blog/2024/04/26/collections-phalanxs-twilight-legions-triumph-part-ivc-perseus>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+
+## <https://acoup.blog/2024/05/24/collections-on-the-reign-of-alexander-iii-of-macedon-the-great-part-ii>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
 
 ## <https://acoup.blog/2024/06/07/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-i-aristocrats-retainers-and-clients>
 
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
 - `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
+## <https://acoup.blog/2024/06/14/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-ii-government-without-states>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+
+## <https://acoup.blog/2024/06/21/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-iii-going-to-war-with-the-army-you-have>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+
+## <https://acoup.blog/2025/11/14/collections-hoplite-wars-part-i-the-othismos-over-othismos>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+
+## <https://acoup.blog/2026/03/13/collections-warfare-in-dune-part-ii-the-fremen-jihad>
+
+- `src/content/posts/translations/acoup-warfare-in-dune-part-i.mdx`
 
 ## <https://acws.co.uk/gilhams/gilhcomp.htm>
 
@@ -2544,6 +2619,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
+## <https://amzn.to/3EJKMNe>
+
+- `src/content/posts/translations/acoup-on-lighter-bows.mdx`
+
 ## <https://amzn.to/3FNmf7k>
 
 - `src/content/posts/translations/dmdavid-d20-tests-make-experts-look-inept.mdx`
@@ -2571,6 +2650,10 @@
 ## <https://amzn.to/3MT50ll>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://amzn.to/3NBlWOF>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
 
 ## <https://amzn.to/3OI1ivK>
 
@@ -2700,9 +2783,17 @@
 
 - `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
+## <https://amzn.to/4iLsbhr>
+
+- `src/content/posts/translations/acoup-on-lighter-bows.mdx`
+
 ## <https://amzn.to/4k5Lxzc>
 
 - `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
+
+## <https://amzn.to/4rsMV2q>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
 
 ## <https://annarchive.com/files/Dungeon%20Magazine%20%23088.pdf>
 
@@ -2824,6 +2915,10 @@
 ## <https://ceres.mcu.es/pages/Main>
 
 - `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
+
+## <https://chs.harvard.edu/chapter/part-iii-structures-chapter-8-thomas-j-figueira-the-demography-of-the-spartan-helots>
+
+- `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
 
 ## <https://civilization.fandom.com/wiki/Iron_(Civ4)>
 
@@ -3657,6 +3752,10 @@
 
 - `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
 
+## <https://en.wikipedia.org/wiki/Autobiography_of_Harkhuf>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+
 ## <https://en.wikipedia.org/wiki/Avaricum>
 
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
@@ -3982,6 +4081,10 @@
 ## <https://en.wikipedia.org/wiki/Comtat_Venaissin>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
+
+## <https://en.wikipedia.org/wiki/Condottiero>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
 
 ## <https://en.wikipedia.org/wiki/Cord_(unit)>
 
@@ -4661,6 +4764,7 @@
 ## <https://en.wikipedia.org/wiki/Merchant>
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+- `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
 
 ## <https://en.wikipedia.org/wiki/Merlon>
 
@@ -4673,6 +4777,10 @@
 ## <https://en.wikipedia.org/wiki/Middleman_minority>
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
+## <https://en.wikipedia.org/wiki/Miles_Gloriosus_(play)>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
 
 ## <https://en.wikipedia.org/wiki/Miller>
 
@@ -4757,6 +4865,10 @@
 ## <https://en.wikipedia.org/wiki/Nike_Zeus>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
+## <https://en.wikipedia.org/wiki/Nile_mosaic_of_Palestrina>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
 
 ## <https://en.wikipedia.org/wiki/Nivelle_Offensive>
 
@@ -5062,6 +5174,10 @@
 ## <https://en.wikipedia.org/wiki/Scottish_Borders>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+
+## <https://en.wikipedia.org/wiki/Seleucis_of_Syria>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
 
 ## <https://en.wikipedia.org/wiki/Sestertius>
 
@@ -5498,6 +5614,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 
+## <https://foreignpolicy.com/2025/05/02/trump-rome-trade-power>
+
+- `src/content/posts/translations/acoup-on-lighter-bows.mdx`
+
 ## <https://forestry.usu.edu/forest-products/wood-heating>
 
 - `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
@@ -5869,6 +5989,10 @@
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xv.mdx`
 
+## <https://pastsimperfect.substack.com/p/pasts-imperfect-5125>
+
+- `src/content/posts/translations/acoup-on-lighter-bows.mdx`
+
 ## <https://patchworkpaladin.com/2025/01/03/playtime-dungeon-time-wilderness-time-journey-time-faction-turns-and-calendars>
 
 - `src/content/posts/translations/patchworkpaladin-the-faction-turn.mdx`
@@ -5892,6 +6016,10 @@
 ## <https://permacrandam.blogspot.com/2021/02/errant-design-deep-dive-2-core.html>
 
 - `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
+
+## <https://peterturchin.com/fall-rome-happen>
+
+- `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
 
 ## <https://pillarsofeternity.fandom.com/wiki/Currency>
 
@@ -7437,6 +7565,10 @@
 
 - `src/content/posts/translations/tribality-fighter-class-part-thirteenth-age.mdx`
 
+## <https://www.academia.edu/59945427/A_Numbers_Game_The_Size_of_the_Slave_Population_in_Classical_Athens_Journal_of_Classical_Studies_Matica_Srpska_23_2021_pp_87_112>
+
+- `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
+
 ## <https://www.acaeum.com/forum/viewtopic.php?cache=1&f=10&t=12598&c=1>
 
 - `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
@@ -7547,6 +7679,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
+
+## <https://www.amazon.com/Soldiers-Silver-Mobilizing-Resources-Conquest/dp/1477321683?&linkCode=ll1&tag=acoupblog-20&linkId=a1b5db387499393973e9fd1e45fa5f5e&language=en_US&ref_=as_li_ss_tl>
+
+- `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
 
 ## <https://www.amazon.com/Spelljammer-Adventures-Fantasy-Roleplaying-counters/dp/0880387629>
 
@@ -7732,6 +7868,14 @@
 ## <https://www.blogofholding.com?p=7182&cpage=1>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
+## <https://www.bookandsword.com/2022/07/02/how-heavy-were-iron-age-bows-part-1>
+
+- `src/content/posts/translations/acoup-on-lighter-bows.mdx`
+
+## <https://www.bookandsword.com/2022/09/17/how-heavy-were-iron-age-bows-part-2>
+
+- `src/content/posts/translations/acoup-on-lighter-bows.mdx`
 
 ## <https://www.brandesstoddard.com/2011/06/achievement-based-advancement>
 
@@ -7923,6 +8067,10 @@
 
 - `src/content/posts/translations/dmdavid-multi-level-battles-extraordinary.mdx`
 
+## <https://www.cambridge.org/core/journals/journal-of-economic-history/article/we-do-not-know-the-population-of-every-country-in-the-world-for-the-past-two-thousand-years/D747DDC6E499C799B0471DBE33FEB0BB>
+
+- `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
+
 ## <https://www.catholic.com/tract/myths-about-indulgences>
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
@@ -7986,6 +8134,10 @@
 ## <https://www.daggerheart.com>
 
 - `src/content/posts/translations/dmdavid-checks-versus-attack-rolls.mdx`
+
+## <https://www.degruyterbrill.com/document/doi/10.1515/9783110796841-005/html?lang=en>
+
+- `src/content/posts/translations/acoup-on-lighter-bows.mdx`
 
 ## <https://www.deviantart.com/art-of-josephg/art/The-Toad-that-Said-Meh-508938106>
 
@@ -8397,6 +8549,14 @@
 
 - `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
 
+## <https://www.livius.org/pictures/lebanon/saida-sidon/sidon-museum-pieces/sidon-funerary-stele-of-dioscurides>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+
+## <https://www.livius.org/pictures/lebanon/saida-sidon/sidon-museum-pieces/sidon-funerary-stele-of-salmamodes>
+
+- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+
 ## <https://www.loc.gov/pictures/collection/cwp/item/98507952>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
@@ -8448,6 +8608,10 @@
 ## <https://www.nationalgeographic.com/science/article/140927-largest-cave-china-exploration-science>
 
 - `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
+
+## <https://www.nature.com/articles/s41467-025-58581-0>
+
+- `src/content/posts/translations/acoup-on-lighter-bows.mdx`
 
 ## <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2677789>
 
@@ -9096,6 +9260,10 @@
 ## <https://youtu.be/cc_n8H-2-I0>
 
 - `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
+
+## <https://youtu.be/e62dz4NyI4w?si=wnfSwq1Vb42k0If7>
+
+- `src/content/posts/translations/acoup-on-lighter-bows.mdx`
 
 ## <https://youtu.be/ehQWXiixTxc>
 
