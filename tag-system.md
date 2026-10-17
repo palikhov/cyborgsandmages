@@ -95,6 +95,7 @@
 - `John Large`
 - `Jon Peterson`
 - `Kelly Pawlik`
+- `Kenneth Hodges`
 - `KibblesTasty`
 - `Kobold Press`
 - `Light`
@@ -198,6 +199,7 @@
 | `Jon Peterson` | `Jon Peterson` |
 | `Justin Alexander` | `Alexandrian` |
 | `Kelly Pawlik` | `Kelly Pawlik` |
+| `Kenneth Hodges` | `Kenneth Hodges` |
 | `KibblesTasty` | `KibblesTasty` |
 | `Kobold Press` | `Kobold Press` |
 | `Light` | `Light` |

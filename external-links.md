@@ -788,12 +788,6 @@
 
 - `src/content/posts/translations/dmdavid-encouraging-role-playing.mdx`
 
-## <http://medieval.ucdavis.edu/120D/Money.html>
-
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-- `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
-
 ## <http://mentalfloss.com/article/21918/5-minor-tv-characters-who-hijacked-show>
 
 - `src/content/posts/translations/dmdavid-make-players-care-npcs.mdx`
@@ -5677,10 +5671,6 @@
 ## <https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1315>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-
-## <https://medieval.ucdavis.edu/120D/Money.html>
-
-- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
 ## <https://medium.com/migration-issues/notes-on-medieval-population-geography-fd062449364f>
 
