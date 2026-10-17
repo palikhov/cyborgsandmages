@@ -2323,6 +2323,7 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school>
 
@@ -2369,6 +2370,10 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
+
+## <https://acoup.blog/2019/10/18/collections-the-battlefield-after-the-battle>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://acoup.blog/2019/11/22/collections-why-are-there-no-empires-in-age-of-empires>
 
@@ -2422,6 +2427,7 @@
 
 ## <https://acoup.blog/2021/01/08/collections-that-dothraki-horde-part-iv-screamers-and-howlers>
 
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
@@ -2433,6 +2439,7 @@
 
 ## <https://acoup.blog/2021/02/05/collections-the-universal-warrior-part-iia-the-many-faces-of-battle>
 
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://acoup.blog/2021/05/07/collections-teaching-paradox-europa-universalis-iv-part-ii-red-queens>
@@ -2471,6 +2478,11 @@
 ## <https://acoup.blog/2023/03/10/collections-how-to-polis-101-part-i-component-parts>
 
 - `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
+## <https://acoup.blog/2023/12/15/collections-shield-walls-and-spacing-hollywood-mobs-and-ancient-tactics>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://acoup.blog/2024/06/07/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-i-aristocrats-retainers-and-clients>
 
@@ -2588,6 +2600,14 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://amzn.to/3RLCHdK>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
+
+## <https://amzn.to/3RMTOvl>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
+
 ## <https://amzn.to/3SCNlop>
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
@@ -2595,6 +2615,10 @@
 ## <https://amzn.to/3UNUBvv>
 
 - `src/content/posts/translations/dmdavid-d20-tests-make-experts-look-inept.mdx`
+
+## <https://amzn.to/3aiXaBg>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
 
 ## <https://amzn.to/3c1fjav>
 
@@ -2604,9 +2628,17 @@
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
 
+## <https://amzn.to/3dqeXbv>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
+
 ## <https://amzn.to/3eD252p>
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://amzn.to/3fbnmDo>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://amzn.to/3mdjp1s>
 
@@ -2644,6 +2676,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
 
+## <https://amzn.to/3sozpOj>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
+
 ## <https://amzn.to/3uPXO3v>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
@@ -2659,6 +2695,14 @@
 ## <https://amzn.to/3zBVEHt>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
+## <https://amzn.to/439mhCh>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
+
+## <https://amzn.to/4k5Lxzc>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://annarchive.com/files/Dungeon%20Magazine%20%23088.pdf>
 
@@ -2777,6 +2821,10 @@
 
 - `src/content/posts/translations/faction-procedures-comparative-review.mdx`
 
+## <https://ceres.mcu.es/pages/Main>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
+
 ## <https://civilization.fandom.com/wiki/Iron_(Civ4)>
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
@@ -2878,6 +2926,10 @@
 ## <https://commons.wikimedia.org/wiki/Category:Lachish_Reliefs>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+
+## <https://commons.wikimedia.org/wiki/Category:Sode_(armour)>
+
+- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
 
 ## <https://commons.wikimedia.org/wiki/Category:Ten_Views_in_the_Island_of_Antigua_(1823)>
 
@@ -3617,6 +3669,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
 
+## <https://en.wikipedia.org/wiki/Barding>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
+
 ## <https://en.wikipedia.org/wiki/Barley>
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
@@ -3638,6 +3694,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
+## <https://en.wikipedia.org/wiki/Battle_of_Agincourt>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
+
 ## <https://en.wikipedia.org/wiki/Battle_of_Antietam>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
@@ -3649,6 +3709,10 @@
 ## <https://en.wikipedia.org/wiki/Battle_of_Bannockburn>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+
+## <https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://en.wikipedia.org/wiki/Battle_of_Cartagena_(209_BC)>
 
@@ -3665,6 +3729,7 @@
 ## <https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://en.wikipedia.org/wiki/Battle_of_Cunaxa>
 
@@ -3677,6 +3742,10 @@
 ## <https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_(48_BC)>
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
+
+## <https://en.wikipedia.org/wiki/Battle_of_Formigny>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://en.wikipedia.org/wiki/Battle_of_Fornovo>
 
@@ -3721,6 +3790,10 @@
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
+## <https://en.wikipedia.org/wiki/Begging_the_question>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
+
 ## <https://en.wikipedia.org/wiki/Benefice>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
@@ -3757,6 +3830,10 @@
 ## <https://en.wikipedia.org/wiki/Boadicea_and_Her_Daughters>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
+
+## <https://en.wikipedia.org/wiki/Boar_spear>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://en.wikipedia.org/wiki/Bog_iron>
 
@@ -3898,6 +3975,10 @@
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 
+## <https://en.wikipedia.org/wiki/Compound_bow>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
+
 ## <https://en.wikipedia.org/wiki/Comtat_Venaissin>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
@@ -3934,6 +4015,10 @@
 ## <https://en.wikipedia.org/wiki/Crucible_steel>
 
 - `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
+
+## <https://en.wikipedia.org/wiki/D%C5%8D_(armour)>
+
+- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
 
 ## <https://en.wikipedia.org/wiki/Das_Kapital>
 
@@ -4161,6 +4246,10 @@
 ## <https://en.wikipedia.org/wiki/Garrett_P.I.>
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
+
+## <https://en.wikipedia.org/wiki/Gelatinous_cube>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://en.wikipedia.org/wiki/George_S._Patton%27s_speech_to_the_Third_Army>
 
@@ -4439,6 +4528,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/Lamellar_armour>
+
+- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
+
 ## <https://en.wikipedia.org/wiki/Landsknecht>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
@@ -4517,6 +4610,10 @@
 
 - `src/content/posts/translations/acoup-war-elephants-part-iii-elephant-memories.mdx`
 
+## <https://en.wikipedia.org/wiki/Mainz_Gladius>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
+
 ## <https://en.wikipedia.org/wiki/Maize>
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
@@ -4588,6 +4685,10 @@
 ## <https://en.wikipedia.org/wiki/Missile_Defense_Agency>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
+## <https://en.wikipedia.org/wiki/Modular_Scalable_Vest>
+
+- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
 
 ## <https://en.wikipedia.org/wiki/Mons_Meg>
 
@@ -4764,6 +4865,10 @@
 ## <https://en.wikipedia.org/wiki/Pith>
 
 - `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
+## <https://en.wikipedia.org/wiki/Plate_armour>
+
+- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
 
 ## <https://en.wikipedia.org/wiki/Player%27s_Handbook>
 
@@ -4946,6 +5051,10 @@
 
 - `src/content/posts/translations/where-does-my-main-battery-go.mdx`
 
+## <https://en.wikipedia.org/wiki/Scale_armour>
+
+- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
+
 ## <https://en.wikipedia.org/wiki/Scientific_racism>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
@@ -5031,9 +5140,17 @@
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
+## <https://en.wikipedia.org/wiki/Small_Arms_Protective_Insert>
+
+- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
+
 ## <https://en.wikipedia.org/wiki/Soke_(legal)>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Spatha>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
 
 ## <https://en.wikipedia.org/wiki/St_Crispin%27s_Day_Speech>
 
@@ -5256,6 +5373,10 @@
 ## <https://en.wikipedia.org/wiki/Vivandi%C3%A8re>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+
+## <https://en.wikipedia.org/wiki/Volley_fire>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://en.wikipedia.org/wiki/Walls_of_Constantinople>
 
@@ -5895,6 +6016,10 @@
 ## <https://rolltop-indigo.blogspot.com/2018/05/the-invisible-rulebooks.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://romanmilitaryequipment.co.uk/the-figures>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
 
 ## <https://rpg.stackexchange.com/questions/63613/hit-dice-vs-hit-points>
 
@@ -7041,6 +7166,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
+## <https://twitter.com/DrMichaelJTayl1/status/1732771849795260557>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
+
 ## <https://twitter.com/MilHist_Lee>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
@@ -7287,6 +7416,10 @@
 ## <https://wiki.lspace.org/mediawiki/Department_of_Post-Mortem_Communications>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://wiktenauer.com/wiki/Fiore_de%27i_Liberi>
+
+- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
 
 ## <https://wiktenauer.com/wiki/Talhoffer_Fechtbuch_(MS_Thott.290.2%C2%BA)>
 
@@ -7656,6 +7789,7 @@
 ## <https://www.britishmuseum.org/collection/object/G_1866-0806-1>
 
 - `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
 
 ## <https://www.britishmuseum.org/collection/object/G_1873-0820-304>
 
@@ -7665,9 +7799,21 @@
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 
+## <https://www.britishmuseum.org/collection/object/H_1915-0503-1>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
+
 ## <https://www.britishmuseum.org/collection/object/H_1939-1010-95>
 
 - `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
+
+## <https://www.britishmuseum.org/collection/object/H_1995-0704-1_1>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
+
+## <https://www.britishmuseum.org/collection/object/H_ML-1732>
+
+- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
 
 ## <https://www.britishmuseum.org/collection/object/H_ML-2928>
 
@@ -8315,6 +8461,10 @@
 
 - `src/content/posts/translations/acoup-fremen-mirage-interlude.mdx`
 
+## <https://www.nytimes.com/2025/04/03/arts/humanities-grants-canceled-doge.html>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
+
 ## <https://www.opengamingstore.com/collections/jon-brazer-enterprises/products/13-fighter-talents-and-maneuvers-13th-age-compatible>
 
 - `src/content/posts/translations/tribality-fighter-class-part-thirteenth-age.mdx`
@@ -8381,6 +8531,14 @@
 ## <https://www.reddit.com/r/AskHistorians/comments/6q73qz/did_decadence_destroy_the_roman_empire>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
+## <https://www.reddit.com/r/AskHistorians/comments/7dqkbm/comment/dpzyolt>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
+
+## <https://www.reddit.com/r/AskHistorians/comments/rqxa0t/did_medieval_archers_fire_in_volleys>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://www.reddit.com/r/asoiaf/comments/3pt6su/no_spoilers_ever_wonder_how_far_apart_stuff_is>
 
@@ -8878,6 +9036,10 @@
 ## <https://youtu.be/McnKrV0aDjo>
 
 - `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
+
+## <https://youtu.be/Mf7KCqQLw78?si=X6fO1Fzk0la51I-I>
+
+- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://youtu.be/NZmH0DGVXCo>
 
