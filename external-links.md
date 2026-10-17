@@ -1662,6 +1662,18 @@
 
 - `src/content/posts/translations/critical-hits-architect-dm-negative-space-in-dungeons.mdx`
 
+## <http://www.brandesstoddard.com/2012/04/23/adding-depth-to-fighters>
+
+- `src/content/posts/translations/brandes-warrior-orders-and-maneuvers.mdx`
+
+## <http://www.brandesstoddard.com/2012/05/03/warrior-societies-of-aurikesh>
+
+- `src/content/posts/translations/brandes-warrior-orders-and-maneuvers.mdx`
+
+## <http://www.brandesstoddard.com/2012/05/22/warrior-societies-of-aurikesh-part-2>
+
+- `src/content/posts/translations/brandes-warrior-orders-and-maneuvers.mdx`
+
 ## <http://www.brandesstoddard.com/2016/12/dd-5e-alternate-threat-tracks>
 
 - `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
@@ -2404,14 +2416,6 @@
 ## <https://acoup.blog/2020/08/14/fireside-friday-august-14th-2020>
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
-
-## <https://acoup.blog/2020/11/06/collections-iron-how-did-they-make-it-addendum-crucible-steel-and-cast-iron>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
-- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
-- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
 
 ## <https://acoup.blog/2020/12/04/collections-that-dothraki-horde-part-i-barbarian-couture>
 
@@ -3437,6 +3441,18 @@
 
 - `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
+## <https://en.wikipedia.org/w/index.php?title=File%3AChengqiao_artifact_no._35_cast_iron.png>
+
+- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
+
+## <https://en.wikipedia.org/w/index.php?title=File%3AChinese_Fining_and_Blast_Furnace.jpg>
+
+- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
+
+## <https://en.wikipedia.org/w/index.php?title=File%3AYuan_Dynasty_-_waterwheels_and_smelting.png>
+
+- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
+
 ## <https://en.wikipedia.org/w/index.php?title=File:Asian_Elephant,_Royal_Chitwan_National_Park.jpg>
 
 - `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
@@ -3719,6 +3735,10 @@
 
 - `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
+## <https://en.wikipedia.org/wiki/Bessemer_process>
+
+- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
+
 ## <https://en.wikipedia.org/wiki/Big_Bertha_(howitzer)>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
@@ -3772,6 +3792,10 @@
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
+## <https://en.wikipedia.org/wiki/Breech-loading_swivel_gun>
+
+- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
+
 ## <https://en.wikipedia.org/wiki/Briquette>
 
 - `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
@@ -3791,6 +3815,10 @@
 ## <https://en.wikipedia.org/wiki/Casemate>
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
+
+## <https://en.wikipedia.org/wiki/Cast_iron>
+
+- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
 
 ## <https://en.wikipedia.org/wiki/Castra>
 
@@ -3815,6 +3843,10 @@
 ## <https://en.wikipedia.org/wiki/Cementite>
 
 - `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
+
+## <https://en.wikipedia.org/wiki/Census_Act_1800>
+
+- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
 
 ## <https://en.wikipedia.org/wiki/Center_of_percussion>
 
@@ -3904,6 +3936,10 @@
 ## <https://en.wikipedia.org/wiki/Cromartyshire>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
+
+## <https://en.wikipedia.org/wiki/Crucible_steel>
+
+- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
 
 ## <https://en.wikipedia.org/wiki/Das_Kapital>
 
@@ -4010,6 +4046,10 @@
 ## <https://en.wikipedia.org/wiki/File:Jato_An_ancient_tool_used_to_grind_food_item_in_Nepal.ogv>
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://en.wikipedia.org/wiki/Finery_forge>
+
+- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
 
 ## <https://en.wikipedia.org/wiki/Finlandization>
 
@@ -4164,6 +4204,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://en.wikipedia.org/wiki/Graphite>
+
+- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
 
 ## <https://en.wikipedia.org/wiki/Great_Leap_Forward>
 
@@ -5248,6 +5292,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
+## <https://en.wikipedia.org/wiki/Wootz_steel>
+
+- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
+
 ## <https://en.wikipedia.org/wiki/World_War_I_memorials>
 
 - `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
@@ -5999,6 +6047,10 @@
 
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
+## <https://stock.adobe.com/images/woman-with-red-umbrella-crossing-the-street-rainy-night-illustration/103950970>
+
+- `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
+
 ## <https://store.steampowered.com/app/1434950/HighFleet>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
@@ -6036,6 +6088,7 @@
 - `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+- `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
 
@@ -6309,6 +6362,10 @@
 - `src/content/posts/translations/alexandrian-game-structures-addendum-katanas-trenchcoats.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-10-idea-rolls.mdx`
 
+## <https://thealexandrian.net/wordpress/39651/roleplaying-games/rulings-in-practice-gathering-information>
+
+- `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
+
 ## <https://thealexandrian.net/wordpress/39736/roleplaying-games/eternal-lies-addendum-hotels>
 
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
@@ -6352,6 +6409,7 @@
 
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+- `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
 ## <https://thealexandrian.net/wordpress/4131/roleplaying-games/reactions-to-odd-experience-points>
@@ -6379,6 +6437,7 @@
 
 ## <https://thealexandrian.net/wordpress/42961/roleplaying-games/smart-prep-part-4-campaign-status-documents>
 
+- `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-3-status-quo-design.mdx`
 
 ## <https://thealexandrian.net/wordpress/43049/roleplaying-games/feng-shui-2-system-cheat-sheet>
@@ -6414,6 +6473,10 @@
 ## <https://thealexandrian.net/wordpress/44705/roleplaying-games/remixing-avernus-part-5b-a-arriving-in-hellturel>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
+## <https://thealexandrian.net/wordpress/44713/roleplaying-games/remixing-avernus-part-5b-b-streetcrawl-in-elturel>
+
+- `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
 
 ## <https://thealexandrian.net/wordpress/44773/roleplaying-games/so-you-want-to-be-a-feng-shui-player>
 
@@ -6481,10 +6544,6 @@
 ## <https://thealexandrian.net/wordpress/47259/roleplaying-games/random-gm-tip-splitting-the-party>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-17-too-many-players.mdx`
-
-## <https://thealexandrian.net/wordpress/48186/roleplaying-games/running-the-city-part-2-life-in-the-city>
-
-- `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
 ## <https://thealexandrian.net/wordpress/49659/roleplaying-games/review-nights-black-agents>
 
@@ -7568,12 +7627,6 @@
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
 
-## <https://www.brandesstoddard.com/2016/08/dd-5e-warrior-orders-and-maneuvers>
-
-- `src/content/posts/translations/tribality-fighter-class-part-eleven.mdx`
-- `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
-- `src/content/posts/translations/tribality-fighter-class-part-nine.mdx`
-
 ## <https://www.brandesstoddard.com/2018/06/dd-5e-expanded-background-assets>
 
 - `src/content/posts/translations/tribality-fighter-class-part-twelve.mdx`
@@ -7713,6 +7766,10 @@
 ## <https://www.britishmuseum.org/collection/object/P_SL-5214-281>
 
 - `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
+## <https://www.britishmuseum.org/collection/object/W_2007-6001-16013>
+
+- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
 
 ## <https://www.britishmuseum.org/collection/object/W_As1974-02-36-a-d>
 
