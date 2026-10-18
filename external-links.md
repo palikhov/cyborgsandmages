@@ -209,6 +209,10 @@
 
 - `src/content/posts/translations/dmdavid-four-annoying-spells.mdx`
 
+## <http://dmdavid.com/tag/puzzle-traps>
+
+- `src/content/posts/translations/dmdavid-fun-of-mysteries.mdx`
+
 ## <http://dmdavid.com/tag/saving-throw-proficiency-and-ghouls>
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
@@ -240,6 +244,10 @@
 ## <http://dmdavid.com/tag/the-pros-and-cons-of-dds-ability-checks>
 
 - `src/content/posts/translations/dmdavid-challenging-player-skill.mdx`
+
+## <http://dmdavid.com/tag/tomb-of-horrors-still-ranks-as-dungeons-dragons-best-villain>
+
+- `src/content/posts/translations/dmdavid-fun-of-mysteries.mdx`
 
 ## <http://dmdavid.com/tag/two-problems-that-provoked-bounded-accuracy>
 
@@ -2052,6 +2060,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 
+## <http://www.letsmakeadeal.com>
+
+- `src/content/posts/translations/dmdavid-difficult-dilemmas.mdx`
+
 ## <http://www.lotfp.com/store/index.php?route=product/product&product_id=262>
 
 - `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
@@ -3234,6 +3246,7 @@
 ## <https://dmdavid.com/tag/faking-choices-for-dd-players>
 
 - `src/content/posts/translations/dmdavid-choose-your-adventure-pacing-decisions.mdx`
+- `src/content/posts/translations/dmdavid-difficult-dilemmas.mdx`
 
 ## <https://dmdavid.com/tag/for-10-years-dd-suffered-from-an-unplayable-initiative-system-blame-the-games-wargaming-roots>
 
@@ -3264,10 +3277,6 @@
 ## <https://dmdavid.com/tag/how-to-build-a-dd-monk-so-good-that-dms-want-to-cheat>
 
 - `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
-
-## <https://dmdavid.com/tag/how-to-improve-your-dd-game-by-posing-difficult-dilemmas>
-
-- `src/content/posts/translations/dmdavid-fourth-edition-skill-challenges-bad-adventures.mdx`
 
 ## <https://dmdavid.com/tag/how-to-use-scenes-and-summaries-to-focus-on-the-best-parts-of-a-role-playing-adventure>
 
@@ -3316,10 +3325,16 @@
 
 ## <https://dmdavid.com/tag/sharpshooters-are-the-worst-thing-in-dd-but-that-speaks-well-of-fifth-edition>
 
+- `src/content/posts/translations/dmdavid-find-fun-in-traps.mdx`
 - `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
+
+## <https://dmdavid.com/tag/stop-favoring-perception-for-searches-in-dd>
+
+- `src/content/posts/translations/dmdavid-find-fun-in-traps.mdx`
 
 ## <https://dmdavid.com/tag/strong-moral-dilemmas-in-dd-and-the-unwanted-kind-that-keeps-appearing>
 
+- `src/content/posts/translations/dmdavid-difficult-dilemmas.mdx`
 - `src/content/posts/translations/dmdavid-end-combat-before-grind.mdx`
 
 ## <https://dmdavid.com/tag/tag/winter-fantasy>
@@ -3334,12 +3349,6 @@
 
 - `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
 
-## <https://dmdavid.com/tag/the-fun-thing-dd-players-love-that-no-one-mentions-and-that-the-game-almost-lost>
-
-- `src/content/posts/translations/dmdavid-first-level-adventure-six-things.mdx`
-- `src/content/posts/translations/dmdavid-fourth-edition-skill-challenges-bad-adventures.mdx`
-- `src/content/posts/translations/dmdavid-neglected-secret-dungeons-fun-explore.mdx`
-
 ## <https://dmdavid.com/tag/the-media-furor-that-introduced-the-bizarre-intellectual-game-of-dungeons-dragons-to-america>
 
 - `src/content/posts/translations/dmdavid-palace-silver-princess-scandal.mdx`
@@ -3352,11 +3361,6 @@
 ## <https://dmdavid.com/tag/the-stories-and-3-mysteries-behind-dds-iconic-monsters>
 
 - `src/content/posts/translations/dmdavid-astral-ethereal-overcomplicated.mdx`
-
-## <https://dmdavid.com/tag/to-find-the-fun-in-traps-did-dd-miss-the-search-check>
-
-- `src/content/posts/translations/dmdavid-fourth-edition-skill-challenges-bad-adventures.mdx`
-- `src/content/posts/translations/dmdavid-neglected-secret-dungeons-fun-explore.mdx`
 
 ## <https://dmdavid.com/tag/using-the-small-world-principle-to-build-a-better-game>
 
@@ -6136,6 +6140,7 @@
 ## <https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf>
 
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
+- `src/content/posts/translations/dmdavid-find-fun-in-traps.mdx`
 
 ## <https://media.wizards.com/2016/dnd/downloads/UA_Druid11272016_CAWS.pdf>
 
@@ -6160,6 +6165,10 @@
 ## <https://merricb.com/2012/08/28/review-of-the-original-b3-palace-of-the-silver-princess-by-jean-wells>
 
 - `src/content/posts/translations/dmdavid-palace-silver-princess-story.mdx`
+
+## <https://misdirectedmark.com/2020/07/23/dwdd-traps-with-new-co-host-teos-abadia>
+
+- `src/content/posts/translations/dmdavid-find-fun-in-traps.mdx`
 
 ## <https://mossmaps.wordpress.com>
 
@@ -6224,6 +6233,10 @@
 ## <https://osricrpg.com>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://paizo.com/products/btpy7w2d?Dungeon-Issue-148>
+
+- `src/content/posts/translations/dmdavid-difficult-dilemmas.mdx`
 
 ## <https://paizo.com/products/btpy8ffn?Pathfinder-Roleplaying-Game-GameMastery-Guide>
 
@@ -8092,6 +8105,10 @@
 ## <https://www.amazon.com/gp/product/0313385858/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=dmdavid-20&creative=9325&linkCode=as2&creativeASIN=0313385858&linkId=fef034d10c5296ad54a6849fc9b7e635>
 
 - `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
+
+## <https://www.amazon.com/gp/product/0786966114>
+
+- `src/content/posts/translations/dmdavid-find-fun-in-traps.mdx`
 
 ## <https://www.amazon.com/gp/product/0786967021/ref=as_li_tl?camp=1789&creative=9325&creativeASIN=0786967021&ie=UTF8&linkCode=as2&linkId=21961fec467b2327f97ff93b97255afb&tag=flutesloot-20>
 
