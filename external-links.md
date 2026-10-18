@@ -43,6 +43,10 @@
 
 - `src/content/posts/translations/just-three-hexes-campaign-starters.mdx`
 
+## <http://arsludi.lamemage.com/index.php/99/treasure-tells-a-story>
+
+- `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
+
 ## <http://avalon.law.yale.edu/medieval/salic.asp>
 
 - `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
@@ -403,6 +407,14 @@
 ## <http://en.wikipedia.org/wiki/Lingam>
 
 - `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
+
+## <http://en.wikipedia.org/wiki/List_of_titles_and_honours_of_Queen_Elizabeth_II>
+
+- `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
+
+## <http://en.wikipedia.org/wiki/MacGuffin>
+
+- `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
 
 ## <http://en.wikipedia.org/wiki/Madhya_Pradesh>
 
@@ -1210,9 +1222,25 @@
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0786916443/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/078692893X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-4-combat.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0786938471/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/078693946X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-metagame-special-effects.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0786940387/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0786948507/digitalcomi0a-20>
 
@@ -1251,6 +1279,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/0880380187/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/088038042X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-metagame-special-effects.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0880387297/digitalcomi0a-20>
 
@@ -1317,6 +1349,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/156076144X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/156389484X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
@@ -1325,6 +1361,14 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-addendum-katanas-trenchcoats.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1565046226/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1565047516/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1568821816/digitalcomi0a-20>
 
@@ -1351,6 +1395,10 @@
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
 - `src/content/posts/translations/alexandrian-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1601251092/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1601251505/digitalcomi0a-20>
 
@@ -1476,6 +1524,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B000KI8O64/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-metagame-special-effects.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B000M5Y63U/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
@@ -1496,10 +1548,15 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B000P0J0AQ/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-3-filling-the-frame.mdx`
+- `src/content/posts/translations/alexandrian-running-combat.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B000PE37QA/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000Q6GX5Y/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-running-combat.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B000RZIGVS/digitalcomi0a-20>
 
@@ -1519,6 +1576,10 @@
 - `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-13-custom-structures.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B00198X0UY/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-running-combat.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B001AOAB9A/digitalcomi0a-20>
 
@@ -1955,6 +2016,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <http://www.giantitp.com/forums/showthread.php?t=37362>
+
+- `src/content/posts/translations/alexandrian-running-combat.mdx`
+
 ## <http://www.goodreader.com>
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
@@ -2278,6 +2343,10 @@
 ## <http://www.rpgnow.com/product_info.php?products_id=27955&it=1&filters=0_0_0&manufacturers_id=2142>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
+
+## <http://www.shamusyoung.com/twentysidedtale?p=1010>
+
+- `src/content/posts/translations/alexandrian-running-combat.mdx`
 
 ## <http://www.shamusyoung.com/twentysidedtale?p=1084>
 
@@ -6279,6 +6348,10 @@
 
 - `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
+## <https://pixabay.com/users/kellepics-4893063>
+
+- `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
+
 ## <https://playingattheworld.blogspot.com/2020/02/identifying-dice-of-1970s.html>
 
 - `src/content/posts/translations/playing-at-the-world-how-gaming-got-its-dice.mdx`
@@ -6607,6 +6680,7 @@
 - `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+- `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
@@ -6683,6 +6757,10 @@
 
 - `src/content/posts/translations/alexandrian-deus-ex-tactical-hacking.mdx`
 
+## <https://thealexandrian.net/wordpress/1668/roleplaying-games/the-death-of-the-wandering-monster>
+
+- `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
+
 ## <https://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
@@ -6732,10 +6810,6 @@
 ## <https://thealexandrian.net/wordpress/2662/roleplaying-games/a-nomenclature-of-dd-editions>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
-
-## <https://thealexandrian.net/wordpress/2747/roleplaying-games/random-gm-tip-how-to-use-published-3rd-edition-modules>
-
-- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
 
 ## <https://thealexandrian.net/wordpress/32599/roleplaying-games/film-banging-agendas-and-bangs-from-non-rpg-media>
 
@@ -7138,6 +7212,7 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
+- `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
 
 ## <https://thealexandrian.net/wordpress/7961/roleplaying-games/node-based-scenario-design-part-2-choose-your-own-adventure>
 
