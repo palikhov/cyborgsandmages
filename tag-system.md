@@ -122,6 +122,7 @@
 - `Ronny`
 - `S. John Ross`
 - `Sam Sorensen`
+- `Sean Manning`
 - `Serban Ionita`
 - `Shawn Merwin`
 - `Skerples`
@@ -227,6 +228,7 @@
 | `Ronny` | `Ronny` |
 | `S. John Ross` | `S. John Ross` |
 | `Sam Sorensen` | `Sam Sorensen` |
+| `Sean Manning` | `Sean Manning` |
 | `Serban Ionita` | `Serban Ionita` |
 | `Shawn Merwin` | `Shawn Merwin` |
 | `Skerples` | `Skerples` |

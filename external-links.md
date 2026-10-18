@@ -866,6 +866,10 @@
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
 
+## <http://paleoplanet69529.yuku.com/topic/14119/202lb-yew-warbow?page=12>
+
+- `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
+
 ## <http://quagkeep.blogspot.com/2012/01/i11-needle-painful-enchantment.html>
 
 - `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
@@ -1609,6 +1613,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
 
+## <http://www.atarn.org/chinese/Yanghai/Scythian_bow_ATARN.pdf>
+
+- `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
+
 ## <http://www.atlas-games.com/arm5>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
@@ -1655,6 +1663,14 @@
 ## <http://www.boingboing.net/2011/02/17/hand-drawn-dd-maps-o.html>
 
 - `src/content/posts/translations/critical-hits-architect-dm-negative-space-in-dungeons.mdx`
+
+## <http://www.bookfinder.com/search?author=&title=&lang=en&isbn=978-9622095014&new_used=*&destination=at&currency=EUR&mode=basic&st=sr&ac=qr>
+
+- `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
+
+## <http://www.bookfinder.com/search?author=&title=Chinese+Technology+in+the+Seventeenth+Century&lang=en&isbn=0486295931&new_used=*&destination=at&currency=EUR&mode=basic&st=sr&ac=qr>
+
+- `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
 
 ## <http://www.brandesstoddard.com/2012/04/23/adding-depth-to-fighters>
 
@@ -1903,6 +1919,10 @@
 
 - `src/content/posts/translations/introducing-your-setting.mdx`
 
+## <http://www.freeworldmaps.net/asia/central/physical.html>
+
+- `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
+
 ## <http://www.gameinformer.com/games/the_elder_scrolls_v_skyrim/b/xbox360/archive/2011/01/17/the-technology-behind-elder-scrolls-v-skyrim.aspx>
 
 - `src/content/posts/translations/radiant-quests-and-restocking.mdx`
@@ -2048,6 +2068,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
+## <http://www.manchuarchery.org/historical-draw-weights-qing-bows>
+
+- `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
+
 ## <http://www.margaretweis.com/index.php/shop>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -2127,6 +2151,10 @@
 ## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D28%3Achapter%3D3>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0164%3Abook%3D34%3Achapter%3D1>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 
 ## <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0165%3Abook%3D37%3Achapter%3D44>
 
@@ -2329,6 +2357,9 @@
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
 - `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
 
 ## <https://acoup.blog/2019/08/23/collections-this-isnt-sparta-part-ii-spartan-equality>
@@ -2355,6 +2386,7 @@
 - `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 - `src/content/posts/translations/acoup-fremen-mirage-part-iiia.mdx`
 - `src/content/posts/translations/acoup-fremen-mirage-part-iv.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
 
 ## <https://acoup.blog/2019/09/27/collections-this-isnt-sparta-part-vii-spartan-ends>
@@ -2363,6 +2395,7 @@
 - `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
 - `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 - `src/content/posts/translations/acoup-fremen-mirage-part-iv.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
 ## <https://acoup.blog/2019/10/06/new-acquisitions-how-fast-do-armies-move>
 
@@ -2373,6 +2406,8 @@
 
 ## <https://acoup.blog/2019/10/18/collections-the-battlefield-after-the-battle>
 
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 - `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://acoup.blog/2019/11/22/collections-why-are-there-no-empires-in-age-of-empires>
@@ -2386,12 +2421,18 @@
 ## <https://acoup.blog/2019/12/12/collections-a-trip-through-cicero-natural-law>
 
 - `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
+
+## <https://acoup.blog/2020/03/17/new-acquisitions-hoplite-style-disease-control-march-17-2020>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
 
 ## <https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
 
 ## <https://acoup.blog/2020/03/27/a-trip-through-dhuoda-of-uzes-carolingian-values>
 
@@ -2399,18 +2440,31 @@
 
 ## <https://acoup.blog/2020/04/10/collections-antarah-ibn-shaddad-victory-songs>
 
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
 ## <https://acoup.blog/2020/04/16/collections-a-trip-through-bertran-de-born-martial-values-in-the-12th-century-occitan-nobility>
 
 - `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://acoup.blog/2020/04/24/fireside-friday-april-24-2020>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 
 ## <https://acoup.blog/2020/06/25/fireside-friday-june-26th-2020>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
+
+## <https://acoup.blog/2020/07/03/collections-the-practical-case-on-why-we-need-the-humanities>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
 ## <https://acoup.blog/2020/08/14/fireside-friday-august-14th-2020>
 
@@ -2419,6 +2473,7 @@
 ## <https://acoup.blog/2020/12/04/collections-that-dothraki-horde-part-i-barbarian-couture>
 
 - `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
 ## <https://acoup.blog/2020/12/11/collections-that-dothraki-horde-part-ii-subsistence-on-the-hoof>
 
@@ -2427,21 +2482,12 @@
 
 ## <https://acoup.blog/2021/01/08/collections-that-dothraki-horde-part-iv-screamers-and-howlers>
 
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 - `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
-
-## <https://acoup.blog/2021/01/29/collections-the-universal-warrior-part-i-soldiers-warriors-and>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
-
-## <https://acoup.blog/2021/02/05/collections-the-universal-warrior-part-iia-the-many-faces-of-battle>
-
-- `src/content/posts/translations/acoup-on-lighter-bows.mdx`
-- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://acoup.blog/2021/05/07/collections-teaching-paradox-europa-universalis-iv-part-ii-red-queens>
 
@@ -2795,6 +2841,14 @@
 
 - `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
 
+## <https://angrystaffofficer.com/2016/12/14/stop-calling-us-warriors>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://angrystaffofficer.com/2020/01/20/stop-calling-armed-mobs-the-militia>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
 ## <https://annarchive.com/files/Dungeon%20Magazine%20%23088.pdf>
 
 - `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
@@ -2810,6 +2864,10 @@
 ## <https://archive.org/details/case_f_475_12/page/n71/mode/2up>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
+## <https://archive.org/details/chinesetechnolog0000song>
+
+- `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
 
 ## <https://archive.org/details/organizationand01wagngoog/page/466/mode/2up>
 
@@ -2920,6 +2978,10 @@
 
 - `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
 
+## <https://chs.harvard.edu/event/battle-of-plataea>
+
+- `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
+
 ## <https://civilization.fandom.com/wiki/Iron_(Civ4)>
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
@@ -3006,6 +3068,10 @@
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
 
+## <https://commons.wikimedia.org/w/index.php?title=File:The_badly_shelled_main_road_to_Bapaume.jpg>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
+
 ## <https://commons.wikimedia.org/wiki/Category:Elephas_maximus>
 
 - `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
@@ -3021,6 +3087,10 @@
 ## <https://commons.wikimedia.org/wiki/Category:Lachish_Reliefs>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+
+## <https://commons.wikimedia.org/wiki/Category:Military_drill>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
 
 ## <https://commons.wikimedia.org/wiki/Category:Sode_(armour)>
 
@@ -3618,6 +3688,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
+## <https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_war>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
+
 ## <https://en.wikipedia.org/wiki/42_cm_Gamma_howitzer>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
@@ -3677,6 +3751,14 @@
 ## <https://en.wikipedia.org/wiki/Alum>
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
+## <https://en.wikipedia.org/wiki/American_Civil_War>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
+
+## <https://en.wikipedia.org/wiki/American_Indian_Wars>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Amurca>
 
@@ -3759,6 +3841,10 @@
 ## <https://en.wikipedia.org/wiki/Avaricum>
 
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
+
+## <https://en.wikipedia.org/wiki/Band_of_Brothers_(miniseries)>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Barbute>
 
@@ -3875,6 +3961,7 @@
 ## <https://en.wikipedia.org/wiki/Bayeux_Tapestry>
 
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
 ## <https://en.wikipedia.org/wiki/Beard_tax>
@@ -4054,6 +4141,14 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 
+## <https://en.wikipedia.org/wiki/Civil%E2%80%93military_relations>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://en.wikipedia.org/wiki/Clothing_in_ancient_Greece>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
+
 ## <https://en.wikipedia.org/wiki/Coevolution>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
@@ -4103,9 +4198,17 @@
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/Counting_coup>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
 ## <https://en.wikipedia.org/wiki/Country_rock_(geology)>
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
+
+## <https://en.wikipedia.org/wiki/Crimean_War>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Croeseid>
 
@@ -4126,6 +4229,10 @@
 ## <https://en.wikipedia.org/wiki/Das_Kapital>
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
+## <https://en.wikipedia.org/wiki/Deborah>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
 ## <https://en.wikipedia.org/wiki/Defensive_wall>
 
@@ -4178,6 +4285,10 @@
 ## <https://en.wikipedia.org/wiki/Dule_tree>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <https://en.wikipedia.org/wiki/Dunbar%27s_number>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Dungeon_Master%27s_Guide>
 
@@ -4289,6 +4400,7 @@
 ## <https://en.wikipedia.org/wiki/Franco-Prussian_War>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Frederick_the_Great>
 
@@ -4350,6 +4462,11 @@
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
 
+## <https://en.wikipedia.org/wiki/Gates_of_Fire>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
+
 ## <https://en.wikipedia.org/wiki/Gelatinous_cube>
 
 - `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
@@ -4377,6 +4494,10 @@
 ## <https://en.wikipedia.org/wiki/Godwin%27s_law>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
+
+## <https://en.wikipedia.org/wiki/Gombe_Chimpanzee_War>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Grain>
 
@@ -4475,6 +4596,7 @@
 ## <https://en.wikipedia.org/wiki/Hardtack>
 
 - `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Hardy_tool>
 
@@ -4499,6 +4621,10 @@
 ## <https://en.wikipedia.org/wiki/Henry_V_(play)>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
+
+## <https://en.wikipedia.org/wiki/Heraldry>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 
 ## <https://en.wikipedia.org/wiki/Heriot>
 
@@ -4532,6 +4658,14 @@
 ## <https://en.wikipedia.org/wiki/Housecarl>
 
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
+
+## <https://en.wikipedia.org/wiki/Hua_Mulan>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
+
+## <https://en.wikipedia.org/wiki/Hypervigilance>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
 
 ## <https://en.wikipedia.org/wiki/In_medias_res>
 
@@ -4573,6 +4707,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
+## <https://en.wikipedia.org/wiki/Joe_Medicine_Crow>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
 
 ## <https://en.wikipedia.org/wiki/Johann_Ludwig_Ernst_Morgenstern>
 
@@ -4626,6 +4764,10 @@
 ## <https://en.wikipedia.org/wiki/La_T%C3%A8ne_culture>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
+
+## <https://en.wikipedia.org/wiki/Lachish_reliefs>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
 
 ## <https://en.wikipedia.org/wiki/Lady-in-waiting>
 
@@ -4725,6 +4867,10 @@
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
 
+## <https://en.wikipedia.org/wiki/Mamluk>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
 ## <https://en.wikipedia.org/wiki/Manorialism>
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
@@ -4774,6 +4920,10 @@
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
+## <https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
+
 ## <https://en.wikipedia.org/wiki/Middleman_minority>
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
@@ -4794,9 +4944,25 @@
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
 
+## <https://en.wikipedia.org/wiki/Mission-type_tactics>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
+
 ## <https://en.wikipedia.org/wiki/Modular_Scalable_Vest>
 
 - `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
+
+## <https://en.wikipedia.org/wiki/Molly_Pitcher>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
+
+## <https://en.wikipedia.org/wiki/Mon_(emblem)>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://en.wikipedia.org/wiki/Mongols>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 
 ## <https://en.wikipedia.org/wiki/Mons_Meg>
 
@@ -4857,6 +5023,10 @@
 ## <https://en.wikipedia.org/wiki/New_Imperialism>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
+
+## <https://en.wikipedia.org/wiki/Newburgh_Conspiracy>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
 ## <https://en.wikipedia.org/wiki/Nike_Hercules>
 
@@ -4958,6 +5128,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 
+## <https://en.wikipedia.org/wiki/Phalanx>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
 ## <https://en.wikipedia.org/wiki/Pharaoh_(module)>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -5050,6 +5224,10 @@
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
+## <https://en.wikipedia.org/wiki/Prussian_Army>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
+
 ## <https://en.wikipedia.org/wiki/Przemy%C5%9Bl_Fortress>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
@@ -5057,6 +5235,10 @@
 ## <https://en.wikipedia.org/wiki/Psychological_operations_(United_States)>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
+
+## <https://en.wikipedia.org/wiki/Purple_Heart>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 
 ## <https://en.wikipedia.org/wiki/Push_of_pike>
 
@@ -5187,6 +5369,10 @@
 
 - `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
 
+## <https://en.wikipedia.org/wiki/Shell_shock>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
+
 ## <https://en.wikipedia.org/wiki/Siege>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
@@ -5264,6 +5450,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
+
 ## <https://en.wikipedia.org/wiki/Spatha>
 
 - `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
@@ -5295,6 +5485,10 @@
 ## <https://en.wikipedia.org/wiki/Stirling_Castle>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+
+## <https://en.wikipedia.org/wiki/Stop-loss_policy>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 
 ## <https://en.wikipedia.org/wiki/Strategic_Defense_Initiative>
 
@@ -5410,6 +5604,10 @@
 
 - `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
 
+## <https://en.wikipedia.org/wiki/Theodora_(wife_of_Justinian_I)>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
+
 ## <https://en.wikipedia.org/wiki/Thiamine_deficiency>
 
 - `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
@@ -5417,6 +5615,10 @@
 ## <https://en.wikipedia.org/wiki/Third_Amendment_to_the_United_States_Constitution>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
+
+## <https://en.wikipedia.org/wiki/Thousand-yard_stare>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
 
 ## <https://en.wikipedia.org/wiki/Tithe>
 
@@ -5494,6 +5696,10 @@
 
 - `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
+## <https://en.wikipedia.org/wiki/Volunteer_military>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
 ## <https://en.wikipedia.org/wiki/Walls_of_Constantinople>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
@@ -5518,6 +5724,10 @@
 ## <https://en.wikipedia.org/wiki/Wheat>
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
+
+## <https://en.wikipedia.org/wiki/William_Sadler_(painter)>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
 
 ## <https://en.wikipedia.org/wiki/Window_tax>
 
@@ -5964,6 +6174,11 @@
 
 - `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
 
+## <https://old.reddit.com/r/AskHistorians/comments/lg0alg/why_is_sparta_glorified_in_western_art_and_culture/gmq28dx>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
+
 ## <https://olddungeonmaster.com>
 
 - `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
@@ -6269,6 +6484,28 @@
 ## <https://starwars.fandom.com/wiki/Raddus_(MC85_Star_Cruiser)>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
+
+## <https://stevenpressfield.com/2020/09/warrior-episode-eight>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
+
+## <https://stevenpressfield.com/2020/09/warrior-episode-seven>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://stevenpressfield.com/2021/01/warrior-episode-forty-one>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://stevenpressfield.com/category/the-warrior-archetype>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
+
+## <https://stevenpressfield.com/home>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
 ## <https://stock.adobe.com/images/abstract-photo-of-connectivity-concept-linking-entities-hierarchy-and-hr/240226298>
 
@@ -7198,6 +7435,10 @@
 
 - `src/content/posts/translations/dmdavid-role-of-die-roll-love-letter.mdx`
 
+## <https://theimaginativeconservative.org/2016/05/through-a-glass-darkly-george-s-patton.html>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
 ## <https://thriftomancer.itch.io/null>
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
@@ -7290,6 +7531,19 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 
+## <https://twitter.com/BretDevereaux/status/1346672688429989891>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://twitter.com/BretDevereaux/status/1349218613983637504>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://twitter.com/BretDevereaux/status/1350655580562731011>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
+
 ## <https://twitter.com/BretDevereaux/status/1539645516098707458>
 
 - `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
@@ -7306,6 +7560,7 @@
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 
 ## <https://twitter.com/Roelkonijn/status/1453049486964572162>
 
@@ -7671,9 +7926,21 @@
 - `src/content/posts/translations/tribality-fighter-class-part-eight.mdx`
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <https://www.amazon.com/Other-Face-Battle-Forgotten-Experience/dp/0190920645>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
+
 ## <https://www.amazon.com/Players-Option-Elemental-Dungeons-Rulebook/dp/0786959819>
 
 - `src/content/posts/translations/tribality-shair-class-part-two.mdx`
+
+## <https://www.amazon.com/Rise-Warrior-Cop-Militarization-Americas/dp/1610394577>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
+
+## <https://www.amazon.com/Rome-War-Families-Republic-Studies-ebook/dp/B00XNUOK0A>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 
 ## <https://www.amazon.com/Shattered-Sword-Untold-Battle-Midway/dp/1574889249>
 
@@ -7699,6 +7966,10 @@
 ## <https://www.amazon.com/Vault-Advanced-Dungeons-Dragons-Module/dp/0394511824>
 
 - `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
+
+## <https://www.amazon.com/Violence-Hannah-Arendt/dp/8087888952>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
 ## <https://www.amazon.com/Volos-Waterdeep-Accessory-Forgotten-Realms/dp/1560763353>
 
@@ -7816,6 +8087,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://www.armytimes.com/news/your-army/2019/08/27/army-raises-max-re-up-bonuses-to-80k-for-certain-jobs>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
 ## <https://www.artstation.com/artwork/wDWyg>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
@@ -7869,13 +8144,14 @@
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
 
-## <https://www.bookandsword.com/2022/07/02/how-heavy-were-iron-age-bows-part-1>
+## <https://www.bookandsword.com/2015/05/23/a-deed-never-yet-done>
 
-- `src/content/posts/translations/acoup-on-lighter-bows.mdx`
+- `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
 
 ## <https://www.bookandsword.com/2022/09/17/how-heavy-were-iron-age-bows-part-2>
 
 - `src/content/posts/translations/acoup-on-lighter-bows.mdx`
+- `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
 
 ## <https://www.brandesstoddard.com/2011/06/achievement-based-advancement>
 
@@ -8067,9 +8343,17 @@
 
 - `src/content/posts/translations/dmdavid-multi-level-battles-extraordinary.mdx`
 
+## <https://www.cambridge.org/core/journals/antiquity/article/architecture-of-access-ramps-at-ancient-greek-healing-sanctuaries/3C28B200442E222601E3034170F275A6>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
+
 ## <https://www.cambridge.org/core/journals/journal-of-economic-history/article/we-do-not-know-the-population-of-every-country-in-the-world-for-the-past-two-thousand-years/D747DDC6E499C799B0471DBE33FEB0BB>
 
 - `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
+
+## <https://www.cambridge.org/us/academic/subjects/classical-studies/ancient-history/conquerors-and-slaves?format=PB&isbn=9780521281812>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 
 ## <https://www.catholic.com/tract/myths-about-indulgences>
 
@@ -8086,6 +8370,10 @@
 ## <https://www.chaosium.com/call-of-cthulhu-rpg>
 
 - `src/content/posts/translations/dmdavid-brilliance-of-unrealistic-hit-points.mdx`
+
+## <https://www.cnbc.com/2019/12/27/the-10-most-dangerous-jobs-in-america-according-to-bls-data.html>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
 
 ## <https://www.colonialwilliamsburg.org/locations/anderson-blacksmith-shop-and-public-armoury>
 
@@ -8134,6 +8422,10 @@
 ## <https://www.daggerheart.com>
 
 - `src/content/posts/translations/dmdavid-checks-versus-attack-rolls.mdx`
+
+## <https://www.defense.gov/Explore/News/Article/Article/1850344/dod-official-cites-widening-military-civilian-gap>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 
 ## <https://www.degruyterbrill.com/document/doi/10.1515/9783110796841-005/html?lang=en>
 
@@ -8585,6 +8877,10 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
 
+## <https://www.metmuseum.org/art/collection/search/254897?searchField=All&sortBy=Relevance&who=Matsch+Painter%24Matsch+Painter&ft=*&offset=0&rpp=20&pos=1>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
+
 ## <https://www.metmuseum.org/art/collection/search/33866>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
@@ -8624,6 +8920,7 @@
 ## <https://www.nybooks.com/articles/1995/06/22/ur-fascism>
 
 - `src/content/posts/translations/acoup-fremen-mirage-interlude.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
 ## <https://www.nytimes.com/2025/04/03/arts/humanities-grants-canceled-doge.html>
 
@@ -8688,6 +8985,14 @@
 
 - `src/content/posts/translations/creighton-gygax-on-treasure.mdx`
 
+## <https://www.rand.org/content/dam/rand/pubs/monographs/MG265/images/webS0243.pdf>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://www.reddit.com/r/AskHistorians/comments/1j6ssm/are_there_any_indications_of_combat_ptsd_in/cbbvfib>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
+
 ## <https://www.reddit.com/r/AskHistorians/comments/3ckwpr/what_was_the_role_of_decadence_in_the_fall_of_the>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
@@ -8699,6 +9004,10 @@
 ## <https://www.reddit.com/r/AskHistorians/comments/7dqkbm/comment/dpzyolt>
 
 - `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
+
+## <https://www.reddit.com/r/AskHistorians/comments/7rdgm4/how_accurate_is_the_depiction_of_spartan_hoplite>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 
 ## <https://www.reddit.com/r/AskHistorians/comments/rqxa0t/did_medieval_archers_fire_in_volleys>
 
@@ -8759,6 +9068,14 @@
 ## <https://www.smith.edu/about-smith/news/art-small-talk-and-networking>
 
 - `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
+
+## <https://www.smithsonianmag.com/arts-culture/faces-of-war-145799854>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
+
+## <https://www.spartan.com/pages/training-center>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
 ## <https://www.surveymonkey.com/blog/en/blog/2012/04/13/10-online-survey-tips>
 
@@ -9137,6 +9454,10 @@
 
 - `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
 
+## <https://youtu.be/1UTE0_QIInM?t=205>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
+
 ## <https://youtu.be/3w5c-U_gUJw>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
@@ -9148,14 +9469,35 @@
 ## <https://youtu.be/4I8kic8xZh8>
 
 - `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
 
 ## <https://youtu.be/5_16tXT-Knc>
 
 - `src/content/posts/translations/acoup-clothing-4b-cloth-money.mdx`
 
+## <https://youtu.be/62tnJtLBQzQ>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://youtu.be/76_Q9ruJfrE>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
+
+## <https://youtu.be/7TprgnuYfyQ>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://youtu.be/7_e0CA_nhaE>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
+
 ## <https://youtu.be/8E6TzT0eCYs>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
+
+## <https://youtu.be/A50lVLtSQik>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 
 ## <https://youtu.be/AchISJUKfH4>
 
@@ -9177,9 +9519,17 @@
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
 
+## <https://youtu.be/DgbnPxJ1Hxk?t=28>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
+
 ## <https://youtu.be/Ej3qjUzUzQg?t=48>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
+
+## <https://youtu.be/GrauBQf7FpI>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
 
 ## <https://youtu.be/H0Of8a26J-4>
 
@@ -9225,6 +9575,10 @@
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
 
+## <https://youtu.be/Td88z08a_4c>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
+
 ## <https://youtu.be/UUsDVFPYtGQ>
 
 - `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
@@ -9248,6 +9602,10 @@
 ## <https://youtu.be/_qhUTF4hOp8?t=39>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
+## <https://youtu.be/a15gihWu1SM>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 
 ## <https://youtu.be/bGbhEuqyTGo>
 
@@ -9273,6 +9631,7 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
 ## <https://youtu.be/ex1Atx1tQPk>
 
@@ -9300,6 +9659,10 @@
 
 - `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
 
+## <https://youtu.be/mU6oW_P4Gzo>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
+
 ## <https://youtu.be/mzDf52M21J0?t=168>
 
 - `src/content/posts/translations/oaths-how-do-they-work.mdx`
@@ -9308,9 +9671,17 @@
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
 
+## <https://youtu.be/pfRdur8GLBM>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
+
 ## <https://youtu.be/qkYHIergMJI>
 
 - `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
+
+## <https://youtu.be/spMzDdFjNJ8?t=267>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
 ## <https://youtu.be/t4D-HUUTXvQ>
 
@@ -9335,6 +9706,10 @@
 ## <https://youtu.be/u73M1iBwW8o?t=95>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
+
+## <https://youtu.be/xPGdOXstSyk>
+
+- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 
 ## <https://youtu.be/zsywnQJMJEk>
 
