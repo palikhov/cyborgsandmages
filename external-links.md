@@ -142,6 +142,7 @@
 ## <http://deltasdnd.blogspot.com/2008/03/1-2-3-infinity.html>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-3-filling-the-frame.mdx`
+- `src/content/posts/translations/alexandrian-evocative-descriptions.mdx`
 
 ## <http://der-eisenhofer.de/2011/hex-basierte-kampagnen-teil-1>
 
@@ -1218,6 +1219,10 @@
 ## <http://www.amazon.com/World-Without-End-Ken-Follett/dp/0525950079>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/006097625X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-evocative-descriptions.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0316030570/digitalcomi0a-20>
 
@@ -3249,6 +3254,10 @@
 ## <https://commons.wikimedia.org/w/index.php?title=File:Centres_of_origin_and_spread_of_agriculture.svg>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
+
+## <https://commons.wikimedia.org/w/index.php?title=File:Mist_shrouded_private_road_leading_to_Bodowen_-_geograph.org.uk_-_782750.jpg>
+
+- `src/content/posts/translations/alexandrian-evocative-descriptions.mdx`
 
 ## <https://commons.wikimedia.org/w/index.php?title=File:The_badly_shelled_main_road_to_Bapaume.jpg>
 
@@ -7117,6 +7126,10 @@
 
 - `src/content/posts/translations/alexandrian-disarming-magical-traps.mdx`
 
+## <https://thealexandrian.net/wordpress/4263/roleplaying-games/random-gm-tips-the-art-of-description>
+
+- `src/content/posts/translations/alexandrian-evocative-descriptions.mdx`
+
 ## <https://thealexandrian.net/wordpress/42867/roleplaying-games/scenario-structure-challenge-4-heists>
 
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
@@ -7255,6 +7268,10 @@
 ## <https://thealexandrian.net/wordpress/50260/roleplaying-games/random-gm-tip-collecting-initiative>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
+
+## <https://thealexandrian.net/wordpress/50575/roleplaying-games/random-gm-tip-zone-of-truth-mysteries>
+
+- `src/content/posts/translations/alexandrian-speak-with-dead-mysteries.mdx`
 
 ## <https://thealexandrian.net/wordpress/50940/roleplaying-games/random-gm-tip-rolling-behind-the-screen>
 
