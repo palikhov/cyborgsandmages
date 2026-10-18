@@ -1244,6 +1244,10 @@
 
 - `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0786918365/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-grok-threshold.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/078692893X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-4-combat.mdx`
@@ -1372,6 +1376,7 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1556344546/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-3-dungeoncrawl.mdx`
+- `src/content/posts/translations/alexandrian-grok-threshold.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1560760850/digitalcomi0a-20>
 
@@ -1423,8 +1428,13 @@
 
 - `src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1588461505/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1588467953/digitalcomi0a-20>
 
+- `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
 - `src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1588469395/digitalcomi0a-20>
@@ -1604,6 +1614,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B000KI8O64/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-metagame-special-effects.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000M0LGI8/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B000M5Y63U/digitalcomi0a-20>
 
@@ -6787,6 +6801,7 @@
 
 ## <https://thealexandrian.net/in-the-shadow-of-the-spire>
 
+- `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
 - `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 - `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
@@ -6904,6 +6919,7 @@
 
 ## <https://thealexandrian.net/wordpress/237/roleplaying-games/the-tomb-of-horrors>
 
+- `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
 - `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-2-rolling-to-failure.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
@@ -6911,6 +6927,10 @@
 ## <https://thealexandrian.net/wordpress/2537/roleplaying-games/ptolus-running-the-campaign-graphical-resources>
 
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
+
+## <https://thealexandrian.net/wordpress/25822/roleplaying-games/rpgnet-review-tekumel>
+
+- `src/content/posts/translations/alexandrian-grok-threshold.mdx`
 
 ## <https://thealexandrian.net/wordpress/2603/roleplaying-games/reactions-to-odd>
 
@@ -7064,6 +7084,10 @@
 ## <https://thealexandrian.net/wordpress/39736/roleplaying-games/eternal-lies-addendum-hotels>
 
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
+
+## <https://thealexandrian.net/wordpress/39768/roleplaying-games/infinity-rpg-system-cheat-sheet>
+
+- `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
 
 ## <https://thealexandrian.net/wordpress/39941/roleplaying-games/scenario-structure-challenge>
 
@@ -7304,6 +7328,7 @@
 
 ## <https://thealexandrian.net/wordpress/599/roleplaying-games/tales-from-the-table-bumbling-in-freeport>
 
+- `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 
 ## <https://thealexandrian.net/wordpress/700/roleplaying-games/advanced-rules-diplomacy>
@@ -9632,6 +9657,10 @@
 
 - `src/content/posts/translations/deep-dive-the-named-spells.mdx`
 - `src/content/posts/translations/dump-stat-fun-facts-spells-edition.mdx`
+
+## <https://www.youtube.com/watch?v=T2PdyxMtiYM>
+
+- `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
 
 ## <https://www.youtube.com/watch?v=T3kX3mzCSQ4>
 
