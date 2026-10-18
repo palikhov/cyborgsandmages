@@ -7674,6 +7674,10 @@
 
 - `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
+## <https://web.archive.org/web/20080221174425/http://www.montecook.com/cgi-bin/page.cgi?mc_los_142>
+
+- `src/content/posts/translations/alexandrian-ivory-tower-design.mdx`
+
 ## <https://web.archive.org/web/20110419191117/http://www.maisonstclaire.org/resources/pricelist/pricelist.html>
 
 - `src/content/posts/translations/coinsandscrolls-medieval-price-list.mdx`
