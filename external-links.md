@@ -2404,6 +2404,10 @@
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 
+## <https://acoup.blog/2019/10/11/collections-the-preposterous-tactics-of-the-loot-train-battle-game-of-thrones-s7e4>
+
+- `src/content/posts/translations/acoup-shield-walls-and-spacing.mdx`
+
 ## <https://acoup.blog/2019/10/18/collections-the-battlefield-after-the-battle>
 
 - `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
@@ -2538,6 +2542,10 @@
 
 - `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
 
+## <https://acoup.blog/2023/02/03/collections-the-nitpicks-of-power-part-iii-that-numenorean-charge>
+
+- `src/content/posts/translations/acoup-shield-walls-and-spacing.mdx`
+
 ## <https://acoup.blog/2023/03/10/collections-how-to-polis-101-part-i-component-parts>
 
 - `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
@@ -2553,6 +2561,7 @@
 ## <https://acoup.blog/2023/06/30/collections-the-marian-reforms-werent-a-thing>
 
 - `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
+- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
 
 ## <https://acoup.blog/2023/08/25/collections-how-to-roman-republic-part-iiic-ten-tribunes-two-censors-and-twenty-six-guys>
 
@@ -2561,12 +2570,7 @@
 ## <https://acoup.blog/2023/10/20/collections-how-to-roman-republic-101-addenda-the-socii>
 
 - `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
-
-## <https://acoup.blog/2023/12/15/collections-shield-walls-and-spacing-hollywood-mobs-and-ancient-tactics>
-
-- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
-- `src/content/posts/translations/acoup-warfare-in-dune-part-i.mdx`
-- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
+- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
 
 ## <https://acoup.blog/2024/01/19/collections-phalanxs-twilight-legions-triumph-part-ia-heirs-of-alexander>
 
@@ -2729,6 +2733,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://amzn.to/3QyHuhG>
+
+- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
+
 ## <https://amzn.to/3RLCHdK>
 
 - `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
@@ -2828,6 +2836,10 @@
 ## <https://amzn.to/439mhCh>
 
 - `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
+
+## <https://amzn.to/47tUJaD>
+
+- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
 
 ## <https://amzn.to/4iLsbhr>
 
@@ -3188,6 +3200,7 @@
 
 - `src/content/posts/translations/dmdavid-11-dm-tips-winter-fantasy-2020.mdx`
 - `src/content/posts/translations/dmdavid-first-level-adventure-six-things.mdx`
+- `src/content/posts/translations/dmdavid-npc-wont-cooperate.mdx`
 
 ## <https://dmdavid.com/tag/basic-and-advanced-dave-arneson-takes-a-job-at-tsr-part-4>
 
@@ -3259,6 +3272,7 @@
 ## <https://dmdavid.com/tag/how-to-use-scenes-and-summaries-to-focus-on-the-best-parts-of-a-role-playing-adventure>
 
 - `src/content/posts/translations/dmdavid-choose-your-adventure-pacing-decisions.mdx`
+- `src/content/posts/translations/dmdavid-npc-wont-cooperate.mdx`
 
 ## <https://dmdavid.com/tag/if-a-mind-flayer-fed-on-dd-pcs-brains-it-would-go-hungry-should-pc-intelligence-matter>
 
@@ -3267,11 +3281,6 @@
 ## <https://dmdavid.com/tag/if-you-want-to-write-games-for-everyone-play-with-everyone>
 
 - `src/content/posts/translations/dmdavid-11-dm-tips-winter-fantasy-2020.mdx`
-
-## <https://dmdavid.com/tag/improve-roleplaying-investigation-scenes-with-these-22-reasons-an-npc-wont-cooperate>
-
-- `src/content/posts/translations/dmdavid-first-level-adventure-six-things.mdx`
-- `src/content/posts/translations/dmdavid-fourth-edition-skill-challenges-bad-adventures.mdx`
 
 ## <https://dmdavid.com/tag/little-known-dd-classics-fez>
 
@@ -3961,6 +3970,7 @@
 ## <https://en.wikipedia.org/wiki/Bayeux_Tapestry>
 
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
+- `src/content/posts/translations/acoup-shield-walls-and-spacing.mdx`
 - `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
 - `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
 
@@ -4131,6 +4141,7 @@
 
 ## <https://en.wikipedia.org/wiki/Chigi_vase>
 
+- `src/content/posts/translations/acoup-shield-walls-and-spacing.mdx`
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
 ## <https://en.wikipedia.org/wiki/Cinnabar>
@@ -4633,6 +4644,10 @@
 ## <https://en.wikipedia.org/wiki/Hesco_bastion>
 
 - `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
+
+## <https://en.wikipedia.org/wiki/Highland_charge>
+
+- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
 
 ## <https://en.wikipedia.org/wiki/History_of_coins_in_Italy>
 
@@ -5147,6 +5162,11 @@
 ## <https://en.wikipedia.org/wiki/Pike_and_shot>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+- `src/content/posts/translations/acoup-shield-walls-and-spacing.mdx`
+
+## <https://en.wikipedia.org/wiki/Pilum>
+
+- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
 
 ## <https://en.wikipedia.org/wiki/Pith>
 
@@ -5303,6 +5323,7 @@
 ## <https://en.wikipedia.org/wiki/Roman_legion>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
+- `src/content/posts/translations/acoup-shield-walls-and-spacing.mdx`
 
 ## <https://en.wikipedia.org/wiki/Rotary_International>
 
@@ -5543,6 +5564,10 @@
 
 - `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
 
+## <https://en.wikipedia.org/wiki/Testudo_formation>
+
+- `src/content/posts/translations/acoup-shield-walls-and-spacing.mdx`
+
 ## <https://en.wikipedia.org/wiki/Tetragonal_crystal_system>
 
 - `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
@@ -5694,6 +5719,7 @@
 
 ## <https://en.wikipedia.org/wiki/Volley_fire>
 
+- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
 - `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
 
 ## <https://en.wikipedia.org/wiki/Volunteer_military>
@@ -7552,6 +7578,10 @@
 
 - `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
 
+## <https://twitter.com/DrMichaelJTayl1/status/1732771854585098298>
+
+- `src/content/posts/translations/acoup-shield-walls-and-spacing.mdx`
+
 ## <https://twitter.com/MilHist_Lee>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
@@ -8152,6 +8182,10 @@
 
 - `src/content/posts/translations/acoup-on-lighter-bows.mdx`
 - `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
+
+## <https://www.bookandsword.com/2023/08/12/how-heavy-was-the-shield-from-the-fayum>
+
+- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
 
 ## <https://www.brandesstoddard.com/2011/06/achievement-based-advancement>
 
@@ -9458,6 +9492,10 @@
 
 - `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
+## <https://youtu.be/33AL7xs91pU?si=5BuErvl2yXe7fyw->
+
+- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
+
 ## <https://youtu.be/3w5c-U_gUJw>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
@@ -9571,6 +9609,10 @@
 
 - `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
 
+## <https://youtu.be/SLd2JPL7UAg?si=mA57ynKNBeUkJz5I>
+
+- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
+
 ## <https://youtu.be/TM1OpCG8_1I>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
@@ -9650,6 +9692,10 @@
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
+
+## <https://youtu.be/lAe1krJFl78?si=OrgH0ex8T3cvwEYk>
+
+- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
 
 ## <https://youtu.be/m0zYZhJXELQ>
 
