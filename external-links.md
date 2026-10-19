@@ -1231,6 +1231,7 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/006097625X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-evocative-descriptions.mdx`
+- `src/content/posts/translations/alexandrian-running-horror.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0316030570/digitalcomi0a-20>
 
@@ -1243,6 +1244,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/0441569595/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0618640150/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0786916141/digitalcomi0a-20>
 
@@ -1674,6 +1679,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B000OPPBEQ/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B000P0J0AQ/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-3-filling-the-frame.mdx`
@@ -1796,6 +1805,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B00ANGID14/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-calling-in-the-little-guys.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B00EAUM1GW/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
@@ -1807,6 +1820,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B00JLY9OFI/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B00KUS5YGC/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-calling-in-the-little-guys.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B00NP06DJE/digitalcomi0a-20>
 
@@ -1827,6 +1844,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B071HWXHXH/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-bringing-the-pcs-together.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B073FT8X16/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-running-horror.mdx`
 
 ## <http://www.amazon.com/gp/product/0935696199/ref=as_li_qf_sp_asin_il_tl>
 
@@ -6522,6 +6543,14 @@
 
 - `src/content/posts/translations/alexandrian-disarming-magical-traps.mdx`
 
+## <https://pixabay.com/photos/dice-role-game-playing-colorful-4804498>
+
+- `src/content/posts/translations/alexandrian-random-numbers-with-the-usual-dice.mdx`
+
+## <https://pixabay.com/photos/woman-prayer-believe-hope-religion-4629323>
+
+- `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
+
 ## <https://pixabay.com/users/kellepics-4893063>
 
 - `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
@@ -6574,6 +6603,10 @@
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
+## <https://psycnet.apa.org/record/1960-03964-001>
+
+- `src/content/posts/translations/alexandrian-the-reaction-point.mdx`
+
 ## <https://pubmed.ncbi.nlm.nih.gov/19093521>
 
 - `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
@@ -6581,6 +6614,10 @@
 ## <https://pxhere.com/en/photo/1168447>
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+
+## <https://pxhere.com/en/photo/1349503>
+
+- `src/content/posts/translations/alexandrian-running-horror.mdx`
 
 ## <https://pxhere.com/en/photo/2164>
 
@@ -6601,6 +6638,10 @@
 ## <https://pxhere.com/en/photo/741898>
 
 - `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
+
+## <https://pxhere.com/en/photo/883637>
+
+- `src/content/posts/translations/alexandrian-calling-in-the-little-guys.mdx`
 
 ## <https://pxhere.com/en/photo/968633>
 
@@ -6878,6 +6919,7 @@
 - `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
 - `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 - `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
+- `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 - `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
@@ -7114,6 +7156,10 @@
 
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
 
+## <https://thealexandrian.net/wordpress/36745/roleplaying-games/the-principle-of-using-linear-mediums-as-rpg-examples>
+
+- `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
+
 ## <https://thealexandrian.net/wordpress/36748/roleplaying-games/film-banging-the-matrix>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
@@ -7187,6 +7233,10 @@
 
 - `src/content/posts/translations/alexandrian-disarming-magical-traps.mdx`
 
+## <https://thealexandrian.net/wordpress/39332/roleplaying-games/ptolus-running-the-campaign-reinventing-zombies>
+
+- `src/content/posts/translations/alexandrian-running-horror.mdx`
+
 ## <https://thealexandrian.net/wordpress/39651/roleplaying-games/rulings-in-practice-gathering-information>
 
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
@@ -7239,6 +7289,7 @@
 
 ## <https://thealexandrian.net/wordpress/41217/roleplaying-games/dragon-heist-remix-part-1-the-villains>
 
+- `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
@@ -7300,6 +7351,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
 
+## <https://thealexandrian.net/wordpress/44160/roleplaying-games/dragon-heist-the-final-session>
+
+- `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
+
 ## <https://thealexandrian.net/wordpress/44214/roleplaying-games/remixing-avernus>
 
 - `src/content/posts/translations/alexandrian-breathing-life-into-wandering-monster.mdx`
@@ -7331,6 +7386,10 @@
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
 
+## <https://thealexandrian.net/wordpress/44917/roleplaying-games/rulings-in-practice-sanity-checks>
+
+- `src/content/posts/translations/alexandrian-running-horror.mdx`
+
 ## <https://thealexandrian.net/wordpress/45125/roleplaying-games/icewind-dale-running-the-sandbox>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
@@ -7342,11 +7401,6 @@
 ## <https://thealexandrian.net/wordpress/45283/roleplaying-games/the-secret-life-of-nodes-part-5-naturalistic-node-design>
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
-
-## <https://thealexandrian.net/wordpress/45297/roleplaying-games/random-gm-tip-the-reaction-point>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-14-fearing-the-silence.mdx`
 
 ## <https://thealexandrian.net/wordpress/45711/roleplaying-games/xandering-the-dungeon-addendum-how-to-use-a-melan-diagram>
 
@@ -8417,6 +8471,10 @@
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/1588461033/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/158978152X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-14-fearing-the-silence.mdx`
@@ -9087,6 +9145,10 @@
 ## <https://www.drivethrurpg.com/product/28409/MiniAdventure-1-The-Complex-of-Zombies?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
+
+## <https://www.drivethrurpg.com/product/28409/MiniAdventure-1-The-Complex-of-Zombies?affiliate_id=81207&>
+
+- `src/content/posts/translations/alexandrian-running-horror.mdx`
 
 ## <https://www.drivethrurpg.com/product/2956/Race-Creation-Cookbook>
 
@@ -9828,6 +9890,10 @@
 ## <https://www.youtube.com/watch?v=aewtOGH9ab4>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
+
+## <https://www.youtube.com/watch?v=bEqyBwDn-kA>
+
+- `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
 
 ## <https://www.youtube.com/watch?v=bKK-KLDlm20>
 
