@@ -1307,6 +1307,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-12-mail-carrier-scenario-hooks.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0786967226/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-running-portals.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0857441035/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-2-scene-framing.mdx`
@@ -2118,6 +2122,10 @@
 ## <http://www.drivethrurpg.com/product/109474/Dragon-and-the-Thief>
 
 - `src/content/posts/translations/creighton-dragon-and-the-thief.mdx`
+
+## <http://www.drivethrurpg.com/product/240654/Numenera-Discovery?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-cypher-bad-guys.mdx`
 
 ## <http://www.drivethrurpg.com/product/89888/Red-Tide-Campaign-Sourcebook-and-Sandbox-Toolkit>
 
@@ -6619,6 +6627,10 @@
 
 - `src/content/posts/translations/alexandrian-running-horror.mdx`
 
+## <https://pxhere.com/en/photo/1631299>
+
+- `src/content/posts/translations/alexandrian-the-mop-up.mdx`
+
 ## <https://pxhere.com/en/photo/2164>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
@@ -6634,6 +6646,10 @@
 ## <https://pxhere.com/en/photo/624889>
 
 - `src/content/posts/translations/alexandrian-bringing-the-pcs-together.mdx`
+
+## <https://pxhere.com/en/photo/638528>
+
+- `src/content/posts/translations/alexandrian-driving-past-the-dead-end.mdx`
 
 ## <https://pxhere.com/en/photo/741898>
 
@@ -6933,6 +6949,7 @@
 ## <https://thealexandrian.net/rpg-cheat-sheets>
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-3-hierarchy-of-reference.mdx`
+- `src/content/posts/translations/alexandrian-fistfuls-of-dice.mdx`
 - `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
 - `src/content/posts/translations/alexandrian-use-of-gm-screens.mdx`
 
@@ -7055,6 +7072,7 @@
 - `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-2-rolling-to-failure.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+- `src/content/posts/translations/alexandrian-running-portals.mdx`
 
 ## <https://thealexandrian.net/wordpress/24620/roleplaying-games/fantasy-names>
 
@@ -7094,6 +7112,10 @@
 
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
+## <https://thealexandrian.net/wordpress/34985/roleplaying-games/thought-of-the-day-numenera-identifying-items>
+
+- `src/content/posts/translations/alexandrian-cypher-bad-guys.mdx`
+
 ## <https://thealexandrian.net/wordpress/35063/board-games/thought-of-the-day-quarterbacking-in-co-op-games>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
@@ -7110,6 +7132,7 @@
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
+- `src/content/posts/translations/alexandrian-the-mop-up.mdx`
 
 ## <https://thealexandrian.net/wordpress/36490/roleplaying-games/thinking-about-urbancrawls-part-2-applying-the-crawl>
 
@@ -7219,6 +7242,10 @@
 ## <https://thealexandrian.net/wordpress/3883/roleplaying-games/reactions-to-odd-prime-requisites>
 
 - `src/content/posts/translations/alexandrian-the-many-types-of-balance.mdx`
+
+## <https://thealexandrian.net/wordpress/39142/roleplaying-games/art-of-rulings-12-hidden-vs-open-difficulty-numbers>
+
+- `src/content/posts/translations/alexandrian-fistfuls-of-dice.mdx`
 
 ## <https://thealexandrian.net/wordpress/39183/roleplaying-games/review-strange-revelations-the-strange>
 
@@ -7406,23 +7433,19 @@
 
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
-## <https://thealexandrian.net/wordpress/45834/roleplaying-games/random-gm-tip-fistfuls-of-dice>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
-
 ## <https://thealexandrian.net/wordpress/46020/roleplaying-games/5e-hexcrawl>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
+## <https://thealexandrian.net/wordpress/46079/roleplaying-games/the-death-wish-of-the-common-npc>
+
+- `src/content/posts/translations/alexandrian-the-mop-up.mdx`
+
 ## <https://thealexandrian.net/wordpress/46186/roleplaying-games/failure-for-the-beginning-gm>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-20-always-say-yes.mdx`
-
-## <https://thealexandrian.net/wordpress/46304/roleplaying-games/random-gm-tip-the-mop-up>
-
-- `src/content/posts/translations/dmdavid-end-combat-before-grind.mdx`
 
 ## <https://thealexandrian.net/wordpress/46338/roleplaying-games/random-gm-tips-making-clues>
 
@@ -7525,6 +7548,7 @@
 ## <https://thealexandrian.net/wordpress/7949/roleplaying-games/node-based-scenario-design-part-1-the-plotted-approach>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-2-scene-framing.mdx`
+- `src/content/posts/translations/alexandrian-driving-past-the-dead-end.mdx`
 - `src/content/posts/translations/alexandrian-five-node-mystery.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
@@ -9154,6 +9178,10 @@
 
 - `src/content/posts/translations/tribality-fighter-class-part-four.mdx`
 
+## <https://www.drivethrurpg.com/product/308497/Arcana-of-the-Ancients?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-cypher-bad-guys.mdx`
+
 ## <https://www.drivethrurpg.com/product/310285/Welcome-to-the-Island-Over-the-Edge-3E-digital>
 
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
@@ -9780,6 +9808,10 @@
 ## <https://www.youtube.com/watch?v=9Kgx2b1sIRs>
 
 - `src/content/posts/translations/angrygm-between-jobs.mdx`
+
+## <https://www.youtube.com/watch?v=9jK-NcRmVcw>
+
+- `src/content/posts/translations/alexandrian-the-mop-up.mdx`
 
 ## <https://www.youtube.com/watch?v=AyPHGQcE8dI>
 
