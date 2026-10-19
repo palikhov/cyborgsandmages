@@ -6655,6 +6655,10 @@
 
 - `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
 
+## <https://pxhere.com/en/photo/863174>
+
+- `src/content/posts/translations/alexandrian-encounter-distance.mdx`
+
 ## <https://pxhere.com/en/photo/883637>
 
 - `src/content/posts/translations/alexandrian-calling-in-the-little-guys.mdx`
@@ -7088,6 +7092,7 @@
 
 ## <https://thealexandrian.net/wordpress/2603/roleplaying-games/reactions-to-odd>
 
+- `src/content/posts/translations/alexandrian-encounter-distance.mdx`
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <https://thealexandrian.net/wordpress/2619/roleplaying-games/odd-in-the-caverns-of-thracia-part-1-character-creation>
@@ -7455,10 +7460,6 @@
 
 - `src/content/posts/translations/alexandrian-types-of-dungeons.mdx`
 
-## <https://thealexandrian.net/wordpress/46507/roleplaying-games/random-gm-tip-matryoshka-hexes>
-
-- `src/content/posts/translations/alexandrian-matryoshka-search-technique.mdx`
-
 ## <https://thealexandrian.net/wordpress/46523/roleplaying-games/how-to-prep-a-module>
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
@@ -7620,6 +7621,10 @@
 ## <https://thealexandrian.net?p=44705>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
+## <https://thealexandrian.net?p=46504>
+
+- `src/content/posts/translations/alexandrian-matryoshka-hexes.mdx`
 
 ## <https://thealexandrian.net?p=50123>
 
@@ -8527,6 +8532,10 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/B008CP1C5M/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B014PC399W/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-matryoshka-hexes.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/B01CMLN9NY/digitalcomi0a-20>
 
