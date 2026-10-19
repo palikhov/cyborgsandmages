@@ -373,6 +373,10 @@
 
 - `src/content/posts/translations/hackslashmaster-inadequacy-of-boxed-text.mdx`
 
+## <http://en.wikipedia.org/wiki/Augmented_reality>
+
+- `src/content/posts/translations/alexandrian-the-many-types-of-balance.mdx`
+
 ## <http://en.wikipedia.org/wiki/Baldr>
 
 - `src/content/posts/translations/tribality-druid-class-part-three.mdx`
@@ -658,6 +662,10 @@
 ## <http://hackslashmaster.blogspot.com/2014/02/on-magical-1-swords.html>
 
 - `src/content/posts/translations/hackslashmaster-magical-plus-one-weapons.mdx`
+
+## <http://hammerdog.com/twgs>
+
+- `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
 
 ## <http://harbinger-of-doom.blogspot.com/2014/08/d-5th-edition-mastermind-roguish.html>
 
@@ -1248,6 +1256,10 @@
 
 - `src/content/posts/translations/alexandrian-grok-threshold.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0786928867/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/078692893X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-4-combat.mdx`
@@ -1336,6 +1348,10 @@
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0954752651/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0955162300/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
@@ -1352,6 +1368,10 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-5-advanced-techniques.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/097920478X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-the-many-types-of-balance.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0981666361/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
@@ -1360,6 +1380,7 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
 - `src/content/posts/translations/alexandrian-rewind-your-timeline.mdx`
+- `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/098458353X/digitalcomi0a-20>
 
@@ -1453,6 +1474,10 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/158978152X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/158994206X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures.mdx`
@@ -1511,6 +1536,10 @@
 
 - `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1908983493/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-bringing-the-pcs-together.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1910132217/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
@@ -1539,6 +1568,7 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1934859079/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
+- `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1934859397/digitalcomi0a-20>
 
@@ -1551,6 +1581,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1939979439/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1941582788/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-bringing-the-pcs-together.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B00000DMF5/digitalcomi0a-20>
 
@@ -1628,6 +1662,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B000NQRE9Q/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-bringing-the-pcs-together.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B000NTPDSW/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-5-advanced-techniques.mdx`
@@ -1676,6 +1714,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B001AOAB9A/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B001GXFB4K/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B001LXIDVI/digitalcomi0a-20>
 
@@ -1770,6 +1812,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B00TGNLUSI/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-bringing-the-pcs-together.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B011MHBDH8/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
@@ -1777,6 +1823,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B01GUVOXIW/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B071HWXHXH/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-bringing-the-pcs-together.mdx`
 
 ## <http://www.amazon.com/gp/product/0935696199/ref=as_li_qf_sp_asin_il_tl>
 
@@ -3095,6 +3145,10 @@
 
 - `src/content/posts/translations/welsh-piper-laws-of-worldbuilding.mdx`
 
+## <https://atlas-games.com/product_tables/AG2003>
+
+- `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
+
 ## <https://awkwardturtle.itch.io/waypoints>
 
 - `src/content/posts/translations/d66kobolds-faction-procedures-dolmenwood-example.mdx`
@@ -3260,6 +3314,10 @@
 ## <https://commons.wikimedia.org/w/index.php?title=File%3ATexas_State_Highway_222%2C_King_County%2C_Texas%2Ejpg&uselang=ru>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-2-scene-framing.mdx`
+
+## <https://commons.wikimedia.org/w/index.php?title=File%3AWeirdTalesv36n2pg038_The_Werewolf_Howls.png>
+
+- `src/content/posts/translations/alexandrian-surprising-scenario-hooks.mdx`
 
 ## <https://commons.wikimedia.org/w/index.php?title=File:Alter_Orient_0001AD.svg>
 
@@ -6528,9 +6586,21 @@
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
 
+## <https://pxhere.com/en/photo/418593>
+
+- `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
+
 ## <https://pxhere.com/en/photo/597481>
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
+
+## <https://pxhere.com/en/photo/624889>
+
+- `src/content/posts/translations/alexandrian-bringing-the-pcs-together.mdx`
+
+## <https://pxhere.com/en/photo/741898>
+
+- `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
 
 ## <https://pxhere.com/en/photo/968633>
 
@@ -6747,6 +6817,10 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
 
+## <https://stock.adobe.com/images/balancing-of-stones/75689566>
+
+- `src/content/posts/translations/alexandrian-the-many-types-of-balance.mdx`
+
 ## <https://stock.adobe.com/images/business-man-challenge-big-jump-to-reach-the-success/344123534>
 
 - `src/content/posts/translations/alexandrian-are-you-sure-you-want-to-do-that.mdx`
@@ -6812,10 +6886,12 @@
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
 - `src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx`
 - `src/content/posts/translations/alexandrian-three-point-plotting.mdx`
+- `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
 
 ## <https://thealexandrian.net/rpg-cheat-sheets>
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-3-hierarchy-of-reference.mdx`
+- `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
 - `src/content/posts/translations/alexandrian-use-of-gm-screens.mdx`
 
 ## <https://thealexandrian.net/so-you-want-to-be-a-game-master>
@@ -6831,6 +6907,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-5-mysteries.mdx`
+
+## <https://thealexandrian.net/wordpress/11940/roleplaying-games/technoir-and-pvp>
+
+- `src/content/posts/translations/alexandrian-bringing-the-pcs-together.mdx`
 
 ## <https://thealexandrian.net/wordpress/12031/roleplaying-games/review-carcosa>
 
@@ -6879,18 +6959,24 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-2-game-structure-basics.mdx`
 
+## <https://thealexandrian.net/wordpress/13185/roleplaying-games/untested-d20-piggybacking>
+
+- `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
+
 ## <https://thealexandrian.net/wordpress/15339/roleplaying-games/deus-ex-tactical-hacking-part-2-tools-for-tactical-hacking>
 
 - `src/content/posts/translations/alexandrian-deus-ex-tactical-hacking.mdx`
 
 ## <https://thealexandrian.net/wordpress/1668/roleplaying-games/the-death-of-the-wandering-monster>
 
+- `src/content/posts/translations/alexandrian-the-many-types-of-balance.mdx`
 - `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
 
 ## <https://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 - `src/content/posts/translations/alexandrian-juggling-scenario-hooks-sandbox.mdx`
+- `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
 - `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
 
 ## <https://thealexandrian.net/wordpress/1861/roleplaying-games/keep-on-the-shadowfell-the-complete-collection>
@@ -6913,6 +6999,10 @@
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
+## <https://thealexandrian.net/wordpress/2055/roleplaying-games/fetishizing-balance>
+
+- `src/content/posts/translations/alexandrian-the-many-types-of-balance.mdx`
+
 ## <https://thealexandrian.net/wordpress/2184/roleplaying-games/ptolus-running-the-campaign-non-standard-groups>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-17-too-many-players.mdx`
@@ -6923,6 +7013,10 @@
 - `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-2-rolling-to-failure.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+
+## <https://thealexandrian.net/wordpress/24620/roleplaying-games/fantasy-names>
+
+- `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
 
 ## <https://thealexandrian.net/wordpress/2537/roleplaying-games/ptolus-running-the-campaign-graphical-resources>
 
@@ -7031,10 +7125,20 @@
 
 ## <https://thealexandrian.net/wordpress/37078/roleplaying-games/eternal-lies-the-alexandrian-remix>
 
+- `src/content/posts/translations/alexandrian-bringing-the-pcs-together.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+- `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
 - `src/content/posts/translations/alexandrian-open-table-manifesto.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
+- `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
+- `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
+- `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
+
+## <https://thealexandrian.net/wordpress/37389/roleplaying-games/eternal-lies-severn-valley>
+
+- `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
+- `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
 
 ## <https://thealexandrian.net/wordpress/37422/roleplaying-games/dont-prep-plots-tools-not-contingencies>
 
@@ -7051,6 +7155,8 @@
 ## <https://thealexandrian.net/wordpress/37916/roleplaying-games/universal-npc-roleplaying-template>
 
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+- `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
+- `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
 
 ## <https://thealexandrian.net/wordpress/38047/roleplaying-games/lost-laboratories-of-arn>
 
@@ -7063,6 +7169,10 @@
 ## <https://thealexandrian.net/wordpress/38659/roleplaying-games/open-table-manifesto-part-2-what-an-open-table-needs>
 
 - `src/content/posts/translations/alexandrian-open-table-manifesto.mdx`
+
+## <https://thealexandrian.net/wordpress/3883/roleplaying-games/reactions-to-odd-prime-requisites>
+
+- `src/content/posts/translations/alexandrian-the-many-types-of-balance.mdx`
 
 ## <https://thealexandrian.net/wordpress/39183/roleplaying-games/review-strange-revelations-the-strange>
 
@@ -7081,6 +7191,10 @@
 
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
 
+## <https://thealexandrian.net/wordpress/39722/roleplaying-games/eternal-lies-addendum-local-newspapers>
+
+- `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
+
 ## <https://thealexandrian.net/wordpress/39736/roleplaying-games/eternal-lies-addendum-hotels>
 
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
@@ -7088,6 +7202,7 @@
 ## <https://thealexandrian.net/wordpress/39768/roleplaying-games/infinity-rpg-system-cheat-sheet>
 
 - `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
+- `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
 
 ## <https://thealexandrian.net/wordpress/39941/roleplaying-games/scenario-structure-challenge>
 
@@ -7110,15 +7225,13 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
 
+## <https://thealexandrian.net/wordpress/40712/roleplaying-games/infinity-a-list-of-names>
+
+- `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
+
 ## <https://thealexandrian.net/wordpress/40931/roleplaying-games/ptolus-running-the-campaign-the-tpk-gamble>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
-
-## <https://thealexandrian.net/wordpress/40978/roleplaying-games/random-gm-tip-using-revelation-lists>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
-- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
 ## <https://thealexandrian.net/wordpress/41025/roleplaying-games/blades-in-the-dark-system-cheat-sheet-v3>
 
@@ -7130,6 +7243,7 @@
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
+- `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
 
 ## <https://thealexandrian.net/wordpress/4131/roleplaying-games/reactions-to-odd-experience-points>
 
@@ -7161,11 +7275,14 @@
 ## <https://thealexandrian.net/wordpress/42944/roleplaying-games/running-the-campaign-dragon-heist-a-party-at-shipswrights-house>
 
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+- `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
 
 ## <https://thealexandrian.net/wordpress/42961/roleplaying-games/smart-prep-part-4-campaign-status-documents>
 
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-3-status-quo-design.mdx`
+- `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
+- `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
 
 ## <https://thealexandrian.net/wordpress/43049/roleplaying-games/feng-shui-2-system-cheat-sheet>
 
@@ -7175,11 +7292,11 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
 
+## <https://thealexandrian.net/wordpress/43368/roleplaying-games/design-notes-scenario-hooks-for-over-the-edge>
+
+- `src/content/posts/translations/alexandrian-bringing-the-pcs-together.mdx`
+
 ## <https://thealexandrian.net/wordpress/43593/roleplaying-games/feng-shui-using-the-shot-counter>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
-
-## <https://thealexandrian.net/wordpress/44011/roleplaying-games/random-gm-tip-swap-notes-for-your-gm-screen>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
 
@@ -7277,6 +7394,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-17-too-many-players.mdx`
 
+## <https://thealexandrian.net/wordpress/4891/roleplaying-games/the-law-of-the-conservation-of-npcs>
+
+- `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
+
 ## <https://thealexandrian.net/wordpress/49659/roleplaying-games/review-nights-black-agents>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
@@ -7358,6 +7479,7 @@
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
+- `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
 
 ## <https://thealexandrian.net/wordpress/7961/roleplaying-games/node-based-scenario-design-part-2-choose-your-own-adventure>
 
@@ -8298,10 +8420,15 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/158978152X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-14-fearing-the-silence.mdx`
+- `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/1908983396/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/1930855591/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/1932442510/digitalcomi0a-20>
 
@@ -8327,9 +8454,17 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/B06W5JWBWX/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/B0771RWCH3/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B079GYMXH3/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/B082PQKG2B/digitalcomi0a-20>
 
@@ -8382,6 +8517,10 @@
 ## <https://www.artstation.com/artwork/wDWyg>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.atlas-games.com/product_tables/AG4021>
+
+- `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
 
 ## <https://www.avclub.com/the-middle-ages-weren-t-as-sexist-as-game-of-thrones-wo-1834980838>
 
@@ -8920,6 +9059,10 @@
 
 - `src/content/posts/translations/garys-appendix-10-hells.mdx`
 
+## <https://www.drivethrurpg.com/product/197158/Maze-Rats?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
+
 ## <https://www.drivethrurpg.com/product/225959/SEVEN-VOYAGES-of-ZYLARTHEN-Volume-4-The-Campaign?src=hottest_filtered>
 
 - `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
@@ -8936,6 +9079,10 @@
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
 - `src/content/posts/translations/tribality-warlord-class-part-one.mdx`
+
+## <https://www.drivethrurpg.com/product/267012/Over-the-Edge-3rd-Edition?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
 
 ## <https://www.drivethrurpg.com/product/28409/MiniAdventure-1-The-Complex-of-Zombies?affiliate_id=81207>
 
