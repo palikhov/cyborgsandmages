@@ -7150,6 +7150,10 @@
 
 - `src/content/posts/translations/alexandrian-cypher-bad-guys.mdx`
 
+## <https://thealexandrian.net/wordpress/35046/roleplaying-games/numenera-system-cheat-sheet-final-version>
+
+- `src/content/posts/translations/alexandrian-low-stakes-tests.mdx`
+
 ## <https://thealexandrian.net/wordpress/35063/board-games/thought-of-the-day-quarterbacking-in-co-op-games>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
@@ -7161,6 +7165,7 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-10-idea-rolls.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+- `src/content/posts/translations/alexandrian-low-stakes-tests.mdx`
 
 ## <https://thealexandrian.net/wordpress/36383/roleplaying-games/dont-prep-plots-you-will-rue-this-day-heroes-the-principles-of-rpg-villainy>
 
@@ -7279,6 +7284,10 @@
 ## <https://thealexandrian.net/wordpress/38659/roleplaying-games/open-table-manifesto-part-2-what-an-open-table-needs>
 
 - `src/content/posts/translations/alexandrian-open-table-manifesto.mdx`
+
+## <https://thealexandrian.net/wordpress/38669/roleplaying-games/open-table-manifesto-part-3-organizing-your-open-table>
+
+- `src/content/posts/translations/alexandrian-open-table-communal-events.mdx`
 
 ## <https://thealexandrian.net/wordpress/3883/roleplaying-games/reactions-to-odd-prime-requisites>
 
@@ -7408,6 +7417,7 @@
 
 ## <https://thealexandrian.net/wordpress/42961/roleplaying-games/smart-prep-part-4-campaign-status-documents>
 
+- `src/content/posts/translations/alexandrian-open-table-communal-events.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-3-status-quo-design.mdx`
 - `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
@@ -7428,6 +7438,10 @@
 ## <https://thealexandrian.net/wordpress/43593/roleplaying-games/feng-shui-using-the-shot-counter>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
+
+## <https://thealexandrian.net/wordpress/43899/roleplaying-games/thinking-about-wilderness-travel>
+
+- `src/content/posts/translations/alexandrian-whither-exploration.mdx`
 
 ## <https://thealexandrian.net/wordpress/43990/roleplaying-games/design-notes-scenario-tools>
 
@@ -7497,6 +7511,7 @@
 - `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
+- `src/content/posts/translations/alexandrian-whither-exploration.mdx`
 
 ## <https://thealexandrian.net/wordpress/46079/roleplaying-games/the-death-wish-of-the-common-npc>
 
@@ -7506,6 +7521,10 @@
 
 - `src/content/posts/translations/alexandrian-dogpiling-the-check.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-20-always-say-yes.mdx`
+
+## <https://thealexandrian.net/wordpress/46295/roleplaying-games/hexcrawl-tool-tracks>
+
+- `src/content/posts/translations/alexandrian-whither-exploration.mdx`
 
 ## <https://thealexandrian.net/wordpress/46338/roleplaying-games/random-gm-tips-making-clues>
 
@@ -7554,6 +7573,7 @@
 ## <https://thealexandrian.net/wordpress/50260/roleplaying-games/random-gm-tip-collecting-initiative>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
+- `src/content/posts/translations/alexandrian-low-stakes-tests.mdx`
 
 ## <https://thealexandrian.net/wordpress/50575/roleplaying-games/random-gm-tip-zone-of-truth-mysteries>
 
@@ -7570,6 +7590,18 @@
 ## <https://thealexandrian.net/wordpress/51068/roleplaying-games/empower-your-prep-the-rachov-principle>
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+
+## <https://thealexandrian.net/wordpress/52824/roleplaying-games/mothership-system-cheat-sheet>
+
+- `src/content/posts/translations/alexandrian-low-stakes-tests.mdx`
+
+## <https://thealexandrian.net/wordpress/53243/roleplaying-games/designing-the-tempest-cluster>
+
+- `src/content/posts/translations/alexandrian-open-table-communal-events.mdx`
+
+## <https://thealexandrian.net/wordpress/53265/roleplaying-games/untested-open-table-headlines>
+
+- `src/content/posts/translations/alexandrian-open-table-communal-events.mdx`
 
 ## <https://thealexandrian.net/wordpress/53341/roleplaying-games/is-node-based-design-prepping-a-plot>
 
@@ -7623,6 +7655,7 @@
 - `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
 - `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
 - `src/content/posts/translations/alexandrian-what-were-we-doing-again.mdx`
+- `src/content/posts/translations/alexandrian-whither-exploration.mdx`
 
 ## <https://thealexandrian.net/wordpress/7961/roleplaying-games/node-based-scenario-design-part-2-choose-your-own-adventure>
 
@@ -7689,10 +7722,6 @@
 ## <https://thealexandrian.net?p=44705>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
-
-## <https://thealexandrian.net?p=46504>
-
-- `src/content/posts/translations/alexandrian-matryoshka-hexes.mdx`
 
 ## <https://thealexandrian.net?p=50123>
 
