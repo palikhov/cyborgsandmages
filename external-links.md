@@ -3908,6 +3908,10 @@
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
 
+## <https://dysonlogos.blog/2016/08/05/the-grand-library-of-coruvon>
+
+- `src/content/posts/translations/alexandrian-visualizing-combat.mdx`
+
 ## <https://effectiviology.com/benjamin-franklin-effect>
 
 - `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
@@ -6154,6 +6158,10 @@
 
 - `src/content/posts/translations/welsh-piper-laws-of-worldbuilding.mdx`
 
+## <https://game-icons.net/1x1/delapouite/barbarian.html>
+
+- `src/content/posts/translations/alexandrian-visualizing-combat.mdx`
+
 ## <https://gamemakerstoolkit.com>
 
 - `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
@@ -6637,6 +6645,7 @@
 
 ## <https://pxhere.com/en/photo/418593>
 
+- `src/content/posts/translations/alexandrian-description-formulas.mdx`
 - `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
 
 ## <https://pxhere.com/en/photo/597481>
@@ -6886,6 +6895,14 @@
 
 - `src/content/posts/translations/alexandrian-are-you-sure-you-want-to-do-that.mdx`
 
+## <https://stock.adobe.com/images/crowd-stampede-crush-disaster-cartoon-illustration-vector/562661508>
+
+- `src/content/posts/translations/alexandrian-dogpiling-the-check.mdx`
+
+## <https://stock.adobe.com/images/demon-and-monk/247282368?prev_url=detail>
+
+- `src/content/posts/translations/alexandrian-while-youre-dead.mdx`
+
 ## <https://stock.adobe.com/images/dice-bag-filled-with-multicolor-dice/422399858>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
@@ -6897,6 +6914,18 @@
 ## <https://stock.adobe.com/images/night-scenery-of-man-with-a-lantern-standing-on-giant-gears-in-dark-city-digital-art-style-illustration-painting/178583275>
 
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
+
+## <https://stock.adobe.com/images/oedipus-asking-the-sphinx-riddle-greek-mythology-tale/397687854>
+
+- `src/content/posts/translations/alexandrian-rolling-for-riddles.mdx`
+
+## <https://stock.adobe.com/images/pagan-woman-covered-head-black-hood-silk-cape-in-gothic-room-holds-barn-owl-bird-on-hand-portrait-silhouette-girl-witch-back-rear-view-fantasy-dress-goth-vampire-lady-in-dark-long-cloak-cape/488979958>
+
+- `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
+
+## <https://stock.adobe.com/images/woman-in-mysterious-place-creative-mask-and-long-black-dress-create-dramatic-atmosphere/121360324?asset_id=121360324>
+
+- `src/content/posts/translations/alexandrian-backup-pcs.mdx`
 
 ## <https://stock.adobe.com/images/woman-with-red-umbrella-crossing-the-street-rainy-night-illustration/103950970>
 
@@ -7187,6 +7216,7 @@
 ## <https://thealexandrian.net/wordpress/36745/roleplaying-games/the-principle-of-using-linear-mediums-as-rpg-examples>
 
 - `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
+- `src/content/posts/translations/alexandrian-non-focal-random-encounters.mdx`
 
 ## <https://thealexandrian.net/wordpress/36748/roleplaying-games/film-banging-the-matrix>
 
@@ -7228,9 +7258,11 @@
 
 ## <https://thealexandrian.net/wordpress/37916/roleplaying-games/universal-npc-roleplaying-template>
 
+- `src/content/posts/translations/alexandrian-description-formulas.mdx`
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 - `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
 - `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
+- `src/content/posts/translations/alexandrian-while-youre-dead.mdx`
 
 ## <https://thealexandrian.net/wordpress/38047/roleplaying-games/lost-laboratories-of-arn>
 
@@ -7240,6 +7272,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
 
+## <https://thealexandrian.net/wordpress/38589/roleplaying-games/review-ten-candles>
+
+- `src/content/posts/translations/alexandrian-backup-pcs.mdx`
+
 ## <https://thealexandrian.net/wordpress/38659/roleplaying-games/open-table-manifesto-part-2-what-an-open-table-needs>
 
 - `src/content/posts/translations/alexandrian-open-table-manifesto.mdx`
@@ -7247,6 +7283,10 @@
 ## <https://thealexandrian.net/wordpress/3883/roleplaying-games/reactions-to-odd-prime-requisites>
 
 - `src/content/posts/translations/alexandrian-the-many-types-of-balance.mdx`
+
+## <https://thealexandrian.net/wordpress/39128/roleplaying-games/art-of-rulings-11-narrative-vs-action-resolution>
+
+- `src/content/posts/translations/alexandrian-dogpiling-the-check.mdx`
 
 ## <https://thealexandrian.net/wordpress/39142/roleplaying-games/art-of-rulings-12-hidden-vs-open-difficulty-numbers>
 
@@ -7268,6 +7308,10 @@
 ## <https://thealexandrian.net/wordpress/39332/roleplaying-games/ptolus-running-the-campaign-reinventing-zombies>
 
 - `src/content/posts/translations/alexandrian-running-horror.mdx`
+
+## <https://thealexandrian.net/wordpress/39430/roleplaying-games/art-of-rulings-14-group-actions>
+
+- `src/content/posts/translations/alexandrian-dogpiling-the-check.mdx`
 
 ## <https://thealexandrian.net/wordpress/39651/roleplaying-games/rulings-in-practice-gathering-information>
 
@@ -7297,7 +7341,9 @@
 
 ## <https://thealexandrian.net/wordpress/40005/roleplaying-games/ptolus-running-the-campaign-bluebooking>
 
+- `src/content/posts/translations/alexandrian-backup-pcs.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
+- `src/content/posts/translations/alexandrian-what-were-we-doing-again.mdx`
 
 ## <https://thealexandrian.net/wordpress/4006/roleplaying-games/encumbrance-by-stone-design-notes>
 
@@ -7383,6 +7429,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
 
+## <https://thealexandrian.net/wordpress/43990/roleplaying-games/design-notes-scenario-tools>
+
+- `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
+
 ## <https://thealexandrian.net/wordpress/44160/roleplaying-games/dragon-heist-the-final-session>
 
 - `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
@@ -7434,6 +7484,10 @@
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
+## <https://thealexandrian.net/wordpress/45361/roleplaying-games/ptolus-running-the-campaign-using-lore-books>
+
+- `src/content/posts/translations/alexandrian-what-were-we-doing-again.mdx`
+
 ## <https://thealexandrian.net/wordpress/45711/roleplaying-games/xandering-the-dungeon-addendum-how-to-use-a-melan-diagram>
 
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
@@ -7450,6 +7504,7 @@
 
 ## <https://thealexandrian.net/wordpress/46186/roleplaying-games/failure-for-the-beginning-gm>
 
+- `src/content/posts/translations/alexandrian-dogpiling-the-check.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-20-always-say-yes.mdx`
 
 ## <https://thealexandrian.net/wordpress/46338/roleplaying-games/random-gm-tips-making-clues>
@@ -7464,13 +7519,21 @@
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
+## <https://thealexandrian.net/wordpress/46572/roleplaying-games/advanced-gamemastery-the-campaign-stitch>
+
+- `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
+
 ## <https://thealexandrian.net/wordpress/46646/roleplaying-games/dark-tower-level-connections>
 
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
-## <https://thealexandrian.net/wordpress/47259/roleplaying-games/random-gm-tip-splitting-the-party>
+## <https://thealexandrian.net/wordpress/47215/roleplaying-games/some-brief-thoughts-on-campaign-structures>
 
-- `src/content/posts/translations/alexandrian-gm-dont-list-17-too-many-players.mdx`
+- `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
+
+## <https://thealexandrian.net/wordpress/47315/roleplaying-games/5e-monster-blood-terror>
+
+- `src/content/posts/translations/alexandrian-description-formulas.mdx`
 
 ## <https://thealexandrian.net/wordpress/4891/roleplaying-games/the-law-of-the-conservation-of-npcs>
 
@@ -7559,6 +7622,7 @@
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
 - `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
+- `src/content/posts/translations/alexandrian-what-were-we-doing-again.mdx`
 
 ## <https://thealexandrian.net/wordpress/7961/roleplaying-games/node-based-scenario-design-part-2-choose-your-own-adventure>
 
@@ -7601,6 +7665,10 @@
 ## <https://thealexandrian.net/wordpress/9622/roleplaying-games/rpgnet-reviews-fading-suns>
 
 - `src/content/posts/translations/alexandrian-prepping-system-cheat-sheets.mdx`
+
+## <https://thealexandrian.net/wordpress/9647/roleplaying-games/dread-pacing-problems>
+
+- `src/content/posts/translations/alexandrian-backup-pcs.mdx`
 
 ## <https://thealexandrian.net/wordpress/991/roleplaying-games/tales-from-the-table-unexpected-successes>
 
@@ -7911,6 +7979,10 @@
 ## <https://theimaginativeconservative.org/2016/05/through-a-glass-darkly-george-s-patton.html>
 
 - `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://thenounproject.com/term/goblin/4101983>
+
+- `src/content/posts/translations/alexandrian-visualizing-combat.mdx`
 
 ## <https://thriftomancer.itch.io/null>
 
@@ -8480,13 +8552,22 @@
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/0618640150/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-rolling-for-riddles.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/0786966009/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-12-mail-carrier-scenario-hooks.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/0786966092/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-non-focal-random-encounters.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/0786967994/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
+- `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/0922335001/digitalcomi0a-20>
 
@@ -8503,6 +8584,10 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/1588461033/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/1589780701/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-backup-pcs.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/158978152X/digitalcomi0a-20>
 
@@ -8533,6 +8618,10 @@
 
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/B00C2IJJLE/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-visualizing-combat.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/B014PC399W/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-matryoshka-hexes.mdx`
@@ -8557,9 +8646,21 @@
 
 - `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/B07MCXWJBW/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-visualizing-combat.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B082JP6VP5/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-visualizing-combat.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/B082PQKG2B/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-12-mail-carrier-scenario-hooks.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B08DT1CD6X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-visualizing-combat.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/B09R26TLNY/digitalcomi0a-20>
 
@@ -9173,6 +9274,7 @@
 
 ## <https://www.drivethrurpg.com/product/267012/Over-the-Edge-3rd-Edition?affiliate_id=81207>
 
+- `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
 - `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
 
 ## <https://www.drivethrurpg.com/product/28409/MiniAdventure-1-The-Complex-of-Zombies?affiliate_id=81207>
@@ -9194,6 +9296,10 @@
 ## <https://www.drivethrurpg.com/product/310285/Welcome-to-the-Island-Over-the-Edge-3E-digital>
 
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
+
+## <https://www.drivethrurpg.com/product/310285/Welcome-to-the-Island-Over-the-Edge-3E-digital?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
 
 ## <https://www.drivethrurpg.com/product/337515/The-Majestic-Fantasy-RPG-Basic-Rules>
 
@@ -9790,6 +9896,10 @@
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
+## <https://www.youtube.com/watch?v=2ba2ZinGLl4>
+
+- `src/content/posts/translations/alexandrian-visualizing-combat.mdx`
+
 ## <https://www.youtube.com/watch?v=3PWWtqfwacQ>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
@@ -9855,6 +9965,10 @@
 
 - `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
 
+## <https://www.youtube.com/watch?v=FgVM8-vbhZA>
+
+- `src/content/posts/translations/alexandrian-rolling-for-riddles.mdx`
+
 ## <https://www.youtube.com/watch?v=GrauBQf7FpI>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
@@ -9874,6 +9988,10 @@
 ## <https://www.youtube.com/watch?v=JZctCxAmzDs>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
+
+## <https://www.youtube.com/watch?v=L1RN07cZCvU&t=38s>
+
+- `src/content/posts/translations/alexandrian-visualizing-combat.mdx`
 
 ## <https://www.youtube.com/watch?v=NGSL7XApz2s>
 
