@@ -93,6 +93,7 @@
 - `John`
 - `John Bell`
 - `John Large`
+- `John Laviolette`
 - `Jon Peterson`
 - `Kelly Pawlik`
 - `Kenneth Hodges`
@@ -197,6 +198,7 @@
 | `John` | `John` |
 | `John Bell` | `John Bell` |
 | `John Large` | `John Large` |
+| `John Laviolette` | `John Laviolette` |
 | `Jon Peterson` | `Jon Peterson` |
 | `Justin Alexander` | `Alexandrian` |
 | `Kelly Pawlik` | `Kelly Pawlik` |
