@@ -4638,6 +4638,10 @@
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <https://en.wikipedia.org/wiki/Estoc>
+
+- `src/content/posts/translations/ludusludorum-medieval-warfare-1.mdx`
+
 ## <https://en.wikipedia.org/wiki/Facing_colour>
 
 - `src/content/posts/translations/total-generalship-part-i-reports.mdx`
@@ -6376,6 +6380,10 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
 
+## <https://ludusludorum.com/2014/10/21/dice-unloaded-making-mr-grip-wight-2>
+
+- `src/content/posts/translations/ludusludorum-exemplary-elves-1.mdx`
+
 ## <https://ludusludorum.com/2014/10/24/the-village-of-mistmill>
 
 - `src/content/posts/translations/ludusludorum-get-medieval-town.mdx`
@@ -6383,7 +6391,13 @@
 
 ## <https://ludusludorum.com/2014/10/25/introducing-the-vault>
 
+- `src/content/posts/translations/ludusludorum-exemplary-elves-2-einolar.mdx`
 - `src/content/posts/translations/ludusludorum-get-medieval-village.mdx`
+- `src/content/posts/translations/ludusludorum-medieval-warfare-1.mdx`
+
+## <https://ludusludorum.com/2015/01/31/get-medieval-what-were-the-middle-ages>
+
+- `src/content/posts/translations/ludusludorum-medieval-warfare-1.mdx`
 
 ## <https://ludusludorum.com/2015/04/25/ruin-logic>
 
@@ -9053,6 +9067,10 @@
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
 
+## <https://www.britannica.com/topic/The-Most-Noble-Order-of-the-Garter>
+
+- `src/content/posts/translations/ludusludorum-medieval-warfare-1.mdx`
+
 ## <https://www.britishmuseum.org/collection/object/A_1915-0823-0-749>
 
 - `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
@@ -9696,6 +9714,10 @@
 ## <https://www.hexographer.com>
 
 - `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
+
+## <https://www.history.com/topics/middle-ages/hundred-years-war>
+
+- `src/content/posts/translations/ludusludorum-medieval-warfare-1.mdx`
 
 ## <https://www.historynet.com/women-in-war>
 
