@@ -3286,6 +3286,10 @@
 
 - `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
 
+## <https://chrisharrison.net/index.php/Research/Sling>
+
+- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
+
 ## <https://chs.harvard.edu/chapter/part-iii-structures-chapter-8-thomas-j-figueira-the-demography-of-the-spartan-helots>
 
 - `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
@@ -5868,6 +5872,10 @@
 
 - `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
 
+## <https://en.wikipedia.org/wiki/Ten_Thousand_(Greek_mercenaries)>
+
+- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
+
 ## <https://en.wikipedia.org/wiki/Tent_pegging>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
@@ -6862,6 +6870,10 @@
 ## <https://slate.com/technology/2014/04/what-do-sat-and-iq-tests-measure-general-intelligence-predicts-school-and-life-success.html>
 
 - `src/content/posts/translations/ludusludorum-magic-prevalent-pervasive.mdx`
+
+## <https://slinging.org/forum/YaBB.pl?num=1292448569/0>
+
+- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
 
 ## <https://slyflourish.com>
 
@@ -10315,6 +10327,10 @@
 
 - `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
 
+## <https://www.youtube.com/watch?v=NMiSvoFUoBs>
+
+- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
+
 ## <https://www.youtube.com/watch?v=NnjauJquWfw>
 
 - `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
@@ -10352,6 +10368,10 @@
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
 
+## <https://www.youtube.com/watch?v=Tpu-BCSfJ2c>
+
+- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
+
 ## <https://www.youtube.com/watch?v=XrhrXTDeue0>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
@@ -10387,6 +10407,14 @@
 ## <https://www.youtube.com/watch?v=cbT-8BmMtVk>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
+
+## <https://www.youtube.com/watch?v=covH4voKukw>
+
+- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
+
+## <https://www.youtube.com/watch?v=gXiUDJRgiUc>
+
+- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
 
 ## <https://www.youtube.com/watch?v=h3BShfhygbk>
 
@@ -10435,6 +10463,10 @@
 ## <https://www.youtube.com/watch?v=s1sfnwGb_jY>
 
 - `src/content/posts/translations/dmdavid-fifth-editions-secret-error.mdx`
+
+## <https://www.youtube.com/watch?v=sGSsbCPeocU>
+
+- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
 
 ## <https://www.youtube.com/watch?v=sdt0roErieA>
 
