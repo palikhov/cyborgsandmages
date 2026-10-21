@@ -67,6 +67,7 @@
 - `C. Stapleford`
 - `Charles Ryan`
 - `Chris Curran`
+- `Chris Harrison`
 - `Chris Kutalik`
 - `Connor W.`
 - `Creighton Broadhurst`
@@ -169,6 +170,7 @@
 | `C. Stapleford` | `C. Stapleford` |
 | `Charles Ryan` | `Charles Ryan` |
 | `Chris Curran` | `Chris Curran` |
+| `Chris Harrison` | `Chris Harrison` |
 | `Chris Kutalik` | `Chris Kutalik` |
 | `Connor W.` | `Connor W.` |
 | `Courtney Campbell` | `Courtney Campbell` |

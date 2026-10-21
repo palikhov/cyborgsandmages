@@ -2559,6 +2559,14 @@
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
 
+## <http://www.simetric.co.uk/si_materials.htm>
+
+- `src/content/posts/translations/chrisharrison-sling-medieval-europe.mdx`
+
+## <http://www.slinging.org>
+
+- `src/content/posts/translations/chrisharrison-sling-medieval-europe.mdx`
+
 ## <http://www.sorcerers.net/Games/Torment/Walkthrough/act3-underground/underground-overview.php>
 
 - `src/content/posts/translations/pointcrawling-sigils-undercity.mdx`
@@ -2619,6 +2627,10 @@
 ## <http://www.wordorigins.org/index.php/more/896>
 
 - `src/content/posts/translations/tribality-warlord-class-part-two.mdx`
+
+## <http://www.xlegio.ru/pubs/skobelev/sling2.htm>
+
+- `src/content/posts/translations/chrisharrison-sling-medieval-europe.mdx`
 
 ## <http://www.xrpshop.citymax.com/page/page/3906392.htm>
 
@@ -3285,10 +3297,6 @@
 ## <https://ceres.mcu.es/pages/Main>
 
 - `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
-
-## <https://chrisharrison.net/index.php/Research/Sling>
-
-- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
 
 ## <https://chs.harvard.edu/chapter/part-iii-structures-chapter-8-thomas-j-figueira-the-demography-of-the-spartan-helots>
 
