@@ -3165,6 +3165,10 @@
 
 - `src/content/posts/translations/flutesloot-formulas-for-crafting-popular-magic-items-5e.mdx`
 
+## <https://archive.org/details/arthurianchronic10472gut>
+
+- `src/content/posts/translations/ludusludorum-medieval-ruins.mdx`
+
 ## <https://archive.org/details/case_f_475_12/page/n71/mode/2up>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
@@ -6381,6 +6385,10 @@
 
 - `src/content/posts/translations/ludusludorum-get-medieval-village.mdx`
 
+## <https://ludusludorum.com/2015/04/25/ruin-logic>
+
+- `src/content/posts/translations/ludusludorum-medieval-ruins.mdx`
+
 ## <https://ludusludorum.com/2015/05/17/calendars-and-cosmology-making-calendars-creative>
 
 - `src/content/posts/translations/ludusludorum-get-medieval-village.mdx`
@@ -8445,6 +8453,10 @@
 
 - `src/content/posts/translations/ludusludorum-magic-prevalent-pervasive.mdx`
 
+## <https://web.archive.org/web/20150402074418/http://oepoetryproject.org/the-ruin-millers-translation>
+
+- `src/content/posts/translations/ludusludorum-medieval-ruins.mdx`
+
 ## <https://web.archive.org/web/20150926064945/http://www.enworld.org/forum/showthread.php?168563-Dungeon-layout-map-flow-and-old-school-game-design>
 
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
@@ -8498,6 +8510,7 @@
 - `src/content/posts/translations/welsh-piper-hex-based-campaign-design-1.mdx`
 - `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
+- `src/content/posts/translations/welsh-piper-nerd-therapy.mdx`
 
 ## <https://welshpiper.com/imploding-dice>
 
@@ -8525,11 +8538,6 @@
 
 - `src/content/posts/translations/hex-crawl-encounters.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
-
-## <https://welshpiper.com/nerd-therapy>
-
-- `src/content/posts/translations/welsh-piper-encounter-populations.mdx`
-- `src/content/posts/translations/welsh-piper-encounter-table-basics.mdx`
 
 ## <https://welshpiper.com/packages/chimera-rpg-core-rules>
 
@@ -8587,6 +8595,10 @@
 ## <https://wordpress.com>
 
 - `src/content/posts/translations/angrygm-the-gms-burden-and-other-stories.mdx`
+
+## <https://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/mapgen2.swf>
+
+- `src/content/posts/translations/welsh-piper-nerd-therapy.mdx`
 
 ## <https://www.13thagesrd.com/classes/commander>
 
@@ -10097,6 +10109,10 @@
 ## <https://www.wsj.com/articles/SB10001424127887323596204578243702404190338>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-iv.mdx`
+
+## <https://www.yorku.ca/inpar/geoffrey_thompson.pdf>
+
+- `src/content/posts/translations/ludusludorum-medieval-ruins.mdx`
 
 ## <https://www.youtube.com/@AGreatDivorce/featured>
 
