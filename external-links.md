@@ -2243,6 +2243,10 @@
 
 - `src/content/posts/translations/alexandrian-use-of-gm-screens.mdx`
 
+## <http://www.hexographer.com>
+
+- `src/content/posts/translations/welsh-piper-encounter-table-basics.mdx`
+
 ## <http://www.howlingtower.com/2012/01/to-hit-vs-armor-class.html>
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
@@ -8444,10 +8448,6 @@
 
 - `src/content/posts/translations/welsh-piper-encounter-populations.mdx`
 
-## <https://welshpiper.com/encounter-table-basics>
-
-- `src/content/posts/translations/welsh-piper-encounter-populations.mdx`
-
 ## <https://welshpiper.com/forums/chimera-development/size-comparisons>
 
 - `src/content/posts/translations/monster-turf.mdx`
@@ -8469,6 +8469,7 @@
 
 - `src/content/posts/translations/monster-turf.mdx`
 - `src/content/posts/translations/welsh-piper-encounter-populations.mdx`
+- `src/content/posts/translations/welsh-piper-encounter-table-basics.mdx`
 - `src/content/posts/translations/welsh-piper-hex-based-campaign-design-1.mdx`
 - `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
@@ -8503,6 +8504,7 @@
 ## <https://welshpiper.com/nerd-therapy>
 
 - `src/content/posts/translations/welsh-piper-encounter-populations.mdx`
+- `src/content/posts/translations/welsh-piper-encounter-table-basics.mdx`
 
 ## <https://welshpiper.com/packages/chimera-rpg-core-rules>
 
