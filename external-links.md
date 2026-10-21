@@ -107,6 +107,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-one.mdx`
 
+## <http://bloodofprokopius.blogspot.com/2011/12/meditating-on-random-encounter-tables.html>
+
+- `src/content/posts/translations/welsh-piper-encounter-populations.mdx`
+
 ## <http://brimleystudios.blogspot.com>
 
 - `src/content/posts/translations/hackslashmaster-resurrecting-the-quantum-ogre.mdx`
@@ -1248,6 +1252,7 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/0618640150/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
+- `src/content/posts/translations/alexandrian-thinking-wilderness-travel-2.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0786916141/digitalcomi0a-20>
 
@@ -1302,6 +1307,11 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/0786965592/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0786965800/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-thinking-wilderness-travel-2.mdx`
+- `src/content/posts/translations/alexandrian-thinking-wilderness-travel.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0786966769/digitalcomi0a-20>
 
@@ -1415,6 +1425,7 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/156076144X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
+- `src/content/posts/translations/alexandrian-running-mysteries-enigma.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/156389484X/digitalcomi0a-20>
 
@@ -1853,6 +1864,10 @@
 
 - `src/content/posts/translations/alexandrian-running-horror.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B07731LM4G/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-running-mysteries-enigma.mdx`
+
 ## <http://www.amazon.com/gp/product/0935696199/ref=as_li_qf_sp_asin_il_tl>
 
 - `src/content/posts/translations/creighton-timeless-advice-keep-on-the-borderlands.mdx`
@@ -2193,6 +2208,7 @@
 
 ## <http://www.giantitp.com/comics/oots0145.html>
 
+- `src/content/posts/translations/alexandrian-thinking-wilderness-travel.mdx`
 - `src/content/posts/translations/angrygm-getting-there-is-half-the-fun.mdx`
 
 ## <http://www.giantitp.com/forums/showthread.php?510021-Player-Race-Greater-Homunculus-(PEACH)>
@@ -6887,6 +6903,14 @@
 
 - `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
+## <https://stock.adobe.com/images/3d-render-noir-illustration-of-male-detective-or-mobster-with-gun-silhouette-standing-on-dark-cityscape-background/547560454>
+
+- `src/content/posts/translations/alexandrian-running-mysteries-proactive-nodes.mdx`
+
+## <https://stock.adobe.com/images/3d-rendering-illustration-mysterious-locked-box-with-keyholes-on-a-dark-background/367265595?asset_id=367265595>
+
+- `src/content/posts/translations/alexandrian-running-mysteries-enigma.mdx`
+
 ## <https://stock.adobe.com/images/abstract-photo-of-connectivity-concept-linking-entities-hierarchy-and-hr/240226298>
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-3-hierarchy-of-reference.mdx`
@@ -6907,9 +6931,17 @@
 
 - `src/content/posts/translations/alexandrian-dogpiling-the-check.mdx`
 
+## <https://stock.adobe.com/images/cyborg-pharaoh-queen-3d-illustration-of-dark-futuristic-female-egyptian-pharaoh-robot-with-glowing-eyes-inside-alien-temple/484199632?asset_id=484199632>
+
+- `src/content/posts/translations/alexandrian-running-mysteries-background-revelations.mdx`
+
 ## <https://stock.adobe.com/images/demon-and-monk/247282368?prev_url=detail>
 
 - `src/content/posts/translations/alexandrian-while-youre-dead.mdx`
+
+## <https://stock.adobe.com/images/detective-board-with-photos-of-suspected-criminals-crime-scenes-and-evidence-with-red-threads-selective-focus/282726148>
+
+- `src/content/posts/translations/alexandrian-running-mysteries-two-types-leads.mdx`
 
 ## <https://stock.adobe.com/images/dice-bag-filled-with-multicolor-dice/422399858>
 
@@ -6930,6 +6962,10 @@
 ## <https://stock.adobe.com/images/pagan-woman-covered-head-black-hood-silk-cape-in-gothic-room-holds-barn-owl-bird-on-hand-portrait-silhouette-girl-witch-back-rear-view-fantasy-dress-goth-vampire-lady-in-dark-long-cloak-cape/488979958>
 
 - `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
+
+## <https://stock.adobe.com/images/upset-detective-holding-his-head-against-evidence-board-in-despair-looks-stressed-having-problems-at-work-unsuccessful-investigation-project-loss-failed-job-interview-concept/538123789?asset_id=538123789>
+
+- `src/content/posts/translations/alexandrian-running-detectives-zero-result.mdx`
 
 ## <https://stock.adobe.com/images/woman-in-mysterious-place-creative-mask-and-long-black-dress-create-dramatic-atmosphere/121360324?asset_id=121360324>
 
@@ -7079,6 +7115,7 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 - `src/content/posts/translations/alexandrian-juggling-scenario-hooks-sandbox.mdx`
+- `src/content/posts/translations/alexandrian-thinking-wilderness-travel.mdx`
 - `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
 - `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
 
@@ -7394,6 +7431,10 @@
 
 - `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
 
+## <https://thealexandrian.net/wordpress/40752/roleplaying-games/ptolus-running-the-campaign-unsolved-mysteries>
+
+- `src/content/posts/translations/alexandrian-running-mysteries-enigma.mdx`
+
 ## <https://thealexandrian.net/wordpress/40931/roleplaying-games/ptolus-running-the-campaign-the-tpk-gamble>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
@@ -7482,10 +7523,6 @@
 
 - `src/content/posts/translations/alexandrian-enter-the-boss.mdx`
 
-## <https://thealexandrian.net/wordpress/43899/roleplaying-games/thinking-about-wilderness-travel>
-
-- `src/content/posts/translations/alexandrian-whither-exploration.mdx`
-
 ## <https://thealexandrian.net/wordpress/43990/roleplaying-games/design-notes-scenario-tools>
 
 - `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
@@ -7529,6 +7566,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
 
+## <https://thealexandrian.net/wordpress/44868/roleplaying-games/remixing-avernus-part-5c-a-pointcrawl-in-elturel>
+
+- `src/content/posts/translations/alexandrian-thinking-wilderness-travel-2.mdx`
+
 ## <https://thealexandrian.net/wordpress/44881/roleplaying-games/remixing-avernus-part-5c-c-elturel-locations>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
@@ -7537,6 +7578,10 @@
 
 - `src/content/posts/translations/alexandrian-running-horror.mdx`
 
+## <https://thealexandrian.net/wordpress/45020/roleplaying-games/rulings-in-practice-traps>
+
+- `src/content/posts/translations/alexandrian-running-mysteries-hints.mdx`
+
 ## <https://thealexandrian.net/wordpress/45125/roleplaying-games/icewind-dale-running-the-sandbox>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
@@ -7544,6 +7589,7 @@
 ## <https://thealexandrian.net/wordpress/45263/roleplaying-games/the-secret-life-of-nodes>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
+- `src/content/posts/translations/alexandrian-running-mysteries-two-types-leads.mdx`
 
 ## <https://thealexandrian.net/wordpress/45283/roleplaying-games/the-secret-life-of-nodes-part-5-naturalistic-node-design>
 
@@ -7551,6 +7597,7 @@
 
 ## <https://thealexandrian.net/wordpress/45361/roleplaying-games/ptolus-running-the-campaign-using-lore-books>
 
+- `src/content/posts/translations/alexandrian-running-mysteries-hints.mdx`
 - `src/content/posts/translations/alexandrian-what-were-we-doing-again.mdx`
 
 ## <https://thealexandrian.net/wordpress/45711/roleplaying-games/xandering-the-dungeon-addendum-how-to-use-a-melan-diagram>
@@ -7598,10 +7645,18 @@
 
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
+## <https://thealexandrian.net/wordpress/46685/roleplaying-games/advanced-gamemastery-players-that-wont-bite>
+
+- `src/content/posts/translations/alexandrian-running-mysteries-proactive-nodes.mdx`
+
 ## <https://thealexandrian.net/wordpress/47215/roleplaying-games/some-brief-thoughts-on-campaign-structures>
 
 - `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
 - `src/content/posts/translations/alexandrian-managing-prep-load.mdx`
+
+## <https://thealexandrian.net/wordpress/47226/roleplaying-games/review-brindlewood-bay>
+
+- `src/content/posts/translations/alexandrian-running-detectives-zero-result.mdx`
 
 ## <https://thealexandrian.net/wordpress/47315/roleplaying-games/5e-monster-blood-terror>
 
@@ -7644,10 +7699,6 @@
 - `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
 - `src/content/posts/translations/alexandrian-types-of-dungeons.mdx`
 
-## <https://thealexandrian.net/wordpress/50095/roleplaying-games/running-mysteries-the-two-types-of-leads>
-
-- `src/content/posts/translations/alexandrian-running-background-adventures.mdx`
-
 ## <https://thealexandrian.net/wordpress/50260/roleplaying-games/random-gm-tip-collecting-initiative>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
@@ -7669,10 +7720,6 @@
 ## <https://thealexandrian.net/wordpress/51068/roleplaying-games/empower-your-prep-the-rachov-principle>
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
-
-## <https://thealexandrian.net/wordpress/51295/roleplaying-games/running-mysteries-proactive-nodes>
-
-- `src/content/posts/translations/alexandrian-gming-on-a-time-limit.mdx`
 
 ## <https://thealexandrian.net/wordpress/52118/roleplaying-games/session-0-modules>
 
@@ -7723,6 +7770,7 @@
 ## <https://thealexandrian.net/wordpress/7223/roleplaying-games/101-curious-items-part-1>
 
 - `src/content/posts/translations/alexandrian-pineappling.mdx`
+- `src/content/posts/translations/alexandrian-running-mysteries-enigma.mdx`
 
 ## <https://thealexandrian.net/wordpress/7401/roleplaying-games/legends-labyrinths-sidebar-reference-system-srs>
 
@@ -7750,6 +7798,9 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+- `src/content/posts/translations/alexandrian-running-mysteries-background-revelations.mdx`
+- `src/content/posts/translations/alexandrian-running-mysteries-returning-to-scene-crime.mdx`
+- `src/content/posts/translations/alexandrian-running-mysteries-two-types-leads.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
 - `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
@@ -7759,6 +7810,7 @@
 ## <https://thealexandrian.net/wordpress/7961/roleplaying-games/node-based-scenario-design-part-2-choose-your-own-adventure>
 
 - `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
+- `src/content/posts/translations/alexandrian-thinking-wilderness-travel-2.mdx`
 
 ## <https://thealexandrian.net/wordpress/8157/roleplaying-games/on-the-matter-of-quantum-ogres>
 
@@ -8388,10 +8440,13 @@
 
 - `src/content/posts/translations/mighty-fortresses.mdx`
 
-## <https://welshpiper.com/encounter-populations>
+## <https://welshpiper.com/dynamic-encounter-tables>
 
-- `src/content/posts/translations/monster-lairs.mdx`
-- `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
+- `src/content/posts/translations/welsh-piper-encounter-populations.mdx`
+
+## <https://welshpiper.com/encounter-table-basics>
+
+- `src/content/posts/translations/welsh-piper-encounter-populations.mdx`
 
 ## <https://welshpiper.com/forums/chimera-development/size-comparisons>
 
@@ -8413,6 +8468,7 @@
 ## <https://welshpiper.com/hex-templates>
 
 - `src/content/posts/translations/monster-turf.mdx`
+- `src/content/posts/translations/welsh-piper-encounter-populations.mdx`
 - `src/content/posts/translations/welsh-piper-hex-based-campaign-design-1.mdx`
 - `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
@@ -8443,6 +8499,10 @@
 
 - `src/content/posts/translations/hex-crawl-encounters.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
+
+## <https://welshpiper.com/nerd-therapy>
+
+- `src/content/posts/translations/welsh-piper-encounter-populations.mdx`
 
 ## <https://welshpiper.com/packages/chimera-rpg-core-rules>
 
@@ -8672,6 +8732,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/0345334302/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-thinking-wilderness-travel-2.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/0358653037/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
@@ -8704,6 +8768,10 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/093363501X/digitalcomi0a-20>
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/0953998134/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-running-mysteries-returning-to-scene-crime.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/1568824114/digitalcomi0a-20>
 
@@ -8742,6 +8810,10 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/1933390913/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/1934859079/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-running-mysteries-returning-to-scene-crime.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/B002ZG981E/digitalcomi0a-20>
 
@@ -8846,6 +8918,10 @@
 ## <https://www.artstation.com/artwork/wDWyg>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.atlas-games.com/product_tables/AG2152>
+
+- `src/content/posts/translations/alexandrian-thinking-wilderness-travel-2.mdx`
 
 ## <https://www.atlas-games.com/product_tables/AG4021>
 
@@ -9399,6 +9475,10 @@
 ## <https://www.drivethrurpg.com/product/225959/SEVEN-VOYAGES-of-ZYLARTHEN-Volume-4-The-Campaign?src=hottest_filtered>
 
 - `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
+
+## <https://www.drivethrurpg.com/product/238024/Wilderlands-of-High-Fantasy-Revised-Guidebook?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-thinking-wilderness-travel.mdx`
 
 ## <https://www.drivethrurpg.com/product/240542/In-the-Company-of-Unicorns-5E>
 
