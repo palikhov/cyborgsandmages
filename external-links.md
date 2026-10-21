@@ -3488,6 +3488,10 @@
 
 - `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
 
+## <https://discover.hubpages.com/travel/chester_england>
+
+- `src/content/posts/translations/ludusludorum-get-medieval-town.mdx`
+
 ## <https://diyanddragons.blogspot.com/2019/04/your-life-is-forfeit.html>
 
 - `src/content/posts/translations/diy-and-dragons-alternatives-to-darkvision.mdx`
@@ -6368,6 +6372,19 @@
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
 
+## <https://ludusludorum.com/2014/10/24/the-village-of-mistmill>
+
+- `src/content/posts/translations/ludusludorum-get-medieval-town.mdx`
+- `src/content/posts/translations/ludusludorum-get-medieval-village.mdx`
+
+## <https://ludusludorum.com/2014/10/25/introducing-the-vault>
+
+- `src/content/posts/translations/ludusludorum-get-medieval-village.mdx`
+
+## <https://ludusludorum.com/2015/05/17/calendars-and-cosmology-making-calendars-creative>
+
+- `src/content/posts/translations/ludusludorum-get-medieval-village.mdx`
+
 ## <https://ludusludorum.com/wp-content/uploads/2014/10/Class-Demographics-for-5th-Edition-The-Population-Engine.xlsx>
 
 - `src/content/posts/translations/ludus-population-engine.mdx`
@@ -6470,9 +6487,17 @@
 
 - `src/content/posts/translations/dmdavid-palace-silver-princess-story.mdx`
 
+## <https://mightyboosh.wikia.com/wiki/Tundra_%28television_episode%29>
+
+- `src/content/posts/translations/welsh-piper-dynamic-encounter-tables.mdx`
+
 ## <https://misdirectedmark.com/2020/07/23/dwdd-traps-with-new-co-host-teos-abadia>
 
 - `src/content/posts/translations/dmdavid-find-fun-in-traps.mdx`
+
+## <https://monstersandmanuals.blogspot.com/2011/10/dynamicnested-encounter-tables.html>
+
+- `src/content/posts/translations/welsh-piper-dynamic-encounter-tables.mdx`
 
 ## <https://mossmaps.wordpress.com>
 
@@ -8404,6 +8429,10 @@
 
 - `src/content/posts/translations/dmdavid-fixing-obnoxious-people-shrank-appeal.mdx`
 
+## <https://web.archive.org/web/20141222133314/http://www.insideyork.co.uk/what-to-see/shambles.html>
+
+- `src/content/posts/translations/ludusludorum-get-medieval-town.mdx`
+
 ## <https://web.archive.org/web/20141223030817/http://tedwordsblog.com/2012/11/16/chicken-sexers-plane-spotters-and-the-elegance-of-tagteaching>
 
 - `src/content/posts/translations/ludusludorum-magic-prevalent-pervasive.mdx`
@@ -8443,10 +8472,6 @@
 ## <https://welshpiper.com/69-villages>
 
 - `src/content/posts/translations/mighty-fortresses.mdx`
-
-## <https://welshpiper.com/dynamic-encounter-tables>
-
-- `src/content/posts/translations/welsh-piper-encounter-populations.mdx`
 
 ## <https://welshpiper.com/forums/chimera-development/size-comparisons>
 
@@ -10065,6 +10090,10 @@
 
 - `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
 
+## <https://www.wordgenerator.net>
+
+- `src/content/posts/translations/welsh-piper-dynamic-encounter-tables.mdx`
+
 ## <https://www.wsj.com/articles/SB10001424127887323596204578243702404190338>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-iv.mdx`
@@ -10360,6 +10389,10 @@
 ## <https://www.youtube.com/watch?v=pzNCA3hlbuQ>
 
 - `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
+
+## <https://www.youtube.com/watch?v=qAXzzHM8zLw>
+
+- `src/content/posts/translations/welsh-piper-dynamic-encounter-tables.mdx`
 
 ## <https://www.youtube.com/watch?v=s1sfnwGb_jY>
 
