@@ -3791,12 +3791,21 @@
 
 - `src/content/posts/translations/deep-dive-the-warforged.mdx`
 
+## <https://dumpstatadventures.com/blog/2019/1/5/deep-dive-limited-wish>
+
+- `src/content/posts/translations/dumpstat-deep-dive-the-shield-guardian.mdx`
+
 ## <https://dumpstatadventures.com/blog/deep-dive-barbarian-class>
 
 - `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
 - `src/content/posts/translations/deep-dive-the-warforged.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-druid-class>
+
+- `src/content/posts/translations/dumpstat-deep-dive-ranger-class.mdx`
+- `src/content/posts/translations/dumpstat-deep-dive-rogue-class.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-fireball-spell>
 
@@ -3808,6 +3817,10 @@
 
 - `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
 - `src/content/posts/translations/deep-dive-the-named-spells.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-history-of-the-raven-queen>
+
+- `src/content/posts/translations/dumpstat-deep-dive-rogue-class.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-history-of-vecna>
 
@@ -3898,6 +3911,9 @@
 - `src/content/posts/translations/deep-dive-cleric-class.mdx`
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
 - `src/content/posts/translations/deep-dive-the-wight.mdx`
+- `src/content/posts/translations/dumpstat-deep-dive-ranger-class.mdx`
+- `src/content/posts/translations/dumpstat-deep-dive-rogue-class.mdx`
+- `src/content/posts/translations/dumpstat-deep-dive-the-shield-guardian.mdx`
 
 ## <https://dumpstatadventures.com/blog/rewind-the-lost-spells>
 
@@ -7983,6 +7999,10 @@
 
 - `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
 
+## <https://theangrygm.com/early-access/the-anatomy-of-a-screwjob>
+
+- `src/content/posts/translations/angrygm-pretty-good-dungeon-introduction.mdx`
+
 ## <https://theangrygm.com/everything-about-conflict>
 
 - `src/content/posts/translations/angrygm-motivational-xp.mdx`
@@ -8043,10 +8063,6 @@
 
 - `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
 
-## <https://theangrygm.com/lets-build-a-pretty-good-dungeon-series>
-
-- `src/content/posts/translations/angrygm-map-a-pretty-good-dungeon.mdx`
-
 ## <https://theangrygm.com/lets-start-at-the-very-end>
 
 - `src/content/posts/translations/angrygm-managing-information-part-1.mdx`
@@ -8085,6 +8101,10 @@
 - `src/content/posts/translations/angrygm-rant-box-text.mdx`
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
 - `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
+
+## <https://theangrygm.com/order-matters-guided-nonlinearity-and-closed-openness>
+
+- `src/content/posts/translations/angrygm-pretty-good-dungeon-introduction.mdx`
 
 ## <https://theangrygm.com/phobias>
 
@@ -8142,6 +8162,10 @@
 
 - `src/content/posts/translations/angrygm-ask-angry-called-shots-and-colossuses.mdx`
 - `src/content/posts/translations/angrygm-awesome-first-adventure-template.mdx`
+
+## <https://theangrygm.com/the-lost-adventuring-day-part-i-merely-building-an-adventure-day>
+
+- `src/content/posts/translations/angrygm-pretty-good-dungeon-introduction.mdx`
 
 ## <https://theangrygm.com/true-campaign-managery>
 
@@ -10273,6 +10297,10 @@
 ## <https://www.youtube.com/watch?v=D8zlUUrFK-M>
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
+
+## <https://www.youtube.com/watch?v=D9H1SjpIvhA>
+
+- `src/content/posts/translations/dumpstat-deep-dive-rogue-class.mdx`
 
 ## <https://www.youtube.com/watch?v=DrRFzwPE0d4>
 
