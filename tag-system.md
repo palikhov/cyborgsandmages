@@ -57,6 +57,7 @@
 - `Arnold K`
 - `Bartoneus`
 - `Basheer Ghouse`
+- `Bayli Anderson`
 - `Bearded-Devil`
 - `Ben L.`
 - `Billiam Bannock`
@@ -160,6 +161,7 @@
 | `Arnold K` | `Arnold K` |
 | `Bartoneus` | `Bartoneus` |
 | `Basheer Ghouse` | `Basheer Ghouse` |
+| `Bayli Anderson` | `Bayli Anderson` |
 | `Bearded-Devil` | `Bearded-Devil` |
 | `Ben L.` | `Ben L.` |
 | `Billiam Bannock` | `Billiam Bannock` |

@@ -10,6 +10,14 @@
 
 - `src/content/posts/translations/hackslashmaster-magical-plus-one-weapons.mdx`
 
+## <http://amzn.to/1JWGLBN>
+
+- `src/content/posts/translations/slyflourish-looking-back-on-fronts.mdx`
+
+## <http://amzn.to/1TKaXSL>
+
+- `src/content/posts/translations/slyflourish-looking-back-on-fronts.mdx`
+
 ## <http://anydice.com/program/12e6>
 
 - `src/content/posts/translations/critical-hits-dd-advantage-vs-flat-bonuses.mdx`
@@ -122,6 +130,14 @@
 ## <http://chaudronchromatique.blogspot.com/2017/03/elven-firefighters-campaign.html>
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
+
+## <http://city-of-brass.org/GeographicWondersE.pdf>
+
+- `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
+
+## <http://city-of-brass.org/Travel%20ChallengesC.pdf>
+
+- `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
 
 ## <http://creativecommons.org/licenses/by-nc-nd/3.0>
 
@@ -663,6 +679,10 @@
 
 - `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
 
+## <http://hackslashmaster.blogspot.com/2012/06/on-what-of-red-herring-agency.html>
+
+- `src/content/posts/translations/hackslashmaster-explicit-procedure-of-play.mdx`
+
 ## <http://hackslashmaster.blogspot.com/2014/02/on-magical-1-swords.html>
 
 - `src/content/posts/translations/hackslashmaster-magical-plus-one-weapons.mdx`
@@ -811,6 +831,10 @@
 
 - `src/content/posts/translations/monster-turf.mdx`
 
+## <http://kellri.blogspot.com/2008/07/cdd4-final-version-3.html>
+
+- `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
+
 ## <http://lotrproject.com>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
@@ -874,6 +898,10 @@
 
 - `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
 
+## <http://odd74.proboards.com/thread/786/wilderness-architect>
+
+- `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
+
 ## <http://oldguyrpg.blogspot.com/2008/12/one-page-dungeon-level-templates.html>
 
 - `src/content/posts/translations/just-three-hexes-campaign-starters.mdx`
@@ -919,6 +947,10 @@
 
 - `src/content/posts/translations/beyond-fomalhaut-dirt-cheap-sandbox.mdx`
 
+## <http://recedingrules.blogspot.com/2014/02/wilderness-travel-challenges-update.html>
+
+- `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
+
 ## <http://retiredadventurer.blogspot.ca/2012/02/your-landholding-pcs-should-not-have.html>
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
@@ -962,6 +994,10 @@
 ## <http://samhaine.wordpress.com/2012/01/16/the-worst-adventurers-guild-in-town>
 
 - `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
+
+## <http://sandboxofdoom.blogspot.com>
+
+- `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
 
 ## <http://saveordie.info?p=173>
 
@@ -1920,6 +1956,10 @@
 
 - `src/content/posts/translations/creighton-timeless-advice-keep-on-the-borderlands.mdx`
 
+## <http://www.amazon.com/gp/product/190898340X?creativeASIN=190898340X&linkCode=w01&linkId=Y6T7MYBU2KTFI2JO&ref_=as_sl_pc_ss_til&tag=slyflourish-20>
+
+- `src/content/posts/translations/slyflourish-looking-back-on-fronts.mdx`
+
 ## <http://www.anarchydice.com/2016/01/26/5e-character-archetypes-woe-bearer-rogue>
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
@@ -2126,6 +2166,10 @@
 
 - `src/content/posts/translations/creighton-gygax-on-saving-characters.mdx`
 
+## <http://www.critical-hits.com/blog/2009/06/02/the-5x5-method>
+
+- `src/content/posts/translations/slyflourish-looking-back-on-fronts.mdx`
+
 ## <http://www.critical-hits.com/blog/2011/02/28/the-combat-out>
 
 - `src/content/posts/translations/dmdavid-end-combat-before-grind.mdx`
@@ -2201,6 +2245,10 @@
 ## <http://www.dungeonworldsrd.com/classes/bard>
 
 - `src/content/posts/translations/tribality-psionics-part-eight.mdx`
+
+## <http://www.dungeonworldsrd.com/gamemastering>
+
+- `src/content/posts/translations/slyflourish-looking-back-on-fronts.mdx`
 
 ## <http://www.dungeonworldsrd.com/moves>
 
@@ -2391,6 +2439,10 @@
 ## <http://www.lulu.com/spotlight/FightOn>
 
 - `src/content/posts/translations/just-three-hexes-campaign-starters.mdx`
+
+## <http://www.lulu.com/us/en/shop/courtney-campbell/on-the-non-player-character/paperback/product-21094131.html>
+
+- `src/content/posts/translations/hackslashmaster-on-rules-of-game.mdx`
 
 ## <http://www.lulu.com/us/en/shop/matthew-finch/quick-primer-for-old-school-gaming/ebook/product-3159558.html>
 
@@ -2583,6 +2635,10 @@
 
 - `src/content/posts/translations/creighton-dragon-and-the-thief.mdx`
 
+## <http://www.rpgnow.com/product/148623/13th-Age-Eyes-of-the-Stone-Thief?affiliate_id=70406>
+
+- `src/content/posts/translations/slyflourish-looking-back-on-fronts.mdx`
+
 ## <http://www.rpgnow.com/product/17004/Dungeon-Masters-Guide-1e>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
@@ -2630,6 +2686,10 @@
 ## <http://www.technoirrpg.com>
 
 - `src/content/posts/translations/alexandrian-standoffs-surprise.mdx`
+
+## <http://www.tgdmb.com/viewtopic.php?t=50256>
+
+- `src/content/posts/translations/hackslashmaster-on-rules-of-game.mdx`
 
 ## <http://www.trajans-column.org?page_id=578>
 
@@ -3805,6 +3865,10 @@
 ## <https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA>
 
 - `src/content/posts/translations/olddungeonmaster-settlement-item-availability.mdx`
+
+## <https://drive.google.com/file/d/0B8l15nXmXT3BSmdOaG1nRnVnbzA/view>
+
+- `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
 
 ## <https://drive.google.com/file/d/0Bx9oLF40m-b8S3FDcXJiUWhZRzQ/view?usp=sharing>
 
@@ -6330,6 +6394,10 @@
 
 - `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
 
+## <https://hackslashmaster.blogspot.com/2014/02/on-deadly-difference.html>
+
+- `src/content/posts/translations/hackslashmaster-explicit-procedure-of-play.mdx`
+
 ## <https://hawkstower.wordpress.com/2015/06/16/comparing-the-red-wedding-to-historical-events>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
@@ -6370,8 +6438,13 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://img.4plebs.org/boards/tg/image/1367/50/1367508742810.pdf>
+
+- `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
+
 ## <https://inkarnate.com>
 
+- `src/content/posts/translations/angrygm-simple-campaign-region.mdx`
 - `src/content/posts/translations/welsh-piper-mapping-your-setting.mdx`
 
 ## <https://inkwellideas.com/free-tools/random-city-map-generator>
@@ -6774,6 +6847,10 @@
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
+## <https://psycnet.apa.org/doiLanding?doi=10.1037%2F0021-9010.88.6.989>
+
+- `src/content/posts/translations/hackslashmaster-on-rules-of-game.mdx`
+
 ## <https://psycnet.apa.org/record/1960-03964-001>
 
 - `src/content/posts/translations/alexandrian-the-reaction-point.mdx`
@@ -6955,6 +7032,10 @@
 
 - `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
 
+## <https://slyflourish.com/fronts_in_dnd.html>
+
+- `src/content/posts/translations/slyflourish-looking-back-on-fronts.mdx`
+
 ## <https://slyflourish.com/lazy_approach_to_stronger_monsters.html>
 
 - `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
@@ -6962,6 +7043,7 @@
 ## <https://slyflourish.com/lazydm>
 
 - `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
+- `src/content/posts/translations/slyflourish-looking-back-on-fronts.mdx`
 
 ## <https://slyflourish.com/lazydm/lazy_dm_preview.pdf>
 
@@ -6970,6 +7052,10 @@
 ## <https://slyflourish.com/randomness_creativity_and_dnd.html>
 
 - `src/content/posts/translations/dmdavid-role-of-die-roll-love-letter.mdx`
+
+## <https://slyflourish.com/sharing_secrets.html>
+
+- `src/content/posts/translations/slyflourish-looking-back-on-fronts.mdx`
 
 ## <https://slyflourish.com/ten_tips_from_gencon_2015.html>
 
@@ -8024,7 +8110,9 @@
 ## <https://theangrygm.com/babys-first-dungeon-1>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
+- `src/content/posts/translations/angrygm-simple-campaign-first-adventure.mdx`
 - `src/content/posts/translations/angrygm-start-a-campaign-1-introduction.mdx`
+- `src/content/posts/translations/angrygm-supplement-bulls-ccg.mdx`
 
 ## <https://theangrygm.com/babys-first-dungeon-2>
 
@@ -8059,6 +8147,7 @@
 
 - `src/content/posts/translations/angrygm-angry-open-world-lesson-three-part-one.mdx`
 - `src/content/posts/translations/angrygm-designing-with-a-strong-d.mdx`
+- `src/content/posts/translations/angrygm-exploring-by-the-rules.mdx`
 - `src/content/posts/translations/angrygm-why-are-you-doing-this.mdx`
 - `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
 
@@ -8169,9 +8258,18 @@
 
 - `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
 
+## <https://theangrygm.com/series/lets-start-a-simple-campaign>
+
+- `src/content/posts/translations/angrygm-supplement-bulls-ccg.mdx`
+
 ## <https://theangrygm.com/session-zero-part-zero>
 
 - `src/content/posts/translations/angrygm-angry-open-world.mdx`
+
+## <https://theangrygm.com/simple-campaign-characters>
+
+- `src/content/posts/translations/angrygm-simple-campaign-starter-town.mdx`
+- `src/content/posts/translations/angrygm-supplement-bulls-ccg.mdx`
 
 ## <https://theangrygm.com/speaking-off-the-cuff>
 
@@ -8437,6 +8535,10 @@
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
 
+## <https://twitter.com/mikemearls/status/684468883865104384>
+
+- `src/content/posts/translations/slyflourish-looking-back-on-fronts.mdx`
+
 ## <https://twitter.com/stat_dump>
 
 - `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
@@ -8570,6 +8672,10 @@
 
 - `src/content/posts/translations/dmdavid-end-combat-before-grind-2016.mdx`
 
+## <https://web.archive.org/web/20190402024933/https://www.drivethrurpg.com/product/146862/Hack--Slash-Blog-Compendium-II>
+
+- `src/content/posts/translations/hackslashmaster-make-dnd-5e-more-old-school.mdx`
+
 ## <https://web.archive.org/web/20210126140419/http://thrillbent.com/blog/3-point-plotting>
 
 - `src/content/posts/translations/alexandrian-three-point-plotting.mdx`
@@ -8688,6 +8794,10 @@
 ## <https://wordpress.com>
 
 - `src/content/posts/translations/angrygm-the-gms-burden-and-other-stories.mdx`
+
+## <https://worldographer.com>
+
+- `src/content/posts/translations/angrygm-simple-campaign-region.mdx`
 
 ## <https://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/mapgen2.swf>
 
@@ -10211,6 +10321,10 @@
 
 - `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
 
+## <https://www.wonderdraft.net>
+
+- `src/content/posts/translations/angrygm-simple-campaign-region.mdx`
+
 ## <https://www.wordgenerator.net>
 
 - `src/content/posts/translations/welsh-piper-dynamic-encounter-tables.mdx`
@@ -10459,6 +10573,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 
+## <https://www.youtube.com/watch?v=YRMVTmbe-Is>
+
+- `src/content/posts/translations/geekandsundry-game-master-tips-matt-mercer-behind-screen.mdx`
+
 ## <https://www.youtube.com/watch?v=ZAO4t8672hc>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
@@ -10591,6 +10709,10 @@
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
+## <https://www.zeldadungeon.net/breath-of-the-wild-interactive-map>
+
+- `src/content/posts/translations/angrygm-simple-campaign-region.mdx`
+
 ## <https://www2.census.gov/library/publications/2011/compendia/statab/131ed/tables/12s0286.pdf>
 
 - `src/content/posts/translations/ludus-population-engine.mdx`
@@ -10598,6 +10720,7 @@
 ## <https://www3.autarch.co?wpdmpro=region-hex-maps>
 
 - `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
+- `src/content/posts/translations/angrygm-simple-campaign-region.mdx`
 
 ## <https://youtu.be/-EZziqodt-g>
 
