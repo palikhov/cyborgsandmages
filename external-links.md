@@ -151,6 +151,10 @@
 
 - `src/content/posts/translations/just-three-hexes-campaign-starters.mdx`
 
+## <http://dawnpatrol.org>
+
+- `src/content/posts/translations/jrients-dungeons-dawn-patrol.mdx`
+
 ## <http://dconstructions.wordpress.com/2011/12/21/rules-whats-your-point-of-first-contact>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
@@ -823,9 +827,9 @@
 
 - `src/content/posts/translations/alexandrian-breathing-life-into-wandering-monster.mdx`
 
-## <http://jrients.blogspot.com/2008/11/dungeons-dawn-patrol.html>
+## <http://jrients.blogspot.com/2008/11/draft-cinder-house-rules-part-1.html>
 
-- `src/content/posts/translations/alexandrian-escaping-the-dungeon.mdx`
+- `src/content/posts/translations/jrients-dungeons-dawn-patrol.mdx`
 
 ## <http://jrients.blogspot.com/2010/02/sandboxes-dragons.html>
 
@@ -901,6 +905,10 @@
 ## <http://odd74.proboards.com/thread/786/wilderness-architect>
 
 - `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
+
+## <http://odd74.proboards76.com>
+
+- `src/content/posts/translations/jrients-dungeons-dawn-patrol.mdx`
 
 ## <http://oldguyrpg.blogspot.com/2008/12/one-page-dungeon-level-templates.html>
 
@@ -2619,6 +2627,10 @@
 
 - `src/content/posts/translations/welsh-piper-feudalism-101.mdx`
 
+## <http://www.roleplayingtips.com/readissue.php?number=156>
+
+- `src/content/posts/translations/alexandrian-prep-tips-beginning-dm.mdx`
+
 ## <http://www.rpglibrary.org/articles/storytelling/36plots.html>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
@@ -3366,6 +3378,42 @@
 
 - `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
 
+## <https://blackcitadelrpg.com/alchemist-supplies-5e>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
+## <https://blackcitadelrpg.com/battle-master-maneuvers-guide-5e>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
+## <https://blackcitadelrpg.com/dnd-5e-traps-puzzles>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
+## <https://blackcitadelrpg.com/fighting-styles-5e>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
+## <https://blackcitadelrpg.com/how-to-read-d100-die>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
+## <https://blackcitadelrpg.com/kobold-race-guide-5e>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
+## <https://blackcitadelrpg.com/potion-cost-list-5e>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
+## <https://blackcitadelrpg.com/shield-master-feat-5e>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
+## <https://blackcitadelrpg.com/unearthed-arcana-5e>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
 ## <https://bladesinthedark.com/faction-game>
 
 - `src/content/posts/translations/faction-procedures-comparative-review.mdx`
@@ -3421,6 +3469,10 @@
 ## <https://classless-kobolds.itch.io/the-lounge-temple-of-asavraki>
 
 - `src/content/posts/translations/d66kobolds-faction-procedures-dolmenwood-example.mdx`
+
+## <https://codexnomina.com/dnd-human-names>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
 
 ## <https://coinsandscrolls.blogspot.ca/2017/06/osr-death-taxes-and-death-taxes-part-2.html>
 
@@ -6642,6 +6694,10 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <https://media.wizards.com/2020/dnd/downloads/dnd_essentials_rulebook.pdf>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
 ## <https://media.wizards.com/downloads/dnd/StarterSet_Characters.pdf>
 
 - `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
@@ -6895,6 +6951,10 @@
 ## <https://pxhere.com/en/photo/741898>
 
 - `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
+
+## <https://pxhere.com/en/photo/77302>
+
+- `src/content/posts/translations/alexandrian-prep-tips-beginning-gm-cyberpunk.mdx`
 
 ## <https://pxhere.com/en/photo/863174>
 
@@ -7152,6 +7212,10 @@
 
 - `src/content/posts/translations/alexandrian-dogpiling-the-check.mdx`
 
+## <https://stock.adobe.com/images/cyberpunk-fashion-night-portrait-futuristic-beauty-blue-neon-light-asian-girl-in-black-leather-jacket-with-white-glowing-halo-in-red-color-smoke-on-dark-copy-space-background/434090268>
+
+- `src/content/posts/translations/alexandrian-roleplaying-for-beginning-gm.mdx`
+
 ## <https://stock.adobe.com/images/cyborg-pharaoh-queen-3d-illustration-of-dark-futuristic-female-egyptian-pharaoh-robot-with-glowing-eyes-inside-alien-temple/484199632?asset_id=484199632>
 
 - `src/content/posts/translations/alexandrian-running-mysteries-background-revelations.mdx`
@@ -7167,6 +7231,10 @@
 ## <https://stock.adobe.com/images/dice-bag-filled-with-multicolor-dice/422399858>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
+
+## <https://stock.adobe.com/images/gothic-mysterious-woman-walks-in-fantasy-autumn-forest-long-silk-blue-cloak-flutters-waving-fly-in-wind-fabric-in-motion-head-hood-girl-princess-looks-back-fallen-orange-leaves-dark-trees-fog/474338164?asset_id=474338164>
+
+- `src/content/posts/translations/alexandrian-pacing-for-the-beginning-gm.mdx`
 
 ## <https://stock.adobe.com/images/large-cave-with-piles-of-gold-vector-cartoon-illustration-of-underground-dungeon-with-treasure-chest-full-of-golden-coins-sparkling-gemstones-jewelry-medieval-swords-adventure-game-background/653096214?prev_url=detail>
 
@@ -7332,6 +7400,7 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 - `src/content/posts/translations/alexandrian-juggling-scenario-hooks-sandbox.mdx`
+- `src/content/posts/translations/alexandrian-prep-tips-beginning-dm.mdx`
 - `src/content/posts/translations/alexandrian-thinking-wilderness-travel.mdx`
 - `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
 - `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
@@ -7534,6 +7603,10 @@
 - `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
 - `src/content/posts/translations/alexandrian-while-youre-dead.mdx`
 
+## <https://thealexandrian.net/wordpress/38013/roleplaying-games/art-of-rulings-part-4-default-to-yes>
+
+- `src/content/posts/translations/alexandrian-roleplaying-for-beginning-gm.mdx`
+
 ## <https://thealexandrian.net/wordpress/38047/roleplaying-games/lost-laboratories-of-arn>
 
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
@@ -7733,6 +7806,7 @@
 ## <https://thealexandrian.net/wordpress/43593/roleplaying-games/feng-shui-using-the-shot-counter>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
+- `src/content/posts/translations/alexandrian-pacing-for-the-beginning-gm.mdx`
 - `src/content/posts/translations/alexandrian-standoffs-surprise.mdx`
 
 ## <https://thealexandrian.net/wordpress/43843/roleplaying-games/ptolus-running-the-campaign-dungeon-as-a-theater-of-operations>
@@ -7836,6 +7910,8 @@
 
 - `src/content/posts/translations/alexandrian-dogpiling-the-check.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-20-always-say-yes.mdx`
+- `src/content/posts/translations/alexandrian-pacing-for-the-beginning-gm.mdx`
+- `src/content/posts/translations/alexandrian-roleplaying-for-beginning-gm.mdx`
 
 ## <https://thealexandrian.net/wordpress/46295/roleplaying-games/hexcrawl-tool-tracks>
 
@@ -7894,10 +7970,6 @@
 
 - `src/content/posts/translations/alexandrian-standoffs-surprise.mdx`
 
-## <https://thealexandrian.net/wordpress/49547/roleplaying-games/pacing-for-the-beginning-gm>
-
-- `src/content/posts/translations/alexandrian-roleplaying-initiative.mdx`
-
 ## <https://thealexandrian.net/wordpress/49641/roleplaying-games/nights-black-agents-system-cheat-sheet>
 
 - `src/content/posts/translations/alexandrian-gming-on-a-time-limit.mdx`
@@ -7932,6 +8004,10 @@
 ## <https://thealexandrian.net/wordpress/52118/roleplaying-games/session-0-modules>
 
 - `src/content/posts/translations/alexandrian-managing-prep-load.mdx`
+
+## <https://thealexandrian.net/wordpress/52716/roleplaying-games/roleplaying-for-the-beginning-gm-part-2-intermediate-tips>
+
+- `src/content/posts/translations/alexandrian-roleplaying-for-beginning-gm.mdx`
 
 ## <https://thealexandrian.net/wordpress/52824/roleplaying-games/mothership-system-cheat-sheet>
 
@@ -8002,6 +8078,8 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-6-choose-your-own-adventure.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-8-mysteries-with-no-clues.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+- `src/content/posts/translations/alexandrian-prep-tips-beginning-dm.mdx`
+- `src/content/posts/translations/alexandrian-prep-tips-beginning-gm-cyberpunk.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-background-revelations.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-returning-to-scene-crime.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-two-types-leads.mdx`
@@ -9630,13 +9708,45 @@
 
 - `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
 
+## <https://www.dndbeyond.com/compendium/rules/dmg/dungeon-masters-workshop>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
+## <https://www.dndbeyond.com/feats/chef>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
 ## <https://www.dndbeyond.com/monsters/16762-aboleth>
 
 - `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
+## <https://www.dndbeyond.com/monsters/acolyte>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
+## <https://www.dndbeyond.com/monsters/archer>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
+## <https://www.dndbeyond.com/monsters/commoner>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
+## <https://www.dndbeyond.com/monsters/guard>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
+## <https://www.dndbeyond.com/monsters/mage>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
+
 ## <https://www.dndbeyond.com/posts/1625-peril-in-pinebrook-a-free-introductory-adventure>
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://www.dndbeyond.com/sources/basic-rules/equipment>
+
+- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
 
 ## <https://www.dndbeyond.com/sources/basic-rules/monsters>
 

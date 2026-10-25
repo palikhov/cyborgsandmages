@@ -83,11 +83,13 @@
 - `Forlorn Encystment`
 - `Graham Robert Scott`
 - `Gus L`
+- `Harry Menear`
 - `Courtney Campbell`
 - `Iestwyn`
 - `Jacob Huebsch`
 - `Jay Dragon`
 - `Jeff McAleer`
+- `Jeff Rients`
 - `Jim Parkin`
 - `Joe`
 - `Joe Inkwell Ideas`
@@ -191,10 +193,12 @@
 | `Gus L` | `Gus L` |
 | `hackandslash` | `Courtney Campbell` |
 | `hackslashmaster` | `Courtney Campbell` |
+| `Harry Menear` | `Harry Menear` |
 | `Iestwyn` | `Iestwyn` |
 | `Jacob Huebsch` | `Jacob Huebsch` |
 | `Jay Dragon` | `Jay Dragon` |
 | `Jeff McAleer` | `Jeff McAleer` |
+| `Jeff Rients` | `Jeff Rients` |
 | `Jim Parkin` | `Jim Parkin` |
 | `Joe` | `Joe` |
 | `Joe Inkwell Ideas` | `Joe Inkwell Ideas` |
