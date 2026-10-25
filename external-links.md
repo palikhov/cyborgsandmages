@@ -7192,6 +7192,10 @@
 
 - `src/content/posts/translations/alexandrian-running-mysteries-enigma.mdx`
 
+## <https://stock.adobe.com/images/abstract-golden-light-circle-effect/441541638>
+
+- `src/content/posts/translations/alexandrian-zone-of-truth-mysteries.mdx`
+
 ## <https://stock.adobe.com/images/abstract-photo-of-connectivity-concept-linking-entities-hierarchy-and-hr/240226298>
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-3-hierarchy-of-reference.mdx`
@@ -7295,6 +7299,7 @@
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 - `src/content/posts/translations/alexandrian-five-node-mystery.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
 
 ## <https://thealexandrian.net/in-the-shadow-of-the-spire>
 
@@ -7330,11 +7335,6 @@
 ## <https://thealexandrian.net/wordpress/1047/roleplaying-games/super-simple-grappling>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-5-not-knowing-the-rules.mdx`
-
-## <https://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule>
-
-- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-5-mysteries.mdx`
 
 ## <https://thealexandrian.net/wordpress/11940/roleplaying-games/technoir-and-pvp>
 
@@ -7577,6 +7577,7 @@
 - `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
 - `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
 - `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
+- `src/content/posts/translations/alexandrian-zone-of-truth-mysteries.mdx`
 
 ## <https://thealexandrian.net/wordpress/37389/roleplaying-games/eternal-lies-severn-valley>
 
@@ -7920,6 +7921,7 @@
 ## <https://thealexandrian.net/wordpress/46338/roleplaying-games/random-gm-tips-making-clues>
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
 
 ## <https://thealexandrian.net/wordpress/46476/roleplaying-games/resting-in-the-dungeon>
 
@@ -7984,10 +7986,6 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
 - `src/content/posts/translations/alexandrian-low-stakes-tests.mdx`
 - `src/content/posts/translations/alexandrian-standoffs-surprise.mdx`
-
-## <https://thealexandrian.net/wordpress/50575/roleplaying-games/random-gm-tip-zone-of-truth-mysteries>
-
-- `src/content/posts/translations/alexandrian-speak-with-dead-mysteries.mdx`
 
 ## <https://thealexandrian.net/wordpress/50940/roleplaying-games/random-gm-tip-rolling-behind-the-screen>
 
@@ -8084,10 +8082,12 @@
 - `src/content/posts/translations/alexandrian-running-mysteries-returning-to-scene-crime.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-two-types-leads.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
+- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
 - `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
 - `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
 - `src/content/posts/translations/alexandrian-what-were-we-doing-again.mdx`
 - `src/content/posts/translations/alexandrian-whither-exploration.mdx`
+- `src/content/posts/translations/alexandrian-zone-of-truth-mysteries.mdx`
 
 ## <https://thealexandrian.net/wordpress/7961/roleplaying-games/node-based-scenario-design-part-2-choose-your-own-adventure>
 
@@ -8666,6 +8666,10 @@
 
 - `src/content/posts/translations/top-down-worldbuilding.mdx`
 
+## <https://web.archive.org/web/20070219035419/http://www.dyingearth.com/pagexxfebruary2007.htm>
+
+- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
+
 ## <https://web.archive.org/web/20070928120647/http://www.memo-online.com/article.asp?ID=PAY_SUI_MOY_002>
 
 - `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
@@ -9048,6 +9052,30 @@
 
 - `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
 
+## <https://www.amazon.com/dp/0953998134>
+
+- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
+
+## <https://www.amazon.com/dp/0953998142>
+
+- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
+
+## <https://www.amazon.com/dp/1934859079>
+
+- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
+
+## <https://www.amazon.com/dp/B000028U20>
+
+- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
+
+## <https://www.amazon.com/dp/B00005B44D>
+
+- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
+
+## <https://www.amazon.com/dp/B000SAV6RS>
+
+- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/0063347539/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
@@ -9063,6 +9091,10 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/0394527453/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/042514321X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-zone-of-truth-mysteries.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/0618640150/digitalcomi0a-20>
 
@@ -9118,6 +9150,10 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/1908983396/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/1912200546/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-zone-of-truth-mysteries.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/1930855591/digitalcomi0a-20>
 
@@ -10014,6 +10050,10 @@
 
 - `src/content/posts/translations/ludusludorum-classical-medieval-fairy-tale-western.mdx`
 
+## <https://www.gutenberg.org/files/244/244-h/244-h.htm>
+
+- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
+
 ## <https://www.hexographer.com>
 
 - `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
@@ -10357,6 +10397,14 @@
 ## <https://www.thealexandrian.net/creations/misc/mad-mage.pdf>
 
 - `src/content/posts/translations/alexandrian-re-running-the-megadungeon.mdx`
+
+## <https://www.thealexandrian.net/creations/talesfromthetable/khunbaral.html>
+
+- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
+
+## <https://www.thealexandrian.net/creations/talesfromthetable/tale03-unexpected.html>
+
+- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
 
 ## <https://www.thealexandrian.net/creations/tombofhorrors/Tomb%20of%20Horrors.zip>
 
