@@ -683,9 +683,13 @@
 
 - `src/content/posts/translations/dreams-lich-house-shell-game-in-the-sandbox.mdx`
 
-## <http://hackslashmaster.blogspot.com/2012/06/on-what-of-red-herring-agency.html>
+## <http://hackslashmaster.blogspot.com/2011/11/on-skill-deconstruction-why-skill-light.html>
 
-- `src/content/posts/translations/hackslashmaster-explicit-procedure-of-play.mdx`
+- `src/content/posts/translations/hackslashmaster-red-herring-agency.mdx`
+
+## <http://hackslashmaster.blogspot.com/2012/06/on-why-of-red-herring-agency.html>
+
+- `src/content/posts/translations/hackslashmaster-red-herring-agency.mdx`
 
 ## <http://hackslashmaster.blogspot.com/2014/02/on-magical-1-swords.html>
 
@@ -2185,6 +2189,10 @@
 ## <http://www.crydee.com/node/9352>
 
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
+
+## <http://www.cs.northwestern.edu/~hunicke/MDA.pdf>
+
+- `src/content/posts/translations/angrygm-gaming-for-fun-eight-kinds.mdx`
 
 ## <http://www.d20pfsrd.com/gamemastering/other-rules/settlements>
 
@@ -6446,10 +6454,6 @@
 
 - `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
 
-## <https://hackslashmaster.blogspot.com/2014/02/on-deadly-difference.html>
-
-- `src/content/posts/translations/hackslashmaster-explicit-procedure-of-play.mdx`
-
 ## <https://hawkstower.wordpress.com/2015/06/16/comparing-the-red-wedding-to-historical-events>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
@@ -8220,14 +8224,6 @@
 - `src/content/posts/translations/angrygm-designing-on-purpose.mdx`
 - `src/content/posts/translations/angrygm-start-a-campaign-1-introduction.mdx`
 - `src/content/posts/translations/angrygm-the-whatever-stat.mdx`
-
-## <https://theangrygm.com/gaming-for-fun-part-1-eight-kinds-of-fun>
-
-- `src/content/posts/translations/angrygm-angry-open-world-lesson-three-part-one.mdx`
-- `src/content/posts/translations/angrygm-designing-with-a-strong-d.mdx`
-- `src/content/posts/translations/angrygm-exploring-by-the-rules.mdx`
-- `src/content/posts/translations/angrygm-why-are-you-doing-this.mdx`
-- `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
 
 ## <https://theangrygm.com/gaming-in-fits-and-starts>
 
