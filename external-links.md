@@ -1031,6 +1031,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
+## <http://slushlush.com/2015/08/fire-in-the-blood-ashes-of-the-tyrant>
+
+- `src/content/posts/translations/slushlush-playing-a-dragonborn-realms-part-3-next-generation.mdx`
+
 ## <http://slushlush.com/books-stories>
 
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
@@ -1196,10 +1200,6 @@
 ## <http://www.amazon.com/Advanced-Dungeons-Dragons-Edition-Accessory/dp/1560762357/ref=pd_sim_14_2?ie=UTF8&refRID=05CVAGYD84X9TECK6DYH>
 
 - `src/content/posts/translations/tribality-psionics-part-three.mdx`
-
-## <http://www.amazon.com/Ashes-Tyrant-Erin-M-Evans/dp/0786965738>
-
-- `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
 
 ## <http://www.amazon.com/Captain-Alatriste-Arturo-Perez-Reverte/dp/B000GFR9O4>
 
@@ -2002,10 +2002,6 @@
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <http://www.barnesandnoble.com/w/ashes-of-the-tyrant-erin-m-evans/1121116651?ean=9780786965731>
-
-- `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
 
 ## <http://www.barnesandnoble.com/w/fire-in-the-blood-erin-m-evans/1117655172?ean=9780786965298>
 
@@ -3940,6 +3936,7 @@
 ## <https://dnd.wizards.com/articles/news/rageofdemons>
 
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
+- `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-2.mdx`
 
 ## <https://docs.google.com/spreadsheets/d/1ofuzHPMbQP31FZ5RWsIezE9dFGUlzmBbeZqM7pr8ruc/edit?usp=sharing>
 
@@ -9009,6 +9006,11 @@
 
 - `src/content/posts/translations/creighton-gygax-on-nature-and-variety-of-challenge.mdx`
 
+## <https://www.amazon.com/Ashes-Tyrant-Erin-M-Evans/dp/0786965738>
+
+- `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
+- `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-2.mdx`
+
 ## <https://www.amazon.com/Beowulf-Translation-Norton-Critical-Editions/dp/0393975800>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
@@ -9390,6 +9392,11 @@
 ## <https://www.badassoftheweek.com/lamaupin.html>
 
 - `src/content/posts/translations/ludus-population-engine.mdx`
+
+## <https://www.barnesandnoble.com/w/ashes-of-the-tyrant-erin-m-evans/1121116651?ean=9780786965731>
+
+- `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
+- `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-2.mdx`
 
 ## <https://www.bastionland.com/2016/01/choices-and-consequences-pick-or-push.html>
 
@@ -10425,6 +10432,10 @@
 ## <https://www.scribd.com/doc/271962069/Godfathom>
 
 - `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
+
+## <https://www.seankreynolds.com>
+
+- `src/content/posts/translations/fantasist-draconic-language.mdx`
 
 ## <https://www.skullsplitterdice.com/blogs/andrars-rumblings/ultimate-necromancers-guide>
 

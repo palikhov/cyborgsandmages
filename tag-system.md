@@ -133,6 +133,7 @@
 - `Ronny`
 - `S. John Ross`
 - `Sam Sorensen`
+- `Sean K. Reynolds and Owen K.C. Stephens`
 - `Sean Manning`
 - `Serban Ionita`
 - `Shawn Merwin`
@@ -250,6 +251,7 @@
 | `Ronny` | `Ronny` |
 | `S. John Ross` | `S. John Ross` |
 | `Sam Sorensen` | `Sam Sorensen` |
+| `Sean K. Reynolds and Owen K.C. Stephens` | `Sean K. Reynolds and Owen K.C. Stephens` |
 | `Sean Manning` | `Sean Manning` |
 | `Serban Ionita` | `Serban Ionita` |
 | `Shawn Merwin` | `Shawn Merwin` |
