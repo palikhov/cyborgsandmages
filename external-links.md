@@ -6446,9 +6446,29 @@
 
 - `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
 
+## <https://github.com/Developer-Mike/obsidian-advanced-canvas>
+
+- `src/content/posts/translations/gnomestew-prepping-your-game-in-obsidian.mdx`
+
+## <https://github.com/SilentVoid13/Templater>
+
+- `src/content/posts/translations/gnomestew-prepping-your-game-in-obsidian.mdx`
+
+## <https://github.com/scambier/obsidian-omnisearch>
+
+- `src/content/posts/translations/gnomestew-prepping-your-game-in-obsidian.mdx`
+
+## <https://github.com/tadashi-aikawa/obsidian-various-complements-plugin>
+
+- `src/content/posts/translations/gnomestew-prepping-your-game-in-obsidian.mdx`
+
 ## <https://gnomestew.com/adding-safety-tools>
 
 - `src/content/posts/translations/gnomestew-7-tips-better-ttrpg-player.mdx`
+
+## <https://gnomestew.com/how-do-i-pick-the-right-game>
+
+- `src/content/posts/translations/gnomestew-where-do-i-start-with-a-campaign.mdx`
 
 ## <https://gnomestew.com/roles-for-social-encounters>
 
@@ -6805,6 +6825,10 @@
 
 - `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
+## <https://obsidian.md>
+
+- `src/content/posts/translations/gnomestew-prepping-your-game-in-obsidian.mdx`
+
 ## <https://og.myth-weavers.com/generate_dungeon.php>
 
 - `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
@@ -6886,6 +6910,10 @@
 ## <https://pixabay.com/photos/dice-role-game-playing-colorful-4804498>
 
 - `src/content/posts/translations/alexandrian-random-numbers-with-the-usual-dice.mdx`
+
+## <https://pixabay.com/photos/newspaper-paper-newsprint-943004>
+
+- `src/content/posts/translations/gnomestew-background-events.mdx`
 
 ## <https://pixabay.com/photos/woman-prayer-believe-hope-religion-4629323>
 
@@ -10362,6 +10390,10 @@
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 
+## <https://www.roleplayingtips.com>
+
+- `src/content/posts/translations/gnomestew-prepping-your-game-in-obsidian.mdx`
+
 ## <https://www.rpg.net/columns/advanced-designers-and-dragons/advanced-designers-and-dragons56.phtml>
 
 - `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
@@ -10550,6 +10582,10 @@
 - `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
 - `src/content/posts/translations/acoup-clothing-4b-cloth-money.mdx`
+
+## <https://www.youtube.com/@JoshPlunkett>
+
+- `src/content/posts/translations/gnomestew-prepping-your-game-in-obsidian.mdx`
 
 ## <https://www.youtube.com/channel/UClOYVGj0DjerkCd8norpANQ>
 
@@ -10814,6 +10850,10 @@
 ## <https://www.youtube.com/watch?v=covH4voKukw>
 
 - `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
+
+## <https://www.youtube.com/watch?v=ctetnQfSdfM&list=PL7oLu8NfQd84_gsyqBVSVgUmCCgcvSZMx>
+
+- `src/content/posts/translations/gnomestew-prepping-your-game-in-obsidian.mdx`
 
 ## <https://www.youtube.com/watch?v=gXiUDJRgiUc>
 

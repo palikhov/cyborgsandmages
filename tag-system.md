@@ -71,6 +71,7 @@
 - `Chris Curran`
 - `Chris Harrison`
 - `Chris Kutalik`
+- `Chris Sniezak`
 - `Connor W.`
 - `Creighton Broadhurst`
 - `David Hartlage`
@@ -100,6 +101,7 @@
 - `John Large`
 - `John Laviolette`
 - `Jon Peterson`
+- `Josh Storey`
 - `Kelly Pawlik`
 - `Kenneth Hodges`
 - `KibblesTasty`
@@ -180,6 +182,7 @@
 | `Chris Curran` | `Chris Curran` |
 | `Chris Harrison` | `Chris Harrison` |
 | `Chris Kutalik` | `Chris Kutalik` |
+| `Chris Sniezak` | `Chris Sniezak` |
 | `Connor W.` | `Connor W.` |
 | `Courtney Campbell` | `Courtney Campbell` |
 | `Creighton Broadhurst` | `Creighton Broadhurst` |
@@ -212,6 +215,7 @@
 | `John Large` | `John Large` |
 | `John Laviolette` | `John Laviolette` |
 | `Jon Peterson` | `Jon Peterson` |
+| `Josh Storey` | `Josh Storey` |
 | `Justin Alexander` | `Alexandrian` |
 | `Kelly Pawlik` | `Kelly Pawlik` |
 | `Kenneth Hodges` | `Kenneth Hodges` |
