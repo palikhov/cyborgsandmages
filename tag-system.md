@@ -81,6 +81,7 @@
 - `Dwiz`
 - `Erik Scott de Bie`
 - `Erin D. Smale`
+- `Erin M. Evans`
 - `Flutes`
 - `Forlorn Encystment`
 - `Graham Robert Scott`
@@ -194,6 +195,7 @@
 | `Ed Greenwood` | `Эд Гринвуд` |
 | `Erik Scott de Bie` | `Erik Scott de Bie` |
 | `Erin D. Smale` | `Erin D. Smale` |
+| `Erin M. Evans` | `Erin M. Evans` |
 | `Flutes` | `Flutes` |
 | `Forlorn Encystment` | `Forlorn Encystment` |
 | `Graham Robert Scott` | `Graham Robert Scott` |

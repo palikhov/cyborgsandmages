@@ -983,6 +983,10 @@
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-iv.mdx`
 
+## <http://rleebyers.livejournal.com>
+
+- `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
+
 ## <http://roleplayingtips.com/readissue.php?number=156>
 
 - `src/content/posts/translations/alexandrian-five-node-mystery.mdx`
@@ -1026,6 +1030,10 @@
 ## <http://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <http://slushlush.com/books-stories>
+
+- `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
 
 ## <http://slyflourish.com/2016_dm_survey_results.html>
 
@@ -1188,6 +1196,10 @@
 ## <http://www.amazon.com/Advanced-Dungeons-Dragons-Edition-Accessory/dp/1560762357/ref=pd_sim_14_2?ie=UTF8&refRID=05CVAGYD84X9TECK6DYH>
 
 - `src/content/posts/translations/tribality-psionics-part-three.mdx`
+
+## <http://www.amazon.com/Ashes-Tyrant-Erin-M-Evans/dp/0786965738>
+
+- `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
 
 ## <http://www.amazon.com/Captain-Alatriste-Arturo-Perez-Reverte/dp/B000GFR9O4>
 
@@ -1990,6 +2002,14 @@
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
+
+## <http://www.barnesandnoble.com/w/ashes-of-the-tyrant-erin-m-evans/1121116651?ean=9780786965731>
+
+- `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
+
+## <http://www.barnesandnoble.com/w/fire-in-the-blood-erin-m-evans/1117655172?ean=9780786965298>
+
+- `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
 
 ## <http://www.batintheattic.com>
 
@@ -3916,6 +3936,10 @@
 ## <https://dnd.wizards.com/articles/features/dratalk_nijkamp>
 
 - `src/content/posts/translations/dmdavid-rules-varied-groups-of-heroes.mdx`
+
+## <https://dnd.wizards.com/articles/news/rageofdemons>
+
+- `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
 
 ## <https://docs.google.com/spreadsheets/d/1ofuzHPMbQP31FZ5RWsIezE9dFGUlzmBbeZqM7pr8ruc/edit?usp=sharing>
 
