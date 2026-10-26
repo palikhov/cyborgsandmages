@@ -2234,6 +2234,14 @@
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
 
+## <http://www.dandwiki.com/wiki/SRD:Animal_Type>
+
+- `src/content/posts/translations/alexandrian-design-notes-war-trained.mdx`
+
+## <http://www.dandwiki.com/wiki/SRD:Magical_Beast_Type>
+
+- `src/content/posts/translations/alexandrian-design-notes-war-trained.mdx`
+
 ## <http://www.dragonsfoot.org/forums/viewtopic.php?t=18710&postdays=0&postorder=asc&start=35>
 
 - `src/content/posts/translations/melan-dungeon-mapping.mdx`
@@ -2451,6 +2459,14 @@
 ## <http://www.lotfp.com/store/index.php?route=product/product&product_id=262>
 
 - `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
+
+## <http://www.lulu.com/content/1141723>
+
+- `src/content/posts/translations/alexandrian-design-notes-war-trained.mdx`
+
+## <http://www.lulu.com/content/1142087>
+
+- `src/content/posts/translations/alexandrian-design-notes-war-trained.mdx`
 
 ## <http://www.lulu.com/spotlight/FightOn>
 
@@ -2674,6 +2690,10 @@
 ## <http://www.rpgnow.com/product_info.php?products_id=27955&it=1&filters=0_0_0&manufacturers_id=2142>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
+
+## <http://www.rpgnow.com/product_info.php?products_id=50199&filters=0_0_0&manufacturers_id=2142>
+
+- `src/content/posts/translations/alexandrian-design-notes-war-trained.mdx`
 
 ## <http://www.shamusyoung.com/twentysidedtale?p=1010>
 
@@ -6133,6 +6153,10 @@
 
 - `src/content/posts/translations/tribality-shair-class-part-two.mdx`
 
+## <https://en.wikipedia.org/wiki/The_Thirty-Six_Dramatic_Situations>
+
+- `src/content/posts/translations/gnomestew-as-your-table-ages.mdx`
+
 ## <https://en.wikipedia.org/wiki/The_Three_Musketeers>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -6421,6 +6445,18 @@
 ## <https://geekdad.com/2014/12/5e-dungeon-masters-guide-1>
 
 - `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
+
+## <https://gnomestew.com/adding-safety-tools>
+
+- `src/content/posts/translations/gnomestew-7-tips-better-ttrpg-player.mdx`
+
+## <https://gnomestew.com/roles-for-social-encounters>
+
+- `src/content/posts/translations/gnomestew-7-tips-better-ttrpg-player.mdx`
+
+## <https://gnomestew.com/whats-in-my-session-zero-toolbox>
+
+- `src/content/posts/translations/gnomestew-7-tips-better-ttrpg-player.mdx`
 
 ## <https://goblinpunch.blogspot.com/2014/09/false-hydra.html>
 
@@ -7336,9 +7372,17 @@
 - `src/content/posts/translations/alexandrian-managing-prep-load.mdx`
 - `src/content/posts/translations/alexandrian-types-of-dungeons.mdx`
 
+## <https://thealexandrian.net/wordpress/1017/roleplaying-games/optional-death-and-dying>
+
+- `src/content/posts/translations/alexandrian-untested-super-simple-ability-score-damage.mdx`
+
 ## <https://thealexandrian.net/wordpress/1047/roleplaying-games/super-simple-grappling>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-5-not-knowing-the-rules.mdx`
+
+## <https://thealexandrian.net/wordpress/1140/roleplaying-games/save-or-die-effects>
+
+- `src/content/posts/translations/alexandrian-untested-super-simple-ability-score-damage.mdx`
 
 ## <https://thealexandrian.net/wordpress/11940/roleplaying-games/technoir-and-pvp>
 
@@ -7670,6 +7714,10 @@
 ## <https://thealexandrian.net/wordpress/39430/roleplaying-games/art-of-rulings-14-group-actions>
 
 - `src/content/posts/translations/alexandrian-dogpiling-the-check.mdx`
+
+## <https://thealexandrian.net/wordpress/3959/roleplaying-games/thought-of-the-day-the-shock-of-polymorph>
+
+- `src/content/posts/translations/alexandrian-untested-super-simple-ability-score-damage.mdx`
 
 ## <https://thealexandrian.net/wordpress/39651/roleplaying-games/rulings-in-practice-gathering-information>
 
@@ -9815,6 +9863,10 @@
 ## <https://www.drivethrurpg.com/en>
 
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
+
+## <https://www.drivethrurpg.com/en/product/103654/never-unprepared-the-complete-game-master-s-guide-to-session-prep>
+
+- `src/content/posts/translations/gnomestew-as-your-table-ages.mdx`
 
 ## <https://www.drivethrurpg.com/en/product/114903/fate-core-system?affiliate_id=8278>
 

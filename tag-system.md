@@ -64,6 +64,7 @@
 - `Bradford C. Walker`
 - `Brandes Stoddard`
 - `Bret Devereaux`
+- `Brittany Ferrendi`
 - `Bruce Heard`
 - `C. Stapleford`
 - `Charles Ryan`
@@ -107,6 +108,7 @@
 - `Lordmatteus`
 - `lorekeeper0`
 - `M.T.Black`
+- `Magician`
 - `Mark A. Hart`
 - `Melan`
 - `Michael "Chgowiz" Shorten`
@@ -120,6 +122,7 @@
 - `Orkish Odyssey`
 - `Patchwork Paladin`
 - `Phenomen`
+- `Phil Vecchione`
 - `Raven Crowking`
 - `Ravenswing`
 - `Riley Silverman`
@@ -170,6 +173,7 @@
 | `Bradford C. Walker` | `Bradford C. Walker` |
 | `Brandes Stoddard` | `Brandes Stoddard` |
 | `Bret Devereaux` | `Bret Devereaux` |
+| `Brittany Ferrendi` | `Brittany Ferrendi` |
 | `Bruce Heard` | `Bruce Heard` |
 | `C. Stapleford` | `C. Stapleford` |
 | `Charles Ryan` | `Charles Ryan` |
@@ -217,6 +221,7 @@
 | `Lordmatteus` | `Lordmatteus` |
 | `lorekeeper0` | `lorekeeper0` |
 | `M.T.Black` | `M.T.Black` |
+| `Magician` | `Magician` |
 | `Mark A. Hart` | `Mark A. Hart` |
 | `Melan` | `Melan` |
 | `Michael "Chgowiz" Shorten` | `Michael "Chgowiz" Shorten` |
@@ -231,6 +236,7 @@
 | `Orkish Odyssey` | `Orkish Odyssey` |
 | `Patchwork Paladin` | `Patchwork Paladin` |
 | `Phenomen` | `Phenomen` |
+| `Phil Vecchione` | `Phil Vecchione` |
 | `Raven Crowking` | `Raven Crowking` |
 | `Ravenswing` | `Ravenswing` |
 | `Riley Silverman` | `Riley Silverman` |
