@@ -6376,6 +6376,10 @@
 
 - `src/content/posts/translations/how-much-combat-is-in-dd.mdx`
 
+## <https://erinmevans.com/books>
+
+- `src/content/posts/translations/slushlush-lonely-planet-vayemniri-more-draconic.mdx`
+
 ## <https://evernote.com>
 
 - `src/content/posts/translations/creighton-gm-advice-4-reasons-you-should-have-a-copy-of-your-pcs-sheets.mdx`
@@ -9008,6 +9012,7 @@
 
 ## <https://www.amazon.com/Ashes-Tyrant-Erin-M-Evans/dp/0786965738>
 
+- `src/content/posts/translations/slushlush-lonely-planet-vayemniri-more-draconic.mdx`
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-2.mdx`
 
