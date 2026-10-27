@@ -4014,6 +4014,7 @@
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
 - `src/content/posts/translations/deep-dive-the-warforged.mdx`
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-3.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-druid-class>
 
@@ -4025,6 +4026,8 @@
 - `src/content/posts/translations/deep-dive-red-wizards-of-thay.mdx`
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-2.mdx`
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-3.mdx`
 - `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-history-of-bigby>
@@ -4044,6 +4047,7 @@
 
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-3.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-the-cockatrice>
 
@@ -4071,12 +4075,19 @@
 
 ## <https://dumpstatadventures.com/blog/deep-dive-the-gnoll>
 
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-3.mdx`
 - `src/content/posts/translations/dumpstat-tactics-surprise.mdx`
+
+## <https://dumpstatadventures.com/blog/deep-dive-the-hell-hound>
+
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-3.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-the-kobold>
 
 - `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-2.mdx`
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-3.mdx`
 - `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring.mdx`
 - `src/content/posts/translations/dumpstat-tactics-outside-the-box.mdx`
 
@@ -4088,6 +4099,7 @@
 
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
 - `src/content/posts/translations/deep-dive-the-wight.mdx`
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-3.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-the-lizardfolk>
 
@@ -4121,12 +4133,14 @@
 ## <https://dumpstatadventures.com/blog/deep-dive-warlock-class>
 
 - `src/content/posts/translations/deep-dive-the-wight.mdx`
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-3.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-wizard-class>
 
 - `src/content/posts/translations/deep-dive-cleric-class.mdx`
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
 - `src/content/posts/translations/deep-dive-the-wight.mdx`
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-3.mdx`
 - `src/content/posts/translations/dumpstat-deep-dive-ranger-class.mdx`
 - `src/content/posts/translations/dumpstat-deep-dive-rogue-class.mdx`
 - `src/content/posts/translations/dumpstat-deep-dive-the-shield-guardian.mdx`
@@ -4138,6 +4152,10 @@
 ## <https://dumpstatadventures.com/the-gm-is-always-right/10-reasons-why-you-might-join-a-cult>
 
 - `src/content/posts/translations/deep-dive-the-warforged.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/2019/1/7/making-travel-worth-it>
+
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-2.mdx`
 
 ## <https://dumpstatadventures.com/the-gm-is-always-right/cult-boons-homebrew>
 
