@@ -1157,10 +1157,6 @@
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
 
-## <http://udan-adan.blogspot.com/2016/11/conceptual-density-or-what-are-rpg.html>
-
-- `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
-
 ## <http://udan-adan.blogspot.com/2017/01/the-long-haul-time-and-distance-in-d.html>
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
@@ -3988,6 +3984,10 @@
 
 - `src/content/posts/translations/dumpstat-tactics-outside-the-box.mdx`
 
+## <https://dumpstatadventures.com/a-players-perspective/uses-for-all-that-equipment>
+
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring.mdx`
+
 ## <https://dumpstatadventures.com/a-players-perspective/war-mounts>
 
 - `src/content/posts/translations/dumpstat-tactics-outside-the-box.mdx`
@@ -4025,6 +4025,7 @@
 - `src/content/posts/translations/deep-dive-red-wizards-of-thay.mdx`
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-1.mdx`
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-history-of-bigby>
 
@@ -4076,6 +4077,7 @@
 
 - `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring.mdx`
 - `src/content/posts/translations/dumpstat-tactics-outside-the-box.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-the-kraken>
@@ -4094,6 +4096,7 @@
 ## <https://dumpstatadventures.com/blog/deep-dive-the-mind-flayer>
 
 - `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
+- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring.mdx`
 
 ## <https://dumpstatadventures.com/blog/deep-dive-the-owlbear>
 
@@ -7145,6 +7148,10 @@
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
 
+## <https://save.vs.totalpartykill.ca/grab-bag/wastes>
+
+- `src/content/posts/translations/silverarmpress-a-web-of-hooks.mdx`
+
 ## <https://scrollforinitiative.com/2021/02/08/how-medieval-is-dd>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
@@ -7160,6 +7167,10 @@
 ## <https://shopthesquirrel.com/product/gaming-paper-clear-dry-erase-tiles-1-grid-pattern>
 
 - `src/content/posts/translations/dmdavid-multi-level-battles-extraordinary.mdx`
+
+## <https://silverarmpress.com/better-side-quests>
+
+- `src/content/posts/translations/silverarmpress-a-web-of-hooks.mdx`
 
 ## <https://simple.wikipedia.org/wiki/List_of_U.S._states_by_population_density>
 
@@ -7462,6 +7473,10 @@
 ## <https://thealexandrian.net/wordpress/1248/roleplaying-games/re-running-the-megadungeon-part-2-restocking-the-dungeon>
 
 - `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
+
+## <https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon>
+
+- `src/content/posts/translations/silverarmpress-a-web-of-hooks.mdx`
 
 ## <https://thealexandrian.net/wordpress/13103/roleplaying-games/xandering-the-dungeon-part-2-xandering-techniques>
 
@@ -8725,6 +8740,11 @@
 ## <https://twitter.com/xv40rds>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
+
+## <https://udan-adan.blogspot.com/2016/11/conceptual-density-or-what-are-rpg.html>
+
+- `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
+- `src/content/posts/translations/silverarmpress-a-web-of-hooks.mdx`
 
 ## <https://uh.edu/~cldue/texts/demeter.html>
 
@@ -10017,6 +10037,10 @@
 ## <https://www.drivethrurpg.com/product/2956/Race-Creation-Cookbook>
 
 - `src/content/posts/translations/tribality-fighter-class-part-four.mdx`
+
+## <https://www.drivethrurpg.com/product/307320/The-Halls-of-Arden-Vul-Complete>
+
+- `src/content/posts/translations/silverarmpress-a-web-of-hooks.mdx`
 
 ## <https://www.drivethrurpg.com/product/308497/Arcana-of-the-Ancients?affiliate_id=81207>
 

@@ -119,6 +119,7 @@
 - `Monte Cook`
 - `Murkdice`
 - `Necropraxis`
+- `Nick`
 - `Odd Skull`
 - `Old Dungeon Master`
 - `Opal`
@@ -237,6 +238,7 @@
 | `Monte Cook` | `Monte Cook` |
 | `Murkdice` | `Murkdice` |
 | `Necropraxis` | `Necropraxis` |
+| `Nick` | `Nick` |
 | `Odd Skull` | `Odd Skull` |
 | `Old Dungeon Master` | `Old Dungeon Master` |
 | `Opal` | `Opal` |
