@@ -3576,6 +3576,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
 
+## <https://comicbook.com/gaming/2019/05/20/dungeons-and-dragons-eberron-hardcover-2019>
+
+- `src/content/posts/translations/tribality-artificer-class-part-one.mdx`
+
 ## <https://commons.wikimedia.org/w/index.php?curid=7992355>
 
 - `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
@@ -5236,6 +5240,10 @@
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
 
+## <https://en.wikipedia.org/wiki/Hoist_with_his_own_petard>
+
+- `src/content/posts/translations/tribality-artificer-class-part-zero.mdx`
+
 ## <https://en.wikipedia.org/wiki/Honours_of_war>
 
 - `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
@@ -5459,6 +5467,10 @@
 ## <https://en.wikipedia.org/wiki/Mamluk>
 
 - `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://en.wikipedia.org/wiki/Mandarin_(comics)>
+
+- `src/content/posts/translations/tribality-artificer-class-part-two.mdx`
 
 ## <https://en.wikipedia.org/wiki/Manorialism>
 
@@ -10604,6 +10616,10 @@
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 
+## <https://www.tribality.com/2017/01/09/unearthed-arcana-artificer-breakdown>
+
+- `src/content/posts/translations/tribality-artificer-class-part-one.mdx`
+
 ## <https://www.tribality.com/2017/11/29/xanathars-guide-breakdown-part-two>
 
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
@@ -10611,6 +10627,15 @@
 ## <https://www.tribality.com/2017/11/30/alternative-death-resurrection-systems-5e>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.tribality.com/2019/03/03/unearthed-arcana-artificer-breakdown-part-two>
+
+- `src/content/posts/translations/tribality-artificer-class-part-one.mdx`
+
+## <https://www.tribality.com/2019/05/15/unearthed-arcana-the-artificer-returns-breakdown>
+
+- `src/content/posts/translations/tribality-artificer-class-part-one.mdx`
+- `src/content/posts/translations/tribality-artificer-class-part-two.mdx`
 
 ## <https://www.usf.edu/arts-sciences/departments/world-languages/about-us/hedrick.aspx>
 
