@@ -595,6 +595,10 @@
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-two.mdx`
 
+## <http://forums.na.leagueoflegends.com/board/showthread.php?t=1910796>
+
+- `src/content/posts/translations/tribality-monk-class-part-two.mdx`
+
 ## <http://gallica.bnf.fr/ark:/12148/bpt6k95366s/f65.item>
 
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
@@ -654,6 +658,10 @@
 ## <http://grognardia.blogspot.com/2008/04/on-oracular-power-of-dice.html>
 
 - `src/content/posts/translations/dmdavid-role-of-die-roll-love-letter.mdx`
+
+## <http://grognardia.blogspot.com/2008/09/interview-tim-kask-part-i.html>
+
+- `src/content/posts/translations/tribality-monk-class-part-one.mdx`
 
 ## <http://grognardia.blogspot.com/2009/04/interview-with-lee-gold.html>
 
@@ -1027,6 +1035,10 @@
 
 - `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
 
+## <http://site.pelgranepress.com/index.php/13-true-ways>
+
+- `src/content/posts/translations/tribality-monk-class-part-six.mdx`
+
 ## <http://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
@@ -1176,6 +1188,10 @@
 ## <http://wiktenauer.com/wiki/Paulus_Hector_Mair>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+
+## <http://www.13thagesrd.com/classes/monk>
+
+- `src/content/posts/translations/tribality-monk-class-part-six.mdx`
 
 ## <http://www.aedificium.org>
 
@@ -2059,9 +2075,17 @@
 
 - `src/content/posts/translations/brandes-warrior-orders-and-maneuvers.mdx`
 
+## <http://www.brandesstoddard.com/2016/09/dd-5e-way-of-lost-souls-monastic-tradition>
+
+- `src/content/posts/translations/tribality-monk-class-part-nine.mdx`
+
 ## <http://www.brandesstoddard.com/2016/12/dd-5e-alternate-threat-tracks>
 
 - `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
+
+## <http://www.brandesstoddard.com/2016/12/dd-5e-way-of-the-silver-chain-monastic-tradition>
+
+- `src/content/posts/translations/tribality-monk-class-part-nine.mdx`
 
 ## <http://www.britainirelandcastles.com/map/England.html>
 
@@ -2206,6 +2230,10 @@
 
 - `src/content/posts/translations/angrygm-gaming-for-fun-eight-kinds.mdx`
 
+## <http://www.d20pfsrd.com/classes/unchained-classes/monk-unchained>
+
+- `src/content/posts/translations/tribality-monk-class-part-four.mdx`
+
 ## <http://www.d20pfsrd.com/gamemastering/other-rules/settlements>
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
@@ -2253,6 +2281,10 @@
 ## <http://www.dandwiki.com/wiki/SRD:Magical_Beast_Type>
 
 - `src/content/posts/translations/alexandrian-design-notes-war-trained.mdx`
+
+## <http://www.dmsguild.com/product/17172/ODD-Supplement-II-Blackmoor-0e>
+
+- `src/content/posts/translations/tribality-monk-class-part-one.mdx`
 
 ## <http://www.dragonsfoot.org/forums/viewtopic.php?t=18710&postdays=0&postorder=asc&start=35>
 
@@ -2748,9 +2780,17 @@
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
-## <http://www.tribality.com/2017/06/29/the-monk-class-part-eight>
+## <http://www.tribality.com/2016/12/13/unearthed-arcana-monastic-traditions-breakdown>
 
-- `src/content/posts/translations/tribality-hit-points-dying-and-death.mdx`
+- `src/content/posts/translations/tribality-monk-class-part-nine.mdx`
+
+## <http://www.tribality.com/2017/03/28/ua-a-trio-of-subclasses-breakdown>
+
+- `src/content/posts/translations/tribality-monk-class-part-seven.mdx`
+
+## <http://www.tribality.com/2017/05/02/ua-revised-subclasses-breakdown>
+
+- `src/content/posts/translations/tribality-monk-class-part-nine.mdx`
 
 ## <http://www.wealthdaily.com/articles/weekend-editon-europes-trillion-money-drop/2486>
 
@@ -2775,6 +2815,10 @@
 ## <http://www.wizards.com/dnd/files/CC_Warlord.pdf>
 
 - `src/content/posts/translations/tribality-warlord-class-part-three.mdx`
+
+## <http://www.wizards.com/dnd/files/Mahasarpa.pdf>
+
+- `src/content/posts/translations/tribality-monk-class-part-eight.mdx`
 
 ## <http://www.wolflair.com/hero_lab>
 
@@ -9974,6 +10018,10 @@
 
 - `src/content/posts/translations/angrygm-start-a-campaign-1-introduction.mdx`
 
+## <https://www.drivethrurpg.com/browse/pub/8564/Tribality-Publishing>
+
+- `src/content/posts/translations/tribality-monk-class-part-six.mdx`
+
 ## <https://www.drivethrurpg.com/browse/pub/9/Malhavoc-Press>
 
 - `src/content/posts/translations/tribality-fighter-class-part-eight.mdx`
@@ -10634,10 +10682,6 @@
 - `src/content/posts/translations/tribality-artificer-class-part-one.mdx`
 - `src/content/posts/translations/tribality-artificer-class-part-seven.mdx`
 
-## <https://www.tribality.com/2017/06/15/the-monk-class-part-seven>
-
-- `src/content/posts/translations/tribality-artificer-class-part-six.mdx`
-
 ## <https://www.tribality.com/2017/11/29/xanathars-guide-breakdown-part-two>
 
 - `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
@@ -10779,6 +10823,10 @@
 ## <https://www.youtube.com/watch?v=3mJFjNu51IQ>
 
 - `src/content/posts/translations/alexandrian-roleplaying-initiative.mdx`
+
+## <https://www.youtube.com/watch?v=3v75mJZwqlM>
+
+- `src/content/posts/translations/tribality-monk-class-part-seven.mdx`
 
 ## <https://www.youtube.com/watch?v=42NDuagLd4k>
 
