@@ -9765,6 +9765,10 @@
 
 - `src/content/posts/translations/creighton-gygax-on-tracking-time-in-campaign.mdx`
 
+## <https://www.d20pfsrd.com/classes/base-classes/alchemist>
+
+- `src/content/posts/translations/tribality-artificer-class-part-six.mdx`
+
 ## <https://www.d20pfsrd.com/classes/hybrid-classes/skald>
 
 - `src/content/posts/translations/tribality-warlord-class-part-two.mdx`
@@ -10021,6 +10025,11 @@
 ## <https://www.drivethrurpg.com/product/140761/Castle-of-the-Mad-Archmage-OSR-Edition-Digital--Print-Bundle-BUNDLE?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-re-running-the-megadungeon.mdx`
+
+## <https://www.drivethrurpg.com/product/177767/Alchemist-5E>
+
+- `src/content/posts/translations/tribality-artificer-class-part-five.mdx`
+- `src/content/posts/translations/tribality-artificer-class-part-six.mdx`
 
 ## <https://www.drivethrurpg.com/product/194344/Apocalypse-World-2nd-Ed?affiliate_id=81207>
 
@@ -10424,6 +10433,10 @@
 
 - `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 
+## <https://www.recoregame.com>
+
+- `src/content/posts/translations/tribality-artificer-class-part-seven.mdx`
+
 ## <https://www.reddit.com/r/AskHistorians/comments/1j6ssm/are_there_any_indications_of_combat_ptsd_in/cbbvfib>
 
 - `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
@@ -10619,6 +10632,11 @@
 ## <https://www.tribality.com/2017/01/09/unearthed-arcana-artificer-breakdown>
 
 - `src/content/posts/translations/tribality-artificer-class-part-one.mdx`
+- `src/content/posts/translations/tribality-artificer-class-part-seven.mdx`
+
+## <https://www.tribality.com/2017/06/15/the-monk-class-part-seven>
+
+- `src/content/posts/translations/tribality-artificer-class-part-six.mdx`
 
 ## <https://www.tribality.com/2017/11/29/xanathars-guide-breakdown-part-two>
 
@@ -10631,11 +10649,17 @@
 ## <https://www.tribality.com/2019/03/03/unearthed-arcana-artificer-breakdown-part-two>
 
 - `src/content/posts/translations/tribality-artificer-class-part-one.mdx`
+- `src/content/posts/translations/tribality-artificer-class-part-seven.mdx`
 
 ## <https://www.tribality.com/2019/05/15/unearthed-arcana-the-artificer-returns-breakdown>
 
 - `src/content/posts/translations/tribality-artificer-class-part-one.mdx`
+- `src/content/posts/translations/tribality-artificer-class-part-seven.mdx`
 - `src/content/posts/translations/tribality-artificer-class-part-two.mdx`
+
+## <https://www.tribality.com/2019/11/05/ua-class-feature-variants-breakdown-part-two>
+
+- `src/content/posts/translations/tribality-artificer-class-part-seven.mdx`
 
 ## <https://www.usf.edu/arts-sciences/departments/world-languages/about-us/hedrick.aspx>
 
