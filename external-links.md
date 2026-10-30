@@ -1121,6 +1121,10 @@
 
 - `src/content/posts/translations/tribality-psionics-part-eight.mdx`
 
+## <http://thescienceexplorer.com/brain-and-body/isolation-dark-drives-humans-brink-insanity-studies-find>
+
+- `src/content/posts/translations/dumpstat-running-a-game-in-darkness-gm-tips.mdx`
+
 ## <http://tolkiengateway.net/wiki/H%C3%A1ma>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
@@ -2499,6 +2503,10 @@
 ## <http://www.letsmakeadeal.com>
 
 - `src/content/posts/translations/dmdavid-difficult-dilemmas.mdx`
+
+## <http://www.lotfp.com/store/index.php?category_id=0&keyword=veins%20of%20the%20earth&product_id=262&route=product%2Fproduct>
+
+- `src/content/posts/translations/dumpstat-running-a-game-in-darkness-gm-tips.mdx`
 
 ## <http://www.lotfp.com/store/index.php?route=product/product&product_id=262>
 
@@ -4197,6 +4205,14 @@
 
 - `src/content/posts/translations/deep-dive-cleric-class.mdx`
 
+## <https://dumpstatadventures.com/s/TheEnvironment_v1.pdf>
+
+- `src/content/posts/translations/dumpstat-environment-surviving-the-wilds.mdx`
+
+## <https://dumpstatadventures.com/s/TravelingExploring_v1.pdf>
+
+- `src/content/posts/translations/dumpstat-exploration-homebrew-rules-for-travel.mdx`
+
 ## <https://dumpstatadventures.com/the-gm-is-always-right/10-reasons-why-you-might-join-a-cult>
 
 - `src/content/posts/translations/deep-dive-the-warforged.mdx`
@@ -4209,27 +4225,15 @@
 
 - `src/content/posts/translations/deep-dive-the-warforged.mdx`
 
-## <https://dumpstatadventures.com/the-gm-is-always-right/exploration-homebrew-rules-for-travel>
+## <https://dumpstatadventures.com/the-gm-is-always-right/homebrew-virulent-diseases>
 
-- `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
-
-## <https://dumpstatadventures.com/the-gm-is-always-right/exploring-the-wilds-gm-tips>
-
-- `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
+- `src/content/posts/translations/dumpstat-environment-surviving-the-wilds.mdx`
 
 ## <https://dumpstatadventures.com/the-gm-is-always-right/hunting-homebrew>
 
 - `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
 
 ## <https://dumpstatadventures.com/the-gm-is-always-right/making-exciting-encounters-gm-tips>
-
-- `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
-
-## <https://dumpstatadventures.com/the-gm-is-always-right/running-a-game-in-darkness-gm-tips>
-
-- `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
-
-## <https://dumpstatadventures.com/the-gm-is-always-right/the-environment-surviving-the-wilds>
 
 - `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
 
@@ -4744,6 +4748,10 @@
 ## <https://en.wikipedia.org/wiki/Cats_in_ancient_Egypt>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <https://en.wikipedia.org/wiki/Caving>
+
+- `src/content/posts/translations/dumpstat-running-a-game-in-darkness-gm-tips.mdx`
 
 ## <https://en.wikipedia.org/wiki/Celtic_languages>
 
@@ -9492,6 +9500,14 @@
 
 - `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 
+## <https://www.artpal.com/alanthompsonart?i=68284-16>
+
+- `src/content/posts/translations/dumpstat-exploring-the-wilds-gm-tips.mdx`
+
+## <https://www.artstation.com/artwork/A9ePNo>
+
+- `src/content/posts/translations/dumpstat-exploration-homebrew-rules-for-travel.mdx`
+
 ## <https://www.artstation.com/artwork/oAJDdw>
 
 - `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
@@ -10264,6 +10280,14 @@
 ## <https://www.gloamhold.com>
 
 - `src/content/posts/translations/creighton-2-campaign-prep-is-awesome.mdx`
+
+## <https://www.gmbinder.com/share/-M5vnhK3iRLjM-hplMmK>
+
+- `src/content/posts/translations/dumpstat-exploration-homebrew-rules-for-travel.mdx`
+
+## <https://www.gmbinder.com/share/-MU66Q6huMXMOvIEjutz>
+
+- `src/content/posts/translations/dumpstat-environment-surviving-the-wilds.mdx`
 
 ## <https://www.gmwordoftheweek.com/home/alchemy>
 
@@ -11085,6 +11109,10 @@
 ## <https://www.youtube.com/watch?v=jW3PFC86UNI>
 
 - `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
+
+## <https://www.youtube.com/watch?v=jiuHr5YVJBI>
+
+- `src/content/posts/translations/dumpstat-running-a-game-in-darkness-gm-tips.mdx`
 
 ## <https://www.youtube.com/watch?v=kYgSsn7b0f0>
 
