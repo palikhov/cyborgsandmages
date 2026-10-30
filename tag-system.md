@@ -89,6 +89,7 @@
 - `Harry Menear`
 - `Courtney Campbell`
 - `Iestwyn`
+- `J. Clements`
 - `Jacob Huebsch`
 - `Jay Dragon`
 - `Jeff McAleer`
@@ -206,6 +207,7 @@
 | `hackslashmaster` | `Courtney Campbell` |
 | `Harry Menear` | `Harry Menear` |
 | `Iestwyn` | `Iestwyn` |
+| `J. Clements` | `J. Clements` |
 | `Jacob Huebsch` | `Jacob Huebsch` |
 | `Jay Dragon` | `Jay Dragon` |
 | `Jeff McAleer` | `Jeff McAleer` |
