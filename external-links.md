@@ -129,6 +129,10 @@
 
 - `src/content/posts/translations/writing-your-players-guide.mdx`
 
+## <http://blog.binkystick.com/2010/04/21/spells-through-the-ages-detect-evil>
+
+- `src/content/posts/translations/delta-spells-through-ages-protection-from-evil.mdx`
+
 ## <http://blogofholding.com>
 
 - `src/content/posts/translations/tribality-rogue-class-part-one.mdx`
@@ -214,6 +218,18 @@
 - `src/content/posts/translations/alexandrian-art-of-pacing-3-filling-the-frame.mdx`
 - `src/content/posts/translations/alexandrian-evocative-descriptions.mdx`
 
+## <http://deltasdnd.blogspot.com/2009/12/gygax-on-chainmails-fantasy-scale.html>
+
+- `src/content/posts/translations/delta-review-5e-battlesystem-draft.mdx`
+
+## <http://deltasdnd.blogspot.com/2010/05/money-results.html>
+
+- `src/content/posts/translations/delta-armor-costs.mdx`
+
+## <http://deltasdnd.blogspot.com/2010/05/spells-through-ages-names.html>
+
+- `src/content/posts/translations/delta-spells-through-ages-polymorph.mdx`
+
 ## <http://deltasdnd.blogspot.com/2010/09/rules-for-exposure.html>
 
 - `src/content/posts/translations/delta-falling-revisited.mdx`
@@ -230,6 +246,10 @@
 
 - `src/content/posts/translations/delta-spells-through-ages-fireball.mdx`
 
+## <http://deltasdnd.blogspot.com/2011/09/book-of-war-core-rules.html>
+
+- `src/content/posts/translations/delta-dnd-next-battlesystem.mdx`
+
 ## <http://deltasdnd.blogspot.com/2011/09/fireball-conclusions.html>
 
 - `src/content/posts/translations/delta-spells-through-ages-fireball.mdx`
@@ -238,9 +258,71 @@
 
 - `src/content/posts/translations/delta-spells-through-ages-fireball.mdx`
 
+## <http://deltasdnd.blogspot.com/2011/09/power-of-pictures.html>
+
+- `src/content/posts/translations/delta-spells-through-ages-protection-from-evil.mdx`
+
+## <http://deltasdnd.blogspot.com/2011/11/book-of-war-heroes.html>
+
+- `src/content/posts/translations/delta-dnd-next-battlesystem.mdx`
+- `src/content/posts/translations/delta-review-5e-battlesystem-draft.mdx`
+
+## <http://deltasdnd.blogspot.com/2012/03/back-from-dead.html>
+
+- `src/content/posts/translations/delta-ghouls-through-literature.mdx`
+
+## <http://deltasdnd.blogspot.com/2012/03/wraiths-through-ages.html>
+
+- `src/content/posts/translations/delta-silver-weapons.mdx`
+
+## <http://deltasdnd.blogspot.com/2012/11/gygax-on-scale.html>
+
+- `src/content/posts/translations/delta-spells-through-ages-protection-from-evil.mdx`
+
+## <http://deltasdnd.blogspot.com/2013/04/helgacon-vi-descent-into-depths.html>
+
+- `src/content/posts/translations/delta-more-drow-tactics-module-d1.mdx`
+
+## <http://deltasdnd.blogspot.com/2013/04/more-on-gygaxs-drow.html>
+
+- `src/content/posts/translations/delta-more-drow-tactics-module-d1.mdx`
+
+## <http://deltasdnd.blogspot.com/2013/05/on-counterspells.html>
+
+- `src/content/posts/translations/delta-contra-counterspells.mdx`
+
+## <http://deltasdnd.blogspot.com/2013/05/spells-through-ages-dispel-magic.html>
+
+- `src/content/posts/translations/delta-contra-counterspells.mdx`
+
+## <http://deltasdnd.blogspot.com/2013/06/scifi-saturday-jumping-void.html>
+
+- `src/content/posts/translations/delta-scifi-saturday-asimov-hyperspace-part-1.mdx`
+- `src/content/posts/translations/delta-scifi-saturday-asimov-hyperspace-part-2.mdx`
+
+## <http://deltasdnd.blogspot.com/2014/03/oed-update-v-101.html>
+
+- `src/content/posts/translations/delta-armor-costs.mdx`
+
+## <http://deltasdnd.blogspot.com/2014/04/a-model-of-archery-for-d.html>
+
+- `src/content/posts/translations/delta-archery-field-experiment.mdx`
+
+## <http://deltasdnd.blogspot.com/2014/06/spells-through-ages-swords-spells.html>
+
+- `src/content/posts/translations/delta-dnd-next-battlesystem.mdx`
+
+## <http://deltasdnd.blogspot.com/2015/10/cat-stats.html>
+
+- `src/content/posts/translations/delta-ghouls-through-literature.mdx`
+
 ## <http://deltasdnd.blogspot.com/2020/01/subterrane-surveys-gygaxs-castle.html>
 
 - `src/content/posts/translations/delta-damn-you-gygax-part-4.mdx`
+
+## <http://deltasdnd.blogspot.com/p/primary-house-rules.html>
+
+- `src/content/posts/translations/delta-horse-carrying-capacity.mdx`
 
 ## <http://der-eisenhofer.de/2011/hex-basierte-kampagnen-teil-1>
 
@@ -388,6 +470,10 @@
 
 - `src/content/posts/translations/dmdavid-four-annoying-spells.mdx`
 
+## <http://dnd.wizards.com/articles/features/unearthed-arcana-when-armies-clash>
+
+- `src/content/posts/translations/delta-review-5e-battlesystem-draft.mdx`
+
 ## <http://dndadventurersleague.org>
 
 - `src/content/posts/translations/dmdavid-four-annoying-spells.mdx`
@@ -504,6 +590,10 @@
 - `src/content/posts/translations/alexandrian-nomenclature-dnd-editions.mdx`
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
 
+## <http://en.wikipedia.org/wiki/Ghoul>
+
+- `src/content/posts/translations/delta-ghouls-through-literature.mdx`
+
 ## <http://en.wikipedia.org/wiki/Handwaving>
 
 - `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
@@ -516,9 +606,25 @@
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
 
+## <http://en.wikipedia.org/wiki/Hyperspace_%28science_fiction%29>
+
+- `src/content/posts/translations/delta-scifi-saturday-asimov-hyperspace-part-1.mdx`
+
 ## <http://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck>
 
 - `src/content/posts/translations/alexandrian-vile-places-of-the-earth.mdx`
+
+## <http://en.wikipedia.org/wiki/Kuru_%28disease%29>
+
+- `src/content/posts/translations/delta-ghouls-through-literature.mdx`
+
+## <http://en.wikipedia.org/wiki/Laser>
+
+- `src/content/posts/translations/delta-scifi-saturday-asimov-blasters.mdx`
+
+## <http://en.wikipedia.org/wiki/Law_and_Chaos>
+
+- `src/content/posts/translations/delta-alignment-three-hearts-three-lions.mdx`
 
 ## <http://en.wikipedia.org/wiki/Lingam>
 
@@ -547,6 +653,14 @@
 ## <http://en.wikipedia.org/wiki/Network_effect>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
+
+## <http://en.wikipedia.org/wiki/Philadelphia_experiment>
+
+- `src/content/posts/translations/delta-spells-through-ages-teleport.mdx`
+
+## <http://en.wikipedia.org/wiki/Preferred_numbers>
+
+- `src/content/posts/translations/delta-armor-costs.mdx`
 
 ## <http://en.wikipedia.org/wiki/Pun>
 
@@ -591,6 +705,14 @@
 ## <http://en.wikipedia.org/wiki/Tarpeian_Rock>
 
 - `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
+
+## <http://en.wikipedia.org/wiki/Teleportation>
+
+- `src/content/posts/translations/delta-spells-through-ages-teleport.mdx`
+
+## <http://en.wikipedia.org/wiki/Teleportation_in_fiction>
+
+- `src/content/posts/translations/delta-spells-through-ages-teleport.mdx`
 
 ## <http://en.wikipedia.org/wiki/Ten_Towns>
 
@@ -673,6 +795,10 @@
 ## <http://erenow.com/postclassical/distantmirror/9.html>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <http://faculty.goucher.edu/eng240/medieval_prices.html>
+
+- `src/content/posts/translations/delta-historical-costs-comparison.mdx`
 
 ## <http://falsemachine.blogspot.ca/2017/05/a-review-of-seeing-like-state-by-james.html>
 
@@ -825,6 +951,10 @@
 ## <http://gutenberg.net.au/ebooks06/0600771h.html>
 
 - `src/content/posts/translations/running-ruined-cities.mdx`
+
+## <http://gutenberg.net.au/ebooks06/0600981.txt>
+
+- `src/content/posts/translations/delta-ghouls-through-literature.mdx`
 
 ## <http://hackslashmaster.blogspot.co.nz/2012/06/on-set-design.html>
 
@@ -1081,6 +1211,10 @@
 
 - `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
 
+## <http://odd74.proboards.com/thread/13461/castle-occupants-venturing-out>
+
+- `src/content/posts/translations/delta-more-from-three-hearts-and-three-lions.mdx`
+
 ## <http://odd74.proboards.com/thread/786/wilderness-architect>
 
 - `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
@@ -1173,6 +1307,14 @@
 ## <http://rolltop-indigo.blogspot.com/p/an-rpg-lexicon.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <http://rpg.drivethrustuff.com/product/114133/Numenera?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
+
+## <http://rpg.drivethrustuff.com/product/27955/City-Supplement-1-Dweredell?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
 
 ## <http://rpgcharacters.wordpress.com>
 
@@ -1350,6 +1492,10 @@
 
 - `src/content/posts/translations/dmdavid-city-state-weird-questions.mdx`
 
+## <http://tvtropes.org/pmwiki/pmwiki.php/Main/TeleporterAccident>
+
+- `src/content/posts/translations/delta-spells-through-ages-teleport.mdx`
+
 ## <http://udan-adan.blogspot.com/2015/06/on-romance-in-fantasy-rpgs.html>
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
@@ -1361,6 +1507,14 @@
 ## <http://udan-adan.blogspot.com/2021/05/meet-new-boss-some-thoughts-on-domain.html>
 
 - `src/content/posts/translations/prismaticwasteland-keep-borderlands-full-of-lies.mdx`
+
+## <http://web.archive.org/web/20060223104632/http://www.wizards.com/default.asp?x=dnd/dd/20060216a>
+
+- `src/content/posts/translations/delta-spells-through-ages-polymorph.mdx`
+
+## <http://web.archive.org/web/20081203121933/http://www.wizards.com/default.asp?x=dnd/er/20040125a>
+
+- `src/content/posts/translations/delta-spells-through-ages-polymorph.mdx`
 
 ## <http://web.mac.com/rsdancey/iWeb/RSDanceyBlog/Blog/Blog.html>
 
@@ -1386,6 +1540,10 @@
 
 - `src/content/posts/translations/alexandrian-reflection-on-gnomes.mdx`
 
+## <http://wizards.com/dnd/Article.aspx?x=dnd/4ll/20140428>
+
+- `src/content/posts/translations/delta-dnd-next-battlesystem.mdx`
+
 ## <http://www.13thagesrd.com/classes/monk>
 
 - `src/content/posts/translations/tribality-monk-class-part-six.mdx`
@@ -1405,6 +1563,10 @@
 ## <http://www.aedificium.org/Maps/Serlby.gif>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xiii.mdx`
+
+## <http://www.aemma.org/misc/medievalprices.html>
+
+- `src/content/posts/translations/delta-armor-costs.mdx`
 
 ## <http://www.amazon.com/Advanced-Dungeons-Dragons-Complete-Humanoids/dp/1560766115>
 
@@ -1783,6 +1945,7 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
 - `src/content/posts/translations/alexandrian-rewind-your-timeline.mdx`
 - `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
+- `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/098458353X/digitalcomi0a-20>
 
@@ -1961,6 +2124,7 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1887801960/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx`
+- `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1896776329/digitalcomi0a-20>
 
@@ -2393,6 +2557,10 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
 
+## <http://www.arl.army.mil/arlreports/2013/ARL-TR-6494.pdf>
+
+- `src/content/posts/translations/delta-ballistae-and-bell-curves.mdx`
+
 ## <http://www.atarn.org/chinese/Yanghai/Scythian_bow_ATARN.pdf>
 
 - `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
@@ -2663,6 +2831,10 @@
 
 - `src/content/posts/translations/alexandrian-save-or-die-effects.mdx`
 
+## <http://www.d20srd.org/srd/spells/alterSelf.htm>
+
+- `src/content/posts/translations/delta-spells-through-ages-polymorph.mdx`
+
 ## <http://www.d20srd.org/srd/spells/fingerOfDeath.htm>
 
 - `src/content/posts/translations/alexandrian-save-or-die-effects.mdx`
@@ -2735,6 +2907,10 @@
 
 - `src/content/posts/translations/creighton-dragon-and-the-thief.mdx`
 
+## <http://www.drivethrurpg.com/product/120025/The-Devils-Spine?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
+
 ## <http://www.drivethrurpg.com/product/231550/Infinity-Quantronic-Heat?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-3-mcguffin-keep-away.mdx`
@@ -2786,6 +2962,10 @@
 ## <http://www.enworld.org/showthread.php?t=168563>
 
 - `src/content/posts/translations/melan-dungeon-mapping.mdx`
+
+## <http://www.erbzine.com/mag17/1787.html>
+
+- `src/content/posts/translations/delta-ghouls-through-literature.mdx`
 
 ## <http://www.fallenearth.com>
 
@@ -3004,6 +3184,10 @@
 
 - `src/content/posts/translations/alexandrian-rules-vs-rulings.mdx`
 
+## <http://www.lulu.com/shop/daniel-collins/original-edition-delta-book-of-war/paperback/product-17158134.html>
+
+- `src/content/posts/translations/delta-dnd-next-battlesystem.mdx`
+
 ## <http://www.lulu.com/spotlight/FightOn>
 
 - `src/content/posts/translations/just-three-hexes-campaign-starters.mdx`
@@ -3043,10 +3227,15 @@
 ## <http://www.modiphius.com/infinity.html>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-4-thou-shalt-not-hack.mdx`
+- `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
 
 ## <http://www.mongoosepublishing.com/rpgs/paranoia.html>
 
 - `src/content/posts/translations/dmdavid-brilliance-of-unrealistic-hit-points.mdx`
+
+## <http://www.monstropedia.org/index.php?title=Ghoul>
+
+- `src/content/posts/translations/delta-ghouls-through-literature.mdx`
 
 ## <http://www.montecook.com>
 
@@ -3203,6 +3392,10 @@
 
 - `src/content/posts/translations/creighton-gm-advice-how-to-use-weather-in-your-campaign.mdx`
 
+## <http://www.randywakeman.com/Shotgun%20Shells_and_Shotgun_Chokes_like_Laurel_and_%20Hardy.htm>
+
+- `src/content/posts/translations/delta-ballistae-and-bell-curves.mdx`
+
 ## <http://www.realultimatepower.net/index4.htm>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
@@ -3307,6 +3500,10 @@
 
 - `src/content/posts/translations/delta-spells-through-the-ages-contact-other-plane.mdx`
 
+## <http://www.superdan.net/download/blog/deltasdnd/CavalryWeightAccounting.ods>
+
+- `src/content/posts/translations/delta-horse-carrying-capacity.mdx`
+
 ## <http://www.superdan.net/download/blog/deltasdnd/ContactOtherPlane.ods>
 
 - `src/content/posts/translations/delta-spells-through-the-ages-contact-other-plane.mdx`
@@ -3315,9 +3512,17 @@
 
 - `src/content/posts/translations/delta-cursed-magic-items-through-ages.mdx`
 
+## <http://www.superdan.net/download/blog/deltasdnd/HistoricalCostsAnalysis-1.02.ods>
+
+- `src/content/posts/translations/delta-historical-costs-comparison.mdx`
+
 ## <http://www.superdan.net/download/blog/deltasdnd/MedievalDemographicsInBrief.pdf>
 
 - `src/content/posts/translations/delta-medieval-demographics-in-brief.mdx`
+
+## <http://www.superdan.net/download/blog/deltasdnd/ModuleD1-TacticalDetail.pdf>
+
+- `src/content/posts/translations/delta-more-drow-tactics-module-d1.mdx`
 
 ## <http://www.superdan.net/download/blog/deltasdnd/RecreatedCMToD%26DWeaponAdjustments.ods>
 
@@ -3428,6 +3633,14 @@
 ## <http://www.xrpshop.citymax.com/page/page/3906392.htm>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
+
+## <http://www.zombler.org/files/srd30a/spellsp.htm>
+
+- `src/content/posts/translations/delta-spells-through-ages-polymorph.mdx`
+
+## <http://www.zompist.com/psihist.html>
+
+- `src/content/posts/translations/delta-scifi-saturday-asimov-hyperspace-part-1.mdx`
 
 ## <http://www222.pair.com/sjohn/blueroom/demog.htm>
 
@@ -4365,6 +4578,10 @@
 
 - `src/content/posts/translations/delta-healing-through-ages.mdx`
 
+## <https://deltasdnd.blogspot.com/2011/02/poul-anderson-on-alignment.html>
+
+- `src/content/posts/translations/delta-more-from-three-hearts-and-three-lions.mdx`
+
 ## <https://deltasdnd.blogspot.com/2011/03/shillings-and-pounds-were-not-coins.html>
 
 - `src/content/posts/translations/delta-castle-construction-costs.mdx`
@@ -4385,6 +4602,10 @@
 
 - `src/content/posts/translations/delta-gygax-on-dungeon-design.mdx`
 
+## <https://deltasdnd.blogspot.com/2014/04/a-model-of-archery-for-d.html>
+
+- `src/content/posts/translations/delta-on-throwing-spears.mdx`
+
 ## <https://deltasdnd.blogspot.com/2014/11/previewing-book-of-spells-v2-wizard-eye.html>
 
 - `src/content/posts/translations/delta-spells-through-ages-wizard-eye.mdx`
@@ -4392,6 +4613,30 @@
 ## <https://deltasdnd.blogspot.com/2016/10/nothing-remains-interesting-if-anything.html>
 
 - `src/content/posts/translations/delta-because-dragons-bad-argument.mdx`
+
+## <https://deltasdnd.blogspot.com/2017/05/oed-wilderness-rules-draft-carrying.html>
+
+- `src/content/posts/translations/delta-horse-carrying-capacity.mdx`
+
+## <https://deltasdnd.blogspot.com/2018/01/on-support-and-upkeep.html>
+
+- `src/content/posts/translations/delta-historical-costs-comparison.mdx`
+
+## <https://deltasdnd.blogspot.com/2018/08/interpolating-man-to-man-scale-from.html>
+
+- `src/content/posts/translations/delta-on-throwing-spears.mdx`
+
+## <https://deltasdnd.blogspot.com/2018/08/lack-of-scale-considered-harmful.html>
+
+- `src/content/posts/translations/delta-more-missile-modeling.mdx`
+
+## <https://deltasdnd.blogspot.com/2018/08/teleport-traditions.html>
+
+- `src/content/posts/translations/delta-spells-through-ages-teleport.mdx`
+
+## <https://deltasdnd.blogspot.com/2019/01/oed-update-v-105.html>
+
+- `src/content/posts/translations/delta-on-throwing-spears.mdx`
 
 ## <https://deltasdnd.blogspot.com/2020/08/the-roots-of-horror.html>
 
@@ -5293,6 +5538,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
 
+## <https://en.wikipedia.org/wiki/Beast_of_G%C3%A9vaudan>
+
+- `src/content/posts/translations/delta-silver-weapons.mdx`
+
 ## <https://en.wikipedia.org/wiki/Beaumaris_Castle>
 
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
@@ -5893,6 +6142,7 @@
 ## <https://en.wikipedia.org/wiki/Groat_%28coin%29>
 
 - `src/content/posts/translations/delta-castle-construction-costs.mdx`
+- `src/content/posts/translations/delta-historical-costs-comparison.mdx`
 
 ## <https://en.wikipedia.org/wiki/Groom_(profession)>
 
@@ -6024,6 +6274,10 @@
 ## <https://en.wikipedia.org/wiki/Horae>
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
+
+## <https://en.wikipedia.org/wiki/Horses_in_the_Middle_Ages>
+
+- `src/content/posts/translations/delta-horse-carrying-capacity.mdx`
 
 ## <https://en.wikipedia.org/wiki/Housecarl>
 
@@ -6421,6 +6675,7 @@
 ## <https://en.wikipedia.org/wiki/Noble_%28English_coin%29>
 
 - `src/content/posts/translations/delta-castle-construction-costs.mdx`
+- `src/content/posts/translations/delta-historical-costs-comparison.mdx`
 
 ## <https://en.wikipedia.org/wiki/Non-commissioned_officer>
 
@@ -6745,6 +7000,10 @@
 
 - `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
 
+## <https://en.wikipedia.org/wiki/Sch%C3%B6ningen_spears>
+
+- `src/content/posts/translations/delta-on-throwing-spears.mdx`
+
 ## <https://en.wikipedia.org/wiki/Scientific_racism>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
@@ -6825,6 +7084,7 @@
 ## <https://en.wikipedia.org/wiki/Sigmoid_function>
 
 - `src/content/posts/translations/delta-falling-revisited.mdx`
+- `src/content/posts/translations/delta-more-missile-modeling.mdx`
 
 ## <https://en.wikipedia.org/wiki/Silk_Road>
 
@@ -6906,6 +7166,10 @@
 ## <https://en.wikipedia.org/wiki/Sumptuary_law>
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
+
+## <https://en.wikipedia.org/wiki/Swan_maiden>
+
+- `src/content/posts/translations/delta-more-from-three-hearts-and-three-lions.mdx`
 
 ## <https://en.wikipedia.org/wiki/Tabula_Peutingeriana>
 
@@ -7015,6 +7279,10 @@
 ## <https://en.wikipedia.org/wiki/The_Three_Musketeers>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
+
+## <https://en.wikipedia.org/wiki/The_Two_Brothers>
+
+- `src/content/posts/translations/delta-silver-weapons.mdx`
 
 ## <https://en.wikipedia.org/wiki/Thelony>
 
@@ -7317,6 +7585,11 @@
 
 - `src/content/posts/translations/gnomestew-prepping-your-game-in-obsidian.mdx`
 
+## <https://github.com/danielrcollins1/ArcherySim>
+
+- `src/content/posts/translations/delta-more-missile-modeling.mdx`
+- `src/content/posts/translations/delta-on-throwing-spears.mdx`
+
 ## <https://github.com/scambier/obsidian-omnisearch>
 
 - `src/content/posts/translations/gnomestew-prepping-your-game-in-obsidian.mdx`
@@ -7507,6 +7780,10 @@
 ## <https://lotr.fandom.com/wiki/Rammas_Echor>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
+
+## <https://lovecraftianscience.wordpress.com/tag/ghouls>
+
+- `src/content/posts/translations/delta-ghouls-through-literature.mdx`
 
 ## <https://ludusludorum.com/2014/10/21/dice-unloaded-making-mr-grip-wight-2>
 
@@ -7903,6 +8180,10 @@
 
 - `src/content/posts/translations/alexandrian-driving-past-the-dead-end.mdx`
 
+## <https://pxhere.com/en/photo/710021>
+
+- `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates.mdx`
+
 ## <https://pxhere.com/en/photo/741898>
 
 - `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
@@ -8263,6 +8544,10 @@
 
 - `src/content/posts/translations/alexandrian-campaign-status-restocking-checklists.mdx`
 
+## <https://stock.adobe.com/images/silhouettes-and-shadows-of-people-on-the-city-street-crowd-walking-down-on-sidewalk-concept-of-strangers-crime-society-gang-or-population/302851088>
+
+- `src/content/posts/translations/alexandrian-quick-npc-template.mdx`
+
 ## <https://stock.adobe.com/images/tentacle-hand-draw-on-white-background/305231670>
 
 - `src/content/posts/translations/alexandrian-forgotten-realms-kraken-society.mdx`
@@ -8354,6 +8639,8 @@
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 - `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
+- `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
+- `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
 - `src/content/posts/translations/alexandrian-prop-provenance.mdx`
 - `src/content/posts/translations/alexandrian-review-ptolus-city-of-adventure.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
@@ -8389,6 +8676,7 @@
 - `src/content/posts/translations/alexandrian-managing-prep-load.mdx`
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
 - `src/content/posts/translations/alexandrian-random-dd-tip-inverting-challenge.mdx`
+- `src/content/posts/translations/alexandrian-session-0-modules.mdx`
 - `src/content/posts/translations/alexandrian-types-of-dungeons.mdx`
 
 ## <https://thealexandrian.net/tag/tales-from-the-table>
@@ -8524,6 +8812,12 @@
 
 - `src/content/posts/translations/alexandrian-ask-12-improvising-data-trails.mdx`
 - `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
+- `src/content/posts/translations/alexandrian-quick-npc-template.mdx`
+
+## <https://thealexandrian.net/wordpress/24681/roleplaying-games/the-fifth-sepulcher-official-soundtrack>
+
+- `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
+- `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
 
 ## <https://thealexandrian.net/wordpress/2477/roleplaying-games/thinking-about-morale>
 
@@ -8570,6 +8864,10 @@
 ## <https://thealexandrian.net/wordpress/3339/roleplaying-games/untested-the-local-magic-market>
 
 - `src/content/posts/translations/alexandrian-campaign-status-event-fallout.mdx`
+
+## <https://thealexandrian.net/wordpress/33839/roleplaying-games/eclipse-phase-muse-to-your-left>
+
+- `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
 
 ## <https://thealexandrian.net/wordpress/34950/roleplaying-games/thought-of-the-day-xandering-on-the-small-scale>
 
@@ -8698,6 +8996,7 @@
 - `src/content/posts/translations/alexandrian-gming-on-a-time-limit.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 - `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
+- `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
 - `src/content/posts/translations/alexandrian-open-table-manifesto.mdx`
 - `src/content/posts/translations/alexandrian-prop-provenance.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
@@ -8715,10 +9014,12 @@
 
 ## <https://thealexandrian.net/wordpress/37422/roleplaying-games/dont-prep-plots-tools-not-contingencies>
 
+- `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates.mdx`
 - `src/content/posts/translations/alexandrian-art-of-pacing-running-awesome-scenes.mdx`
 - `src/content/posts/translations/alexandrian-ask-17-dilemma-design.mdx`
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+- `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
 
@@ -8729,18 +9030,6 @@
 ## <https://thealexandrian.net/wordpress/37873/roleplaying-games/infinity-the-roleplaying-game>
 
 - `src/content/posts/translations/alexandrian-ask-20-transferable-techniques.mdx`
-
-## <https://thealexandrian.net/wordpress/37916/roleplaying-games/universal-npc-roleplaying-template>
-
-- `src/content/posts/translations/alexandrian-ask-8-distracted-at-table.mdx`
-- `src/content/posts/translations/alexandrian-campaign-status-supporting-cast.mdx`
-- `src/content/posts/translations/alexandrian-campaign-status-trackers.mdx`
-- `src/content/posts/translations/alexandrian-description-formulas.mdx`
-- `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
-- `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
-- `src/content/posts/translations/alexandrian-spell-component-roleplaying.mdx`
-- `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
-- `src/content/posts/translations/alexandrian-while-youre-dead.mdx`
 
 ## <https://thealexandrian.net/wordpress/38047/roleplaying-games/lost-laboratories-of-arn>
 
@@ -8862,6 +9151,10 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
 - `src/content/posts/translations/alexandrian-what-were-we-doing-again.mdx`
 
+## <https://thealexandrian.net/wordpress/40081/roleplaying-games/numenera-welcome-to-the-ninth-world>
+
+- `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
+
 ## <https://thealexandrian.net/wordpress/40309/roleplaying-games/rulings-in-practice-perception-type-tests>
 
 - `src/content/posts/translations/alexandrian-ask-20-transferable-techniques.mdx`
@@ -8926,6 +9219,10 @@
 
 - `src/content/posts/translations/alexandrian-ask-2-invested-in-dragon-heist.mdx`
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+
+## <https://thealexandrian.net/wordpress/41262/roleplaying-games/thought-of-the-day-evolution-of-session-zero>
+
+- `src/content/posts/translations/alexandrian-session-0-modules.mdx`
 
 ## <https://thealexandrian.net/wordpress/41278/roleplaying-games/dragon-heist-remix-part-2-gralhund-villa>
 
@@ -9098,6 +9395,7 @@
 - `src/content/posts/translations/alexandrian-pineappling.mdx`
 - `src/content/posts/translations/alexandrian-review-ptolus-city-of-adventure.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
+- `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-3-status-quo-design.mdx`
 - `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
 - `src/content/posts/translations/alexandrian-untested-open-table-headlines.mdx`
@@ -9136,6 +9434,7 @@
 
 ## <https://thealexandrian.net/wordpress/43360/roleplaying-games/rulings-in-practice-social-skills>
 
+- `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
 - `src/content/posts/translations/alexandrian-random-dd-tip-reactions-relationships.mdx`
 
@@ -9252,6 +9551,8 @@
 ## <https://thealexandrian.net/wordpress/45149/roleplaying-games/running-the-campaign-dragon-heist-creating-the-characters>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+- `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
+- `src/content/posts/translations/alexandrian-session-0-modules.mdx`
 
 ## <https://thealexandrian.net/wordpress/45263/roleplaying-games/the-secret-life-of-nodes>
 
@@ -9297,16 +9598,25 @@
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
 - `src/content/posts/translations/alexandrian-resting-in-the-dungeon.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
+- `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
 - `src/content/posts/translations/alexandrian-whither-exploration.mdx`
 
 ## <https://thealexandrian.net/wordpress/46140/roleplaying-games/remixing-avernus-part-7-exploring-avernus>
 
 - `src/content/posts/translations/alexandrian-small-hexcrawls.mdx`
 
+## <https://thealexandrian.net/wordpress/46164/roleplaying-games/remixing-avernus-part-7b-avernian-hex-map>
+
+- `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
+
 ## <https://thealexandrian.net/wordpress/46192/roleplaying-games/5e-hexcrawl-part-5-encounters>
 
 - `src/content/posts/translations/alexandrian-campaign-status-restocking-checklists.mdx`
 - `src/content/posts/translations/alexandrian-framing-combat-encounters.mdx`
+
+## <https://thealexandrian.net/wordpress/46229/roleplaying-games/5e-hexcrawl-part-6-watch-checklists>
+
+- `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
 
 ## <https://thealexandrian.net/wordpress/46295/roleplaying-games/hexcrawl-tool-tracks>
 
@@ -9322,10 +9632,6 @@
 ## <https://thealexandrian.net/wordpress/46362/roleplaying-games/every-edition-of-dd-a-quick-history-of-the-worlds-first-roleplaying-game>
 
 - `src/content/posts/translations/alexandrian-framing-combat-encounters.mdx`
-
-## <https://thealexandrian.net/wordpress/46523/roleplaying-games/how-to-prep-a-module>
-
-- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
 ## <https://thealexandrian.net/wordpress/46541/roleplaying-games/rpgs-arent-movies>
 
@@ -9386,6 +9692,14 @@
 
 - `src/content/posts/translations/alexandrian-fun-with-vornheim.mdx`
 
+## <https://thealexandrian.net/wordpress/48051/roleplaying-games/hexcrawl-addendum-designing-the-hexcrawl>
+
+- `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
+
+## <https://thealexandrian.net/wordpress/48076/roleplaying-games/running-the-hexcrawl-example-of-play-thracian-hexcrawl>
+
+- `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
+
 ## <https://thealexandrian.net/wordpress/48130/roleplaying-games/ptolus-remix-the-mrathrach-agenda>
 
 - `src/content/posts/translations/alexandrian-campaign-status-trackers.mdx`
@@ -9393,6 +9707,10 @@
 ## <https://thealexandrian.net/wordpress/48166/roleplaying-games/quick-gm-tip-players-on-deck>
 
 - `src/content/posts/translations/alexandrian-ask-8-distracted-at-table.mdx`
+
+## <https://thealexandrian.net/wordpress/48247/roleplaying-games/the-mrathrach-agenda-part-3a-the-mrathrach-machine>
+
+- `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
 
 ## <https://thealexandrian.net/wordpress/48307/roleplaying-games/ptolus-running-the-campaign-on-the-efficacy-of-burning-oil>
 
@@ -9410,6 +9728,7 @@
 ## <https://thealexandrian.net/wordpress/4891/roleplaying-games/the-law-of-the-conservation-of-npcs>
 
 - `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
+- `src/content/posts/translations/alexandrian-quick-npc-template.mdx`
 
 ## <https://thealexandrian.net/wordpress/48995/roleplaying-games/advanced-gamemastery-cliffhangers-conclusions>
 
@@ -9435,6 +9754,7 @@
 
 - `src/content/posts/translations/alexandrian-epilogues-skipping-time.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+- `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
 
 ## <https://thealexandrian.net/wordpress/49910/roleplaying-games/review-dd-starter-set>
 
@@ -9454,10 +9774,6 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
 - `src/content/posts/translations/alexandrian-low-stakes-tests.mdx`
 - `src/content/posts/translations/alexandrian-standoffs-surprise.mdx`
-
-## <https://thealexandrian.net/wordpress/50635/roleplaying-games/quick-npc-template>
-
-- `src/content/posts/translations/alexandrian-campaign-status-trinity-toolbox.mdx`
 
 ## <https://thealexandrian.net/wordpress/50720/roleplaying-games/in-translation-dragon-heist-remix>
 
@@ -9495,13 +9811,21 @@
 
 - `src/content/posts/translations/alexandrian-campaign-status-trinity-toolbox.mdx`
 
+## <https://thealexandrian.net/wordpress/51702/roleplaying-games/the-sunless-citadel-unofficial-soundtrack>
+
+- `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
+
 ## <https://thealexandrian.net/wordpress/51864/roleplaying-games/ptolus-running-the-campaign-aftermath-of-adventure>
 
 - `src/content/posts/translations/alexandrian-ask-16-unfinished-adventures.mdx`
 
-## <https://thealexandrian.net/wordpress/52118/roleplaying-games/session-0-modules>
+## <https://thealexandrian.net/wordpress/52157/roleplaying-games/session-0-module-hunted>
 
-- `src/content/posts/translations/alexandrian-managing-prep-load.mdx`
+- `src/content/posts/translations/alexandrian-session-0-modules.mdx`
+
+## <https://thealexandrian.net/wordpress/52270/roleplaying-games/session-0-module-shared-arcs>
+
+- `src/content/posts/translations/alexandrian-session-0-modules.mdx`
 
 ## <https://thealexandrian.net/wordpress/52716/roleplaying-games/roleplaying-for-the-beginning-gm-part-2-intermediate-tips>
 
@@ -9791,6 +10115,10 @@
 
 - `src/content/posts/translations/alexandrian-resting-in-the-dungeon.mdx`
 
+## <https://thealexandrian.net?p=46535>
+
+- `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
+
 ## <https://thealexandrian.net?p=47306>
 
 - `src/content/posts/translations/alexandrian-forgotten-realms-kraken-society.mdx`
@@ -9814,6 +10142,10 @@
 ## <https://thealexandrian.net?p=50123>
 
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+
+## <https://thealexandrian.net?p=50793>
+
+- `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates.mdx`
 
 ## <https://thealexandrian.net?p=53311>
 
@@ -10104,6 +10436,10 @@
 ## <https://theangrygm.com/wp-content/uploads/Memo-to-the-Players-2-Portraying-Characters.pdf>
 
 - `src/content/posts/translations/angrygm-memo-to-the-players-2.mdx`
+
+## <https://thecoolmama.wordpress.com/2017/10/06/lost-mine-of-phandelver-remix-pt-3-npc-descriptions>
+
+- `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates.mdx`
 
 ## <https://thehitformula.com/2013/04/30/songwriting-tips-try-david-bowies-cut-up-method-of-writing-lyrics>
 
@@ -10939,6 +11275,10 @@
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-6-innkeepers.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/1589782143/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/1589782453/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-rpg-essential-reading-list.mdx`
@@ -10950,6 +11290,10 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/1613171323/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-rpg-essential-reading-list.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/1613172036/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/1638611262/digitalcomi0a-20>
 
@@ -11001,6 +11345,7 @@
 
 ## <https://www.amazon.com/exec/obidos/ASIN/1950568172/digitalcomi0a-20>
 
+- `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
 - `src/content/posts/translations/alexandrian-review-ptolus-city-of-adventure.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/B00009MGVH/digitalcomi0a-20>
@@ -11233,6 +11578,10 @@
 ## <https://www.atlas-games.com/product_tables/AG4021>
 
 - `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
+
+## <https://www.atlas-games.com/product_tables/AG4027>
+
+- `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates.mdx`
 
 ## <https://www.avclub.com/the-middle-ages-weren-t-as-sexist-as-game-of-thrones-wo-1834980838>
 
@@ -11515,6 +11864,10 @@
 
 - `src/content/posts/translations/alexandrian-forgotten-realms-arveiaturace-white-wyrm.mdx`
 
+## <https://www.cdc.gov/nchs/data/ad/ad347.pdf>
+
+- `src/content/posts/translations/delta-horse-carrying-capacity.mdx`
+
 ## <https://www.census.gov/content/dam/Census/library/publications/2012/demo/p20-566.pdf>
 
 - `src/content/posts/translations/ludus-population-engine.mdx`
@@ -11590,6 +11943,10 @@
 ## <https://www.degruyterbrill.com/document/doi/10.1515/9783110796841-005/html?lang=en>
 
 - `src/content/posts/translations/acoup-on-lighter-bows.mdx`
+
+## <https://www.desmos.com/calculator>
+
+- `src/content/posts/translations/delta-more-missile-modeling.mdx`
 
 ## <https://www.deviantart.com/art-of-josephg/art/The-Toad-that-Said-Meh-508938106>
 
@@ -12280,6 +12637,10 @@
 
 - `src/content/posts/translations/ludusludorum-old-school-magic-joseph-garcia.mdx`
 
+## <https://www.kickstarter.com/projects/modiphius/corvus-bellis-infinity-roleplaying-game>
+
+- `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
+
 ## <https://www.lastgaspgrimoire.com/in-corpathium>
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
@@ -12359,6 +12720,10 @@
 ## <https://www.nature.com/articles/s41467-025-58581-0>
 
 - `src/content/posts/translations/acoup-on-lighter-bows.mdx`
+
+## <https://www.nature.com/articles/s41598-018-37904-w>
+
+- `src/content/posts/translations/delta-on-throwing-spears.mdx`
 
 ## <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2677789>
 
@@ -12495,6 +12860,10 @@
 ## <https://www.redraggedfiend.com/practical-settlement-design-dnd>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
+## <https://www.researchgate.net/profile/Frank-Siegmund/publication/221673936_Body_Mass_and_Body_Mass_Index_estimation_in_medieval_Switzerland/links/0922b4f5a4c3f117d7000000/Body-Mass-and-Body-Mass-Index-estimation-in-medieval-Switzerland.pdf>
+
+- `src/content/posts/translations/delta-horse-carrying-capacity.mdx`
 
 ## <https://www.researchgate.net/publication/273946812_The_Invisible_Rules_of_Role-Playing_The_Social_Framework_of_Role-Playing_Process>
 
@@ -12745,6 +13114,10 @@
 
 - `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
 
+## <https://www.wolframalpha.com/input?i=line+through+%2820,+0.28%29+and+%2840,+0.73%29>
+
+- `src/content/posts/translations/delta-more-missile-modeling.mdx`
+
 ## <https://www.wonderdraft.net>
 
 - `src/content/posts/translations/angrygm-simple-campaign-region.mdx`
@@ -12776,6 +13149,10 @@
 ## <https://www.youtube.com/channel/UClOYVGj0DjerkCd8norpANQ>
 
 - `src/content/posts/translations/angrygm-a-wandering-and-a-a-wondering.mdx`
+
+## <https://www.youtube.com/live/LwUYvljTZN4?feature=share>
+
+- `src/content/posts/translations/delta-radius-or-diameter.mdx`
 
 ## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
 
@@ -12924,6 +13301,7 @@
 - `src/content/posts/translations/alexandrian-ask-5-ordering-from-gms-menu.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-12-mail-carrier-scenario-hooks.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+- `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
 
 ## <https://www.youtube.com/watch?v=EQ8J8npOnz4&t=38s>
 
@@ -13075,6 +13453,7 @@
 
 - `src/content/posts/translations/alexandrian-ask-13-military-campaigns.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
+- `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
 
 ## <https://www.youtube.com/watch?v=cbT-8BmMtVk>
 
@@ -13134,6 +13513,10 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
 - `src/content/posts/translations/alexandrian-review-ptolus-city-of-adventure.mdx`
 
+## <https://www.youtube.com/watch?v=mDpoSNmey0c&t=6s>
+
+- `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
+
 ## <https://www.youtube.com/watch?v=mZVsVQwlc9Y>
 
 - `src/content/posts/translations/alexandrian-roleplaying-initiative.mdx`
@@ -13141,6 +13524,10 @@
 ## <https://www.youtube.com/watch?v=nvU2P4q4_v4>
 
 - `src/content/posts/translations/alexandrian-history-of-the-stat-block.mdx`
+
+## <https://www.youtube.com/watch?v=oKAEjoPgv1A>
+
+- `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
 
 ## <https://www.youtube.com/watch?v=ouFHrhgbIas>
 
