@@ -4209,6 +4209,30 @@
 
 - `src/content/posts/translations/deep-dive-the-warforged.mdx`
 
+## <https://dumpstatadventures.com/the-gm-is-always-right/exploration-homebrew-rules-for-travel>
+
+- `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/exploring-the-wilds-gm-tips>
+
+- `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/hunting-homebrew>
+
+- `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/making-exciting-encounters-gm-tips>
+
+- `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/running-a-game-in-darkness-gm-tips>
+
+- `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/the-environment-surviving-the-wilds>
+
+- `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
+
 ## <https://dumpstatadventures.com/the-gm-is-always-right/the-hobbit-reviewing-appendix-n>
 
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
@@ -9467,6 +9491,10 @@
 ## <https://www.armytimes.com/news/your-army/2019/08/27/army-raises-max-re-up-bonuses-to-80k-for-certain-jobs>
 
 - `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://www.artstation.com/artwork/oAJDdw>
+
+- `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
 
 ## <https://www.artstation.com/artwork/wDWyg>
 
