@@ -1,0 +1,2699 @@
+{
+  "generatedAt": "2026-10-31T00:08:59.421Z",
+  "registry": "external-links.md",
+  "entries": [
+    {
+      "url": "http://city-of-brass.org/GeographicWondersE.pdf",
+      "refs": [
+        "src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "GeographicWondersE.pdf",
+      "bytes": 99608,
+      "sha256": "07c7ea4ab5ae4f5f0d6d26b57d73f2f8ddebfe7e43b56600fca39b83dbe768d3",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "http://city-of-brass.org/GeographicWondersE.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/GeographicWondersE.pdf",
+            "title": "Список географических чудес Telecanter (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://city-of-brass.org/Travel%20ChallengesC.pdf",
+      "refs": [
+        "src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Travel-ChallengesC.pdf",
+      "bytes": 387541,
+      "sha256": "95c1409d6005694cdd3f5ca84e9093cf65e9588dcfb4be3113a1636e272be01f",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "http://city-of-brass.org/Travel%20ChallengesC.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Travel-ChallengesC.pdf",
+            "title": "Мини-игры и испытания Telecanter для путешествий по диким землям (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://gutenberg.net.au/ebooks06/0600981.txt",
+      "refs": [
+        "src/content/posts/translations/delta-ghouls-through-literature.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "direct-with-referer: HTTP 404; https: HTTP 404; wayback: получена HTML-страница (text/html)",
+      "filename": "pg42243.txt",
+      "bytes": 439392,
+      "sha256": "63acc4c6719240f323eaa8ad55597e7b8d9ea281aa656cd1d43e31d30a4500b3",
+      "reused": false,
+      "contentType": "text/plain",
+      "finalUrl": "https://www.gutenberg.org/cache/epub/42243/pg42243.txt",
+      "recoveredBy": "manual-mirror",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-ghouls-through-literature.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/pg42243.txt",
+            "title": "«Hour of the Dragon» (TXT)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://media.wizards.com/2017/podcasts/dnd/DnDPodcast_02_02_2017.mp3",
+      "refs": [
+        "src/content/posts/translations/dmdavid-encouraging-role-playing.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "DnDPodcast_02_02_2017.mp3",
+      "bytes": 139280428,
+      "sha256": "9b15ea39903d4a7530635e707573df8dfe9186102c0f45f672823c9914afe531",
+      "reused": false,
+      "contentType": "audio/mpeg",
+      "finalUrl": "https://media.wizards.com/2017/podcasts/dnd/DnDPodcast_02_02_2017.mp3",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/dmdavid-encouraging-role-playing.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/DnDPodcast_02_02_2017.mp3",
+            "title": "официальном подкасте D&amp;D (MP3)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://microlite20.net/wp-content/uploads/2013/01/M20-campaigns.pdf",
+      "refs": [
+        "src/content/posts/translations/welsh-piper-hex-based-campaign-design-1.mdx",
+        "src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "manual-mirror: HTTP 404; direct-with-referer: получена HTML-страница (text/html); https: fetch failed; wayback: получена HTML-страница (text/html)",
+      "filename": "311250-sample.pdf",
+      "bytes": 609068,
+      "sha256": "6a3c96bc672f65b3400db22ffd86ec09d084c44bed5f9b5015d6ae48a5c3afd3",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/311250-sample.pdf",
+      "recoveredBy": "manual-mirror",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/welsh-piper-hex-based-campaign-design-1.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/311250-sample.pdf",
+            "title": "«Игра на шести гранях: магия гексов» (PDF)"
+          },
+          {
+            "ref": "src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/311250-sample.pdf",
+            "title": "«Игра на шести гранях: магия гексов» (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://rpgreview.net/files/rpgreview_39.pdf",
+      "refs": [
+        "src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "rpgreview_39.pdf",
+      "bytes": 5305104,
+      "sha256": "59f99434d7a6e1ee202abc4fbb1865cd28cc93ac5f64f1c3d9401f383a2801a7",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "http://rpgreview.net/files/rpgreview_39.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/rpgreview_39.pdf",
+            "title": "вспоминает (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://technoirrpg.com/index.php?page=downloads",
+      "refs": [
+        "src/content/posts/translations/alexandrian-prepping-system-cheat-sheets.mdx"
+      ],
+      "kind": "download-endpoint",
+      "status": "not-a-file",
+      "rewrite": {
+        "registryKept": true,
+        "reason": "обычная веб-страница, не прямой файл"
+      }
+    },
+    {
+      "url": "http://thegeniusinc.com/dd-monster-maker-download?ref=2.3.3",
+      "refs": [
+        "src/content/posts/translations/angrygm-monster-building-202.mdx"
+      ],
+      "kind": "download-endpoint",
+      "status": "not-a-file",
+      "rewrite": {
+        "registryKept": true,
+        "reason": "обычная веб-страница, не прямой файл"
+      }
+    },
+    {
+      "url": "http://www.arl.army.mil/arlreports/2013/ARL-TR-6494.pdf",
+      "refs": [
+        "src/content/posts/translations/delta-ballistae-and-bell-curves.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "получена HTML-страница (text/html)",
+      "filename": "ARL-TR-6494.pdf",
+      "bytes": 1454337,
+      "sha256": "e528a0ff7cf2f2046e00cd804812390a5944389bef2c5ed2179c7aea9cde2db2",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20161226182848id_/http://www.arl.army.mil/arlreports/2013/ARL-TR-6494.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20161226182848id_/http://www.arl.army.mil/arlreports/2013/ARL-TR-6494.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-ballistae-and-bell-curves.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/ARL-TR-6494.pdf",
+            "title": "ARL TR 6494 (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.atarn.org/chinese/Yanghai/Scythian_bow_ATARN.pdf",
+      "refs": [
+        "src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Scythian_bow_ATARN.pdf",
+      "bytes": 418314,
+      "sha256": "199fc3931c3381f60f49c99b6f4fcf78b7361cecd62f9767701b00def43400b6",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.atarn.org/chinese/Yanghai/Scythian_bow_ATARN.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Scythian_bow_ATARN.pdf",
+            "title": "Scythian bow ATARN (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.batintheattic.com/downloads/Fantasy%20Demographics%20Version%201.pdf",
+      "refs": [
+        "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Fantasy-Demographics-Version-1.pdf",
+      "bytes": 182685,
+      "sha256": "708d10c4993adacd1d5e1d846813ca9e0c46a3350306fa6379dc3eeca78c34c6",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.batintheattic.com/downloads/Fantasy%20Demographics%20Version%201.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Fantasy-Demographics-Version-1.pdf",
+            "title": "статью с итогами исследования и новыми расчётами (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.batintheattic.com/downloads/NPCs_Personality.zip",
+      "refs": [
+        "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "NPCs_Personality.zip",
+      "bytes": 10563,
+      "sha256": "9d77cc35cea05a7517de2f3b561bc111ada33c66b9150bae8f49d5d10ef95a77",
+      "reused": false,
+      "contentType": "application/zip",
+      "finalUrl": "https://www.batintheattic.com/downloads/NPCs_Personality.zip",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/NPCs_Personality.zip",
+            "title": "файлы можно скачать здесь (ZIP)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.batintheattic.com/downloads/Tax%20roll%20Paris%201292%20Rev%202.xls",
+      "refs": [
+        "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Tax-roll-Paris-1292-Rev-2.xls",
+      "bytes": 160768,
+      "sha256": "e065911ad20074106bd67aa43ff79e7812c29ed75a4ce07dbd388cb60b049a14",
+      "reused": false,
+      "contentType": "application/vnd.ms-excel",
+      "finalUrl": "https://www.batintheattic.com/downloads/Tax%20roll%20Paris%201292%20Rev%202.xls",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Tax-roll-Paris-1292-Rev-2.xls",
+            "title": "таблице Excel (XLS)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.cs.northwestern.edu/~hunicke/MDA.pdf",
+      "refs": [
+        "src/content/posts/translations/angrygm-gaming-for-fun-eight-kinds.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "MDA.pdf",
+      "bytes": 279913,
+      "sha256": "f024c53fde7d44d340fc34a29edb96c1524d806dd56d74449f9e33ae28251773",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://users.cs.northwestern.edu/~hunicke/MDA.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-gaming-for-fun-eight-kinds.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/MDA.pdf",
+            "title": "«MDA: формальный подход к проектированию и исследованию игр» (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.greenharbor.com/fffolder/speedtime.pdf",
+      "refs": [
+        "src/content/posts/translations/delta-falling-revisited.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "speedtime.pdf",
+      "bytes": 98338,
+      "sha256": "68fcdfab7f227f4ea1d4f5d1895e690c7956d58bbd0099a489078d89bd3a8484",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "http://www.greenharbor.com/fffolder/speedtime.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-falling-revisited.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/speedtime.pdf",
+            "title": "график Green Harbor Publications, 2010 (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.ibiblio.org/mscorbit/beta/cropland.zip",
+      "refs": [
+        "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xiii.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "cropland.zip",
+      "bytes": 20184740,
+      "sha256": "86d3cb03f14fe908e59995225bc5ca85660595308f3b2c757cc7a1bea54c2d12",
+      "reused": false,
+      "contentType": "application/zip",
+      "finalUrl": "http://www.ibiblio.org/mscorbit/beta/cropland.zip",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xiii.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/cropland.zip",
+            "title": "Скачать оба изображения можно здесь (ZIP)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.lulu.com/items/volume_63/3019000/3019374/1/print/3019374.pdf",
+      "refs": [
+        "src/content/posts/translations/alexandrian-rules-vs-rulings.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "direct-with-referer: HTTP 404; https: HTTP 404; wayback: получена HTML-страница (text/html)",
+      "filename": "3019374.pdf",
+      "bytes": 355670,
+      "sha256": "63afe6b450affc0216cd6d918064cb87d1397688af751801516c1a9801075224",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20200316005838id_/http://www.lulu.com/items/volume_63/3019000/3019374/1/print/3019374.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20200316005838id_/http://www.lulu.com/items/volume_63/3019000/3019374/1/print/3019374.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-rules-vs-rulings.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/3019374.pdf",
+            "title": "A Quick Primer for Old School Gaming (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.mchenrysoftware.com/SECCC%20Presentation.pdf",
+      "refs": [
+        "src/content/posts/translations/delta-falling-revisited.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "SECCC-Presentation.pdf",
+      "bytes": 813091,
+      "sha256": "37af3677d55d92a6813de6bb01eaab070994c47fea631c537ff8744d18766dd6",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.mchenrysoftware.com/SECCC%20Presentation.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-falling-revisited.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/SECCC-Presentation.pdf",
+            "title": "The Algorithms of CRASH (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.superdan.net/download/blog/deltasdnd/CavalryWeightAccounting.ods",
+      "refs": [
+        "src/content/posts/translations/delta-horse-carrying-capacity.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "CavalryWeightAccounting.ods",
+      "bytes": 26090,
+      "sha256": "77e8e45078126f7ffc9c6a5d0eb5cb068847ea812b8ae0536eb8bcfa4a743e77",
+      "reused": false,
+      "contentType": "application/vnd.oasis.opendocument.spreadsheet",
+      "finalUrl": "https://www.superdan.net/download/blog/deltasdnd/CavalryWeightAccounting.ods",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-horse-carrying-capacity.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/CavalryWeightAccounting.ods",
+            "title": "Здесь находится электронная таблица (ODS)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.superdan.net/download/blog/deltasdnd/ContactOtherPlane.ods",
+      "refs": [
+        "src/content/posts/translations/delta-spells-through-the-ages-contact-other-plane.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "ContactOtherPlane.ods",
+      "bytes": 12520,
+      "sha256": "04d7668b9dcebdb9ecbb063f133d92f92b2b3f1899e9a6887c8d6db5166d72d2",
+      "reused": false,
+      "contentType": "application/vnd.oasis.opendocument.spreadsheet",
+      "finalUrl": "https://www.superdan.net/download/blog/deltasdnd/ContactOtherPlane.ods",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-spells-through-the-ages-contact-other-plane.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/ContactOtherPlane.ods",
+            "title": "ContactOtherPlane (ODS)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.superdan.net/download/blog/deltasdnd/CursedMagicItemsFrequency-1.0.2.ods",
+      "refs": [
+        "src/content/posts/translations/delta-cursed-magic-items-through-ages.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "CursedMagicItemsFrequency-1.0.2.ods",
+      "bytes": 24277,
+      "sha256": "2e2d3de4deeef149fcb27b05eac9ea4e6055d713e5243212b057ef87c164e974",
+      "reused": false,
+      "contentType": "application/vnd.oasis.opendocument.spreadsheet",
+      "finalUrl": "https://www.superdan.net/download/blog/deltasdnd/CursedMagicItemsFrequency-1.0.2.ods",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-cursed-magic-items-through-ages.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/CursedMagicItemsFrequency-1.0.2.ods",
+            "title": "Здесь можно скачать рабочую таблицу с исчерпывающим перечнем всех проклятых предметов (формат ODS) (ODS)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.superdan.net/download/blog/deltasdnd/HistoricalCostsAnalysis-1.02.ods",
+      "refs": [
+        "src/content/posts/translations/delta-historical-costs-comparison.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "HistoricalCostsAnalysis-1.02.ods",
+      "bytes": 31208,
+      "sha256": "bd971b466fe9515b4af1af44949483acd8d6e3828f8c597718561559da721f85",
+      "reused": false,
+      "contentType": "application/vnd.oasis.opendocument.spreadsheet",
+      "finalUrl": "https://www.superdan.net/download/blog/deltasdnd/HistoricalCostsAnalysis-1.02.ods",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-historical-costs-comparison.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/HistoricalCostsAnalysis-1.02.ods",
+            "title": "Здесь можно скачать таблицу ODS со всеми приведёнными данными и регрессиями (ODS)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.superdan.net/download/blog/deltasdnd/MedievalDemographicsInBrief.pdf",
+      "refs": [
+        "src/content/posts/translations/delta-medieval-demographics-in-brief.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "MedievalDemographicsInBrief.pdf",
+      "bytes": 126625,
+      "sha256": "5868f3937f65d2babb91c7ddf480f4fa8d2778176e617a8bcdb910b253e03048",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.superdan.net/download/blog/deltasdnd/MedievalDemographicsInBrief.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-medieval-demographics-in-brief.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/MedievalDemographicsInBrief.pdf",
+            "title": "«Средневековая демография вкратце» — PDF (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.superdan.net/download/blog/deltasdnd/ModuleD1-TacticalDetail.pdf",
+      "refs": [
+        "src/content/posts/translations/delta-more-drow-tactics-module-d1.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "ModuleD1-TacticalDetail.pdf",
+      "bytes": 202341,
+      "sha256": "296b7529e5da354906a578c6e05a21dfb18ed5ca26e4e8e69353bb400e8a7ff2",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.superdan.net/download/blog/deltasdnd/ModuleD1-TacticalDetail.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-more-drow-tactics-module-d1.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/ModuleD1-TacticalDetail.pdf",
+            "title": "Модуль D1 для AD&amp;D — подробные тактические заметки (PDF, 200 КБ) (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.superdan.net/download/blog/deltasdnd/RecreatedCMToD%26DWeaponAdjustments.ods",
+      "refs": [
+        "src/content/posts/translations/delta-big-mistake-weapon-vs-armor.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "RecreatedCMToD-and-DWeaponAdjustments.ods",
+      "bytes": 19501,
+      "sha256": "30fbc50f3abf75c3787bf6d973ce20279296a379703933d4ed5311591ab05858",
+      "reused": false,
+      "contentType": "application/vnd.oasis.opendocument.spreadsheet",
+      "finalUrl": "https://www.superdan.net/download/blog/deltasdnd/RecreatedCMToD%26DWeaponAdjustments.ods",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-big-mistake-weapon-vs-armor.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/RecreatedCMToD-and-DWeaponAdjustments.ods",
+            "title": "Здесь можно скачать электронную таблицу с этим сравнением (ODS)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.talesofthefroggod.com/files/LairsEnhance.pdf",
+      "refs": [
+        "src/content/posts/translations/hex-basics-4-detailing-outposts-and-adventure-sites.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "direct-with-referer: получена HTML-страница (text/html); https: получена HTML-страница (text/html); wayback: получена HTML-страница (text/html)",
+      "filename": "LairsEnhance.pdf",
+      "bytes": 2005191,
+      "sha256": "ec817899bcf90bd80f5bd84042fc8539d389a555dd05bb0c268eb43dc274e461",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20130718094148id_/http://www.talesofthefroggod.com:80/files/LairsEnhance.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20130718094148id_/http://www.talesofthefroggod.com:80/files/LairsEnhance.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/hex-basics-4-detailing-outposts-and-adventure-sites.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/LairsEnhance.pdf",
+            "title": "бесплатное дополнение (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.welshpiper.com/wp-content/uploads/2009/10/hex_regional.pdf",
+      "refs": [
+        "src/content/posts/translations/hex-basics-2-getting-started.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "HTTP 404",
+      "filename": "hex_regional.pdf",
+      "bytes": 367197,
+      "sha256": "778069ffb4b9f542d2d5e719efd56cfcf5f91578feb79ac350ef359749e74a5f",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20191026045022id_/https://www.welshpiper.com/wp-content/uploads/2009/10/hex_regional.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20191026045022id_/https://www.welshpiper.com/wp-content/uploads/2009/10/hex_regional.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/hex-basics-2-getting-started.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/hex_regional.pdf",
+            "title": "hex regional (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.wizards.com/dnd/files/CC_Warlord.pdf",
+      "refs": [
+        "src/content/posts/translations/tribality-warlord-class-part-three.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "получена HTML-страница (text/html)",
+      "filename": "CC_Warlord.pdf",
+      "bytes": 754348,
+      "sha256": "d81155e169069cc45e5ce6f47b23c3178d34208419326ae6ec185f3e4deaa9b1",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20210308060156id_/http://www.wizards.com/dnd/files/CC_Warlord.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20210308060156id_/http://www.wizards.com/dnd/files/CC_Warlord.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/tribality-warlord-class-part-three.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/CC_Warlord.pdf",
+            "title": "сборка маршала для военачальника (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "http://www.wizards.com/dnd/files/Mahasarpa.pdf",
+      "refs": [
+        "src/content/posts/translations/tribality-monk-class-part-eight.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "получена HTML-страница (text/html)",
+      "filename": "Mahasarpa.pdf",
+      "bytes": 1115556,
+      "sha256": "f5f88a2f52dc15a5c7eab4538ac7bc4418eabb8ac3413ec9b31a41be40315421",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20201112042757id_/http://www.wizards.com/dnd/files/Mahasarpa.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20201112042757id_/http://www.wizards.com/dnd/files/Mahasarpa.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/tribality-monk-class-part-eight.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Mahasarpa.pdf",
+            "title": "Mahasarpa (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://annarchive.com/files/Dungeon%20Magazine%20%23088.pdf",
+      "refs": [
+        "src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "fetch failed",
+      "filename": "Dungeon-Magazine-088.pdf",
+      "bytes": 14973084,
+      "sha256": "56f3796aaf721b4b1ad5ce1d4563f704fb69279a9795b3b60a4953b18bc46000",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20250306222948id_/https://annarchive.com/files/Dungeon%20Magazine%20%23088.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20250306222948id_/https://annarchive.com/files/Dungeon%20Magazine%20%23088.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Dungeon-Magazine-088.pdf",
+            "title": "«Thirds of Purloined Vellum» (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://docs.google.com/document/d/1yLsvexWBVM8IYSGopKuSfsGk5YIgCwQWd23bqb5ryD4/pub",
+      "refs": [
+        "src/content/posts/translations/alexandrian-scenario-structure-challenge-1-raiding-death-star.mdx"
+      ],
+      "kind": "google-export",
+      "status": "downloaded",
+      "filename": "HanDuets-Guide-to-Harmys-Star-Wars-Trilogy-Despecialized-Edition.pdf",
+      "bytes": 1636975,
+      "sha256": "7b2943df8bb3c64ba3112b54cd3074d8074f9c1b037b597972c689fbcadf9036",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://doc-0c-60-docstext.googleusercontent.com/export/dr04igesal9pftlk9arelf1tq8/6jcp9mj5a0raql3lns16hgbifc/1793404950000/116434286280980031538/*/1yLsvexWBVM8IYSGopKuSfsGk5YIgCwQWd23bqb5ryD4?format=pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-scenario-structure-challenge-1-raiding-death-star.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/HanDuets-Guide-to-Harmys-Star-Wars-Trilogy-Despecialized-Edition.pdf",
+            "title": "оригинальную, неизменённую версию (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1ofuzHPMbQP31FZ5RWsIezE9dFGUlzmBbeZqM7pr8ruc/edit?usp=sharing",
+      "refs": [
+        "src/content/posts/translations/the-underclock-fixing-random-encounter.mdx"
+      ],
+      "kind": "google-export",
+      "status": "downloaded",
+      "filename": "Underworld-Roll-Math.xlsx",
+      "bytes": 8822,
+      "sha256": "a76c2562a160a1047409434bc6e50eede477bb25aaf53180df120353fc4ab4eb",
+      "reused": false,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "finalUrl": "https://doc-0k-1k-sheets.googleusercontent.com/export/3ropqptqom1b57lc45egbob1oo/6126hke2dqh3p1gmb67jnv70jk/1793404950000/107059341533698976884/*/1ofuzHPMbQP31FZ5RWsIezE9dFGUlzmBbeZqM7pr8ruc?format=xlsx",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/the-underclock-fixing-random-encounter.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Underworld-Roll-Math.xlsx",
+            "title": "численные результаты (XLSX)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://drive.google.com/file/d/0B2RlGhhWYcFtYnF0VFQ0a3hCcEU/view?usp=sharing",
+      "refs": [
+        "src/content/posts/translations/angrygm-monster-building-202.mdx"
+      ],
+      "kind": "google-drive",
+      "status": "failed",
+      "error": "direct-with-referer: HTTP 404; wayback: архивных копий не найдено"
+    },
+    {
+      "url": "https://drive.google.com/file/d/0B2RlGhhWYcFtdnJiV2ppd3YwUTg/view?usp=sharing",
+      "refs": [
+        "src/content/posts/translations/angrygm-monster-building-202.mdx"
+      ],
+      "kind": "google-drive",
+      "status": "failed",
+      "error": "direct-with-referer: HTTP 404; wayback: архивных копий не найдено"
+    },
+    {
+      "url": "https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view",
+      "refs": [
+        "src/content/posts/translations/angrygm-how-to-price-an-item.mdx",
+        "src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx"
+      ],
+      "kind": "google-drive",
+      "status": "downloaded",
+      "filename": "Sane_Magical_Prices.pdf",
+      "bytes": 1684205,
+      "sha256": "684fd5a37d27d8b6ed16d81b14da5e9f20b63f3bd880976f50f9b5dbc4654889",
+      "reused": false,
+      "contentType": "application/octet-stream",
+      "finalUrl": "https://drive.usercontent.google.com/download?id=0B8XAiXpOfz9cMWt1RTBicmpmUDg&export=download&confirm=t",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-how-to-price-an-item.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Sane_Magical_Prices.pdf",
+            "title": "списка разумных цен на магические предметы (PDF)"
+          },
+          {
+            "ref": "src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Sane_Magical_Prices.pdf",
+            "title": "списке разумных цен на магические предметы (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA",
+      "refs": [
+        "src/content/posts/translations/olddungeonmaster-settlement-item-availability.mdx"
+      ],
+      "kind": "google-drive",
+      "status": "downloaded",
+      "filename": "Sane_Magical_Prices.pdf",
+      "bytes": 1684205,
+      "sha256": "684fd5a37d27d8b6ed16d81b14da5e9f20b63f3bd880976f50f9b5dbc4654889",
+      "reused": true,
+      "contentType": "application/octet-stream",
+      "finalUrl": "https://drive.usercontent.google.com/download?id=0B8XAiXpOfz9cMWt1RTBicmpmUDg&export=download&confirm=t",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/olddungeonmaster-settlement-item-availability.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Sane_Magical_Prices.pdf",
+            "title": "SaneMagicalPrices.pdf (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://drive.google.com/file/d/0B8l15nXmXT3BSmdOaG1nRnVnbzA/view",
+      "refs": [
+        "src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx"
+      ],
+      "kind": "google-drive",
+      "status": "downloaded",
+      "filename": "CDD-4-ENCOUNTERS-Reference.pdf",
+      "bytes": 2178835,
+      "sha256": "7c557344432d4228d49f19d05aaac6a8b208d891ad31795139c7664e542ad2eb",
+      "reused": false,
+      "contentType": "application/octet-stream",
+      "finalUrl": "https://drive.usercontent.google.com/download?id=0B8l15nXmXT3BSmdOaG1nRnVnbzA&export=download&confirm=t",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/CDD-4-ENCOUNTERS-Reference.pdf",
+            "title": "CDD № 4 — Old School Encounters Reference (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://drive.google.com/file/d/0Bx9oLF40m-b8S3FDcXJiUWhZRzQ/view?usp=sharing",
+      "refs": [
+        "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xx.mdx",
+        "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxi.mdx"
+      ],
+      "kind": "google-drive",
+      "status": "failed",
+      "error": "direct-with-referer: HTTP 404; wayback: получена HTML-страница (text/html)"
+    },
+    {
+      "url": "https://drive.google.com/file/d/0BznYauJBmGDJU2d5aHhUX3V6S00/view?usp=sharing&resourcekey=0-iQpgm9F0Hq73Mv6UOejIzQ",
+      "refs": [
+        "src/content/posts/translations/procedure-for-wandering-monsters.mdx"
+      ],
+      "kind": "google-drive",
+      "status": "downloaded",
+      "error": "direct-with-referer: получена HTML-страница (text/html); wayback: получена HTML-страница (text/html)",
+      "filename": "Sample-random-encounter-table-for-Necrocarcerus.pdf",
+      "bytes": 32940,
+      "sha256": "2ad4b11c8fb0604728cd45280de1d0e15d9488f66790421afa2509169700b45d",
+      "reused": true,
+      "contentType": "application/pdf",
+      "finalUrl": "https://drive.google.com/file/d/0BznYauJBmGDJU2d5aHhUX3V6S00/view?usp=sharing&resourcekey=0-iQpgm9F0Hq73Mv6UOejIzQ",
+      "recoveredBy": "connected-google-drive",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/procedure-for-wandering-monsters.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Sample-random-encounter-table-for-Necrocarcerus.pdf",
+            "title": "Sample random encounter table for Necrocarcerus (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://drive.google.com/file/d/17KSElkPbquuP10sO_om1XAhWc0CQNWhi/view",
+      "refs": [
+        "src/content/posts/translations/forlorn-encystment-on-settlements.mdx"
+      ],
+      "kind": "google-drive",
+      "status": "downloaded",
+      "filename": "Brave-1.9-Playtest.pdf",
+      "bytes": 2662695,
+      "sha256": "560d3f2b759236f8bbcb11cf1568aab30440cd0ebcf5d8565a7d4d2d8dbfe621",
+      "reused": false,
+      "contentType": "application/octet-stream",
+      "finalUrl": "https://drive.usercontent.google.com/download?id=17KSElkPbquuP10sO_om1XAhWc0CQNWhi&export=download&confirm=t",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/forlorn-encystment-on-settlements.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Brave-1.9-Playtest.pdf",
+            "title": "Brave (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://dumpstatadventures.com/s/TheEnvironment_v1.pdf",
+      "refs": [
+        "src/content/posts/translations/dumpstat-environment-surviving-the-wilds.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "TheEnvironment_v1.pdf",
+      "bytes": 1260156,
+      "sha256": "579a0fd2832d211e9d557ae9e30d679e179412dc0bc16e4d422af67635994b07",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://static1.squarespace.com/static/5bd88db093a6320f071b1a50/t/6033bdca7dd52d12adb6def0/1614003658721/TheEnvironment_v1.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/dumpstat-environment-surviving-the-wilds.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/TheEnvironment_v1.pdf",
+            "title": "«Окружающая среда»: скачать PDF (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://dumpstatadventures.com/s/TravelingExploring_v1.pdf",
+      "refs": [
+        "src/content/posts/translations/dumpstat-exploration-homebrew-rules-for-travel.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "TravelingExploring_v1.pdf",
+      "bytes": 3539320,
+      "sha256": "3d377da531fa8341f42093cda58623d1b67fd9f0f33d6d3a13a3e556d8b337b0",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://static1.squarespace.com/static/5bd88db093a6320f071b1a50/t/5ea6dd92f93b9a23ab3502f8/1587994011868/TravelingExploring_v1.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/dumpstat-exploration-homebrew-rules-for-travel.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/TravelingExploring_v1.pdf",
+            "title": "«Путешествия и исследование»: скачать PDF (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://education.ufl.edu/gjones/files/2013/04/teachers_guidePhysics.pdf",
+      "refs": [
+        "src/content/posts/translations/delta-dnd-physics-lab-falling.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "fetch failed",
+      "filename": "teachers_guidePhysics.pdf",
+      "bytes": 1076008,
+      "sha256": "1433220cf61bbcb13b519aa0471bd19c0d84842eb1472b22f51e1be6e7978b9f",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20221207165628id_/https://education.ufl.edu/gjones/files/2013/04/teachers_guidePhysics.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20221207165628id_/https://education.ufl.edu/gjones/files/2013/04/teachers_guidePhysics.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-dnd-physics-lab-falling.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/teachers_guidePhysics.pdf",
+            "title": "«Понимание автомобильных аварий: это основы физики» (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://erikscottdebie.com/wp-content/uploads/2022/02/feats-survey.pdf",
+      "refs": [
+        "src/content/posts/translations/how-much-combat-is-in-dd.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "feats-survey.pdf",
+      "bytes": 83135,
+      "sha256": "0a9885a050cf5f3b77e5a998539890fc479913320e1dc1de61772bd29ae224d0",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://erikscottdebie.com/wp-content/uploads/2022/02/feats-survey.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/how-much-combat-is-in-dd.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/feats-survey.pdf",
+            "title": "Расчёты по чертам (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://erikscottdebie.com/wp-content/uploads/2022/02/invocation-survey.pdf",
+      "refs": [
+        "src/content/posts/translations/how-much-combat-is-in-dd.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "invocation-survey.pdf",
+      "bytes": 136248,
+      "sha256": "87b791f02ff7c37b36465c3a331a483ea8b3453858be3eecdc0b2e6368808236",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://erikscottdebie.com/wp-content/uploads/2022/02/invocation-survey.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/how-much-combat-is-in-dd.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/invocation-survey.pdf",
+            "title": "Расчёты по мистическим воззваниям (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://erikscottdebie.com/wp-content/uploads/2022/02/phb-combat-content-survey.xlsx",
+      "refs": [
+        "src/content/posts/translations/how-much-combat-is-in-dd.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "phb-combat-content-survey.xlsx",
+      "bytes": 47522,
+      "sha256": "7571a0b2300bdf9726dcca727324134a518a1a7652b43b462e6b06cb5b8de3ea",
+      "reused": false,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml",
+      "finalUrl": "https://erikscottdebie.com/wp-content/uploads/2022/02/phb-combat-content-survey.xlsx",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/how-much-combat-is-in-dd.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/phb-combat-content-survey.xlsx",
+            "title": "Расчёты боевого содержания PHB (XLSX)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://erikscottdebie.com/wp-content/uploads/2022/02/spells-survey.pdf",
+      "refs": [
+        "src/content/posts/translations/how-much-combat-is-in-dd.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "spells-survey.pdf",
+      "bytes": 243501,
+      "sha256": "42e8b1390de8789b2d591f30158a32f861f968364c16c562001f75437ea2c9de",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://erikscottdebie.com/wp-content/uploads/2022/02/spells-survey.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/how-much-combat-is-in-dd.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/spells-survey.pdf",
+            "title": "Расчёты по заклинаниям (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://friendorfoe.com/d/Old%20School%20Primer.pdf",
+      "refs": [
+        "src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "fetch failed",
+      "filename": "Old-School-Primer.pdf",
+      "bytes": 355712,
+      "sha256": "5668fce6ce1d2fcd86d9308d4eb7920409886fa6cdbf244687b827a3c19a95e4",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20260823162537id_/https://friendorfoe.com/d/Old%20School%20Primer.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20260823162537id_/https://friendorfoe.com/d/Old%20School%20Primer.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Old-School-Primer.pdf",
+            "title": "«мастерством игрока» (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://gamingballistic.com/wp-content/uploads/2018/11/Medieval-Demographics-Made-Easy-1.pdf",
+      "refs": [
+        "src/content/posts/translations/forlorn-encystment-on-settlements.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Medieval-Demographics-Made-Easy-1.pdf",
+      "bytes": 1704046,
+      "sha256": "a18fcfb735dd23477df7ab673c28bcb8f3bc29b815c720994260956195dc67da",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://gamingballistic.com/wp-content/uploads/2018/11/Medieval-Demographics-Made-Easy-1.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/forlorn-encystment-on-settlements.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Medieval-Demographics-Made-Easy-1.pdf",
+            "title": "исторической средневековой демографии (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://img.4plebs.org/boards/tg/image/1367/50/1367508742810.pdf",
+      "refs": [
+        "src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "HTTP 403",
+      "filename": "1367508742810.pdf",
+      "bytes": 2178835,
+      "sha256": "907321ec1539b1e555052d01e07086b1a83f0f6a89a2077928302e62a6b62e75",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20260427142153id_/https://img.4plebs.org/boards/tg/image/1367/50/1367508742810.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20260427142153id_/https://img.4plebs.org/boards/tg/image/1367/50/1367508742810.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/1367508742810.pdf",
+            "title": "CDD № 4 (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://ludusludorum.com/wp-content/uploads/2014/10/Class-Demographics-for-5th-Edition-The-Population-Engine.xlsx",
+      "refs": [
+        "src/content/posts/translations/ludus-population-engine.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Class-Demographics-for-5th-Edition-The-Population-Engine.xlsx",
+      "bytes": 52970,
+      "sha256": "4537e035c1e58ea4e637311618248e50bbc967c78f77150402d34442e33d7388",
+      "reused": false,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "finalUrl": "https://ludusludorum.com/wp-content/uploads/2014/10/Class-Demographics-for-5th-Edition-The-Population-Engine.xlsx",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-population-engine.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Class-Demographics-for-5th-Edition-The-Population-Engine.xlsx",
+            "title": "Вот ссылка на движок (XLSX)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://ludusludorum.com/wp-content/uploads/2014/10/Eador.pdf",
+      "refs": [
+        "src/content/posts/translations/ludus-population-engine.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Eador.pdf",
+      "bytes": 86173,
+      "sha256": "e28010be49c5071014362873a0f20faa1bb234bed0529c0d04dea70ebf97c8d1",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://ludusludorum.com/wp-content/uploads/2014/10/Eador.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-population-engine.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Eador.pdf",
+            "title": "Демографический профиль Эадора (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://ludusludorum.com/wp-content/uploads/2014/10/Kings-Reach.pdf",
+      "refs": [
+        "src/content/posts/translations/ludus-population-engine.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Kings-Reach.pdf",
+      "bytes": 86166,
+      "sha256": "96659a80be9d4ad5da5f6a81e06ee9bb79838196b221bdda6b7a0c947527660b",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://ludusludorum.com/wp-content/uploads/2014/10/Kings-Reach.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-population-engine.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Kings-Reach.pdf",
+            "title": "Демографический профиль Кингс-Рича (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://ludusludorum.com/wp-content/uploads/2014/10/Kirin-revised.pdf",
+      "refs": [
+        "src/content/posts/translations/ludus-population-engine.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Kirin-revised.pdf",
+      "bytes": 86156,
+      "sha256": "5cc0b79d91acb3dc135033b917b2bf95c141c91d75dea90ea2b53374a1022c7e",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://ludusludorum.com/wp-content/uploads/2014/10/Kirin-revised.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-population-engine.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Kirin-revised.pdf",
+            "title": "Исправленный демографический профиль Кирина (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://ludusludorum.com/wp-content/uploads/2014/10/Maficester.pdf",
+      "refs": [
+        "src/content/posts/translations/ludus-population-engine.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Maficester.pdf",
+      "bytes": 86085,
+      "sha256": "2ac455310ed18ff5eeedaa766b3c87090093268242d4a290946b9381694fb337",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://ludusludorum.com/wp-content/uploads/2014/10/Maficester.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-population-engine.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Maficester.pdf",
+            "title": "Демографический профиль Мафисестера (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://ludusludorum.com/wp-content/uploads/2014/10/Runerock.pdf",
+      "refs": [
+        "src/content/posts/translations/ludus-population-engine.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Runerock.pdf",
+      "bytes": 86221,
+      "sha256": "fef8d85e77539daf24e80c283dbb9f178de1f055393d4b4f85acc5f9dff26559",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://ludusludorum.com/wp-content/uploads/2014/10/Runerock.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-population-engine.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Runerock.pdf",
+            "title": "Демографический профиль Рунной Скалы (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://ludusludorum.com/wp-content/uploads/2014/11/eador.wav",
+      "refs": [
+        "src/content/posts/translations/ludus-population-engine.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "eador.wav",
+      "bytes": 117804,
+      "sha256": "24e088fea32128a12d83d0a7eaede77c0334e6068a4d0d2bfea2a5821344f4fc",
+      "reused": false,
+      "contentType": "audio/x-wav",
+      "finalUrl": "https://ludusludorum.com/wp-content/uploads/2014/11/eador.wav",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-population-engine.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/eador.wav",
+            "title": "«ЭЙ-а-дор» (WAV)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://ludusludorum.com/wp-content/uploads/2014/11/maficester.wav",
+      "refs": [
+        "src/content/posts/translations/ludus-population-engine.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "maficester.wav",
+      "bytes": 120364,
+      "sha256": "f068684e0cce4ae733a3036cc0dc2f7823f08c6932d50ced8ba644306bdcf804",
+      "reused": false,
+      "contentType": "audio/x-wav",
+      "finalUrl": "https://ludusludorum.com/wp-content/uploads/2014/11/maficester.wav",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-population-engine.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/maficester.wav",
+            "title": "«МАФ-ис-тер» (WAV)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://ludusludorum.com/wp-content/uploads/2016/04/PREGEN-CHARACTER-ANALYSIS-RAW-DATA.pdf",
+      "refs": [
+        "src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "PREGEN-CHARACTER-ANALYSIS-RAW-DATA.pdf",
+      "bytes": 19379,
+      "sha256": "c892b8141ecee9b73e0286cf5560b46b60c35c63f806be8bd23db82a7673ab38",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://ludusludorum.com/wp-content/uploads/2016/04/PREGEN-CHARACTER-ANALYSIS-RAW-DATA.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/PREGEN-CHARACTER-ANALYSIS-RAW-DATA.pdf",
+            "title": "Здесь можно посмотреть исходные данные (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://ludusludorum.com/wp-content/uploads/2016/04/PREGEN-CHARACTER-ANALYSIS.pdf",
+      "refs": [
+        "src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "PREGEN-CHARACTER-ANALYSIS.pdf",
+      "bytes": 6850,
+      "sha256": "19ffc2171b8ce276f4743f8ccb3debb819afc58a2cc2d1c8cb1c0a84f0b9b9a0",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://ludusludorum.com/wp-content/uploads/2016/04/PREGEN-CHARACTER-ANALYSIS.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/PREGEN-CHARACTER-ANALYSIS.pdf",
+            "title": "Описательная статистика (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://media.wizards.com/2014/downloads/dnd/DMBasicRulesv.0.3.pdf",
+      "refs": [
+        "src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx",
+        "src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "DMBasicRulesv.0.3.pdf",
+      "bytes": 1561065,
+      "sha256": "761fa68867eaff531c8108e0db99a24488e4fdb174bec5052c37e8174bb16543",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://media.wizards.com/2014/downloads/dnd/DMBasicRulesv.0.3.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/DMBasicRulesv.0.3.pdf",
+            "title": "бесплатные характеристики чудовищ для пятой редакции (PDF)"
+          },
+          {
+            "ref": "src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/DMBasicRulesv.0.3.pdf",
+            "title": "бесплатных правил (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf",
+      "refs": [
+        "src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx",
+        "src/content/posts/translations/dmdavid-find-fun-in-traps.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "TuckersKobolds.pdf",
+      "bytes": 6072733,
+      "sha256": "2c0ad41ddef2ec3c34e0766e48de9f7dba4b86c47e51d14684c6e224b10722d2",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/TuckersKobolds.pdf",
+            "title": "кобольдов Такера (PDF)"
+          },
+          {
+            "ref": "src/content/posts/translations/dmdavid-find-fun-in-traps.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/TuckersKobolds.pdf",
+            "title": "«Таккера» (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://media.wizards.com/2016/dnd/downloads/UA_Druid11272016_CAWS.pdf",
+      "refs": [
+        "src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "UA_Druid11272016_CAWS.pdf",
+      "bytes": 95099,
+      "sha256": "192d72d8bc8d3ead9c399d3667cb99fcd853a9264407fcb9225f997e3278a442",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://media.wizards.com/2016/dnd/downloads/UA_Druid11272016_CAWS.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/UA_Druid11272016_CAWS.pdf",
+            "title": "Unearthed Arcana (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://media.wizards.com/2020/dnd/downloads/dnd_essentials_rulebook.pdf",
+      "refs": [
+        "src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "dnd_essentials_rulebook.pdf",
+      "bytes": 8482517,
+      "sha256": "6900c715e807b66fd6afc93a20f1ed94959f066999466670cbba249c54cddbbb",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://media.wizards.com/2020/dnd/downloads/dnd_essentials_rulebook.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/dnd_essentials_rulebook.pdf",
+            "title": "D&amp;D Essentials Kit (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://media.wizards.com/downloads/dnd/StarterSet_Characters.pdf",
+      "refs": [
+        "src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "StarterSet_Characters.pdf",
+      "bytes": 582952,
+      "sha256": "fe66ac36f7e44b0e15826a4fe975275a2457950cbabf00993b473b4652b96fef",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://media.wizards.com/downloads/dnd/StarterSet_Characters.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/StarterSet_Characters.pdf",
+            "title": "Стартового набора D&amp;D (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://nacto.org/docs/usdg/relationship_between_speed_risk_fatal_injury_pedestrians_and_car_occupants_richards.pdf",
+      "refs": [
+        "src/content/posts/translations/delta-falling-revisited.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "HTTP 403",
+      "filename": "relationship_between_speed_risk_fatal_injury_pedestrians_and_car_occupants_richards.pdf",
+      "bytes": 761665,
+      "sha256": "910653013df43381b2fc29d0536657f2866898e31d5e726f59b202f245be1919",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20250110222607id_/https://nacto.org/docs/usdg/relationship_between_speed_risk_fatal_injury_pedestrians_and_car_occupants_richards.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20250110222607id_/https://nacto.org/docs/usdg/relationship_between_speed_risk_fatal_injury_pedestrians_and_car_occupants_richards.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-falling-revisited.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/relationship_between_speed_risk_fatal_injury_pedestrians_and_car_occupants_richards.pdf",
+            "title": "Relationship between Speed and Risk of Fatal Injury: Pedestrians and Car Occupants (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://pneymatiko.files.wordpress.com/2012/06/dnd-next_caves-of-chaos1.pdf",
+      "refs": [
+        "src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "dnd-next_caves-of-chaos1.pdf",
+      "bytes": 2909382,
+      "sha256": "8965df5b4ffc4fdef29c72295a24e38ca63186cfe55b3c2d4871cf13fccb2abe",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://pneymatiko.wordpress.com/wp-content/uploads/2012/06/dnd-next_caves-of-chaos1.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/dnd-next_caves-of-chaos1.pdf",
+            "title": "Keep on the Borderlands (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://rochestercathedralresearchguild.files.wordpress.com/2018/02/2018-02-18_swerian_edited.pdf",
+      "refs": [
+        "src/content/posts/translations/oaths-how-do-they-work.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "HTTP 404",
+      "filename": "2018-02-18_swerian_edited.pdf",
+      "bytes": 1723927,
+      "sha256": "4d14aca4194dfb086d9656428866b02b537f761437a9cec0979797a20551dd5b",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20220213071145id_/https://rochestercathedralresearchguild.files.wordpress.com/2018/02/2018-02-18_swerian_edited.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20220213071145id_/https://rochestercathedralresearchguild.files.wordpress.com/2018/02/2018-02-18_swerian_edited.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/oaths-how-do-they-work.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/2018-02-18_swerian_edited.pdf",
+            "title": "рассмотрим эти древнеанглийские клятвы (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://slyflourish.com/lazydm/lazy_dm_preview.pdf",
+      "refs": [
+        "src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "lazy_dm_preview.pdf",
+      "bytes": 221365,
+      "sha256": "d02c044d20698895117c823d133e86422648bdfc6c7d02afa82dc8ac3a3de76e",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://slyflourish.com/lazydm/lazy_dm_preview.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/lazy_dm_preview.pdf",
+            "title": "бесплатный ознакомительный фрагмент (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://theangrygm.com/wp-content/uploads/2017/09/Herbalism-for-DD.pdf",
+      "refs": [
+        "src/content/posts/translations/angrygm-crafting-herbcraft-part-2.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Herbalism-for-DD.pdf",
+      "bytes": 110755,
+      "sha256": "97a1a2968c6379c0f473db78badb3bb0b91cb4494210945283a577c4867f7bb7",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://theangrygm.com/wp-content/uploads/2017/09/Herbalism-for-DD.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-crafting-herbcraft-part-2.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Herbalism-for-DD.pdf",
+            "title": "Скачайте PDF (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Table.pdf",
+      "refs": [
+        "src/content/posts/translations/angrygm-drowning-in-armor-systems-part-2.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "The-Angry-Armor-Table.pdf",
+      "bytes": 126926,
+      "sha256": "4509629b4cb17ef05b5200f271c1bd41a829e5d3ce288949fc2e73989a710c3f",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Table.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-drowning-in-armor-systems-part-2.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/The-Angry-Armor-Table.pdf",
+            "title": "выдержка из руководства по моей кампании (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://theangrygm.com/wp-content/uploads/2019/10/Monster-Stats-by-Tier.pdf",
+      "refs": [
+        "src/content/posts/translations/angrygm-f-cr-theres-a-better-way-part-2.mdx",
+        "src/content/posts/translations/angrygm-how-to-f-cr-practical-example-1.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Monster-Stats-by-Tier.pdf",
+      "bytes": 91475,
+      "sha256": "95a51c19e95e59812479dbfb5675c6196a14953ce2f9d2bddc1dec8f6bcddba8",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://theangrygm.com/wp-content/uploads/2019/10/Monster-Stats-by-Tier.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-f-cr-theres-a-better-way-part-2.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Monster-Stats-by-Tier.pdf",
+            "title": "Таблицу также можно скачать в PDF (PDF)"
+          },
+          {
+            "ref": "src/content/posts/translations/angrygm-how-to-f-cr-practical-example-1.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Monster-Stats-by-Tier.pdf",
+            "title": "Эту таблицу также можно скачать в PDF (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-Original.xlsx",
+      "refs": [
+        "src/content/posts/translations/angrygm-how-to-describe-an-item.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "DMG-Magic-Item-List-Original.xlsx",
+      "bytes": 43605,
+      "sha256": "ed48b114b8c3f84e0eec079a7596beeb4391d38d7958b0fba40c509529cd0ee7",
+      "reused": false,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "finalUrl": "https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-Original.xlsx",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-how-to-describe-an-item.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/DMG-Magic-Item-List-Original.xlsx",
+            "title": "Список магических предметов DMG — оригинал (XLSX)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-With-Final-Qualities.xlsx",
+      "refs": [
+        "src/content/posts/translations/angrygm-how-to-describe-an-item.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "DMG-Magic-Item-List-With-Final-Qualities.xlsx",
+      "bytes": 81398,
+      "sha256": "293beb93e0ba0d5bc12534d589ec2e0e5147a31f707d9680c905cc7b0cf74e05",
+      "reused": false,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "finalUrl": "https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-With-Final-Qualities.xlsx",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-how-to-describe-an-item.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/DMG-Magic-Item-List-With-Final-Qualities.xlsx",
+            "title": "Список магических предметов DMG с окончательными качествами (XLSX)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-With-Initial-Descriptors.xlsx",
+      "refs": [
+        "src/content/posts/translations/angrygm-how-to-describe-an-item.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "DMG-Magic-Item-List-With-Initial-Descriptors.xlsx",
+      "bytes": 52608,
+      "sha256": "4d6c5fe38c79342428008725e657ec6331ee4c105f1e3bf77015c7ed5e2cfafe",
+      "reused": false,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "finalUrl": "https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-With-Initial-Descriptors.xlsx",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-how-to-describe-an-item.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/DMG-Magic-Item-List-With-Initial-Descriptors.xlsx",
+            "title": "Список магических предметов DMG с исходными дескрипторами (XLSX)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-With-Prices.xlsx",
+      "refs": [
+        "src/content/posts/translations/angrygm-how-to-describe-an-item.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "DMG-Magic-Item-List-With-Prices.xlsx",
+      "bytes": 80498,
+      "sha256": "d8e1e2eb13de5d5b7d3ff7694d34625057cc1a11b107fe9de7d01c0b14bf4cbd",
+      "reused": false,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "finalUrl": "https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-With-Prices.xlsx",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-how-to-describe-an-item.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/DMG-Magic-Item-List-With-Prices.xlsx",
+            "title": "Список магических предметов DMG с ценами (XLSX)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://theangrygm.com/wp-content/uploads/2020/08/PHB-Item-List-Final.pdf",
+      "refs": [
+        "src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "PHB-Item-List-Final.pdf",
+      "bytes": 134179,
+      "sha256": "cbe52011cb447138bc62fd4033dd51742c8eebe3c9ac5c3c2ac5f63614ee4e07",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://theangrygm.com/wp-content/uploads/2020/08/PHB-Item-List-Final.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/PHB-Item-List-Final.pdf",
+            "title": "документ PDF (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://theangrygm.com/wp-content/uploads/2020/08/PHB-Item-List-Final.xlsx",
+      "refs": [
+        "src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "PHB-Item-List-Final.xlsx",
+      "bytes": 21364,
+      "sha256": "c1b4f35fddf5a872edbb87316b5aa5378f936059dc02d0691a71117d893c5766",
+      "reused": false,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "finalUrl": "https://theangrygm.com/wp-content/uploads/2020/08/PHB-Item-List-Final.xlsx",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/PHB-Item-List-Final.xlsx",
+            "title": "документ MS Excel (XLSX)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://theangrygm.com/wp-content/uploads/2020/11/Companion-Characters.pdf",
+      "refs": [
+        "src/content/posts/translations/angrygm-how-to-stat-friends-part-2.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Companion-Characters.pdf",
+      "bytes": 98959,
+      "sha256": "211787adb11aff76882151d4ca15d3084fe6af992f58eb0d9c320bdd8b7de972",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://theangrygm.com/wp-content/uploads/2020/11/Companion-Characters.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-how-to-stat-friends-part-2.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Companion-Characters.pdf",
+            "title": "удобном PDF (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://theangrygm.com/wp-content/uploads/Fall_of_Silverpine_Watch_Print_Quality_Artistic_Maps.pdf",
+      "refs": [
+        "src/content/posts/translations/angrygm-angry-office-hours-1.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Fall_of_Silverpine_Watch_Print_Quality_Artistic_Maps.pdf",
+      "bytes": 24531878,
+      "sha256": "e727843d6d1ee061d1d8960802c9410e754d47479f327febf861b0c1e7b539d5",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://theangrygm.com/wp-content/uploads/Fall_of_Silverpine_Watch_Print_Quality_Artistic_Maps.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-angry-office-hours-1.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Fall_of_Silverpine_Watch_Print_Quality_Artistic_Maps.pdf",
+            "title": "Падение Сильверпайнской заставы (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://theangrygm.com/wp-content/uploads/Memo-to-the-Game-Master-2-Portraying-Characters.pdf",
+      "refs": [
+        "src/content/posts/translations/angrygm-memo-to-the-players-2.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Memo-to-the-Game-Master-2-Portraying-Characters.pdf",
+      "bytes": 51486,
+      "sha256": "0426bf73e02c504a445c84779043e43b76df8feac45c169070608ed82c0aa5db",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://theangrygm.com/wp-content/uploads/Memo-to-the-Game-Master-2-Portraying-Characters.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-memo-to-the-players-2.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Memo-to-the-Game-Master-2-Portraying-Characters.pdf",
+            "title": "Скачать «Памятку Мастеру № 2: изображение персонажа» (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://theangrygm.com/wp-content/uploads/Memo-to-the-Players-2-Portraying-Characters.pdf",
+      "refs": [
+        "src/content/posts/translations/angrygm-memo-to-the-players-2.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Memo-to-the-Players-2-Portraying-Characters.pdf",
+      "bytes": 51273,
+      "sha256": "ae6580c269f10e364eb23d7fd3265019f161678dd43f319122029d631e31ccc6",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://theangrygm.com/wp-content/uploads/Memo-to-the-Players-2-Portraying-Characters.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-memo-to-the-players-2.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Memo-to-the-Players-2-Portraying-Characters.pdf",
+            "title": "Скачать «Памятку игрокам № 2: изображение персонажа» (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.batintheattic.com/downloads/MW%20Travel%20Rules%20Rev%2002.pdf",
+      "refs": [
+        "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxiv.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "MW-Travel-Rules-Rev-02.pdf",
+      "bytes": 238141,
+      "sha256": "d154fb3b57f61a6a7c60badee9ebaee18838cebb73b0373caadf04a3dcf5cbb8",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.batintheattic.com/downloads/MW%20Travel%20Rules%20Rev%2002.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxiv.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/MW-Travel-Rules-Rev-02.pdf",
+            "title": "Черновик правил путешествий можно скачать здесь (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.batintheattic.com/downloads/NPCs%20of%20Piall%20Rev%2001.pdf",
+      "refs": [
+        "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxiii.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "NPCs-of-Piall-Rev-01.pdf",
+      "bytes": 1034205,
+      "sha256": "6db28850a8bb32864d08b72aaeaeedcc3f1e3158c5d88242d43299c2ccdde3ef",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.batintheattic.com/downloads/NPCs%20of%20Piall%20Rev%2001.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxiii.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/NPCs-of-Piall-Rev-01.pdf",
+            "title": "«ПМ острова Пиалл» (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview,_04.pdf",
+      "refs": [
+        "src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "MFR_Preview-_04.pdf",
+      "bytes": 948720,
+      "sha256": "12f278a39705773e984d7855245ae8f0e984bedbca0f8bf7d381fc58e5639082",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview,_04.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/MFR_Preview-_04.pdf",
+            "title": "Предварительный материал № 1 (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview_02.pdf",
+      "refs": [
+        "src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "MFR_Preview_02.pdf",
+      "bytes": 4998240,
+      "sha256": "57f03c91901c03291300862d0de692943a26b00f73f7512ffe68560c2f8b4a77",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview_02.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/MFR_Preview_02.pdf",
+            "title": "Предварительный материал № 2 (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.cdc.gov/nchs/data/ad/ad347.pdf",
+      "refs": [
+        "src/content/posts/translations/delta-horse-carrying-capacity.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "ad347.pdf",
+      "bytes": 634508,
+      "sha256": "3dfb2a11452110c9e18fbcc3ac627195354bfbe580474a7f49027340250213a5",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.cdc.gov/nchs/data/ad/ad347.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-horse-carrying-capacity.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/ad347.pdf",
+            "title": "CDC (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.census.gov/content/dam/Census/library/publications/2012/demo/p20-566.pdf",
+      "refs": [
+        "src/content/posts/translations/ludus-population-engine.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "HTTP 403",
+      "filename": "p20-566.pdf",
+      "bytes": 1295108,
+      "sha256": "edacc01405a5707e48dc4445035c6ebb4c36223352d057c776d4e9ceb33bf4ba",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20260824071222id_/https://www.census.gov/content/dam/Census/library/publications/2012/demo/p20-566.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20260824071222id_/https://www.census.gov/content/dam/Census/library/publications/2012/demo/p20-566.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-population-engine.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/p20-566.pdf",
+            "title": "56,3 миллиона (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.militaryonesource.mil/12038/MOS/Reports/2011_Demographics_Report.pdf",
+      "refs": [
+        "src/content/posts/translations/ludus-population-engine.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "HTTP 404",
+      "filename": "2011_Demographics_Report.pdf",
+      "bytes": 4526245,
+      "sha256": "918ae3777d98923f3d4ccfcee72b37236aad3e02af95f2b3685e2ac466c16946",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20150226042953id_/http://www.militaryonesource.mil:80/12038/MOS/Reports/2011_Demographics_Report.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20150226042953id_/http://www.militaryonesource.mil:80/12038/MOS/Reports/2011_Demographics_Report.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-population-engine.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/2011_Demographics_Report.pdf",
+            "title": "данные за 2011 год это подтверждают (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.rand.org/content/dam/rand/pubs/monographs/MG265/images/webS0243.pdf",
+      "refs": [
+        "src/content/posts/translations/acoup-universal-warrior-part-i.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "HTTP 404",
+      "filename": "webS0243.pdf",
+      "bytes": 7041978,
+      "sha256": "518f9356b9855b1559323e738ed2203e669f9518f0639dcde70c13587ba4dc8f",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20211210174904id_/https://www.rand.org/content/dam/rand/pubs/monographs/MG265/images/webS0243.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20211210174904id_/https://www.rand.org/content/dam/rand/pubs/monographs/MG265/images/webS0243.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/acoup-universal-warrior-part-i.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/webS0243.pdf",
+            "title": "примерно так, как предлагала комиссия Гейтса 1969 года (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Frank-Siegmund/publication/221673936_Body_Mass_and_Body_Mass_Index_estimation_in_medieval_Switzerland/links/0922b4f5a4c3f117d7000000/Body-Mass-and-Body-Mass-Index-estimation-in-medieval-Switzerland.pdf",
+      "refs": [
+        "src/content/posts/translations/delta-horse-carrying-capacity.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "HTTP 403",
+      "filename": "Siegmund_Papageorgopoulou_2011_BM-BMI.pdf",
+      "bytes": 169957,
+      "sha256": "d2c7cd811a09e77fa465729472e1a6020dcaa2fb9983dea592423d7114a959ea",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20260728134737id_/https://www.researchgate.net/profile/Frank-Siegmund/publication/221673936_Body_Mass_and_Body_Mass_Index_estimation_in_medieval_Switzerland/links/0922b4f5a4c3f117d7000000/Body-Mass-and-Body-Mass-Index-estimation-in-medieval-Switzerland.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20260728134737id_/https://www.researchgate.net/profile/Frank-Siegmund/publication/221673936_Body_Mass_and_Body_Mass_Index_estimation_in_medieval_Switzerland/links/0922b4f5a4c3f117d7000000/Body-Mass-and-Body-Mass-Index-estimation-in-medieval-Switzerland.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/delta-horse-carrying-capacity.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Siegmund_Papageorgopoulou_2011_BM-BMI.pdf",
+            "title": "Зигмунда и Папагеоргопулу (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.thealexandrian.net/creations/advanced-rules/4e-style-spells/balor-stat-block.doc",
+      "refs": [
+        "src/content/posts/translations/alexandrian-stat-blocking-with-the-barghest.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "balor-stat-block.doc",
+      "bytes": 57344,
+      "sha256": "396deffd5fea20803ef350841f5e27a71fab73a98ec94dd52635e1018982b748",
+      "reused": false,
+      "contentType": "application/msword",
+      "finalUrl": "https://www.thealexandrian.net/creations/advanced-rules/4e-style-spells/balor-stat-block.doc",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-stat-blocking-with-the-barghest.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/balor-stat-block.doc",
+            "title": "исходником блока параметров балора (DOC)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.thealexandrian.net/creations/advanced-rules/stat-block-short.rtf",
+      "refs": [
+        "src/content/posts/translations/alexandrian-history-stat-block-2009.mdx",
+        "src/content/posts/translations/alexandrian-revised-3-5-stat-blocks.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "stat-block-short.rtf",
+      "bytes": 13849,
+      "sha256": "f8a1fbc59e45ff0bf5916ef78102e437943fb7f3768efdfb929f306a34fba6bd",
+      "reused": false,
+      "contentType": "application/rtf",
+      "finalUrl": "https://www.thealexandrian.net/creations/advanced-rules/stat-block-short.rtf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-history-stat-block-2009.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/stat-block-short.rtf",
+            "title": "короткий блок (RTF)"
+          },
+          {
+            "ref": "src/content/posts/translations/alexandrian-revised-3-5-stat-blocks.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/stat-block-short.rtf",
+            "title": "Краткий блок параметров (RTF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.thealexandrian.net/creations/advanced-rules/stat-block.rtf",
+      "refs": [
+        "src/content/posts/translations/alexandrian-history-stat-block-2009.mdx",
+        "src/content/posts/translations/alexandrian-revised-3-5-stat-blocks.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "stat-block.rtf",
+      "bytes": 41343,
+      "sha256": "7bf29762b3360b89c563ebfe547bc0a87a5fa9daaac0f1e43f5c5f9edab46169",
+      "reused": false,
+      "contentType": "application/rtf",
+      "finalUrl": "https://www.thealexandrian.net/creations/advanced-rules/stat-block.rtf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-history-stat-block-2009.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/stat-block.rtf",
+            "title": "переработанный блок (RTF)"
+          },
+          {
+            "ref": "src/content/posts/translations/alexandrian-revised-3-5-stat-blocks.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/stat-block.rtf",
+            "title": "Переработанный блок параметров (RTF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.thealexandrian.net/creations/misc/cheat-sheet-fading-suns.rtf",
+      "refs": [
+        "src/content/posts/translations/alexandrian-prepping-system-cheat-sheets.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "cheat-sheet-fading-suns.rtf",
+      "bytes": 126172,
+      "sha256": "4fc30e00e096fc027bae91ec626cc3a175c4dc0d4300daae7eb9a561ace16c5e",
+      "reused": false,
+      "contentType": "application/rtf",
+      "finalUrl": "https://www.thealexandrian.net/creations/misc/cheat-sheet-fading-suns.rtf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-prepping-system-cheat-sheets.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/cheat-sheet-fading-suns.rtf",
+            "title": "Fading Suns (RTF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.thealexandrian.net/creations/misc/cheat-sheet-technoir.rtf",
+      "refs": [
+        "src/content/posts/translations/alexandrian-prepping-system-cheat-sheets.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "cheat-sheet-technoir.rtf",
+      "bytes": 57873,
+      "sha256": "5d8030f451edaeb44b2ea24b36a698e5bd8591ee80bf20d804af60884f8ae666",
+      "reused": false,
+      "contentType": "application/rtf",
+      "finalUrl": "https://www.thealexandrian.net/creations/misc/cheat-sheet-technoir.rtf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-prepping-system-cheat-sheets.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/cheat-sheet-technoir.rtf",
+            "title": "Technoir (RTF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-ancient-common.pdf",
+      "refs": [
+        "src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "fantasy-lorem-ipsum-ancient-common.pdf",
+      "bytes": 40889,
+      "sha256": "3852beb3171dfd602021b696134f031d8d17f5ed3ac896af6ff7496aa06e7bce",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-ancient-common.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/fantasy-lorem-ipsum-ancient-common.pdf",
+            "title": "Древний всеобщий (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-dwarvish.pdf",
+      "refs": [
+        "src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "fantasy-lorem-ipsum-dwarvish.pdf",
+      "bytes": 45686,
+      "sha256": "0f7218486ca22f0f8342265cd996f1f590b428514b5df398b859eb656bc6c9fb",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-dwarvish.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/fantasy-lorem-ipsum-dwarvish.pdf",
+            "title": "Дварфийский (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-elvish.pdf",
+      "refs": [
+        "src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "fantasy-lorem-ipsum-elvish.pdf",
+      "bytes": 41573,
+      "sha256": "25c184231baf7c0e1fb6a1ec553d127341ee474b43f2c9c001dfd71729c56f95",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-elvish.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/fantasy-lorem-ipsum-elvish.pdf",
+            "title": "Эльфийский (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-halfling.pdf",
+      "refs": [
+        "src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "fantasy-lorem-ipsum-halfling.pdf",
+      "bytes": 31723,
+      "sha256": "047da16e573e59d6f49e2f72785a6c5b33556cc7dec500ab178b8f0f39240cd1",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-halfling.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/fantasy-lorem-ipsum-halfling.pdf",
+            "title": "Полуросличий (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-orc.pdf",
+      "refs": [
+        "src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "fantasy-lorem-ipsum-orc.pdf",
+      "bytes": 35070,
+      "sha256": "93f6bbb1940bf5e33d9c8a22e68750c0e51812748c88e1d5b9328d3ffd21f3cb",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-orc.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/fantasy-lorem-ipsum-orc.pdf",
+            "title": "Орочий (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.thealexandrian.net/creations/misc/mad-mage.pdf",
+      "refs": [
+        "src/content/posts/translations/alexandrian-re-running-the-megadungeon.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "mad-mage.pdf",
+      "bytes": 83645,
+      "sha256": "334df01a6ff38193630d3470a67b6eec8844139916780e9ce0a1f6e489485b8b",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.thealexandrian.net/creations/misc/mad-mage.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-re-running-the-megadungeon.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/mad-mage.pdf",
+            "title": "Halls of the Mad Mage (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.thealexandrian.net/creations/tombofhorrors/Tomb%20of%20Horrors.zip",
+      "refs": [
+        "src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "Tomb-of-Horrors.zip",
+      "bytes": 450910,
+      "sha256": "4ebd2aa5ece64c82cc0b83f83782b441eed21d845e46aa1d3883cf7043137a97",
+      "reused": false,
+      "contentType": "application/zip",
+      "finalUrl": "https://www.thealexandrian.net/creations/tombofhorrors/Tomb%20of%20Horrors.zip",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/Tomb-of-Horrors.zip",
+            "title": "Tomb of Horrors (ZIP)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www.yorku.ca/inpar/geoffrey_thompson.pdf",
+      "refs": [
+        "src/content/posts/translations/ludusludorum-medieval-ruins.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "filename": "geoffrey_thompson.pdf",
+      "bytes": 482600,
+      "sha256": "280230e04b7542681f17f991b4c476be99d6657eb29eb1052a1c156267f3b8c7",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://www.yorku.ca/inpar/geoffrey_thompson.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludusludorum-medieval-ruins.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/geoffrey_thompson.pdf",
+            "title": "История королей Британии (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www2.census.gov/library/publications/2011/compendia/statab/131ed/tables/12s0286.pdf",
+      "refs": [
+        "src/content/posts/translations/ludus-population-engine.mdx"
+      ],
+      "kind": "extension",
+      "status": "downloaded",
+      "error": "HTTP 403",
+      "filename": "12s0286.pdf",
+      "bytes": 65284,
+      "sha256": "23d3b59dd8778125ecce2bb5aad7e2df1bc6e6f22e59a28bbb4ee610df454aa4",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://web.archive.org/web/20230313163556id_/https://www2.census.gov/library/publications/2011/compendia/statab/131ed/tables/12s0286.pdf",
+      "recoveredBy": "wayback",
+      "archivedUrl": "https://web.archive.org/web/20230313163556id_/https://www2.census.gov/library/publications/2011/compendia/statab/131ed/tables/12s0286.pdf",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/ludus-population-engine.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/12s0286.pdf",
+            "title": "20,9 миллиона (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    },
+    {
+      "url": "https://www3.autarch.co?wpdmpro=region-hex-maps",
+      "refs": [
+        "src/content/posts/translations/angrygm-how-to-wilderness-right.mdx",
+        "src/content/posts/translations/angrygm-simple-campaign-region.mdx"
+      ],
+      "kind": "download-endpoint",
+      "status": "downloaded",
+      "error": "direct-with-referer: получена HTML-страница (text/html); wayback: получена HTML-страница (text/html)",
+      "filename": "ACKS_BlankHexMaps.pdf",
+      "bytes": 2629504,
+      "sha256": "1a8acc51d99c9b4ef7bc68f48bb955b69beed082d023d4ba83525132716fda2a",
+      "reused": false,
+      "contentType": "application/pdf",
+      "finalUrl": "https://autarch.co/download/region-hex-maps/?wpdmdl=245&refresh=6ae530d6a21f91793405142",
+      "recoveredBy": "manual-mirror",
+      "rewrite": {
+        "refs": [
+          {
+            "ref": "src/content/posts/translations/angrygm-how-to-wilderness-right.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/ACKS_BlankHexMaps.pdf",
+            "title": "региональные шаблоны карт Adventurer, Conqueror, King (PDF)"
+          },
+          {
+            "ref": "src/content/posts/translations/angrygm-simple-campaign-region.mdx",
+            "status": "localized",
+            "internalUrl": "/files/downloads/ACKS_BlankHexMaps.pdf",
+            "title": "шаблоны региональных карт для печати (PDF)"
+          }
+        ],
+        "registryKept": false
+      }
+    }
+  ],
+  "rewrittenAt": "2026-10-31T00:10:36.753Z"
+}

@@ -21,7 +21,7 @@ function fixture(t) {
   put('src/content/config.ts', readFileSync(join(repositoryRoot, 'src/content/config.ts')));
   put('tag-system.md', readFileSync(join(repositoryRoot, 'tag-system.md')));
   put(target, front('https://example.com/related', '## Section\n\nTarget.'));
-  put(article, front('https://example.com/new', '## Section\n\n[**Related**](https://example.com/related#section)\n\n[Remaining](https://other.com/page?utm_source=test)'));
+  put(article, front('https://example.com/new', '## Section\n\n[**Related**](https://example.com/related#section)\n\n[Remaining](https://other.com/page?utm_source=test)\n\n[Video](https://www.youtube.com/watch?v=video)\n\n[Short video](https://youtu.be/video)\n\n[Embedded video](https://www.youtube-nocookie.com/embed/video)'));
   put(old, front('https://example.com/old', '[New][new]\n\n[new]: https://example.com/new#section "Title"\n\n`https://example.com/new`\n\n```md\n[Code](https://example.com/new)\n```'));
   put('translated-articles.md', header + entry('https://example.com/related', 'related') + '\n');
   put('external-links.md', `# Registry\n\n## <https://example.com/new>\n\n- \`${old}\`\n- \`${old}\`\n`);
@@ -45,6 +45,13 @@ test('preview/apply/check updates links and registries, preserves source/code, a
   assert.ok(!external.includes('https://example.com/new'));
   assert.ok(external.includes('https://other.com/page'));
   assert.ok(!external.includes('utm_source'));
+  assert.ok(!external.includes('youtube.com'));
+  assert.ok(!external.includes('youtu.be'));
+  assert.ok(!external.includes('youtube-nocookie.com'));
+  const published = readFileSync(join(root, article), 'utf8');
+  assert.ok(published.includes('https://www.youtube.com/watch?v=video'));
+  assert.ok(published.includes('https://youtu.be/video'));
+  assert.ok(published.includes('https://www.youtube-nocookie.com/embed/video'));
   assert.equal((await runPublication(root, input, 'check')).ok, true);
   assert.deepEqual((await runPublication(root, input, 'apply')).changedFiles, []);
 });

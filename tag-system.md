@@ -74,6 +74,7 @@
 - `Chris Sniezak`
 - `Connor W.`
 - `Creighton Broadhurst`
+- `Daniel Maragni`
 - `David Hartlage`
 - `Delta`
 - `DragnaCarta`
@@ -100,6 +101,7 @@
 - `Joel H`
 - `John`
 - `John Bell`
+- `John Clements & Belinda Hertz`
 - `John Large`
 - `John Laviolette`
 - `Jon Peterson`
@@ -190,6 +192,7 @@
 | `Connor W.` | `Connor W.` |
 | `Courtney Campbell` | `Courtney Campbell` |
 | `Creighton Broadhurst` | `Creighton Broadhurst` |
+| `Daniel Maragni` | `Daniel Maragni` |
 | `David Hartlage` | `David Hartlage` |
 | `Delta` | `Delta` |
 | `DragnaCarta` | `DragnaCarta` |
@@ -218,6 +221,8 @@
 | `Joel H` | `Joel H` |
 | `John` | `John` |
 | `John Bell` | `John Bell` |
+| `John Clements` | `J. Clements` |
+| `John Clements & Belinda Hertz` | `John Clements & Belinda Hertz` |
 | `John Large` | `John Large` |
 | `John Laviolette` | `John Laviolette` |
 | `Jon Peterson` | `Jon Peterson` |

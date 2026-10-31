@@ -161,14 +161,6 @@
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
 
-## <http://city-of-brass.org/GeographicWondersE.pdf>
-
-- `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
-
-## <http://city-of-brass.org/Travel%20ChallengesC.pdf>
-
-- `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
-
 ## <http://compreviews.about.com/od/buyers/a/NoteSizeSpec.htm>
 
 - `src/content/posts/translations/alexandrian-dd-calibrating-expectations.mdx`
@@ -541,227 +533,6 @@
 
 - `src/content/posts/translations/coinsandscrolls-dont-you-know-theres-war-on.mdx`
 
-## <http://en.wikipedia.org/w/index.php?title=Castle&oldid=86479637>
-
-- `src/content/posts/translations/welsh-piper-low-fantasy-populations.mdx`
-
-## <http://en.wikipedia.org/w/index.php?title=Free_Imperial_City&oldid=78666401>
-
-- `src/content/posts/translations/welsh-piper-low-fantasy-populations.mdx`
-
-## <http://en.wikipedia.org/w/index.php?title=Medieval_university&oldid=74711077>
-
-- `src/content/posts/translations/welsh-piper-low-fantasy-populations.mdx`
-
-## <http://en.wikipedia.org/w/index.php?title=Village&oldid=80451060>
-
-- `src/content/posts/translations/welsh-piper-low-fantasy-populations.mdx`
-
-## <http://en.wikipedia.org/wiki/Apeiron_%28cosmology%29>
-
-- `src/content/posts/translations/alexandrian-vile-places-of-the-earth.mdx`
-
-## <http://en.wikipedia.org/wiki/Attention_span>
-
-- `src/content/posts/translations/hackslashmaster-inadequacy-of-boxed-text.mdx`
-
-## <http://en.wikipedia.org/wiki/Augmented_reality>
-
-- `src/content/posts/translations/alexandrian-the-many-types-of-balance.mdx`
-
-## <http://en.wikipedia.org/wiki/Baldr>
-
-- `src/content/posts/translations/tribality-druid-class-part-three.mdx`
-
-## <http://en.wikipedia.org/wiki/Dramatic_structure>
-
-- `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
-
-## <http://en.wikipedia.org/wiki/Dungeon_Master's_Guide>
-
-- `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
-
-## <http://en.wikipedia.org/wiki/Ecumenical_council>
-
-- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
-
-## <http://en.wikipedia.org/wiki/Editions_of_Dungeons_%26_Dragons>
-
-- `src/content/posts/translations/alexandrian-nomenclature-dnd-editions.mdx`
-- `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
-
-## <http://en.wikipedia.org/wiki/Ghoul>
-
-- `src/content/posts/translations/delta-ghouls-through-literature.mdx`
-
-## <http://en.wikipedia.org/wiki/Handwaving>
-
-- `src/content/posts/translations/brandesstoddard-crafting-systems-part-one.mdx`
-
-## <http://en.wikipedia.org/wiki/Herma>
-
-- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
-
-## <http://en.wikipedia.org/wiki/Horror_on_the_Hill>
-
-- `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
-
-## <http://en.wikipedia.org/wiki/Hyperspace_%28science_fiction%29>
-
-- `src/content/posts/translations/delta-scifi-saturday-asimov-hyperspace-part-1.mdx`
-
-## <http://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck>
-
-- `src/content/posts/translations/alexandrian-vile-places-of-the-earth.mdx`
-
-## <http://en.wikipedia.org/wiki/Kuru_%28disease%29>
-
-- `src/content/posts/translations/delta-ghouls-through-literature.mdx`
-
-## <http://en.wikipedia.org/wiki/Laser>
-
-- `src/content/posts/translations/delta-scifi-saturday-asimov-blasters.mdx`
-
-## <http://en.wikipedia.org/wiki/Law_and_Chaos>
-
-- `src/content/posts/translations/delta-alignment-three-hearts-three-lions.mdx`
-
-## <http://en.wikipedia.org/wiki/Lingam>
-
-- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
-
-## <http://en.wikipedia.org/wiki/List_of_titles_and_honours_of_Queen_Elizabeth_II>
-
-- `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
-
-## <http://en.wikipedia.org/wiki/MacGuffin>
-
-- `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
-
-## <http://en.wikipedia.org/wiki/Madhya_Pradesh>
-
-- `src/content/posts/translations/tao-dnd-scale-on-ground.mdx`
-
-## <http://en.wikipedia.org/wiki/Magic_8-ball>
-
-- `src/content/posts/translations/delta-spells-through-the-ages-contact-other-plane.mdx`
-
-## <http://en.wikipedia.org/wiki/Medieval_university>
-
-- `src/content/posts/translations/welsh-piper-feudalism-101.mdx`
-
-## <http://en.wikipedia.org/wiki/Network_effect>
-
-- `src/content/posts/translations/alexandrian-game-structures-part-10-incomplete-game-structures.mdx`
-
-## <http://en.wikipedia.org/wiki/Philadelphia_experiment>
-
-- `src/content/posts/translations/delta-spells-through-ages-teleport.mdx`
-
-## <http://en.wikipedia.org/wiki/Preferred_numbers>
-
-- `src/content/posts/translations/delta-armor-costs.mdx`
-
-## <http://en.wikipedia.org/wiki/Pun>
-
-- `src/content/posts/translations/tribality-druid-class-part-five.mdx`
-
-## <http://en.wikipedia.org/wiki/Qanat>
-
-- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
-
-## <http://en.wikipedia.org/wiki/RPGA>
-
-- `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
-
-## <http://en.wikipedia.org/wiki/Ritual_of_oak_and_mistletoe>
-
-- `src/content/posts/translations/tribality-druid-class-part-two.mdx`
-
-## <http://en.wikipedia.org/wiki/Shere_Khan>
-
-- `src/content/posts/translations/tribality-druid-class-part-six.mdx`
-
-## <http://en.wikipedia.org/wiki/Shivpuri>
-
-- `src/content/posts/translations/tao-dnd-scale-on-ground.mdx`
-
-## <http://en.wikipedia.org/wiki/Skip_Williams>
-
-- `src/content/posts/translations/alexandrian-dd-calibrating-expectations.mdx`
-
-## <http://en.wikipedia.org/wiki/Spontaneous_generation>
-
-- `src/content/posts/translations/alexandrian-vile-places-of-the-earth.mdx`
-
-## <http://en.wikipedia.org/wiki/Steven_Brust>
-
-- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
-
-## <http://en.wikipedia.org/wiki/Tag_cloud>
-
-- `src/content/posts/translations/alexandrian-dd-word-clouds.mdx`
-
-## <http://en.wikipedia.org/wiki/Tarpeian_Rock>
-
-- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
-
-## <http://en.wikipedia.org/wiki/Teleportation>
-
-- `src/content/posts/translations/delta-spells-through-ages-teleport.mdx`
-
-## <http://en.wikipedia.org/wiki/Teleportation_in_fiction>
-
-- `src/content/posts/translations/delta-spells-through-ages-teleport.mdx`
-
-## <http://en.wikipedia.org/wiki/Ten_Towns>
-
-- `src/content/posts/translations/alexandrian-ua-style-rumors-for-dd.mdx`
-
-## <http://en.wikipedia.org/wiki/The_Godfather_(film_series)>
-
-- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
-
-## <http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two>
-
-- `src/content/posts/translations/delta-magic-number-seven.mdx`
-
-## <http://en.wikipedia.org/wiki/The_Realm_Online>
-
-- `src/content/posts/translations/brandesstoddard-crafting-systems-add-second-edition.mdx`
-
-## <http://en.wikipedia.org/wiki/The_Warlord_Chronicles>
-
-- `src/content/posts/translations/tribality-druid-class-part-one.mdx`
-
-## <http://en.wikipedia.org/wiki/Undermountain>
-
-- `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
-
-## <http://en.wikipedia.org/wiki/Vates>
-
-- `src/content/posts/translations/tribality-druid-class-part-two.mdx`
-
-## <http://en.wikipedia.org/wiki/Vic_Mackey>
-
-- `src/content/posts/translations/brandes-dd-5e-enforcer-background.mdx`
-
-## <http://en.wikipedia.org/wiki/Village>
-
-- `src/content/posts/translations/welsh-piper-feudalism-101.mdx`
-
-## <http://en.wikipedia.org/wiki/Vomitorium>
-
-- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
-
-## <http://en.wikipedia.org/wiki/Windcatchers>
-
-- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
-
-## <http://en.wikipedia.org/wiki/Yakhchal>
-
-- `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
-
 ## <http://en.wiktionary.org/wiki/warlock>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
@@ -951,10 +722,6 @@
 ## <http://gutenberg.net.au/ebooks06/0600771h.html>
 
 - `src/content/posts/translations/running-ruined-cities.mdx`
-
-## <http://gutenberg.net.au/ebooks06/0600981.txt>
-
-- `src/content/posts/translations/delta-ghouls-through-literature.mdx`
 
 ## <http://hackslashmaster.blogspot.co.nz/2012/06/on-set-design.html>
 
@@ -1154,18 +921,9 @@
 
 - `src/content/posts/translations/alexandrian-skill-systems-complexity-utility.mdx`
 
-## <http://media.wizards.com/2017/podcasts/dnd/DnDPodcast_02_02_2017.mp3>
-
-- `src/content/posts/translations/dmdavid-encouraging-role-playing.mdx`
-
 ## <http://mentalfloss.com/article/21918/5-minor-tv-characters-who-hijacked-show>
 
 - `src/content/posts/translations/dmdavid-make-players-care-npcs.mdx`
-
-## <http://microlite20.net/wp-content/uploads/2013/01/M20-campaigns.pdf>
-
-- `src/content/posts/translations/welsh-piper-hex-based-campaign-design-1.mdx`
-- `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
 
 ## <http://mikepohjola.com/turku/index.html>
 
@@ -1319,10 +1077,6 @@
 ## <http://rpgcharacters.wordpress.com>
 
 - `src/content/posts/translations/alexandrian-alexanders-rule.mdx`
-
-## <http://rpgreview.net/files/rpgreview_39.pdf>
-
-- `src/content/posts/translations/dmdavid-most-important-gamer-after-gary.mdx`
 
 ## <http://rpgtheoryreview.blogspot.com/2007/01/lesson-illusionism.html>
 
@@ -1686,6 +1440,14 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-5-advanced-techniques.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0367188635/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-historical-tidbits.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0374157359/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-random-worldbuilding-fantastical-nations.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0394518799/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
@@ -1824,6 +1586,10 @@
 - `src/content/posts/translations/alexandrian-thinking-wilderness-travel-2.mdx`
 - `src/content/posts/translations/alexandrian-thinking-wilderness-travel.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0786966106/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-icewind-dale-running-sandbox.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0786966114/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-random-dd-tip-party-size.mdx`
@@ -1832,6 +1598,7 @@
 
 - `src/content/posts/translations/alexandrian-ask-1-dejected-in-dragon-heist.mdx`
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0786966769/digitalcomi0a-20>
 
@@ -1951,6 +1718,10 @@
 
 - `src/content/posts/translations/alexandrian-rewind-your-timeline.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1107639425/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-nation-in-history.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1401274765/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
@@ -1958,6 +1729,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1402766513/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-school-of-turin-open-gaming-table.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1503261387/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1555601251/digitalcomi0a-20>
 
@@ -2041,6 +1816,10 @@
 
 - `src/content/posts/translations/alexandrian-thoughts-on-tumbling-revised.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1588467899/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-scenario-timelines.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1588467953/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
@@ -2052,6 +1831,8 @@
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1588469395/digitalcomi0a-20>
 
+- `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
+- `src/content/posts/translations/alexandrian-scenario-timelines.mdx`
 - `src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1588469484/digitalcomi0a-20>
@@ -2072,6 +1853,7 @@
 
 ## <http://www.amazon.com/exec/obidos/ASIN/158978152X/digitalcomi0a-20>
 
+- `src/content/posts/translations/alexandrian-coins-currency.mdx`
 - `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/158994206X/digitalcomi0a-20>
@@ -2149,6 +1931,7 @@
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1910132217/digitalcomi0a-20>
 
+- `src/content/posts/translations/alexandrian-coins-currency.mdx`
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1912200546/digitalcomi0a-20>
@@ -2181,6 +1964,7 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1934859079/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-campaign-status-correspondence.mdx`
+- `src/content/posts/translations/alexandrian-coins-currency.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-7-preempting-investigation.mdx`
 - `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
 
@@ -2434,6 +2218,10 @@
 
 - `src/content/posts/translations/alexandrian-treasure-maps-the-unknown.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B003ZSJ212/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B0046XG48O/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
@@ -2463,6 +2251,10 @@
 
 - `src/content/posts/translations/alexandrian-deus-ex-tactical-hacking.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B004ZZS4YA/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-nation-in-history.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B005LAIHY0/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-13-custom-structures.mdx`
@@ -2471,9 +2263,14 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-14-between-the-stars.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B0077T5SN6/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B00ANGID14/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-calling-in-the-little-guys.mdx`
+- `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B00EAUM1GW/digitalcomi0a-20>
 
@@ -2487,6 +2284,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B00JLY9OFI/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B00K35HMDU/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-historical-tidbits.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B00KUS5YGC/digitalcomi0a-20>
 
@@ -2557,14 +2358,6 @@
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
 
-## <http://www.arl.army.mil/arlreports/2013/ARL-TR-6494.pdf>
-
-- `src/content/posts/translations/delta-ballistae-and-bell-curves.mdx`
-
-## <http://www.atarn.org/chinese/Yanghai/Scythian_bow_ATARN.pdf>
-
-- `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
-
 ## <http://www.atlas-games.com/arm5>
 
 - `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
@@ -2583,18 +2376,6 @@
 ## <http://www.batintheattic.com>
 
 - `src/content/posts/translations/beyond-fomalhaut-dirt-cheap-sandbox.mdx`
-
-## <http://www.batintheattic.com/downloads/Fantasy%20Demographics%20Version%201.pdf>
-
-- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx`
-
-## <http://www.batintheattic.com/downloads/NPCs_Personality.zip>
-
-- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xix.mdx`
-
-## <http://www.batintheattic.com/downloads/Tax%20roll%20Paris%201292%20Rev%202.xls>
-
-- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xviii.mdx`
 
 ## <http://www.bay12games.com/dwarves>
 
@@ -2787,10 +2568,6 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
 
-## <http://www.cs.northwestern.edu/~hunicke/MDA.pdf>
-
-- `src/content/posts/translations/angrygm-gaming-for-fun-eight-kinds.mdx`
-
 ## <http://www.cypri.net>
 
 - `src/content/posts/translations/alexandrian-importance-of-character-creation.mdx`
@@ -2951,6 +2728,10 @@
 
 - `src/content/posts/translations/alexandrian-importance-of-choice.mdx`
 
+## <http://www.enworld.org/forum/showthread.php?22566-Q-amp-A-with-Gary-Gygax/page729>
+
+- `src/content/posts/translations/delta-teleport-traditions.mdx`
+
 ## <http://www.enworld.org/forum/showthread.php?276741-Modules-it-turns-out-apparently-DO-sell&p=5182450&viewfull=1>
 
 - `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
@@ -2986,6 +2767,10 @@
 ## <http://www.freeworldmaps.net/asia/central/physical.html>
 
 - `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
+
+## <http://www.frenchcaves.com/en/portfolio/complexe-gouffre-martel-grotte-de-la-cigalere>
+
+- `src/content/posts/translations/delta-teleport-traditions.mdx`
 
 ## <http://www.gameinformer.com/games/the_elder_scrolls_v_skyrim/b/xbox360/archive/2011/01/17/the-technology-behind-elder-scrolls-v-skyrim.aspx>
 
@@ -3029,10 +2814,6 @@
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
 
-## <http://www.greenharbor.com/fffolder/speedtime.pdf>
-
-- `src/content/posts/translations/delta-falling-revisited.mdx`
-
 ## <http://www.greydragon.org/trips/Wales2005/Wales-5/index3.html>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvii.mdx`
@@ -3060,10 +2841,6 @@
 ## <http://www.howlingtower.com/2012/01/to-hit-vs-armor-class.html>
 
 - `src/content/posts/translations/dmdavid-proficiency-and-bounded-accuracy-in-dd-next.mdx`
-
-## <http://www.ibiblio.org/mscorbit/beta/cropland.zip>
-
-- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xiii.mdx`
 
 ## <http://www.imdb.com/title/tt0057115>
 
@@ -3146,6 +2923,10 @@
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
 
+## <http://www.kenandrobintalkaboutstuff.com/index.php/episode-4-purely-medicinal>
+
+- `src/content/posts/translations/alexandrian-historical-tidbits.mdx`
+
 ## <http://www.kjd-imc.org/hall-of-fame/setting-design/how-to-make-a-fantasy-sandbox>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
@@ -3180,10 +2961,6 @@
 
 - `src/content/posts/translations/alexandrian-revised-3-5-stat-blocks.mdx`
 
-## <http://www.lulu.com/items/volume_63/3019000/3019374/1/print/3019374.pdf>
-
-- `src/content/posts/translations/alexandrian-rules-vs-rulings.mdx`
-
 ## <http://www.lulu.com/shop/daniel-collins/original-edition-delta-book-of-war/paperback/product-17158134.html>
 
 - `src/content/posts/translations/delta-dnd-next-battlesystem.mdx`
@@ -3211,10 +2988,6 @@
 ## <http://www.margaretweis.com/index.php/shop>
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
-
-## <http://www.mchenrysoftware.com/SECCC%20Presentation.pdf>
-
-- `src/content/posts/translations/delta-falling-revisited.mdx`
 
 ## <http://www.midkemia.com/HomePage/Products.html>
 
@@ -3500,41 +3273,9 @@
 
 - `src/content/posts/translations/delta-spells-through-the-ages-contact-other-plane.mdx`
 
-## <http://www.superdan.net/download/blog/deltasdnd/CavalryWeightAccounting.ods>
-
-- `src/content/posts/translations/delta-horse-carrying-capacity.mdx`
-
-## <http://www.superdan.net/download/blog/deltasdnd/ContactOtherPlane.ods>
-
-- `src/content/posts/translations/delta-spells-through-the-ages-contact-other-plane.mdx`
-
-## <http://www.superdan.net/download/blog/deltasdnd/CursedMagicItemsFrequency-1.0.2.ods>
-
-- `src/content/posts/translations/delta-cursed-magic-items-through-ages.mdx`
-
-## <http://www.superdan.net/download/blog/deltasdnd/HistoricalCostsAnalysis-1.02.ods>
-
-- `src/content/posts/translations/delta-historical-costs-comparison.mdx`
-
-## <http://www.superdan.net/download/blog/deltasdnd/MedievalDemographicsInBrief.pdf>
-
-- `src/content/posts/translations/delta-medieval-demographics-in-brief.mdx`
-
-## <http://www.superdan.net/download/blog/deltasdnd/ModuleD1-TacticalDetail.pdf>
-
-- `src/content/posts/translations/delta-more-drow-tactics-module-d1.mdx`
-
-## <http://www.superdan.net/download/blog/deltasdnd/RecreatedCMToD%26DWeaponAdjustments.ods>
-
-- `src/content/posts/translations/delta-big-mistake-weapon-vs-armor.mdx`
-
 ## <http://www.superdan.net/software/gridmapper>
 
 - `src/content/posts/translations/delta-gygax-on-dungeon-design.mdx`
-
-## <http://www.talesofthefroggod.com/files/LairsEnhance.pdf>
-
-- `src/content/posts/translations/hex-basics-4-detailing-outposts-and-adventure-sites.mdx`
 
 ## <http://www.technoirrpg.com>
 
@@ -3549,15 +3290,7 @@
 
 - `src/content/posts/translations/hackslashmaster-on-rules-of-game.mdx`
 
-## <http://www.thearma.org/essays/2HGS.html>
-
-- `src/content/posts/translations/arma-historical-sword-weights.mdx`
-
 ## <http://www.thearma.org/essays/howacutworks.htm>
-
-- `src/content/posts/translations/arma-historical-sword-weights.mdx`
-
-## <http://www.thearma.org/essays/thrusting_vs_cutting.html>
 
 - `src/content/posts/translations/arma-historical-sword-weights.mdx`
 
@@ -3586,10 +3319,6 @@
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
 
-## <http://www.welshpiper.com/wp-content/uploads/2009/10/hex_regional.pdf>
-
-- `src/content/posts/translations/hex-basics-2-getting-started.mdx`
-
 ## <http://www.wired.com/geekdad/2012/10/go-villain>
 
 - `src/content/posts/translations/dmdavid-player-obligation.mdx`
@@ -3601,14 +3330,6 @@
 ## <http://www.wizards.com/dnd/Article.aspx?x=dnd/4ll/20111122>
 
 - `src/content/posts/translations/alexandrian-in-defense-of-system-mastery.mdx`
-
-## <http://www.wizards.com/dnd/files/CC_Warlord.pdf>
-
-- `src/content/posts/translations/tribality-warlord-class-part-three.mdx`
-
-## <http://www.wizards.com/dnd/files/Mahasarpa.pdf>
-
-- `src/content/posts/translations/tribality-monk-class-part-eight.mdx`
 
 ## <http://www.wolflair.com/hero_lab>
 
@@ -4179,10 +3900,6 @@
 
 - `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 
-## <https://annarchive.com/files/Dungeon%20Magazine%20%23088.pdf>
-
-- `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
-
 ## <https://anno1800.fandom.com/wiki/Iron_Mine>
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
@@ -4267,6 +3984,10 @@
 ## <https://batintheattic.blogspot.com/2009/08/new-map-style.html>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iv.mdx`
+
+## <https://batintheattic.blogspot.com/2017/08/my-axioms-of-sandbox-campaigns.html>
+
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
 
 ## <https://bearded-devil.com/2016/07/08/hex-session-v-5th-edition-actual-play-the-van-lurken-house>
 
@@ -4630,10 +4351,6 @@
 
 - `src/content/posts/translations/delta-more-missile-modeling.mdx`
 
-## <https://deltasdnd.blogspot.com/2018/08/teleport-traditions.html>
-
-- `src/content/posts/translations/delta-spells-through-ages-teleport.mdx`
-
 ## <https://deltasdnd.blogspot.com/2019/01/oed-update-v-105.html>
 
 - `src/content/posts/translations/delta-on-throwing-spears.mdx`
@@ -4888,14 +4605,6 @@
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-2.mdx`
 
-## <https://docs.google.com/document/d/1yLsvexWBVM8IYSGopKuSfsGk5YIgCwQWd23bqb5ryD4/pub>
-
-- `src/content/posts/translations/alexandrian-scenario-structure-challenge-1-raiding-death-star.mdx`
-
-## <https://docs.google.com/spreadsheets/d/1ofuzHPMbQP31FZ5RWsIezE9dFGUlzmBbeZqM7pr8ruc/edit?usp=sharing>
-
-- `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
-
 ## <https://donjon.bin.sh/d20/dungeon>
 
 - `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
@@ -4916,31 +4625,10 @@
 
 - `src/content/posts/translations/angrygm-monster-building-202.mdx`
 
-## <https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view>
-
-- `src/content/posts/translations/angrygm-how-to-price-an-item.mdx`
-- `src/content/posts/translations/angrygm-magical-item-analysis-pregame.mdx`
-
-## <https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA>
-
-- `src/content/posts/translations/olddungeonmaster-settlement-item-availability.mdx`
-
-## <https://drive.google.com/file/d/0B8l15nXmXT3BSmdOaG1nRnVnbzA/view>
-
-- `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
-
 ## <https://drive.google.com/file/d/0Bx9oLF40m-b8S3FDcXJiUWhZRzQ/view?usp=sharing>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xx.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxi.mdx`
-
-## <https://drive.google.com/file/d/0BznYauJBmGDJU2d5aHhUX3V6S00/view?usp=sharing&resourcekey=0-iQpgm9F0Hq73Mv6UOejIzQ>
-
-- `src/content/posts/translations/procedure-for-wandering-monsters.mdx`
-
-## <https://drive.google.com/file/d/17KSElkPbquuP10sO_om1XAhWc0CQNWhi/view>
-
-- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
 
 ## <https://dumpstatadventures.com/a-players-perspective/monsters-as-mounts>
 
@@ -5111,14 +4799,6 @@
 
 - `src/content/posts/translations/deep-dive-cleric-class.mdx`
 
-## <https://dumpstatadventures.com/s/TheEnvironment_v1.pdf>
-
-- `src/content/posts/translations/dumpstat-environment-surviving-the-wilds.mdx`
-
-## <https://dumpstatadventures.com/s/TravelingExploring_v1.pdf>
-
-- `src/content/posts/translations/dumpstat-exploration-homebrew-rules-for-travel.mdx`
-
 ## <https://dumpstatadventures.com/the-gm-is-always-right/10-reasons-why-you-might-join-a-cult>
 
 - `src/content/posts/translations/deep-dive-the-warforged.mdx`
@@ -5192,10 +4872,6 @@
 
 - `src/content/posts/translations/alexandrian-visualizing-combat.mdx`
 
-## <https://education.ufl.edu/gjones/files/2013/04/teachers_guidePhysics.pdf>
-
-- `src/content/posts/translations/delta-dnd-physics-lab-falling.mdx`
-
 ## <https://effectiviology.com/benjamin-franklin-effect>
 
 - `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
@@ -5221,2231 +4897,6 @@
 
 - `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
-## <https://en.wikipedia.org/w/index.php?title=File%3AChengqiao_artifact_no._35_cast_iron.png>
-
-- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
-
-## <https://en.wikipedia.org/w/index.php?title=File%3AChinese_Fining_and_Blast_Furnace.jpg>
-
-- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
-
-## <https://en.wikipedia.org/w/index.php?title=File%3AYuan_Dynasty_-_waterwheels_and_smelting.png>
-
-- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
-
-## <https://en.wikipedia.org/w/index.php?title=File:Asian_Elephant,_Royal_Chitwan_National_Park.jpg>
-
-- `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
-
-## <https://en.wikipedia.org/w/index.php?title=File:Battle_at_Lanka,_Ramayana,_Udaipur,_1649-53.jpg>
-
-- `src/content/posts/translations/acoup-war-elephants-part-iii-elephant-memories.mdx`
-
-## <https://en.wikipedia.org/w/index.php?title=File:Blaeu_1645_-_Germaniae_veteris_typus.jpg>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiia.mdx`
-
-## <https://en.wikipedia.org/w/index.php?title=File:Dishekel_hispano-cartagin%C3%A9s-2.jpg>
-
-- `src/content/posts/translations/acoup-war-elephants-part-iii-elephant-memories.mdx`
-
-## <https://en.wikipedia.org/wiki/1200%E2%80%931300_in_European_fashion>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-
-## <https://en.wikipedia.org/wiki/1917_French_Army_mutinies>
-
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_war>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
-
-## <https://en.wikipedia.org/wiki/42_cm_Gamma_howitzer>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/5.7_cm_Maxim-Nordenfelt>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Abundance_of_elements_in_Earth%27s_crust>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/Adlocutio>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
-
-## <https://en.wikipedia.org/wiki/Adrien_Moreau>
-
-- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
-
-## <https://en.wikipedia.org/wiki/African_forest_elephant>
-
-- `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
-
-## <https://en.wikipedia.org/wiki/Agios_Athanasios,_Thessaloniki>
-
-- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
-
-## <https://en.wikipedia.org/wiki/Agri_Decumates>
-
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-
-## <https://en.wikipedia.org/wiki/Alamut_Castle>
-
-- `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
-
-## <https://en.wikipedia.org/wiki/Alexander_(2004_film)>
-
-- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
-
-## <https://en.wikipedia.org/wiki/Alexander_Mosaic>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://en.wikipedia.org/wiki/Alice%27s_Restaurant>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Allotropes_of_iron>
-
-- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
-
-## <https://en.wikipedia.org/wiki/Almain_rivet>
-
-- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
-
-## <https://en.wikipedia.org/wiki/Alum>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-
-## <https://en.wikipedia.org/wiki/American_Civil_War>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://en.wikipedia.org/wiki/American_Indian_Wars>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://en.wikipedia.org/wiki/Amurca>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Ancient_Egyptian_agriculture>
-
-- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
-
-## <https://en.wikipedia.org/wiki/Ancient_drachma>
-
-- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
-
-## <https://en.wikipedia.org/wiki/Annealing_(metallurgy)>
-
-- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
-
-## <https://en.wikipedia.org/wiki/Antoine-Augustin_Pr%C3%A9ault>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Aquila_(Roman)>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://en.wikipedia.org/wiki/Arcana_Unearthed>
-
-- `src/content/posts/translations/tribality-fighter-class-part-seven.mdx`
-
-## <https://en.wikipedia.org/wiki/Archimedes%27_screw>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/Argot>
-
-- `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
-
-## <https://en.wikipedia.org/wiki/Arminius>
-
-- `src/content/posts/translations/acoup-fremen-mirage-interlude.mdx`
-
-## <https://en.wikipedia.org/wiki/Asclepiodotus_%28philosopher%29>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-
-## <https://en.wikipedia.org/wiki/Asclepiodotus_(philosopher)>
-
-- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
-
-## <https://en.wikipedia.org/wiki/Ashlar>
-
-- `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
-
-## <https://en.wikipedia.org/wiki/Asia_(Roman_province)>
-
-- `src/content/posts/translations/acoup-clothing-4b-cloth-money.mdx`
-
-## <https://en.wikipedia.org/wiki/Assassin%27s_Creed>
-
-- `src/content/posts/translations/tribality-avenger-part-one-and-onlyish.mdx`
-- `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
-- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
-
-## <https://en.wikipedia.org/wiki/Augustus>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-
-## <https://en.wikipedia.org/wiki/Augustus_of_Prima_Porta>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
-
-## <https://en.wikipedia.org/wiki/Austenite>
-
-- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
-
-## <https://en.wikipedia.org/wiki/Autobiography_of_Harkhuf>
-
-- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
-
-## <https://en.wikipedia.org/wiki/Avaricum>
-
-- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
-
-## <https://en.wikipedia.org/wiki/Band_of_Brothers_(miniseries)>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://en.wikipedia.org/wiki/Barbute>
-
-- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
-
-## <https://en.wikipedia.org/wiki/Bardiche>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-
-## <https://en.wikipedia.org/wiki/Barding>
-
-- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
-
-## <https://en.wikipedia.org/wiki/Barley>
-
-- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
-
-## <https://en.wikipedia.org/wiki/Bast_fibre>
-
-- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://en.wikipedia.org/wiki/Bastion>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Bastion_fort>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Adrianople>
-
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Agincourt>
-
-- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Antietam>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Baltimore>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Bannockburn>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill>
-
-- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Cartagena_(209_BC)>
-
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Chancellorsville>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Cold_Harbor>
-
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Cunaxa>
-
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Cynoscephalae>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_(48_BC)>
-
-- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Formigny>
-
-- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Fornovo>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Gaugamela>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Hastings>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Li%C3%A8ge>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Philippi>
-
-- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
-
-## <https://en.wikipedia.org/wiki/Battle_of_Tours>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-
-## <https://en.wikipedia.org/wiki/Bayeux_Tapestry>
-
-- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
-- `src/content/posts/translations/acoup-shield-walls-and-spacing.mdx`
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/Beard_tax>
-
-- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
-
-## <https://en.wikipedia.org/wiki/Beast_of_G%C3%A9vaudan>
-
-- `src/content/posts/translations/delta-silver-weapons.mdx`
-
-## <https://en.wikipedia.org/wiki/Beaumaris_Castle>
-
-- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
-
-## <https://en.wikipedia.org/wiki/Bed_(geology)>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/Begging_the_question>
-
-- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
-
-## <https://en.wikipedia.org/wiki/Benefice>
-
-- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
-
-## <https://en.wikipedia.org/wiki/Bertha_of_Swabia>
-
-- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
-
-## <https://en.wikipedia.org/wiki/Bessemer_process>
-
-- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
-
-## <https://en.wikipedia.org/wiki/Big_Bertha_(howitzer)>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Black_box>
-
-- `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
-
-## <https://en.wikipedia.org/wiki/Blast_furnace>
-
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-
-## <https://en.wikipedia.org/wiki/Bleachfield>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-
-## <https://en.wikipedia.org/wiki/Bloomery>
-
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
-
-## <https://en.wikipedia.org/wiki/Boadicea_and_Her_Daughters>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Boar_spear>
-
-- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
-
-## <https://en.wikipedia.org/wiki/Bog_iron>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/Boiled_leather>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-
-## <https://en.wikipedia.org/wiki/Bombard_(weapon)>
-
-- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
-
-## <https://en.wikipedia.org/wiki/Boudica>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Boule_(bread)>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Braveheart>
-
-- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
-
-## <https://en.wikipedia.org/wiki/Bread>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Breech-loading_swivel_gun>
-
-- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
-
-## <https://en.wikipedia.org/wiki/Briquette>
-
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-
-## <https://en.wikipedia.org/wiki/Bugle_call>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://en.wikipedia.org/wiki/Calvary>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-
-## <https://en.wikipedia.org/wiki/Caponier>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Casemate>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Cast_iron>
-
-- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
-
-## <https://en.wikipedia.org/wiki/Castle>
-
-- `src/content/posts/translations/delta-castle-construction-costs.mdx`
-
-## <https://en.wikipedia.org/wiki/Castra>
-
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-
-## <https://en.wikipedia.org/wiki/Catapult>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Category:Barons_of_France>
-
-- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
-
-## <https://en.wikipedia.org/wiki/Cats_in_ancient_Egypt>
-
-- `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
-
-## <https://en.wikipedia.org/wiki/Caving>
-
-- `src/content/posts/translations/dumpstat-running-a-game-in-darkness-gm-tips.mdx`
-
-## <https://en.wikipedia.org/wiki/Celtic_languages>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Cementite>
-
-- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
-
-## <https://en.wikipedia.org/wiki/Census_Act_1800>
-
-- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
-
-## <https://en.wikipedia.org/wiki/Center_of_percussion>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-
-## <https://en.wikipedia.org/wiki/Centuriation>
-
-- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
-
-## <https://en.wikipedia.org/wiki/Centurion>
-
-- `src/content/posts/translations/total-generalship-part-iiib-officers.mdx`
-
-## <https://en.wikipedia.org/wiki/Ch%C3%A2teau_Gaillard>
-
-- `src/content/posts/translations/delta-castle-construction-costs.mdx`
-
-## <https://en.wikipedia.org/wiki/Charcoal>
-
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-
-## <https://en.wikipedia.org/wiki/Charcoal_pile>
-
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-
-## <https://en.wikipedia.org/wiki/Cheating>
-
-- `src/content/posts/translations/tribality-psionics-part-two.mdx`
-
-## <https://en.wikipedia.org/wiki/Chigi_vase>
-
-- `src/content/posts/translations/acoup-shield-walls-and-spacing.mdx`
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://en.wikipedia.org/wiki/Cinnabar>
-
-- `src/content/posts/translations/knight-at-the-opera-alternative-economics-1-money.mdx`
-
-## <https://en.wikipedia.org/wiki/Cinquedea>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-
-## <https://en.wikipedia.org/wiki/Civil%E2%80%93military_relations>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-
-## <https://en.wikipedia.org/wiki/Clothing_in_ancient_Greece>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
-
-## <https://en.wikipedia.org/wiki/Coevolution>
-
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
-
-## <https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
-
-## <https://en.wikipedia.org/wiki/Coin>
-
-- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
-
-## <https://en.wikipedia.org/wiki/Columella>
-
-- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
-
-## <https://en.wikipedia.org/wiki/Column_of_Marcus_Aurelius>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
-
-## <https://en.wikipedia.org/wiki/Compound_bow>
-
-- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
-
-## <https://en.wikipedia.org/wiki/Comtat_Venaissin>
-
-- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
-
-## <https://en.wikipedia.org/wiki/Condottiero>
-
-- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
-
-## <https://en.wikipedia.org/wiki/Cord_(unit)>
-
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-
-## <https://en.wikipedia.org/wiki/Cornicen>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://en.wikipedia.org/wiki/Cortex_(botany)>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://en.wikipedia.org/wiki/Corv%C3%A9e>
-
-- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/Counting_coup>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-
-## <https://en.wikipedia.org/wiki/Country_rock_(geology)>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/Crimean_War>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://en.wikipedia.org/wiki/Croeseid>
-
-- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
-
-## <https://en.wikipedia.org/wiki/Cromartyshire>
-
-- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-1.mdx`
-
-## <https://en.wikipedia.org/wiki/Crucible_steel>
-
-- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
-
-## <https://en.wikipedia.org/wiki/D%C5%8D_(armour)>
-
-- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
-
-## <https://en.wikipedia.org/wiki/Das_Kapital>
-
-- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
-
-## <https://en.wikipedia.org/wiki/Deborah>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
-
-## <https://en.wikipedia.org/wiki/Defensive_wall>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Deryni_novels>
-
-- `src/content/posts/translations/tribality-psionics-part-two.mdx`
-
-## <https://en.wikipedia.org/wiki/Deva_Victrix>
-
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-
-## <https://en.wikipedia.org/wiki/Dinar>
-
-- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
-
-## <https://en.wikipedia.org/wiki/Dipsacus>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://en.wikipedia.org/wiki/DoorDash>
-
-- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
-
-## <https://en.wikipedia.org/wiki/Dover_Castle>
-
-- `src/content/posts/translations/delta-castle-construction-costs.mdx`
-
-## <https://en.wikipedia.org/wiki/Dowsing>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/Dragonnades>
-
-- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
-
-## <https://en.wikipedia.org/wiki/Drowning-pit>
-
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/Dual-purpose_gun>
-
-- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
-
-## <https://en.wikipedia.org/wiki/Ducat>
-
-- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
-
-## <https://en.wikipedia.org/wiki/Dule_tree>
-
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/Dunbar%27s_number>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://en.wikipedia.org/wiki/Dungeon_Master%27s_Guide>
-
-- `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
-
-## <https://en.wikipedia.org/wiki/Dust_Bowl>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Earthdawn>
-
-- `src/content/posts/translations/tribality-psionics-part-eight.mdx`
-
-## <https://en.wikipedia.org/wiki/Egyptian_calendar>
-
-- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
-
-## <https://en.wikipedia.org/wiki/English_feudal_barony>
-
-- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
-
-## <https://en.wikipedia.org/wiki/Epidermis_(botany)>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://en.wikipedia.org/wiki/Estates_of_the_realm>
-
-- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/Estoc>
-
-- `src/content/posts/translations/ludusludorum-medieval-warfare-1.mdx`
-
-## <https://en.wikipedia.org/wiki/Facing_colour>
-
-- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
-
-## <https://en.wikipedia.org/wiki/Falling_%28accident%29>
-
-- `src/content/posts/translations/delta-falling-revisited.mdx`
-
-## <https://en.wikipedia.org/wiki/Federal_Deposit_Insurance_Corporation>
-
-- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
-
-## <https://en.wikipedia.org/wiki/Fermi_problem>
-
-- `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
-- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
-
-## <https://en.wikipedia.org/wiki/Ferrous_metallurgy>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-
-## <https://en.wikipedia.org/wiki/File:Jato_An_ancient_tool_used_to_grind_food_item_in_Nepal.ogv>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Finery_forge>
-
-- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
-
-## <https://en.wikipedia.org/wiki/Finlandization>
-
-- `src/content/posts/translations/practical-polytheism-part-i-knowledge.mdx`
-
-## <https://en.wikipedia.org/wiki/Fire-setting>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/First_Battle_of_Bull_Run>
-
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/Flax>
-
-- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://en.wikipedia.org/wiki/Florence_Cathedral>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-
-## <https://en.wikipedia.org/wiki/Florin>
-
-- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
-
-## <https://en.wikipedia.org/wiki/Flux_(metallurgy)>
-
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-
-## <https://en.wikipedia.org/wiki/Flying_shuttle>
-
-- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
-
-## <https://en.wikipedia.org/wiki/Foot-pound_%28energy%29>
-
-- `src/content/posts/translations/delta-falling-revisited.mdx`
-
-## <https://en.wikipedia.org/wiki/Fort_Bourtange>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Fort_Knox_(Maine)>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Fort_McHenry>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Fort_Sumter>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Fortified_position_of_Li%C3%A8ge>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Franco-Prussian_War>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://en.wikipedia.org/wiki/Frederick_the_Great>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
-
-## <https://en.wikipedia.org/wiki/Free_company>
-
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/French_Army_in_World_War_I>
-
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/French_denier>
-
-- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
-
-## <https://en.wikipedia.org/wiki/Friedrich_Kohlrausch_(educator)>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Friedrich_Kohlrausch_(physicist)>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Fuller%27s_earth>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-
-## <https://en.wikipedia.org/wiki/Fulling>
-
-- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
-
-## <https://en.wikipedia.org/wiki/Gabion>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Galley>
-
-- `src/content/posts/translations/starships-in-silhouette.mdx`
-
-## <https://en.wikipedia.org/wiki/Gambeson>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-
-## <https://en.wikipedia.org/wiki/Gangue>
-
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-
-## <https://en.wikipedia.org/wiki/Gardens_of_Sallust>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiia.mdx`
-
-## <https://en.wikipedia.org/wiki/Garrett_(character)>
-
-- `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
-
-## <https://en.wikipedia.org/wiki/Garrett_P.I.>
-
-- `src/content/posts/translations/tribality-psionics-part-one.mdx`
-
-## <https://en.wikipedia.org/wiki/Gates_of_Fire>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
-
-## <https://en.wikipedia.org/wiki/Gelatinous_cube>
-
-- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
-
-## <https://en.wikipedia.org/wiki/George_S._Patton%27s_speech_to_the_Third_Army>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
-
-## <https://en.wikipedia.org/wiki/Gil_Hamilton>
-
-- `src/content/posts/translations/tribality-psionics-part-one.mdx`
-
-## <https://en.wikipedia.org/wiki/Gjermundbu_helmet>
-
-- `src/content/posts/translations/acoup-lannister-infantry-kit-review.mdx`
-
-## <https://en.wikipedia.org/wiki/Glacis>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Glaive>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-
-## <https://en.wikipedia.org/wiki/Godwin%27s_law>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Gombe_Chimpanzee_War>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://en.wikipedia.org/wiki/Grain>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Granary>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Grant,_Lee,_Sherman:_Civil_War_Generals_2>
-
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/Graphite>
-
-- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
-
-## <https://en.wikipedia.org/wiki/Great_Leap_Forward>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Great_Retreat_(Russian)>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Great_Stirrup_Controversy>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-
-## <https://en.wikipedia.org/wiki/Great_Wall_of_China>
-
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-
-## <https://en.wikipedia.org/wiki/Gresham%27s_law>
-
-- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
-
-## <https://en.wikipedia.org/wiki/Groat_%28coin%29>
-
-- `src/content/posts/translations/delta-castle-construction-costs.mdx`
-- `src/content/posts/translations/delta-historical-costs-comparison.mdx`
-
-## <https://en.wikipedia.org/wiki/Groom_(profession)>
-
-- `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
-
-## <https://en.wikipedia.org/wiki/Ground-Based_Midcourse_Defense>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Guilds_of_Florence>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
-
-## <https://en.wikipedia.org/wiki/Guillaume_Fouace>
-
-- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
-
-## <https://en.wikipedia.org/wiki/Guisarme>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-
-## <https://en.wikipedia.org/wiki/Gulf_Cooperation_Council>
-
-- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
-
-## <https://en.wikipedia.org/wiki/Gunpowder>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
-
-## <https://en.wikipedia.org/wiki/Gustavus_Adolphus_of_Sweden>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
-
-## <https://en.wikipedia.org/wiki/HMS_Dreadnought_(1906)>
-
-- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
-
-## <https://en.wikipedia.org/wiki/HMS_Majestic_(1895)>
-
-- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
-
-## <https://en.wikipedia.org/wiki/HMS_Nelson_(28)>
-
-- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
-
-## <https://en.wikipedia.org/wiki/HMS_Neptune_(1909)>
-
-- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
-
-## <https://en.wikipedia.org/wiki/Hail_Mary_pass>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
-
-## <https://en.wikipedia.org/wiki/Hardpan>
-
-- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
-
-## <https://en.wikipedia.org/wiki/Hardtack>
-
-- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://en.wikipedia.org/wiki/Hardy_tool>
-
-- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
-
-## <https://en.wikipedia.org/wiki/Health_(gaming)>
-
-- `src/content/posts/translations/gaming-logic-hit-points.mdx`
-
-## <https://en.wikipedia.org/wiki/Heat_treating>
-
-- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
-
-## <https://en.wikipedia.org/wiki/Hellenistic_period>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/Hematite>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/Henry_V_(play)>
-
-- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
-
-## <https://en.wikipedia.org/wiki/Heraldry>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-
-## <https://en.wikipedia.org/wiki/Heriot>
-
-- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
-
-## <https://en.wikipedia.org/wiki/Hero%27s_journey>
-
-- `src/content/posts/translations/delta-because-dragons-bad-argument.mdx`
-
-## <https://en.wikipedia.org/wiki/Hesco_bastion>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Highland_charge>
-
-- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
-
-## <https://en.wikipedia.org/wiki/History_of_coins_in_Italy>
-
-- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
-
-## <https://en.wikipedia.org/wiki/Hoarding_(castle)>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
-
-## <https://en.wikipedia.org/wiki/Hoe-farming>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Hoist_with_his_own_petard>
-
-- `src/content/posts/translations/tribality-artificer-class-part-zero.mdx`
-
-## <https://en.wikipedia.org/wiki/Honours_of_war>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Horae>
-
-- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
-
-## <https://en.wikipedia.org/wiki/Horses_in_the_Middle_Ages>
-
-- `src/content/posts/translations/delta-horse-carrying-capacity.mdx`
-
-## <https://en.wikipedia.org/wiki/Housecarl>
-
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/Hua_Mulan>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
-
-## <https://en.wikipedia.org/wiki/Hypervigilance>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
-
-## <https://en.wikipedia.org/wiki/In_medias_res>
-
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
-
-## <https://en.wikipedia.org/wiki/Infangthief_and_outfangthief>
-
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/Infiltration_tactics>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Italian_Wars>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Japanese_battleship_Mikasa>
-
-- `src/content/posts/translations/starships-in-silhouette.mdx`
-
-## <https://en.wikipedia.org/wiki/Japanese_castle>
-
-- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
-
-## <https://en.wikipedia.org/wiki/Japanese_imperial_family_tree>
-
-- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
-
-## <https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Jem_(TV_series)>
-
-- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
-
-## <https://en.wikipedia.org/wiki/Ji_(polearm)>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-
-## <https://en.wikipedia.org/wiki/Joe_Medicine_Crow>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
-
-## <https://en.wikipedia.org/wiki/Johann_Ludwig_Ernst_Morgenstern>
-
-- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
-
-## <https://en.wikipedia.org/wiki/John_Hawkwood>
-
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/Julian%27s_Persian_expedition>
-
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
-
-## <https://en.wikipedia.org/wiki/Julius_Caesar>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-
-## <https://en.wikipedia.org/wiki/Kadesh_inscriptions>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://en.wikipedia.org/wiki/Katana>
-
-- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
-
-## <https://en.wikipedia.org/wiki/Keep>
-
-- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
-
-## <https://en.wikipedia.org/wiki/Knight_banneret>
-
-- `src/content/posts/translations/tribality-fighter-class-part-fourteen.mdx`
-
-## <https://en.wikipedia.org/wiki/Kom%C3%A1rno>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Krak_des_Chevaliers>
-
-- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
-
-## <https://en.wikipedia.org/wiki/Kto%C5%BE_js%C3%BA_bo%C5%BE%C3%AD_bojovn%C3%ADci>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-
-## <https://en.wikipedia.org/wiki/Kulah_khud>
-
-- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
-
-## <https://en.wikipedia.org/wiki/La_T%C3%A8ne_culture>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Lachish_reliefs>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
-
-## <https://en.wikipedia.org/wiki/Lady-in-waiting>
-
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/Lamellar_armour>
-
-- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
-
-## <https://en.wikipedia.org/wiki/Landsknecht>
-
-- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
-
-## <https://en.wikipedia.org/wiki/Lanolin>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://en.wikipedia.org/wiki/Latifundium>
-
-- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
-
-## <https://en.wikipedia.org/wiki/Law_of_triviality>
-
-- `src/content/posts/translations/welsh-piper-laws-of-worldbuilding.mdx`
-
-## <https://en.wikipedia.org/wiki/League_(unit)>
-
-- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
-
-## <https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre>
-
-- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-
-## <https://en.wikipedia.org/wiki/Lev%C3%A9e_en_masse>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iv-men-of-rohan.mdx`
-
-## <https://en.wikipedia.org/wiki/Libyan_Palette>
-
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
-- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
-
-## <https://en.wikipedia.org/wiki/Linseed_oil>
-
-- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
-
-## <https://en.wikipedia.org/wiki/Linsey-woolsey>
-
-- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
-
-## <https://en.wikipedia.org/wiki/List_of_queens_regnant>
-
-- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
-
-## <https://en.wikipedia.org/wiki/List_of_states_with_nuclear_weapons>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Living_Greyhawk>
-
-- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
-
-## <https://en.wikipedia.org/wiki/Livre_tournois>
-
-- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
-
-## <https://en.wikipedia.org/wiki/Loam>
-
-- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
-
-## <https://en.wikipedia.org/wiki/Loeb_Classical_Library>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-
-## <https://en.wikipedia.org/wiki/Ludonarrative_dissonance>
-
-- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
-
-## <https://en.wikipedia.org/wiki/Machicolation>
-
-- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
-
-## <https://en.wikipedia.org/wiki/Mahabharata>
-
-- `src/content/posts/translations/acoup-war-elephants-part-iii-elephant-memories.mdx`
-
-## <https://en.wikipedia.org/wiki/Mainz_Gladius>
-
-- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
-
-## <https://en.wikipedia.org/wiki/Maize>
-
-- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
-
-## <https://en.wikipedia.org/wiki/Malthusian_catastrophe>
-
-- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
-
-## <https://en.wikipedia.org/wiki/Mamluk>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-
-## <https://en.wikipedia.org/wiki/Mandarin_(comics)>
-
-- `src/content/posts/translations/tribality-artificer-class-part-two.mdx`
-
-## <https://en.wikipedia.org/wiki/Manorialism>
-
-- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
-
-## <https://en.wikipedia.org/wiki/Mantlet>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
-
-## <https://en.wikipedia.org/wiki/Mark_Antony>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-
-## <https://en.wikipedia.org/wiki/Marseille>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Martensite>
-
-- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
-
-## <https://en.wikipedia.org/wiki/Martial_race>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Medieval_demography>
-
-- `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
-
-## <https://en.wikipedia.org/wiki/Men%27s_high_jump_world_record_progression>
-
-- `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
-
-## <https://en.wikipedia.org/wiki/Mercenary_War>
-
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/Merchant>
-
-- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
-- `src/content/posts/translations/acoup-how-many-people-ancient-demography.mdx`
-
-## <https://en.wikipedia.org/wiki/Merlon>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
-
-## <https://en.wikipedia.org/wiki/Meteoric_iron>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://en.wikipedia.org/wiki/Middleman_minority>
-
-- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
-
-## <https://en.wikipedia.org/wiki/Miles_Gloriosus_(play)>
-
-- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
-
-## <https://en.wikipedia.org/wiki/Miller>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Millstone>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Missile_Defense_Agency>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Mission-type_tactics>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
-
-## <https://en.wikipedia.org/wiki/Modular_Scalable_Vest>
-
-- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
-
-## <https://en.wikipedia.org/wiki/Molly_Pitcher>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
-
-## <https://en.wikipedia.org/wiki/Mon_(emblem)>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-
-## <https://en.wikipedia.org/wiki/Mongols>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-
-## <https://en.wikipedia.org/wiki/Mons_Meg>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Mordant>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-
-## <https://en.wikipedia.org/wiki/Motte-and-bailey_castle>
-
-- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
-
-## <https://en.wikipedia.org/wiki/Murus_Gallicus>
-
-- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
-
-## <https://en.wikipedia.org/wiki/Murus_gallicus>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
-
-## <https://en.wikipedia.org/wiki/Museum_aan_de_Stroom>
-
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/Musket>
-
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-
-## <https://en.wikipedia.org/wiki/Nap_(fabric)>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-
-## <https://en.wikipedia.org/wiki/Napoleon_Crossing_the_Alps>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
-
-## <https://en.wikipedia.org/wiki/Narmer_Palette>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
-
-## <https://en.wikipedia.org/wiki/National_Mall>
-
-- `src/content/posts/translations/practical-polytheism-part-iv-little-gods-and-big-people.mdx`
-
-## <https://en.wikipedia.org/wiki/Naval_ram>
-
-- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
-
-## <https://en.wikipedia.org/wiki/Neo-Assyrian_Empire>
-
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
-
-## <https://en.wikipedia.org/wiki/Network_of_practice>
-
-- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
-
-## <https://en.wikipedia.org/wiki/New_Imperialism>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Newburgh_Conspiracy>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
-
-## <https://en.wikipedia.org/wiki/Nike_Hercules>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Nike_Zeus>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Nile_mosaic_of_Palestrina>
-
-- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
-
-## <https://en.wikipedia.org/wiki/Nivelle_Offensive>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iv.mdx`
-
-## <https://en.wikipedia.org/wiki/Noble_%28English_coin%29>
-
-- `src/content/posts/translations/delta-castle-construction-costs.mdx`
-- `src/content/posts/translations/delta-historical-costs-comparison.mdx`
-
-## <https://en.wikipedia.org/wiki/Non-commissioned_officer>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-
-## <https://en.wikipedia.org/wiki/Noricum>
-
-- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
-
-## <https://en.wikipedia.org/wiki/Norman_Borlaug>
-
-- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
-
-## <https://en.wikipedia.org/wiki/Nusaybin>
-
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-
-## <https://en.wikipedia.org/wiki/Obscurantism>
-
-- `src/content/posts/translations/acoup-fremen-mirage-interlude.mdx`
-
-## <https://en.wikipedia.org/wiki/Onside_kick>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
-
-## <https://en.wikipedia.org/wiki/Open-pit_mining>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/Orford_Castle>
-
-- `src/content/posts/translations/delta-castle-construction-costs.mdx`
-
-## <https://en.wikipedia.org/wiki/Orienteering>
-
-- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
-
-## <https://en.wikipedia.org/wiki/Ossian>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Outlaw_King>
-
-- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
-
-## <https://en.wikipedia.org/wiki/Palmanova>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)>
-
-- `src/content/posts/translations/tribality-rogue-class-part-five.mdx`
-
-## <https://en.wikipedia.org/wiki/Parasocial_interaction>
-
-- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
-
-## <https://en.wikipedia.org/wiki/Parkinson%27s_law>
-
-- `src/content/posts/translations/welsh-piper-laws-of-worldbuilding.mdx`
-
-## <https://en.wikipedia.org/wiki/Parkour>
-
-- `src/content/posts/translations/tribality-rogue-class-part-two.mdx`
-
-## <https://en.wikipedia.org/wiki/Parmenion>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://en.wikipedia.org/wiki/Path_dependence>
-
-- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
-
-## <https://en.wikipedia.org/wiki/Pattern_welding>
-
-- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
-
-## <https://en.wikipedia.org/wiki/Pectin>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://en.wikipedia.org/wiki/Penny>
-
-- `src/content/posts/translations/delta-castle-construction-costs.mdx`
-
-## <https://en.wikipedia.org/wiki/Pericles>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://en.wikipedia.org/wiki/Peveril_Castle>
-
-- `src/content/posts/translations/delta-castle-construction-costs.mdx`
-
-## <https://en.wikipedia.org/wiki/Pfostenschlitzmauer>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
-
-## <https://en.wikipedia.org/wiki/Phalanx>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-
-## <https://en.wikipedia.org/wiki/Pharaoh_(module)>
-
-- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
-
-## <https://en.wikipedia.org/wiki/Phloem>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://en.wikipedia.org/wiki/Physiological_cross-sectional_area>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
-
-## <https://en.wikipedia.org/wiki/Pike_and_shot>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-- `src/content/posts/translations/acoup-shield-walls-and-spacing.mdx`
-
-## <https://en.wikipedia.org/wiki/Pilum>
-
-- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
-
-## <https://en.wikipedia.org/wiki/Pith>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://en.wikipedia.org/wiki/Plate_armour>
-
-- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
-
-## <https://en.wikipedia.org/wiki/Player%27s_Handbook>
-
-- `src/content/posts/translations/creighton-gygax-on-rules-lawyers.mdx`
-
-## <https://en.wikipedia.org/wiki/Pleat>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-
-## <https://en.wikipedia.org/wiki/Plough>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Podzol>
-
-- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
-
-## <https://en.wikipedia.org/wiki/Polygonal_fort>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Pompey>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-
-## <https://en.wikipedia.org/wiki/Pool_noodle>
-
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/Pope_Joan>
-
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/Potash_pit>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://en.wikipedia.org/wiki/Potassium_nitrate>
-
-- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
-
-## <https://en.wikipedia.org/wiki/Potos%C3%AD>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/Pound_sterling>
-
-- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
-
-## <https://en.wikipedia.org/wiki/Powered_by_the_Apocalypse>
-
-- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
-
-## <https://en.wikipedia.org/wiki/Praefectus_annonae>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Prayer_of_Humble_Access>
-
-- `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
-
-## <https://en.wikipedia.org/wiki/Presque_Isle_State_Park>
-
-- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-iii.mdx`
-
-## <https://en.wikipedia.org/wiki/Price_controls>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Prussian_Army>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://en.wikipedia.org/wiki/Przemy%C5%9Bl_Fortress>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Psychological_operations_(United_States)>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
-
-## <https://en.wikipedia.org/wiki/Purple_Heart>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://en.wikipedia.org/wiki/Push_of_pike>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-
-## <https://en.wikipedia.org/wiki/Quartering_Acts>
-
-- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
-
-## <https://en.wikipedia.org/wiki/Quern-stone>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Rain_shadow>
-
-- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
-
-## <https://en.wikipedia.org/wiki/Rangkiang>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Ransom_of_King_John_II_of_France>
-
-- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
-
-## <https://en.wikipedia.org/wiki/Recruitment_to_the_British_Army_during_the_First_World_War>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-
-## <https://en.wikipedia.org/wiki/Red_Rover>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
-
-## <https://en.wikipedia.org/wiki/Revolution_in_military_affairs>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Ricasso>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-
-## <https://en.wikipedia.org/wiki/Rice_pounder>
-
-- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
-
-## <https://en.wikipedia.org/wiki/Rice_production_in_China>
-
-- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
-
-## <https://en.wikipedia.org/wiki/Roman_army>
-
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-
-## <https://en.wikipedia.org/wiki/Roman_commerce>
-
-- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
-
-## <https://en.wikipedia.org/wiki/Roman_economy>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
-
-## <https://en.wikipedia.org/wiki/Roman_legion>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-- `src/content/posts/translations/acoup-shield-walls-and-spacing.mdx`
-
-## <https://en.wikipedia.org/wiki/Rotary_International>
-
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/Royal_forest>
-
-- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
-
-## <https://en.wikipedia.org/wiki/Rubia_tinctorum>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-
-## <https://en.wikipedia.org/wiki/SMS_Nassau>
-
-- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
-
-## <https://en.wikipedia.org/wiki/Sack_of_Antwerp>
-
-- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/Salic_law>
-
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/Salt_tax>
-
-- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
-
-## <https://en.wikipedia.org/wiki/Saponaria>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://en.wikipedia.org/wiki/Sarcina>
-
-- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
-
-## <https://en.wikipedia.org/wiki/Satsuma-class_battleship>
-
-- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
-
-## <https://en.wikipedia.org/wiki/Scale_armour>
-
-- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
-
-## <https://en.wikipedia.org/wiki/Sch%C3%B6ningen_spears>
-
-- `src/content/posts/translations/delta-on-throwing-spears.mdx`
-
-## <https://en.wikipedia.org/wiki/Scientific_racism>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/Scottish_Borders>
-
-- `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
-
-## <https://en.wikipedia.org/wiki/Seleucis_of_Syria>
-
-- `src/content/posts/translations/acoup-ancient-mediterranean-mercenaries.mdx`
-
-## <https://en.wikipedia.org/wiki/Sestertius>
-
-- `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
-
-## <https://en.wikipedia.org/wiki/Sheep>
-
-- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
-
-## <https://en.wikipedia.org/wiki/Shell_shock>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
-
-## <https://en.wikipedia.org/wiki/Siege>
-
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
-
-## <https://en.wikipedia.org/wiki/Siege_artillery_in_the_American_Civil_War>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Siege_of_Amida_(359)>
-
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-
-## <https://en.wikipedia.org/wiki/Siege_of_Antioch>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
-
-## <https://en.wikipedia.org/wiki/Siege_of_Dara_(573)>
-
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-
-## <https://en.wikipedia.org/wiki/Siege_of_Fort_Pulaski>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)>
-
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
-
-## <https://en.wikipedia.org/wiki/Siege_of_Masada>
-
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
-
-## <https://en.wikipedia.org/wiki/Siege_of_Namur_(1914)>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Siege_of_Novogeorgievsk>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Siege_of_Yorktown>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Sieges_of_Stirling_Castle>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
-
-## <https://en.wikipedia.org/wiki/Siena_Cathedral>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-
-## <https://en.wikipedia.org/wiki/Sigmoid_function>
-
-- `src/content/posts/translations/delta-falling-revisited.mdx`
-- `src/content/posts/translations/delta-more-missile-modeling.mdx`
-
-## <https://en.wikipedia.org/wiki/Silk_Road>
-
-- `src/content/posts/translations/acoup-clothing-4b-cloth-money.mdx`
-
-## <https://en.wikipedia.org/wiki/Silvopasture>
-
-- `src/content/posts/translations/acoup-lonely-city-part-ii-real-cities-have-curves.mdx`
-
-## <https://en.wikipedia.org/wiki/Singara>
-
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-
-## <https://en.wikipedia.org/wiki/Siphonaptera_(poem)>
-
-- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
-
-## <https://en.wikipedia.org/wiki/Small_Arms_Protective_Insert>
-
-- `src/content/posts/translations/acoup-problem-with-sci-fi-body-armor.mdx`
-
-## <https://en.wikipedia.org/wiki/Soke_(legal)>
-
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://en.wikipedia.org/wiki/Spatha>
-
-- `src/content/posts/translations/acoup-journey-of-the-roman-gladius.mdx`
-
-## <https://en.wikipedia.org/wiki/St_Crispin%27s_Day_Speech>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
-
-## <https://en.wikipedia.org/wiki/Staddle_stones>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Staple_(wool)>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://en.wikipedia.org/wiki/Steel>
-
-- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
-
-## <https://en.wikipedia.org/wiki/Steelmaking>
-
-- `src/content/posts/translations/acoup-iron-4a-steel-yourself.mdx`
-
-## <https://en.wikipedia.org/wiki/Steven_Zirnkilton>
-
-- `src/content/posts/translations/tribality-warlord-class-part-six.mdx`
-
-## <https://en.wikipedia.org/wiki/Stirling_Castle>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
-
-## <https://en.wikipedia.org/wiki/Stop-loss_policy>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-
-## <https://en.wikipedia.org/wiki/Strategic_Defense_Initiative>
-
-- `src/content/posts/translations/acoup-fortification-part-v-age-of-industrial-firepower.mdx`
-
-## <https://en.wikipedia.org/wiki/Strigil>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-
-## <https://en.wikipedia.org/wiki/Sulla>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
-
-## <https://en.wikipedia.org/wiki/Sumptuary_law>
-
-- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
-
-## <https://en.wikipedia.org/wiki/Swan_maiden>
-
-- `src/content/posts/translations/delta-more-from-three-hearts-and-three-lions.mdx`
-
-## <https://en.wikipedia.org/wiki/Tabula_Peutingeriana>
-
-- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
-
-## <https://en.wikipedia.org/wiki/Tacuinum_Sanitatis>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Tannic_acid>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-
-## <https://en.wikipedia.org/wiki/Tell_es-Sultan>
-
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
-
-## <https://en.wikipedia.org/wiki/Telluric_iron>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/Telos>
-
-- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
-
-## <https://en.wikipedia.org/wiki/Tempering_(metallurgy)>
-
-- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
-
-## <https://en.wikipedia.org/wiki/Ten_Thousand_(Greek_mercenaries)>
-
-- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
-
-## <https://en.wikipedia.org/wiki/Tent_pegging>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-
-## <https://en.wikipedia.org/wiki/Terminal_velocity>
-
-- `src/content/posts/translations/delta-falling-revisited.mdx`
-
-## <https://en.wikipedia.org/wiki/Terracotta_Army>
-
-- `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
-
-## <https://en.wikipedia.org/wiki/Testudo_formation>
-
-- `src/content/posts/translations/acoup-shield-walls-and-spacing.mdx`
-
-## <https://en.wikipedia.org/wiki/Tetragonal_crystal_system>
-
-- `src/content/posts/translations/acoup-iron-4b-work-hardening.mdx`
-
-## <https://en.wikipedia.org/wiki/Textiles_in_folklore>
-
-- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
-
-## <https://en.wikipedia.org/wiki/The_British_Grenadiers>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-
-## <https://en.wikipedia.org/wiki/The_Course_of_Empire_(paintings)>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-i.mdx`
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://en.wikipedia.org/wiki/The_Keep_on_the_Borderlands>
-
-- `src/content/posts/translations/creighton-gygax-on-players-most-important-ability.mdx`
-
-## <https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two>
-
-- `src/content/posts/translations/delta-damn-you-gygax-part-4.mdx`
-
-## <https://en.wikipedia.org/wiki/The_Pardoner%27s_Tale>
-
-- `src/content/posts/translations/coinsandscrolls-indulgences-and-clerical-services.mdx`
-
-## <https://en.wikipedia.org/wiki/The_Perfect_Storm>
-
-- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-i.mdx`
-
-## <https://en.wikipedia.org/wiki/The_Romans_in_their_Decadence>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
-
-## <https://en.wikipedia.org/wiki/The_Sandman:_The_Doll%27s_House>
-
-- `src/content/posts/translations/tribality-assassin-class-redux.mdx`
-
-## <https://en.wikipedia.org/wiki/The_Shepherdess>
-
-- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
-
-## <https://en.wikipedia.org/wiki/The_Tale_of_the_Heike>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
-
-## <https://en.wikipedia.org/wiki/The_Tempest>
-
-- `src/content/posts/translations/tribality-shair-class-part-two.mdx`
-
-## <https://en.wikipedia.org/wiki/The_Thirty-Six_Dramatic_Situations>
-
-- `src/content/posts/translations/gnomestew-as-your-table-ages.mdx`
-
-## <https://en.wikipedia.org/wiki/The_Three_Musketeers>
-
-- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
-
-## <https://en.wikipedia.org/wiki/The_Two_Brothers>
-
-- `src/content/posts/translations/delta-silver-weapons.mdx`
-
-## <https://en.wikipedia.org/wiki/Thelony>
-
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/Theme_(Byzantine_district)>
-
-- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
-
-## <https://en.wikipedia.org/wiki/Theodora_(wife_of_Justinian_I)>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
-
-## <https://en.wikipedia.org/wiki/Thiamine_deficiency>
-
-- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
-
-## <https://en.wikipedia.org/wiki/Third_Amendment_to_the_United_States_Constitution>
-
-- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
-
-## <https://en.wikipedia.org/wiki/Thousand-yard_stare>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
-
-## <https://en.wikipedia.org/wiki/Tithe>
-
-- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
-
-## <https://en.wikipedia.org/wiki/Todd_Howard>
-
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-
-## <https://en.wikipedia.org/wiki/Tomb_of_Eurysaces_the_Baker>
-
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-
-## <https://en.wikipedia.org/wiki/Tonsure>
-
-- `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
-
-## <https://en.wikipedia.org/wiki/Total_War_Saga:_Thrones_of_Britannia>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-
-## <https://en.wikipedia.org/wiki/Tr%C3%A8s_Riches_Heures_du_Duc_de_Berry>
-
-- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
-
-## <https://en.wikipedia.org/wiki/Trajan>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://en.wikipedia.org/wiki/Transhumance>
-
-- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
-
-## <https://en.wikipedia.org/wiki/Treadwheel>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
-
-## <https://en.wikipedia.org/wiki/Trebuchet>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Trimalchio>
-
-- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
-
-## <https://en.wikipedia.org/wiki/Trireme>
-
-- `src/content/posts/translations/starships-in-silhouette.mdx`
-
-## <https://en.wikipedia.org/wiki/Turban_helmet>
-
-- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
-
-## <https://en.wikipedia.org/wiki/Tyche>
-
-- `src/content/posts/translations/total-generalship-part-iiic-morale-and-cohesion.mdx`
-
-## <https://en.wikipedia.org/wiki/USS_South_Carolina_(BB-26)>
-
-- `src/content/posts/translations/where-does-my-main-battery-go.mdx`
-
-## <https://en.wikipedia.org/wiki/Vajra>
-
-- `src/content/posts/translations/tribality-psionics-part-five.mdx`
-
-## <https://en.wikipedia.org/wiki/Victory_disease>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
-
-## <https://en.wikipedia.org/wiki/Vivandi%C3%A8re>
-
-- `src/content/posts/translations/acoup-logistics-part-i-the-problem.mdx`
-
-## <https://en.wikipedia.org/wiki/Volley_fire>
-
-- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
-- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
-
-## <https://en.wikipedia.org/wiki/Volunteer_military>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-
-## <https://en.wikipedia.org/wiki/Walls_of_Constantinople>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-v-ladders-are-chaos.mdx`
-- `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
-
-## <https://en.wikipedia.org/wiki/War_elephant>
-
-- `src/content/posts/translations/acoup-war-elephants-part-i-battle-pachyderms.mdx`
-
-## <https://en.wikipedia.org/wiki/Warwolf>
-
-- `src/content/posts/translations/acoup-fortification-part-iv-french-guns-and-italian-lines.mdx`
-
-## <https://en.wikipedia.org/wiki/Washington_Generals>
-
-- `src/content/posts/translations/dmdavid-four-tactics-cunning-foes.mdx`
-
-## <https://en.wikipedia.org/wiki/Wechsler_Adult_Intelligence_Scale>
-
-- `src/content/posts/translations/ludusludorum-magic-prevalent-pervasive.mdx`
-
-## <https://en.wikipedia.org/wiki/Wheat>
-
-- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
-
-## <https://en.wikipedia.org/wiki/William_Sadler_(painter)>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
-
-## <https://en.wikipedia.org/wiki/Window_tax>
-
-- `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
-
-## <https://en.wikipedia.org/wiki/Wootz_steel>
-
-- `src/content/posts/translations/acoup-iron-addendum-crucible-steel-and-cast-iron.mdx`
-
-## <https://en.wikipedia.org/wiki/Work_%28physics%29>
-
-- `src/content/posts/translations/delta-falling-revisited.mdx`
-
-## <https://en.wikipedia.org/wiki/World_War_I_memorials>
-
-- `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
-
-## <https://en.wikipedia.org/wiki/Xylem>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://en.wikipedia.org/wiki/Yari>
-
-- `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
-
-## <https://en.wikipedia.org/wiki/Zodiacal_light>
-
-- `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
-
 ## <https://en.wikisource.org/wiki/The_Art_of_War_(Sun)/Section_I>
 
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
@@ -7465,22 +4916,6 @@
 ## <https://erikscottdebie.com/2017/07/25/characters-with-class-paladins>
 
 - `src/content/posts/translations/gaming-logic-hit-points.mdx`
-
-## <https://erikscottdebie.com/wp-content/uploads/2022/02/feats-survey.pdf>
-
-- `src/content/posts/translations/how-much-combat-is-in-dd.mdx`
-
-## <https://erikscottdebie.com/wp-content/uploads/2022/02/invocation-survey.pdf>
-
-- `src/content/posts/translations/how-much-combat-is-in-dd.mdx`
-
-## <https://erikscottdebie.com/wp-content/uploads/2022/02/phb-combat-content-survey.xlsx>
-
-- `src/content/posts/translations/how-much-combat-is-in-dd.mdx`
-
-## <https://erikscottdebie.com/wp-content/uploads/2022/02/spells-survey.pdf>
-
-- `src/content/posts/translations/how-much-combat-is-in-dd.mdx`
 
 ## <https://erinmevans.com/books>
 
@@ -7545,10 +4980,6 @@
 
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
 
-## <https://friendorfoe.com/d/Old%20School%20Primer.pdf>
-
-- `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
-
 ## <https://fs.blog/the-laws-of-simplicity>
 
 - `src/content/posts/translations/welsh-piper-laws-of-worldbuilding.mdx`
@@ -7564,10 +4995,6 @@
 ## <https://gameofthrones.fandom.com/wiki/Battle_of_the_Goldroad>
 
 - `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
-
-## <https://gamingballistic.com/wp-content/uploads/2018/11/Medieval-Demographics-Made-Easy-1.pdf>
-
-- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
 
 ## <https://geekandsundry.com/5-tips-for-creating-rpg-villains-with-bite>
 
@@ -7685,10 +5112,6 @@
 ## <https://imbrattabit.wordpress.com/2019/12/09/what-does-it-take-to-be-a-neotrad-role-playing-game>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
-
-## <https://img.4plebs.org/boards/tg/image/1367/50/1367508742810.pdf>
-
-- `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
 
 ## <https://inkarnate.com>
 
@@ -7812,53 +5235,9 @@
 
 - `src/content/posts/translations/ludusludorum-get-medieval-village.mdx`
 
-## <https://ludusludorum.com/wp-content/uploads/2014/10/Class-Demographics-for-5th-Edition-The-Population-Engine.xlsx>
-
-- `src/content/posts/translations/ludus-population-engine.mdx`
-
-## <https://ludusludorum.com/wp-content/uploads/2014/10/Eador.pdf>
-
-- `src/content/posts/translations/ludus-population-engine.mdx`
-
-## <https://ludusludorum.com/wp-content/uploads/2014/10/Kings-Reach.pdf>
-
-- `src/content/posts/translations/ludus-population-engine.mdx`
-
-## <https://ludusludorum.com/wp-content/uploads/2014/10/Kirin-revised.pdf>
-
-- `src/content/posts/translations/ludus-population-engine.mdx`
-
-## <https://ludusludorum.com/wp-content/uploads/2014/10/Maficester.pdf>
-
-- `src/content/posts/translations/ludus-population-engine.mdx`
-
-## <https://ludusludorum.com/wp-content/uploads/2014/10/Runerock.pdf>
-
-- `src/content/posts/translations/ludus-population-engine.mdx`
-
-## <https://ludusludorum.com/wp-content/uploads/2014/11/eador.wav>
-
-- `src/content/posts/translations/ludus-population-engine.mdx`
-
-## <https://ludusludorum.com/wp-content/uploads/2014/11/maficester.wav>
-
-- `src/content/posts/translations/ludus-population-engine.mdx`
-
-## <https://ludusludorum.com/wp-content/uploads/2016/04/PREGEN-CHARACTER-ANALYSIS-RAW-DATA.pdf>
-
-- `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
-
-## <https://ludusludorum.com/wp-content/uploads/2016/04/PREGEN-CHARACTER-ANALYSIS.pdf>
-
-- `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
-
 ## <https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign>
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
-
-## <https://m.youtube.com/watch?time_continue=2&v=SiCJkdM2wcM&embeds_referring_euri=https%3A%2F%2Fthealexandrian.net%2F&source_ve_path=Mjg2NjY&feature=emb_logo>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 
 ## <https://magic.wizards.com/en/articles/archive/making-magic/ten-things-every-game-needs-part-1-part-2-2011-12-19>
 
@@ -7879,28 +5258,6 @@
 ## <https://maziriansgarden.blogspot.com/2020/08/the-carriages-of-zyan.html>
 
 - `src/content/posts/translations/mazirians-garden-rules-for-citycrawling.mdx`
-
-## <https://media.wizards.com/2014/downloads/dnd/DMBasicRulesv.0.3.pdf>
-
-- `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
-- `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
-
-## <https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf>
-
-- `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
-- `src/content/posts/translations/dmdavid-find-fun-in-traps.mdx`
-
-## <https://media.wizards.com/2016/dnd/downloads/UA_Druid11272016_CAWS.pdf>
-
-- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
-
-## <https://media.wizards.com/2020/dnd/downloads/dnd_essentials_rulebook.pdf>
-
-- `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
-
-## <https://media.wizards.com/downloads/dnd/StarterSet_Characters.pdf>
-
-- `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
 
 ## <https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1315>
 
@@ -7942,10 +5299,6 @@
 
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
-
-## <https://nacto.org/docs/usdg/relationship_between_speed_risk_fatal_injury_pedestrians_and_car_occupants_richards.pdf>
-
-- `src/content/posts/translations/delta-falling-revisited.mdx`
 
 ## <https://nbos.com/products/inspiration-pad-pro>
 
@@ -8103,10 +5456,6 @@
 
 - `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
 
-## <https://pneymatiko.files.wordpress.com/2012/06/dnd-next_caves-of-chaos1.pdf>
-
-- `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
-
 ## <https://pnprpg.ru/blog/2014/09/04/thealexandrian-game-structures-p7>
 
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
@@ -8240,10 +5589,6 @@
 
 - `src/content/posts/translations/alexandrian-rewind-your-timeline.mdx`
 
-## <https://rochestercathedralresearchguild.files.wordpress.com/2018/02/2018-02-18_swerian_edited.pdf>
-
-- `src/content/posts/translations/oaths-how-do-they-work.mdx`
-
 ## <https://rochestercathedralresearchguild.org/chris_monk>
 
 - `src/content/posts/translations/oaths-how-do-they-work.mdx`
@@ -8312,10 +5657,6 @@
 
 - `src/content/posts/translations/silverarmpress-a-web-of-hooks.mdx`
 
-## <https://simple.wikipedia.org/wiki/List_of_U.S._states_by_population_density>
-
-- `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
-
 ## <https://slack.com>
 
 - `src/content/posts/translations/creighton-how-i-use-slack-to-help-run-my-campaign.mdx`
@@ -8348,10 +5689,6 @@
 
 - `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
 - `src/content/posts/translations/slyflourish-looking-back-on-fronts.mdx`
-
-## <https://slyflourish.com/lazydm/lazy_dm_preview.pdf>
-
-- `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
 
 ## <https://slyflourish.com/randomness_creativity_and_dnd.html>
 
@@ -8613,6 +5950,10 @@
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
 - `src/content/posts/translations/delta-damn-you-gygax-part-4.mdx`
 
+## <https://thealexandrian.net/creations/icewind-dale/icewind-dale-distance-tables.xlsx>
+
+- `src/content/posts/translations/alexandrian-icewind-dale-travel-times.mdx`
+
 ## <https://thealexandrian.net/dungeons-dragons>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
@@ -8621,9 +5962,12 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
 - `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
+- `src/content/posts/translations/alexandrian-dont-prep-plots-tools-not-contingencies.mdx`
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+- `src/content/posts/translations/alexandrian-empower-prep-rachov-principle.mdx`
 - `src/content/posts/translations/alexandrian-five-node-mystery.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+- `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
 - `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
 
 ## <https://thealexandrian.net/in-the-shadow-of-the-spire>
@@ -8636,15 +5980,20 @@
 - `src/content/posts/translations/alexandrian-campaign-status-event-fallout.mdx`
 - `src/content/posts/translations/alexandrian-campaign-status-supporting-cast.mdx`
 - `src/content/posts/translations/alexandrian-campaign-status-trackers.mdx`
+- `src/content/posts/translations/alexandrian-creating-noble-titles.mdx`
+- `src/content/posts/translations/alexandrian-cultural-penumbra.mdx`
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 - `src/content/posts/translations/alexandrian-getting-the-players-to-care.mdx`
 - `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
 - `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
+- `src/content/posts/translations/alexandrian-nation-in-history.mdx`
+- `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
 - `src/content/posts/translations/alexandrian-prop-provenance.mdx`
 - `src/content/posts/translations/alexandrian-review-ptolus-city-of-adventure.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
+- `src/content/posts/translations/alexandrian-scenario-timelines.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
 - `src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx`
 - `src/content/posts/translations/alexandrian-three-point-plotting.mdx`
@@ -8678,6 +6027,7 @@
 - `src/content/posts/translations/alexandrian-random-dd-tip-inverting-challenge.mdx`
 - `src/content/posts/translations/alexandrian-session-0-modules.mdx`
 - `src/content/posts/translations/alexandrian-types-of-dungeons.mdx`
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
 
 ## <https://thealexandrian.net/tag/tales-from-the-table>
 
@@ -8786,6 +6136,7 @@
 ## <https://thealexandrian.net/wordpress/2008/roleplaying-games/playtesting-4th-edition>
 
 - `src/content/posts/translations/alexandrian-1dd-5e-skill-system-is-bad.mdx`
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
 
 ## <https://thealexandrian.net/wordpress/2028/roleplaying-games/playtesting-4th-edition-compiled>
 
@@ -8795,9 +6146,17 @@
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
+## <https://thealexandrian.net/wordpress/2104/roleplaying-games/ptolus-in-the-shadow-of-the-spire-designing-character-backgrounds-part-1>
+
+- `src/content/posts/translations/alexandrian-icewind-dale-characters.mdx`
+
 ## <https://thealexandrian.net/wordpress/2184/roleplaying-games/ptolus-running-the-campaign-non-standard-groups>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-17-too-many-players.mdx`
+
+## <https://thealexandrian.net/wordpress/2272/reviews/what-im-reading-52-dune>
+
+- `src/content/posts/translations/alexandrian-creating-noble-titles.mdx`
 
 ## <https://thealexandrian.net/wordpress/237/roleplaying-games/the-tomb-of-horrors>
 
@@ -8822,6 +6181,7 @@
 ## <https://thealexandrian.net/wordpress/2477/roleplaying-games/thinking-about-morale>
 
 - `src/content/posts/translations/alexandrian-death-wish-common-npc.mdx`
+- `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
 
 ## <https://thealexandrian.net/wordpress/2537/roleplaying-games/ptolus-running-the-campaign-graphical-resources>
 
@@ -8918,15 +6278,6 @@
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-3-mcguffin-keep-away.mdx`
 
-## <https://thealexandrian.net/wordpress/36383/roleplaying-games/dont-prep-plots-you-will-rue-this-day-heroes-the-principles-of-rpg-villainy>
-
-- `src/content/posts/translations/alexandrian-death-wish-common-npc.mdx`
-- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
-- `src/content/posts/translations/alexandrian-enter-the-boss.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
-- `src/content/posts/translations/alexandrian-linear-mediums-rpg-examples.mdx`
-- `src/content/posts/translations/alexandrian-the-mop-up.mdx`
-
 ## <https://thealexandrian.net/wordpress/36490/roleplaying-games/thinking-about-urbancrawls-part-2-applying-the-crawl>
 
 - `src/content/posts/translations/alexandrian-thinking-about-urbancrawls.mdx`
@@ -8991,6 +6342,7 @@
 - `src/content/posts/translations/alexandrian-bringing-the-pcs-together.mdx`
 - `src/content/posts/translations/alexandrian-campaign-status-correspondence.mdx`
 - `src/content/posts/translations/alexandrian-campaign-status-trinity-toolbox.mdx`
+- `src/content/posts/translations/alexandrian-dont-prep-plots-tools-not-contingencies.mdx`
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
 - `src/content/posts/translations/alexandrian-epilogues-skipping-time.mdx`
 - `src/content/posts/translations/alexandrian-gming-on-a-time-limit.mdx`
@@ -9011,17 +6363,6 @@
 
 - `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
 - `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
-
-## <https://thealexandrian.net/wordpress/37422/roleplaying-games/dont-prep-plots-tools-not-contingencies>
-
-- `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates.mdx`
-- `src/content/posts/translations/alexandrian-art-of-pacing-running-awesome-scenes.mdx`
-- `src/content/posts/translations/alexandrian-ask-17-dilemma-design.mdx`
-- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
-- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
-- `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
-- `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
-- `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
 
 ## <https://thealexandrian.net/wordpress/37585/roleplaying-games/the-strange-violet-spiral-gambit>
 
@@ -9069,6 +6410,7 @@
 ## <https://thealexandrian.net/wordpress/38659/roleplaying-games/open-table-manifesto-part-2-what-an-open-table-needs>
 
 - `src/content/posts/translations/alexandrian-ask-21-open-table-tracking.mdx`
+- `src/content/posts/translations/alexandrian-icewind-dale-running-sandbox.mdx`
 - `src/content/posts/translations/alexandrian-open-table-manifesto.mdx`
 
 ## <https://thealexandrian.net/wordpress/38669/roleplaying-games/open-table-manifesto-part-3-organizing-your-open-table>
@@ -9131,6 +6473,10 @@
 - `src/content/posts/translations/alexandrian-standoffs-surprise.mdx`
 - `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
 
+## <https://thealexandrian.net/wordpress/39864/roleplaying-games/ptolus-running-the-campaign-looting-the-bestiaries>
+
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
+
 ## <https://thealexandrian.net/wordpress/39941/roleplaying-games/scenario-structure-challenge>
 
 - `src/content/posts/translations/alexandrian-ask-20-transferable-techniques.mdx`
@@ -9169,6 +6515,10 @@
 ## <https://thealexandrian.net/wordpress/40562/roleplaying-games/blades-in-the-dark-crew-mission-type-tables>
 
 - `src/content/posts/translations/alexandrian-campaign-status-restocking-checklists.mdx`
+
+## <https://thealexandrian.net/wordpress/40610/roleplaying-games/the-dreaming-arts>
+
+- `src/content/posts/translations/alexandrian-wondrous-landscapes-7-mystic-mountains.mdx`
 
 ## <https://thealexandrian.net/wordpress/40692/roleplaying-games/ptolus-running-the-campaign-whoops-forgot-the-wolf>
 
@@ -9283,13 +6633,6 @@
 ## <https://thealexandrian.net/wordpress/4142/random/definitions-of-science-fiction>
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-3-mcguffin-keep-away.mdx`
-
-## <https://thealexandrian.net/wordpress/4154/roleplaying-games/dont-prep-plots-prepping-scenario-timelines>
-
-- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
-- `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
-- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
-- `src/content/posts/translations/alexandrian-scenario-structure-challenge-2-race-to-prize.mdx`
 
 ## <https://thealexandrian.net/wordpress/4176/roleplaying-games/odd-in-the-caverns-of-thracia>
 
@@ -9412,6 +6755,10 @@
 ## <https://thealexandrian.net/wordpress/43096/roleplaying-games/feng-shui-filling-the-shot>
 
 - `src/content/posts/translations/alexandrian-roleplaying-initiative.mdx`
+
+## <https://thealexandrian.net/wordpress/43155/roleplaying-games/in-the-shadow-of-the-spire-session-18b-missed-opportunities>
+
+- `src/content/posts/translations/alexandrian-cultural-penumbra.mdx`
 
 ## <https://thealexandrian.net/wordpress/43244/roleplaying-games/reactions-to-odd-hex-clearing-procedures>
 
@@ -9544,14 +6891,11 @@
 - `src/content/posts/translations/alexandrian-guidance-sucks-in-fifth-edition.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-hints.mdx`
 
-## <https://thealexandrian.net/wordpress/45125/roleplaying-games/icewind-dale-running-the-sandbox>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
-
 ## <https://thealexandrian.net/wordpress/45149/roleplaying-games/running-the-campaign-dragon-heist-creating-the-characters>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
 - `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
+- `src/content/posts/translations/alexandrian-icewind-dale-characters.mdx`
 - `src/content/posts/translations/alexandrian-session-0-modules.mdx`
 
 ## <https://thealexandrian.net/wordpress/45263/roleplaying-games/the-secret-life-of-nodes>
@@ -9564,16 +6908,16 @@
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
+## <https://thealexandrian.net/wordpress/45308/roleplaying-games/icewind-dale-travel-times-part-2-destructions-light>
+
+- `src/content/posts/translations/alexandrian-review-rime-of-the-frostmaiden.mdx`
+
 ## <https://thealexandrian.net/wordpress/45361/roleplaying-games/ptolus-running-the-campaign-using-lore-books>
 
 - `src/content/posts/translations/alexandrian-ask-23-macro-to-micro.mdx`
 - `src/content/posts/translations/alexandrian-campaign-status-trinity-toolbox.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-hints.mdx`
 - `src/content/posts/translations/alexandrian-what-were-we-doing-again.mdx`
-
-## <https://thealexandrian.net/wordpress/45437/roleplaying-games/review-icewind-dale-rime-of-the-frostmaiden>
-
-- `src/content/posts/translations/alexandrian-forgotten-realms-arveiaturace-white-wyrm.mdx`
 
 ## <https://thealexandrian.net/wordpress/45486/roleplaying-games/from-waterdeep-to-avernus>
 
@@ -9600,6 +6944,10 @@
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
 - `src/content/posts/translations/alexandrian-whither-exploration.mdx`
+
+## <https://thealexandrian.net/wordpress/46032/roleplaying-games/advanced-gamemastery-running-the-sandbox>
+
+- `src/content/posts/translations/alexandrian-review-legacy-crystal-shard.mdx`
 
 ## <https://thealexandrian.net/wordpress/46140/roleplaying-games/remixing-avernus-part-7-exploring-avernus>
 
@@ -9645,6 +6993,10 @@
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-1-raiding-death-star.mdx`
 
+## <https://thealexandrian.net/wordpress/46602/roleplaying-games/the-spectrum-of-prep>
+
+- `src/content/posts/translations/alexandrian-review-legacy-crystal-shard.mdx`
+
 ## <https://thealexandrian.net/wordpress/46631/roleplaying-games/2021-ennie-award-nomination-magical-kitties-save-the-day>
 
 - `src/content/posts/translations/alexandrian-ask-20-transferable-techniques.mdx`
@@ -9656,6 +7008,16 @@
 ## <https://thealexandrian.net/wordpress/46733/roleplaying-games/icewind-dale>
 
 - `src/content/posts/translations/alexandrian-forgotten-realms-arveiaturace-white-wyrm.mdx`
+- `src/content/posts/translations/alexandrian-icewind-dale-characters.mdx`
+- `src/content/posts/translations/alexandrian-icewind-dale-goat-ball.mdx`
+- `src/content/posts/translations/alexandrian-icewind-dale-running-sandbox.mdx`
+- `src/content/posts/translations/alexandrian-icewind-dale-travel-times.mdx`
+- `src/content/posts/translations/alexandrian-review-legacy-crystal-shard.mdx`
+- `src/content/posts/translations/alexandrian-sandbox-and-simulation.mdx`
+
+## <https://thealexandrian.net/wordpress/46748/roleplaying-games/icewind-dale-characters-wrenn-pilwicken>
+
+- `src/content/posts/translations/alexandrian-icewind-dale-characters.mdx`
 
 ## <https://thealexandrian.net/wordpress/46824/roleplaying-games/5e-encumbrance-by-stone>
 
@@ -9696,6 +7058,10 @@
 
 - `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
 
+## <https://thealexandrian.net/wordpress/48054/roleplaying-games/designing-the-hexcrawl-part-2-stocking-your-hexes>
+
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
+
 ## <https://thealexandrian.net/wordpress/48076/roleplaying-games/running-the-hexcrawl-example-of-play-thracian-hexcrawl>
 
 - `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
@@ -9725,10 +7091,18 @@
 
 - `src/content/posts/translations/alexandrian-review-gardens-of-ynn-stygian-library.mdx`
 
+## <https://thealexandrian.net/wordpress/48847/roleplaying-games/video-a-history-of-the-open-gaming-license>
+
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
+
 ## <https://thealexandrian.net/wordpress/4891/roleplaying-games/the-law-of-the-conservation-of-npcs>
 
 - `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
 - `src/content/posts/translations/alexandrian-quick-npc-template.mdx`
+
+## <https://thealexandrian.net/wordpress/48922/roleplaying-games/ptolus-remix-the-vladaam-affair>
+
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
 
 ## <https://thealexandrian.net/wordpress/48995/roleplaying-games/advanced-gamemastery-cliffhangers-conclusions>
 
@@ -9755,6 +7129,10 @@
 - `src/content/posts/translations/alexandrian-epilogues-skipping-time.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
 - `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
+
+## <https://thealexandrian.net/wordpress/49710/roleplaying-games/review-nights-black-agents-the-zalozhniy-quartet>
+
+- `src/content/posts/translations/alexandrian-empower-prep-rachov-principle.mdx`
 
 ## <https://thealexandrian.net/wordpress/49910/roleplaying-games/review-dd-starter-set>
 
@@ -9795,10 +7173,6 @@
 
 - `src/content/posts/translations/alexandrian-dungeons-player-mapping.mdx`
 
-## <https://thealexandrian.net/wordpress/51068/roleplaying-games/empower-your-prep-the-rachov-principle>
-
-- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
-
 ## <https://thealexandrian.net/wordpress/51123/roleplaying-games/dragon-heist-accelerated>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
@@ -9819,6 +7193,10 @@
 
 - `src/content/posts/translations/alexandrian-ask-16-unfinished-adventures.mdx`
 
+## <https://thealexandrian.net/wordpress/52045/roleplaying-games/dd-2024-the-bastion-bubble>
+
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
+
 ## <https://thealexandrian.net/wordpress/52157/roleplaying-games/session-0-module-hunted>
 
 - `src/content/posts/translations/alexandrian-session-0-modules.mdx`
@@ -9834,6 +7212,11 @@
 ## <https://thealexandrian.net/wordpress/52824/roleplaying-games/mothership-system-cheat-sheet>
 
 - `src/content/posts/translations/alexandrian-low-stakes-tests.mdx`
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
+
+## <https://thealexandrian.net/wordpress/52962/roleplaying-games/review-heroes-of-the-borderlands-dd-starter-set-2025>
+
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
 
 ## <https://thealexandrian.net/wordpress/53243/roleplaying-games/designing-the-tempest-cluster>
 
@@ -9893,6 +7276,7 @@
 - `src/content/posts/translations/alexandrian-ask-3-hangover-cruise.mdx`
 - `src/content/posts/translations/alexandrian-ask-4-plague-of-patrons.mdx`
 - `src/content/posts/translations/alexandrian-campaign-status-trinity-toolbox.mdx`
+- `src/content/posts/translations/alexandrian-dont-prep-plots-tools-not-contingencies.mdx`
 - `src/content/posts/translations/alexandrian-driving-past-the-dead-end.mdx`
 - `src/content/posts/translations/alexandrian-five-node-mystery.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
@@ -9903,7 +7287,9 @@
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
 - `src/content/posts/translations/alexandrian-prep-tips-beginning-dm.mdx`
 - `src/content/posts/translations/alexandrian-prep-tips-beginning-gm-cyberpunk.mdx`
+- `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
 - `src/content/posts/translations/alexandrian-random-dd-tip-inverting-challenge.mdx`
+- `src/content/posts/translations/alexandrian-review-legacy-crystal-shard.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-background-revelations.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-returning-to-scene-crime.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-two-types-leads.mdx`
@@ -10099,6 +7485,10 @@
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
 
+## <https://thealexandrian.net?p=45130>
+
+- `src/content/posts/translations/alexandrian-icewind-dale-running-sandbox.mdx`
+
 ## <https://thealexandrian.net?p=45170>
 
 - `src/content/posts/translations/alexandrian-textual-history-of-zariel.mdx`
@@ -10106,6 +7496,10 @@
 ## <https://thealexandrian.net?p=45372>
 
 - `src/content/posts/translations/alexandrian-textual-history-of-zariel.mdx`
+
+## <https://thealexandrian.net?p=45452>
+
+- `src/content/posts/translations/alexandrian-review-rime-of-the-frostmaiden.mdx`
 
 ## <https://thealexandrian.net?p=46263>
 
@@ -10134,6 +7528,10 @@
 ## <https://thealexandrian.net?p=48901>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+
+## <https://thealexandrian.net?p=49659>
+
+- `src/content/posts/translations/alexandrian-empower-prep-rachov-principle.mdx`
 
 ## <https://thealexandrian.net?p=49970>
 
@@ -10384,58 +7782,49 @@
 
 - `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
 
-## <https://theangrygm.com/wp-content/uploads/2017/09/Herbalism-for-DD.pdf>
+## <https://thearma.org/HEMA.htm>
 
-- `src/content/posts/translations/angrygm-crafting-herbcraft-part-2.mdx`
+- `src/content/posts/translations/arma-top-myths-renaissance-martial-arts-swords.mdx`
 
-## <https://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Table.pdf>
+## <https://thearma.org/RMAlit.htm>
 
-- `src/content/posts/translations/angrygm-drowning-in-armor-systems-part-2.mdx`
+- `src/content/posts/translations/arma-top-myths-renaissance-martial-arts-swords.mdx`
 
-## <https://theangrygm.com/wp-content/uploads/2019/10/Monster-Stats-by-Tier.pdf>
+## <https://thearma.org/essays/BritLegacy.htm>
 
-- `src/content/posts/translations/angrygm-f-cr-theres-a-better-way-part-2.mdx`
-- `src/content/posts/translations/angrygm-how-to-f-cr-practical-example-1.mdx`
+- `src/content/posts/translations/arma-top-myths-renaissance-martial-arts-swords.mdx`
 
-## <https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-Original.xlsx>
+## <https://thearma.org/essays/G&WinRF.htm>
 
-- `src/content/posts/translations/angrygm-how-to-describe-an-item.mdx`
+- `src/content/posts/translations/arma-top-myths-renaissance-martial-arts-swords.mdx`
 
-## <https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-With-Final-Qualities.xlsx>
+## <https://thearma.org/essays/MartialArtorCombatSport.htm>
 
-- `src/content/posts/translations/angrygm-how-to-describe-an-item.mdx`
+- `src/content/posts/translations/arma-top-myths-renaissance-martial-arts-swords.mdx`
 
-## <https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-With-Initial-Descriptors.xlsx>
+## <https://thearma.org/essays/edgemyth.htm>
 
-- `src/content/posts/translations/angrygm-how-to-describe-an-item.mdx`
+- `src/content/posts/translations/arma-top-myths-renaissance-martial-arts-swords.mdx`
 
-## <https://theangrygm.com/wp-content/uploads/2020/06/DMG-Magic-Item-List-With-Prices.xlsx>
+## <https://thearma.org/essays/katanavs.htm>
 
-- `src/content/posts/translations/angrygm-how-to-describe-an-item.mdx`
+- `src/content/posts/translations/arma-longsword-and-katana-considered.mdx`
 
-## <https://theangrygm.com/wp-content/uploads/2020/08/PHB-Item-List-Final.pdf>
+## <https://thearma.org/essays/knightvs.htm>
 
-- `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
+- `src/content/posts/translations/arma-longsword-and-katana-considered.mdx`
 
-## <https://theangrygm.com/wp-content/uploads/2020/08/PHB-Item-List-Final.xlsx>
+## <https://thearma.org/essays/sparornot.htm>
 
-- `src/content/posts/translations/angrygm-angrycraft-whats-in-an-item.mdx`
+- `src/content/posts/translations/arma-top-myths-renaissance-martial-arts-swords.mdx`
 
-## <https://theangrygm.com/wp-content/uploads/2020/11/Companion-Characters.pdf>
+## <https://thearma.org/spotlight/MAoREpreview.htm>
 
-- `src/content/posts/translations/angrygm-how-to-stat-friends-part-2.mdx`
+- `src/content/posts/translations/arma-top-myths-renaissance-martial-arts-swords.mdx`
 
-## <https://theangrygm.com/wp-content/uploads/Fall_of_Silverpine_Watch_Print_Quality_Artistic_Maps.pdf>
+## <https://thearma.org/study.htm>
 
-- `src/content/posts/translations/angrygm-angry-office-hours-1.mdx`
-
-## <https://theangrygm.com/wp-content/uploads/Memo-to-the-Game-Master-2-Portraying-Characters.pdf>
-
-- `src/content/posts/translations/angrygm-memo-to-the-players-2.mdx`
-
-## <https://theangrygm.com/wp-content/uploads/Memo-to-the-Players-2-Portraying-Characters.pdf>
-
-- `src/content/posts/translations/angrygm-memo-to-the-players-2.mdx`
+- `src/content/posts/translations/arma-top-myths-renaissance-martial-arts-swords.mdx`
 
 ## <https://thecoolmama.wordpress.com/2017/10/06/lost-mine-of-phandelver-remix-pt-3-npc-descriptions>
 
@@ -10524,6 +7913,10 @@
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/StuffedIntoTheFridge>
 
 - `src/content/posts/translations/dmdavid-make-players-care-npcs.mdx`
+
+## <https://tvtropes.org/pmwiki/pmwiki.php/Main/TeleFrag>
+
+- `src/content/posts/translations/delta-teleport-traditions.mdx`
 
 ## <https://tvtropes.org/pmwiki/pmwiki.php/Main/TheChessmaster>
 
@@ -11131,6 +8524,10 @@
 
 - `src/content/posts/translations/alexandrian-zone-of-truth-mysteries.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/0593201884/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-random-worldbuilding-fantastical-scars.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/0618640150/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-rolling-for-riddles.mdx`
@@ -11177,6 +8574,13 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/078696698X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-forgotten-realms-arveiaturace-white-wyrm.mdx`
+- `src/content/posts/translations/alexandrian-icewind-dale-characters.mdx`
+- `src/content/posts/translations/alexandrian-icewind-dale-goat-ball.mdx`
+- `src/content/posts/translations/alexandrian-icewind-dale-running-sandbox.mdx`
+- `src/content/posts/translations/alexandrian-icewind-dale-travel-times.mdx`
+- `src/content/posts/translations/alexandrian-review-legacy-crystal-shard.mdx`
+- `src/content/posts/translations/alexandrian-review-rime-of-the-frostmaiden.mdx`
+- `src/content/posts/translations/alexandrian-sandbox-and-simulation.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/0786967994/digitalcomi0a-20>
 
@@ -11195,6 +8599,14 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/0786969547/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-random-dd-tip-rolling-treasure-2024.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/0786969954/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/0851157815/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-random-worldbuilding-tournaments.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/0922335001/digitalcomi0a-20>
 
@@ -11481,6 +8893,10 @@
 
 - `src/content/posts/translations/alexandrian-untested-5e-fighting-kaiju.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/B09264CYTV/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-icewind-dale-characters.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/B092GRKXRR/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-untested-hardcore-opportunity-attacks.mdx`
@@ -11609,22 +9025,6 @@
 - `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
-## <https://www.batintheattic.com/downloads/MW%20Travel%20Rules%20Rev%2002.pdf>
-
-- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxiv.mdx`
-
-## <https://www.batintheattic.com/downloads/NPCs%20of%20Piall%20Rev%2001.pdf>
-
-- `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxiii.mdx`
-
-## <https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview,_04.pdf>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
-## <https://www.batintheattic.com/majestic_fantasy_realms/MFR_Preview_02.pdf>
-
-- `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
-
 ## <https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=8466&CollID=16&NStart=200307>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
@@ -11674,6 +9074,10 @@
 ## <https://www.brandesstoddard.com/2019/01/dd-5e-medium-armor>
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
+
+## <https://www.britannica.com/place/Greece>
+
+- `src/content/posts/translations/alexandrian-nation-in-history.mdx`
 
 ## <https://www.britannica.com/topic/The-Most-Noble-Order-of-the-Garter>
 
@@ -11864,14 +9268,6 @@
 
 - `src/content/posts/translations/alexandrian-forgotten-realms-arveiaturace-white-wyrm.mdx`
 
-## <https://www.cdc.gov/nchs/data/ad/ad347.pdf>
-
-- `src/content/posts/translations/delta-horse-carrying-capacity.mdx`
-
-## <https://www.census.gov/content/dam/Census/library/publications/2012/demo/p20-566.pdf>
-
-- `src/content/posts/translations/ludus-population-engine.mdx`
-
 ## <https://www.census.gov/data/tables/time-series/demo/families/households.html>
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
@@ -11935,6 +9331,10 @@
 ## <https://www.daggerheart.com>
 
 - `src/content/posts/translations/dmdavid-checks-versus-attack-rolls.mdx`
+
+## <https://www.dandwiki.com/wiki/SRD:Disease>
+
+- `src/content/posts/translations/alexandrian-random-worldbuilding-fantastical-scars.mdx`
 
 ## <https://www.defense.gov/Explore/News/Article/Article/1850344/dod-official-cites-widening-military-civilian-gap>
 
@@ -12007,6 +9407,10 @@
 ## <https://www.dmsguild.com/product/110212/H1-Keep-on-the-Shadowfell--QuickStart-Rules-4e>
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://www.dmsguild.com/product/166079/Legacy-of-the-Crystal-Shard-Next?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-review-legacy-crystal-shard.mdx`
 
 ## <https://www.dmsguild.com/product/16782/Forgotten-Realms-Campaign-Set-1e?affiliate_id=81207>
 
@@ -12246,6 +9650,10 @@
 
 - `src/content/posts/translations/alexandrian-rpg-essential-reading-list.mdx`
 
+## <https://www.drivethrurpg.com/en/product/284022/eclipse-phase-second-edition?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
+
 ## <https://www.drivethrurpg.com/en/product/313115/mausritter?affiliate_id=1368722>
 
 - `src/content/posts/translations/patchworkpaladin-the-faction-turn.mdx`
@@ -12281,6 +9689,10 @@
 ## <https://www.drivethrurpg.com/en/product/647/vampire-the-masquerade-revised-edition?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-rpg-essential-reading-list.mdx`
+
+## <https://www.drivethrurpg.com/en/product/82659/eclipse-phase-npc-file-1-prime?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
 
 ## <https://www.drivethrurpg.com/en/product/841/digital-web-2-0?affiliate_id=81207>
 
@@ -12705,10 +10117,6 @@
 
 - `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
-## <https://www.militaryonesource.mil/12038/MOS/Reports/2011_Demographics_Report.pdf>
-
-- `src/content/posts/translations/ludus-population-engine.mdx`
-
 ## <https://www.museicapitolini.org/en/percorso/scalone-0>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -12764,6 +10172,10 @@
 
 - `src/content/posts/translations/ludusludorum-low-prep-3-sandbox-campaign.mdx`
 
+## <https://www.patreon.com/cw/justinalexander>
+
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
+
 ## <https://www.patreon.com/dumpstat>
 
 - `src/content/posts/translations/deep-dive-the-named-spells-ii.mdx`
@@ -12780,6 +10192,10 @@
 ## <https://www.patreon.com/posts/dragon-heist-42208137>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+
+## <https://www.patreon.com/posts/vladaam-affair-144436762>
+
+- `src/content/posts/translations/alexandrian-why-dd.mdx`
 
 ## <https://www.pbs.org/program/irena-sendler>
 
@@ -12804,10 +10220,6 @@
 ## <https://www.ragingswan.com/gm-essentials/all-that-glimmers>
 
 - `src/content/posts/translations/creighton-gygax-on-treasure.mdx`
-
-## <https://www.rand.org/content/dam/rand/pubs/monographs/MG265/images/webS0243.pdf>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 
 ## <https://www.recoregame.com>
 
@@ -12860,10 +10272,6 @@
 ## <https://www.redraggedfiend.com/practical-settlement-design-dnd>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
-
-## <https://www.researchgate.net/profile/Frank-Siegmund/publication/221673936_Body_Mass_and_Body_Mass_Index_estimation_in_medieval_Switzerland/links/0922b4f5a4c3f117d7000000/Body-Mass-and-Body-Mass-Index-estimation-in-medieval-Switzerland.pdf>
-
-- `src/content/posts/translations/delta-horse-carrying-capacity.mdx`
 
 ## <https://www.researchgate.net/publication/273946812_The_Invisible_Rules_of_Role-Playing_The_Social_Framework_of_Role-Playing_Process>
 
@@ -12946,10 +10354,6 @@
 - `src/content/posts/translations/alexandrian-ask-20-transferable-techniques.mdx`
 - `src/content/posts/translations/alexandrian-managing-prep-load.mdx`
 
-## <https://www.thealexandrian.net/creations/advanced-rules/4e-style-spells/balor-stat-block.doc>
-
-- `src/content/posts/translations/alexandrian-stat-blocking-with-the-barghest.mdx`
-
 ## <https://www.thealexandrian.net/creations/advanced-rules/extra-effort-ogl.html>
 
 - `src/content/posts/translations/alexandrian-advanced-d20-extra-effort.mdx`
@@ -12962,48 +10366,6 @@
 
 - `src/content/posts/translations/alexandrian-revised-3-5-stat-blocks.mdx`
 
-## <https://www.thealexandrian.net/creations/advanced-rules/stat-block-short.rtf>
-
-- `src/content/posts/translations/alexandrian-history-stat-block-2009.mdx`
-- `src/content/posts/translations/alexandrian-revised-3-5-stat-blocks.mdx`
-
-## <https://www.thealexandrian.net/creations/advanced-rules/stat-block.rtf>
-
-- `src/content/posts/translations/alexandrian-history-stat-block-2009.mdx`
-- `src/content/posts/translations/alexandrian-revised-3-5-stat-blocks.mdx`
-
-## <https://www.thealexandrian.net/creations/misc/cheat-sheet-fading-suns.rtf>
-
-- `src/content/posts/translations/alexandrian-prepping-system-cheat-sheets.mdx`
-
-## <https://www.thealexandrian.net/creations/misc/cheat-sheet-technoir.rtf>
-
-- `src/content/posts/translations/alexandrian-prepping-system-cheat-sheets.mdx`
-
-## <https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-ancient-common.pdf>
-
-- `src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx`
-
-## <https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-dwarvish.pdf>
-
-- `src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx`
-
-## <https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-elvish.pdf>
-
-- `src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx`
-
-## <https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-halfling.pdf>
-
-- `src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx`
-
-## <https://www.thealexandrian.net/creations/misc/lorem-ipsum/fantasy-lorem-ipsum-orc.pdf>
-
-- `src/content/posts/translations/alexandrian-fantasy-lorem-ipsum.mdx`
-
-## <https://www.thealexandrian.net/creations/misc/mad-mage.pdf>
-
-- `src/content/posts/translations/alexandrian-re-running-the-megadungeon.mdx`
-
 ## <https://www.thealexandrian.net/creations/talesfromthetable/khunbaral.html>
 
 - `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
@@ -13012,9 +10374,25 @@
 
 - `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
 
-## <https://www.thealexandrian.net/creations/tombofhorrors/Tomb%20of%20Horrors.zip>
+## <https://www.thealexandrian.net/dreammachine/edition-trademarks/3rdSeal-guidelines.html>
 
-- `src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx`
+- `src/content/posts/translations/alexandrian-seal-of-third-edition.mdx`
+
+## <https://www.thealexandrian.net/dreammachine/edition-trademarks/3rdSeal-license.html>
+
+- `src/content/posts/translations/alexandrian-seal-of-third-edition.mdx`
+
+## <https://www.thealexandrian.net/dreammachine/edition-trademarks/3rdSeal.psd>
+
+- `src/content/posts/translations/alexandrian-seal-of-third-edition.mdx`
+
+## <https://www.thealexandrian.net/dreammachine/edition-trademarks/edition-seals.html>
+
+- `src/content/posts/translations/alexandrian-seal-of-third-edition.mdx`
+
+## <https://www.thealexandrian.net/dreammachine/index.html>
+
+- `src/content/posts/translations/alexandrian-seal-of-third-edition.mdx`
 
 ## <https://www.thealexandrian.net/dreammachine/roleplaying/legends-and-labyrinths.html>
 
@@ -13130,782 +10508,9 @@
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-iv.mdx`
 
-## <https://www.yorku.ca/inpar/geoffrey_thompson.pdf>
-
-- `src/content/posts/translations/ludusludorum-medieval-ruins.mdx`
-
-## <https://www.youtube.com/@AGreatDivorce/featured>
-
-- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-- `src/content/posts/translations/acoup-clothing-4b-cloth-money.mdx`
-
-## <https://www.youtube.com/@JoshPlunkett>
-
-- `src/content/posts/translations/gnomestew-prepping-your-game-in-obsidian.mdx`
-
-## <https://www.youtube.com/channel/UClOYVGj0DjerkCd8norpANQ>
-
-- `src/content/posts/translations/angrygm-a-wandering-and-a-a-wondering.mdx`
-
-## <https://www.youtube.com/live/LwUYvljTZN4?feature=share>
-
-- `src/content/posts/translations/delta-radius-or-diameter.mdx`
-
-## <https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2>
-
-- `src/content/posts/translations/angrygm-pretty-good-dungeon-exploring-spaces.mdx`
-
-## <https://www.youtube.com/playlist?list=PLcIwe3bxds8YEy9-kqvQbwW-g--96Brlg>
-
-- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
-- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
-- `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
-- `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
-- `src/content/posts/translations/acoup-bread-addendum-rice.mdx`
-
-## <https://www.youtube.com/playlist?list=PLcIwe3bxds8YhvNk2zgNaUN95egZ3KWxI>
-
-- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
-- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
-- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
-
-## <https://www.youtube.com/shorts/cnE9mUtChHk>
-
-- `src/content/posts/translations/alexandrian-ask-20-transferable-techniques.mdx`
-
-## <https://www.youtube.com/shorts/o-slFgtuQtI>
-
-- `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
-
-## <https://www.youtube.com/watch?v=-ORbIu5C5UM>
-
-- `src/content/posts/translations/faction-procedures-comparative-review.mdx`
-
-## <https://www.youtube.com/watch?v=-ZYlXEUo-Lo>
-
-- `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
-
-## <https://www.youtube.com/watch?v=0OmOQs0ziSU>
-
-- `src/content/posts/translations/starships-in-silhouette.mdx`
-
-## <https://www.youtube.com/watch?v=0z_vI05D4rk>
-
-- `src/content/posts/translations/encounter-grid-six-years-out.mdx`
-
-## <https://www.youtube.com/watch?v=19brxo7VxNc>
-
-- `src/content/posts/translations/alexandrian-roleplaying-initiative.mdx`
-
-## <https://www.youtube.com/watch?v=1knqL9aaPa0>
-
-- `src/content/posts/translations/alexandrian-spell-component-roleplaying.mdx`
-
-## <https://www.youtube.com/watch?v=2RBUR_gzsm0>
-
-- `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
-
-## <https://www.youtube.com/watch?v=2ba2ZinGLl4>
-
-- `src/content/posts/translations/alexandrian-visualizing-combat.mdx`
-
-## <https://www.youtube.com/watch?v=3PWWtqfwacQ>
-
-- `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
-
-## <https://www.youtube.com/watch?v=3SAuuHCOkyI>
-
-- `src/content/posts/translations/alexandrian-untested-5e-fighting-kaiju.mdx`
-
-## <https://www.youtube.com/watch?v=3mJFjNu51IQ>
-
-- `src/content/posts/translations/alexandrian-roleplaying-initiative.mdx`
-
-## <https://www.youtube.com/watch?v=3v75mJZwqlM>
-
-- `src/content/posts/translations/tribality-monk-class-part-seven.mdx`
-
-## <https://www.youtube.com/watch?v=42NDuagLd4k>
-
-- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
-
-## <https://www.youtube.com/watch?v=4I8kic8xZh8>
-
-- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
-
-## <https://www.youtube.com/watch?v=5V7qEGYQLVw>
-
-- `src/content/posts/translations/dmdavid-encouraging-role-playing.mdx`
-
-## <https://www.youtube.com/watch?v=6xbObDNmGpw>
-
-- `src/content/posts/translations/alexandrian-gming-on-a-time-limit.mdx`
-
-## <https://www.youtube.com/watch?v=74OBuMA2qEk>
-
-- `src/content/posts/translations/alexandrian-untested-hardcore-opportunity-attacks.mdx`
-
-## <https://www.youtube.com/watch?v=8E6TzT0eCYs>
-
-- `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
-
-## <https://www.youtube.com/watch?v=8yNXkvszFBY>
-
-- `src/content/posts/translations/dmdavid-palace-silver-princess-scandal.mdx`
-
-## <https://www.youtube.com/watch?v=9IFaTBN9wIo>
-
-- `src/content/posts/translations/alexandrian-untested-5e-fighting-kaiju.mdx`
-
-## <https://www.youtube.com/watch?v=9Kgx2b1sIRs>
-
-- `src/content/posts/translations/angrygm-between-jobs.mdx`
-
-## <https://www.youtube.com/watch?v=9jK-NcRmVcw>
-
-- `src/content/posts/translations/alexandrian-the-mop-up.mdx`
-
-## <https://www.youtube.com/watch?v=AfyZ1bWv7Ls>
-
-- `src/content/posts/translations/alexandrian-untested-hardcore-opportunity-attacks.mdx`
-
-## <https://www.youtube.com/watch?v=AyPHGQcE8dI>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-
-## <https://www.youtube.com/watch?v=Bge2MQT6fOs>
-
-- `src/content/posts/translations/walker-map-a-little-smaller-darling.mdx`
-
-## <https://www.youtube.com/watch?v=CtMMY-QqRYQ>
-
-- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
-
-## <https://www.youtube.com/watch?v=D8zlUUrFK-M>
-
-- `src/content/posts/translations/tribality-druid-class-part-four.mdx`
-
-## <https://www.youtube.com/watch?v=D9H1SjpIvhA>
-
-- `src/content/posts/translations/dumpstat-deep-dive-rogue-class.mdx`
-
-## <https://www.youtube.com/watch?v=DrRFzwPE0d4>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
-
-## <https://www.youtube.com/watch?v=EFzQaZlyXHw>
-
-- `src/content/posts/translations/alexandrian-ask-5-ordering-from-gms-menu.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-12-mail-carrier-scenario-hooks.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
-- `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
-
-## <https://www.youtube.com/watch?v=EQ8J8npOnz4&t=38s>
-
-- `src/content/posts/translations/alexandrian-roleplaying-initiative.mdx`
-
-## <https://www.youtube.com/watch?v=Ej3qjUzUzQg&t=60s>
-
-- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
-
-## <https://www.youtube.com/watch?v=Ex74x_gqTU0>
-
-- `src/content/posts/translations/alexandrian-forgotten-realms-arveiaturace-white-wyrm.mdx`
-
-## <https://www.youtube.com/watch?v=FOgpEW7N_8Q>
-
-- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
-
-## <https://www.youtube.com/watch?v=FgVM8-vbhZA>
-
-- `src/content/posts/translations/alexandrian-rolling-for-riddles.mdx`
-
-## <https://www.youtube.com/watch?v=GMOAYhrIYW4>
-
-- `src/content/posts/translations/alexandrian-its-time-for-a-new-rpg.mdx`
-
-## <https://www.youtube.com/watch?v=GrauBQf7FpI>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-vi-black-sails.mdx`
-
-## <https://www.youtube.com/watch?v=IBvuV9zuXnQ>
-
-- `src/content/posts/translations/walker-map-a-little-smaller-darling.mdx`
-
-## <https://www.youtube.com/watch?v=IOWKUNQEf-Y>
-
-- `src/content/posts/translations/alexandrian-awesome-dungeon-rooms.mdx`
-
-## <https://www.youtube.com/watch?v=JGbPShUpjpg>
-
-- `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
-
-## <https://www.youtube.com/watch?v=JZctCxAmzDs>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vii-hanging-by-a-thread.mdx`
-
-## <https://www.youtube.com/watch?v=KxDwieKpawg>
-
-- `src/content/posts/translations/alexandrian-two-plus-two-storytelling.mdx`
-
-## <https://www.youtube.com/watch?v=L1RN07cZCvU&t=38s>
-
-- `src/content/posts/translations/alexandrian-visualizing-combat.mdx`
-
-## <https://www.youtube.com/watch?v=NGSL7XApz2s>
-
-- `src/content/posts/translations/acoup-lannister-infantry-kit-review.mdx`
-
-## <https://www.youtube.com/watch?v=NGSL7XApz2s&t=1s>
-
-- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
-
-## <https://www.youtube.com/watch?v=NMiSvoFUoBs>
-
-- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
-
-## <https://www.youtube.com/watch?v=NnjauJquWfw>
-
-- `src/content/posts/translations/coinsandscrolls-bring-out-your-dead.mdx`
-
-## <https://www.youtube.com/watch?v=PL4cXMLfkVE>
-
-- `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
-
-## <https://www.youtube.com/watch?v=QjiDRev-gQ8>
-
-- `src/content/posts/translations/alexandrian-roleplaying-initiative.mdx`
-
-## <https://www.youtube.com/watch?v=RRjRgT8QQ3c>
-
-- `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
-
-## <https://www.youtube.com/watch?v=Rsfyh3M_IKc>
-
-- `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
-
-## <https://www.youtube.com/watch?v=S-u9YDDrTFo>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-
-## <https://www.youtube.com/watch?v=SYZy5CPc93M>
-
-- `src/content/posts/translations/deep-dive-the-named-spells.mdx`
-- `src/content/posts/translations/dump-stat-fun-facts-spells-edition.mdx`
-
-## <https://www.youtube.com/watch?v=SiCJkdM2wcM>
-
-- `src/content/posts/translations/alexandrian-ask-17-dilemma-design.mdx`
-
-## <https://www.youtube.com/watch?v=T2PdyxMtiYM>
-
-- `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
-
-## <https://www.youtube.com/watch?v=T3kX3mzCSQ4>
-
-- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
-
-## <https://www.youtube.com/watch?v=TLcT5J7yg9k>
-
-- `src/content/posts/translations/delta-swimming-in-armor-videos.mdx`
-
-## <https://www.youtube.com/watch?v=Tpu-BCSfJ2c>
-
-- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
-
-## <https://www.youtube.com/watch?v=XrhrXTDeue0>
-
-- `src/content/posts/translations/acoup-fremen-mirage-part-iiib.mdx`
-
-## <https://www.youtube.com/watch?v=Y3E3LZzfqZA>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
-- `src/content/posts/translations/alexandrian-review-raiders-of-the-serpent-sea-players-guide.mdx`
-
-## <https://www.youtube.com/watch?v=YRMVTmbe-Is>
-
-- `src/content/posts/translations/geekandsundry-game-master-tips-matt-mercer-behind-screen.mdx`
-
-## <https://www.youtube.com/watch?v=ZAO4t8672hc>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
-
-## <https://www.youtube.com/watch?v=aaXJPxcjBlo>
-
-- `src/content/posts/translations/alexandrian-gming-on-a-time-limit.mdx`
-
-## <https://www.youtube.com/watch?v=aewtOGH9ab4>
-
-- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-i.mdx`
-
-## <https://www.youtube.com/watch?v=bEqyBwDn-kA>
-
-- `src/content/posts/translations/alexandrian-calling-in-the-big-guns.mdx`
-
-## <https://www.youtube.com/watch?v=bKK-KLDlm20>
-
-- `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
-
-## <https://www.youtube.com/watch?v=cJiY7qvSS-k>
-
-- `src/content/posts/translations/alexandrian-ask-13-military-campaigns.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-19-ignoring-character-backstories.mdx`
-- `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
-
-## <https://www.youtube.com/watch?v=cbT-8BmMtVk>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-
-## <https://www.youtube.com/watch?v=covH4voKukw>
-
-- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
-
-## <https://www.youtube.com/watch?v=ctetnQfSdfM&list=PL7oLu8NfQd84_gsyqBVSVgUmCCgcvSZMx>
-
-- `src/content/posts/translations/gnomestew-prepping-your-game-in-obsidian.mdx`
-
-## <https://www.youtube.com/watch?v=gXiUDJRgiUc>
-
-- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
-
-## <https://www.youtube.com/watch?v=h3BShfhygbk>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-
-## <https://www.youtube.com/watch?v=hG5rCZaiY4Q>
-
-- `src/content/posts/translations/necropraxis-wilderness-of-building.mdx`
-
-## <https://www.youtube.com/watch?v=hSNGeazCW6I>
-
-- `src/content/posts/translations/alexandrian-roleplaying-initiative.mdx`
-
-## <https://www.youtube.com/watch?v=hou0lU8WMgo>
-
-- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
-
-## <https://www.youtube.com/watch?v=jW3PFC86UNI>
-
-- `src/content/posts/translations/tribality-warlock-class-part-one.mdx`
-
-## <https://www.youtube.com/watch?v=jiuHr5YVJBI>
-
-- `src/content/posts/translations/dumpstat-running-a-game-in-darkness-gm-tips.mdx`
-
-## <https://www.youtube.com/watch?v=k-oVuQpjG3s>
-
-- `src/content/posts/translations/alexandrian-scenario-structure-challenge-1-raiding-death-star.mdx`
-
-## <https://www.youtube.com/watch?v=kYgSsn7b0f0>
-
-- `src/content/posts/translations/dmdavid-2024-core-books-apprehensive.mdx`
-
-## <https://www.youtube.com/watch?v=lg8fVtKyYxY>
-
-- `src/content/posts/translations/alexandrian-importance-of-choice.mdx`
-
-## <https://www.youtube.com/watch?v=mDpoSNmey0c>
-
-- `src/content/posts/translations/alexandrian-ask-4-plague-of-patrons.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
-- `src/content/posts/translations/alexandrian-review-ptolus-city-of-adventure.mdx`
-
-## <https://www.youtube.com/watch?v=mDpoSNmey0c&t=6s>
-
-- `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
-
-## <https://www.youtube.com/watch?v=mZVsVQwlc9Y>
-
-- `src/content/posts/translations/alexandrian-roleplaying-initiative.mdx`
-
-## <https://www.youtube.com/watch?v=nvU2P4q4_v4>
-
-- `src/content/posts/translations/alexandrian-history-of-the-stat-block.mdx`
-
-## <https://www.youtube.com/watch?v=oKAEjoPgv1A>
-
-- `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
-
-## <https://www.youtube.com/watch?v=ouFHrhgbIas>
-
-- `src/content/posts/translations/alexandrian-combat-timers.mdx`
-
-## <https://www.youtube.com/watch?v=pyP18j7y1FA>
-
-- `src/content/posts/translations/alexandrian-untested-5e-fighting-kaiju.mdx`
-
-## <https://www.youtube.com/watch?v=pzNCA3hlbuQ>
-
-- `src/content/posts/translations/acoup-war-elephants-part-ii-elephants-against-wolves.mdx`
-
-## <https://www.youtube.com/watch?v=qAXzzHM8zLw>
-
-- `src/content/posts/translations/welsh-piper-dynamic-encounter-tables.mdx`
-
-## <https://www.youtube.com/watch?v=s1sfnwGb_jY>
-
-- `src/content/posts/translations/dmdavid-fifth-editions-secret-error.mdx`
-
-## <https://www.youtube.com/watch?v=sGSsbCPeocU>
-
-- `src/content/posts/translations/ludusludorum-defense-humble-sling.mdx`
-
-## <https://www.youtube.com/watch?v=sdt0roErieA>
-
-- `src/content/posts/translations/alexandrian-enter-the-boss.mdx`
-
-## <https://www.youtube.com/watch?v=srsSEIb-Bw4>
-
-- `src/content/posts/translations/dmdavid-encouraging-role-playing.mdx`
-
-## <https://www.youtube.com/watch?v=tFDatf-VZtg>
-
-- `src/content/posts/translations/delta-swimming-in-armor-videos.mdx`
-
-## <https://www.youtube.com/watch?v=tm2IzDrU2Xk>
-
-- `src/content/posts/translations/alexandrian-whither-dungeon-goblin-trouble.mdx`
-
-## <https://www.youtube.com/watch?v=uP4wLMmp-8U>
-
-- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
-
-## <https://www.youtube.com/watch?v=uk5NwLr3OmQ>
-
-- `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
-
-## <https://www.youtube.com/watch?v=ve6Krsc0joY>
-
-- `src/content/posts/translations/dmdavid-adjust-combat-difficulty-on-the-fly.mdx`
-
-## <https://www.youtube.com/watch?v=xn7igUOFHRU>
-
-- `src/content/posts/translations/oaths-how-do-they-work.mdx`
-
-## <https://www.youtube.com/watch?v=zKN0xPyxu2Y>
-
-- `src/content/posts/translations/dmdavid-role-of-die-roll-love-letter.mdx`
-
-## <https://www.youtube.com/watch?v=zU_zsyulWDg>
-
-- `src/content/posts/translations/oaths-how-do-they-work.mdx`
-
-## <https://www.youtube.com/watch?v=zVPUFMwm73Y>
-
-- `src/content/posts/translations/acoup-lonely-city-part-i-ideal-city.mdx`
-
-## <https://www.youtube.com/watch?v=zdRJybJ047I>
-
-- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
-
-## <https://www.youtube.com/watch?v=zgywD3XJaWU>
-
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-
 ## <https://www.zeldadungeon.net/breath-of-the-wild-interactive-map>
 
 - `src/content/posts/translations/angrygm-simple-campaign-region.mdx`
-
-## <https://www2.census.gov/library/publications/2011/compendia/statab/131ed/tables/12s0286.pdf>
-
-- `src/content/posts/translations/ludus-population-engine.mdx`
-
-## <https://www3.autarch.co?wpdmpro=region-hex-maps>
-
-- `src/content/posts/translations/angrygm-how-to-wilderness-right.mdx`
-- `src/content/posts/translations/angrygm-simple-campaign-region.mdx`
-
-## <https://youtu.be/-EZziqodt-g>
-
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-
-## <https://youtu.be/0U1RCuJPPMk>
-
-- `src/content/posts/translations/acoup-clothing-1-high-fiber.mdx`
-
-## <https://youtu.be/1UTE0_QIInM?t=205>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
-
-## <https://youtu.be/33AL7xs91pU?si=5BuErvl2yXe7fyw->
-
-- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
-
-## <https://youtu.be/3w5c-U_gUJw>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-
-## <https://youtu.be/47MazYDnmaU?t=112>
-
-- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
-
-## <https://youtu.be/4I8kic8xZh8>
-
-- `src/content/posts/translations/acoup-fortification-part-i-besiegers-playbook.mdx`
-- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
-
-## <https://youtu.be/5_16tXT-Knc>
-
-- `src/content/posts/translations/acoup-clothing-4b-cloth-money.mdx`
-
-## <https://youtu.be/62tnJtLBQzQ>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-
-## <https://youtu.be/76_Q9ruJfrE>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://youtu.be/7TprgnuYfyQ>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-
-## <https://youtu.be/7_e0CA_nhaE>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://youtu.be/8E6TzT0eCYs>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-
-## <https://youtu.be/A50lVLtSQik>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-
-## <https://youtu.be/AchISJUKfH4>
-
-- `src/content/posts/translations/acoup-bread-1-farmers.mdx`
-
-## <https://youtu.be/ApCp4499Ykc>
-
-- `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
-
-## <https://youtu.be/Ci_ychn7ga0?t=29>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-
-## <https://youtu.be/DEkDsdzFyVU>
-
-- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
-
-## <https://youtu.be/DPMiWwqX4wI>
-
-- `src/content/posts/translations/acoup-fortification-part-ii-roman-playing-cards.mdx`
-
-## <https://youtu.be/DgbnPxJ1Hxk?t=28>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
-
-## <https://youtu.be/Ej3qjUzUzQg?t=48>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
-
-## <https://youtu.be/GrauBQf7FpI>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
-
-## <https://youtu.be/H0Of8a26J-4>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://youtu.be/IXzGw8_XkSo>
-
-- `src/content/posts/translations/delta-cursed-magic-items-through-ages.mdx`
-
-## <https://youtu.be/Jkwlbk5s4a4>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://youtu.be/KL1FErzQWI8>
-
-- `src/content/posts/translations/angrygm-pooling-your-information.mdx`
-
-## <https://youtu.be/LPPLCkIhxt0>
-
-- `src/content/posts/translations/starships-in-silhouette.mdx`
-
-## <https://youtu.be/McnKrV0aDjo>
-
-- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
-
-## <https://youtu.be/Mf7KCqQLw78?si=X6fO1Fzk0la51I-I>
-
-- `src/content/posts/translations/acoup-why-archers-didnt-volley-fire.mdx`
-
-## <https://youtu.be/NZmH0DGVXCo>
-
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-
-## <https://youtu.be/PG_wCD1z1Pw?t=788>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-
-## <https://youtu.be/QTTW8M_etko?t=2890>
-
-- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
-
-## <https://youtu.be/SA8oCxLN7sQ>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://youtu.be/SLd2JPL7UAg?si=mA57ynKNBeUkJz5I>
-
-- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
-
-## <https://youtu.be/TM1OpCG8_1I>
-
-- `src/content/posts/translations/preposterous-logistics-of-the-loot-train-battle.mdx`
-
-## <https://youtu.be/Td88z08a_4c>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
-
-## <https://youtu.be/UUsDVFPYtGQ>
-
-- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
-
-## <https://youtu.be/WKU0qDpu3AM>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
-
-## <https://youtu.be/WRRd8mYLTKQ>
-
-- `src/content/posts/translations/angrygm-fixing-initiative-part-i.mdx`
-
-## <https://youtu.be/XMT6hjwY8NQ>
-
-- `src/content/posts/translations/acoup-punching-through-some-armor-myths.mdx`
-
-## <https://youtu.be/XnN22pMpt4o>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
-
-## <https://youtu.be/_qhUTF4hOp8?t=39>
-
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iv-cavalry-arrives.mdx`
-
-## <https://youtu.be/a15gihWu1SM>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://youtu.be/aApMmC2mfXQ>
-
-- `src/content/posts/translations/delta-big-mistake-weapon-vs-armor.mdx`
-
-## <https://youtu.be/bGbhEuqyTGo>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://youtu.be/c3L9zWo4_r4>
-
-- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
-
-## <https://youtu.be/cc_n8H-2-I0>
-
-- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
-
-## <https://youtu.be/e62dz4NyI4w?si=wnfSwq1Vb42k0If7>
-
-- `src/content/posts/translations/acoup-on-lighter-bows.mdx`
-
-## <https://youtu.be/ehQWXiixTxc>
-
-- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
-
-## <https://youtu.be/ek2O6bVAIQQ>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-viii-the-mind-of-saruman.mdx`
-- `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
-- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
-
-## <https://youtu.be/ex1Atx1tQPk>
-
-- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
-
-## <https://youtu.be/h3BShfhygbk>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-ii-total-warg.mdx`
-
-## <https://youtu.be/j7w-_QH607U>
-
-- `src/content/posts/translations/acoup-lannister-infantry-kit-review.mdx`
-
-## <https://youtu.be/jJ1Qm1Z_D7w>
-
-- `src/content/posts/translations/acoup-battle-of-helms-deep-part-iii-host-of-saruman.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-ii-beacons.mdx`
-- `src/content/posts/translations/acoup-siege-of-gondor-part-iii-storming-the-city.mdx`
-
-## <https://youtu.be/lAe1krJFl78?si=OrgH0ex8T3cvwEYk>
-
-- `src/content/posts/translations/acoup-roman-infantry-tactics-pilum.mdx`
-
-## <https://youtu.be/m0zYZhJXELQ>
-
-- `src/content/posts/translations/acoup-lonely-city-part-i-ideal-city.mdx`
-
-## <https://youtu.be/mPdviIiNAM8>
-
-- `src/content/posts/translations/acoup-iron-3-hammer-time.mdx`
-
-## <https://youtu.be/mU6oW_P4Gzo>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
-
-## <https://youtu.be/mzDf52M21J0?t=168>
-
-- `src/content/posts/translations/oaths-how-do-they-work.mdx`
-
-## <https://youtu.be/nrxpv_ax3_A>
-
-- `src/content/posts/translations/total-generalship-part-i-reports.mdx`
-
-## <https://youtu.be/pfRdur8GLBM>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iia.mdx`
-
-## <https://youtu.be/qkYHIergMJI>
-
-- `src/content/posts/translations/acoup-clothing-2-scouring-in-the-shire.mdx`
-
-## <https://youtu.be/spMzDdFjNJ8?t=267>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
-
-## <https://youtu.be/t4D-HUUTXvQ>
-
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-
-## <https://youtu.be/tQYdmRw-gHM>
-
-- `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
-
-## <https://youtu.be/tsVBo-Gq110?t=36>
-
-- `src/content/posts/translations/oaths-how-do-they-work.mdx`
-
-## <https://youtu.be/u73M1iBwW8o?t=41>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://youtu.be/u73M1iBwW8o?t=64>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://youtu.be/u73M1iBwW8o?t=95>
-
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
-
-## <https://youtu.be/xPGdOXstSyk>
-
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-
-## <https://youtu.be/zsywnQJMJEk>
-
-- `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
 ## <https://zenopusarchives.blogspot.com/2014/01/part-16-exchange-of-two-blows-with.html>
 

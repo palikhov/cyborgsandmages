@@ -67,8 +67,20 @@ function renderExternal(registry) {
   return registry.prefix + blocks.join('\n\n').replace(/\n/g, registry.eol) + registry.eol;
 }
 
+function isYouTubeUrl(url) {
+  const hostname = new URL(url).hostname.toLowerCase().replace(/\.$/, '');
+  return hostname === 'youtu.be'
+    || hostname === 'youtube.com'
+    || hostname.endsWith('.youtube.com')
+    || hostname === 'youtube-nocookie.com'
+    || hostname.endsWith('.youtube-nocookie.com');
+}
+
 function externalLinks(article) {
-  return article.links.filter(item => item.node !== article.original && /^https?:\/\//.test(item.url) && new URL(item.url).hostname !== 'cyborgsandmages.com');
+  return article.links.filter(item => item.node !== article.original
+    && /^https?:\/\//.test(item.url)
+    && new URL(item.url).hostname !== 'cyborgsandmages.com'
+    && !isYouTubeUrl(item.url));
 }
 
 function localTarget(root, internalPath) {

@@ -1,0 +1,47 @@
+[
+  {
+    "post": "src/content/posts/forgotten-realms/ed-greenwood-a-new-road-to-lichdom.mdx",
+    "original": "ed-greenwood-a-new-road-to-lichdom.png",
+    "destination": "ed-greenwood-a-new-road-to-lichdom-setting-logo.png"
+  },
+  {
+    "post": "src/content/posts/forgotten-realms/ed-greenwood-forgotten-mage-of-the-forgotten-realms.mdx",
+    "original": "ed-greenwood-forgotten-mage-of-the-forgotten-realms.png",
+    "destination": "ed-greenwood-forgotten-mage-of-the-forgotten-realms-setting-logo.png"
+  },
+  {
+    "post": "src/content/posts/forgotten-realms/ed-greenwood-how-to-tell-a-beholder-where-to-go.mdx",
+    "original": "ed-greenwood-how-to-tell-a-beholder-where-to-go.png",
+    "destination": "ed-greenwood-how-to-tell-a-beholder-where-to-go-setting-logo.png"
+  },
+  {
+    "post": "src/content/posts/forgotten-realms/ed-greenwood-lost-lore-of-the-realms-72.mdx",
+    "original": "ed-greenwood-lost-lore-of-the-realms-72.png",
+    "destination": "ed-greenwood-lost-lore-of-the-realms-72-setting-logo.png"
+  },
+  {
+    "post": "src/content/posts/forgotten-realms/ed-greenwood-lost-lore-of-the-realms-75.mdx",
+    "original": "ed-greenwood-lost-lore-of-the-realms-75.png",
+    "destination": "ed-greenwood-lost-lore-of-the-realms-75-setting-logo.png"
+  },
+  {
+    "post": "src/content/posts/forgotten-realms/ed-greenwood-lost-lore-of-the-realms-76.mdx",
+    "original": "ed-greenwood-lost-lore-of-the-realms-76.png",
+    "destination": "ed-greenwood-lost-lore-of-the-realms-76-setting-logo.png"
+  },
+  {
+    "post": "src/content/posts/forgotten-realms/ed-greenwood-the-floating-mask-of-doom.mdx",
+    "original": "ed-greenwood-the-floating-mask-of-doom-v2.png",
+    "destination": "ed-greenwood-the-floating-mask-of-doom-setting-logo.png"
+  },
+  {
+    "post": "src/content/posts/forgotten-realms/ed-greenwood-the-ladies-three.mdx",
+    "original": "ed-greenwood-the-ladies-three-v2.png",
+    "destination": "ed-greenwood-the-ladies-three-setting-logo.png"
+  },
+  {
+    "post": "src/content/posts/forgotten-realms/ed-greenwood-when-the-mask-smiles.mdx",
+    "original": "ed-greenwood-when-the-mask-smiles.png",
+    "destination": "ed-greenwood-when-the-mask-smiles-setting-logo.png"
+  }
+]
