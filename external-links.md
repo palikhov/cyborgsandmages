@@ -1872,6 +1872,10 @@
 - `src/content/posts/translations/alexandrian-coins-currency.mdx`
 - `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1589940547/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-rpgnet-review-traps-treachery.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/158994206X/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures.mdx`
@@ -2288,6 +2292,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B0077T5SN6/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B008MQKH7K/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-running-campaign-bluebooking.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B00ANGID14/digitalcomi0a-20>
 
@@ -2709,6 +2717,14 @@
 ## <http://www.drivethrurpg.com/product/120025/The-Devils-Spine?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
+
+## <http://www.drivethrurpg.com/product/19507/Champions-5th-Edition-PDF?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-ptolus-running-campaign-bluebooking.mdx`
+
+## <http://www.drivethrurpg.com/product/196730/Strike-Force-1988-Original-Edition?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-ptolus-running-campaign-bluebooking.mdx`
 
 ## <http://www.drivethrurpg.com/product/231550/Infinity-Quantronic-Heat?affiliate_id=81207>
 
@@ -6024,6 +6040,10 @@
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
 - `src/content/posts/translations/delta-damn-you-gygax-part-4.mdx`
 
+## <https://thealexandrian.net/about/bibliography>
+
+- `src/content/posts/translations/alexandrian-rpgnet-review-traps-treachery.mdx`
+
 ## <https://thealexandrian.net/creations/icewind-dale/icewind-dale-distance-tables.xlsx>
 
 - `src/content/posts/translations/alexandrian-icewind-dale-travel-times.mdx`
@@ -6067,6 +6087,7 @@
 - `src/content/posts/translations/alexandrian-prop-provenance.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-designing-character-backgrounds-1.mdx`
 - `src/content/posts/translations/alexandrian-review-ptolus-city-of-adventure.mdx`
+- `src/content/posts/translations/alexandrian-rpgnet-review-legions-of-hell.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-scenario-timelines.mdx`
@@ -6589,14 +6610,6 @@
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-5-rpg-montage.mdx`
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-6-innkeepers.mdx`
 
-## <https://thealexandrian.net/wordpress/40005/roleplaying-games/ptolus-running-the-campaign-bluebooking>
-
-- `src/content/posts/translations/alexandrian-backup-pcs.mdx`
-- `src/content/posts/translations/alexandrian-campaign-status-correspondence.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
-- `src/content/posts/translations/alexandrian-storm-kings-remix-addendum-three-cities-proxies.mdx`
-- `src/content/posts/translations/alexandrian-what-were-we-doing-again.mdx`
-
 ## <https://thealexandrian.net/wordpress/40081/roleplaying-games/numenera-welcome-to-the-ninth-world>
 
 - `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
@@ -6926,6 +6939,7 @@
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 - `src/content/posts/translations/alexandrian-remixing-avernus-5c-a-pointcrawl-elturel.mdx`
+- `src/content/posts/translations/alexandrian-rpgnet-review-legions-of-hell.mdx`
 - `src/content/posts/translations/alexandrian-small-hexcrawls.mdx`
 - `src/content/posts/translations/alexandrian-storm-kings-thunder-remix.mdx`
 - `src/content/posts/translations/alexandrian-textual-history-of-elturel.mdx`
@@ -7282,6 +7296,10 @@
 
 - `src/content/posts/translations/alexandrian-why-dd.mdx`
 
+## <https://thealexandrian.net/wordpress/52056/roleplaying-games/ex-rpgnet-review-death-in-freeport>
+
+- `src/content/posts/translations/alexandrian-rpgnet-review-legions-of-hell.mdx`
+
 ## <https://thealexandrian.net/wordpress/52157/roleplaying-games/session-0-module-hunted>
 
 - `src/content/posts/translations/alexandrian-session-0-modules.mdx`
@@ -7546,6 +7564,10 @@
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-1-raiding-death-star.mdx`
 
+## <https://thealexandrian.net?p=39979>
+
+- `src/content/posts/translations/alexandrian-ptolus-running-campaign-bluebooking.mdx`
+
 ## <https://thealexandrian.net?p=4002>
 
 - `src/content/posts/translations/alexandrian-encumbrance-by-stone-design-notes.mdx`
@@ -7679,9 +7701,17 @@
 
 - `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
+## <https://thealexandrian.net?p=52165>
+
+- `src/content/posts/translations/alexandrian-rpgnet-review-traps-treachery.mdx`
+
 ## <https://thealexandrian.net?p=53311>
 
 - `src/content/posts/translations/alexandrian-campaign-status-supporting-cast.mdx`
+
+## <https://thealexandrian.net?p=53470>
+
+- `src/content/posts/translations/alexandrian-rpgnet-review-legions-of-hell.mdx`
 
 ## <https://thealexandrian.net?p=640>
 
@@ -8858,6 +8888,10 @@
 
 - `src/content/posts/translations/alexandrian-rpg-essential-reading-list.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/1589940202/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-rpgnet-review-traps-treachery.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/1613170297/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-rpg-essential-reading-list.mdx`
@@ -9571,6 +9605,14 @@
 
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
 
+## <https://www.dmsguild.com/en/product/16865/monstrous-manual-2e?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-rpgnet-review-legions-of-hell.mdx`
+
+## <https://www.dmsguild.com/en/product/17390/guide-to-hell-2e?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-rpgnet-review-legions-of-hell.mdx`
+
 ## <https://www.dmsguild.com/product/110212/H1-Keep-on-the-Shadowfell--QuickStart-Rules-4e>
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
@@ -10009,6 +10051,10 @@
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
 
+## <https://www.drivethrurpg.com/product/357417/The-Book-of-Fiends-A-Malefic-Bestiary-for-5E?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-rpgnet-review-legions-of-hell.mdx`
+
 ## <https://www.drivethrurpg.com/product/3727/The-Sunless-Citadel-3e?affiliate_id=8278>
 
 - `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
@@ -10052,6 +10098,10 @@
 ## <https://www.drivethrurpg.com/product/691/Fields-of-Blood-The-Book-of-War?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-storm-kings-remix-part-5e-waging-war.mdx`
+
+## <https://www.drivethrurpg.com/product/84298/De-Profundis-Second-Edition?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-ptolus-running-campaign-bluebooking.mdx`
 
 ## <https://www.dungeoncontest.com>
 
@@ -10305,6 +10355,10 @@
 
 - `src/content/posts/translations/acoup-clothing-3-spin-me-right-round.mdx`
 
+## <https://www.montecookgames.com/store/product/invisible-sun-preorder>
+
+- `src/content/posts/translations/alexandrian-ptolus-running-campaign-bluebooking.mdx`
+
 ## <https://www.museicapitolini.org/en/percorso/scalone-0>
 
 - `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
@@ -10545,6 +10599,11 @@
 
 - `src/content/posts/translations/alexandrian-ask-20-transferable-techniques.mdx`
 - `src/content/posts/translations/alexandrian-managing-prep-load.mdx`
+
+## <https://www.thealexandrian.net/8216/roleplaying-games/rpgnet-and-me>
+
+- `src/content/posts/translations/alexandrian-rpgnet-review-legions-of-hell.mdx`
+- `src/content/posts/translations/alexandrian-rpgnet-review-traps-treachery.mdx`
 
 ## <https://www.thealexandrian.net/creations/advanced-rules/extra-effort-ogl.html>
 
