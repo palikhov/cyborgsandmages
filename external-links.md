@@ -1754,9 +1754,14 @@
 - `src/content/posts/translations/alexandrian-game-structures-part-3-dungeoncrawl.mdx`
 - `src/content/posts/translations/alexandrian-grok-threshold.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1556347308/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-designing-character-backgrounds-1.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1560760850/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/156076144X/digitalcomi0a-20>
 
@@ -1926,6 +1931,7 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1896776329/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-prepping-system-cheat-sheets.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-designing-character-backgrounds-1.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1896776337/digitalcomi0a-20>
 
@@ -2145,6 +2151,7 @@
 - `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
 - `src/content/posts/translations/alexandrian-opening-your-game-table.mdx`
 - `src/content/posts/translations/alexandrian-re-running-the-megadungeon.mdx`
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 - `src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx`
 - `src/content/posts/translations/alexandrian-treasure-maps-the-unknown.mdx`
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
@@ -3243,6 +3250,10 @@
 ## <http://www.rpgnow.com/product_info.php?products_id=27955&it=1&filters=0_0_0&manufacturers_id=2142>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
+
+## <http://www.rpgnow.com/product_info.php?products_id=28306&it=1>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <http://www.rpgnow.com/product_info.php?products_id=50199&filters=0_0_0&manufacturers_id=2142>
 
@@ -6054,11 +6065,13 @@
 - `src/content/posts/translations/alexandrian-nation-in-history.mdx`
 - `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
 - `src/content/posts/translations/alexandrian-prop-provenance.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-designing-character-backgrounds-1.mdx`
 - `src/content/posts/translations/alexandrian-review-ptolus-city-of-adventure.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-scenario-timelines.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
+- `src/content/posts/translations/alexandrian-smart-prep-4-campaign-status-documents.mdx`
 - `src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx`
 - `src/content/posts/translations/alexandrian-three-point-plotting.mdx`
 - `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
@@ -6179,6 +6192,7 @@
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 - `src/content/posts/translations/alexandrian-juggling-scenario-hooks-sandbox.mdx`
 - `src/content/posts/translations/alexandrian-prep-tips-beginning-dm.mdx`
+- `src/content/posts/translations/alexandrian-smart-prep-4-campaign-status-documents.mdx`
 - `src/content/posts/translations/alexandrian-thinking-wilderness-travel.mdx`
 - `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
 - `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
@@ -6212,11 +6226,6 @@
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 
-## <https://thealexandrian.net/wordpress/2104/roleplaying-games/ptolus-in-the-shadow-of-the-spire-designing-character-backgrounds-part-1>
-
-- `src/content/posts/translations/alexandrian-icewind-dale-characters.mdx`
-- `src/content/posts/translations/alexandrian-storm-kings-remix-part-1-strong-beginning.mdx`
-
 ## <https://thealexandrian.net/wordpress/2184/roleplaying-games/ptolus-running-the-campaign-non-standard-groups>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-17-too-many-players.mdx`
@@ -6249,6 +6258,7 @@
 
 - `src/content/posts/translations/alexandrian-death-wish-common-npc.mdx`
 - `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net/wordpress/2537/roleplaying-games/ptolus-running-the-campaign-graphical-resources>
 
@@ -6258,17 +6268,19 @@
 
 - `src/content/posts/translations/alexandrian-grok-threshold.mdx`
 
-## <https://thealexandrian.net/wordpress/2603/roleplaying-games/reactions-to-odd>
+## <https://thealexandrian.net/wordpress/2610/roleplaying-games/reactions-to-odd-the-ur-game>
 
-- `src/content/posts/translations/alexandrian-encounter-distance.mdx`
-- `src/content/posts/translations/alexandrian-framing-combat-encounters.mdx`
-- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5b-solutions.mdx`
-- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net/wordpress/2619/roleplaying-games/odd-in-the-caverns-of-thracia-part-1-character-creation>
 
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 - `src/content/posts/translations/alexandrian-the-day-the-old-school-died.mdx`
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+
+## <https://thealexandrian.net/wordpress/2693/roleplaying-games/reactions-to-odd-ranged-combat>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net/wordpress/2781/roleplaying-games/dice-of-destiny>
 
@@ -6292,6 +6304,10 @@
 ## <https://thealexandrian.net/wordpress/3339/roleplaying-games/untested-the-local-magic-market>
 
 - `src/content/posts/translations/alexandrian-campaign-status-event-fallout.mdx`
+
+## <https://thealexandrian.net/wordpress/3381/roleplaying-games/reactions-to-odd-vampires-as-lycanthropes>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net/wordpress/33839/roleplaying-games/eclipse-phase-muse-to-your-left>
 
@@ -6342,6 +6358,10 @@
 ## <https://thealexandrian.net/wordpress/35693/roleplaying-games/thought-of-the-day-remixing-hoard-of-the-dragon-queen>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+
+## <https://thealexandrian.net/wordpress/35768/roleplaying-games/check-this-out-turn-undead-in-blackmoor>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net/wordpress/36036/theater/shakespeare-sunday-aye-no-no-aye-mortal-and-immortal-conflict>
 
@@ -6422,6 +6442,7 @@
 - `src/content/posts/translations/alexandrian-prop-provenance.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
+- `src/content/posts/translations/alexandrian-smart-prep-4-campaign-status-documents.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-exposition-drip.mdx`
 - `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
 - `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
@@ -6489,7 +6510,16 @@
 
 ## <https://thealexandrian.net/wordpress/3883/roleplaying-games/reactions-to-odd-prime-requisites>
 
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 - `src/content/posts/translations/alexandrian-the-many-types-of-balance.mdx`
+
+## <https://thealexandrian.net/wordpress/3891/roleplaying-games/reactions-to-odd-the-scope-of-the-game>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
+
+## <https://thealexandrian.net/wordpress/3903/roleplaying-games/reactions-to-odd-character-sheets>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net/wordpress/39128/roleplaying-games/art-of-rulings-11-narrative-vs-action-resolution>
 
@@ -6607,12 +6637,18 @@
 
 - `src/content/posts/translations/alexandrian-campaign-status-supporting-cast.mdx`
 
+## <https://thealexandrian.net/wordpress/40781/roleplaying-games/reactions-to-odd-arnesons-machines>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
+
 ## <https://thealexandrian.net/wordpress/40789/roleplaying-games/running-castle-blackmoor>
 
 - `src/content/posts/translations/alexandrian-ask-21-open-table-tracking.mdx`
 - `src/content/posts/translations/alexandrian-campaign-status-continuity-notes.mdx`
 - `src/content/posts/translations/alexandrian-campaign-status-restocking-checklists.mdx`
 - `src/content/posts/translations/alexandrian-dungeons-player-mapping.mdx`
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
+- `src/content/posts/translations/alexandrian-smart-prep-4-campaign-status-documents.mdx`
 - `src/content/posts/translations/alexandrian-untested-loot-damage.mdx`
 
 ## <https://thealexandrian.net/wordpress/40876/roleplaying-games/running-castle-blackmoor-part-7-restocking-the-dungeon>
@@ -6623,9 +6659,14 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
 
+## <https://thealexandrian.net/wordpress/4101/roleplaying-games/reactions-to-odd-gygaxian-rulebooks>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
+
 ## <https://thealexandrian.net/wordpress/41025/roleplaying-games/blades-in-the-dark-system-cheat-sheet-v3>
 
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
+- `src/content/posts/translations/alexandrian-smart-prep-4-campaign-status-documents.mdx`
 
 ## <https://thealexandrian.net/wordpress/41114/roleplaying-games/review-waterdeep-dragon-heist>
 
@@ -6666,6 +6707,7 @@
 ## <https://thealexandrian.net/wordpress/4131/roleplaying-games/reactions-to-odd-experience-points>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-11-complete-game-structures.mdx`
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net/wordpress/41316/roleplaying-games/dragon-heist-remix-part-3c-response-teams>
 
@@ -6688,6 +6730,7 @@
 - `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
 - `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-dungeons-player-mapping.mdx`
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net/wordpress/41367/roleplaying-games/dragon-heist-remix-part-4c-cassalanter-villa>
 
@@ -6791,32 +6834,6 @@
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 - `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
 
-## <https://thealexandrian.net/wordpress/42961/roleplaying-games/smart-prep-part-4-campaign-status-documents>
-
-- `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates-part-2-activity-logs.mdx`
-- `src/content/posts/translations/alexandrian-ask-19-structures-scene-framing.mdx`
-- `src/content/posts/translations/alexandrian-ask-2-invested-in-dragon-heist.mdx`
-- `src/content/posts/translations/alexandrian-ask-21-open-table-tracking.mdx`
-- `src/content/posts/translations/alexandrian-ask-5-ordering-from-gms-menu.mdx`
-- `src/content/posts/translations/alexandrian-campaign-status-continuity-notes.mdx`
-- `src/content/posts/translations/alexandrian-campaign-status-correspondence.mdx`
-- `src/content/posts/translations/alexandrian-campaign-status-dungeon-status.mdx`
-- `src/content/posts/translations/alexandrian-campaign-status-event-fallout.mdx`
-- `src/content/posts/translations/alexandrian-campaign-status-restocking-checklists.mdx`
-- `src/content/posts/translations/alexandrian-campaign-status-supporting-cast.mdx`
-- `src/content/posts/translations/alexandrian-campaign-status-trackers.mdx`
-- `src/content/posts/translations/alexandrian-campaign-status-trinity-toolbox.mdx`
-- `src/content/posts/translations/alexandrian-open-table-communal-events.mdx`
-- `src/content/posts/translations/alexandrian-pineappling.mdx`
-- `src/content/posts/translations/alexandrian-review-ptolus-city-of-adventure.mdx`
-- `src/content/posts/translations/alexandrian-review-storm-kings-thunder.mdx`
-- `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
-- `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
-- `src/content/posts/translations/alexandrian-smart-prep-3-status-quo-design.mdx`
-- `src/content/posts/translations/alexandrian-swap-notes-for-your-gm-screen.mdx`
-- `src/content/posts/translations/alexandrian-untested-open-table-headlines.mdx`
-- `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
-
 ## <https://thealexandrian.net/wordpress/42965/roleplaying-games/left-hand-of-mythos-a-trail-of-cthulhu-scenario>
 
 - `src/content/posts/translations/alexandrian-prop-provenance.mdx`
@@ -6908,6 +6925,7 @@
 - `src/content/posts/translations/alexandrian-breathing-life-into-wandering-monster.mdx`
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+- `src/content/posts/translations/alexandrian-remixing-avernus-5c-a-pointcrawl-elturel.mdx`
 - `src/content/posts/translations/alexandrian-small-hexcrawls.mdx`
 - `src/content/posts/translations/alexandrian-storm-kings-thunder-remix.mdx`
 - `src/content/posts/translations/alexandrian-textual-history-of-elturel.mdx`
@@ -6937,16 +6955,16 @@
 
 ## <https://thealexandrian.net/wordpress/44713/roleplaying-games/remixing-avernus-part-5b-b-streetcrawl-in-elturel>
 
+- `src/content/posts/translations/alexandrian-remixing-avernus-5c-a-pointcrawl-elturel.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
+
+## <https://thealexandrian.net/wordpress/44756/roleplaying-games/remixing-avernus-addendum-more-dms-guild-capsule-reviews>
+
+- `src/content/posts/translations/alexandrian-remixing-avernus-5c-a-pointcrawl-elturel.mdx`
 
 ## <https://thealexandrian.net/wordpress/44773/roleplaying-games/so-you-want-to-be-a-feng-shui-player>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
-
-## <https://thealexandrian.net/wordpress/44868/roleplaying-games/remixing-avernus-part-5c-a-pointcrawl-in-elturel>
-
-- `src/content/posts/translations/alexandrian-storm-kings-remix-part-1-strong-beginning.mdx`
-- `src/content/posts/translations/alexandrian-thinking-wilderness-travel-2.mdx`
 
 ## <https://thealexandrian.net/wordpress/44881/roleplaying-games/remixing-avernus-part-5c-c-elturel-locations>
 
@@ -7063,10 +7081,6 @@
 ## <https://thealexandrian.net/wordpress/46575/roleplaying-games/remixing-avernus-part-7d-raid-on-the-flying-fortress>
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-1-raiding-death-star.mdx`
-
-## <https://thealexandrian.net/wordpress/46602/roleplaying-games/the-spectrum-of-prep>
-
-- `src/content/posts/translations/alexandrian-review-legacy-crystal-shard.mdx`
 
 ## <https://thealexandrian.net/wordpress/46631/roleplaying-games/2021-ennie-award-nomination-magical-kitties-save-the-day>
 
@@ -7316,6 +7330,10 @@
 - `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
 
+## <https://thealexandrian.net/wordpress/640/roleplaying-games/reactions-to-odd-wandering-adventures>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
+
 ## <https://thealexandrian.net/wordpress/7223/roleplaying-games/101-curious-items-part-1>
 
 - `src/content/posts/translations/alexandrian-pineappling.mdx`
@@ -7330,11 +7348,19 @@
 
 - `src/content/posts/translations/alexandrian-enter-the-boss.mdx`
 
+## <https://thealexandrian.net/wordpress/776/roleplaying-games/blood-shield-bandits>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
+
 ## <https://thealexandrian.net/wordpress/7842/roleplaying-games/justins-house-rules-for-odd>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-1-morphing-reality.mdx`
 - `src/content/posts/translations/alexandrian-untested-hardcore-opportunity-attacks.mdx`
 - `src/content/posts/translations/alexandrian-untested-loot-damage.mdx`
+
+## <https://thealexandrian.net/wordpress/7849/roleplaying-games/reactions-to-odd-turns-rounds-and-segments-oh-my>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net/wordpress/7949/roleplaying-games/node-based-scenario-design-part-1-the-plotted-approach>
 
@@ -7476,6 +7502,14 @@
 - `src/content/posts/translations/alexandrian-dark-tower-level-connections.mdx`
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
+## <https://thealexandrian.net?p=2105>
+
+- `src/content/posts/translations/alexandrian-ptolus-designing-character-backgrounds-1.mdx`
+
+## <https://thealexandrian.net?p=2111>
+
+- `src/content/posts/translations/alexandrian-ptolus-designing-character-backgrounds-1.mdx`
+
 ## <https://thealexandrian.net?p=36473>
 
 - `src/content/posts/translations/alexandrian-linear-mediums-rpg-examples.mdx`
@@ -7528,9 +7562,17 @@
 
 - `src/content/posts/translations/alexandrian-untested-5e-streamlined-skills.mdx`
 
+## <https://thealexandrian.net?p=40495>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
+
 ## <https://thealexandrian.net?p=41025>
 
 - `src/content/posts/translations/alexandrian-campaign-status-supporting-cast.mdx`
+
+## <https://thealexandrian.net?p=41217>
+
+- `src/content/posts/translations/alexandrian-smart-prep-4-campaign-status-documents.mdx`
 
 ## <https://thealexandrian.net?p=41225>
 
@@ -7544,6 +7586,10 @@
 ## <https://thealexandrian.net?p=43107>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+
+## <https://thealexandrian.net?p=43244>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net?p=44117>
 
@@ -7561,6 +7607,10 @@
 
 - `src/content/posts/translations/remixing-avernus-streetcrawling-tools.mdx`
 
+## <https://thealexandrian.net?p=44874>
+
+- `src/content/posts/translations/alexandrian-remixing-avernus-5c-a-pointcrawl-elturel.mdx`
+
 ## <https://thealexandrian.net?p=45130>
 
 - `src/content/posts/translations/alexandrian-icewind-dale-running-sandbox.mdx`
@@ -7576,6 +7626,10 @@
 ## <https://thealexandrian.net?p=45452>
 
 - `src/content/posts/translations/alexandrian-review-rime-of-the-frostmaiden.mdx`
+
+## <https://thealexandrian.net?p=45636>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net?p=46263>
 
@@ -7620,6 +7674,10 @@
 ## <https://thealexandrian.net?p=50746>
 
 - `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates-part-2-activity-logs.mdx`
+
+## <https://thealexandrian.net?p=52146>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net?p=53311>
 
@@ -8869,6 +8927,10 @@
 
 - `src/content/posts/translations/alexandrian-textual-history-of-the-yawning-portal.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/B000FC130E/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-remixing-avernus-5c-a-pointcrawl-elturel.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/B002N5N5LQ/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-skimming-scenarios.mdx`
@@ -9520,6 +9582,7 @@
 ## <https://www.dmsguild.com/product/166079/Legacy-of-the-Crystal-Shard-Next?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-review-legacy-crystal-shard.mdx`
+- `src/content/posts/translations/alexandrian-spectrum-of-prep.mdx`
 
 ## <https://www.dmsguild.com/product/16782/Forgotten-Realms-Campaign-Set-1e?affiliate_id=81207>
 
@@ -9893,6 +9956,10 @@
 
 - `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
 - `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
+
+## <https://www.drivethrurpg.com/product/28306/ODD-Dungeons--Dragons-Original-Edition-0e?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://www.drivethrurpg.com/product/28409/MiniAdventure-1-The-Complex-of-Zombies?affiliate_id=81207>
 
