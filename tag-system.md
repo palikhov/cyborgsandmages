@@ -55,6 +55,7 @@
 - `Anthony Huso`
 - `Arbrethil`
 - `Arnold K`
+- `auguryignored`
 - `Bartoneus`
 - `Basheer Ghouse`
 - `Bayli Anderson`
@@ -143,6 +144,7 @@
 - `Shawn Merwin`
 - `Skerples`
 - `Sly Flourish`
+- `Sofinho`
 - `Steamtunnel`
 - `steamtunnel.blogspot.com`
 - `Stephen Bandstra`
@@ -172,6 +174,7 @@
 | `Anthony Huso` | `Anthony Huso` |
 | `Arbrethil` | `Arbrethil` |
 | `Arnold K` | `Arnold K` |
+| `auguryignored` | `auguryignored` |
 | `Bartoneus` | `Bartoneus` |
 | `Basheer Ghouse` | `Basheer Ghouse` |
 | `Bayli Anderson` | `Bayli Anderson` |
@@ -265,6 +268,7 @@
 | `Serban Ionita` | `Serban Ionita` |
 | `Shawn Merwin` | `Shawn Merwin` |
 | `Skerples` | `Skerples` |
+| `Sofinho - Alone in the Labyrinth` | `Sofinho` |
 | `Steamtunnel` | `Steamtunnel` |
 | `steamtunnel.blogspot.com` | `steamtunnel.blogspot.com` |
 | `Stephen Bandstra` | `Stephen Bandstra` |

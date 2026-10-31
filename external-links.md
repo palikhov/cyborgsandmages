@@ -900,6 +900,10 @@
 
 - `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
 
+## <http://lostatlases.blogspot.com>
+
+- `src/content/posts/translations/augury-ignored-three-types-of-hexcrawl.mdx`
+
 ## <http://lotfp.blogspot.com>
 
 - `src/content/posts/translations/alexandrian-encumbrance-by-stone-design-notes.mdx`
@@ -2399,6 +2403,10 @@
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 - `src/content/posts/translations/coinsandscrolls-three-estates.mdx`
 
+## <http://www.autarch.co/forums/general-discussion/hex-grid-overlay-google-earth>
+
+- `src/content/posts/translations/sienas-six-mile-hex.mdx`
+
 ## <http://www.barnesandnoble.com/w/fire-in-the-blood-erin-m-evans/1117655172?ean=9780786965298>
 
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
@@ -2813,6 +2821,10 @@
 ## <http://www.gameinformer.com/games/the_elder_scrolls_v_skyrim/b/xbox360/archive/2011/01/17/the-technology-behind-elder-scrolls-v-skyrim.aspx>
 
 - `src/content/posts/translations/radiant-quests-and-restocking.mdx`
+
+## <http://www.gelib.com/castles-of-italy.htm>
+
+- `src/content/posts/translations/sienas-six-mile-hex.mdx`
 
 ## <http://www.giantitp.com/comics/oots0001.html>
 
@@ -3718,6 +3730,18 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <https://aloneinthelabyrinth.blogspot.com/2020/04/jones-oracualr-dungeon-generator.html>
+
+- `src/content/posts/translations/alone-in-the-labyrinth-scale-sublimation.mdx`
+
+## <https://aloneinthelabyrinth.blogspot.com/search/label/Actual%20Play>
+
+- `src/content/posts/translations/alone-in-the-labyrinth-scale-sublimation.mdx`
+
+## <https://aloneinthelabyrinth.blogspot.com/search/label/walkthrough>
+
+- `src/content/posts/translations/alone-in-the-labyrinth-scale-sublimation.mdx`
+
 ## <https://alphastream.org/index.php/2021/06/10/how-to-challenge-players-just-add-damage>
 
 - `src/content/posts/translations/dmdavid-seven-discarded-rules.mdx`
@@ -4200,6 +4224,7 @@
 ## <https://coinsandscrolls.blogspot.com/2019/06/osr-mercenary-pointcrawl-in-14th.html>
 
 - `src/content/posts/translations/coinsandscrolls-hireling-morale-and-fear.mdx`
+- `src/content/posts/translations/sienas-six-mile-hex.mdx`
 
 ## <https://coinsandscrolls.blogspot.com/2019/07/book-notes-captains-of-fortune-profiles.html>
 
@@ -4676,6 +4701,10 @@
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xx.mdx`
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xxi.mdx`
 
+## <https://drive.google.com/open?id=1XF058f3i8dQk0k2yuGKZfpX6Jq3fjhgB>
+
+- `src/content/posts/translations/sienas-six-mile-hex.mdx`
+
 ## <https://dumpstatadventures.com/a-players-perspective/monsters-as-mounts>
 
 - `src/content/posts/translations/dumpstat-tactics-outside-the-box.mdx`
@@ -4979,6 +5008,10 @@
 
 - `src/content/posts/translations/knight-at-the-opera-people-power-land.mdx`
 
+## <https://en.wikipedia.org/wiki/History_of_the_metric_system>
+
+- `src/content/posts/translations/alone-in-the-labyrinth-scale-sublimation.mdx`
+
 ## <https://en.wikipedia.org/wiki/Pas_d%27armes>
 
 - `src/content/posts/translations/knight-at-the-opera-people-power-land.mdx`
@@ -4986,6 +5019,14 @@
 ## <https://en.wikipedia.org/wiki/Pollarding>
 
 - `src/content/posts/translations/knight-at-the-opera-people-power-land.mdx`
+
+## <https://en.wikipedia.org/wiki/Siena>
+
+- `src/content/posts/translations/sienas-six-mile-hex.mdx`
+
+## <https://en.wikipedia.org/wiki/Torre_del_Mangia>
+
+- `src/content/posts/translations/sienas-six-mile-hex.mdx`
 
 ## <https://en.wikisource.org/wiki/The_Art_of_War_(Sun)/Section_I>
 
@@ -5236,6 +5277,14 @@
 
 - `src/content/posts/translations/dmdavid-role-of-die-roll-love-letter.mdx`
 
+## <https://it.wikipedia.org/wiki/L%27armata_Brancaleone>
+
+- `src/content/posts/translations/sienas-six-mile-hex.mdx`
+
+## <https://it.wikipedia.org/wiki/Storia_di_Siena>
+
+- `src/content/posts/translations/sienas-six-mile-hex.mdx`
+
 ## <https://itunes.apple.com/gb/app/rpg-books/id365514623?mt=8>
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
@@ -5409,6 +5458,10 @@
 
 - `src/content/posts/translations/acoup-fortification-part-iii-castling.mdx`
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-iii.mdx`
+
+## <https://mystara.thorfmaps.com>
+
+- `src/content/posts/translations/augury-ignored-three-types-of-hexcrawl.mdx`
 
 ## <https://nbos.com/products/inspiration-pad-pro>
 
@@ -9337,6 +9390,10 @@
 
 - `src/content/posts/translations/alexandrian-nation-in-history.mdx`
 
+## <https://www.britannica.com/place/Italy/The-rise-of-communes>
+
+- `src/content/posts/translations/sienas-six-mile-hex.mdx`
+
 ## <https://www.britannica.com/topic/The-Most-Noble-Order-of-the-Garter>
 
 - `src/content/posts/translations/ludusludorum-medieval-warfare-1.mdx`
@@ -10160,6 +10217,10 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-running-campaign-bluebooking.mdx`
 
+## <https://www.drivethrurpg.com/product/99063/An-Echo-Resounding-A-Sourcebook-for-Lordship-and-War>
+
+- `src/content/posts/translations/augury-ignored-three-types-of-hexcrawl.mdx`
+
 ## <https://www.dungeoncontest.com>
 
 - `src/content/posts/translations/writing-your-gms-guide.mdx`
@@ -10263,6 +10324,14 @@
 ## <https://www.goodreads.com/shelf/show/military-fantasy>
 
 - `src/content/posts/translations/ludusludorum-glen-cooks-goblin-recon.mdx`
+
+## <https://www.google.com/earth>
+
+- `src/content/posts/translations/sienas-six-mile-hex.mdx`
+
+## <https://www.google.com/earth/versions>
+
+- `src/content/posts/translations/sienas-six-mile-hex.mdx`
 
 ## <https://www.google.com/search?q=undyed+linen&client=firefox-b-1-d&sxsrf=ALeKk00eZlXuz74AJmpmprNpm-Wu8QKoFA:1617298727520&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiHspihy93vAhWmGFkFHfmuBnAQ_AUoAnoECAEQBA&biw=1920&bih=910>
 
