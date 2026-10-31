@@ -570,6 +570,7 @@
 ## <http://faculty.goucher.edu/eng240/medieval_prices.html>
 
 - `src/content/posts/translations/delta-historical-costs-comparison.mdx`
+- `src/content/posts/translations/delta-on-support-and-upkeep.mdx`
 
 ## <http://falsemachine.blogspot.ca/2017/05/a-review-of-seeing-like-state-by-james.html>
 
@@ -1073,6 +1074,14 @@
 ## <http://rpg.drivethrustuff.com/product/27955/City-Supplement-1-Dweredell?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
+
+## <http://rpg.nobl.ca/archive.php?x=dnd/archfr/wn>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5d-making-alliances.mdx`
+
+## <http://rpg.nobl.ca/archive.php?x=dnd/wn/20041201a>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5d-making-alliances.mdx`
 
 ## <http://rpgcharacters.wordpress.com>
 
@@ -1582,6 +1591,7 @@
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0786965800/digitalcomi0a-20>
 
+- `src/content/posts/translations/alexandrian-review-storm-kings-thunder.mdx`
 - `src/content/posts/translations/alexandrian-textual-history-of-elturel.mdx`
 - `src/content/posts/translations/alexandrian-thinking-wilderness-travel-2.mdx`
 - `src/content/posts/translations/alexandrian-thinking-wilderness-travel.mdx`
@@ -1598,6 +1608,7 @@
 
 - `src/content/posts/translations/alexandrian-ask-1-dejected-in-dragon-heist.mdx`
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-1b-nightstone-conclusions.mdx`
 - `src/content/posts/translations/alexandrian-why-dd.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0786966769/digitalcomi0a-20>
@@ -1893,6 +1904,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1601252544/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1613171323/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5d-making-alliances.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1633443205/digitalcomi0a-20>
 
@@ -4339,10 +4354,6 @@
 
 - `src/content/posts/translations/delta-horse-carrying-capacity.mdx`
 
-## <https://deltasdnd.blogspot.com/2018/01/on-support-and-upkeep.html>
-
-- `src/content/posts/translations/delta-historical-costs-comparison.mdx`
-
 ## <https://deltasdnd.blogspot.com/2018/08/interpolating-man-to-man-scale-from.html>
 
 - `src/content/posts/translations/delta-on-throwing-spears.mdx`
@@ -4963,6 +4974,22 @@
 ## <https://forestry.usu.edu/forest-products/wood-heating>
 
 - `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
+
+## <https://forgottenrealms.fandom.com/wiki/Dessarin_Valley>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-4c-expanding-path.mdx`
+
+## <https://forgottenrealms.fandom.com/wiki/Hall_of_Reflected_Moonlight>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-4a-hekaton-missing.mdx`
+
+## <https://forgottenrealms.fandom.com/wiki/Order_of_the_Blue_Moon>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-4a-hekaton-missing.mdx`
+
+## <https://forgottenrealms.fandom.com/wiki/Wyrms_of_the_North>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5d-making-alliances.mdx`
 
 ## <https://forlornencystment.blogspot.com/2024/01/character-progression-and-tiers-of-play.html>
 
@@ -5765,6 +5792,10 @@
 
 - `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
 
+## <https://stock.adobe.com/195162392>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5e-waging-war.mdx`
+
 ## <https://stock.adobe.com/Library/urn:aaid:sc:US:a96b2ad8-47d4-47f3-bc6a-b27ab47633ba>
 
 - `src/content/posts/translations/alexandrian-untested-loot-damage.mdx`
@@ -5781,6 +5812,14 @@
 
 - `src/content/posts/translations/alexandrian-campaign-status-supporting-cast.mdx`
 
+## <https://stock.adobe.com/images/a-brutal-muscular-warrior-a-martial-artist-with-golden-brass-knuckles-glowing-with-lava-holy-magic-he-stands-proudly-dramatically-illuminated-by-the-light-in-the-ruins-of-the-temple-2d-art/447622793>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5c-running-final-act.mdx`
+
+## <https://stock.adobe.com/images/a-huge-scandinavian-mythical-dragon-in-the-blue-night-sea-in-a-storm-attacks-viking-ships-raising-giant-waves-it-has-spikes-long-tails-and-glowing-eyes-it-opens-its-glowing-mouth-and-screams-2d-art/582164956>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-4b-path-hekaton.mdx`
+
 ## <https://stock.adobe.com/images/a-medieval-knight-with-his-sword-leapt-into-the-fight-against-the-giant-digital-art-style-illustration-painting/350434738?asset_id=350434738>
 
 - `src/content/posts/translations/alexandrian-untested-5e-fighting-kaiju.mdx`
@@ -5788,6 +5827,10 @@
 ## <https://stock.adobe.com/images/a-musician-in-a-robe-and-with-a-mask-on-his-face-plays-music-near-a-vineyard-on-a-magic-harp-digital-drawing-style-2d-illustration/501631469>
 
 - `src/content/posts/translations/alexandrian-vicious-mockery-back-to-the-drawing-board.mdx`
+
+## <https://stock.adobe.com/images/abstract-3d-background-liquid-shapes-and-light-effect-underwater/231695283>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-4d-hekaton-revelations.mdx`
 
 ## <https://stock.adobe.com/images/abstract-golden-light-circle-effect/441541638>
 
@@ -5808,6 +5851,10 @@
 ## <https://stock.adobe.com/images/business-man-challenge-big-jump-to-reach-the-success/344123534>
 
 - `src/content/posts/translations/alexandrian-are-you-sure-you-want-to-do-that.mdx`
+
+## <https://stock.adobe.com/images/challenger-standing-in-front-of-a-huge-stone-statue-3d-illustration/526630961>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5-final-act.mdx`
 
 ## <https://stock.adobe.com/images/crowd-stampede-crush-disaster-cartoon-illustration-vector/562661508>
 
@@ -5833,6 +5880,10 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
 
+## <https://stock.adobe.com/images/digital-3d-illustration-of-a-cloaked-figure-approachin/768463286?asset_id=768463286>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-4c-expanding-path.mdx`
+
 ## <https://stock.adobe.com/images/fantasy-scene-showing-the-young-boy-running-away-from-the-fire-dragon-digital-art-style-illustration-painting/197268654>
 
 - `src/content/posts/translations/alexandrian-untested-loot-damage.mdx`
@@ -5848,6 +5899,10 @@
 ## <https://stock.adobe.com/images/gothic-mysterious-woman-walks-in-fantasy-autumn-forest-long-silk-blue-cloak-flutters-waving-fly-in-wind-fabric-in-motion-head-hood-girl-princess-looks-back-fallen-orange-leaves-dark-trees-fog/474338164?asset_id=474338164>
 
 - `src/content/posts/translations/alexandrian-pacing-for-the-beginning-gm.mdx`
+
+## <https://stock.adobe.com/images/knight-with-the-light-sword-standing-near-the-giant-fire-dragon-digital-art-style-illustration-painting/450076982>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5b-solutions.mdx`
 
 ## <https://stock.adobe.com/images/large-cave-with-piles-of-gold-vector-cartoon-illustration-of-underground-dungeon-with-treasure-chest-full-of-golden-coins-sparkling-gemstones-jewelry-medieval-swords-adventure-game-background/653096214?prev_url=detail>
 
@@ -5909,6 +5964,14 @@
 
 - `src/content/posts/translations/alexandrian-running-detectives-zero-result.mdx`
 
+## <https://stock.adobe.com/images/vikings-at-dawn-stand-against-the-background-of-the-forest-dawn-illuminates-the-silhouettes-of-warriors-the-leader-s-cloak-flutters-in-the-wind-2d-illustration-digital-art-style/463989105>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5d-making-alliances.mdx`
+
+## <https://stock.adobe.com/images/winter-fantasy-landscape-with-rocky-terrain-bright-sun-and-coniferous-forest-a-fabulous-scene-with-clouds-and-a-snowstorm-with-a-giant-behind-the-mountains-and-a-warrior-standing-on-a-stone-upland/483134672?prev_url=detail&asset_id=483134672>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-1-strong-beginning.mdx`
+
 ## <https://stock.adobe.com/images/wizard-in-the-dark-dungeon-digital-painting/354604247>
 
 - `src/content/posts/translations/alexandrian-campaign-status-dungeon-status.mdx`
@@ -5968,6 +6031,7 @@
 - `src/content/posts/translations/alexandrian-five-node-mystery.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 - `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-thunder-remix.mdx`
 - `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
 
 ## <https://thealexandrian.net/in-the-shadow-of-the-spire>
@@ -6026,6 +6090,8 @@
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
 - `src/content/posts/translations/alexandrian-random-dd-tip-inverting-challenge.mdx`
 - `src/content/posts/translations/alexandrian-session-0-modules.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5d-making-alliances.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5e-waging-war.mdx`
 - `src/content/posts/translations/alexandrian-types-of-dungeons.mdx`
 - `src/content/posts/translations/alexandrian-why-dd.mdx`
 
@@ -6149,6 +6215,7 @@
 ## <https://thealexandrian.net/wordpress/2104/roleplaying-games/ptolus-in-the-shadow-of-the-spire-designing-character-backgrounds-part-1>
 
 - `src/content/posts/translations/alexandrian-icewind-dale-characters.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-1-strong-beginning.mdx`
 
 ## <https://thealexandrian.net/wordpress/2184/roleplaying-games/ptolus-running-the-campaign-non-standard-groups>
 
@@ -6195,6 +6262,7 @@
 
 - `src/content/posts/translations/alexandrian-encounter-distance.mdx`
 - `src/content/posts/translations/alexandrian-framing-combat-encounters.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5b-solutions.mdx`
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <https://thealexandrian.net/wordpress/2619/roleplaying-games/odd-in-the-caverns-of-thracia-part-1-character-creation>
@@ -6269,6 +6337,7 @@
 ## <https://thealexandrian.net/wordpress/35614/roleplaying-games/review-hoard-of-the-dragon-queen>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5b-solutions.mdx`
 
 ## <https://thealexandrian.net/wordpress/35693/roleplaying-games/thought-of-the-day-remixing-hoard-of-the-dragon-queen>
 
@@ -6495,6 +6564,7 @@
 - `src/content/posts/translations/alexandrian-backup-pcs.mdx`
 - `src/content/posts/translations/alexandrian-campaign-status-correspondence.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-addendum-three-cities-proxies.mdx`
 - `src/content/posts/translations/alexandrian-what-were-we-doing-again.mdx`
 
 ## <https://thealexandrian.net/wordpress/40081/roleplaying-games/numenera-welcome-to-the-ninth-world>
@@ -6511,6 +6581,7 @@
 - `src/content/posts/translations/alexandrian-failure-for-the-beginning-gm.mdx`
 - `src/content/posts/translations/alexandrian-gming-on-a-time-limit.mdx`
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5d-making-alliances.mdx`
 
 ## <https://thealexandrian.net/wordpress/40562/roleplaying-games/blades-in-the-dark-crew-mission-type-tables>
 
@@ -6722,6 +6793,7 @@
 
 ## <https://thealexandrian.net/wordpress/42961/roleplaying-games/smart-prep-part-4-campaign-status-documents>
 
+- `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates-part-2-activity-logs.mdx`
 - `src/content/posts/translations/alexandrian-ask-19-structures-scene-framing.mdx`
 - `src/content/posts/translations/alexandrian-ask-2-invested-in-dragon-heist.mdx`
 - `src/content/posts/translations/alexandrian-ask-21-open-table-tracking.mdx`
@@ -6737,6 +6809,7 @@
 - `src/content/posts/translations/alexandrian-open-table-communal-events.mdx`
 - `src/content/posts/translations/alexandrian-pineappling.mdx`
 - `src/content/posts/translations/alexandrian-review-ptolus-city-of-adventure.mdx`
+- `src/content/posts/translations/alexandrian-review-storm-kings-thunder.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city-part-2-life-in-the-city.mdx`
 - `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-3-status-quo-design.mdx`
@@ -6836,6 +6909,7 @@
 - `src/content/posts/translations/alexandrian-design-notes-adversary-rosters.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 - `src/content/posts/translations/alexandrian-small-hexcrawls.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-thunder-remix.mdx`
 - `src/content/posts/translations/alexandrian-textual-history-of-elturel.mdx`
 - `src/content/posts/translations/alexandrian-textual-history-of-zariel.mdx`
 - `src/content/posts/translations/alexandrian-textual-history-zariel-part-2.mdx`
@@ -6871,6 +6945,7 @@
 
 ## <https://thealexandrian.net/wordpress/44868/roleplaying-games/remixing-avernus-part-5c-a-pointcrawl-in-elturel>
 
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-1-strong-beginning.mdx`
 - `src/content/posts/translations/alexandrian-thinking-wilderness-travel-2.mdx`
 
 ## <https://thealexandrian.net/wordpress/44881/roleplaying-games/remixing-avernus-part-5c-c-elturel-locations>
@@ -7038,10 +7113,6 @@
 
 - `src/content/posts/translations/alexandrian-description-formulas.mdx`
 
-## <https://thealexandrian.net/wordpress/47398/roleplaying-games/storm-kings-thunder-the-alexandrian-remix>
-
-- `src/content/posts/translations/alexandrian-ask-18-players-with-spoilers.mdx`
-
 ## <https://thealexandrian.net/wordpress/47535/roleplaying-games/call-of-the-netherdeep-running-betrayers-rise>
 
 - `src/content/posts/translations/alexandrian-ask-7-classic-quests-railroads.mdx`
@@ -7107,6 +7178,10 @@
 ## <https://thealexandrian.net/wordpress/48995/roleplaying-games/advanced-gamemastery-cliffhangers-conclusions>
 
 - `src/content/posts/translations/alexandrian-managing-prep-load.mdx`
+
+## <https://thealexandrian.net/wordpress/49302/roleplaying-games/review-shadow-of-the-dragon-queen>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5e-waging-war.mdx`
 
 ## <https://thealexandrian.net/wordpress/49434/roleplaying-games/miss-initiative>
 
@@ -7296,6 +7371,10 @@
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-exposition-drip.mdx`
 - `src/content/posts/translations/alexandrian-spell-component-roleplaying.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-1-strong-beginning.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-4b-path-hekaton.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5b-solutions.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-thunder-remix.mdx`
 - `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
 - `src/content/posts/translations/alexandrian-using-published-3e-modules.mdx`
 - `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
@@ -7308,6 +7387,7 @@
 
 - `src/content/posts/translations/alexandrian-review-ultraviolet-grasslands.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-1.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5c-running-final-act.mdx`
 - `src/content/posts/translations/alexandrian-thinking-wilderness-travel-2.mdx`
 
 ## <https://thealexandrian.net/wordpress/7985/roleplaying-games/node-based-scenario-design-part-3-inverting-the-three-clue-rule>
@@ -7541,9 +7621,9 @@
 
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
-## <https://thealexandrian.net?p=50793>
+## <https://thealexandrian.net?p=50746>
 
-- `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates.mdx`
+- `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates-part-2-activity-logs.mdx`
 
 ## <https://thealexandrian.net?p=53311>
 
@@ -8540,6 +8620,14 @@
 
 - `src/content/posts/translations/alexandrian-forgotten-realms-arveiaturace-white-wyrm.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/0786965592/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-1b-nightstone-conclusions.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/0786965614/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-4a-hekaton-missing.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/0786965622/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-random-dd-tip-inverting-challenge.mdx`
@@ -8550,6 +8638,10 @@
 
 - `src/content/posts/translations/alexandrian-forgotten-realms-arveiaturace-white-wyrm.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/0786965800/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-1b-nightstone-conclusions.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/0786965983/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-random-dd-tip-party-size.mdx`
@@ -8558,6 +8650,14 @@
 
 - `src/content/posts/translations/alexandrian-forgotten-realms-arveiaturace-white-wyrm.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-12-mail-carrier-scenario-hooks.mdx`
+- `src/content/posts/translations/alexandrian-review-storm-kings-thunder.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-addendum-three-cities-proxies.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-1-strong-beginning.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-3c-eye-all-father.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-3e-implementing-revelations.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-4a-hekaton-missing.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-thunder-faction-reference.mdx`
+- `src/content/posts/translations/alexandrian-storm-kings-thunder-remix.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/0786966092/digitalcomi0a-20>
 
@@ -9408,6 +9508,10 @@
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
 
+## <https://www.dmsguild.com/product/125600/Dreams-of-the-Red-Wizards-Scourge-of-the-Sword-Coast-DD-Next?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-1b-nightstone-conclusions.mdx`
+
 ## <https://www.dmsguild.com/product/166079/Legacy-of-the-Crystal-Shard-Next?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-review-legacy-crystal-shard.mdx`
@@ -9520,6 +9624,10 @@
 ## <https://www.dmsguild.com/product/28306/ODD-Dungeons--Dragons-Original-Edition-0e?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-rpg-essential-reading-list.mdx`
+
+## <https://www.dmsguild.com/product/28797/Red-Hand-of-Doom-3e?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5e-waging-war.mdx`
 
 ## <https://www.dmsguild.com/product/328476/DDAL1000-Ice-Road-Trackers?affiliate_id=8278>
 
@@ -9853,6 +9961,10 @@
 
 - `src/content/posts/translations/alexandrian-review-raiders-of-the-serpent-sea-players-guide.mdx`
 
+## <https://www.drivethrurpg.com/product/455451/Kingdoms--Warfare?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5e-waging-war.mdx`
+
 ## <https://www.drivethrurpg.com/product/470041/How-to-Make-a-Fantasy-Sandbox>
 
 - `src/content/posts/translations/batintheattic-how-to-make-fantasy-sandbox.mdx`
@@ -9864,6 +9976,10 @@
 ## <https://www.drivethrurpg.com/product/64332/Labyrinth-Lord-Revised-Edition>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://www.drivethrurpg.com/product/691/Fields-of-Blood-The-Book-of-War?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-part-5e-waging-war.mdx`
 
 ## <https://www.dungeoncontest.com>
 
@@ -10192,6 +10308,10 @@
 ## <https://www.patreon.com/posts/dragon-heist-42208137>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+
+## <https://www.patreon.com/posts/storm-kings-pdf-102814479>
+
+- `src/content/posts/translations/alexandrian-storm-kings-remix-addendum-where-giants-roam.mdx`
 
 ## <https://www.patreon.com/posts/vladaam-affair-144436762>
 
