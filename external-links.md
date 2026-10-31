@@ -7002,10 +7002,6 @@
 
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
 
-## <https://thealexandrian.net/wordpress/45711/roleplaying-games/xandering-the-dungeon-addendum-how-to-use-a-melan-diagram>
-
-- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
-
 ## <https://thealexandrian.net/wordpress/46020/roleplaying-games/5e-hexcrawl>
 
 - `src/content/posts/translations/alexandrian-ask-21-open-table-tracking.mdx`
@@ -8231,6 +8227,10 @@
 
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
+## <https://web.archive.org/web/20150926064945/http:/www.enworld.org/forum/showthread.php?168563-Dungeon-layout-map-flow-and-old-school-game-design>
+
+- `src/content/posts/translations/alexandrian-how-to-use-melan-diagram.mdx`
+
 ## <https://web.archive.org/web/20160511175527/http://dndadventurersleague.org/rage-of-demons-pregens>
 
 - `src/content/posts/translations/ludus-ludorum-big-three-ability-scores.mdx`
@@ -8612,6 +8612,10 @@
 
 - `src/content/posts/translations/alexandrian-rolling-for-riddles.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/0786916400/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-how-to-use-melan-diagram.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/0786934336/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-campaign-status-event-fallout.mdx`
@@ -8661,6 +8665,7 @@
 
 ## <https://www.amazon.com/exec/obidos/ASIN/0786966092/digitalcomi0a-20>
 
+- `src/content/posts/translations/alexandrian-how-to-use-melan-diagram.mdx`
 - `src/content/posts/translations/alexandrian-non-focal-random-encounters.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/0786966254/digitalcomi0a-20>
