@@ -4643,6 +4643,14 @@
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-2.mdx`
 
+## <https://dnd.wizards.com/products/tashas-cauldron-everything>
+
+- `src/content/posts/translations/dumpstat-pricing-magic-items-part-8.mdx`
+
+## <https://docs.google.com/spreadsheets/d/1xckMUATltAexbI6H5JVd1sFagaxjto78wV1alj3WUwE/edit?usp=sharing>
+
+- `src/content/posts/translations/dumpstat-pricing-magic-items-part-8.mdx`
+
 ## <https://donjon.bin.sh/d20/dungeon>
 
 - `src/content/posts/translations/ludusludorum-low-prep-1-nostalgia-crawl.mdx`
@@ -4861,6 +4869,38 @@
 
 - `src/content/posts/translations/dumpstat-designing-an-encounter-terrain.mdx`
 
+## <https://dumpstatadventures.com/the-gm-is-always-right/more-tools-for-5e-tattoo-supplies>
+
+- `src/content/posts/translations/dumpstat-pricing-magic-items-part-8.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-1>
+
+- `src/content/posts/translations/dumpstat-pricing-magic-items-part-8.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-2>
+
+- `src/content/posts/translations/dumpstat-pricing-magic-items-part-8.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-3>
+
+- `src/content/posts/translations/dumpstat-pricing-magic-items-part-8.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-4>
+
+- `src/content/posts/translations/dumpstat-pricing-magic-items-part-8.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-5>
+
+- `src/content/posts/translations/dumpstat-pricing-magic-items-part-8.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-6>
+
+- `src/content/posts/translations/dumpstat-pricing-magic-items-part-8.mdx`
+
+## <https://dumpstatadventures.com/the-gm-is-always-right/pricing-magic-items-part-7>
+
+- `src/content/posts/translations/dumpstat-pricing-magic-items-part-8.mdx`
+
 ## <https://dumpstatadventures.com/the-gm-is-always-right/the-hobbit-reviewing-appendix-n>
 
 - `src/content/posts/translations/deep-dive-the-red-dragon-pt-2.mdx`
@@ -4934,6 +4974,18 @@
 ## <https://en.uesp.net/wiki/Skyrim:Gold>
 
 - `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
+
+## <https://en.wikipedia.org/wiki/Coppicing>
+
+- `src/content/posts/translations/knight-at-the-opera-people-power-land.mdx`
+
+## <https://en.wikipedia.org/wiki/Pas_d%27armes>
+
+- `src/content/posts/translations/knight-at-the-opera-people-power-land.mdx`
+
+## <https://en.wikipedia.org/wiki/Pollarding>
+
+- `src/content/posts/translations/knight-at-the-opera-people-power-land.mdx`
 
 ## <https://en.wikisource.org/wiki/The_Art_of_War_(Sun)/Section_I>
 
@@ -5208,6 +5260,10 @@
 ## <https://knightattheopera.blogspot.com>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
+## <https://knightattheopera.blogspot.com/2020/10/a-revised-dungeoncrawl-procedure.html>
+
+- `src/content/posts/translations/knight-at-the-opera-on-dungeon-size.mdx`
 
 ## <https://knightattheopera.blogspot.com/2021/06/a-thorough-look-at-urban-gameplay-in-d.html>
 
@@ -6168,6 +6224,7 @@
 
 ## <https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon>
 
+- `src/content/posts/translations/knight-at-the-opera-on-dungeon-size.mdx`
 - `src/content/posts/translations/silverarmpress-a-web-of-hooks.mdx`
 
 ## <https://thealexandrian.net/wordpress/13103/roleplaying-games/xandering-the-dungeon-part-2-xandering-techniques>
@@ -10479,6 +10536,10 @@
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 
+## <https://www.reddit.com/r/AskHistorians/comments/4frpb9/what_were_medieval_woods_and_what_were_they_like/d2bv6kg>
+
+- `src/content/posts/translations/knight-at-the-opera-people-power-land.mdx`
+
 ## <https://www.reddit.com/r/AskHistorians/comments/6q73qz/did_decadence_destroy_the_roman_empire>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
@@ -10514,6 +10575,10 @@
 ## <https://www.reddit.com/r/osr/comments/ay9ec4/best_tables_at_the_table>
 
 - `src/content/posts/translations/encounter-grid-six-years-out.mdx`
+
+## <https://www.reddit.com/r/skyrim/comments/beb6tj/map_of_what_the_holds_actually_hold>
+
+- `src/content/posts/translations/knight-at-the-opera-people-power-land.mdx`
 
 ## <https://www.redraggedfiend.com/practical-settlement-design-dnd>
 
