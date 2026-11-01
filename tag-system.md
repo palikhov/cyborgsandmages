@@ -293,6 +293,7 @@
 26. `Waterdeep`
 27. `Лунное море`
 28. `Adventurers League`
+29. `Tyranny of Dragons`
 
 ### Игровые темы
 
@@ -333,6 +334,7 @@
 - `Forgotten Realms`, `Забытые Королевства`, `Фаэрун` -> `Forgotten Realms`
 - `Waterdeep`, `Вотердип`, `Глубоководье` -> `Waterdeep`
 - `Лига Авантюристов`, `Adventurers League`, `adventurers-league` -> `Adventurers League`
+- `Tyranny of Dragons`, `Hoard of the Dragon Queen`, `Rise of Tiamat`, `Тирания драконов`, `Клад Королевы Драконов`, `Восстание Тиамат` -> `Tyranny of Dragons`
 - `Советы мастеру`, `Советы Мастеру`, `GM Advice`, `GM Tips`, `dm-tips`, `Мастеру`, `Начинающему Мастеру` -> `Советы Мастеру`
 - `Советы игроку`, `Советы игрокам`, `Советы Игроку`, `Игроку`, `Опции игрока`, `Опции игроков` -> `Советы игроку`
 - `homebrew`, `Homebrew`, `Хоумбрю`, `Изменения`, `Измененные заклинания` -> `Homebrew`

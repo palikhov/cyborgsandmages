@@ -121,6 +121,10 @@
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
 
+## <http://billygoes.blogspot.com/2014/08/quantum-combats-and-holy-horticulture.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
+
 ## <http://biology.clc.uc.edu/courses/bio114/spontgen.htm>
 
 - `src/content/posts/translations/alexandrian-vile-places-of-the-earth.mdx`
@@ -324,6 +328,19 @@
 
 - `src/content/posts/translations/welsh-piper-hex-based-campaign-design-2.mdx`
 
+## <http://detectmagic.blogspot.com>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
+
+## <http://detectmagic.blogspot.com/2014/08/hoard-of-dragon-queen-npc-generator.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
+
+## <http://detectmagic.blogspot.com/2014/09/hoard-of-dragon-queen-hdqremix-sword.html>
+
+- `src/content/posts/translations/detect-magic-hoard-dragon-queen-general.mdx`
+- `src/content/posts/translations/detect-magic-road-encounters-hoard-dragon-queen.mdx`
+
 ## <http://dictionary.reference.com/browse/ovate>
 
 - `src/content/posts/translations/tribality-druid-class-part-two.mdx`
@@ -466,6 +483,10 @@
 
 - `src/content/posts/translations/delta-review-5e-battlesystem-draft.mdx`
 
+## <http://dnd.wizards.com/dungeons-and-dragons/story/factions>
+
+- `src/content/posts/translations/detect-magic-hoard-dragon-queen-factions.mdx`
+
 ## <http://dndadventurersleague.org>
 
 - `src/content/posts/translations/dmdavid-four-annoying-spells.mdx`
@@ -477,6 +498,14 @@
 ## <http://dndwithpornstars.blogspot.com>
 
 - `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
+
+## <http://dndwithpornstars.blogspot.com/2011/09/mass-battle-ideas-from-pendragon-hack.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
+
+## <http://dndwithpornstars.blogspot.com/2014/01/the-cobalt-claw-of-tiamat.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
 
 ## <http://dragaera.wikia.com/wiki/Daymar>
 
@@ -596,6 +625,14 @@
 
 - `src/content/posts/translations/beyond-fomalhaut-dirt-cheap-sandbox.mdx`
 
+## <http://forgottenrealms.wikia.com/wiki/Oghma>
+
+- `src/content/posts/translations/detect-magic-hoard-dragon-queen-general.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Traveler%27s_dust>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
+
 ## <http://forum.rpg.net/showpost.php?p=10058527&postcount=8>
 
 - `src/content/posts/translations/alexandrian-rules-vs-rulings.mdx`
@@ -652,6 +689,11 @@
 
 - `src/content/posts/translations/welsh-piper-may-the-hex-be-with-you.mdx`
 
+## <http://gameswithothers.blogspot.com/2014/09/kobolds-or-episode-1-of-hoard-of-dragon.html>
+
+- `src/content/posts/translations/alexandrian-remixing-hoard-of-the-dragon-queen.mdx`
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
+
 ## <http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=747>
 
 - `src/content/posts/translations/tribality-druid-class-part-four.mdx`
@@ -675,6 +717,10 @@
 ## <http://goblinpunch.blogspot.com/2014/02/weird-swords-and-not-swords.html>
 
 - `src/content/posts/translations/hackslashmaster-magical-plus-one-weapons.mdx`
+
+## <http://goblinpunch.blogspot.com/2014/09/7-myths-everyone-believes-about-druids.html>
+
+- `src/content/posts/translations/detect-magic-hoard-dragon-queen-general.mdx`
 
 ## <http://goblinpunch.blogspot.com/2015/01/d100-minor-magical-items.html>
 
@@ -843,6 +889,10 @@
 ## <http://homebrewery.naturalcrit.com>
 
 - `src/content/posts/translations/social-encounter-statblocks-dnd-5e.mdx`
+
+## <http://imdb.com/random/name>
+
+- `src/content/posts/translations/detect-magic-structured-improvisation-hdq-sandbox.mdx`
 
 ## <http://incompetech.com/graphpaper/hexagonal>
 
@@ -1031,6 +1081,10 @@
 
 - `src/content/posts/translations/beyond-fomalhaut-dirt-cheap-sandbox.mdx`
 
+## <http://reactionroll.blogspot.com/2014/02/bandits.html>
+
+- `src/content/posts/translations/detect-magic-hoard-dragon-queen-general.mdx`
+
 ## <http://recedingrules.blogspot.com/2014/02/wilderness-travel-challenges-update.html>
 
 - `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
@@ -1078,6 +1132,10 @@
 ## <http://rpg.drivethrustuff.com/product/27955/City-Supplement-1-Dweredell?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
+
+## <http://rpg.drivethrustuff.com/product_info.php?products_id=134580>
+
+- `src/content/posts/translations/detect-magic-hoard-dragon-queen-cultist-generator.mdx`
 
 ## <http://rpg.nobl.ca/archive.php?x=dnd/archfr/wn>
 
@@ -1182,6 +1240,15 @@
 ## <http://technoirrpg.com/index.php?page=downloads>
 
 - `src/content/posts/translations/alexandrian-prepping-system-cheat-sheets.mdx`
+
+## <http://tenfootpole.org/ironspike>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
+
+## <http://tenfootpole.org/ironspike?p=2514>
+
+- `src/content/posts/translations/detect-magic-hoard-dragon-queen-factions.mdx`
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
 
 ## <http://tetra-cube.com/dnd/dnd-statblock.html>
 
@@ -1593,6 +1660,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0786965649/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-remixing-hoard-of-the-dragon-queen.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0786965800/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-review-storm-kings-thunder.mdx`
@@ -1917,6 +1988,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1601252544/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-12-using-scenario-structures.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1601254369/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-remixing-hoard-of-the-dragon-queen.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1613171323/digitalcomi0a-20>
 
@@ -2981,6 +3056,14 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-2.mdx`
 
+## <http://www.koboldpress.com/k/front-page18252.php>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
+
+## <http://www.lastgaspgrimoire.com/generators/choose-your-own-generator>
+
+- `src/content/posts/translations/detect-magic-hoard-dragon-queen-village.mdx`
+
 ## <http://www.letsmakeadeal.com>
 
 - `src/content/posts/translations/dmdavid-difficult-dilemmas.mdx`
@@ -3079,6 +3162,10 @@
 ## <http://www.oedgames.com>
 
 - `src/content/posts/translations/delta-shooting-at-groups.mdx`
+
+## <http://www.onepagedungeon.info>
+
+- `src/content/posts/translations/detect-magic-structured-improvisation-hdq-sandbox.mdx`
 
 ## <http://www.onesevendesign.com/ladyblackbird>
 
@@ -4667,6 +4754,11 @@
 
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-2.mdx`
+
+## <https://dnd.wizards.com/products/tabletop-games/rpg-products/hoard-dragon-queen>
+
+- `src/content/posts/translations/detect-magic-hoard-dragon-queen-cultist-generator.mdx`
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
 
 ## <https://dnd.wizards.com/products/tashas-cauldron-everything>
 
@@ -6314,6 +6406,10 @@
 
 - `src/content/posts/translations/alexandrian-advanced-d20-extra-effort.mdx`
 
+## <https://thealexandrian.net/wordpress/1716/roleplaying-games/remixing-keep-on-the-shadowfell-part-2-the-kobold-lair>
+
+- `src/content/posts/translations/alexandrian-remixing-hoard-of-the-dragon-queen.mdx`
+
 ## <https://thealexandrian.net/wordpress/17231/roleplaying-games/dissociated-mechanics-a-brief-prime>
 
 - `src/content/posts/translations/alexandrian-vicious-mockery-back-to-the-drawing-board.mdx`
@@ -6338,6 +6434,7 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 - `src/content/posts/translations/alexandrian-importance-of-choice.mdx`
+- `src/content/posts/translations/alexandrian-remixing-hoard-of-the-dragon-queen.mdx`
 - `src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx`
 
 ## <https://thealexandrian.net/wordpress/1997/roleplaying-games/playtesting-4th-edition-part-9-dd-is-dead-long-live-4th-edition>
@@ -6484,11 +6581,8 @@
 ## <https://thealexandrian.net/wordpress/35614/roleplaying-games/review-hoard-of-the-dragon-queen>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+- `src/content/posts/translations/alexandrian-remixing-hoard-of-the-dragon-queen.mdx`
 - `src/content/posts/translations/alexandrian-storm-kings-remix-part-5b-solutions.mdx`
-
-## <https://thealexandrian.net/wordpress/35693/roleplaying-games/thought-of-the-day-remixing-hoard-of-the-dragon-queen>
-
-- `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
 
 ## <https://thealexandrian.net/wordpress/35768/roleplaying-games/check-this-out-turn-undead-in-blackmoor>
 
@@ -7514,6 +7608,7 @@
 - `src/content/posts/translations/alexandrian-prep-tips-beginning-gm-cyberpunk.mdx`
 - `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
 - `src/content/posts/translations/alexandrian-random-dd-tip-inverting-challenge.mdx`
+- `src/content/posts/translations/alexandrian-remixing-hoard-of-the-dragon-queen.mdx`
 - `src/content/posts/translations/alexandrian-review-legacy-crystal-shard.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-background-revelations.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-returning-to-scene-crime.mdx`
@@ -7544,6 +7639,10 @@
 
 - `src/content/posts/translations/alexandrian-ask-21-open-table-tracking.mdx`
 
+## <https://thealexandrian.net/wordpress/8015/roleplaying-games/node-based-scenario-design-part-6-alternative-node-design>
+
+- `src/content/posts/translations/alexandrian-remixing-hoard-of-the-dragon-queen.mdx`
+
 ## <https://thealexandrian.net/wordpress/8157/roleplaying-games/on-the-matter-of-quantum-ogres>
 
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
@@ -7563,6 +7662,10 @@
 - `src/content/posts/translations/alexandrian-five-node-mystery.mdx`
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+
+## <https://thealexandrian.net/wordpress/8202/roleplaying-games/advanced-node-based-design-part-5-the-two-prongs-of-mystery-design>
+
+- `src/content/posts/translations/alexandrian-remixing-hoard-of-the-dragon-queen.mdx`
 
 ## <https://thealexandrian.net/wordpress/8210/roleplaying-games/advanced-node-based-design-part-6-node-based-dungeons>
 
