@@ -6393,13 +6393,9 @@
 - `src/content/posts/translations/knight-at-the-opera-on-dungeon-size.mdx`
 - `src/content/posts/translations/silverarmpress-a-web-of-hooks.mdx`
 
-## <https://thealexandrian.net/wordpress/13123/roleplaying-games/xandering-the-dungeon-part-4-xandering-the-keep-on-the-shadowfell>
-
-- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-3-the-philosophy-of-xandering.mdx`
-- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
-
 ## <https://thealexandrian.net/wordpress/13132/roleplaying-games/xandering-the-dungeon-part-5-xandering-for-fun-and-profit>
 
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-4-xandering-the-keep-on-the-shadowfell.mdx`
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <https://thealexandrian.net/wordpress/13182/reviews/what-im-reading-73-the-elfish-gene>
@@ -6449,6 +6445,7 @@
 - `src/content/posts/translations/alexandrian-importance-of-choice.mdx`
 - `src/content/posts/translations/alexandrian-remixing-hoard-of-the-dragon-queen.mdx`
 - `src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx`
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-4-xandering-the-keep-on-the-shadowfell.mdx`
 
 ## <https://thealexandrian.net/wordpress/1997/roleplaying-games/playtesting-4th-edition-part-9-dd-is-dead-long-live-4th-edition>
 
