@@ -2964,6 +2964,10 @@
 
 - `src/content/posts/translations/acoup-iron-1-mining.mdx`
 
+## <http://www.halowars.com/GameInfo/maps/TerminalMoraine.aspx>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-3-the-philosophy-of-xandering.mdx`
+
 ## <http://www.halowars.com/GameInfo/maps/crevice.aspx>
 
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
@@ -3430,6 +3434,10 @@
 ## <http://www.superdan.net/software/gridmapper>
 
 - `src/content/posts/translations/delta-gygax-on-dungeon-design.mdx`
+
+## <http://www.tcmacaves.org/robberbaron/rb_history.html>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-3-the-philosophy-of-xandering.mdx`
 
 ## <http://www.technoirrpg.com>
 
@@ -6385,13 +6393,9 @@
 - `src/content/posts/translations/knight-at-the-opera-on-dungeon-size.mdx`
 - `src/content/posts/translations/silverarmpress-a-web-of-hooks.mdx`
 
-## <https://thealexandrian.net/wordpress/13113/roleplaying-games/xandering-the-dungeon-part-3-the-philosophy-of-xandering>
-
-- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-2-xandering-techniques.mdx`
-- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
-
 ## <https://thealexandrian.net/wordpress/13123/roleplaying-games/xandering-the-dungeon-part-4-xandering-the-keep-on-the-shadowfell>
 
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-3-the-philosophy-of-xandering.mdx`
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <https://thealexandrian.net/wordpress/13132/roleplaying-games/xandering-the-dungeon-part-5-xandering-for-fun-and-profit>
@@ -9145,6 +9149,10 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/1735993824/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-ask-20-transferable-techniques.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/1887911456/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-3-the-philosophy-of-xandering.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/1908983396/digitalcomi0a-20>
 
