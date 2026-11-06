@@ -1746,11 +1746,19 @@
 - `src/content/posts/translations/alexandrian-game-structures-7.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/093569630X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-2-xandering-techniques.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0935696474/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-breathing-life-into-wandering-monster.mdx`
 - `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
 - `src/content/posts/translations/alexandrian-treasure-maps-the-unknown.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0935696504/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-2-xandering-techniques.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0935696598/digitalcomi0a-20>
 
@@ -2275,6 +2283,7 @@
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B0023SSJR8/digitalcomi0a-20>
 
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-2-xandering-techniques.mdx`
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B002BRZ9G0/digitalcomi0a-20>
@@ -2305,6 +2314,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B0034JKYO6/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B0035DNAMO/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-2-xandering-techniques.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B0035RQTNC/digitalcomi0a-20>
 
@@ -6372,13 +6385,9 @@
 - `src/content/posts/translations/knight-at-the-opera-on-dungeon-size.mdx`
 - `src/content/posts/translations/silverarmpress-a-web-of-hooks.mdx`
 
-## <https://thealexandrian.net/wordpress/13103/roleplaying-games/xandering-the-dungeon-part-2-xandering-techniques>
-
-- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
-- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
-
 ## <https://thealexandrian.net/wordpress/13113/roleplaying-games/xandering-the-dungeon-part-3-the-philosophy-of-xandering>
 
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-2-xandering-techniques.mdx`
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <https://thealexandrian.net/wordpress/13123/roleplaying-games/xandering-the-dungeon-part-4-xandering-the-keep-on-the-shadowfell>
@@ -7436,6 +7445,10 @@
 ## <https://thealexandrian.net/wordpress/49710/roleplaying-games/review-nights-black-agents-the-zalozhniy-quartet>
 
 - `src/content/posts/translations/alexandrian-empower-prep-rachov-principle.mdx`
+
+## <https://thealexandrian.net/wordpress/4974/roleplaying-games/halls-of-the-mad-mage>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-2-xandering-techniques.mdx`
 
 ## <https://thealexandrian.net/wordpress/49910/roleplaying-games/review-dd-starter-set>
 
@@ -10841,6 +10854,10 @@
 
 - `src/content/posts/translations/alexandrian-rpgnet-review-legions-of-hell.mdx`
 - `src/content/posts/translations/alexandrian-rpgnet-review-traps-treachery.mdx`
+
+## <https://www.thealexandrian.net/bibliography.html>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-2-xandering-techniques.mdx`
 
 ## <https://www.thealexandrian.net/creations/advanced-rules/extra-effort-ogl.html>
 
