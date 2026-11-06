@@ -44,6 +44,10 @@
 
 - `src/content/posts/translations/angrygm-monster-building-202.mdx`
 
+## <http://archive.wizards.com/default.asp?x=dnd/ex/20060802b>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
 ## <http://archive.wizards.com/default.asp?x=dnd/rl/20060727a>
 
 - `src/content/posts/translations/flutesloot-formulas-for-crafting-popular-magic-items-5e.mdx`
@@ -51,6 +55,11 @@
 ## <http://archive.wizards.com/default.asp?x=dnd/wn/20011205a>
 
 - `src/content/posts/translations/alexandrian-forgotten-realms-arveiaturace-white-wyrm.mdx`
+
+## <http://archive.wizards.com/default.asp?x=dnd/wn/20040310a>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-6-part-1.mdx`
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
 
 ## <http://arsludi.lamemage.com/index.php/29/same-description-same-rule>
 
@@ -164,6 +173,10 @@
 ## <http://chaudronchromatique.blogspot.com/2017/03/elven-firefighters-campaign.html>
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
+
+## <http://community.wizards.com/comment/51134506>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-2.mdx`
 
 ## <http://compreviews.about.com/od/buyers/a/NoteSizeSpec.htm>
 
@@ -330,7 +343,9 @@
 
 ## <http://detectmagic.blogspot.com>
 
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-coda.mdx`
 - `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-2.mdx`
 
 ## <http://detectmagic.blogspot.com/2014/08/hoard-of-dragon-queen-npc-generator.html>
 
@@ -340,6 +355,14 @@
 
 - `src/content/posts/translations/detect-magic-hoard-dragon-queen-general.mdx`
 - `src/content/posts/translations/detect-magic-road-encounters-hoard-dragon-queen.mdx`
+
+## <http://detectmagic.blogspot.com/search/label/hdqRemix>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-6-part-1.mdx`
+
+## <http://detectmagic.blogspot.com/search/label/hoard%20of%20the%20dragon%20queen>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-coda.mdx`
 
 ## <http://dictionary.reference.com/browse/ovate>
 
@@ -470,10 +493,15 @@
 ## <http://dnd.wizards.com/articles/events/adventurers-league-resources>
 
 - `src/content/posts/translations/dmdavid-city-state-weird-questions.mdx`
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
 
 ## <http://dnd.wizards.com/articles/features/awakened-mystic>
 
 - `src/content/posts/translations/tribality-psionics-part-eight.mdx`
+
+## <http://dnd.wizards.com/articles/features/basicrules>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
 
 ## <http://dnd.wizards.com/articles/features/sageadvice_july2015>
 
@@ -486,6 +514,18 @@
 ## <http://dnd.wizards.com/dungeons-and-dragons/story/factions>
 
 - `src/content/posts/translations/detect-magic-hoard-dragon-queen-factions.mdx`
+
+## <http://dnd.wizards.com/dungeons-and-dragons/story/villains>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://dnd.wizards.com/dungeons-and-dragons/story/villains/galvan>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://dnd.wizards.com/products/tabletop-games/rpg-products/hoard-dragon-queen>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
 
 ## <http://dndadventurersleague.org>
 
@@ -503,9 +543,38 @@
 
 - `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
 
+## <http://dndwithpornstars.blogspot.com/2014/01/the-black-wing-of-tiamat.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-2-part-2.mdx`
+
+## <http://dndwithpornstars.blogspot.com/2014/01/the-black-wing-of-tiamat.html?zx=a117e3c046422380>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-3-part-2.mdx`
+
+## <http://dndwithpornstars.blogspot.com/2014/01/the-black-wing-of-tiamat.html?zx=bba12c2dce12facc>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-2-part-1.mdx`
+
 ## <http://dndwithpornstars.blogspot.com/2014/01/the-cobalt-claw-of-tiamat.html>
 
 - `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-2-part-2.mdx`
+
+## <http://dndwithpornstars.blogspot.com/2014/01/the-pale-eye-of-tiamat.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-6-part-2.mdx`
+
+## <http://dndwithpornstars.blogspot.com/2014/01/the-red-hand-of-tiamat.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-2-part-2.mdx`
+
+## <http://donjon.bin.sh>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-8.mdx`
+
+## <http://donjon.bin.sh/d20/treasure/index.cgi>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-8.mdx`
 
 ## <http://dragaera.wikia.com/wiki/Daymar>
 
@@ -561,6 +630,18 @@
 ## <http://elfmaidsandoctopi.blogspot.ca/2017/02/d100-terrible-letter-from-home.html>
 
 - `src/content/posts/translations/coinsandscrolls-dont-you-know-theres-war-on.mdx`
+
+## <http://en.wikipedia.org/wiki/Aballin>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-6-part-1.mdx`
+
+## <http://en.wikipedia.org/wiki/Ramenos>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://en.wiktionary.org/wiki/moot_point>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-8.mdx`
 
 ## <http://en.wiktionary.org/wiki/warlock>
 
@@ -625,13 +706,106 @@
 
 - `src/content/posts/translations/beyond-fomalhaut-dirt-cheap-sandbox.mdx`
 
+## <http://forgottenrealms.wikia.com/wiki/Aerosclughpalar>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Baldur%27s_Gate>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Baldur's_Gate>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-2.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Daggerford>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Darkhold>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Dracorage_mythal>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Dragonspear_Castle>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Elturel>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-1.mdx`
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Fenmarel_Mestarine>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Gillian%27s_Hill>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Grandfather_Tree>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Laeral_Silverhand>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/List_of_dragons>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Mere_of_Dead_Men>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-6-part-1.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Mirt>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-5.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Moander>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-6-part-1.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Nyth_%28creature%29>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-6-part-1.mdx`
+
 ## <http://forgottenrealms.wikia.com/wiki/Oghma>
 
 - `src/content/posts/translations/detect-magic-hoard-dragon-queen-general.mdx`
 
+## <http://forgottenrealms.wikia.com/wiki/Serpent_Hills>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Thraxata>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
 ## <http://forgottenrealms.wikia.com/wiki/Traveler%27s_dust>
 
 - `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Trollclaw_Ford>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Waterdeep>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forgottenrealms.wikia.com/wiki/Yawning_Portal>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://forum.candlekeep.com/topic.asp?TOPIC_ID=2261>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-2-part-2.mdx`
 
 ## <http://forum.rpg.net/showpost.php?p=10058527&postcount=8>
 
@@ -770,6 +944,14 @@
 
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-5-xandering-for-fun-and-profit.mdx`
 
+## <http://guidokuip.blogspot.com/index.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-8.mdx`
+
+## <http://guidokuip.blogspot.com/p/fantasy-illustration.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-7.mdx`
+
 ## <http://gutenberg.net.au/ebooks06/0600771h.html>
 
 - `src/content/posts/translations/running-ruined-cities.mdx`
@@ -790,9 +972,21 @@
 
 - `src/content/posts/translations/hackslashmaster-red-herring-agency.mdx`
 
+## <http://hackslashmaster.blogspot.com/2013/02/on-ecology-of-doppelganger.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-2.mdx`
+
+## <http://hackslashmaster.blogspot.com/2013/04/on-villain-force.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-coda.mdx`
+
 ## <http://hackslashmaster.blogspot.com/2014/02/on-magical-1-swords.html>
 
 - `src/content/posts/translations/hackslashmaster-magical-plus-one-weapons.mdx`
+
+## <http://hackslashmaster.blogspot.com/2014/10/on-what-to-do-with-dragon-corpse.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-1.mdx`
 
 ## <http://hammerdog.com/twgs>
 
@@ -1008,6 +1202,14 @@
 
 - `src/content/posts/translations/alexandrian-rules-vs-rulings.mdx`
 
+## <http://my-realms.blogspot.com>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-1.mdx`
+
+## <http://my-realms.blogspot.com/2014/07/starter-set-sandbox-3-ruins-of.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-1.mdx`
+
 ## <http://myarmoury.com/feature_arms_gls.html>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-vi-is-this-a-good-sword.mdx`
@@ -1088,6 +1290,10 @@
 ## <http://reactionroll.blogspot.com/2014/02/bandits.html>
 
 - `src/content/posts/translations/detect-magic-hoard-dragon-queen-general.mdx`
+
+## <http://realmofadventure.wikia.com/wiki/Alguduir>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-6-part-1.mdx`
 
 ## <http://recedingrules.blogspot.com/2014/02/wilderness-travel-challenges-update.html>
 
@@ -1186,6 +1392,10 @@
 - `src/content/posts/translations/alexandrian-history-stat-block-2009.mdx`
 - `src/content/posts/translations/alexandrian-revised-3-5-stat-blocks.mdx`
 
+## <http://shadowrun.wikia.com/wiki/Saeder-Krupp>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-2-part-2.mdx`
+
 ## <http://shieldhaven.pbworks.com/w/page/7943947/FrontPage>
 
 - `src/content/posts/translations/brandesstoddard-experimental-mechanics-dd-next-campaign.mdx`
@@ -1257,6 +1467,7 @@
 
 - `src/content/posts/translations/detect-magic-hoard-dragon-queen-factions.mdx`
 - `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
 
 ## <http://tetra-cube.com/dnd/dnd-statblock.html>
 
@@ -1269,6 +1480,22 @@
 ## <http://thealexandrian.net/wordpress/4238/roleplaying-games/the-art-of-rulings>
 
 - `src/content/posts/translations/alexandrian-disarming-magical-traps.mdx`
+
+## <http://thecampaign20xx.blogspot.com/2014/08/tyranny-of-dragons-hoard-of-dragon.html>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://thecampaign20xx.blogspot.com/2014/08/tyranny-of-dragons-things-to-know-about.html>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://thecampaign20xx.blogspot.com/2014/10/tyranny-of-dragons-rise-of-tiamat.html>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://thecampaign20xx.blogspot.com/2016/02/tyranny-of-dragons-frozen-castle.html>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
 
 ## <http://thegeniusinc.com/dd-monster-maker-download?ref=2.3.3>
 
@@ -1286,6 +1513,26 @@
 
 - `src/content/posts/translations/tribality-psionics-part-eight.mdx`
 
+## <http://theredepic.bigcartel.com>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-6-part-2.mdx`
+
+## <http://theredepic.bigcartel.com/category/hoard-of-the-dragon-queen-digital-downloads>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://theredepic.bigcartel.com/category/the-rise-of-tiamat-digital-downloads>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://theredepic.bigcartel.com/product/castle-naeytar-ground-level-digital-download-dm-version>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://theredepic.bigcartel.com/products>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-2-part-1.mdx`
+
 ## <http://thescienceexplorer.com/brain-and-body/isolation-dark-drives-humans-brink-insanity-studies-find>
 
 - `src/content/posts/translations/dumpstat-running-a-game-in-darkness-gm-tips.mdx`
@@ -1297,6 +1544,10 @@
 ## <http://tolkiengateway.net/wiki/Helm%27s_Deep>
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
+
+## <http://tribality.com/2014/11/05/dragon-masks-tyranny-of-dragons>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
 
 ## <http://tribality.com/2015/03/10/elemental-evil-players-companion>
 
@@ -1321,6 +1572,10 @@
 ## <http://tvtropes.org/pmwiki/pmwiki.php/Literature/FafhrdAndTheGrayMouser>
 
 - `src/content/posts/translations/tribality-rogue-class-part-one.mdx`
+
+## <http://tvtropes.org/pmwiki/pmwiki.php/Main/ChangingClothesIsAFreeAction>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-1.mdx`
 
 ## <http://tvtropes.org/pmwiki/pmwiki.php/Main/FiveManBand>
 
@@ -1897,6 +2152,10 @@
 - `src/content/posts/translations/alexandrian-dissociated-mechanics-primer.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-5-mysteries.mdx`
 - `src/content/posts/translations/alexandrian-roleplaying-games-vs-storytelling.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1568823290/digitalcomi0a-20>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-3-part-1.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1588461033/digitalcomi0a-20>
 
@@ -2568,6 +2827,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
 
+## <http://www.candlekeep.com/library/articles/wotn/wotn_01.htm>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
 ## <http://www.carrborofarmersmarket.com>
 
 - `src/content/posts/translations/acoup-bread-4-markets-merchants-tax-man.mdx`
@@ -2807,6 +3070,18 @@
 
 - `src/content/posts/translations/tribality-monk-class-part-one.mdx`
 
+## <http://www.dmsguild.com/product/172527/Frozen-Castle--Expanding-Tyranny-of-Dragons?src=hottest_filtered&filters=45469>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://www.dmsguild.com/product/188928/A-Guide-to-Tyranny-of-Dragons?affiliate_id=301495>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <http://www.dndclassics.com/product/125600/Dreams-of-the-Red-Wizards-Scourge-of-the-Sword-Coast-DD-Next>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
 ## <http://www.dp9.com>
 
 - `src/content/posts/translations/alexandrian-utility-in-game-design.mdx`
@@ -2875,6 +3150,10 @@
 
 - `src/content/posts/translations/alexandrian-importance-of-choice.mdx`
 
+## <http://www.enworld.org/forum/content.php?1909-HOARD-OF-THE-DRAGON-QUEEN-Author-Steve-Winter-Clarifies-A-Few-Points!>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
 ## <http://www.enworld.org/forum/showthread.php?22566-Q-amp-A-with-Gary-Gygax/page729>
 
 - `src/content/posts/translations/delta-teleport-traditions.mdx`
@@ -2910,6 +3189,10 @@
 ## <http://www.forcematerial.com/home/2016/12/12/the-origin-of-the-crawl>
 
 - `src/content/posts/translations/introducing-your-setting.mdx`
+
+## <http://www.forgottenadventures.com/FRMaps/MereofDead.htm>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-6-part-1.mdx`
 
 ## <http://www.freeworldmaps.net/asia/central/physical.html>
 
@@ -3089,6 +3372,17 @@
 ## <http://www.koboldpress.com/k/front-page18252.php>
 
 - `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx`
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-3-part-1.mdx`
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-2.mdx`
+
+## <http://www.koboldpress.com/k/front-page18280.php>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-5.mdx`
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-8.mdx`
+
+## <http://www.koboldpress.com/k/front-page18369.php>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
 
 ## <http://www.lastgaspgrimoire.com/generators/choose-your-own-generator>
 
@@ -3101,6 +3395,10 @@
 ## <http://www.lotfp.com/store/index.php?category_id=0&keyword=veins%20of%20the%20earth&product_id=262&route=product%2Fproduct>
 
 - `src/content/posts/translations/dumpstat-running-a-game-in-darkness-gm-tips.mdx`
+
+## <http://www.lotfp.com/store/index.php?route=product/product&product_id=190>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-coda.mdx`
 
 ## <http://www.lotfp.com/store/index.php?route=product/product&product_id=262>
 
@@ -3124,6 +3422,11 @@
 
 - `src/content/posts/translations/alexandrian-revised-3-5-stat-blocks.mdx`
 
+## <http://www.lulu.com/shop/courtney-campbell/on-the-non-player-character/ebook/product-21092901.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-2.mdx`
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-7.mdx`
+
 ## <http://www.lulu.com/shop/daniel-collins/original-edition-delta-book-of-war/paperback/product-17158134.html>
 
 - `src/content/posts/translations/delta-dnd-next-battlesystem.mdx`
@@ -3139,6 +3442,10 @@
 ## <http://www.lulu.com/us/en/shop/matthew-finch/quick-primer-for-old-school-gaming/ebook/product-3159558.html>
 
 - `src/content/posts/translations/goblin-punch-osr-style-challenges-rulings-not-rules.mdx`
+
+## <http://www.lulu.com/us/en/shop/scrap-princess-and-patrick-stuart/fire-on-the-velvet-horizon/paperback/product-22094199.html>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-coda.mdx`
 
 ## <http://www.lythia.com/2010/08/fortified-manor>
 
@@ -3336,6 +3643,10 @@
 
 - `src/content/posts/translations/delta-ballistae-and-bell-curves.mdx`
 
+## <http://www.realmshelps.net/faerun/knowndungeons.shtml>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
 ## <http://www.realultimatepower.net/index4.htm>
 
 - `src/content/posts/translations/tribality-rogue-class-part-three.mdx`
@@ -3375,6 +3686,10 @@
 ## <http://www.rpgnow.com/product/109474/Dragon-and-the-Thief>
 
 - `src/content/posts/translations/creighton-dragon-and-the-thief.mdx`
+
+## <http://www.rpgnow.com/product/116945/Dungeon-Crawl-Classics-77-The-Croaking-Fane>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
 
 ## <http://www.rpgnow.com/product/148623/13th-Age-Eyes-of-the-Stone-Thief?affiliate_id=70406>
 
@@ -4789,6 +5104,10 @@
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-2.mdx`
 
+## <https://dnd.wizards.com/dungeons-and-dragons/story/villains/talis>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-7.mdx`
+
 ## <https://dnd.wizards.com/products/tabletop-games/rpg-products/hoard-dragon-queen>
 
 - `src/content/posts/translations/detect-magic-hoard-dragon-queen-cultist-generator.mdx`
@@ -4797,6 +5116,11 @@
 ## <https://dnd.wizards.com/products/tashas-cauldron-everything>
 
 - `src/content/posts/translations/dumpstat-pricing-magic-items-part-8.mdx`
+
+## <https://docs.google.com/file/d/0B4wpCwKDa4dCU09YOWFxWEdpTGM/edit>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-2.mdx`
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-3.mdx`
 
 ## <https://docs.google.com/spreadsheets/d/1xckMUATltAexbI6H5JVd1sFagaxjto78wV1alj3WUwE/edit?usp=sharing>
 
@@ -5729,6 +6053,10 @@
 
 - `src/content/posts/translations/playing-at-the-world-how-gaming-got-its-dice.mdx`
 
+## <https://plus.google.com/+DanielDavisThe>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-2.mdx`
+
 ## <https://plus.google.com/+JonathanTweet/posts/LXCKdDqaZUy>
 
 - `src/content/posts/translations/gaming-logic-hit-points.mdx`
@@ -5741,9 +6069,21 @@
 
 - `src/content/posts/translations/fistsofcinderandstone-lessons-in-forest-ecology-part-1.mdx`
 
+## <https://plus.google.com/u/0/100747085754234335719/posts>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-2.mdx`
+
 ## <https://plus.google.com/u/0/105788250456300773414/posts/LhdRQyBmkRt>
 
 - `src/content/posts/translations/pointcrawling-ruins-stocking-structures.mdx`
+
+## <https://plus.google.com/u/0/105876384354238740004/posts/24ZpTL2fSTA>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-2.mdx`
+
+## <https://plus.google.com/u/0/105876384354238740004/posts/C77F4T4Cedi>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-3-part-1.mdx`
 
 ## <https://pnprpg.ru/blog/2014/09/04/thealexandrian-game-structures-p7>
 
@@ -8392,6 +8732,14 @@
 
 - `src/content/posts/translations/delta-damn-you-gygax-part-4.mdx`
 
+## <https://twitter.com/mikemearls/status/507228635552415746>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-coda.mdx`
+
+## <https://twitter.com/mikemearls/status/507273496901079041>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-coda.mdx`
+
 ## <https://twitter.com/mikemearls/status/608068731562958848>
 
 - `src/content/posts/translations/tribality-psionics-part-one.mdx`
@@ -8541,6 +8889,10 @@
 ## <https://web.archive.org/web/20150402074418/http://oepoetryproject.org/the-ruin-millers-translation>
 
 - `src/content/posts/translations/ludusludorum-medieval-ruins.mdx`
+
+## <https://web.archive.org/web/20150730060424/http://i.minus.com/iAAZ2MpXTZdEa%2Egif>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-2.mdx`
 
 ## <https://web.archive.org/web/20150926064945/http://www.enworld.org/forum/showthread.php?168563-Dungeon-layout-map-flow-and-old-school-game-design>
 
@@ -9368,6 +9720,14 @@
 ## <https://www.amazon.com/gp/product/0313385858/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=dmdavid-20&creative=9325&linkCode=as2&creativeASIN=0313385858&linkId=fef034d10c5296ad54a6849fc9b7e635>
 
 - `src/content/posts/translations/dmdavid-loveable-npcs.mdx`
+
+## <https://www.amazon.com/gp/product/0786965649/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786965649&linkCode=as2&tag=poscrp-20&linkId=d8ce407c8ef3fbdfb15c09f14227c2f7>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <https://www.amazon.com/gp/product/0786965657/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786965657&linkCode=as2&tag=poscrp-20&linkId=fd000d2286b7e23a42ce4df29dd69e9f>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
 
 ## <https://www.amazon.com/gp/product/0786966114>
 
@@ -10465,6 +10825,14 @@
 ## <https://www.google.com/search?q=undyed+wool&client=firefox-b-1-d&sxsrf=ALeKk00fhngXqc5rg-U3c8Av7rAsdn-zrg:1617298573740&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj9z-7Xyt3vAhVuFVkFHQ2wAVoQ_AUoAnoECAEQBA&biw=1920&bih=910>
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
+
+## <https://www.google.com/url?sa=t&rct=j&q&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCAQFjAA&url=http://www.dndclassics.com/product/123270/Ghosts-of-Dragonspear-Castle-DD-Next&ei=5uxTVJHLNO3dsATxwYG4AQ&usg=AFQjCNENyuJ0CxOQSAimFvaq38Wvot_Xug&sig2=y80XPMe5ul9k8ZxCbf_LfQ>
+
+- `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
+
+## <https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0CC0QFjAC&url=http%3A%2F%2Fforgottenrealms.wikia.com%2Fwiki%2FStump_Bog&ei=FBiPVL26AtbToASgzYKoAg&usg=AFQjCNEVnoQcjHnxwb6z_IB8PbEliXxqkA&sig2=26NXjCu4bMxLnDS1Mr_87A>
+
+- `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-6-part-1.mdx`
 
 ## <https://www.gozzys.com/dungeon-maps>
 

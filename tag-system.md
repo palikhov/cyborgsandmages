@@ -139,6 +139,7 @@
 - `S. John Ross`
 - `Sam Sorensen`
 - `Sean K. Reynolds and Owen K.C. Stephens`
+- `Sean McGovern`
 - `Sean Manning`
 - `Serban Ionita`
 - `Shawn Merwin`
@@ -264,6 +265,7 @@
 | `S. John Ross` | `S. John Ross` |
 | `Sam Sorensen` | `Sam Sorensen` |
 | `Sean K. Reynolds and Owen K.C. Stephens` | `Sean K. Reynolds and Owen K.C. Stephens` |
+| `Sean McGovern` | `Sean McGovern` |
 | `Sean Manning` | `Sean Manning` |
 | `Serban Ionita` | `Serban Ionita` |
 | `Shawn Merwin` | `Shawn Merwin` |
