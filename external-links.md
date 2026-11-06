@@ -766,6 +766,10 @@
 
 - `src/content/posts/translations/dmdavid-palace-silver-princess-scandal.mdx`
 
+## <http://grognardia.blogspot.com/2010/07/interview-paul-jaquays-part-i.html>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-5-xandering-for-fun-and-profit.mdx`
+
 ## <http://gutenberg.net.au/ebooks06/0600771h.html>
 
 - `src/content/posts/translations/running-ruined-cities.mdx`
@@ -1116,6 +1120,10 @@
 ## <http://roleplayingtips.com/readissue.php?number=156>
 
 - `src/content/posts/translations/alexandrian-five-node-mystery.mdx`
+
+## <http://rolesrules.blogspot.com/2013/09/considerations-of-one-shot-dungeon.html>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-addendum-xandering-on-the-small-scale.mdx`
 
 ## <http://rolltop-indigo.blogspot.com/2018/05/deadly-goobers-hollow-points-another.html>
 
@@ -2283,6 +2291,7 @@
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B0023SSJR8/digitalcomi0a-20>
 
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-addendum-dungeon-level-connections.mdx`
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-2-xandering-techniques.mdx`
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
@@ -2789,6 +2798,10 @@
 ## <http://www.darkshire.net/%7Ejhkim/rpg/dnd/abilities.html>
 
 - `src/content/posts/translations/alexandrian-dd-calibrating-expectations.mdx`
+
+## <http://www.darthsanddroids.net/episodes/0035.html>
+
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-addendum-dungeon-level-connections.mdx`
 
 ## <http://www.dmsguild.com/product/17172/ODD-Supplement-II-Blackmoor-0e>
 
@@ -6393,11 +6406,6 @@
 - `src/content/posts/translations/knight-at-the-opera-on-dungeon-size.mdx`
 - `src/content/posts/translations/silverarmpress-a-web-of-hooks.mdx`
 
-## <https://thealexandrian.net/wordpress/13132/roleplaying-games/xandering-the-dungeon-part-5-xandering-for-fun-and-profit>
-
-- `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-4-xandering-the-keep-on-the-shadowfell.mdx`
-- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
-
 ## <https://thealexandrian.net/wordpress/13182/reviews/what-im-reading-73-the-elfish-gene>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-2-game-structure-basics.mdx`
@@ -6550,10 +6558,6 @@
 ## <https://thealexandrian.net/wordpress/33839/roleplaying-games/eclipse-phase-muse-to-your-left>
 
 - `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
-
-## <https://thealexandrian.net/wordpress/34950/roleplaying-games/thought-of-the-day-xandering-on-the-small-scale>
-
-- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
 
 ## <https://thealexandrian.net/wordpress/34985/roleplaying-games/thought-of-the-day-numenera-identifying-items>
 
@@ -6714,6 +6718,7 @@
 
 - `src/content/posts/translations/alexandrian-rulings-in-practice-gathering-information.mdx`
 - `src/content/posts/translations/alexandrian-stealthy-thoughts.mdx`
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-addendum-xandering-on-the-small-scale.mdx`
 
 ## <https://thealexandrian.net/wordpress/38466/roleplaying-games/art-of-rulings-part-9-narrating-outcome>
 
@@ -7742,10 +7747,9 @@
 
 - `src/content/posts/translations/alexandrian-re-running-the-megadungeon.mdx`
 
-## <https://thealexandrian.net?p=13141>
+## <https://thealexandrian.net?p=13144>
 
-- `src/content/posts/translations/alexandrian-dark-tower-level-connections.mdx`
-- `src/content/posts/translations/alexandrian-xandering-the-dungeon.mdx`
+- `src/content/posts/translations/alexandrian-xandering-the-dungeon-addendum-dungeon-level-connections.mdx`
 
 ## <https://thealexandrian.net?p=2105>
 
