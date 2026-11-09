@@ -1,0 +1,119 @@
+---
+import BaseLayout from "~layouts/BaseLayout.astro";
+import { SITE_POST_CATEGORIES } from "../consts";
+---
+
+<BaseLayout title="Поиск по сайту" description="Поиск по статьям, переводам и другим публикациям Киборгов и Чародеев" sidebar={false}>
+	<section class="search-page mx-auto w-full max-w-3xl px-4 py-6" data-search>
+		<h1 class="mb-4 font-serif text-3xl font-bold">Поиск по сайту</h1>
+		<p class="mb-6">Ищите по заголовкам, тегам и текстам публикаций. Можно ввести начало слова.</p>
+		<form role="search" class="flex flex-col gap-4" action="/search/">
+			<label for="search-query">Что ищем?</label>
+			<div class="flex gap-2">
+				<input id="search-query" name="q" type="search" maxlength="200" autocomplete="off" placeholder="Например, заклинания" class="min-w-0 flex-1 rounded px-3 py-2 text-brand-night" />
+				<button type="submit" class="rounded bg-brand-ivory px-4 py-2 font-medium text-brand-night">Найти</button>
+			</div>
+			<label for="search-category">Раздел</label>
+			<select id="search-category" name="category" class="rounded px-3 py-2 text-brand-night">
+				<option value="">Все разделы</option>
+				{SITE_POST_CATEGORIES.map((category) => <option value={category.path}>{category.title}</option>)}
+			</select>
+		</form>
+		<noscript><p class="mt-4">Для поиска включите JavaScript в браузере.</p></noscript>
+		<p class="my-6" role="status" aria-live="polite" data-status>Введите запрос для поиска.</p>
+		<ul class="flex flex-col gap-6" data-results></ul>
+		<button type="button" class="mt-6 rounded bg-brand-ivory px-4 py-2 text-brand-night" data-more hidden>Показать ещё</button>
+	</section>
+</BaseLayout>
+
+<style>
+	.search-page :is(input, select, button, a):focus-visible { outline: 3px solid currentColor; outline-offset: 4px; }
+</style>
+
+<script>
+	import { prepareSearch, searchDocuments, excerpt, type SearchDocument } from "../utils/search";
+	let indexPromise: Promise<ReturnType<typeof prepareSearch>> | undefined;
+	function loadIndex() {
+		return indexPromise ??= fetch("/search-index.json").then(async (response) => {
+			if (!response.ok) throw new Error("Search index unavailable");
+			return prepareSearch(await response.json() as SearchDocument[]);
+		}).catch((error) => { indexPromise = undefined; throw error; });
+	}
+	function initSearch() {
+		const root = document.querySelector<HTMLElement>("[data-search]");
+		if (!root || root.dataset.ready) return;
+		root.dataset.ready = "true";
+		const form = root.querySelector("form")!;
+		const input = root.querySelector<HTMLInputElement>("input")!;
+		const category = root.querySelector<HTMLSelectElement>("select")!;
+		const status = root.querySelector<HTMLElement>("[data-status]")!;
+		const results = root.querySelector<HTMLElement>("[data-results]")!;
+		const more = root.querySelector<HTMLButtonElement>("[data-more]")!;
+		let matches: ReturnType<typeof searchDocuments> = [];
+		let shown = 0;
+		let version = 0;
+		let timer: ReturnType<typeof setTimeout>;
+		let activeQuery = "";
+		function showMore() {
+			for (const { document: post } of matches.slice(shown, shown + 20)) {
+				const item = document.createElement("li");
+				const heading = document.createElement("h2");
+				const link = document.createElement("a");
+				link.href = post.url;
+				link.textContent = post.title;
+				link.className = "font-serif text-xl font-bold underline underline-offset-4";
+				heading.append(link);
+				const snippet = document.createElement("p");
+				snippet.className = "mt-2";
+				snippet.textContent = excerpt(post.text || post.description, activeQuery);
+				item.append(heading, snippet);
+				results.append(item);
+			}
+			shown = Math.min(shown + 20, matches.length);
+			more.hidden = shown >= matches.length;
+			status.textContent = `Найдено: ${matches.length}. Показано: ${shown}.`;
+		}
+		async function runSearch() {
+			const request = ++version;
+			activeQuery = input.value.trim();
+			const query = activeQuery;
+			const section = category.value;
+			const url = new URL(window.location.href);
+			query ? url.searchParams.set("q", query) : url.searchParams.delete("q");
+			section ? url.searchParams.set("category", section) : url.searchParams.delete("category");
+			history.replaceState(history.state, "", url);
+			results.replaceChildren();
+			more.hidden = true;
+			if (!query) { status.textContent = "Введите запрос для поиска."; return; }
+			status.textContent = "Ищем публикации…";
+			try {
+				const index = await loadIndex();
+				if (request !== version || !root?.isConnected) return;
+				// Include sections absent from the main navigation (for example, news).
+				for (const value of new Set(index.map(({ document }) => document.category))) {
+					if (!Array.from(category.options).some((option) => option.value === value)) category.add(new Option(value === "news" ? "Новости" : value, value));
+				}
+				matches = searchDocuments(index, query, section);
+				shown = 0;
+				if (!matches.length) { status.textContent = "Ничего не найдено. Попробуйте другое слово или выберите все разделы."; return; }
+				showMore();
+			} catch {
+				if (request === version && root?.isConnected) status.textContent = "Не удалось загрузить поиск. Проверьте соединение и нажмите «Найти» ещё раз.";
+			}
+		}
+		form.addEventListener("submit", (event) => { event.preventDefault(); clearTimeout(timer); void runSearch(); });
+		input.addEventListener("input", () => { ++version; clearTimeout(timer); timer = setTimeout(() => void runSearch(), 250); });
+		category.addEventListener("change", () => { clearTimeout(timer); void runSearch(); });
+		more.addEventListener("click", showMore);
+		const params = new URLSearchParams(location.search);
+		input.value = (params.get("q") ?? "").slice(0, 200);
+		const selected = params.get("category");
+		if (selected) {
+			if (!Array.from(category.options).some((option) => option.value === selected)) category.add(new Option(selected, selected));
+			category.value = selected;
+		}
+		if (input.value) void runSearch();
+	}
+	initSearch();
+	document.addEventListener("astro:page-load", initSearch);
+</script>

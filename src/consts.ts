@@ -4,6 +4,10 @@ export const SITE_DESCRIPTION = "D&D и Настольные Ролевые Иг
 
 export const SITE_NAVIGATION = [
 	{
+		label: "Поиск",
+		href: "/search/"
+	},
+	{
 		label: "Главная",
 		href: "/"
 	},
