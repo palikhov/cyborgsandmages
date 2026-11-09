@@ -91,6 +91,7 @@
 - `Harry Menear`
 - `Courtney Campbell`
 - `Iestwyn`
+- `Imperium Romanum`
 - `J. Clements`
 - `Jacob Huebsch`
 - `Jay Dragon`
@@ -214,6 +215,7 @@
 | `hackslashmaster` | `Courtney Campbell` |
 | `Harry Menear` | `Harry Menear` |
 | `Iestwyn` | `Iestwyn` |
+| `Imperium Romanum` | `Imperium Romanum` |
 | `J. Clements` | `J. Clements` |
 | `Jacob Huebsch` | `Jacob Huebsch` |
 | `Jay Dragon` | `Jay Dragon` |

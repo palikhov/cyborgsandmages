@@ -59,6 +59,7 @@ export function excerpt(text: string, query: string) {
 
 export function plainText(markdown: string) {
 	return markdown
+		.replace(/^\uFEFF?---\r?\n[\s\S]*?\r?\n---(?:\r?\n|$)/, "")
 		.replace(/^(?:import|export)\s[^\n]*(?:\n|$)/gm, " ")
 		.replace(/<!--[\s\S]*?-->/g, " ")
 		.replace(/```[^\n]*\n[\s\S]*?```/g, " ")
