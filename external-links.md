@@ -1210,6 +1210,10 @@
 
 - `src/content/posts/translations/rule-of-three-outdoor-survival.mdx`
 
+## <http://methodsetmadness.blogspot.com/2023/11/the-painful-procedure-of-random.html>
+
+- `src/content/posts/translations/bx-wilderness-encounters-are-bonkers.mdx`
+
 ## <http://mikepohjola.com/turku/index.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -5646,6 +5650,10 @@
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
 
+## <https://dungeonsdragons.fandom.com/wiki/Bounded_accuracy>
+
+- `src/content/posts/translations/dnd-5e-xgte-encounters-succeed-and-fail.mdx`
+
 ## <https://dungeonsdragons.fandom.com/wiki/Io>
 
 - `src/content/posts/translations/dragon-cults.mdx`
@@ -6345,6 +6353,18 @@
 
 - `src/content/posts/translations/delta-healing-through-ages.mdx`
 
+## <https://methodsetmadness.blogspot.com/2019/06/fire-blood-book-review.html>
+
+- `src/content/posts/translations/bx-wilderness-encounters-are-bonkers.mdx`
+
+## <https://methodsetmadness.blogspot.com/2023/08/dragonlance-dragons-of-deceit.html>
+
+- `src/content/posts/translations/bx-wilderness-encounters-are-bonkers.mdx`
+
+## <https://methodsetmadness.blogspot.com/2024/04/how-big-is-6-mile-hex.html>
+
+- `src/content/posts/translations/it-takes-a-village-to-stock-a-hex.mdx`
+
 ## <https://mightyboosh.wikia.com/wiki/Tundra_%28television_episode%29>
 
 - `src/content/posts/translations/welsh-piper-dynamic-encounter-tables.mdx`
@@ -6428,6 +6448,10 @@
 ## <https://osricrpg.com>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://osricwiki.presgas.name/doku.php?id=osric:chapter4>
+
+- `src/content/posts/translations/bx-wilderness-encounters-are-bonkers.mdx`
 
 ## <https://paizo.com/products/btpy7w2d?Dungeon-Issue-148>
 
@@ -6852,6 +6876,10 @@
 ## <https://starwars.fandom.com/wiki/Raddus_(MC85_Star_Cruiser)>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
+
+## <https://steamtunnel.blogspot.com/2009/12/in-praise-of-6-mile-hex.html>
+
+- `src/content/posts/translations/it-takes-a-village-to-stock-a-hex.mdx`
 
 ## <https://stevenpressfield.com/2020/09/warrior-episode-eight>
 
@@ -10309,6 +10337,10 @@
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-2.mdx`
 
+## <https://www.basicfantasy.org/srd/gm01.html>
+
+- `src/content/posts/translations/good-generic-wilderness-encounter-tables.mdx`
+
 ## <https://www.bastionland.com/2016/01/choices-and-consequences-pick-or-push.html>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -10329,6 +10361,10 @@
 ## <https://www.blogofholding.com?p=6789>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
+## <https://www.blogofholding.com?p=7182>
+
+- `src/content/posts/translations/it-takes-a-village-to-stock-a-hex.mdx`
 
 ## <https://www.blogofholding.com?p=7182&cpage=1>
 
