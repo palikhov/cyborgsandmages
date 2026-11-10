@@ -888,6 +888,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
 
+## <http://goblinpunch.blogspot.co.uk/2016/02/osr-style-challenges-rulings-not-rules.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-2.mdx`
+
 ## <http://goblinpunch.blogspot.com/2014/02/weird-swords-and-not-swords.html>
 
 - `src/content/posts/translations/hackslashmaster-magical-plus-one-weapons.mdx`
@@ -1054,6 +1058,14 @@
 ## <http://hillcantons.blogspot.com/2009/05/discreet-charm-of-city-ruins.html>
 
 - `src/content/posts/translations/running-ruined-cities.mdx`
+
+## <http://hillcantons.blogspot.com/2010/11/introducing-mystery-and-legend-into.html>
+
+- `src/content/posts/translations/proairetic-code-player-driven-mystery-sandbox.mdx`
+
+## <http://hillcantons.blogspot.com/2010/11/introducing-mystery-and-legend-into_05.html>
+
+- `src/content/posts/translations/proairetic-code-player-driven-mystery-sandbox.mdx`
 
 ## <http://hillcantons.blogspot.com/2012/05/designing-undercities-giant.html>
 
@@ -1379,6 +1391,10 @@
 
 - `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
 
+## <http://satyr.press>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-2.mdx`
+
 ## <http://saveordie.info?p=173>
 
 - `src/content/posts/translations/dmdavid-palace-silver-princess-scandal.mdx`
@@ -1443,6 +1459,14 @@
 ## <http://spellsandsteel.blogspot.ca/search/label/castles>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
+
+## <http://spriggans-den.com?p=3440>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-3.mdx`
+
+## <http://spriggans-den.com?p=3442>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-3.mdx`
 
 ## <http://talesofthefroggod.com/tome-of-adventurer.html>
 
@@ -1565,6 +1589,18 @@
 
 - `src/content/posts/translations/tribality-tribal-knowledge-the-single-class-campaign.mdx`
 
+## <http://trollsmyth.blogspot.co.uk/2015/03/feast-of-unicorn.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-1.mdx`
+
+## <http://trollsmyth.blogspot.com>
+
+- `src/content/posts/translations/papers-pencils-hex-crawling-encounters.mdx`
+
+## <http://trollsmyth.blogspot.com/2011/09/hex-mapping-part-17.html>
+
+- `src/content/posts/translations/papers-pencils-hex-crawling-encounters.mdx`
+
 ## <http://turner.faculty.swau.edu/mathematics/materialslibrary/roman>
 
 - `src/content/posts/translations/coinsandscrolls-land-and-investments.mdx`
@@ -1593,13 +1629,95 @@
 
 - `src/content/posts/translations/delta-spells-through-ages-teleport.mdx`
 
+## <http://udan-adan.blogspot.co.uk/2015/07/gaming-in-fantasy-central-asia-more.html?showComment=1484734886213>
+
+- `src/content/posts/translations/the-long-haul-time-and-distance-in-dnd.mdx`
+
+## <http://udan-adan.blogspot.com/2015/06/denizens-of-wicked-city-2-fan-dancers.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2015/06/denizens-of-wicked-city-4-steel.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
 ## <http://udan-adan.blogspot.com/2015/06/on-romance-in-fantasy-rpgs.html>
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
+- `src/content/posts/translations/romantic-fantasy-revisited-2.mdx`
 
-## <http://udan-adan.blogspot.com/2017/01/the-long-haul-time-and-distance-in-d.html>
+## <http://udan-adan.blogspot.com/2015/06/wearing-other-peoples-skulls-for-fun.html>
 
-- `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2015/07/denizens-of-wicked-city-6-serpent-folk.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2015/07/districts-of-wicked-city-2-cobweb.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2015/07/monsters-from-central-asian-mythology-1.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2015/07/monsters-from-central-asian-mythology-2.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2015/07/on-romantic-fantasy-and-osr-d.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-1.mdx`
+- `src/content/posts/translations/romantic-fantasy-revisited-3.mdx`
+
+## <http://udan-adan.blogspot.com/2015/07/the-kings-tower-continued.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2015/08/districts-of-wicked-city-5-rubble.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2015/08/pcnpc-romances-from-liability-to-asset.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-2.mdx`
+
+## <http://udan-adan.blogspot.com/2015/09/armies-of-wicked-city.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2015/10/horrors-of-wicked-city-1-men-without.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2015/10/horrors-of-wicked-city-2-man-with.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2015/12/the-maimed.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2015/12/the-throne-room-of-wicked-king.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2016/01/romance-plots-in-rpgs.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-2.mdx`
+
+## <http://udan-adan.blogspot.com/2016/02/monsters-from-central-asian-mythology-6.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2016/02/the-red-brotherhood.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <http://udan-adan.blogspot.com/2016/04/random-encounter-tables-steppe.html>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
 
 ## <http://udan-adan.blogspot.com/2021/05/meet-new-boss-some-thoughts-on-domain.html>
 
@@ -2970,6 +3088,10 @@
 
 - `src/content/posts/translations/alexandrian-importance-of-character-creation.mdx`
 
+## <http://www.d20pfsrd.com/alignment-description/carrying-capacity>
+
+- `src/content/posts/translations/papers-pencils-making-encumbrance-work.mdx`
+
 ## <http://www.d20pfsrd.com/classes/unchained-classes/monk-unchained>
 
 - `src/content/posts/translations/tribality-monk-class-part-four.mdx`
@@ -3226,6 +3348,7 @@
 
 - `src/content/posts/translations/alexandrian-thinking-wilderness-travel.mdx`
 - `src/content/posts/translations/angrygm-getting-there-is-half-the-fun.mdx`
+- `src/content/posts/translations/papers-pencils-hex-crawling-encounters.mdx`
 
 ## <http://www.giantitp.com/comics/oots0487.html>
 
@@ -3243,6 +3366,10 @@
 ## <http://www.giantitp.com/forums/showthread.php?t=60675&page=5>
 
 - `src/content/posts/translations/alexandrian-d20-starting-combat.mdx`
+
+## <http://www.giantitp.com/index.html>
+
+- `src/content/posts/translations/papers-pencils-hex-crawling-encounters.mdx`
 
 ## <http://www.goodreader.com>
 
@@ -3404,6 +3531,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-underground-economy.mdx`
 
+## <http://www.ludiclive.com/2012/05/08/bubbles-in-the-primeval-ooze-the-lessons-of-lost>
+
+- `src/content/posts/translations/proairetic-code-player-driven-mystery-sandbox.mdx`
+
 ## <http://www.lulu.com/content/1141723>
 
 - `src/content/posts/translations/alexandrian-design-notes-war-trained.mdx`
@@ -3430,6 +3561,10 @@
 ## <http://www.lulu.com/shop/daniel-collins/original-edition-delta-book-of-war/paperback/product-17158134.html>
 
 - `src/content/posts/translations/delta-dnd-next-battlesystem.mdx`
+
+## <http://www.lulu.com/shop/matthew-finch/quick-primer-for-old-school-gaming/ebook/product-3159558.html>
+
+- `src/content/posts/translations/what-is-a-dungeon-crawl.mdx`
 
 ## <http://www.lulu.com/spotlight/FightOn>
 
@@ -4158,9 +4293,18 @@
 
 - `src/content/posts/translations/diy-and-dragons-alternatives-to-darkvision.mdx`
 
+## <https://alldeadgenerations.blogspot.com/2022/06/a-manifesto-for-proceduralism.html>
+
+- `src/content/posts/translations/what-is-a-dungeon-crawl.mdx`
+
 ## <https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html>
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
+- `src/content/posts/translations/what-is-a-dungeon-crawl.mdx`
+
+## <https://alldeadgenerations.blogspot.com/2024/01/the-underground-maze.html>
+
+- `src/content/posts/translations/what-is-a-dungeon-crawl.mdx`
 
 ## <https://alldeadgenerations.blogspot.com/p/the-classic-dungeon-crawl-theory.html>
 
@@ -5569,6 +5713,14 @@
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
 
+## <https://forum.rpg.net/showthread.php?668828-Theory-Flavors-of-D-amp-D>
+
+- `src/content/posts/translations/romantic-fantasy-revisited-4.mdx`
+
+## <https://forum.rpg.net/showthread.php?724379>
+
+- `src/content/posts/translations/forgotten-realms-the-north-and-the-importance-of-art.mdx`
+
 ## <https://fractalfoundation.org/resources/what-are-fractals>
 
 - `src/content/posts/translations/ludusludorum-glen-cooks-goblin-recon.mdx`
@@ -5673,6 +5825,10 @@
 ## <https://hawkstower.wordpress.com/2015/06/16/comparing-the-red-wedding-to-historical-events>
 
 - `src/content/posts/translations/acoup-how-it-wasnt-game-of-thrones-middle-ages-part-ii.mdx`
+
+## <https://hillcantons.blogspot.com/2011/08/no-borders-or-limits-conversation-with.html>
+
+- `src/content/posts/translations/why-i-love-published-adventures-and-why-i-dont-use-them.mdx`
 
 ## <https://historicenterprises.com/fabrics-colors-c-100_198_200.html>
 
@@ -5800,6 +5956,10 @@
 ## <https://leorningcniht.wordpress.com/2017/08/08/article-25-sacraments>
 
 - `src/content/posts/translations/practical-polytheism-part-ii-practice.mdx`
+
+## <https://lithyscaphe.blogspot.com/p/principia-apocrypha.html>
+
+- `src/content/posts/translations/what-is-a-dungeon-crawl.mdx`
 
 ## <https://lotr.fandom.com/wiki/H%C3%A1ma>
 
@@ -6347,6 +6507,18 @@
 
 - `src/content/posts/translations/oaths-how-do-they-work.mdx`
 
+## <https://spriggans-den.com/2015/02/12/why-the-right-name-and-cover-for-a-game-is-vital>
+
+- `src/content/posts/translations/forgotten-realms-the-north-and-the-importance-of-art.mdx`
+
+## <https://spriggans-den.com/2022/11/16/the-savage-frontier-hexmap-of-the-north>
+
+- `src/content/posts/translations/return-to-the-savage-frontier.mdx`
+
+## <https://spriggans-den.com?p=1679>
+
+- `src/content/posts/translations/adventure-for-any-number-of-characters-of-any-level.mdx`
+
 ## <https://standsinfire.wordpress.com/2015/06/16/dnd-dark-brigand-rogue>
 
 - `src/content/posts/translations/tribality-rogue-class-part-six.mdx`
@@ -6741,7 +6913,7 @@
 
 - `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
 
-## <https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon>
+## <https://thealexandrian.net/wordpress/13085/roleplaying-games/xandering-the-dungeon>
 
 - `src/content/posts/translations/knight-at-the-opera-on-dungeon-size.mdx`
 - `src/content/posts/translations/silverarmpress-a-web-of-hooks.mdx`
@@ -11028,6 +11200,19 @@
 ## <https://www.paperspencils.com/8-reasons-why-dd-is-better-than-video-games>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.paperspencils.com/making-travel-more-engaging>
+
+- `src/content/posts/translations/papers-pencils-hex-crawling-encounters.mdx`
+- `src/content/posts/translations/papers-pencils-making-encumbrance-work.mdx`
+
+## <https://www.paperspencils.com/stuff-which-never-works>
+
+- `src/content/posts/translations/papers-pencils-making-encumbrance-work.mdx`
+
+## <https://www.paperspencils.com/why-hex-maps-need-to-come-back>
+
+- `src/content/posts/translations/papers-pencils-hex-crawling-encounters.mdx`
 
 ## <https://www.paratime.ca/cartography/index.html>
 

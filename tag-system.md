@@ -101,6 +101,7 @@
 - `Joe`
 - `Joe Inkwell Ideas`
 - `Joel H`
+- `Joseph Manola`
 - `John`
 - `John Bell`
 - `John Clements & Belinda Hertz`
@@ -114,6 +115,7 @@
 - `Kobold Press`
 - `Light`
 - `Lordmatteus`
+- `LS`
 - `lorekeeper0`
 - `M.T.Black`
 - `Magician`
@@ -225,6 +227,7 @@
 | `Joe` | `Joe` |
 | `Joe Inkwell Ideas` | `Joe Inkwell Ideas` |
 | `Joel H` | `Joel H` |
+| `Joseph Manola` | `Joseph Manola` |
 | `John` | `John` |
 | `John Bell` | `John Bell` |
 | `John Clements` | `J. Clements` |
@@ -240,6 +243,7 @@
 | `Kobold Press` | `Kobold Press` |
 | `Light` | `Light` |
 | `Lordmatteus` | `Lordmatteus` |
+| `LS` | `LS` |
 | `lorekeeper0` | `lorekeeper0` |
 | `M.T.Black` | `M.T.Black` |
 | `Magician` | `Magician` |
