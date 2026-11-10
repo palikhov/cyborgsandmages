@@ -62,3 +62,31 @@ a.tag {
 .prose td {
 	@apply pl-1;
 }
+:root {
+	color-scheme: dark;
+	--brand-ivory: 196 185 152;
+	--brand-gold: 149 122 79;
+	--brand-wave: 162 205 194;
+	--brand-mist: 29 31 40;
+	--brand-night: 16 18 23;
+	--brand-heading: 255 255 255;
+}
+
+:root[data-theme="light"] {
+	color-scheme: light;
+	--brand-ivory: 52 47 40;
+	--brand-gold: 117 85 40;
+	--brand-wave: 35 105 91;
+	--brand-mist: 237 231 219;
+	--brand-night: 250 247 240;
+	--brand-heading: 34 30 25;
+}
+
+[data-theme-moon],
+[data-theme="light"] [data-theme-sun] {
+	display: none;
+}
+
+[data-theme="light"] [data-theme-moon] {
+	display: inline;
+}

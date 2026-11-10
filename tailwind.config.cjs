@@ -11,29 +11,30 @@ module.exports = {
 			},
 			colors: {
 				brand: {
-					ivory: "#c4b998",
-					gold: "#957a4f",
+					heading: "rgb(var(--brand-heading) / <alpha-value>)",
+					ivory: "rgb(var(--brand-ivory) / <alpha-value>)",
+					gold: "rgb(var(--brand-gold) / <alpha-value>)",
 					crimson: "#b91c1c",
-					wave: "#a2cdc2",
-					mist: "#1d1f28",
-					night: "#101217"
+					wave: "rgb(var(--brand-wave) / <alpha-value>)",
+					mist: "rgb(var(--brand-mist) / <alpha-value>)",
+					night: "rgb(var(--brand-night) / <alpha-value>)"
 				}
 			},
 			typography: ({ theme }) => ({
 				DEFAULT: {
 					css: {
 						"--tw-prose-body": theme("colors.brand[ivory]"),
-						"--tw-prose-headings": theme("colors.white"),
+						"--tw-prose-headings": theme("colors.brand.heading"),
 						"--tw-prose-lead": theme("colors.brand[gold]"),
 						"--tw-prose-links": theme("colors.brand[wave]"),
-						"--tw-prose-bold": theme("colors.white"),
+						"--tw-prose-bold": theme("colors.brand.heading"),
 						"--tw-prose-counters": theme("colors.brand[gold]"),
 						"--tw-prose-bullets": theme("colors.brand[gold]"),
 						"--tw-prose-hr": theme("colors.brand[gold]"),
-						"--tw-prose-quotes": theme("colors.white"),
+						"--tw-prose-quotes": theme("colors.brand.heading"),
 						"--tw-prose-quote-borders": theme("colors.brand[gold]"),
 						"--tw-prose-captions": theme("colors.brand[gold]"),
-						"--tw-prose-code": theme("colors.white"),
+						"--tw-prose-code": theme("colors.brand.heading"),
 						"--tw-prose-pre-code": theme("colors.white"),
 						"--tw-prose-pre-bg": theme("colors.brand[mist]"),
 						"--tw-prose-th-borders": theme("colors.brand[ivory]"),

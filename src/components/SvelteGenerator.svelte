@@ -70,7 +70,7 @@
 		>Бросок!</button>
 
 	{#if selectedTable && selectedElement}
-		<div class="font-sans text-white">
+		<div class="font-sans text-brand-heading">
 			{#if tables.length > 1}
 				<p><strong>Таблица:</strong> {selectedTable.table}</p>
 			{/if}

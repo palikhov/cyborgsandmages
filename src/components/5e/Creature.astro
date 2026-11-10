@@ -105,7 +105,7 @@ const size = DND_SIZES[data.size];
 
 <section class="my-4 space-y-4 rounded-md bg-brand-mist p-2 font-sans sm:p-4">
 	<div class="my-2 flex">
-		<h2 class="!my-0 flex-1 font-serif text-2xl font-bold text-white">{data.name}</h2>
+		<h2 class="!my-0 flex-1 font-serif text-2xl font-bold text-brand-heading">{data.name}</h2>
 
 		<span class="font-semibold">{data.source}</span>
 	</div>
@@ -121,15 +121,15 @@ const size = DND_SIZES[data.size];
 
 	<div class="text-sm sm:text-base">
 		<div>
-			<span class="text-sm font-medium uppercase text-white">Класс зашиты</span>
+			<span class="text-sm font-medium uppercase text-brand-heading">Класс зашиты</span>
 			<span>{data.ac.value} ({data.ac.type})</span>
 		</div>
 		<div>
-			<span class="font-semmediumibold text-sm uppercase text-white">Хиты</span>
+			<span class="font-semmediumibold text-sm uppercase text-brand-heading">Хиты</span>
 			<span>{data.hp.value} [{data.hp.max}] ({data.hp.formula})</span>
 		</div>
 		<div>
-			<span class="text-sm font-medium uppercase text-white">Скорость</span>
+			<span class="text-sm font-medium uppercase text-brand-heading">Скорость</span>
 			<span>{formattedSpeed}</span>
 		</div>
 	</div>
@@ -139,7 +139,7 @@ const size = DND_SIZES[data.size];
 		{
 			abilities.flatMap((ability) => (
 				<div class="flex flex-col text-center">
-					<span class="font-serif text-sm font-semibold uppercase text-white">{ability.name}</span>
+					<span class="font-serif text-sm font-semibold uppercase text-brand-heading">{ability.name}</span>
 					<span>
 						{ability.value} ({modifier(ability.value)})
 					</span>
@@ -152,7 +152,7 @@ const size = DND_SIZES[data.size];
 		{
 			data.dv && (
 				<div>
-					<span class="text-sm font-medium uppercase text-white">Уязвимость к урону</span>
+					<span class="text-sm font-medium uppercase text-brand-heading">Уязвимость к урону</span>
 					<span>{data.dv}</span>
 				</div>
 			)
@@ -160,7 +160,7 @@ const size = DND_SIZES[data.size];
 		{
 			data.dr && (
 				<div>
-					<span class="text-sm font-medium uppercase text-white">Устойчивость к урону</span>
+					<span class="text-sm font-medium uppercase text-brand-heading">Устойчивость к урону</span>
 					<span>{data.dr}</span>
 				</div>
 			)
@@ -168,7 +168,7 @@ const size = DND_SIZES[data.size];
 		{
 			data.di && (
 				<div>
-					<span class="text-sm font-medium uppercase text-white">Иммунитет к урону</span>
+					<span class="text-sm font-medium uppercase text-brand-heading">Иммунитет к урону</span>
 					<span>{data.di}</span>
 				</div>
 			)
@@ -176,24 +176,24 @@ const size = DND_SIZES[data.size];
 		{
 			data.dc && (
 				<div>
-					<span class="text-sm font-medium uppercase text-white">Иммунитет к состояниям</span>
+					<span class="text-sm font-medium uppercase text-brand-heading">Иммунитет к состояниям</span>
 					<span>{data.dc}</span>
 				</div>
 			)
 		}
 		<div>
-			<span class="text-sm font-medium uppercase text-white">Чувства</span>
+			<span class="text-sm font-medium uppercase text-brand-heading">Чувства</span>
 			<span>пассивное {data.senses.perception}</span>
 		</div>
 		<div>
-			<span class="text-sm font-medium uppercase text-white">Языки</span>
+			<span class="text-sm font-medium uppercase text-brand-heading">Языки</span>
 			<span>{data.languages}</span>
 		</div>
 		<div>
-			<span class="text-sm font-medium uppercase text-white">Опасность</span>
+			<span class="text-sm font-medium uppercase text-brand-heading">Опасность</span>
 			<span>{data.cr}</span>
 
-			<span class="font-semimediumbold ml-4 text-sm uppercase text-white">Бонус владения</span>
+			<span class="font-semimediumbold ml-4 text-sm uppercase text-brand-heading">Бонус владения</span>
 			<span>+{proficiency(data.cr)}</span>
 		</div>
 	</div>

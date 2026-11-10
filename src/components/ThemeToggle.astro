@@ -1,0 +1,14 @@
+---
+import Sun from "~icons/tabler/sun?raw";
+import Moon from "~icons/tabler/moon?raw";
+---
+
+<button
+	type="button"
+	data-theme-toggle
+	aria-label="Переключить на дневную тему"
+	title="Переключить на дневную тему"
+	class="flex h-9 w-9 shrink-0 items-center justify-center rounded-md text-brand-gold hover:bg-brand-mist focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-gold">
+	<span data-theme-sun aria-hidden="true" set:html={Sun} />
+	<span data-theme-moon aria-hidden="true" set:html={Moon} />
+</button>

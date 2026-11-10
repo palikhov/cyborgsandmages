@@ -1,0 +1,35 @@
+<script is:inline>
+	(() => {
+		const key = "cnm-theme";
+		const root = document.documentElement;
+		if (root.dataset.theme) return;
+		let theme = "dark";
+		try {
+			if (localStorage.getItem(key) === "light") theme = "light";
+		} catch { /* The switch also works when storage is unavailable. */ }
+		root.dataset.theme = theme;
+
+		function updateButtons() {
+			const label = document.documentElement.dataset.theme === "light"
+				? "Переключить на ночную тему"
+				: "Переключить на дневную тему";
+			document.querySelectorAll("[data-theme-toggle]").forEach((button) => {
+				button.setAttribute("aria-label", label);
+				button.setAttribute("title", label);
+			});
+		}
+
+		document.addEventListener("click", (event) => {
+			if (!(event.target instanceof Element) || !event.target.closest("[data-theme-toggle]")) return;
+			theme = document.documentElement.dataset.theme === "light" ? "dark" : "light";
+			document.documentElement.dataset.theme = theme;
+			try { localStorage.setItem(key, theme); } catch { /* Keep the in-memory choice. */ }
+			updateButtons();
+		});
+		document.addEventListener("astro:before-swap", (event) => {
+			event.newDocument.documentElement.dataset.theme = document.documentElement.dataset.theme;
+		});
+		document.addEventListener("astro:page-load", updateButtons);
+		document.addEventListener("DOMContentLoaded", updateButtons);
+	})();
+</script>

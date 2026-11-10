@@ -15,7 +15,7 @@
 <div class="grid gap-2 pb-2">
 	{#if $completion}
 		<h3>Краткое содержание статьи</h3>
-		<div class="prose rounded border border-brand-ivory px-4 font-sans text-white">
+		<div class="prose rounded border border-brand-ivory px-4 font-sans text-brand-heading">
 			<p>{@html $completion}</p>
 		</div>
 	{:else}

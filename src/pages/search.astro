@@ -10,11 +10,11 @@ import { SITE_POST_CATEGORIES } from "../consts";
 		<form role="search" class="flex flex-col gap-4" action="/search/">
 			<label for="search-query">Что ищем?</label>
 			<div class="flex gap-2">
-				<input id="search-query" name="q" type="search" maxlength="200" autocomplete="off" placeholder="Например, заклинания" class="min-w-0 flex-1 rounded px-3 py-2 text-brand-night" />
+				<input id="search-query" name="q" type="search" maxlength="200" autocomplete="off" placeholder="Например, заклинания" class="min-w-0 flex-1 rounded bg-brand-mist px-3 py-2 text-brand-ivory" />
 				<button type="submit" class="rounded bg-brand-ivory px-4 py-2 font-medium text-brand-night">Найти</button>
 			</div>
 			<label for="search-category">Раздел</label>
-			<select id="search-category" name="category" class="rounded px-3 py-2 text-brand-night">
+			<select id="search-category" name="category" class="rounded bg-brand-mist px-3 py-2 text-brand-ivory">
 				<option value="">Все разделы</option>
 				{SITE_POST_CATEGORIES.map((category) => <option value={category.path}>{category.title}</option>)}
 			</select>

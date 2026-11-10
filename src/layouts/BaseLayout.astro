@@ -8,6 +8,7 @@ import BaseHead from "~components/BaseHead.astro";
 import Footer from "~components/Footer.astro";
 import Header from "~components/Header.astro";
 import Sidebar from "~components/Sidebar.astro";
+import ThemeScript from "~components/ThemeScript.astro";
 
 const { title, description, headings, sidebar = true, links } = Astro.props;
 ---
@@ -16,6 +17,7 @@ const { title, description, headings, sidebar = true, links } = Astro.props;
 	lang="ru"
 	class="h-full min-h-full bg-brand-night text-brand-ivory">
 	<head>
+		<ThemeScript />
 		<BaseHead
 			title={title}
 			description={description}

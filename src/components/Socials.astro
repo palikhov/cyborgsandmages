@@ -4,6 +4,7 @@ import TablerBrandPatreon from "~icons/tabler/brand-patreon?raw";
 import TablerBrandTelegram from "~icons/tabler/brand-telegram?raw";
 import TablerBrandYoutube from "~icons/tabler/brand-youtube?raw";
 import TablerSkull from "~icons/tabler/skull?raw";
+import ThemeToggle from "./ThemeToggle.astro";
 
 export const SOCIALS = [
 	{
@@ -39,7 +40,7 @@ export const SOCIALS = [
 ];
 ---
 
-<div class="flex space-x-6 md:space-x-4">
+<div class="flex items-center space-x-4 md:space-x-3">
 	{
 		SOCIALS.flatMap((item) => (
 			<>
@@ -57,4 +58,5 @@ export const SOCIALS = [
 			</>
 		))
 	}
+	<ThemeToggle />
 </div>

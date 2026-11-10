@@ -99,6 +99,7 @@
 - `Jay Dragon`
 - `Jeff McAleer`
 - `Jeff Rients`
+- `Jens D.`
 - `Jim Parkin`
 - `Joe`
 - `Joe Inkwell Ideas`
@@ -141,6 +142,7 @@
 - `Riley Silverman`
 - `Robert Conley`
 - `Ronny`
+- `Ruprecht`
 - `S. John Ross`
 - `Sam Sorensen`
 - `Sean K. Reynolds and Owen K.C. Stephens`
@@ -154,13 +156,14 @@
 - `Steamtunnel`
 - `steamtunnel.blogspot.com`
 - `Stephen Bandstra`
+- `The Robgoblin`
 - `The Usual Tongues`
 - `Tomás Giménez Rioja`
 - `Unknown`
 - `W. F. Smith`
 - `Wallace Cleaves`
 - `Wayne E. Lee`
-- `Yora`
+- `Мартин Кристофер`
 
 ### Соответствие авторов переводов тегам
 
@@ -226,6 +229,7 @@
 | `Jay Dragon` | `Jay Dragon` |
 | `Jeff McAleer` | `Jeff McAleer` |
 | `Jeff Rients` | `Jeff Rients` |
+| `Jens D.` | `Jens D.` |
 | `Jim Parkin` | `Jim Parkin` |
 | `Joe` | `Joe` |
 | `Joe Inkwell Ideas` | `Joe Inkwell Ideas` |
@@ -271,6 +275,7 @@
 | `Riley Silverman` | `Riley Silverman` |
 | `Robert Conley` | `Robert Conley` |
 | `Ronny` | `Ronny` |
+| `Ruprecht` | `Ruprecht` |
 | `S. John Ross` | `S. John Ross` |
 | `Sam Sorensen` | `Sam Sorensen` |
 | `Sean K. Reynolds and Owen K.C. Stephens` | `Sean K. Reynolds and Owen K.C. Stephens` |
@@ -284,13 +289,15 @@
 | `steamtunnel.blogspot.com` | `steamtunnel.blogspot.com` |
 | `Stephen Bandstra` | `Stephen Bandstra` |
 | `The Angry GM` | `Angry GM` |
+| `The Robgoblin` | `The Robgoblin` |
 | `The Usual Tongues` | `The Usual Tongues` |
 | `Tomás Giménez Rioja` | `Tomás Giménez Rioja` |
 | `Unknown` | `Unknown` |
 | `W. F. Smith` | `W. F. Smith` |
 | `Wallace Cleaves` | `Wallace Cleaves` |
 | `Wayne E. Lee` | `Wayne E. Lee` |
-| `Yora` | `Yora` |
+| `Yora` | `Мартин Кристофер` |
+| `Мартин Кристофер` | `Мартин Кристофер` |
 
 ### Источники
 

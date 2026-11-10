@@ -22,7 +22,7 @@ const posts = (await getCollection("posts"))
 	{
 		headings && headings.some((heading) => heading.depth === 2 || heading.depth === 3) && (
 			<div class="my-6 hidden xl:block">
-				<h2 class="mb-4 text-center font-bold uppercase text-white">На этой странице</h2>
+				<h2 class="mb-4 text-center font-bold uppercase text-brand-heading">На этой странице</h2>
 				<ul class="list-none text-sm">
 					{headings
 						.filter((heading) => heading.depth === 2 || heading.depth === 3)
@@ -44,7 +44,7 @@ const posts = (await getCollection("posts"))
 	{
 		links && (
 			<div class="my-6 hidden xl:block">
-				<h2 class="mb-4 text-center font-bold uppercase text-white">Полезные ссылки</h2>
+				<h2 class="mb-4 text-center font-bold uppercase text-brand-heading">Полезные ссылки</h2>
 				<ul class="list-disc text-sm">
 					{links.flatMap((link) => (
 						<li class="py-1">
@@ -57,7 +57,7 @@ const posts = (await getCollection("posts"))
 	}
 
 	<div>
-		<h2 class="mb-4 text-center font-bold uppercase text-white">Новые статьи</h2>
+		<h2 class="mb-4 text-center font-bold uppercase text-brand-heading">Новые статьи</h2>
 
 		<div class="not-prose grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-1">
 			{
@@ -77,7 +77,7 @@ const posts = (await getCollection("posts"))
 						)}
 
 						<div>
-							<h3 class="font-sans text-base font-medium text-white">{post.data.title}</h3>
+							<h3 class="font-sans text-base font-medium text-brand-heading">{post.data.title}</h3>
 
 							<p class="line-clamp-4 font-serif text-base">{post.data.description}</p>
 						</div>
@@ -88,7 +88,7 @@ const posts = (await getCollection("posts"))
 	</div>
 
 	<div class="my-6 hidden xl:block">
-		<h2 class="mb-4 text-center font-bold uppercase text-white">Наши друзья</h2>
+		<h2 class="mb-4 text-center font-bold uppercase text-brand-heading">Наши друзья</h2>
 		<ul class="list-disc">
 			{
 				SITE_FRIENDS.flatMap((friend) => (

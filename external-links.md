@@ -218,6 +218,10 @@
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
 
+## <http://deltasdnd.blogspot.com.br/2010/09/rules-for-exposure.html>
+
+- `src/content/posts/translations/rule-of-three-outdoor-survival.mdx`
+
 ## <http://deltasdnd.blogspot.com/2007/04/encumbrance.html>
 
 - `src/content/posts/translations/alexandrian-encumbrance-by-stone-design-notes.mdx`
@@ -1189,6 +1193,22 @@
 ## <http://mentalfloss.com/article/21918/5-minor-tv-characters-who-hijacked-show>
 
 - `src/content/posts/translations/dmdavid-make-players-care-npcs.mdx`
+
+## <http://methodsetmadness.blogspot.com.br>
+
+- `src/content/posts/translations/importance-of-levels.mdx`
+
+## <http://methodsetmadness.blogspot.com.br/2015/06/saving-throws-fortitudereflexwill-in.html>
+
+- `src/content/posts/translations/importance-of-levels.mdx`
+
+## <http://methodsetmadness.blogspot.com.br/2015/07/d-unleashed-part-ii-above-and-beyond.html>
+
+- `src/content/posts/translations/importance-of-levels.mdx`
+
+## <http://methodsetmadness.blogspot.com.br/2015/12/hit-points-what-are-they-good-for.html>
+
+- `src/content/posts/translations/rule-of-three-outdoor-survival.mdx`
 
 ## <http://mikepohjola.com/turku/index.html>
 
@@ -3179,6 +3199,10 @@
 ## <http://www.dandwiki.com/wiki/SRD:Animal_Type>
 
 - `src/content/posts/translations/alexandrian-design-notes-war-trained.mdx`
+
+## <http://www.dandwiki.com/wiki/SRD:Environment>
+
+- `src/content/posts/translations/fixing-food-and-water.mdx`
 
 ## <http://www.dandwiki.com/wiki/SRD:Magical_Beast_Type>
 
@@ -5815,6 +5839,10 @@
 
 - `src/content/posts/translations/sienas-six-mile-hex.mdx`
 
+## <https://en.wikipedia.org/wiki/Trabant>
+
+- `src/content/posts/translations/revisiting-balance-in-game-design.mdx`
+
 ## <https://en.wikipedia.org/wiki/Tyrannosaurus>
 
 - `src/content/posts/translations/dragon-steeds-part-1.mdx`
@@ -5875,6 +5903,14 @@
 ## <https://extension.psu.edu/horse-stable-manure-management>
 
 - `src/content/posts/translations/on-naval-logistics.mdx`
+
+## <https://external-content.duckduckgo.com/iu?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.J3S8tt6ELAy5i3mU7z10AAHaGe%26pid%3DApi&f=1&ipt=ac162c6b4786838fde3b8c77d78ef76cf6676f11f561a3cda596d8b0b68a0d44&ipo=images>
+
+- `src/content/posts/translations/revisiting-balance-in-game-design.mdx`
+
+## <https://failedgamedesigner.blogspot.com/2017/07/the-anatomy-of-balance-in-aaie.html>
+
+- `src/content/posts/translations/revisiting-balance-in-game-design.mdx`
 
 ## <https://fistsofcinderandstone.blogspot.com/2017/03/the-grandsires-enclave-look-at-automata.html>
 
@@ -6110,6 +6146,10 @@
 ## <https://horserookie.com/how-far-horses-jump-horizontally>
 
 - `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://i.chzbgr.com/full/8474755584/h89877E63/how-can-she-stay-like-that>
+
+- `src/content/posts/translations/revisiting-balance-in-game-design.mdx`
 
 ## <https://imagonem.org/2016/02/15/white-wolfs-lead-storyteller-there-will-be-a-release-in-2016>
 
@@ -6514,6 +6554,10 @@
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
 
+## <https://preview.drivethrurpg.com/en/product/210754/Monkey-Business-Digital-Edition>
+
+- `src/content/posts/translations/revisiting-balance-in-game-design.mdx`
+
 ## <https://preview.drivethrurpg.com/en/product/244016/The-Hidden-Halls-of-Hazakor>
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
@@ -6521,6 +6565,10 @@
 ## <https://preview.drivethrurpg.com/en/product/244016/The-Hidden-Halls-of-Hazakor?affiliate_id=8278>
 
 - `src/content/posts/translations/dmdavid-from-b1-to-pinebrook.mdx`
+
+## <https://preview.drivethrurpg.com/en/publisher/11431/disoriented-ranger-publishing>
+
+- `src/content/posts/translations/revisiting-balance-in-game-design.mdx`
 
 ## <https://psycnet.apa.org/doiLanding?doi=10.1037%2F0021-9010.88.6.989>
 
@@ -7043,9 +7091,9 @@
 
 - `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
 
-## <https://the-disoriented-ranger.blogspot.com/2023/12/revisiting-balance-in-game-design-in.html>
+## <https://the-disoriented-ranger.blogspot.com/2014/11/dynamic-balance-in-role-playing-games.html>
 
-- `src/content/posts/translations/encounter-balance-why-i-avoid-using-it.mdx`
+- `src/content/posts/translations/revisiting-balance-in-game-design.mdx`
 
 ## <https://thealexandrian.net>
 
