@@ -36,6 +36,7 @@
 13. `Core d20 RPG`
 14. `E5E`
 15. `Tales of Valiant`
+16. `Traveler`
 
 ### Авторские теги переводов
 
@@ -81,6 +82,7 @@
 - `DragnaCarta`
 - `Dump Stat`
 - `Dwiz`
+- `Eric Diaz`
 - `Erik Scott de Bie`
 - `Erin D. Smale`
 - `Erin M. Evans`
@@ -206,6 +208,7 @@
 | `Dump Stat` | `Dump Stat` |
 | `Dwiz` | `Dwiz` |
 | `Ed Greenwood` | `Эд Гринвуд` |
+| `Eric Diaz` | `Eric Diaz` |
 | `Erik Scott de Bie` | `Erik Scott de Bie` |
 | `Erin D. Smale` | `Erin D. Smale` |
 | `Erin M. Evans` | `Erin M. Evans` |
@@ -373,6 +376,7 @@
 - `AD&D 2`, `AD&D 2e`, `AD&D 2ed`, `AD&D 2 ed`, `BECMI`, `OD&D` -> `AD&D и BECMI`
 - `Level Up`, `Advanced 5e`, `e5e` -> `E5E`
 - `Tales of Valiant`, `ToV` -> `Tales of Valiant`
+- `Traveller` -> `Traveler`
 
 ### Авторы и источники
 

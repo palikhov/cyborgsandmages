@@ -47,7 +47,12 @@
 |ranged or melee weapon attack|дальнобойная или в ближнем бою атака оружием|вид атаки | |
 |Expertise|Экспертиза| | |
 |meteor swarm|Рой метеоров|Название заклинания| |
-
+|Waterdeep|Вотердип| | |
+|Silverymoon|Сильверимун| | |
+|Neverwinter|Невервинтер| | |
+|Lord's Alliance|Альянс Лордов| | |
+|Sword Coast|Побережье Мечей| | |
+|Savage Frontier|Дикий Фронтир| | |
 
 
 

@@ -1375,6 +1375,10 @@
 
 - `src/content/posts/translations/alexandrian-alexanders-rule.mdx`
 
+## <http://rpgnews.com?p=240539>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
 ## <http://rpgtheoryreview.blogspot.com/2007/01/lesson-illusionism.html>
 
 - `src/content/posts/translations/hackslashmaster-illusion-can-rob-your-game-of-fun.mdx`
@@ -3651,6 +3655,10 @@
 
 - `src/content/posts/translations/dmdavid-palace-silver-princess-story.mdx`
 
+## <http://www.pandius.com/pc_drac.html>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
 ## <http://www.panix.com/~sos/rpg/fud-des.html>
 
 - `src/content/posts/translations/dmdavid-d20-tests-make-experts-look-inept.mdx`
@@ -4711,6 +4719,43 @@
 
 - `src/content/posts/translations/bruce-heard-how-big-is-that-gold-coin.mdx`
 
+## <https://bruce-heard.blogspot.com/2020/07/Ship-Speeds-Revisited.html>
+
+- `src/content/posts/translations/ship-movement-rates.mdx`
+
+## <https://bruce-heard.blogspot.com/2023/01/gnus-llamas-and-moose-oh-my.html>
+
+- `src/content/posts/translations/dragon-steeds-part-1.mdx`
+
+## <https://bruce-heard.blogspot.com/2023/01/slugs-and-griffons-and-stuff-oh-my.html>
+
+- `src/content/posts/translations/dragon-steeds-part-1.mdx`
+
+## <https://bruce-heard.blogspot.com/2023/02/thanks.html>
+
+- `src/content/posts/translations/dragon-steeds-part-1.mdx`
+
+## <https://bruce-heard.blogspot.com/2023/03/Dragons02.html>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+- `src/content/posts/translations/on-naval-logistics.mdx`
+
+## <https://bruce-heard.blogspot.com/2023/03/DragonsPt3_0696923750.html>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
+## <https://bruce-heard.blogspot.com/2023/03/d-class-dragon-cultist.html>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
+## <https://bruce-heard.blogspot.com/2023/04/DragonRider.html>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
+## <https://bruce-heard.blogspot.com/p/a-word-about-calidar.html>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
 ## <https://bsky.app/profile/mearls.bsky.social/post/3lceejw4njt2o>
 
 - `src/content/posts/translations/dmdavid-fifth-editions-secret-error.mdx`
@@ -5278,6 +5323,18 @@
 
 - `src/content/posts/translations/dmdavid-encouraging-role-playing.mdx`
 
+## <https://dragonlance.fandom.com/wiki/Cult_of_the_Worm>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
+## <https://dragonlance.fandom.com/wiki/Paladine>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
+## <https://dragonlance.fandom.com/wiki/Takhisis>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
 ## <https://dreammachineproductions.net>
 
 - `src/content/posts/translations/alexandrian-its-time-for-a-new-rpg.mdx`
@@ -5565,6 +5622,10 @@
 
 - `src/content/posts/translations/alldeadgenerations-jaquays-your-dungeon.mdx`
 
+## <https://dungeonsdragons.fandom.com/wiki/Io>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
 ## <https://dysonlogos.blog>
 
 - `src/content/posts/translations/alexandrian-whither-the-dungeon.mdx`
@@ -5598,29 +5659,173 @@
 
 - `src/content/posts/translations/acoup-coinage-tyranny-fantasy-gold.mdx`
 
+## <https://en.wikipedia.org/wiki/American_Belgian_Draft>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Andalusian_horse>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Ann_Dupuis>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Ao_(turtle)>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
+## <https://en.wikipedia.org/wiki/Arabian_horse>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Asinus>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Bay_(horse)>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Boulonnais_horse>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Chestnut_(horse_color)>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Clydesdale_horse>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
 ## <https://en.wikipedia.org/wiki/Coppicing>
 
 - `src/content/posts/translations/knight-at-the-opera-people-power-land.mdx`
+
+## <https://en.wikipedia.org/wiki/Courser_(horse)>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Destrier>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Donkey>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Friesian_horse>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Galleass>
+
+- `src/content/posts/translations/ship-movement-rates.mdx`
+
+## <https://en.wikipedia.org/wiki/Hand_(unit)>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
 
 ## <https://en.wikipedia.org/wiki/History_of_the_metric_system>
 
 - `src/content/posts/translations/alone-in-the-labyrinth-scale-sublimation.mdx`
 
+## <https://en.wikipedia.org/wiki/Horses_in_the_Middle_Ages>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Komodo_dragon>
+
+- `src/content/posts/translations/dragon-steeds-part-1.mdx`
+
+## <https://en.wikipedia.org/wiki/Marwari_horse>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Mongolian_horse>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Mounted_archery>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Mule>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Norman_Cob>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Palfrey>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
 ## <https://en.wikipedia.org/wiki/Pas_d%27armes>
 
 - `src/content/posts/translations/knight-at-the-opera-people-power-land.mdx`
+
+## <https://en.wikipedia.org/wiki/Paso_Fino>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Percheron>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
 
 ## <https://en.wikipedia.org/wiki/Pollarding>
 
 - `src/content/posts/translations/knight-at-the-opera-people-power-land.mdx`
 
+## <https://en.wikipedia.org/wiki/Pony>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Pterosaur_size>
+
+- `src/content/posts/translations/dragon-steeds-part-1.mdx`
+
+## <https://en.wikipedia.org/wiki/Rouncey>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Shetland_pony>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Shire_horse>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
 ## <https://en.wikipedia.org/wiki/Siena>
 
 - `src/content/posts/translations/sienas-six-mile-hex.mdx`
 
+## <https://en.wikipedia.org/wiki/Spanish_Jennet_Horse>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://en.wikipedia.org/wiki/Titanoboa>
+
+- `src/content/posts/translations/dragon-steeds-part-1.mdx`
+
 ## <https://en.wikipedia.org/wiki/Torre_del_Mangia>
 
 - `src/content/posts/translations/sienas-six-mile-hex.mdx`
+
+## <https://en.wikipedia.org/wiki/Tyrannosaurus>
+
+- `src/content/posts/translations/dragon-steeds-part-1.mdx`
+
+## <https://en.wikipedia.org/wiki/Wandering_albatross>
+
+- `src/content/posts/translations/dragon-steeds-part-1.mdx`
+
+## <https://en.wikipedia.org/wiki/Withers>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
 
 ## <https://en.wikisource.org/wiki/The_Art_of_War_(Sun)/Section_I>
 
@@ -5633,6 +5838,10 @@
 ## <https://en.wiktionary.org/wiki/quern>
 
 - `src/content/posts/translations/acoup-bread-3-actually-farming.mdx`
+
+## <https://equinehelper.com/what-is-a-gaited-horse>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
 
 ## <https://erikscottdebie.com/2017/07/19/facets-of-alignment-lawful>
 
@@ -5663,6 +5872,10 @@
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
 
+## <https://extension.psu.edu/horse-stable-manure-management>
+
+- `src/content/posts/translations/on-naval-logistics.mdx`
+
 ## <https://fistsofcinderandstone.blogspot.com/2017/03/the-grandsires-enclave-look-at-automata.html>
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
@@ -5689,9 +5902,21 @@
 
 - `src/content/posts/translations/acoup-iron-2-trees-for-blooms.mdx`
 
+## <https://forgottenrealms.fandom.com/wiki/Bahamut>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
+## <https://forgottenrealms.fandom.com/wiki/Cult_of_the_Dragon>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
 ## <https://forgottenrealms.fandom.com/wiki/Dessarin_Valley>
 
 - `src/content/posts/translations/alexandrian-storm-kings-remix-part-4c-expanding-path.mdx`
+
+## <https://forgottenrealms.fandom.com/wiki/Draconic_pantheon>
+
+- `src/content/posts/translations/dragon-cults.mdx`
 
 ## <https://forgottenrealms.fandom.com/wiki/Hall_of_Reflected_Moonlight>
 
@@ -5700,6 +5925,10 @@
 ## <https://forgottenrealms.fandom.com/wiki/Order_of_the_Blue_Moon>
 
 - `src/content/posts/translations/alexandrian-storm-kings-remix-part-4a-hekaton-missing.mdx`
+
+## <https://forgottenrealms.fandom.com/wiki/Tiamat>
+
+- `src/content/posts/translations/dragon-cults.mdx`
 
 ## <https://forgottenrealms.fandom.com/wiki/Wyrms_of_the_North>
 
@@ -5752,6 +5981,22 @@
 ## <https://geekdad.com/2014/12/5e-dungeon-masters-guide-1>
 
 - `src/content/posts/translations/ludusludorum-low-prep-6-blending-scenarios.mdx`
+
+## <https://ghwiki.greyparticle.com/index.php/Bahamut>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
+## <https://ghwiki.greyparticle.com/index.php/Earth_Dragon>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
+## <https://ghwiki.greyparticle.com/index.php/Io>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
+## <https://ghwiki.greyparticle.com/index.php/Tiamat>
+
+- `src/content/posts/translations/dragon-cults.mdx`
 
 ## <https://github.com/Developer-Mike/obsidian-advanced-canvas>
 
@@ -5857,6 +6102,14 @@
 ## <https://holiviantales.wordpress.com/gameplay/spells/beget-bogun>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://horseracingsense.com/how-high-can-a-horse-jump-equine-records>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://horserookie.com/how-far-horses-jump-horizontally>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
 
 ## <https://imagonem.org/2016/02/15/white-wolfs-lead-storyteller-there-will-be-a-release-in-2016>
 
@@ -6346,6 +6599,10 @@
 
 - `src/content/posts/translations/welsh-piper-laws-of-worldbuilding.mdx`
 
+## <https://radojavor.deviantart.com/art/Dubrovnik-253503222>
+
+- `src/content/posts/translations/ship-movement-rates.mdx`
+
 ## <https://replit.com/join/botfhoeixo-arnoldkemp>
 
 - `src/content/posts/translations/the-underclock-fixing-random-encounter.mdx`
@@ -6510,6 +6767,10 @@
 ## <https://spriggans-den.com/2015/02/12/why-the-right-name-and-cover-for-a-game-is-vital>
 
 - `src/content/posts/translations/forgotten-realms-the-north-and-the-importance-of-art.mdx`
+
+## <https://spriggans-den.com/2016/04/18/a-return-to-the-temple-of-tharizdun>
+
+- `src/content/posts/translations/forest-of-high-adventure-sandbox-campaign.mdx`
 
 ## <https://spriggans-den.com/2022/11/16/the-savage-frontier-hexmap-of-the-north>
 
@@ -6781,6 +7042,10 @@
 ## <https://tenfootpole.org/ironspike?p=7345>
 
 - `src/content/posts/translations/beyond-fomalhaut-hex-crawls-simple-guide.mdx`
+
+## <https://the-disoriented-ranger.blogspot.com/2023/12/revisiting-balance-in-game-design-in.html>
+
+- `src/content/posts/translations/encounter-balance-why-i-avoid-using-it.mdx`
 
 ## <https://thealexandrian.net>
 
@@ -9336,6 +9601,10 @@
 
 - `src/content/posts/translations/acoup-battle-of-helms-deep-part-i-helms-gate.mdx`
 
+## <https://www.amazon.com/Medieval-Maritime-Warfare-Charles-Stanton/dp/1781592519>
+
+- `src/content/posts/translations/on-naval-logistics.mdx`
+
 ## <https://www.amazon.com/Monte-Cooks-Arcana-Evolved-Handbook/dp/1588467805>
 
 - `src/content/posts/translations/tribality-fighter-class-part-seven.mdx`
@@ -9937,9 +10206,17 @@
 
 - `src/content/posts/translations/dumpstat-exploring-the-wilds-gm-tips.mdx`
 
+## <https://www.artstation.com/artwork/9ykOQ>
+
+- `src/content/posts/translations/dragon-steeds-part-1.mdx`
+
 ## <https://www.artstation.com/artwork/A9ePNo>
 
 - `src/content/posts/translations/dumpstat-exploration-homebrew-rules-for-travel.mdx`
+
+## <https://www.artstation.com/artwork/gdgqx>
+
+- `src/content/posts/translations/legacies-of-ill-gotten-loot.mdx`
 
 ## <https://www.artstation.com/artwork/oAJDdw>
 
@@ -9993,6 +10270,10 @@
 - `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
 
+## <https://www.birdsoutsidemywindow.org/2014/02/26/bird-skeletons-as-heavy-as-mammals>
+
+- `src/content/posts/translations/dragon-steeds-part-1.mdx`
+
 ## <https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=8466&CollID=16&NStart=200307>
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
@@ -10042,6 +10323,10 @@
 ## <https://www.brandesstoddard.com/2019/01/dd-5e-medium-armor>
 
 - `src/content/posts/translations/tribality-warlord-class-part-five.mdx`
+
+## <https://www.britannica.com/animal/Diplodocus>
+
+- `src/content/posts/translations/dragon-steeds-part-1.mdx`
 
 ## <https://www.britannica.com/place/Greece>
 
@@ -10320,6 +10605,10 @@
 
 - `src/content/posts/translations/delta-more-missile-modeling.mdx`
 
+## <https://www.deviantart.com/anndr/art/War-Horse-456748559>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
 ## <https://www.deviantart.com/art-of-josephg/art/The-Toad-that-Said-Meh-508938106>
 
 - `src/content/posts/translations/ludusludorum-old-school-magic-joseph-garcia.mdx`
@@ -10327,6 +10616,10 @@
 ## <https://www.deviantart.com/belibr/art/Halls-of-Undermountain-296894497>
 
 - `src/content/posts/translations/alexandrian-textual-history-of-the-yawning-portal.mdx`
+
+## <https://www.deviantart.com/claudiopilia/art/Dragon-Temple-in-the-Infinite-Snow-523551946>
+
+- `src/content/posts/translations/dragon-cults.mdx`
 
 ## <https://www.deviantart.com/docwendigo/art/Dark-Ritual-358386909>
 
@@ -10340,9 +10633,17 @@
 
 - `src/content/posts/translations/alexandrian-dd-2024-hiding-invisibility.mdx`
 
+## <https://www.deviantart.com/gycinn/art/Concepting-a-medieval-street-456824211>
+
+- `src/content/posts/translations/city-encounters.mdx`
+
 ## <https://www.deviantart.com/hamboggy/art/Ye-the-Hermit-595584518>
 
 - `src/content/posts/translations/flutesloot-building-a-necromancer-5e.mdx`
+
+## <https://www.deviantart.com/iamagri/art/Dragon-Rider-830976874>
+
+- `src/content/posts/translations/dragon-steeds-part-1.mdx`
 
 ## <https://www.deviantart.com/jeffleejohnson/art/raising-the-dead-63009482>
 
@@ -10464,6 +10765,10 @@
 ## <https://www.dmsguild.com/product/17159/B3-Palace-of-the-Silver-Princess-Basic?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-the-day-the-old-school-died.mdx`
+
+## <https://www.dmsguild.com/product/17171/DD-Rules-Cyclopedia-Basic?affiliate_id=428743>
+
+- `src/content/posts/translations/ship-movement-rates.mdx`
 
 ## <https://www.dmsguild.com/product/17424/WGA4-Vecna-Lives-2e?affiliate_id=8278>
 
@@ -10603,6 +10908,14 @@
 
 - `src/content/posts/translations/angrygm-start-a-campaign-1-introduction.mdx`
 
+## <https://www.drivethrurpg.com/browse/pub/5797/Calidar-Publishing?affiliate_id=428743>
+
+- `src/content/posts/translations/horses-donkeys-and-mules.mdx`
+
+## <https://www.drivethrurpg.com/browse/pub/5797/Calidar-Publishing?affiliate_id=428743&src=Blog>
+
+- `src/content/posts/translations/dragon-steeds-part-1.mdx`
+
 ## <https://www.drivethrurpg.com/browse/pub/8564/Tribality-Publishing>
 
 - `src/content/posts/translations/tribality-monk-class-part-six.mdx`
@@ -10699,6 +11012,14 @@
 
 - `src/content/posts/translations/alexandrian-re-running-the-megadungeon.mdx`
 
+## <https://www.drivethrurpg.com/product/16937/Battlesystem-Skirmishes-2e?affiliate_id=428743>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
+## <https://www.drivethrurpg.com/product/16975/GAZ3-The-Principalities-of-Glantri-Basic?affiliate_id=428743>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
 ## <https://www.drivethrurpg.com/product/170689/Blades-in-the-Dark?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-skimming-scenarios.mdx`
@@ -10710,6 +11031,10 @@
 ## <https://www.drivethrurpg.com/product/17158/B2-The-Keep-on-the-Borderlands-Basic?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-the-day-the-old-school-died.mdx`
+
+## <https://www.drivethrurpg.com/product/17165/DD-Companion-Set-BECMI-Ed-Basic?affiliate_id=428743>
+
+- `src/content/posts/translations/dragon-cults.mdx`
 
 ## <https://www.drivethrurpg.com/product/177767/Alchemist-5E>
 
@@ -10782,6 +11107,10 @@
 
 - `src/content/posts/translations/alexandrian-running-horror.mdx`
 
+## <https://www.drivethrurpg.com/product/284479/Wrath-of-the-Immortals?affiliate_id=428743>
+
+- `src/content/posts/translations/dragon-cults.mdx`
+
 ## <https://www.drivethrurpg.com/product/285960/Odyssey-of-the-Dragonlords-Adventure-Book?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-review-raiders-of-the-serpent-sea-players-guide.mdx`
@@ -10813,6 +11142,10 @@
 ## <https://www.drivethrurpg.com/product/310285/Welcome-to-the-Island-Over-the-Edge-3E-digital?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
+
+## <https://www.drivethrurpg.com/product/313688/PG1-A-Players-Guide-to-Meryath?affiliate_id=428743&src=Blog>
+
+- `src/content/posts/translations/dragon-cults.mdx`
 
 ## <https://www.drivethrurpg.com/product/333585/Cyberpunk-RED?affiliate_id=81207>
 
@@ -11262,6 +11595,14 @@
 ## <https://www.publicmedievalist.com/curious-case-weapon-didnt-exist>
 
 - `src/content/posts/translations/acoup-siege-of-gondor-part-v-flails.mdx`
+
+## <https://www.quora.com/How-fast-did-ancient-ships-travel>
+
+- `src/content/posts/translations/ship-movement-rates.mdx`
+
+## <https://www.quora.com/How-many-days-did-the-vikings-need-to-sail-to-reach-England>
+
+- `src/content/posts/translations/ship-movement-rates.mdx`
 
 ## <https://www.ragingswan.com>
 
