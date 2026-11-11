@@ -50,6 +50,7 @@
 - `Alexander Macris`
 - `Alexandrian`
 - `Alexis Smolensk`
+- `Alphastream`
 - `Amaril`
 - `Angry GM`
 - `Anne Hunter`
@@ -95,6 +96,7 @@
 - `Iestwyn`
 - `Imperium Romanum`
 - `J. Clements`
+- `J.T. Evans`
 - `Jacob Huebsch`
 - `Jay Dragon`
 - `Jeff McAleer`
@@ -177,6 +179,7 @@
 | `Эрин Велш` | `Эрин Велш` |
 | `Alexander Macris` | `Alexander Macris` |
 | `Alexis Smolensk` | `Alexis Smolensk` |
+| `Alphastream` | `Alphastream` |
 | `Amaril` | `Amaril` |
 | `Angry GM` | `Angry GM` |
 | `Anne Hunter` | `Anne Hunter` |
@@ -225,6 +228,7 @@
 | `Iestwyn` | `Iestwyn` |
 | `Imperium Romanum` | `Imperium Romanum` |
 | `J. Clements` | `J. Clements` |
+| `J.T. Evans` | `J.T. Evans` |
 | `Jacob Huebsch` | `Jacob Huebsch` |
 | `Jay Dragon` | `Jay Dragon` |
 | `Jeff McAleer` | `Jeff McAleer` |
