@@ -30,6 +30,7 @@
 ## <http://apocalypse-world.com>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-2-game-structure-basics.mdx`
+- `src/content/posts/translations/pleasures-of-osr-secrecy-and-discovery.mdx`
 - `src/content/posts/translations/tribality-psionics-part-eight.mdx`
 
 ## <http://apod.nasa.gov/apod/ap080119.html>
@@ -69,6 +70,7 @@
 ## <http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+- `src/content/posts/translations/pleasures-of-osr-emergent-story-and-open-worlds.mdx`
 
 ## <http://arsludi.lamemage.com/index.php/94/west-marches-running-your-own>
 
@@ -1065,10 +1067,12 @@
 
 ## <http://hillcantons.blogspot.com/2010/11/introducing-mystery-and-legend-into.html>
 
+- `src/content/posts/translations/pleasures-of-osr-emergent-story-and-open-worlds.mdx`
 - `src/content/posts/translations/proairetic-code-player-driven-mystery-sandbox.mdx`
 
 ## <http://hillcantons.blogspot.com/2010/11/introducing-mystery-and-legend-into_05.html>
 
+- `src/content/posts/translations/pleasures-of-osr-emergent-story-and-open-worlds.mdx`
 - `src/content/posts/translations/proairetic-code-player-driven-mystery-sandbox.mdx`
 
 ## <http://hillcantons.blogspot.com/2012/05/designing-undercities-giant.html>
@@ -1152,9 +1156,17 @@
 
 - `src/content/posts/translations/alexandrian-rules-vs-rulings.mdx`
 
+## <http://jrients.blogspot.com/2008/06/just-so-you-know-this-is-vancian-magic.html>
+
+- `src/content/posts/translations/downtime-activities-magical-research.mdx`
+
 ## <http://jrients.blogspot.com/2008/11/draft-cinder-house-rules-part-1.html>
 
 - `src/content/posts/translations/jrients-dungeons-dawn-patrol.mdx`
+
+## <http://jrients.blogspot.com/2009/12/exploration.html>
+
+- `src/content/posts/translations/pleasures-of-osr-emergent-story-and-open-worlds.mdx`
 
 ## <http://jrients.blogspot.com/2010/02/sandboxes-dragons.html>
 
@@ -1178,9 +1190,40 @@
 - `src/content/posts/translations/acoup-gondor-heavy-infantry-kit-review.mdx`
 - `src/content/posts/translations/acoup-siege-of-gondor-part-i-logistics.mdx`
 
+## <http://maziriansgarden.blogspot.com/2015/09/to-where-have-i-opened-way.html>
+
+- `src/content/posts/translations/downtime-activities-magical-research.mdx`
+
+## <http://maziriansgarden.blogspot.com/2017/01/the-nightmares-underneath-review.html>
+
+- `src/content/posts/translations/pleasures-of-osr-emergent-story-and-open-worlds.mdx`
+
 ## <http://maziriansgarden.blogspot.com/2017/09/two-years-through-ultans-door-zyan.html>
 
 - `src/content/posts/translations/diy-and-dragons-sub-hex-crawling-part-1.mdx`
+
+## <http://maziriansgarden.blogspot.com/2017/12/world-building-and-old-school-games.html>
+
+- `src/content/posts/translations/pleasures-of-osr-emergent-story-and-open-worlds.mdx`
+
+## <http://maziriansgarden.blogspot.com/2019/09/splendid-items.html>
+
+- `src/content/posts/translations/downtime-activities-magical-research.mdx`
+
+## <http://maziriansgarden.blogspot.com/2019/11/magic-items-are-born-not-made.html>
+
+- `src/content/posts/translations/downtime-activities-magical-research.mdx`
+
+## <http://maziriansgarden.blogspot.com/2020/06/pleasures-of-osr-overcoming-challenges.html>
+
+- `src/content/posts/translations/xp-for-gp-and-retro-gaming-alternatives.mdx`
+
+## <http://maziriansgarden.blogspot.com/search/label/Downtime%20Activities>
+
+- `src/content/posts/translations/downtime-activities-building-an-institution.mdx`
+- `src/content/posts/translations/downtime-activities-martial-training.mdx`
+- `src/content/posts/translations/using-multiple-downtime-actions-for-an-adventure-hiatus.mdx`
+- `src/content/posts/translations/xp-for-gp-and-retro-gaming-alternatives.mdx`
 
 ## <http://mcadams.posc.mu.edu/txt/ah/Livy/Livy22.html>
 
@@ -1314,6 +1357,10 @@
 ## <http://paleoplanet69529.yuku.com/topic/14119/202lb-yew-warbow?page=12>
 
 - `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
+
+## <http://planetalgol.blogspot.com/2010/03/thoughts-regarding-infamous-mouldering.html>
+
+- `src/content/posts/translations/downtime-activities-magical-research.mdx`
 
 ## <http://quagkeep.blogspot.com/2012/01/i11-needle-painful-enchantment.html>
 
@@ -1624,6 +1671,10 @@
 ## <http://trollsmyth.blogspot.com>
 
 - `src/content/posts/translations/papers-pencils-hex-crawling-encounters.mdx`
+
+## <http://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html>
+
+- `src/content/posts/translations/downtime-activities-martial-training.mdx`
 
 ## <http://trollsmyth.blogspot.com/2011/09/hex-mapping-part-17.html>
 
@@ -2913,6 +2964,10 @@
 
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
 
+## <http://www.bastionland.com>
+
+- `src/content/posts/translations/xp-for-gp-and-retro-gaming-alternatives.mdx`
+
 ## <http://www.batintheattic.com>
 
 - `src/content/posts/translations/beyond-fomalhaut-dirt-cheap-sandbox.mdx`
@@ -3972,6 +4027,10 @@
 
 - `src/content/posts/translations/tribality-monk-class-part-nine.mdx`
 
+## <http://www.tuesdayknightgames.com/dead-planet>
+
+- `src/content/posts/translations/pleasures-of-osr-secrecy-and-discovery.mdx`
+
 ## <http://www.wealthdaily.com/articles/weekend-editon-europes-trillion-money-drop/2486>
 
 - `src/content/posts/translations/coinsandscrolls-currency-in-osr-games.mdx`
@@ -4627,6 +4686,10 @@
 
 - `src/content/posts/translations/welsh-piper-laws-of-worldbuilding.mdx`
 
+## <https://athousandthousandislands.itch.io>
+
+- `src/content/posts/translations/xp-for-gp-and-retro-gaming-alternatives.mdx`
+
 ## <https://atlas-games.com/product_tables/AG2003>
 
 - `src/content/posts/translations/alexandrian-memorable-npcs.mdx`
@@ -4678,6 +4741,10 @@
 ## <https://bearded-devil.com/2018/05/10/hex-session-xxii-5th-edition-actual-play-chateau-de-la-marche-pt-1>
 
 - `src/content/posts/translations/bearded-devil-how-i-run-a-citycrawl-campaign.mdx`
+
+## <https://blackarmada.com/lovecraftesque>
+
+- `src/content/posts/translations/pleasures-of-osr-secrecy-and-discovery.mdx`
 
 ## <https://blackcitadelrpg.com/alchemist-supplies-5e>
 
@@ -5094,6 +5161,10 @@
 ## <https://diyanddragons.blogspot.com/2019/04/your-life-is-forfeit.html>
 
 - `src/content/posts/translations/diy-and-dragons-alternatives-to-darkvision.mdx`
+
+## <https://diyanddragons.blogspot.com/2020/08/xp-for-exploration-maps-monster.html>
+
+- `src/content/posts/translations/xp-for-gp-and-retro-gaming-alternatives.mdx`
 
 ## <https://dmdavid.com>
 
@@ -5994,6 +6065,10 @@
 
 - `src/content/posts/translations/forgotten-realms-the-north-and-the-importance-of-art.mdx`
 
+## <https://forums.gauntlet-rpg.com>
+
+- `src/content/posts/translations/pleasures-of-osr-secrecy-and-discovery.mdx`
+
 ## <https://fractalfoundation.org/resources/what-are-fractals>
 
 - `src/content/posts/translations/ludusludorum-glen-cooks-goblin-recon.mdx`
@@ -6119,6 +6194,10 @@
 
 - `src/content/posts/translations/why-i-love-published-adventures-and-why-i-dont-use-them.mdx`
 
+## <https://hillcantons.blogspot.com/2016/01/information-as-treasure-type-building.html>
+
+- `src/content/posts/translations/pleasures-of-osr-emergent-story-and-open-worlds.mdx`
+
 ## <https://historicenterprises.com/fabrics-colors-c-100_198_200.html>
 
 - `src/content/posts/translations/acoup-clothing-4a-dyed-in-the-wool.mdx`
@@ -6208,6 +6287,10 @@
 ## <https://journals.sagepub.com/doi/10.1177/1741659019873757>
 
 - `src/content/posts/translations/prismaticwasteland-keep-borderlands-full-of-lies.mdx`
+
+## <https://jrients.blogspot.com/2009/12/exploration.html>
+
+- `src/content/posts/translations/xp-for-gp-and-retro-gaming-alternatives.mdx`
 
 ## <https://kenzerco.com>
 
@@ -6318,10 +6401,6 @@
 - `src/content/posts/translations/faction-procedures-comparative-review.mdx`
 
 ## <https://maziriansgarden.blogspot.com/2018/04/city-state-of-invincible-overlord-city.html>
-
-- `src/content/posts/translations/mazirians-garden-rules-for-citycrawling.mdx`
-
-## <https://maziriansgarden.blogspot.com/2019/04/pleasures-of-osr-secrecy-and-discovery.html>
 
 - `src/content/posts/translations/mazirians-garden-rules-for-citycrawling.mdx`
 
@@ -9286,6 +9365,10 @@
 
 - `src/content/posts/translations/acoup-bread-1-farmers.mdx`
 
+## <https://us.lotfp.com/store/index.php?route=product/product&product_id=76>
+
+- `src/content/posts/translations/xp-for-gp-and-retro-gaming-alternatives.mdx`
+
 ## <https://ussmissouri.org/learn-the-history/the-ship/as-built-blueprints>
 
 - `src/content/posts/translations/starships-in-silhouette.mdx`
@@ -11096,6 +11179,10 @@
 
 - `src/content/posts/translations/alexandrian-re-running-the-megadungeon.mdx`
 
+## <https://www.drivethrurpg.com/product/149190/Castle-Gargantua>
+
+- `src/content/posts/translations/pleasures-of-osr-secrecy-and-discovery.mdx`
+
 ## <https://www.drivethrurpg.com/product/16937/Battlesystem-Skirmishes-2e?affiliate_id=428743>
 
 - `src/content/posts/translations/dragon-cults.mdx`
@@ -11140,6 +11227,10 @@
 ## <https://www.drivethrurpg.com/product/226996/Stars-Without-Number-Revised-Edition?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-6-innkeepers.mdx`
+
+## <https://www.drivethrurpg.com/product/237544/The-Gardens-Of-Ynn>
+
+- `src/content/posts/translations/pleasures-of-osr-secrecy-and-discovery.mdx`
 
 ## <https://www.drivethrurpg.com/product/237544/The-Gardens-Of-Ynn?affiliate_id=81207>
 
@@ -11323,9 +11414,17 @@
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
 
+## <https://www.evilhat.com/home/blades-in-the-dark>
+
+- `src/content/posts/translations/pleasures-of-osr-secrecy-and-discovery.mdx`
+
 ## <https://www.evilhat.com/home/designers-dragons>
 
 - `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
+
+## <https://www.exaltedfuneral.com/collections/luka-rejec/products/the-ultraviolet-grasslands>
+
+- `src/content/posts/translations/xp-for-gp-and-retro-gaming-alternatives.mdx`
 
 ## <https://www.facebook.com/arany.janos.1/videos/2171409979558430/UzpfSTI0MjMwODY5NTc4NzAwMjoyODgwMDYwNDE4Njc4NDcw>
 
@@ -11366,6 +11465,10 @@
 ## <https://www.foothealthfacts.org/conditions/bone-healing>
 
 - `src/content/posts/translations/delta-healing-through-ages.mdx`
+
+## <https://www.gauntlet-rpg.com/we-hunt-the-keepers>
+
+- `src/content/posts/translations/pleasures-of-osr-secrecy-and-discovery.mdx`
 
 ## <https://www.giantitp.com/comics/oots0126.html>
 
@@ -11498,6 +11601,10 @@
 ## <https://www.kickstarter.com/projects/modiphius/corvus-bellis-infinity-roleplaying-game>
 
 - `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
+
+## <https://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks>
+
+- `src/content/posts/translations/downtime-activities-magical-research.mdx`
 
 ## <https://www.lastgaspgrimoire.com/in-corpathium>
 
@@ -11894,6 +12001,10 @@
 ## <https://www.theatlantic.com/science/archive/2018/05/scientists-reclaim-the-long-lost-economic-history-of-rome/560339>
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
+
+## <https://www.thebluebard.com/blog-1/dungeon-master-s-screen>
+
+- `src/content/posts/translations/pleasures-of-osr-secrecy-and-discovery.mdx`
 
 ## <https://www.thebluebard.com/post/a-deck-of-many-things-using-ad-d-s-mixed-bag-of-rules-and-loving-them>
 
