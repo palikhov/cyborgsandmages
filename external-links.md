@@ -56,6 +56,7 @@
 ## <http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
+- `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
 - `src/content/posts/translations/pleasures-of-osr-emergent-story-and-open-worlds.mdx`
 
 ## <http://arsludi.lamemage.com/index.php/94/west-marches-running-your-own>
@@ -1081,6 +1082,10 @@
 
 - `src/content/posts/translations/acoup-fremen-mirage-part-ii.mdx`
 
+## <http://paizo.com>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
 ## <http://paizo.com/community/blog/v5748dyo5lkm9?Fighter-Class-Preview>
 
 - `src/content/posts/translations/tribality-fighter-class-part-ten.mdx`
@@ -1089,9 +1094,17 @@
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
 
+## <http://paizo.com/pathfinder/adventurePath/shatteredStar>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
 ## <http://paizo.com/pathfinderRPG>
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
+
+## <http://paizo.com/products/btpy8uqr?0ones-Black-White-Adventures-The-Terror-of-Tumbledown>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
 
 ## <http://paleoplanet69529.yuku.com/topic/14119/202lb-yew-warbow?page=12>
 
@@ -1267,10 +1280,6 @@
 ## <http://thealexandrian.net/wordpress/36526/roleplaying-games/thinking-about-urbancrawls-part-6-old-school-inspiration>
 
 - `src/content/posts/translations/dmdavid-city-state-weird-questions.mdx`
-
-## <http://thealexandrian.net/wordpress/4238/roleplaying-games/the-art-of-rulings>
-
-- `src/content/posts/translations/alexandrian-disarming-magical-traps.mdx`
 
 ## <http://thecampaign20xx.blogspot.com/2014/08/tyranny-of-dragons-hoard-of-dragon.html>
 
@@ -1494,6 +1503,18 @@
 
 - `src/content/posts/translations/delta-armor-costs.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0618640150/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-scenario-structure-challenge.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0786948809/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-scenario-structure-challenge.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0786966106/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0786966769/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-remixing-avernus.mdx`
@@ -1501,6 +1522,14 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1568820690/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-eternal-lies-remix.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1588469484/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/1601252293/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1908983493/digitalcomi0a-20>
 
@@ -1514,6 +1543,10 @@
 
 - `src/content/posts/translations/alexandrian-eternal-lies-remix.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B000M5Y63U/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B0014WJYOG/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-eternal-lies-remix.mdx`
@@ -1526,9 +1559,49 @@
 
 - `src/content/posts/translations/alexandrian-eternal-lies-remix.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/B002C0RWRA/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/B0042SSUS0/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-eternal-lies-remix.mdx`
+
+## <http://www.amazon.com/gp/product/0786916400/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786916400&linkCode=as2&tag=ragswapre07-20&linkId=3I2SNSM3NNRYKSRQ>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.amazon.com/gp/product/0786916443/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786916443&linkCode=as2&tag=ragswapre07-20&linkId=I343E365VZS6GZFV>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.amazon.com/gp/product/0786936983/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786936983&linkCode=as2&tag=ragswapre07-20&linkId=5SW2ODJCXYR3ZQZP>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.amazon.com/gp/product/0786939478/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786939478&linkCode=as2&tag=ragswapre07-20&linkId=PVQRV2TQXKGQRGJO>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.amazon.com/gp/product/0956482635/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0956482635&linkCode=as2&tag=ragswapre07-20&linkId=56P3KSSHQWCXZ4AB>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.amazon.com/gp/product/0993108229/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0993108229&linkCode=as2&tag=ragswapre07-20&linkId=2CWFDPMXWORRRVQS>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.amazon.com/gp/product/0993108237/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0993108237&linkCode=as2&tag=ragswapre07-20&linkId=2ARYOHWRE5C2L6LE>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.amazon.com/gp/product/1601254768/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601254768&linkCode=as2&tag=ragswapre07-20&linkId=26EZ5B6JBLYHULCB>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.amazon.com/gp/product/B001J2CFTM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001J2CFTM&linkCode=as2&tag=ragswapre07-20&linkId=AAZPGEE4EHJQ5GO7>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
 
 ## <http://www.anarchydice.com/2016/01/26/5e-character-archetypes-woe-bearer-rogue>
 
@@ -1619,6 +1692,14 @@
 
 - `src/content/posts/translations/creighton-2-campaign-prep-is-awesome.mdx`
 
+## <http://www.creightonbroadhurst.com/3200-2>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/339>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
 ## <http://www.creightonbroadhurst.com/4-overlooked-classic-tsr-modules>
 
 - `src/content/posts/translations/creighton-real-cause-15-minute-adventuring-day.mdx`
@@ -1627,24 +1708,350 @@
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
 
-## <http://www.creightonbroadhurst.com/borderland-of-adventure>
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-1-hollows-last-hope>
 
-- `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
-- `src/content/posts/translations/creighton-6-moral-dilemmas-for-pcs.mdx`
-- `src/content/posts/translations/creighton-gm-advice-4-signs-your-campaign-is-dying.mdx`
-- `src/content/posts/translations/creighton-gm-advice-changing-the-pace.mdx`
-- `src/content/posts/translations/creighton-gm-advice-dealing-with-house-rules.mdx`
-- `src/content/posts/translations/creighton-gm-advice-how-to-deal-with-broken-characters.mdx`
-- `src/content/posts/translations/creighton-gm-advice-how-to-herd-your-players-to-your-game.mdx`
-- `src/content/posts/translations/creighton-gm-advice-how-to-use-weather-in-your-campaign.mdx`
-- `src/content/posts/translations/creighton-gm-advice-why-your-campaign-needs-structure.mdx`
-- `src/content/posts/translations/creighton-gygax-on-henchmen-and-hirelings.mdx`
-- `src/content/posts/translations/creighton-how-and-why-to-say-no.mdx`
-- `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-10-the-dragon-cult>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-11-a-noble-offer>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-13-the-well>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-14-return-to-ironwolf-keep>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-15-into-the-blood-moons-lair>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-16-forgotten-treasures>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-18-to-blasingdell>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-19-beyond-the-gates>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-2-dwarven-ruin>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-20-fall-of-a-hero>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-21-treachery-in-the-darkness>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-22-dellebs-blessing>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-23-in-the-mists>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-23-the-thing-in-the-graveyard>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-24-into-the-dungeon>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-25-devils-undead>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-26>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-26-continued-call-to-war>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-27-into-the-loftwood>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-28-the-ruins-of-xul-jarak>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-29-run-away-run-away>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-3-to-the-sunless-citadel>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-30-slaughter-death>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-31-flight-from-xul-jarak>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-32-shattering-the-bloodspear>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-33-a-parting-of-the-ways>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-33-survivors>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-35-return-to-xul-jarak>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-36-burn-it-all>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-37-victory>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-38-the-army-marches>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-39-assassins-in-the-dark>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-4-against-the-kobolds>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-40-the-slaughter-begins>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-41-a-close-run-thing>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-42-to-trellmont>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-43-the-final-battle>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-44-the-hermit-at-clear-water>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-45-delving-deep>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-46-delving-too-deep>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-47-to-tumbledown>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-48-terror-in-the-dark>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-49-tentacles-in-the-dark>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-5-there-and-back-again>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-50-unexpected-aid>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-51-tentacles-in-the-deep>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-52-an-ending>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-53-return-to-adventure>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-54-amid-ancient-bones>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-55-ghosts-dragons>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-56-to-fangwood>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-57-assault-the-keep>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-58-ferocious-battles>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-59-the-heroically-fallen>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-6-an-ill-advised-brawl>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-60-delve-deepening>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-61-above-a-roiling-sea>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-62-into-the-twilight-tomb>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-63-undead-and-gnolls-oh-my>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-64-the-raging-battle>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-66-the-ancient-undead>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-67-death-upon-the-stair>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-68-an-ending>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-69-to-dekspoint>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-7-rats-goblins>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-70-exploring-dekspoint>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-71-against-the-dragon-cult>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-72-into-the-wilderness>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-73-hunting-vesicwyr>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-74-into-the-chasm-of-death>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-77-the-greater-good>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-78-into-the-palace-of-the-pirate-king>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-79-fire-acid-death>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-80-a-terrible-truth>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-81-the-return>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-9-into-the-deep-depths>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-against-the-bandit-queen>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-campaign-structure>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-interim-preparations>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-interlude>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-interlude-reflections-on-year-1>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-meanwhile-back-in-ratik>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure-two-years-on-the-borderlands>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
+## <http://www.creightonbroadhurst.com/borderland-of-adventure/the-next-generation>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
 
 ## <http://www.creightonbroadhurst.com/borderland-of-adventure/the-shattered-star>
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
 - `src/content/posts/translations/creighton-how-i-use-slack-to-help-run-my-campaign.mdx`
 - `src/content/posts/translations/creighton-mine-is-conan-meets-cthulhu-in-a-megadungeon-whats-yours.mdx`
 
@@ -1706,13 +2113,22 @@
 
 - `src/content/posts/translations/creighton-why-i-love-gm-screens.mdx`
 
+## <http://www.creightonbroadhurst.com/how-i-converted-kingmaker-to-the-world-of-greyhawk>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
 ## <http://www.creightonbroadhurst.com/how-i-use-evernote-to-organise-my-campaign>
 
 - `src/content/posts/translations/creighton-5-ios-apps-that-help-me-run-my-campaign.mdx`
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
 
 ## <http://www.creightonbroadhurst.com/ill-write-131000-design-words-in-2019>
 
 - `src/content/posts/translations/creighton-2-campaign-prep-is-awesome.mdx`
+
+## <http://www.creightonbroadhurst.com/living-the-old-gamer-dream-with-b2>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
 
 ## <http://www.creightonbroadhurst.com/pathfinder-advice-why-i-love-the-slow-advancement-track>
 
@@ -1725,6 +2141,10 @@
 ## <http://www.creightonbroadhurst.com/the-concept-of-cr-appropriate-challenges-is-too-ingrained-in-our-minds>
 
 - `src/content/posts/translations/creighton-gygax-on-saving-characters.mdx`
+
+## <http://www.creightonbroadhurst.com?page_id=19>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
 
 ## <http://www.critical-hits.com/blog/2009/06/02/the-5x5-method>
 
@@ -2326,6 +2746,10 @@
 
 - `src/content/posts/translations/alexandrian-ex-many-games-inside-dnd.mdx`
 
+## <http://www.ragingswan.com>
+
+- `src/content/posts/translations/creighton-borderland-of-adventure.mdx`
+
 ## <http://www.ragingswan.com/free-resources>
 
 - `src/content/posts/translations/creighton-3-things-behind-gm-screen.mdx`
@@ -2676,22 +3100,13 @@
 
 ## <https://acoup.blog/2020/03/27/a-trip-through-dhuoda-of-uzes-carolingian-values>
 
+- `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`
 - `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
 
 ## <https://acoup.blog/2020/04/10/collections-antarah-ibn-shaddad-victory-songs>
 
 - `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
 - `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-- `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
-
-## <https://acoup.blog/2020/04/16/collections-a-trip-through-bertran-de-born-martial-values-in-the-12th-century-occitan-nobility>
-
-- `src/content/posts/translations/acoup-bread-2-big-farms.mdx`
-- `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
-- `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
-- `src/content/posts/translations/acoup-universal-warrior-part-iib.mdx`
-- `src/content/posts/translations/acoup-universal-warrior-part-iii.mdx`
-- `src/content/posts/translations/total-generalship-part-ii-commands.mdx`
 - `src/content/posts/translations/total-generalship-part-iiia-discipline.mdx`
 
 ## <https://acoup.blog/2020/04/24/fireside-friday-april-24-2020>
@@ -3042,6 +3457,10 @@
 ## <https://bladesinthedark.com/progress-clocks>
 
 - `src/content/posts/translations/faction-procedures-comparative-review.mdx`
+
+## <https://blogs.bl.uk/digitisedmanuscripts/2013/09/knight-v-snail.html>
+
+- `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`
 
 ## <https://bmcr.brynmawr.edu/2021/2021.03.19>
 
@@ -3757,16 +4176,6 @@
 - `src/content/posts/translations/deep-dive-the-wight.mdx`
 - `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-3.mdx`
 
-## <https://dumpstatadventures.com/blog/deep-dive-wizard-class>
-
-- `src/content/posts/translations/deep-dive-cleric-class.mdx`
-- `src/content/posts/translations/deep-dive-the-quaggoth.mdx`
-- `src/content/posts/translations/deep-dive-the-wight.mdx`
-- `src/content/posts/translations/dumpstat-basic-principles-successful-adventuring-part-3.mdx`
-- `src/content/posts/translations/dumpstat-deep-dive-ranger-class.mdx`
-- `src/content/posts/translations/dumpstat-deep-dive-rogue-class.mdx`
-- `src/content/posts/translations/dumpstat-deep-dive-the-shield-guardian.mdx`
-
 ## <https://dumpstatadventures.com/blog/rewind-the-lost-spells>
 
 - `src/content/posts/translations/deep-dive-cleric-class.mdx`
@@ -3880,6 +4289,38 @@
 ## <https://emdt.bigcartel.com/product/castle-xyntillan>
 
 - `src/content/posts/translations/d66kobolds-faction-procedures-dolmenwood-example.mdx`
+
+## <https://en.wikipedia.org/wiki/Angevin_Empire>
+
+- `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`
+
+## <https://en.wikipedia.org/wiki/Bertran_de_Born>
+
+- `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`
+
+## <https://en.wikipedia.org/wiki/Great_helm>
+
+- `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`
+
+## <https://en.wikipedia.org/wiki/Henry_the_Young_King>
+
+- `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`
+
+## <https://en.wikipedia.org/wiki/Hugh_V_of_Lusignan>
+
+- `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`
+
+## <https://en.wikipedia.org/wiki/Lost_Generation>
+
+- `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`
+
+## <https://en.wikipedia.org/wiki/Morgan_Bible>
+
+- `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`
+
+## <https://en.wikipedia.org/wiki/William_VIII,_Duke_of_Aquitaine>
+
+- `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`
 
 ## <https://en.wiktionary.org/wiki/diachronic>
 
@@ -5027,20 +5468,6 @@
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
 
-## <https://thealexandrian.net/gamemastery-101>
-
-- `src/content/posts/translations/alexandrian-art-of-pacing-6-more-advanced-techniques.mdx`
-- `src/content/posts/translations/alexandrian-art-of-the-key-4-adversary-rosters.mdx`
-- `src/content/posts/translations/alexandrian-dont-prep-plots-tools-not-contingencies.mdx`
-- `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
-- `src/content/posts/translations/alexandrian-empower-prep-rachov-principle.mdx`
-- `src/content/posts/translations/alexandrian-five-node-mystery.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
-- `src/content/posts/translations/alexandrian-principles-of-rpg-villainy.mdx`
-- `src/content/posts/translations/alexandrian-remixing-avernus.mdx`
-- `src/content/posts/translations/alexandrian-storm-kings-thunder-remix.mdx`
-- `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
-
 ## <https://thealexandrian.net/open-game-license>
 
 - `src/content/posts/translations/alexandrian-advanced-d20-drugs.mdx`
@@ -5163,8 +5590,11 @@
 ## <https://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
+- `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
 - `src/content/posts/translations/alexandrian-juggling-scenario-hooks-sandbox.mdx`
 - `src/content/posts/translations/alexandrian-prep-tips-beginning-dm.mdx`
+- `src/content/posts/translations/alexandrian-scenario-structure-challenge.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-4-campaign-status-documents.mdx`
 - `src/content/posts/translations/alexandrian-thinking-wilderness-travel.mdx`
 - `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
@@ -5854,18 +6284,9 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-why-dd.mdx`
 
-## <https://thealexandrian.net/wordpress/39941/roleplaying-games/scenario-structure-challenge>
+## <https://thealexandrian.net/wordpress/39885/roleplaying-games/smart-prep>
 
-- `src/content/posts/translations/alexandrian-ask-20-transferable-techniques.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-addendum-system-matters.mdx`
-- `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
-- `src/content/posts/translations/alexandrian-review-ultraviolet-grasslands.mdx`
-- `src/content/posts/translations/alexandrian-scenario-structure-challenge-1-raiding-death-star.mdx`
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-2-race-to-prize.mdx`
-- `src/content/posts/translations/alexandrian-scenario-structure-challenge-3-mcguffin-keep-away.mdx`
-- `src/content/posts/translations/alexandrian-scenario-structure-challenge-4-heists.mdx`
-- `src/content/posts/translations/alexandrian-scenario-structure-challenge-5-rpg-montage.mdx`
-- `src/content/posts/translations/alexandrian-scenario-structure-challenge-6-innkeepers.mdx`
 
 ## <https://thealexandrian.net/wordpress/39979/roleplaying-games/in-the-shadow-of-the-spire-harvesttime-part-1-tor-at-the-tourney-fields>
 
@@ -5908,6 +6329,10 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
+## <https://thealexandrian.net/wordpress/40095/roleplaying-games/scenario-structure-challenge-3-mcguffin-keep-away>
+
+- `src/content/posts/translations/alexandrian-scenario-structure-challenge-2-race-to-prize.mdx`
+
 ## <https://thealexandrian.net/wordpress/40309/roleplaying-games/rulings-in-practice-perception-type-tests>
 
 - `src/content/posts/translations/alexandrian-ask-20-transferable-techniques.mdx`
@@ -5937,6 +6362,10 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
+## <https://thealexandrian.net/wordpress/40374/roleplaying-games/random-gm-tip-visualizing-city-block-maps>
+
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
+
 ## <https://thealexandrian.net/wordpress/40402/roleplaying-games/ptolus-running-the-campaign-simple-simulationist-tactics-half-across-the-river>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
@@ -5951,6 +6380,10 @@
 ## <https://thealexandrian.net/wordpress/40437/roleplaying-games/ptolus-running-the-campaign-dynamic-terrain>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+
+## <https://thealexandrian.net/wordpress/40459/roleplaying-games/random-gm-tip-learning-a-new-rpg>
+
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 
 ## <https://thealexandrian.net/wordpress/40464/roleplaying-games/ptolus-running-the-campaign-behind-the-tale-of-itarek>
 
@@ -6211,6 +6644,10 @@
 
 - `src/content/posts/translations/alexandrian-alexanders-rule.mdx`
 
+## <https://thealexandrian.net/wordpress/4238/roleplaying-games/the-art-of-rulings>
+
+- `src/content/posts/translations/alexandrian-disarming-magical-traps.mdx`
+
 ## <https://thealexandrian.net/wordpress/4263/roleplaying-games/random-gm-tips-the-art-of-description>
 
 - `src/content/posts/translations/alexandrian-evocative-descriptions.mdx`
@@ -6287,6 +6724,7 @@
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
 - `src/content/posts/translations/alexandrian-game-structure-party-planning.mdx`
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 - `src/content/posts/translations/alexandrian-your-hidden-toolbox.mdx`
 
 ## <https://thealexandrian.net/wordpress/42965/roleplaying-games/left-hand-of-mythos-a-trail-of-cthulhu-scenario>
@@ -6340,6 +6778,7 @@
 
 ## <https://thealexandrian.net/wordpress/43244/roleplaying-games/reactions-to-odd-hex-clearing-procedures>
 
+- `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
 - `src/content/posts/translations/alexandrian-resting-in-the-dungeon.mdx`
 
 ## <https://thealexandrian.net/wordpress/43277/roleplaying-games/ptolus-running-the-campaign-improvising-a-raid>
@@ -6452,6 +6891,7 @@
 ## <https://thealexandrian.net/wordpress/43782/roleplaying-games/running-the-campaign-dragon-heist-the-manshoon-heists>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 
 ## <https://thealexandrian.net/wordpress/43830/roleplaying-games/in-the-shadow-of-the-spire-session-22a-return-to-pythoness-house>
 
@@ -6474,6 +6914,10 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
+## <https://thealexandrian.net/wordpress/43905/roleplaying-games/hexcrawl-addendum-sketchy-hexcrawls>
+
+- `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
+
 ## <https://thealexandrian.net/wordpress/43990/roleplaying-games/design-notes-scenario-tools>
 
 - `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
@@ -6485,6 +6929,10 @@
 ## <https://thealexandrian.net/wordpress/44020/roleplaying-games/laboratory-of-the-beast>
 
 - `src/content/posts/translations/alexandrian-advanced-d20-taint.mdx`
+
+## <https://thealexandrian.net/wordpress/44117/roleplaying-games/scenario-structure-challenge-5-the-rpg-montage>
+
+- `src/content/posts/translations/alexandrian-scenario-structure-challenge-4-heists.mdx`
 
 ## <https://thealexandrian.net/wordpress/44127/roleplaying-games/dragon-heist-remix-addendum-the-dragon-of-dragon-heist>
 
@@ -6575,6 +7023,10 @@
 ## <https://thealexandrian.net/wordpress/44516/roleplaying-games/remixing-avernus-part-4a-the-road-to-candlekeep>
 
 - `src/content/posts/translations/alexandrian-remixing-avernus.mdx`
+
+## <https://thealexandrian.net/wordpress/44541/roleplaying-games/the-lion-the-witch-and-the-scenario-hook>
+
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 
 ## <https://thealexandrian.net/wordpress/44615/roleplaying-games/remixing-avernus-part-4b-the-road-to-avernus>
 
@@ -6679,6 +7131,7 @@
 ## <https://thealexandrian.net/wordpress/45149/roleplaying-games/running-the-campaign-dragon-heist-creating-the-characters>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 - `src/content/posts/translations/alexandrian-how-to-prep-a-module.mdx`
 - `src/content/posts/translations/alexandrian-icewind-dale-characters.mdx`
 - `src/content/posts/translations/alexandrian-session-0-modules.mdx`
@@ -6686,6 +7139,7 @@
 ## <https://thealexandrian.net/wordpress/45263/roleplaying-games/the-secret-life-of-nodes>
 
 - `src/content/posts/translations/alexandrian-ask-6-revelation-for-another-day.mdx`
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
 - `src/content/posts/translations/alexandrian-node-based-scenario-design-part-1-plotted-approach.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-two-types-leads.mdx`
@@ -6734,6 +7188,10 @@
 ## <https://thealexandrian.net/wordpress/45398/roleplaying-games/remixing-avernus-part-6d-d-lulus-memories-legend-of-the-hellriders>
 
 - `src/content/posts/translations/alexandrian-remixing-avernus.mdx`
+
+## <https://thealexandrian.net/wordpress/45426/roleplaying-games/random-gm-tip-why-wilderness-encounters>
+
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 
 ## <https://thealexandrian.net/wordpress/45486/roleplaying-games/from-waterdeep-to-avernus>
 
@@ -6794,6 +7252,7 @@
 
 ## <https://thealexandrian.net/wordpress/45645/roleplaying-games/game-structure-the-festival>
 
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
 
 ## <https://thealexandrian.net/wordpress/45663/roleplaying-games/ptolus-running-the-campaign-diegetic-mechanics>
@@ -6840,6 +7299,10 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
+## <https://thealexandrian.net/wordpress/45878/roleplaying-games/game-structure-sector-crawl>
+
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
+
 ## <https://thealexandrian.net/wordpress/45883/roleplaying-games/remixing-avernus-part-6d-j-lulus-memories-claiming-the-sword>
 
 - `src/content/posts/translations/alexandrian-remixing-avernus.mdx`
@@ -6868,20 +7331,6 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
-## <https://thealexandrian.net/wordpress/46020/roleplaying-games/5e-hexcrawl>
-
-- `src/content/posts/translations/alexandrian-ask-21-open-table-tracking.mdx`
-- `src/content/posts/translations/alexandrian-ask-26-not-so-lost.mdx`
-- `src/content/posts/translations/alexandrian-framing-combat-encounters.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-6-hexcrawls.mdx`
-- `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
-- `src/content/posts/translations/alexandrian-managing-prep-load.mdx`
-- `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
-- `src/content/posts/translations/alexandrian-resting-in-the-dungeon.mdx`
-- `src/content/posts/translations/alexandrian-running-the-city.mdx`
-- `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
-- `src/content/posts/translations/alexandrian-whither-exploration.mdx`
-
 ## <https://thealexandrian.net/wordpress/46032/roleplaying-games/advanced-gamemastery-running-the-sandbox>
 
 - `src/content/posts/translations/alexandrian-review-legacy-crystal-shard.mdx`
@@ -6909,6 +7358,10 @@
 
 - `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
 
+## <https://thealexandrian.net/wordpress/46263/roleplaying-games/scenario-structure-challenge-6-innkeepers>
+
+- `src/content/posts/translations/alexandrian-scenario-structure-challenge-5-rpg-montage.mdx`
+
 ## <https://thealexandrian.net/wordpress/46271/roleplaying-games/remixing-avernus-addendum-dms-guild-reviews-rhodarin-avernus>
 
 - `src/content/posts/translations/alexandrian-remixing-avernus.mdx`
@@ -6925,6 +7378,7 @@
 
 ## <https://thealexandrian.net/wordpress/46338/roleplaying-games/random-gm-tips-making-clues>
 
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
 - `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
 
@@ -7058,6 +7512,7 @@
 
 ## <https://thealexandrian.net/wordpress/47215/roleplaying-games/some-brief-thoughts-on-campaign-structures>
 
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 - `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
 - `src/content/posts/translations/alexandrian-managing-prep-load.mdx`
 - `src/content/posts/translations/alexandrian-untested-5e-advanced-resting.mdx`
@@ -7166,6 +7621,10 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
+## <https://thealexandrian.net/wordpress/4811/roleplaying-games/better-dungeon-maps-part-1-opening-doors>
+
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
+
 ## <https://thealexandrian.net/wordpress/48122/roleplaying-games/remixing-avernus-fan-addendum-poisoned-poseidon-key-tominar>
 
 - `src/content/posts/translations/alexandrian-remixing-avernus.mdx`
@@ -7238,6 +7697,7 @@
 
 ## <https://thealexandrian.net/wordpress/48524/roleplaying-games/pointcrawl-addendum-depthcrawls>
 
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 - `src/content/posts/translations/alexandrian-review-gardens-of-ynn-stygian-library.mdx`
 
 ## <https://thealexandrian.net/wordpress/48566/roleplaying-games/remixing-avernus-addendum-3rd-party-resources>
@@ -7275,6 +7735,10 @@
 ## <https://thealexandrian.net/wordpress/48643/roleplaying-games/ptolus-running-the-campaign-the-undead-sequel>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+
+## <https://thealexandrian.net/wordpress/48666/roleplaying-games/pointcrawls>
+
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 
 ## <https://thealexandrian.net/wordpress/48805/roleplaying-games/in-the-shadow-of-the-spire-session-31a-kabel-in-hiding>
 
@@ -7454,6 +7918,14 @@
 - `src/content/posts/translations/alexandrian-low-stakes-tests.mdx`
 - `src/content/posts/translations/alexandrian-standoffs-surprise.mdx`
 
+## <https://thealexandrian.net/wordpress/50385/roleplaying-games/hexcrawl-running-sheets>
+
+- `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
+
+## <https://thealexandrian.net/wordpress/50458/roleplaying-games/quick-shots>
+
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
+
 ## <https://thealexandrian.net/wordpress/50530/roleplaying-games/in-the-shadow-of-the-spire-session-34a-in-the-dust-of-the-old-city>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
@@ -7538,6 +8010,10 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
+## <https://thealexandrian.net/wordpress/50822/roleplaying-games/random-gm-tip-what-are-you-looking-for>
+
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
+
 ## <https://thealexandrian.net/wordpress/50849/roleplaying-games/ptolus-running-the-campaign-group-chemistry>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
@@ -7588,6 +8064,7 @@
 
 ## <https://thealexandrian.net/wordpress/50940/roleplaying-games/random-gm-tip-rolling-behind-the-screen>
 
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 - `src/content/posts/translations/alexandrian-use-of-gm-screens.mdx`
 
 ## <https://thealexandrian.net/wordpress/50981/roleplaying-games/phandalin-hexmap>
@@ -7638,9 +8115,14 @@
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
 
+## <https://thealexandrian.net/wordpress/51221/roleplaying-games/hexcrawl-addendum-describing-travel>
+
+- `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
+
 ## <https://thealexandrian.net/wordpress/51231/roleplaying-games/hexcrawl-addendum-the-layered-hexcrawl>
 
 - `src/content/posts/translations/alexandrian-ask-21-open-table-tracking.mdx`
+- `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
 
 ## <https://thealexandrian.net/wordpress/51237/roleplaying-games/in-the-shadow-of-the-spire-session-39a-chamber-of-bone>
 
@@ -7665,6 +8147,10 @@
 ## <https://thealexandrian.net/wordpress/51265/roleplaying-games/ptolus-running-the-campaign-reputation>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+
+## <https://thealexandrian.net/wordpress/51374/roleplaying-games/mythos-revelations>
+
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 
 ## <https://thealexandrian.net/wordpress/51412/roleplaying-games/in-the-shadow-of-the-spire-session-40a-rats-of-kennel-brain>
 
@@ -7975,6 +8461,7 @@
 ## <https://thealexandrian.net/wordpress/53287/roleplaying-games/scenario-structure-7-hostage-rescue>
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-6-innkeepers.mdx`
+- `src/content/posts/translations/alexandrian-scenario-structure-challenge.mdx`
 
 ## <https://thealexandrian.net/wordpress/5597/roleplaying-games/better-dungeon-maps-7-the-monster-roster>
 
@@ -8072,6 +8559,7 @@
 ## <https://thealexandrian.net/wordpress/8171/roleplaying-games/advanced-node-based-design-part-1-moving-between-nodes>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-16-known-and-unknown.mdx`
+- `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 - `src/content/posts/translations/alexandrian-node-based-scenario-design-part-1-plotted-approach.mdx`
 - `src/content/posts/translations/alexandrian-review-ultraviolet-grasslands.mdx`
 
@@ -8227,10 +8715,6 @@
 
 - `src/content/posts/translations/alexandrian-encumbrance-by-stone-design-notes.mdx`
 
-## <https://thealexandrian.net?p=39885>
-
-- `src/content/posts/translations/alexandrian-scenario-structure-challenge-2-race-to-prize.mdx`
-
 ## <https://thealexandrian.net?p=39958>
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-1-raiding-death-star.mdx`
@@ -8238,10 +8722,6 @@
 ## <https://thealexandrian.net?p=4002>
 
 - `src/content/posts/translations/alexandrian-encumbrance-by-stone-design-notes.mdx`
-
-## <https://thealexandrian.net?p=40095>
-
-- `src/content/posts/translations/alexandrian-scenario-structure-challenge-2-race-to-prize.mdx`
 
 ## <https://thealexandrian.net?p=40143>
 
@@ -8280,10 +8760,6 @@
 
 - `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
-## <https://thealexandrian.net?p=44117>
-
-- `src/content/posts/translations/alexandrian-scenario-structure-challenge-4-heists.mdx`
-
 ## <https://thealexandrian.net?p=44137>
 
 - `src/content/posts/translations/alexandrian-kaostech.mdx`
@@ -8307,10 +8783,6 @@
 ## <https://thealexandrian.net?p=45636>
 
 - `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
-
-## <https://thealexandrian.net?p=46263>
-
-- `src/content/posts/translations/alexandrian-scenario-structure-challenge-5-rpg-montage.mdx`
 
 ## <https://thealexandrian.net?p=46479>
 
@@ -9436,10 +9908,6 @@
 
 - `src/content/posts/translations/creighton-gygax-on-preparing-modules.mdx`
 
-## <https://www.creightonbroadhurst.com/borderland-of-adventure>
-
-- `src/content/posts/translations/creighton-gygax-on-nature-and-variety-of-challenge.mdx`
-
 ## <https://www.creightonbroadhurst.com/borderland-of-adventure-41-a-close-run-thing>
 
 - `src/content/posts/translations/creighton-gygax-on-nature-and-variety-of-challenge.mdx`
@@ -10514,6 +10982,10 @@
 ## <https://www.reddit.com/r/AskHistorians/comments/7rdgm4/how_accurate_is_the_depiction_of_spartan_hoplite>
 
 - `src/content/posts/translations/acoup-universal-warrior-part-i.mdx`
+
+## <https://www.reddit.com/r/AskHistorians/comments/8g1s7n/im_a_knight_in_the_medeival_era_ive_just_charged/dy9ba21>
+
+- `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`
 
 ## <https://www.reddit.com/r/AskHistorians/comments/rqxa0t/did_medieval_archers_fire_in_volleys>
 
