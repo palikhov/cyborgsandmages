@@ -1508,6 +1508,10 @@
 
 - `src/content/posts/translations/delta-armor-costs.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0545139708/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-flashback-visions.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0618640150/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge.mdx`
@@ -3646,6 +3650,10 @@
 ## <https://comicbook.com/gaming/2019/05/20/dungeons-and-dragons-eberron-hardcover-2019>
 
 - `src/content/posts/translations/tribality-artificer-class-part-one.mdx`
+
+## <https://commons.wikimedia.org/w/index.php?title=File%3AGdansk_Katownia_kajdany.jpg>
+
+- `src/content/posts/translations/alexandrian-ptolus-listening-to-cleromancy.mdx`
 
 ## <https://commons.wikimedia.org/w/index.php?title=File%3AGirl_Guides_Uniform_Canada_circa_1987_%288203493766%29.jpg>
 
@@ -6057,6 +6065,7 @@
 
 - `src/content/posts/translations/alexandrian-ask-9-advanced-rulings-5e.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-listening-to-cleromancy.mdx`
 - `src/content/posts/translations/alexandrian-rulings-in-practice-gathering-information.mdx`
 
 ## <https://thealexandrian.net/wordpress/38570/roleplaying-games/art-of-rulings-10-fortune-positioning>
@@ -6135,15 +6144,12 @@
 ## <https://thealexandrian.net/wordpress/39390/roleplaying-games/in-the-shadow-of-the-spire-session-7b-blood-in-the-depths>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-thus-endeth-the-campaign.mdx`
 
 ## <https://thealexandrian.net/wordpress/39402/roleplaying-games/in-the-shadow-of-the-spire-session-7a-the-aristocrats-table>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-secret-campaign-journal.mdx`
-
-## <https://thealexandrian.net/wordpress/39423/roleplaying-games/ptolus-running-the-campaign-thus-endeth-the-campaign>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/39430/roleplaying-games/art-of-rulings-14-group-actions>
 
@@ -6152,24 +6158,18 @@
 ## <https://thealexandrian.net/wordpress/39469/roleplaying-games/in-the-shadow-of-the-spire-interlude-visions-on-the-edge-of-the-void>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/39473/roleplaying-games/ptolus-running-the-campaign-flashback-visions>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-flashback-visions.mdx`
 
 ## <https://thealexandrian.net/wordpress/39498/roleplaying-games/in-the-shadow-of-the-spire-session-8a-waking-in-chains>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-listening-to-cleromancy.mdx`
 
 ## <https://thealexandrian.net/wordpress/39506/roleplaying-games/in-the-shadow-of-the-spire-character-background-tor>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/39511/roleplaying-games/in-the-shadow-of-the-spire-session-8b-meeting-tor>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/39521/roleplaying-games/ptolus-running-the-campaign-listening-to-the-cleromancy>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
