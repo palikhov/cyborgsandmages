@@ -1547,6 +1547,7 @@
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1588467899/digitalcomi0a-20>
 
+- `src/content/posts/translations/alexandrian-ptolus-emergent-character-traits.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-high-level-intimidations-and-intimations.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-rolling-for-npcs.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-session-9-miscellanea.mdx`
@@ -3660,6 +3661,10 @@
 ## <https://comicbook.com/gaming/2019/05/20/dungeons-and-dragons-eberron-hardcover-2019>
 
 - `src/content/posts/translations/tribality-artificer-class-part-one.mdx`
+
+## <https://commons.wikimedia.org/w/index.php?title=File%3ABundesarchiv_B_145_Bild-F001941-0003%2C_N%C3%BCrnberg%2C_Germanisches_Nationalmuseum.jpg>
+
+- `src/content/posts/translations/alexandrian-ptolus-treasure-with-context.mdx`
 
 ## <https://commons.wikimedia.org/w/index.php?title=File%3AGdansk_Katownia_kajdany.jpg>
 
@@ -6213,10 +6218,12 @@
 ## <https://thealexandrian.net/wordpress/39699/roleplaying-games/in-the-shadow-of-the-spire-session-10b-retreat-to-the-surface>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-emergent-character-traits.mdx`
 
 ## <https://thealexandrian.net/wordpress/39706/roleplaying-games/in-the-shadow-of-the-spire-session-10c-back-to-the-labyrinths>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-treasure-with-context.mdx`
 
 ## <https://thealexandrian.net/wordpress/39709/roleplaying-games/in-the-shadow-of-the-spire-session-10d-clan-of-the-torn-ear>
 
@@ -6236,10 +6243,6 @@
 - `src/content/posts/translations/alexandrian-eternal-lies-remix.mdx`
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 
-## <https://thealexandrian.net/wordpress/39759/roleplaying-games/ptolus-running-the-campaign-emergent-character-traits>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/39768/roleplaying-games/infinity-rpg-system-cheat-sheet>
 
 - `src/content/posts/translations/alexandrian-adaptation-reincorporation.mdx`
@@ -6247,10 +6250,6 @@
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-3-mcguffin-keep-away.mdx`
 - `src/content/posts/translations/alexandrian-standoffs-surprise.mdx`
 - `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
-
-## <https://thealexandrian.net/wordpress/39772/roleplaying-games/ptolus-running-the-campaign-treasure-with-context>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/39814/roleplaying-games/ptolus-running-the-campaign-prepping-situations-is-cool>
 
@@ -8473,6 +8472,7 @@
 ## <https://thealexandrian.net/wordpress/7223/roleplaying-games/101-curious-items-part-1>
 
 - `src/content/posts/translations/alexandrian-pineappling.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-treasure-with-context.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-enigma.mdx`
 
 ## <https://thealexandrian.net/wordpress/7401/roleplaying-games/legends-labyrinths-sidebar-reference-system-srs>

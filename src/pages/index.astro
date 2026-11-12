@@ -185,7 +185,10 @@ const projects = [
 					<p class="text-sm font-semibold uppercase tracking-wide text-brand-gold">Новое</p>
 					<h2 class="font-serif text-3xl font-bold text-brand-ivory">Последние материалы</h2>
 				</div>
-				<a href="/articles/1" class="text-sm font-semibold text-brand-wave hover:text-brand-gold">Архив статей</a>
+				<div class="flex flex-wrap gap-x-4 gap-y-2 text-sm font-semibold">
+					<a href="/articles/1" class="text-brand-wave hover:text-brand-gold">Архив статей</a>
+					<a href="/random-article" class="text-brand-wave hover:text-brand-gold"><span aria-hidden="true">🎲</span> Случайная статья</a>
+				</div>
 			</div>
 			<div class="space-y-6">
 				{latestPosts.map((post) => <PostCard post={post} />)}
