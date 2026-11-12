@@ -1542,6 +1542,7 @@
 
 ## <http://www.amazon.com/exec/obidos/ASIN/081331951X/digitalcomi0a-20>
 
+- `src/content/posts/translations/alexandrian-ptolus-dynamic-terrain.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-simple-simulationist-tactics-half-across-the-river.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/0880388595/digitalcomi0a-20>
@@ -1570,11 +1571,16 @@
 - `src/content/posts/translations/alexandrian-ptolus-prepping-situations-is-cool.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-rolling-for-npcs.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-session-9-miscellanea.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-tavern-time.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1588469484/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
 - `src/content/posts/translations/alexandrian-hexcrawl.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/158978152X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-dynamic-terrain.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1601252293/digitalcomi0a-20>
 
@@ -1630,6 +1636,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B0042SSUS0/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-eternal-lies-remix.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B07731LM4G/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-unsolved-mysteries.mdx`
 
 ## <http://www.amazon.com/gp/product/0786916400/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786916400&linkCode=as2&tag=ragswapre07-20&linkId=3I2SNSM3NNRYKSRQ>
 
@@ -2349,6 +2359,10 @@
 ## <http://www.drivethrurpg.com/product/12469/Ptolus-Sketchbook-Vol-2Temple-district?affiliate_id=81207&>
 
 - `src/content/posts/translations/alexandrian-ptolus-gray-spaces-in-world-design.mdx`
+
+## <http://www.drivethrurpg.com/product/170689/Blades-in-the-Dark?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-ptolus-adventure-from-gear-management.mdx`
 
 ## <http://www.drivethrurpg.com/product/19507/Champions-5th-Edition-PDF?affiliate_id=81207>
 
@@ -3714,9 +3728,25 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-running-gags.mdx`
 
+## <https://commons.wikimedia.org/w/index.php?title=File%3AZakariya_ibn_Muhammad_Qazwini_-_A_Wolf.jpg>
+
+- `src/content/posts/translations/alexandrian-ptolus-whoops-forgot-the-wolf.mdx`
+
 ## <https://commons.wikimedia.org/wiki/File:Barcelona_2016-275%2Ejpg>
 
 - `src/content/posts/translations/alexandrian-ptolus-simple-simulationist-tactics-half-across-the-river.mdx`
+
+## <https://commons.wikimedia.org/wiki/File:Joey_Hunter_Abts%2EJPG>
+
+- `src/content/posts/translations/alexandrian-ptolus-kill-the-dog.mdx`
+
+## <https://commons.wikimedia.org/wiki/File:Self-operating_napkin_(Rube_Goldberg_cartoon_with_caption)%2Ejpg>
+
+- `src/content/posts/translations/alexandrian-ptolus-dynamic-terrain.mdx`
+
+## <https://commons.wikimedia.org/wiki/File:Windmill_5243862712_4e732973c7_o%2Ejpg>
+
+- `src/content/posts/translations/alexandrian-ptolus-adventure-from-gear-management.mdx`
 
 ## <https://core20rpg.wordpress.com>
 
@@ -4401,6 +4431,10 @@
 ## <https://en.wikipedia.org/wiki/Angevin_Empire>
 
 - `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`
+
+## <https://en.wikipedia.org/wiki/Battle_of_Cannae>
+
+- `src/content/posts/translations/alexandrian-ptolus-dynamic-terrain.mdx`
 
 ## <https://en.wikipedia.org/wiki/Bertran_de_Born>
 
@@ -5746,6 +5780,10 @@
 - `src/content/posts/translations/alexandrian-strip-mining-adventure-modules.mdx`
 - `src/content/posts/translations/alexandrian-xandering-the-dungeon-part-4-xandering-the-keep-on-the-shadowfell.mdx`
 
+## <https://thealexandrian.net/wordpress/1977/roleplaying-games/the-end-of-the-ooze-lord>
+
+- `src/content/posts/translations/alexandrian-ptolus-behind-the-tale-of-itarek.mdx`
+
 ## <https://thealexandrian.net/wordpress/1997/roleplaying-games/playtesting-4th-edition-part-9-dd-is-dead-long-live-4th-edition>
 
 - `src/content/posts/translations/alexandrian-dd-word-clouds.mdx`
@@ -5842,6 +5880,7 @@
 
 ## <https://thealexandrian.net/wordpress/2610/roleplaying-games/reactions-to-odd-the-ur-game>
 
+- `src/content/posts/translations/alexandrian-ptolus-antecedent-magic.mdx`
 - `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net/wordpress/2619/roleplaying-games/odd-in-the-caverns-of-thracia-part-1-character-creation>
@@ -5981,6 +6020,7 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-behind-the-tale-of-itarek.mdx`
 
 ## <https://thealexandrian.net/wordpress/37055/roleplaying-games/ex-rpgnet-review-three-days-to-kill>
 
@@ -6272,6 +6312,7 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-treasure-with-context.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-unsolved-mysteries.mdx`
 
 ## <https://thealexandrian.net/wordpress/39709/roleplaying-games/in-the-shadow-of-the-spire-session-10d-clan-of-the-torn-ear>
 
@@ -6306,6 +6347,7 @@
 ## <https://thealexandrian.net/wordpress/39840/roleplaying-games/in-the-shadow-of-the-spire-session-11b-garden-of-the-sickstone-elementals>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-dynamic-terrain.mdx`
 
 ## <https://thealexandrian.net/wordpress/39846/roleplaying-games/in-the-shadow-of-the-spire-session-11c-a-weary-twilight>
 
@@ -6332,6 +6374,7 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-managing-supporting-cast.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-tavern-time.mdx`
 
 ## <https://thealexandrian.net/wordpress/40029/roleplaying-games/in-the-shadow-of-the-spire-session-12b-a-party-at-castle-shard>
 
@@ -6383,21 +6426,9 @@
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
 - `src/content/posts/translations/alexandrian-storm-kings-remix-part-5d-making-alliances.mdx`
 
-## <https://thealexandrian.net/wordpress/40437/roleplaying-games/ptolus-running-the-campaign-dynamic-terrain>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/40459/roleplaying-games/random-gm-tip-learning-a-new-rpg>
 
 - `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
-
-## <https://thealexandrian.net/wordpress/40464/roleplaying-games/ptolus-running-the-campaign-behind-the-tale-of-itarek>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/40479/roleplaying-games/ptolus-running-the-campaign-kill-the-dog>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/40562/roleplaying-games/blades-in-the-dark-crew-mission-type-tables>
 
@@ -6419,26 +6450,9 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
-## <https://thealexandrian.net/wordpress/40595/roleplaying-games/ptolus-running-the-campaign-adventure-from-gear-management>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/40605/roleplaying-games/ptolus-running-the-campaign-antecedent-magic>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/40610/roleplaying-games/the-dreaming-arts>
 
 - `src/content/posts/translations/alexandrian-wondrous-landscapes-7-mystic-mountains.mdx`
-
-## <https://thealexandrian.net/wordpress/40688/roleplaying-games/ptolus-running-the-campaign-dungeon-sequencing>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/40692/roleplaying-games/ptolus-running-the-campaign-whoops-forgot-the-wolf>
-
-- `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/40712/roleplaying-games/infinity-a-list-of-names>
 
@@ -6454,16 +6468,6 @@
 
 ## <https://thealexandrian.net/wordpress/40746/roleplaying-games/in-the-shadow-of-the-spire-session-15c-the-taint-of-ghul>
 
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/40752/roleplaying-games/ptolus-running-the-campaign-unsolved-mysteries>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-- `src/content/posts/translations/alexandrian-running-mysteries-enigma.mdx`
-
-## <https://thealexandrian.net/wordpress/40758/roleplaying-games/ptolus-running-the-campaign-tavern-time>
-
-- `src/content/posts/translations/alexandrian-campaign-status-supporting-cast.mdx`
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/40767/roleplaying-games/ptolus-running-the-campaign-developing-taint>
@@ -8486,6 +8490,7 @@
 
 - `src/content/posts/translations/alexandrian-pineappling.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-treasure-with-context.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-unsolved-mysteries.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-enigma.mdx`
 
 ## <https://thealexandrian.net/wordpress/7401/roleplaying-games/legends-labyrinths-sidebar-reference-system-srs>
@@ -8686,6 +8691,7 @@
 
 ## <https://thealexandrian.net?p=39709>
 
+- `src/content/posts/translations/alexandrian-ptolus-dungeon-sequencing.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-prepping-situations-is-cool.mdx`
 
 ## <https://thealexandrian.net?p=3975>
@@ -8736,9 +8742,45 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-simple-simulationist-tactics-half-across-the-river.mdx`
 
+## <https://thealexandrian.net?p=40355>
+
+- `src/content/posts/translations/alexandrian-ptolus-dynamic-terrain.mdx`
+
+## <https://thealexandrian.net?p=40356>
+
+- `src/content/posts/translations/alexandrian-ptolus-behind-the-tale-of-itarek.mdx`
+
+## <https://thealexandrian.net?p=40359>
+
+- `src/content/posts/translations/alexandrian-ptolus-kill-the-dog.mdx`
+
 ## <https://thealexandrian.net?p=40495>
 
 - `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
+
+## <https://thealexandrian.net?p=40569>
+
+- `src/content/posts/translations/alexandrian-ptolus-adventure-from-gear-management.mdx`
+
+## <https://thealexandrian.net?p=40574>
+
+- `src/content/posts/translations/alexandrian-ptolus-antecedent-magic.mdx`
+
+## <https://thealexandrian.net?p=40581>
+
+- `src/content/posts/translations/alexandrian-ptolus-dungeon-sequencing.mdx`
+
+## <https://thealexandrian.net?p=40587>
+
+- `src/content/posts/translations/alexandrian-ptolus-whoops-forgot-the-wolf.mdx`
+
+## <https://thealexandrian.net?p=40734>
+
+- `src/content/posts/translations/alexandrian-ptolus-unsolved-mysteries.mdx`
+
+## <https://thealexandrian.net?p=40738>
+
+- `src/content/posts/translations/alexandrian-ptolus-tavern-time.mdx`
 
 ## <https://thealexandrian.net?p=41025>
 
@@ -10357,6 +10399,10 @@
 
 - `src/content/posts/translations/garys-appendix-10-hells.mdx`
 
+## <https://www.drivethrurpg.com/product/12215/Ptolus-Adventure-Maps-The-Ghostly-Minstrel?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-ptolus-tavern-time.mdx`
+
 ## <https://www.drivethrurpg.com/product/123202/Castle-of-the-Mad-Archmage-Adventure-Book?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-the-day-the-old-school-died.mdx`
@@ -10441,6 +10487,10 @@
 ## <https://www.drivethrurpg.com/product/24384/Basic-Roleplaying>
 
 - `src/content/posts/translations/dmdavid-five-game-mastering-blunders.mdx`
+
+## <https://www.drivethrurpg.com/product/24802/Ptolus-Monte-Cooks-City-By-The-Spire-Ptolus-Core?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-ptolus-tavern-time.mdx`
 
 ## <https://www.drivethrurpg.com/product/257113/The-Stygian-Library?affiliate_id=81207>
 
@@ -10566,6 +10616,10 @@
 ## <https://www.drivethrurpg.com/product/64332/Labyrinth-Lord-Revised-Edition>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
+
+## <https://www.drivethrurpg.com/product/680/Chaositech?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-ptolus-unsolved-mysteries.mdx`
 
 ## <https://www.drivethrurpg.com/product/691/Fields-of-Blood-The-Book-of-War?affiliate_id=81207>
 

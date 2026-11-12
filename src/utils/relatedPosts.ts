@@ -1,6 +1,13 @@
 import type { CollectionEntry } from "astro:content";
 
 type Post = CollectionEntry<"posts">;
+type Candidate = {
+	entry: Post;
+	author: string;
+	series: string;
+	score: number;
+	sharedTopics: Map<string, number>;
+};
 
 const formatTags = new Set(["перевод", "переклад"]);
 const authorAliases = new Map([
@@ -22,6 +29,7 @@ export function createRelatedPostLookup(posts: Post[], now = new Date()) {
 	const authorNames = new Set(posts.map((post) => normalizeAuthor(post.data.author)));
 	const topicsByPost = new Map<Post, Set<string>>();
 	const postsByTopic = new Map<string, Post[]>();
+	const published = new Set<Post>();
 
 	for (const post of posts) {
 		const topics = new Set(
@@ -31,6 +39,7 @@ export function createRelatedPostLookup(posts: Post[], now = new Date()) {
 		);
 		topicsByPost.set(post, topics);
 		if (post.data.draft || !(post.data.date <= now)) continue;
+		published.add(post);
 
 		for (const topic of topics) {
 			const matches = postsByTopic.get(topic);
@@ -39,10 +48,81 @@ export function createRelatedPostLookup(posts: Post[], now = new Date()) {
 		}
 	}
 
-	return (post: Post) => getRelatedPosts(post, topicsByPost.get(post) ?? [], postsByTopic);
+	// Seed every first slot before balancing the remaining slots across the catalog.
+	const selections = new Map<Post, Candidate[]>();
+	const appearances = new Map<Post, number>();
+	const pools = [...topicsByPost]
+		.sort(([a], [b]) => a.slug.localeCompare(b.slug))
+		.map(([post, topics]) => ({ post, candidates: getCandidates(post, topics, postsByTopic) }));
+
+	for (const { post, candidates } of pools) {
+		selections.set(post, []);
+		const first = candidates.shift();
+		if (first) addRecommendation(post, first);
+	}
+
+	for (const slot of [1, 2]) {
+		for (const { post, candidates } of pools) {
+			if (published.has(post) && candidates.length > 0) selectRecommendation(post, candidates, slot === 2);
+		}
+	}
+	for (const { post, candidates } of pools) {
+		if (published.has(post)) continue;
+		if (candidates.length > 0) selectRecommendation(post, candidates, false);
+		if (candidates.length > 0) selectRecommendation(post, candidates, true);
+	}
+
+	return (post: Post) => (selections.get(post) ?? []).map(({ entry: { slug, id, data } }) => ({
+		slug,
+		category: id.split("/")[0],
+		title: data.title,
+		description: data.description,
+		cover: data.cover
+	}));
+
+	function addRecommendation(post: Post, candidate: Candidate) {
+		selections.get(post)!.push(candidate);
+		if (published.has(post)) {
+			appearances.set(candidate.entry, (appearances.get(candidate.entry) ?? 0) + 1);
+		}
+	}
+
+	function selectRecommendation(post: Post, candidates: Candidate[], lastSlot: boolean) {
+		const selected = selections.get(post)!;
+		const coveredTopics = new Set(selected.flatMap(({ sharedTopics }) => [...sharedTopics.keys()]));
+		const minimumRelevance = candidates[0].score * 0.55;
+		let bestIndex = 0;
+		let bestRank = -Infinity;
+
+		for (const [index, candidate] of candidates.entries()) {
+			if (candidate.score < minimumRelevance) break;
+			let newTopicWeight = 0;
+			for (const [topic, weight] of candidate.sharedTopics) {
+				if (!coveredTopics.has(topic)) newTopicWeight += weight;
+			}
+			const knownAuthor = candidate.author && candidate.author !== "unknown";
+			const repeatsAuthor = knownAuthor && selected.some(({ author }) => author === candidate.author);
+			const repeatsSeries = selected.some(({ series }) => series === candidate.series);
+			const reciprocal = selections.get(candidate.entry)?.some(({ entry }) => entry === post);
+			const exposure = appearances.get(candidate.entry) ?? 0;
+			const exposurePenalty = (lastSlot ? 0.50 : 0.30) * exposure / (exposure + 3);
+			const penalty = exposurePenalty
+				+ (repeatsAuthor ? 0.15 : 0)
+				+ (repeatsSeries ? 0.20 : 0)
+				+ (reciprocal ? 0.28 : 0);
+			const rank = candidate.score * Math.max(0.15, 1 - penalty) + (lastSlot ? 0.40 : 0.20) * newTopicWeight;
+			if (rank > bestRank) {
+				bestIndex = index;
+				bestRank = rank;
+			}
+		}
+
+		const [candidate] = candidates.splice(bestIndex, 1);
+		addRecommendation(post, candidate);
+	}
 }
 
-function getRelatedPosts(post: Post, topics: Iterable<string>, postsByTopic: Map<string, Post[]>) {
+function getCandidates(post: Post, topics: Iterable<string>, postsByTopic: Map<string, Post[]>): Candidate[] {
 	const scores = new Map<Post, { score: number; sharedTopics: Map<string, number> }>();
 	const sourceAuthor = normalizeAuthor(post.data.author);
 
@@ -64,7 +144,7 @@ function getRelatedPosts(post: Post, topics: Iterable<string>, postsByTopic: Map
 		}
 	}
 
-	const candidates = [...scores]
+	return [...scores]
 		.map(([entry, { score, sharedTopics }]) => {
 			const author = normalizeAuthor(entry.data.author);
 			// Recognize numbered series from slugs without requiring new frontmatter.
@@ -77,44 +157,5 @@ function getRelatedPosts(post: Post, topics: Iterable<string>, postsByTopic: Map
 			b.entry.data.date.getTime() - a.entry.data.date.getTime() ||
 			a.entry.slug.localeCompare(b.entry.slug)
 		)
-		.slice(0, 12);
-
-	const selected: Post[] = [];
-	const coveredTopics = new Set<string>();
-	const selectedAuthors = new Set<string>();
-	const selectedSeries = new Set<string>();
-
-	while (selected.length < 3 && candidates.length > 0) {
-		let bestIndex = 0;
-		if (selected.length > 0) {
-			let bestScore = -Infinity;
-			for (const [index, candidate] of candidates.entries()) {
-				let newTopicWeight = 0;
-				for (const [topic, weight] of candidate.sharedTopics) {
-					if (!coveredTopics.has(topic)) newTopicWeight += weight;
-				}
-				const authorPenalty = selectedAuthors.has(candidate.author) ? 0.15 * candidate.score : 0;
-				const seriesPenalty = selectedSeries.has(candidate.series) ? 0.20 * candidate.score : 0;
-				const rank = candidate.score + 0.20 * newTopicWeight - authorPenalty - seriesPenalty;
-				if (rank > bestScore) {
-					bestIndex = index;
-					bestScore = rank;
-				}
-			}
-		}
-
-		const [candidate] = candidates.splice(bestIndex, 1);
-		selected.push(candidate.entry);
-		for (const topic of candidate.sharedTopics.keys()) coveredTopics.add(topic);
-		if (candidate.author && candidate.author !== "unknown") selectedAuthors.add(candidate.author);
-		selectedSeries.add(candidate.series);
-	}
-
-	return selected.map(({ slug, id, data }) => ({
-		slug,
-		category: id.split("/")[0],
-		title: data.title,
-		description: data.description,
-		cover: data.cover
-	}));
+		.slice(0, 24);
 }
