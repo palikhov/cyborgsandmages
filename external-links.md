@@ -1171,6 +1171,10 @@
 
 - `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
 
+## <http://rpg.drivethrustuff.com/product/50454/MiniAdventure-2-The-Black-Mist>
+
+- `src/content/posts/translations/alexandrian-ptolus-custom-game-structures.mdx`
+
 ## <http://rpg.drivethrustuff.com/product_info.php?products_id=134580>
 
 - `src/content/posts/translations/detect-magic-hoard-dragon-queen-cultist-generator.mdx`
@@ -2656,6 +2660,10 @@
 
 - `src/content/posts/translations/dmdavid-brilliance-of-unrealistic-hit-points.mdx`
 
+## <http://www.nbos.com/products/screenmonkey/screenmonkey-features.htm>
+
+- `src/content/posts/translations/alexandrian-ptolus-electronic-game-table.mdx`
+
 ## <http://www.necropraxis.com/2013/12/07/improved-area-keys>
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-2-essential-key.mdx`
@@ -3638,6 +3646,10 @@
 ## <https://comicbook.com/gaming/2019/05/20/dungeons-and-dragons-eberron-hardcover-2019>
 
 - `src/content/posts/translations/tribality-artificer-class-part-one.mdx`
+
+## <https://commons.wikimedia.org/w/index.php?title=File%3APiratas_de_la_America_-_Pirates_of_America_-_Antique_Book_in_General_Archive_of_the_Indies_-_Seville_-_Spain.jpg&uselang=ru>
+
+- `src/content/posts/translations/alexandrian-ptolus-deciphering-scripts.mdx`
 
 ## <https://core20rpg.wordpress.com>
 
@@ -5543,21 +5555,16 @@
 
 - `src/content/posts/translations/alexandrian-bringing-the-pcs-together.mdx`
 
-## <https://thealexandrian.net/wordpress/11984/roleplaying-games/ptolus-running-the-campaign-between-the-sessions>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/11985/roleplaying-games/in-the-shadow-of-the-spire-session-2a-welcome-to-ptolus>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-between-sessions.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-foreshadowing-encounters.mdx`
 
 ## <https://thealexandrian.net/wordpress/11988/roleplaying-games/in-the-shadow-of-the-spire-session-2b-a-woman-assaulted>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/12023/roleplaying-games/ptolus-running-the-campaign-foreshadowing-encounters>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-foreshadowing-encounters.mdx`
 
 ## <https://thealexandrian.net/wordpress/12094/roleplaying-games/thought-of-the-day-history-of-rpg-mechanical-design>
 
@@ -5953,6 +5960,7 @@
 ## <https://thealexandrian.net/wordpress/37399/roleplaying-games/eternal-lies-ethiopia>
 
 - `src/content/posts/translations/alexandrian-eternal-lies-remix.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-custom-game-structures.mdx`
 
 ## <https://thealexandrian.net/wordpress/37406/roleplaying-games/eternal-lies-the-obelisk-of-axum>
 
@@ -6021,18 +6029,12 @@
 ## <https://thealexandrian.net/wordpress/38341/roleplaying-games/in-the-shadow-of-the-spire-session-3a-on-the-murderers-trail>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-custom-game-structures.mdx`
 
 ## <https://thealexandrian.net/wordpress/38348/roleplaying-games/in-the-shadow-of-the-spire-session-3b-questioning-cran>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/38355/roleplaying-games/ptolus-running-the-campaign-custom-game-structures>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/38393/roleplaying-games/ptolus-running-the-campaign-deciphering-scripts>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-deciphering-scripts.mdx`
 
 ## <https://thealexandrian.net/wordpress/38416/roleplaying-games/in-the-shadow-of-the-spire-session-4a-riot-in-oldtown>
 
@@ -8542,10 +8544,7 @@
 ## <https://thealexandrian.net/wordpress/8335/roleplaying-games/in-the-shadow-of-the-spire-session-1d-the-common-room-at-night>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/8344/roleplaying-games/ptolus-running-the-campaign-electronic-game-table>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-electronic-game-table.mdx`
 
 ## <https://thealexandrian.net/wordpress/8409/roleplaying-games/rpgnet-reviews-heavy-gear-second-edition-rulebook-into-the-eye-of-the-storm>
 
