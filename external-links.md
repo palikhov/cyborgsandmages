@@ -1171,6 +1171,10 @@
 
 - `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
 
+## <http://rpg.drivethrustuff.com/product/28409/MiniAdventure-1-The-Complex-of-Zombies?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-ptolus-prepping-situations-is-cool.mdx`
+
 ## <http://rpg.drivethrustuff.com/product/50454/MiniAdventure-2-The-Black-Mist>
 
 - `src/content/posts/translations/alexandrian-ptolus-custom-game-structures.mdx`
@@ -1549,6 +1553,7 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-emergent-character-traits.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-high-level-intimidations-and-intimations.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-prepping-situations-is-cool.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-rolling-for-npcs.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-session-9-miscellanea.mdx`
 
@@ -1582,6 +1587,10 @@
 
 - `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
 - `src/content/posts/translations/alexandrian-hexcrawl.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000VS28UQ/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-prepping-situations-is-cool.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B0014WJYOG/digitalcomi0a-20>
 
@@ -6109,6 +6118,7 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-guaranteeing-failure.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-prepping-situations-is-cool.mdx`
 
 ## <https://thealexandrian.net/wordpress/38823/roleplaying-games/eclipse-phase-psi-chosis>
 
@@ -6250,11 +6260,6 @@
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-3-mcguffin-keep-away.mdx`
 - `src/content/posts/translations/alexandrian-standoffs-surprise.mdx`
 - `src/content/posts/translations/alexandrian-using-revelation-lists.mdx`
-
-## <https://thealexandrian.net/wordpress/39814/roleplaying-games/ptolus-running-the-campaign-prepping-situations-is-cool>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-- `src/content/posts/translations/alexandrian-secret-life-of-nodes-part-2-node-based-campaigns.mdx`
 
 ## <https://thealexandrian.net/wordpress/39834/roleplaying-games/in-the-shadow-of-the-spire-session-11a-into-the-caverns-of-the-ooze-lord>
 
@@ -8559,6 +8564,7 @@
 ## <https://thealexandrian.net/wordpress/991/roleplaying-games/tales-from-the-table-unexpected-successes>
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-prepping-situations-is-cool.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-session-9-miscellanea.mdx`
 
 ## <https://thealexandrian.net/wordpress/tag/advanced-d20-rules>
@@ -8665,6 +8671,10 @@
 ## <https://thealexandrian.net?p=3967>
 
 - `src/content/posts/translations/alexandrian-encumbrance-by-stone-design-notes.mdx`
+
+## <https://thealexandrian.net?p=39709>
+
+- `src/content/posts/translations/alexandrian-ptolus-prepping-situations-is-cool.mdx`
 
 ## <https://thealexandrian.net?p=3975>
 

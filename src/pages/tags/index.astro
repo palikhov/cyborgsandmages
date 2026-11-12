@@ -1,13 +1,15 @@
 ---
+import { readFileSync } from "node:fs";
 import BaseLayout from "~layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
-import tagRegistry from "../../../tag-system.md?raw";
+
+const tagRegistry = readFileSync("tag-system.md", "utf8");
 
 const allPosts = await getCollection("posts");
 const now = new Date();
 const counts = new Map<string, number>();
 for (const { data } of allPosts) {
-	if (data.draft || !(data.date <= now)) continue;
+	if (data.draft || !(new Date(data.date) <= now)) continue;
 	for (const tag of new Set(data.tags)) {
 		counts.set(tag, (counts.get(tag) ?? 0) + 1);
 	}
