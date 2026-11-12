@@ -6039,24 +6039,19 @@
 ## <https://thealexandrian.net/wordpress/38416/roleplaying-games/in-the-shadow-of-the-spire-session-4a-riot-in-oldtown>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-mob-rule-fear-railroads.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-role-of-campaign-journal.mdx`
 
 ## <https://thealexandrian.net/wordpress/38419/roleplaying-games/in-the-shadow-of-the-spire-session-4b-research-and-developments>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/38425/roleplaying-games/ptolus-running-the-campaign-mob-rule-and-the-fear-of-railroads>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-role-of-campaign-journal.mdx`
 
 ## <https://thealexandrian.net/wordpress/38466/roleplaying-games/art-of-rulings-part-9-narrating-outcome>
 
 - `src/content/posts/translations/alexandrian-ask-9-advanced-rulings-5e.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
 - `src/content/posts/translations/alexandrian-rulings-in-practice-gathering-information.mdx`
-
-## <https://thealexandrian.net/wordpress/38471/roleplaying-games/ptolus-running-the-campaign-the-role-of-a-campaign-journal>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/38570/roleplaying-games/art-of-rulings-10-fortune-positioning>
 
@@ -6083,10 +6078,7 @@
 ## <https://thealexandrian.net/wordpress/38703/roleplaying-games/in-the-shadow-of-the-spire-session-5-the-trouble-with-goblins>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/38709/roleplaying-games/ptolus-running-the-campaign-guaranteeing-failure>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-guaranteeing-failure.mdx`
 
 ## <https://thealexandrian.net/wordpress/38823/roleplaying-games/eclipse-phase-psi-chosis>
 
@@ -6127,12 +6119,9 @@
 ## <https://thealexandrian.net/wordpress/39311/roleplaying-games/in-the-shadow-of-the-spire-session-6a-blood-in-the-depths>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-from-table-to-page.mdx`
 
 ## <https://thealexandrian.net/wordpress/39316/roleplaying-games/in-the-shadow-of-the-spire-session-6b-return-to-the-depths>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/39322/roleplaying-games/ptolus-running-the-campaign-from-table-to-page>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -10427,6 +10416,7 @@
 ## <https://www.drivethrurpg.com/product/28409/MiniAdventure-1-The-Complex-of-Zombies?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-from-table-to-page.mdx`
 
 ## <https://www.drivethrurpg.com/product/28409/MiniAdventure-1-The-Complex-of-Zombies?affiliate_id=81207&>
 
