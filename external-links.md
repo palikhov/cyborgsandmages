@@ -1561,6 +1561,8 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-emergent-character-traits.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-high-level-intimidations-and-intimations.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-managing-supporting-cast.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-party-planning-in-actual-play.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-prepping-situations-is-cool.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-rolling-for-npcs.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-session-9-miscellanea.mdx`
@@ -6191,6 +6193,7 @@
 ## <https://thealexandrian.net/wordpress/39390/roleplaying-games/in-the-shadow-of-the-spire-session-7b-blood-in-the-depths>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-party-planning-in-actual-play.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-thus-endeth-the-campaign.mdx`
 
 ## <https://thealexandrian.net/wordpress/39402/roleplaying-games/in-the-shadow-of-the-spire-session-7a-the-aristocrats-table>
@@ -6315,10 +6318,12 @@
 ## <https://thealexandrian.net/wordpress/40025/roleplaying-games/in-the-shadow-of-the-spire-session-12a-awkward-introductions>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-managing-supporting-cast.mdx`
 
 ## <https://thealexandrian.net/wordpress/40029/roleplaying-games/in-the-shadow-of-the-spire-session-12b-a-party-at-castle-shard>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-party-planning-in-actual-play.mdx`
 
 ## <https://thealexandrian.net/wordpress/40034/roleplaying-games/in-the-shadow-of-the-spire-session-12c-to-the-aid-of-goblins>
 
@@ -6328,10 +6333,6 @@
 
 - `src/content/posts/translations/alexandrian-music-in-roleplaying-games.mdx`
 
-## <https://thealexandrian.net/wordpress/40089/roleplaying-games/ptolus-running-the-campaign-managing-your-supporting-cast>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/40095/roleplaying-games/scenario-structure-challenge-3-mcguffin-keep-away>
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-2-race-to-prize.mdx`
@@ -6340,10 +6341,6 @@
 
 - `src/content/posts/translations/alexandrian-ask-20-transferable-techniques.mdx`
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-5-rpg-montage.mdx`
-
-## <https://thealexandrian.net/wordpress/40344/roleplaying-games/ptolus-running-the-campaign-party-planning-in-actual-play>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/40349/roleplaying-games/ptolus-running-the-campaign-npc-allies>
 
@@ -6526,6 +6523,10 @@
 
 - `src/content/posts/translations/alexandrian-running-the-city.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-4-campaign-status-documents.mdx`
+
+## <https://thealexandrian.net/wordpress/4106/roleplaying-games/random-gm-tips-getting-the-players-to-care-part>
+
+- `src/content/posts/translations/alexandrian-ptolus-party-planning-in-actual-play.mdx`
 
 ## <https://thealexandrian.net/wordpress/41114/roleplaying-games/review-waterdeep-dragon-heist>
 
