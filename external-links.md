@@ -1545,6 +1545,11 @@
 
 - `src/content/posts/translations/alexandrian-secret-life-of-nodes-part-1.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1588467899/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-high-level-intimidations-and-intimations.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-rolling-for-npcs.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1588469484/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-hexcrawl-5e-1.mdx`
@@ -6149,6 +6154,7 @@
 ## <https://thealexandrian.net/wordpress/39402/roleplaying-games/in-the-shadow-of-the-spire-session-7a-the-aristocrats-table>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-adding-a-new-player.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-secret-campaign-journal.mdx`
 
 ## <https://thealexandrian.net/wordpress/39430/roleplaying-games/art-of-rulings-14-group-actions>
@@ -6168,19 +6174,12 @@
 ## <https://thealexandrian.net/wordpress/39506/roleplaying-games/in-the-shadow-of-the-spire-character-background-tor>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-adding-a-new-player.mdx`
 
 ## <https://thealexandrian.net/wordpress/39511/roleplaying-games/in-the-shadow-of-the-spire-session-8b-meeting-tor>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/39539/roleplaying-games/ptolus-running-the-campaign-adding-a-new-player>
-
-- `src/content/posts/translations/alexandrian-ask10.mdx`
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/39542/roleplaying-games/ptolus-running-the-campaign-high-level-intimidations-and-intimations>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-high-level-intimidations-and-intimations.mdx`
 
 ## <https://thealexandrian.net/wordpress/3959/roleplaying-games/thought-of-the-day-the-shock-of-polymorph>
 
@@ -6189,16 +6188,13 @@
 ## <https://thealexandrian.net/wordpress/39618/roleplaying-games/in-the-shadow-of-the-spire-session-9a-gold>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-rolling-for-npcs.mdx`
 
 ## <https://thealexandrian.net/wordpress/39625/roleplaying-games/in-the-shadow-of-the-spire-session-9b-in-the-house-of-helmut>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/39629/roleplaying-games/in-the-shadow-of-the-spire-session-9c-jade>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/39641/roleplaying-games/ptolus-running-the-campaign-rolling-for-npcs>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -9518,6 +9514,10 @@
 ## <https://www.amazon.com/Sparta-Ultimate-Warriors-Everything-Civilization-ebook/dp/B01F4JXA76>
 
 - `src/content/posts/translations/acoup-this-isnt-sparta-part-vi-spartan-battle.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B003ZYEVV2/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-adding-a-new-player.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/B077H8N7PP/digitalcomi0a-20>
 
