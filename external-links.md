@@ -3647,6 +3647,10 @@
 
 - `src/content/posts/translations/tribality-artificer-class-part-one.mdx`
 
+## <https://commons.wikimedia.org/w/index.php?title=File%3AGirl_Guides_Uniform_Canada_circa_1987_%288203493766%29.jpg>
+
+- `src/content/posts/translations/alexandrian-ptolus-secret-campaign-journal.mdx`
+
 ## <https://commons.wikimedia.org/w/index.php?title=File%3APiratas_de_la_America_-_Pirates_of_America_-_Antique_Book_in_General_Archive_of_the_Indies_-_Seville_-_Spain.jpg&uselang=ru>
 
 - `src/content/posts/translations/alexandrian-ptolus-deciphering-scripts.mdx`
@@ -5691,6 +5695,7 @@
 ## <https://thealexandrian.net/wordpress/20441/roleplaying-games/eclipse-phase-ego-hunter-prep-notes>
 
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-secret-campaign-journal.mdx`
 
 ## <https://thealexandrian.net/wordpress/2105/roleplaying-games/character-background-agnarr>
 
@@ -5843,6 +5848,7 @@
 
 ## <https://thealexandrian.net/wordpress/35768/roleplaying-games/check-this-out-turn-undead-in-blackmoor>
 
+- `src/content/posts/translations/alexandrian-ptolus-reinventing-zombies.mdx`
 - `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 
 ## <https://thealexandrian.net/wordpress/36036/theater/shakespeare-sunday-aye-no-no-aye-mortal-and-immortal-conflict>
@@ -6124,11 +6130,7 @@
 ## <https://thealexandrian.net/wordpress/39316/roleplaying-games/in-the-shadow-of-the-spire-session-6b-return-to-the-depths>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/39332/roleplaying-games/ptolus-running-the-campaign-reinventing-zombies>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-- `src/content/posts/translations/alexandrian-running-horror.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-reinventing-zombies.mdx`
 
 ## <https://thealexandrian.net/wordpress/39390/roleplaying-games/in-the-shadow-of-the-spire-session-7b-blood-in-the-depths>
 
@@ -6137,10 +6139,7 @@
 ## <https://thealexandrian.net/wordpress/39402/roleplaying-games/in-the-shadow-of-the-spire-session-7a-the-aristocrats-table>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/39410/roleplaying-games/ptolus-running-the-campaign-the-secret-campaign-journal>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-secret-campaign-journal.mdx`
 
 ## <https://thealexandrian.net/wordpress/39423/roleplaying-games/ptolus-running-the-campaign-thus-endeth-the-campaign>
 
@@ -9520,6 +9519,10 @@
 
 - `src/content/posts/translations/acoup-this-isnt-sparta-part-vi-spartan-battle.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/B077H8N7PP/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-reinventing-zombies.mdx`
+
 ## <https://www.arkenstonepublishing.net/isabout/2021/02/18/the-sacrament-of-death>
 
 - `src/content/posts/translations/retired-adventurer-six-cultures-of-play.mdx`
@@ -10417,6 +10420,7 @@
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-13-boxed-text-pitfalls.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-from-table-to-page.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-reinventing-zombies.mdx`
 
 ## <https://www.drivethrurpg.com/product/28409/MiniAdventure-1-The-Complex-of-Zombies?affiliate_id=81207&>
 
