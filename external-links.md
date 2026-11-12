@@ -2336,6 +2336,10 @@
 
 - `src/content/posts/translations/alexandrian-universal-npc-roleplaying-template.mdx`
 
+## <http://www.drivethrurpg.com/product/12469/Ptolus-Sketchbook-Vol-2Temple-district?affiliate_id=81207&>
+
+- `src/content/posts/translations/alexandrian-ptolus-gray-spaces-in-world-design.mdx`
+
 ## <http://www.drivethrurpg.com/product/19507/Champions-5th-Edition-PDF?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-ptolus-running-campaign-bluebooking.mdx`
@@ -6308,10 +6312,6 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
-## <https://thealexandrian.net/wordpress/40020/roleplaying-games/ptolus-running-the-campaign-gray-spaces-in-world-design>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/40025/roleplaying-games/in-the-shadow-of-the-spire-session-12a-awkward-introductions>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
@@ -8708,6 +8708,10 @@
 ## <https://thealexandrian.net?p=39988>
 
 - `src/content/posts/translations/alexandrian-ptolus-interstice-of-factions.mdx`
+
+## <https://thealexandrian.net?p=39994>
+
+- `src/content/posts/translations/alexandrian-ptolus-gray-spaces-in-world-design.mdx`
 
 ## <https://thealexandrian.net?p=4002>
 

@@ -1,0 +1,195 @@
+---
+import { Image } from "astro:assets";
+import Book from "~icons/tabler/book";
+import placeholder from "~assets/branding/placeholder.webp";
+import { SITE_POST_CATEGORIES } from "src/consts";
+import type { createRelatedPostLookup } from "~utils/relatedPosts";
+
+interface Props {
+	posts: ReturnType<ReturnType<typeof createRelatedPostLookup>>;
+}
+
+const { posts } = Astro.props;
+---
+
+{
+	posts.length > 0 && (
+		<section aria-labelledby="related-posts-heading" class="not-prose related-posts">
+			<header class="section-heading">
+				<Book class="book-icon" aria-hidden="true" />
+				<div>
+					<h2 id="related-posts-heading">Читайте также</h2>
+					<p>Другие материалы по этой теме</p>
+				</div>
+			</header>
+			<ul class="post-grid" role="list">
+				{posts.map(({ slug, category, title, description, cover }) => {
+					const categoryTitle = SITE_POST_CATEGORIES.find(({ path }) => path === category)?.title;
+
+					return (
+						<li>
+							<a href={`/posts/${slug}`} class="post-card">
+								<Image
+									src={cover ?? placeholder}
+									alt=""
+									width={480}
+									format="webp"
+									class="cover"
+								/>
+								<div class="card-content">
+									{categoryTitle && <span class="category">{categoryTitle}</span>}
+									<h3>{title}</h3>
+									{description && <p>{description}</p>}
+									<span class="read-more" aria-hidden="true">Читать статью →</span>
+								</div>
+							</a>
+						</li>
+					);
+				})}
+			</ul>
+		</section>
+	)
+}
+
+<style>
+	.related-posts {
+		--gold: #dcb67c;
+		--rule: #796142;
+		--ivory: #fae8cb;
+		--muted: #dbc7aa;
+		container-type: inline-size;
+		margin-block: 2.5rem;
+		padding: clamp(0.85rem, 3%, 1.5rem);
+		border: 1px solid var(--rule);
+		border-radius: 0.5rem;
+		background: #181613;
+		color: var(--ivory);
+	}
+
+	.section-heading {
+		display: flex;
+		align-items: center;
+		gap: 0.65rem;
+		margin-bottom: 1rem;
+	}
+
+	.section-heading::after {
+		content: "";
+		flex: 1;
+		align-self: end;
+		margin-bottom: 0.5rem;
+		border-top: 1px solid var(--rule);
+	}
+
+	.book-icon {
+		flex: none;
+		width: 1.8rem;
+		height: 1.8rem;
+		color: var(--gold);
+	}
+
+	h2 {
+		font-size: 1.6rem;
+		font-weight: 700;
+		line-height: 1.2;
+	}
+
+	.section-heading p {
+		margin-top: 0.2rem;
+		color: var(--muted);
+		font-size: 0.875rem;
+		font-style: italic;
+	}
+
+	.post-grid {
+		display: grid;
+		gap: 0.85rem;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+	@container (min-width: 38rem) {
+		.post-grid {
+			grid-template-columns: repeat(3, minmax(0, 1fr));
+		}
+	}
+
+	.post-card {
+		display: flex;
+		height: 100%;
+		flex-direction: column;
+		overflow: hidden;
+		border: 1px solid var(--rule);
+		border-radius: 0.4rem;
+		background: #211c16;
+		color: inherit;
+		text-decoration: none;
+	}
+
+	.post-card:hover,
+	.post-card:focus-visible {
+		border-color: var(--gold);
+	}
+
+	.post-card:focus-visible {
+		outline: 2px solid var(--gold);
+		outline-offset: 3px;
+	}
+
+	.cover {
+		display: block;
+		width: 100%;
+		height: auto;
+		aspect-ratio: 16 / 9;
+		object-fit: cover;
+		border-bottom: 1px solid var(--rule);
+	}
+
+	.card-content {
+		display: flex;
+		flex: 1;
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 0.5rem;
+		padding: 0.85rem;
+		overflow-wrap: anywhere;
+	}
+
+	.category {
+		z-index: 1;
+		margin-top: -1.5rem;
+		padding: 0.1rem 0.55rem;
+		border-radius: 0.25rem;
+		background: var(--gold);
+		color: #241a10;
+		font-size: 0.75rem;
+		font-weight: 700;
+	}
+
+	h3 {
+		font-size: 1.075rem;
+		font-weight: 700;
+		line-height: 1.25;
+	}
+
+	.card-content p {
+		display: -webkit-box;
+		overflow: hidden;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 3;
+		color: var(--muted);
+		font-size: 0.875rem;
+		line-height: 1.45;
+	}
+
+	.read-more {
+		width: 100%;
+		margin-top: auto;
+		padding-top: 0.5rem;
+		border-top: 1px solid var(--rule);
+		color: var(--gold);
+		font-size: 0.85rem;
+		font-weight: 700;
+	}
+</style>

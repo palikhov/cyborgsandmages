@@ -10,6 +10,7 @@ import Link from "~components/Link.astro";
 import File from "~components/File.astro";
 import Youtube from "~components/Youtube.astro";
 import AIQA from "~components/AIQA.svelte";
+import RelatedPosts from "~components/RelatedPosts.astro";
 import { createRelatedPostLookup } from "~utils/relatedPosts";
 
 export async function getStaticPaths() {
@@ -53,16 +54,5 @@ const { Content, headings } = await post.render();
 		}}
 	/>
 
-	{
-		relatedPosts.length > 0 && (
-			<section aria-labelledby="related-posts-heading" class="mt-8 border-t border-brand-mist">
-				<h2 id="related-posts-heading">Похожие статьи</h2>
-				<ul>
-					{relatedPosts.map(({ slug, title }) => (
-						<li><a href={`/posts/${slug}`}>{title}</a></li>
-					))}
-				</ul>
-			</section>
-		)
-	}
+	<RelatedPosts posts={relatedPosts} />
 </ArticleLayout>

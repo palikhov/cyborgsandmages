@@ -48,5 +48,11 @@ function getRelatedPosts(post: Post, postsByTag: Map<string, Post[]>) {
 			scoreB - scoreA || b.data.date.getTime() - a.data.date.getTime() || a.slug.localeCompare(b.slug)
 		)
 		.slice(0, 3)
-		.map(([{ slug, data }]) => ({ slug, title: data.title }));
+		.map(([{ slug, id, data }]) => ({
+			slug,
+			category: id.split("/")[0],
+			title: data.title,
+			description: data.description,
+			cover: data.cover
+		}));
 }
