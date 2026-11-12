@@ -1588,6 +1588,10 @@
 
 - `src/content/posts/translations/alexandrian-secret-life-of-nodes-part-1.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/1588461033/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-trigger-and-stitch.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/1588467899/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-ptolus-buying-magic-items.mdx`
@@ -1598,6 +1602,7 @@
 - `src/content/posts/translations/alexandrian-ptolus-improvising-a-raid.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-managing-supporting-cast.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-party-planning-in-actual-play.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-player-facing-mechanics.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-prepping-situations-is-cool.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-rolling-for-npcs.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-session-9-miscellanea.mdx`
@@ -1641,6 +1646,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B00006IDLX/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-eternal-lies-remix.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B000FC11A6/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-back-back-to-the-dungeon.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B000I9TY4G/digitalcomi0a-20>
 
@@ -4792,6 +4801,10 @@
 
 - `src/content/posts/translations/ludusludorum-low-prep-2-tarterian-highway.mdx`
 
+## <https://inkwellideas.com/free-tools/random-inn-generator-floorplan?submit=submit>
+
+- `src/content/posts/translations/alexandrian-ptolus-improvising-floorplans.mdx`
+
 ## <https://insaneangel.com>
 
 - `src/content/posts/translations/how-to-create-a-dd-monster-for-5-5e-2024.mdx`
@@ -5065,6 +5078,14 @@
 
 - `src/content/posts/translations/delta-falling-revisited.mdx`
 
+## <https://pixabay.com/illustrations/abstract-fractal-formula-math-1022206>
+
+- `src/content/posts/translations/alexandrian-ptolus-player-initiated-vectors.mdx`
+
+## <https://pixabay.com/illustrations/fantasy-cave-light-figure-trees-3588483>
+
+- `src/content/posts/translations/alexandrian-ptolus-detritus-of-the-dungeon.mdx`
+
 ## <https://pixabay.com/illustrations/mandala-esoteric-mystic-magic-1866212>
 
 - `src/content/posts/translations/alexandrian-disarming-magical-traps.mdx`
@@ -5072,6 +5093,10 @@
 ## <https://pixabay.com/photos/apple-macbook-notebook-computer-1853259>
 
 - `src/content/posts/translations/manage-your-information.mdx`
+
+## <https://pixabay.com/photos/city-night-light-shadow-dark-4508675>
+
+- `src/content/posts/translations/alexandrian-ptolus-re-skinning.mdx`
 
 ## <https://pixabay.com/photos/climbing-rock-climbing-overhang-2264698>
 
@@ -5081,6 +5106,14 @@
 
 - `src/content/posts/translations/alexandrian-random-numbers-with-the-usual-dice.mdx`
 
+## <https://pixabay.com/photos/door-lock-blue-door-rusted-1587863>
+
+- `src/content/posts/translations/alexandrian-ptolus-back-back-to-the-dungeon.mdx`
+
+## <https://pixabay.com/photos/eye-key-hand-open-eye-proverb-2005639>
+
+- `src/content/posts/translations/alexandrian-ptolus-price-of-magic.mdx`
+
 ## <https://pixabay.com/photos/newspaper-paper-newsprint-943004>
 
 - `src/content/posts/translations/gnomestew-background-events.mdx`
@@ -5088,6 +5121,10 @@
 ## <https://pixabay.com/photos/people-one-window-abandoned-3111875>
 
 - `src/content/posts/translations/alexandrian-abused-gamer-syndrome.mdx`
+
+## <https://pixabay.com/photos/portrait-woman-face-eye-see-view-3630101>
+
+- `src/content/posts/translations/alexandrian-ptolus-diegetic-mechanics.mdx`
 
 ## <https://pixabay.com/photos/the-periodic-table-chemistry-4273681>
 
@@ -5233,6 +5270,10 @@
 ## <https://pxhere.com/en/photo/710021>
 
 - `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates.mdx`
+
+## <https://pxhere.com/en/photo/734854>
+
+- `src/content/posts/translations/alexandrian-ptolus-magic-item-wish-lists.mdx`
 
 ## <https://pxhere.com/en/photo/741898>
 
@@ -5590,6 +5631,10 @@
 
 - `src/content/posts/translations/alexandrian-campaign-status-event-fallout.mdx`
 
+## <https://stock.adobe.com/images/goat-with-boxing-gloves-in-a-dramatic-smoke-background-with-copy-space-greatest-boxer-conceptual-theme/433473298>
+
+- `src/content/posts/translations/alexandrian-ptolus-clever-combat.mdx`
+
 ## <https://stock.adobe.com/images/gothic-mysterious-woman-walks-in-fantasy-autumn-forest-long-silk-blue-cloak-flutters-waving-fly-in-wind-fabric-in-motion-head-hood-girl-princess-looks-back-fallen-orange-leaves-dark-trees-fog/474338164?asset_id=474338164>
 
 - `src/content/posts/translations/alexandrian-pacing-for-the-beginning-gm.mdx`
@@ -5601,6 +5646,10 @@
 ## <https://stock.adobe.com/images/large-cave-with-piles-of-gold-vector-cartoon-illustration-of-underground-dungeon-with-treasure-chest-full-of-golden-coins-sparkling-gemstones-jewelry-medieval-swords-adventure-game-background/653096214?prev_url=detail>
 
 - `src/content/posts/translations/alexandrian-gm-dont-list-18-too-precious-encounters.mdx`
+
+## <https://stock.adobe.com/images/medieval-or-fantasy-docks/35435567>
+
+- `src/content/posts/translations/alexandrian-ptolus-urban-splits.mdx`
 
 ## <https://stock.adobe.com/images/mysterious-masked-rogue-assassin-female-in-position-high-on-the-rooftops-looking-down-on-her-marked-target-fantasy-3d-rendering/385030322?asset_id=385030322>
 
@@ -5658,9 +5707,17 @@
 
 - `src/content/posts/translations/alexandrian-running-detectives-zero-result.mdx`
 
+## <https://stock.adobe.com/images/viking-warrior-woman-facing-a-skull-shaped-dungeon-fantasy-digital-illustration/455235371>
+
+- `src/content/posts/translations/alexandrian-ptolus-abandoned-dungeons.mdx`
+
 ## <https://stock.adobe.com/images/vikings-at-dawn-stand-against-the-background-of-the-forest-dawn-illuminates-the-silhouettes-of-warriors-the-leader-s-cloak-flutters-in-the-wind-2d-illustration-digital-art-style/463989105>
 
 - `src/content/posts/translations/alexandrian-storm-kings-remix-part-5d-making-alliances.mdx`
+
+## <https://stock.adobe.com/images/vintage-alchemist-laboratory-with-unique-scrolls-and-manuscripts/316277192>
+
+- `src/content/posts/translations/alexandrian-ptolus-looting-consumables.mdx`
 
 ## <https://stock.adobe.com/images/winter-fantasy-landscape-with-rocky-terrain-bright-sun-and-coniferous-forest-a-fabulous-scene-with-clouds-and-a-snowstorm-with-a-giant-behind-the-mountains-and-a-warrior-standing-on-a-stone-upland/483134672?prev_url=detail&asset_id=483134672>
 
@@ -5725,6 +5782,7 @@
 ## <https://thealexandrian.net/wordpress/10686/roleplaying-games/thought-of-the-day-the-design-history-of-saving-throws>
 
 - `src/content/posts/translations/alexandrian-dd-next-playtest-first-impressions.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-player-facing-mechanics.mdx`
 
 ## <https://thealexandrian.net/wordpress/1105/roleplaying-games/three-clue-rule-part-4-corollaries>
 
@@ -6110,10 +6168,12 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-15-railroaders-fallacy.mdx`
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-behind-the-tale-of-itarek.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-magic-item-wish-lists.mdx`
 
 ## <https://thealexandrian.net/wordpress/36969/roleplaying-games/the-railroading-manifesto-part-5-more-chokers>
 
 - `src/content/posts/translations/alexandrian-ptolus-beginning-act-ii.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-trigger-and-stitch.mdx`
 
 ## <https://thealexandrian.net/wordpress/37055/roleplaying-games/ex-rpgnet-review-three-days-to-kill>
 
@@ -6261,6 +6321,7 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-mob-rule-fear-railroads.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-playing-to-the-crowd.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-role-of-campaign-journal.mdx`
 
 ## <https://thealexandrian.net/wordpress/38419/roleplaying-games/in-the-shadow-of-the-spire-session-4b-research-and-developments>
@@ -6273,6 +6334,7 @@
 - `src/content/posts/translations/alexandrian-ask-9-advanced-rulings-5e.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-9-fudging.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-listening-to-cleromancy.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-player-facing-mechanics.mdx`
 - `src/content/posts/translations/alexandrian-rulings-in-practice-gathering-information.mdx`
 
 ## <https://thealexandrian.net/wordpress/38507/roleplaying-games/kitchen-sink-brust>
@@ -6495,6 +6557,7 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-party-planning-in-actual-play.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-player-initiated-vectors.mdx`
 
 ## <https://thealexandrian.net/wordpress/40034/roleplaying-games/in-the-shadow-of-the-spire-session-12c-to-the-aid-of-goblins>
 
@@ -6558,6 +6621,7 @@
 ## <https://thealexandrian.net/wordpress/40569/roleplaying-games/in-the-shadow-of-the-spire-session-14a-many-unhappy-returns>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-player-initiated-vectors.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-unique-path-of-actual-play.mdx`
 
 ## <https://thealexandrian.net/wordpress/40574/roleplaying-games/in-the-shadow-of-the-spire-14b-malkeen-dawning>
@@ -6574,6 +6638,7 @@
 
 ## <https://thealexandrian.net/wordpress/40610/roleplaying-games/the-dreaming-arts>
 
+- `src/content/posts/translations/alexandrian-ptolus-diegetic-mechanics.mdx`
 - `src/content/posts/translations/alexandrian-wondrous-landscapes-7-mystic-mountains.mdx`
 
 ## <https://thealexandrian.net/wordpress/40658/roleplaying-games/notes-on-writing-horror-scenarios-the-sandy-petersen-way>
@@ -6608,6 +6673,7 @@
 - `src/content/posts/translations/alexandrian-campaign-status-restocking-checklists.mdx`
 - `src/content/posts/translations/alexandrian-dungeons-player-mapping.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-collapsed-tunnels.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-lore-book-meetings.mdx`
 - `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
 - `src/content/posts/translations/alexandrian-smart-prep-4-campaign-status-documents.mdx`
 - `src/content/posts/translations/alexandrian-untested-loot-damage.mdx`
@@ -6619,6 +6685,7 @@
 ## <https://thealexandrian.net/wordpress/40891/roleplaying-games/in-the-shadow-of-the-spire-session-16a-to-labyrinths-end>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-one-job-multiple-patrons.mdx`
 
 ## <https://thealexandrian.net/wordpress/40897/roleplaying-games/in-the-shadow-of-the-spire-session-16b-the-sanguineous-drinker>
 
@@ -6943,6 +7010,7 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-post-it-mapping.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-trigger-and-stitch.mdx`
 
 ## <https://thealexandrian.net/wordpress/43664/roleplaying-games/numenera-fractal-npcs>
 
@@ -6954,6 +7022,7 @@
 - `src/content/posts/translations/alexandrian-ptolus-cliffhangers.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-fantasy-materials.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-fictional-rituals.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-player-initiated-vectors.mdx`
 
 ## <https://thealexandrian.net/wordpress/43782/roleplaying-games/running-the-campaign-dragon-heist-the-manshoon-heists>
 
@@ -6987,6 +7056,9 @@
 ## <https://thealexandrian.net/wordpress/44020/roleplaying-games/laboratory-of-the-beast>
 
 - `src/content/posts/translations/alexandrian-advanced-d20-taint.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-back-back-to-the-dungeon.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-magic-item-wish-lists.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-player-initiated-vectors.mdx`
 - `src/content/posts/translations/alexandrian-secret-life-of-nodes-part-2-node-based-campaigns.mdx`
 
 ## <https://thealexandrian.net/wordpress/44117/roleplaying-games/scenario-structure-challenge-5-the-rpg-montage>
@@ -6996,6 +7068,7 @@
 ## <https://thealexandrian.net/wordpress/44127/roleplaying-games/dragon-heist-remix-addendum-the-dragon-of-dragon-heist>
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-back-back-to-the-dungeon.mdx`
 
 ## <https://thealexandrian.net/wordpress/44160/roleplaying-games/dragon-heist-the-final-session>
 
@@ -7267,26 +7340,15 @@
 
 - `src/content/posts/translations/alexandrian-remixing-avernus.mdx`
 
-## <https://thealexandrian.net/wordpress/45624/roleplaying-games/ptolus-running-the-campaign-the-price-of-magic>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/45645/roleplaying-games/game-structure-the-festival>
 
 - `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
 
-## <https://thealexandrian.net/wordpress/45663/roleplaying-games/ptolus-running-the-campaign-diegetic-mechanics>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/45695/roleplaying-games/ptolus-running-the-campaign-detritus-of-the-dungeon>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/45758/roleplaying-games/in-the-shadow-of-the-spire-session-24a-the-squire-of-dawn>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-detritus-of-the-dungeon.mdx`
 
 ## <https://thealexandrian.net/wordpress/45762/roleplaying-games/in-the-shadow-of-the-spire-session-24b-the-meeting-of-all-things>
 
@@ -7295,12 +7357,9 @@
 ## <https://thealexandrian.net/wordpress/45768/roleplaying-games/in-the-shadow-of-the-spire-session-24c-the-first-hound-of-ghul>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-magic-item-wish-lists.mdx`
 
 ## <https://thealexandrian.net/wordpress/45773/roleplaying-games/in-the-shadow-of-the-spire-session-24d-the-second-hound-of-ghul>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/45787/roleplaying-games/ptolus-running-the-campaign-player-facing-mechanics>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -7308,17 +7367,9 @@
 
 - `src/content/posts/translations/alexandrian-remixing-avernus.mdx`
 
-## <https://thealexandrian.net/wordpress/45841/roleplaying-games/ptolus-running-the-campaign-lore-book-meetings>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/45859/roleplaying-games/remixing-avernus-part-6d-i-lulus-memories-the-dream-machine>
 
 - `src/content/posts/translations/alexandrian-remixing-avernus.mdx`
-
-## <https://thealexandrian.net/wordpress/45871/roleplaying-games/ptolus-running-the-campaign-back-back-to-the-dungeon>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/45878/roleplaying-games/game-structure-sector-crawl>
 
@@ -7332,23 +7383,11 @@
 
 - `src/content/posts/translations/alexandrian-remixing-avernus.mdx`
 
-## <https://thealexandrian.net/wordpress/45911/roleplaying-games/ptolus-running-the-campaign-magic-item-wish-lists>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/45937/roleplaying-games/in-the-shadow-of-the-spire-session-25a-the-second-end-of-ghuls-labyrinth>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/45943/roleplaying-games/in-the-shadow-of-the-spire-session-25b-blood-on-the-orrery>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/45953/roleplaying-games/ptolus-running-the-campaign-re-skinning>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/45956/roleplaying-games/ptolus-running-the-campaign-player-initiated-vectors>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -7481,6 +7520,7 @@
 ## <https://thealexandrian.net/wordpress/46824/roleplaying-games/5e-encumbrance-by-stone>
 
 - `src/content/posts/translations/alexandrian-encumbrance-by-stone-design-notes.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-treasure-logistics.mdx`
 - `src/content/posts/translations/alexandrian-untested-loot-damage.mdx`
 
 ## <https://thealexandrian.net/wordpress/46883/roleplaying-games/remixing-avernus-part-7h-avernian-random-encounters>
@@ -7498,6 +7538,10 @@
 ## <https://thealexandrian.net/wordpress/46918/roleplaying-games/remixing-avernus-part-7h-d-advanced-encounter-options>
 
 - `src/content/posts/translations/alexandrian-remixing-avernus.mdx`
+
+## <https://thealexandrian.net/wordpress/46949/roleplaying-games/5e-monster-cerberus-spawn>
+
+- `src/content/posts/translations/alexandrian-ptolus-clever-combat.mdx`
 
 ## <https://thealexandrian.net/wordpress/46991/roleplaying-games/remixing-avernus-map-pack-flying-fortress-brig>
 
@@ -7566,25 +7610,9 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
-## <https://thealexandrian.net/wordpress/47516/roleplaying-games/ptolus-running-the-campaign-urban-splits>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/47535/roleplaying-games/call-of-the-netherdeep-running-betrayers-rise>
 
 - `src/content/posts/translations/alexandrian-ask-7-classic-quests-railroads.mdx`
-
-## <https://thealexandrian.net/wordpress/47569/roleplaying-games/ptolus-running-the-campaign-treasure-logistics>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/47582/roleplaying-games/ptolus-running-the-campaign-background-to-foreground-to-background>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/47588/roleplaying-games/ptolus-running-the-campaign-counterintelligence-vectors>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/47681/roleplaying-games/lets-read-dd-1974>
 
@@ -7610,14 +7638,6 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
-## <https://thealexandrian.net/wordpress/47966/roleplaying-games/ptolus-running-the-campaign-missing-clues>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/47991/roleplaying-games/ptolus-running-the-campaign-improvising-floorplans>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/4803/roleplaying-games/fun-with-vornheim-2-a-noble-drama>
 
 - `src/content/posts/translations/alexandrian-fun-with-vornheim.mdx`
@@ -7633,14 +7653,6 @@
 ## <https://thealexandrian.net/wordpress/48076/roleplaying-games/running-the-hexcrawl-example-of-play-thracian-hexcrawl>
 
 - `src/content/posts/translations/alexandrian-running-the-hexcrawl.mdx`
-
-## <https://thealexandrian.net/wordpress/48091/roleplaying-games/ptolus-running-the-campaign-playing-to-the-crowd>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/48096/roleplaying-games/ptolus-running-the-campaign-trigger-stitch>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/4811/roleplaying-games/better-dungeon-maps-part-1-opening-doors>
 
@@ -7665,6 +7677,7 @@
 ## <https://thealexandrian.net/wordpress/48274/roleplaying-games/in-the-shadow-of-the-spire-session-28a-the-maw-beckons>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-one-job-multiple-patrons.mdx`
 
 ## <https://thealexandrian.net/wordpress/48275/roleplaying-games/in-the-shadow-of-the-spire-session-28b-on-the-eve-of-the-banewarrens>
 
@@ -7672,19 +7685,6 @@
 
 ## <https://thealexandrian.net/wordpress/48278/roleplaying-games/in-the-shadow-of-the-spire-session-28c-into-the-banewarrens>
 
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/48291/roleplaying-games/ptolus-running-the-campaign-one-job-multiple-patrons>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/48297/roleplaying-games/ptolus-running-the-campaign-multi-threaded-campaigns>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/48307/roleplaying-games/ptolus-running-the-campaign-on-the-efficacy-of-burning-oil>
-
-- `src/content/posts/translations/alexandrian-ask-9-advanced-rulings-5e.mdx`
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/48430/roleplaying-games/in-the-shadow-of-the-spire-session-29a-wraiths-and-wards>
@@ -7696,18 +7696,6 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/48440/roleplaying-games/in-the-shadow-of-the-spire-session-29c-skirmish-in-the-cauldron>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/48456/roleplaying-games/ptolus-running-the-campaign-clever-combat>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/48464/roleplaying-games/ptolus-running-the-campaign-abandoned-dungeons>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/48470/roleplaying-games/ptolus-running-the-campaign-looting-consumables>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -7744,6 +7732,7 @@
 ## <https://thealexandrian.net/wordpress/48619/roleplaying-games/ptolus-running-the-campaign-cutting-on-the-cliffhanger>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-looting-consumables.mdx`
 
 ## <https://thealexandrian.net/wordpress/48632/roleplaying-games/ptolus-running-the-campaign-spray-your-bullets>
 
@@ -8692,6 +8681,10 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-best-laid-plans.mdx`
 
+## <https://thealexandrian.net?p=31509>
+
+- `src/content/posts/translations/alexandrian-ptolus-urban-splits.mdx`
+
 ## <https://thealexandrian.net?p=36473>
 
 - `src/content/posts/translations/alexandrian-linear-mediums-rpg-examples.mdx`
@@ -8723,6 +8716,10 @@
 ## <https://thealexandrian.net?p=3967>
 
 - `src/content/posts/translations/alexandrian-encumbrance-by-stone-design-notes.mdx`
+
+## <https://thealexandrian.net?p=39689>
+
+- `src/content/posts/translations/alexandrian-ptolus-back-back-to-the-dungeon.mdx`
 
 ## <https://thealexandrian.net?p=39709>
 
@@ -8875,6 +8872,10 @@
 
 - `src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx`
 
+## <https://thealexandrian.net?p=43143>
+
+- `src/content/posts/translations/alexandrian-ptolus-trigger-and-stitch.mdx`
+
 ## <https://thealexandrian.net?p=43155>
 
 - `src/content/posts/translations/alexandrian-ptolus-gather-information-vs-knowledge-local.mdx`
@@ -8958,14 +8959,50 @@
 ## <https://thealexandrian.net?p=45543>
 
 - `src/content/posts/translations/alexandrian-ptolus-dungeon-cycles.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-price-of-magic.mdx`
 
-## <https://thealexandrian.net?p=45624>
+## <https://thealexandrian.net?p=45547>
 
-- `src/content/posts/translations/alexandrian-ptolus-dungeon-cycles.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-diegetic-mechanics.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-price-of-magic.mdx`
+
+## <https://thealexandrian.net?p=45552>
+
+- `src/content/posts/translations/alexandrian-ptolus-detritus-of-the-dungeon.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-diegetic-mechanics.mdx`
 
 ## <https://thealexandrian.net?p=45636>
 
 - `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
+
+## <https://thealexandrian.net?p=45758>
+
+- `src/content/posts/translations/alexandrian-ptolus-player-facing-mechanics.mdx`
+
+## <https://thealexandrian.net?p=45762>
+
+- `src/content/posts/translations/alexandrian-ptolus-lore-book-meetings.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-player-facing-mechanics.mdx`
+
+## <https://thealexandrian.net?p=45768>
+
+- `src/content/posts/translations/alexandrian-ptolus-back-back-to-the-dungeon.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-lore-book-meetings.mdx`
+
+## <https://thealexandrian.net?p=45773>
+
+- `src/content/posts/translations/alexandrian-ptolus-back-back-to-the-dungeon.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-magic-item-wish-lists.mdx`
+
+## <https://thealexandrian.net?p=45937>
+
+- `src/content/posts/translations/alexandrian-ptolus-magic-item-wish-lists.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-re-skinning.mdx`
+
+## <https://thealexandrian.net?p=45943>
+
+- `src/content/posts/translations/alexandrian-ptolus-player-initiated-vectors.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-re-skinning.mdx`
 
 ## <https://thealexandrian.net?p=46479>
 
@@ -8979,9 +9016,83 @@
 
 - `src/content/posts/translations/alexandrian-forgotten-realms-kraken-society.mdx`
 
+## <https://thealexandrian.net?p=47494>
+
+- `src/content/posts/translations/alexandrian-ptolus-player-initiated-vectors.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-urban-splits.mdx`
+
+## <https://thealexandrian.net?p=47502>
+
+- `src/content/posts/translations/alexandrian-ptolus-treasure-logistics.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-urban-splits.mdx`
+
+## <https://thealexandrian.net?p=47505>
+
+- `src/content/posts/translations/alexandrian-ptolus-background-to-foreground.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-treasure-logistics.mdx`
+
+## <https://thealexandrian.net?p=47509>
+
+- `src/content/posts/translations/alexandrian-ptolus-background-to-foreground.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-counterintelligence-vectors.mdx`
+
 ## <https://thealexandrian.net?p=47595>
 
 - `src/content/posts/translations/alexandrian-textual-history-of-the-yawning-portal.mdx`
+
+## <https://thealexandrian.net?p=47942>
+
+- `src/content/posts/translations/alexandrian-ptolus-counterintelligence-vectors.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-missing-clues.mdx`
+
+## <https://thealexandrian.net?p=47947>
+
+- `src/content/posts/translations/alexandrian-ptolus-improvising-floorplans.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-missing-clues.mdx`
+
+## <https://thealexandrian.net?p=47952>
+
+- `src/content/posts/translations/alexandrian-ptolus-improvising-floorplans.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-playing-to-the-crowd.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-trigger-and-stitch.mdx`
+
+## <https://thealexandrian.net?p=47959>
+
+- `src/content/posts/translations/alexandrian-ptolus-playing-to-the-crowd.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-trigger-and-stitch.mdx`
+
+## <https://thealexandrian.net?p=48274>
+
+- `src/content/posts/translations/alexandrian-ptolus-trigger-and-stitch.mdx`
+
+## <https://thealexandrian.net?p=48275>
+
+- `src/content/posts/translations/alexandrian-ptolus-multi-threaded-campaigns.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-one-job-multiple-patrons.mdx`
+
+## <https://thealexandrian.net?p=48278>
+
+- `src/content/posts/translations/alexandrian-ptolus-efficacy-of-burning-oil.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-multi-threaded-campaigns.mdx`
+
+## <https://thealexandrian.net?p=48430>
+
+- `src/content/posts/translations/alexandrian-ptolus-clever-combat.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-efficacy-of-burning-oil.mdx`
+
+## <https://thealexandrian.net?p=48435>
+
+- `src/content/posts/translations/alexandrian-ptolus-abandoned-dungeons.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-clever-combat.mdx`
+
+## <https://thealexandrian.net?p=48440>
+
+- `src/content/posts/translations/alexandrian-ptolus-abandoned-dungeons.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-looting-consumables.mdx`
+
+## <https://thealexandrian.net?p=48597>
+
+- `src/content/posts/translations/alexandrian-ptolus-looting-consumables.mdx`
 
 ## <https://thealexandrian.net?p=48761>
 
@@ -9733,9 +9844,15 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-dungeon-as-theater-of-operations.mdx`
 
+## <https://www.amazon.com/exec/obidos/ASIN/1588461033/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-looting-consumables.mdx`
+
 ## <https://www.amazon.com/exec/obidos/ASIN/1588469395/digitalcomi0a-20>
 
+- `src/content/posts/translations/alexandrian-ptolus-missing-clues.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-post-it-mapping.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-trigger-and-stitch.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/1589780086/digitalcomi0a-20>
 
@@ -9780,6 +9897,10 @@
 ## <https://www.artstation.com/artwork/wDWyg>
 
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.atlas-games.com/magicalkitties>
+
+- `src/content/posts/translations/alexandrian-ptolus-lore-book-meetings.mdx`
 
 ## <https://www.atlas-games.com/product_tables/AG2152>
 
@@ -10139,6 +10260,10 @@
 ## <https://www.d20pfsrd.com/classes/hybrid-classes/skald>
 
 - `src/content/posts/translations/tribality-warlord-class-part-two.mdx`
+
+## <https://www.d20pfsrd.com/gamemastering/other-rules/corruption>
+
+- `src/content/posts/translations/alexandrian-ptolus-price-of-magic.mdx`
 
 ## <https://www.d20srd.org/srd/equipment/weapons.htm>
 
@@ -10551,6 +10676,10 @@
 
 - `src/content/posts/translations/alexandrian-the-day-the-old-school-died.mdx`
 
+## <https://www.drivethrurpg.com/product/12643/Ptolus-Deluxe-Map-Pack?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-ptolus-improvising-floorplans.mdx`
+
 ## <https://www.drivethrurpg.com/product/140761/Castle-of-the-Mad-Archmage-OSR-Edition-Digital--Print-Bundle-BUNDLE?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-re-running-the-megadungeon.mdx`
@@ -10749,6 +10878,7 @@
 ## <https://www.drivethrurpg.com/product/394994/The-Banewarrens?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-campaign-status-continuity-notes.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-one-job-multiple-patrons.mdx`
 
 ## <https://www.drivethrurpg.com/product/424626/Raiders-of-the-Serpent-Sea-Players-Guide-PDF?affiliate_id=81207>
 
