@@ -159,6 +159,7 @@
 - `Steamtunnel`
 - `steamtunnel.blogspot.com`
 - `Stephen Bandstra`
+- `Steve D`
 - `The Robgoblin`
 - `The Usual Tongues`
 - `Tomás Giménez Rioja`
@@ -293,6 +294,7 @@
 | `Steamtunnel` | `Steamtunnel` |
 | `steamtunnel.blogspot.com` | `steamtunnel.blogspot.com` |
 | `Stephen Bandstra` | `Stephen Bandstra` |
+| `Steve D` | `Steve D` |
 | `The Angry GM` | `Angry GM` |
 | `The Robgoblin` | `The Robgoblin` |
 | `The Usual Tongues` | `The Usual Tongues` |

@@ -1520,6 +1520,14 @@
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/0785164537/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-symbiotic-tactics.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/0786941154/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-looting-the-bestiaries.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0786948809/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge.mdx`
@@ -1591,6 +1599,7 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/B000VS28UQ/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-ptolus-prepping-situations-is-cool.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-symbiotic-tactics.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B0014WJYOG/digitalcomi0a-20>
 
@@ -3687,6 +3696,10 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-deciphering-scripts.mdx`
 
+## <https://commons.wikimedia.org/w/index.php?title=File%3ARunning_gag.svg>
+
+- `src/content/posts/translations/alexandrian-ptolus-running-gags.mdx`
+
 ## <https://core20rpg.wordpress.com>
 
 - `src/content/posts/translations/how-an-rpg-book-is-made.mdx`
@@ -5622,6 +5635,10 @@
 
 - `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
 
+## <https://thealexandrian.net/wordpress/12899/roleplaying-games/thought-of-the-day-on-the-importance-of-illustration-in-bestiaries>
+
+- `src/content/posts/translations/alexandrian-ptolus-looting-the-bestiaries.mdx`
+
 ## <https://thealexandrian.net/wordpress/13085/roleplaying-games/xandering-the-dungeon>
 
 - `src/content/posts/translations/knight-at-the-opera-on-dungeon-size.mdx`
@@ -5741,6 +5758,7 @@
 ## <https://thealexandrian.net/wordpress/2134/roleplaying-games/in-the-shadow-of-the-spire-prelude-1a-the-lost-vaults>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-running-gags.mdx`
 
 ## <https://thealexandrian.net/wordpress/2173/roleplaying-games/in-the-shadow-of-the-spire-prelude-1b-the-lost-vaults>
 
@@ -6273,19 +6291,6 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
-## <https://thealexandrian.net/wordpress/39851/roleplaying-games/ptolus-running-the-campaign-symbiotic-tactics>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/39856/roleplaying-games/ptolus-running-the-campaign-running-gags>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/39864/roleplaying-games/ptolus-running-the-campaign-looting-the-bestiaries>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-- `src/content/posts/translations/alexandrian-why-dd.mdx`
-
 ## <https://thealexandrian.net/wordpress/39885/roleplaying-games/smart-prep>
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-2-race-to-prize.mdx`
@@ -6300,10 +6305,6 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/39994/roleplaying-games/in-the-shadow-of-the-spire-harvesttime-part-3-the-greeting-of-old-friends>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/40016/roleplaying-games/ptolus-running-the-campaign-an-interstice-of-factions>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -8640,6 +8641,10 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-world-building-by-players.mdx`
 
+## <https://thealexandrian.net?p=2537>
+
+- `src/content/posts/translations/alexandrian-ptolus-interstice-of-factions.mdx`
+
 ## <https://thealexandrian.net?p=2541>
 
 - `src/content/posts/translations/alexandrian-ptolus-graphical-resources.mdx`
@@ -8680,6 +8685,18 @@
 
 - `src/content/posts/translations/alexandrian-encumbrance-by-stone-design-notes.mdx`
 
+## <https://thealexandrian.net?p=39834>
+
+- `src/content/posts/translations/alexandrian-ptolus-symbiotic-tactics.mdx`
+
+## <https://thealexandrian.net?p=39840>
+
+- `src/content/posts/translations/alexandrian-ptolus-running-gags.mdx`
+
+## <https://thealexandrian.net?p=39846>
+
+- `src/content/posts/translations/alexandrian-ptolus-looting-the-bestiaries.mdx`
+
 ## <https://thealexandrian.net?p=3987>
 
 - `src/content/posts/translations/alexandrian-encumbrance-by-stone-design-notes.mdx`
@@ -8687,6 +8704,10 @@
 ## <https://thealexandrian.net?p=39958>
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-1-raiding-death-star.mdx`
+
+## <https://thealexandrian.net?p=39988>
+
+- `src/content/posts/translations/alexandrian-ptolus-interstice-of-factions.mdx`
 
 ## <https://thealexandrian.net?p=4002>
 
