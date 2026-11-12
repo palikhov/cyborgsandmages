@@ -1540,6 +1540,10 @@
 
 - `src/content/posts/translations/alexandrian-remixing-avernus.mdx`
 
+## <http://www.amazon.com/exec/obidos/ASIN/081331951X/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-simple-simulationist-tactics-half-across-the-river.mdx`
+
 ## <http://www.amazon.com/exec/obidos/ASIN/0880388595/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-advanced-node-based-design-part-2-node-navigation.mdx`
@@ -1588,6 +1592,10 @@
 ## <http://www.amazon.com/exec/obidos/ASIN/1934859079/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-eternal-lies-remix.mdx`
+
+## <http://www.amazon.com/exec/obidos/ASIN/B00000JRSB/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-npc-allies.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/B00006IDLX/digitalcomi0a-20>
 
@@ -3705,6 +3713,10 @@
 ## <https://commons.wikimedia.org/w/index.php?title=File%3ARunning_gag.svg>
 
 - `src/content/posts/translations/alexandrian-ptolus-running-gags.mdx`
+
+## <https://commons.wikimedia.org/wiki/File:Barcelona_2016-275%2Ejpg>
+
+- `src/content/posts/translations/alexandrian-ptolus-simple-simulationist-tactics-half-across-the-river.mdx`
 
 ## <https://core20rpg.wordpress.com>
 
@@ -6194,6 +6206,7 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-party-planning-in-actual-play.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-simple-simulationist-tactics-half-across-the-river.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-thus-endeth-the-campaign.mdx`
 
 ## <https://thealexandrian.net/wordpress/39402/roleplaying-games/in-the-shadow-of-the-spire-session-7a-the-aristocrats-table>
@@ -6328,6 +6341,7 @@
 ## <https://thealexandrian.net/wordpress/40034/roleplaying-games/in-the-shadow-of-the-spire-session-12c-to-the-aid-of-goblins>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-npc-allies.mdx`
 
 ## <https://thealexandrian.net/wordpress/40081/roleplaying-games/numenera-welcome-to-the-ninth-world>
 
@@ -6341,10 +6355,6 @@
 
 - `src/content/posts/translations/alexandrian-ask-20-transferable-techniques.mdx`
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-5-rpg-montage.mdx`
-
-## <https://thealexandrian.net/wordpress/40349/roleplaying-games/ptolus-running-the-campaign-npc-allies>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/40354/roleplaying-games/in-the-shadow-of-the-spire-session-13a-at-the-sinkholes-edge>
 
@@ -6365,10 +6375,6 @@
 ## <https://thealexandrian.net/wordpress/40374/roleplaying-games/random-gm-tip-visualizing-city-block-maps>
 
 - `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
-
-## <https://thealexandrian.net/wordpress/40402/roleplaying-games/ptolus-running-the-campaign-simple-simulationist-tactics-half-across-the-river>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/40424/roleplaying-games/blades-in-the-dark-progress-clocks>
 
@@ -8725,6 +8731,10 @@
 ## <https://thealexandrian.net?p=40309>
 
 - `src/content/posts/translations/alexandrian-untested-5e-streamlined-skills.mdx`
+
+## <https://thealexandrian.net?p=40354>
+
+- `src/content/posts/translations/alexandrian-ptolus-simple-simulationist-tactics-half-across-the-river.mdx`
 
 ## <https://thealexandrian.net?p=40495>
 
