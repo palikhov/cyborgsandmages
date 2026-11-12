@@ -2375,6 +2375,10 @@
 
 - `src/content/posts/translations/delta-ghouls-through-literature.mdx`
 
+## <http://www.fidonet.org>
+
+- `src/content/posts/translations/alexandrian-ptolus-play-by-email.mdx`
+
 ## <http://www.filfre.net/2012/05/zork-ii-part-2>
 
 - `src/content/posts/translations/dmdavid-player-skill-without-frustration.mdx`
@@ -5719,10 +5723,6 @@
 - `src/content/posts/translations/alexandrian-review-carcosa.mdx`
 - `src/content/posts/translations/alexandrian-running-portals.mdx`
 
-## <https://thealexandrian.net/wordpress/2458/roleplaying-games/ptolus-running-the-campaign-play-by-e-mail>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/2460/roleplaying-games/in-the-shadow-of-the-spire-prelude-2-the-awakening-ranthir>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
@@ -5748,15 +5748,6 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
-## <https://thealexandrian.net/wordpress/2527/roleplaying-games/ptolus-running-the-campaign-world-building-by-players>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/2537/roleplaying-games/ptolus-running-the-campaign-graphical-resources>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-- `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
-
 ## <https://thealexandrian.net/wordpress/2541/roleplaying-games/in-the-shadow-of-the-spire-prelude-2c-the-awakening-agnarr>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
@@ -5764,10 +5755,6 @@
 ## <https://thealexandrian.net/wordpress/25822/roleplaying-games/rpgnet-review-tekumel>
 
 - `src/content/posts/translations/alexandrian-grok-threshold.mdx`
-
-## <https://thealexandrian.net/wordpress/2589/roleplaying-games/ptolus-running-the-campaign-that-didnt-take-long>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/2593/roleplaying-games/in-the-shadow-of-the-spire-prelude-2d-the-awakening-tee>
 
@@ -8515,6 +8502,10 @@
 
 - `src/content/posts/translations/alexandrian-enter-the-boss.mdx`
 
+## <https://thealexandrian.net/wordpress/7686/reviews/babylon-5-first-season-viewing-guide>
+
+- `src/content/posts/translations/alexandrian-ptolus-meta-scenarios.mdx`
+
 ## <https://thealexandrian.net/wordpress/776/roleplaying-games/blood-shield-bandits>
 
 - `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
@@ -8534,10 +8525,6 @@
 - `src/content/posts/translations/alexandrian-smart-prep-2-principles.mdx`
 
 ## <https://thealexandrian.net/wordpress/8282/roleplaying-games/in-the-shadow-of-the-spire-session-1a-investigating-the-past>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/8289/roleplaying-games/ptolus-running-the-campaign-meta-scenarios>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -8634,12 +8621,17 @@
 
 - `src/content/posts/translations/alexandrian-hexcrawl.mdx`
 
+## <https://thealexandrian.net?p=2105>
+
+- `src/content/posts/translations/alexandrian-ptolus-best-laid-plans.mdx`
+
 ## <https://thealexandrian.net?p=2111>
 
 - `src/content/posts/translations/alexandrian-ptolus-designing-character-backgrounds-1.mdx`
 
 ## <https://thealexandrian.net?p=2115>
 
+- `src/content/posts/translations/alexandrian-ptolus-best-laid-plans.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-low-level-specialists.mdx`
 
 ## <https://thealexandrian.net?p=2134>
@@ -8657,6 +8649,22 @@
 ## <https://thealexandrian.net?p=2251>
 
 - `src/content/posts/translations/alexandrian-ptolus-low-level-specialists.mdx`
+
+## <https://thealexandrian.net?p=2460>
+
+- `src/content/posts/translations/alexandrian-ptolus-play-by-email.mdx`
+
+## <https://thealexandrian.net?p=2520>
+
+- `src/content/posts/translations/alexandrian-ptolus-world-building-by-players.mdx`
+
+## <https://thealexandrian.net?p=2541>
+
+- `src/content/posts/translations/alexandrian-ptolus-graphical-resources.mdx`
+
+## <https://thealexandrian.net?p=2593>
+
+- `src/content/posts/translations/alexandrian-ptolus-best-laid-plans.mdx`
 
 ## <https://thealexandrian.net?p=36473>
 
@@ -8831,6 +8839,10 @@
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-prepping-bangs.mdx`
 - `src/content/posts/translations/alexandrian-keep-on-the-borderlands-factions.mdx`
+
+## <https://thealexandrian.net?p=8282>
+
+- `src/content/posts/translations/alexandrian-ptolus-meta-scenarios.mdx`
 
 ## <https://thealexandrian.net?s=hexcrawl>
 
