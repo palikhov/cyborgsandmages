@@ -6193,12 +6193,9 @@
 ## <https://thealexandrian.net/wordpress/39625/roleplaying-games/in-the-shadow-of-the-spire-session-9b-in-the-house-of-helmut>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-using-prophecy.mdx`
 
 ## <https://thealexandrian.net/wordpress/39629/roleplaying-games/in-the-shadow-of-the-spire-session-9c-jade>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/39664/roleplaying-games/ptolus-running-the-campaign-using-prophecy>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
