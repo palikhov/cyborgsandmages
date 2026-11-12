@@ -8527,22 +8527,17 @@
 ## <https://thealexandrian.net/wordpress/8282/roleplaying-games/in-the-shadow-of-the-spire-session-1a-investigating-the-past>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-player-secrets.mdx`
 
 ## <https://thealexandrian.net/wordpress/8300/roleplaying-games/in-the-shadow-of-the-spire-session-1b-tees-homecoming>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/8311/roleplaying-games/ptolus-running-the-campaign-player-secrets>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-player-secrets.mdx`
 
 ## <https://thealexandrian.net/wordpress/8323/roleplaying-games/in-the-shadow-of-the-spire-session-1c-meeting-elestra>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/8327/roleplaying-games/ptolus-running-the-campaign-player-absences>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-player-absences.mdx`
 
 ## <https://thealexandrian.net/wordpress/8335/roleplaying-games/in-the-shadow-of-the-spire-session-1d-the-common-room-at-night>
 
