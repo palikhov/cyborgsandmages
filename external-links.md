@@ -3771,6 +3771,10 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-whoops-forgot-the-wolf.mdx`
 
+## <https://commons.wikimedia.org/w/index.php?title=File:Fleur-de-lys_key.svg>
+
+- `src/content/posts/translations/alexandrian-ptolus-beginning-act-ii.mdx`
+
 ## <https://commons.wikimedia.org/wiki/File:Barcelona_2016-275%2Ejpg>
 
 - `src/content/posts/translations/alexandrian-ptolus-simple-simulationist-tactics-half-across-the-river.mdx`
@@ -6063,6 +6067,10 @@
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-behind-the-tale-of-itarek.mdx`
 
+## <https://thealexandrian.net/wordpress/36969/roleplaying-games/the-railroading-manifesto-part-5-more-chokers>
+
+- `src/content/posts/translations/alexandrian-ptolus-beginning-act-ii.mdx`
+
 ## <https://thealexandrian.net/wordpress/37055/roleplaying-games/ex-rpgnet-review-three-days-to-kill>
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-1-raiding-death-star.mdx`
@@ -6086,6 +6094,7 @@
 ## <https://thealexandrian.net/wordpress/37137/roleplaying-games/eternal-lies-books-of-the-los-angeles-cult-ucla-lot>
 
 - `src/content/posts/translations/alexandrian-eternal-lies-remix.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-commentary-on-the-info-dump.mdx`
 
 ## <https://thealexandrian.net/wordpress/37154/roleplaying-games/eternal-lies-books-of-the-los-angeles-cult-cults-library-part-1>
 
@@ -6104,6 +6113,7 @@
 ## <https://thealexandrian.net/wordpress/37217/roleplaying-games/eternal-lies-savitrees-research>
 
 - `src/content/posts/translations/alexandrian-eternal-lies-remix.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-commentary-on-the-info-dump.mdx`
 
 ## <https://thealexandrian.net/wordpress/37389/roleplaying-games/eternal-lies-severn-valley>
 
@@ -6471,6 +6481,7 @@
 - `src/content/posts/translations/alexandrian-failure-for-the-beginning-gm.mdx`
 - `src/content/posts/translations/alexandrian-gming-on-a-time-limit.mdx`
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-beginning-act-ii.mdx`
 - `src/content/posts/translations/alexandrian-storm-kings-remix-part-5d-making-alliances.mdx`
 
 ## <https://thealexandrian.net/wordpress/40459/roleplaying-games/random-gm-tip-learning-a-new-rpg>
@@ -6588,10 +6599,6 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/41147/roleplaying-games/in-the-shadow-of-the-spire-session-17d-shilukars-secrets>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/41172/roleplaying-games/ptolus-running-the-campaign-commentary-on-the-info-dump>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -6778,6 +6785,7 @@
 ## <https://thealexandrian.net/wordpress/43143/roleplaying-games/in-the-shadow-of-the-spire-session-18a-key-to-the-past>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-beginning-act-ii.mdx`
 
 ## <https://thealexandrian.net/wordpress/43155/roleplaying-games/in-the-shadow-of-the-spire-session-18b-missed-opportunities>
 
@@ -6797,10 +6805,6 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/43175/roleplaying-games/in-the-shadow-of-the-spire-session-19c-shilukars-end>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/43185/roleplaying-games/ptolus-running-the-campaign-beginning-act-ii>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -8847,6 +8851,10 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-roleplaying-ability-damage.mdx`
 
+## <https://thealexandrian.net?p=41147>
+
+- `src/content/posts/translations/alexandrian-ptolus-commentary-on-the-info-dump.mdx`
+
 ## <https://thealexandrian.net?p=41217>
 
 - `src/content/posts/translations/alexandrian-smart-prep-4-campaign-status-documents.mdx`
@@ -10684,6 +10692,7 @@
 
 ## <https://www.drivethrurpg.com/product/680/Chaositech?affiliate_id=81207>
 
+- `src/content/posts/translations/alexandrian-ptolus-commentary-on-the-info-dump.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-developing-taint.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-unsolved-mysteries.mdx`
 
