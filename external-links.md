@@ -1549,6 +1549,7 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-high-level-intimidations-and-intimations.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-rolling-for-npcs.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-session-9-miscellanea.mdx`
 
 ## <http://www.amazon.com/exec/obidos/ASIN/1588469484/digitalcomi0a-20>
 
@@ -2576,6 +2577,10 @@
 ## <http://www.lastgaspgrimoire.com/generators/choose-your-own-generator>
 
 - `src/content/posts/translations/detect-magic-hoard-dragon-queen-village.mdx`
+
+## <http://www.legendsandlabyrinths.com>
+
+- `src/content/posts/translations/alexandrian-ptolus-session-9-miscellanea.mdx`
 
 ## <http://www.lotfp.com/store/index.php?category_id=0&keyword=veins%20of%20the%20earth&product_id=262&route=product%2Fproduct>
 
@@ -6198,14 +6203,12 @@
 ## <https://thealexandrian.net/wordpress/39629/roleplaying-games/in-the-shadow-of-the-spire-session-9c-jade>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/39669/roleplaying-games/ptolus-running-the-campaign-a-miscellanea-of-session-9>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-session-9-miscellanea.mdx`
 
 ## <https://thealexandrian.net/wordpress/39689/roleplaying-games/in-the-shadow-of-the-spire-session-10a-the-labyrinths-of-ghul>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-exposition-dump-handouts.mdx`
 
 ## <https://thealexandrian.net/wordpress/39699/roleplaying-games/in-the-shadow-of-the-spire-session-10b-retreat-to-the-surface>
 
@@ -6216,10 +6219,6 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/39709/roleplaying-games/in-the-shadow-of-the-spire-session-10d-clan-of-the-torn-ear>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/39716/roleplaying-games/ptolus-running-the-campaign-exposition-dump-handouts>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -8480,6 +8479,7 @@
 
 - `src/content/posts/translations/alexandrian-art-of-the-key-3-hierarchy-of-reference.mdx`
 - `src/content/posts/translations/alexandrian-in-defense-of-system-mastery.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-session-9-miscellanea.mdx`
 
 ## <https://thealexandrian.net/wordpress/7418/roleplaying-games/8-reasons-to-buy-legends-labyrinths-even-if-you-never-play-it>
 
@@ -8559,6 +8559,7 @@
 ## <https://thealexandrian.net/wordpress/991/roleplaying-games/tales-from-the-table-unexpected-successes>
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-session-9-miscellanea.mdx`
 
 ## <https://thealexandrian.net/wordpress/tag/advanced-d20-rules>
 
@@ -10321,6 +10322,10 @@
 ## <https://www.drivethrurpg.com/product/149190/Castle-Gargantua>
 
 - `src/content/posts/translations/pleasures-of-osr-secrecy-and-discovery.mdx`
+
+## <https://www.drivethrurpg.com/product/159673/INFINITY-RPG-FREE-Quickstart>
+
+- `src/content/posts/translations/alexandrian-ptolus-session-9-miscellanea.mdx`
 
 ## <https://www.drivethrurpg.com/product/16937/Battlesystem-Skirmishes-2e?affiliate_id=428743>
 
