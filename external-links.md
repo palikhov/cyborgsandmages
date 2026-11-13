@@ -76,13 +76,13 @@
 
 - `src/content/posts/translations/acoup-logistics-part-iii-on-the-move.mdx`
 
+## <http://bankuei.wordpress.com/2008/06/11/and-breaking-old-habits>
+
+- `src/content/posts/translations/thecoremechanic-defining-sandbox-gaming.mdx`
+
 ## <http://basicredrpg.blogspot.ca/2017/07/dungeons-xp.html>
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
-
-## <http://batintheattic.blogspot.com/2008/10/tale-of-two-4th-editions.html>
-
-- `src/content/posts/translations/steamtunnel-set-up-sandbox-campaign.mdx`
 
 ## <http://batintheattic.blogspot.com/2009/10/more-mapping-secrets.html>
 
@@ -119,6 +119,10 @@
 ## <http://blog.binkystick.com/2010/04/21/spells-through-the-ages-detect-evil>
 
 - `src/content/posts/translations/delta-spells-through-ages-protection-from-evil.mdx`
+
+## <http://blog.retroroleplaying.com/2008/07/microlite74-released-download-your-copy.html>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
 
 ## <http://bloodofprokopius.blogspot.com/2011/12/meditating-on-random-encounter-tables.html>
 
@@ -554,6 +558,10 @@
 
 - `src/content/posts/translations/rambling-bumblers-sandbox-not-simulation.mdx`
 
+## <http://en.wikipedia.org/wiki/Nonlinear_gameplay>
+
+- `src/content/posts/translations/thecoremechanic-defining-sandbox-gaming.mdx`
+
 ## <http://en.wiktionary.org/wiki/moot_point>
 
 - `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-8.mdx`
@@ -591,6 +599,10 @@
 ## <http://erenow.com/postclassical/distantmirror/9.html>
 
 - `src/content/posts/translations/coinsandscrolls-death-taxes-and-death-taxes.mdx`
+
+## <http://exchangeofrealities.today.com/2008/08/29/proactive-vs-reactive-styles-player-initiative>
+
+- `src/content/posts/translations/thecoremechanic-defining-sandbox-gaming.mdx`
 
 ## <http://faculty.goucher.edu/eng240/medieval_prices.html>
 
@@ -721,6 +733,10 @@
 ## <http://grognardia.blogspot.com/2008/04/on-oracular-power-of-dice.html>
 
 - `src/content/posts/translations/dmdavid-role-of-die-roll-love-letter.mdx`
+
+## <http://grognardia.blogspot.com/2008/08/example.html>
+
+- `src/content/posts/translations/thecoremechanic-defining-sandbox-gaming.mdx`
 
 ## <http://grognardia.blogspot.com/2008/09/interview-tim-kask-part-i.html>
 
@@ -940,9 +956,13 @@
 
 - `src/content/posts/translations/downtime-activities-magical-research.mdx`
 
-## <http://jrients.blogspot.com/2008/08/old-schoolin-how-to-get-started.html>
+## <http://jrients.blogspot.com/2008/06/spitballing-superhero-sandbox.html>
 
-- `src/content/posts/translations/steamtunnel-set-up-sandbox-campaign.mdx`
+- `src/content/posts/translations/thecoremechanic-defining-sandbox-gaming.mdx`
+
+## <http://jrients.blogspot.com/2008/08/setting-up-my-sandbox.html>
+
+- `src/content/posts/translations/thecoremechanic-defining-sandbox-gaming.mdx`
 
 ## <http://jrients.blogspot.com/2008/11/draft-cinder-house-rules-part-1.html>
 
@@ -960,13 +980,13 @@
 
 - `src/content/posts/translations/monster-turf.mdx`
 
+## <http://jrients.tripod.com/xylarthen/uxt.pdf>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
 ## <http://kellri.blogspot.com/2008/07/cdd4-final-version-3.html>
 
 - `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
-
-## <http://kotgl.blogspot.com/2008/09/borderlands-style-adventures.html>
-
-- `src/content/posts/translations/steamtunnel-set-up-sandbox-campaign.mdx`
 
 ## <http://maziriansgarden.blogspot.com/2015/09/to-where-have-i-opened-way.html>
 
@@ -1030,6 +1050,10 @@
 ## <http://methodsetmadness.blogspot.com/2023/11/the-painful-procedure-of-random.html>
 
 - `src/content/posts/translations/bx-wilderness-encounters-are-bonkers.mdx`
+
+## <http://microlite20.net>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
 
 ## <http://mikepohjola.com/turku/index.html>
 
@@ -1123,6 +1147,10 @@
 
 - `src/content/posts/translations/bookandsword-how-heavy-were-iron-age-bows-part-1.mdx`
 
+## <http://philgamer.wordpress.com/2008/08/01/workweeks-weekends-for-dungeons-dragons>
+
+- `src/content/posts/translations/thecoremechanic-defining-sandbox-gaming.mdx`
+
 ## <http://planetalgol.blogspot.com/2010/03/thoughts-regarding-infamous-mouldering.html>
 
 - `src/content/posts/translations/downtime-activities-magical-research.mdx`
@@ -1150,6 +1178,10 @@
 ## <http://retiredadventurer.blogspot.ca/2017/02/considerations-on-restocking-dungeons.html>
 
 - `src/content/posts/translations/radiant-quests-and-restocking.mdx`
+
+## <http://revolution21days.blogspot.com/2008/06/endless-campaign.html>
+
+- `src/content/posts/translations/thecoremechanic-defining-sandbox-gaming.mdx`
 
 ## <http://rfg.urbanup.com/1534776>
 
@@ -1199,6 +1231,10 @@
 
 - `src/content/posts/translations/detect-magic-hoard-dragon-queen-cultist-generator.mdx`
 
+## <http://rpg.drivethrustuff.com/product_info.php?products_id=28306&it=1&filters=0_0_1340>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
 ## <http://rpg.nobl.ca/archive.php?x=dnd/archfr/wn>
 
 - `src/content/posts/translations/alexandrian-storm-kings-remix-part-5d-making-alliances.mdx`
@@ -1206,6 +1242,10 @@
 ## <http://rpg.nobl.ca/archive.php?x=dnd/wn/20041201a>
 
 - `src/content/posts/translations/alexandrian-storm-kings-remix-part-5d-making-alliances.mdx`
+
+## <http://rpgdiehard.blogspot.com/2008/09/sandbox-play-vs-quicksand-box-play.html>
+
+- `src/content/posts/translations/thecoremechanic-defining-sandbox-gaming.mdx`
 
 ## <http://rpgnews.com?p=240539>
 
@@ -1280,6 +1320,14 @@
 
 - `src/content/posts/translations/romantic-fantasy-revisited-3.mdx`
 
+## <http://stores.lulu.com/FightOn>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
+## <http://stores.lulu.com/store.php?fAcctID=639005>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
 ## <http://talesofthefroggod.com/tome-of-adventurer.html>
 
 - `src/content/posts/translations/hex-basics-4-detailing-outposts-and-adventure-sites.mdx`
@@ -1301,6 +1349,10 @@
 ## <http://tetra-cube.com/dnd/dnd-statblock.html>
 
 - `src/content/posts/translations/angrygm-how-to-f-cr-practical-example-1.mdx`
+
+## <http://thanuir.wordpress.com/2008/01/12/preparing-for-chaos>
+
+- `src/content/posts/translations/thecoremechanic-defining-sandbox-gaming.mdx`
 
 ## <http://thealexandrian.net/wordpress/36526/roleplaying-games/thinking-about-urbancrawls-part-6-old-school-inspiration>
 
@@ -1381,6 +1433,10 @@
 ## <http://trollsmyth.blogspot.co.uk/2015/03/feast-of-unicorn.html>
 
 - `src/content/posts/translations/romantic-fantasy-revisited-1.mdx`
+
+## <http://trollsmyth.blogspot.com/2008/05/maybe-this-is-how-d-was-played.html>
+
+- `src/content/posts/translations/thecoremechanic-defining-sandbox-gaming.mdx`
 
 ## <http://trollsmyth.blogspot.com/2008/05/shields-shall-be-splintered.html>
 
@@ -1508,6 +1564,10 @@
 
 - `src/content/posts/translations/delta-dnd-next-battlesystem.mdx`
 
+## <http://wothbora.googlepages.com/constructingpdfs>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
 ## <http://www.13thagesrd.com/classes/monk>
 
 - `src/content/posts/translations/tribality-monk-class-part-six.mdx`
@@ -1515,6 +1575,10 @@
 ## <http://www.acaeum.com/ddindexes/rulebooks.html>
 
 - `src/content/posts/translations/alexandrian-nomenclature-dnd-editions.mdx`
+
+## <http://www.adventuregamespubs.com>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
 
 ## <http://www.aedificium.org/Maps/LocalMaps.html>
 
@@ -1765,6 +1829,10 @@
 ## <http://www.barnesandnoble.com/w/fire-in-the-blood-erin-m-evans/1117655172?ean=9780786965298>
 
 - `src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx`
+
+## <http://www.basicfantasy.org/downloads.html>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
 
 ## <http://www.bay12games.com/dwarves>
 
@@ -2420,9 +2488,22 @@
 
 - `src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx`
 
+## <http://www.dragonsfoot.org>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
+## <http://www.dragonsfoot.org/cd>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
 ## <http://www.dragonsfoot.org/forums/viewtopic.php?t=18710&postdays=0&postorder=asc&start=35>
 
+- `src/content/posts/translations/kotgl-borderlands-style-adventures.mdx`
 - `src/content/posts/translations/melan-dungeon-mapping.mdx`
+
+## <http://www.dragonsfoot.org/php4/archive.php?sectioninit=CD&fileid=234>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
 
 ## <http://www.drivethrurpg.com/product/108572/The-Lazy-Dungeon-Master>
 
@@ -2484,6 +2565,10 @@
 ## <http://www.edstephan.org/Book/contents.html>
 
 - `src/content/posts/translations/coinsandscrolls-fast-mapping-part-3.mdx`
+
+## <http://www.emacswiki.org/alex/2008-08-07_Hard_Core_M20>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
 
 ## <http://www.enworld.org/Inzeladun/conan/conan25.htm>
 
@@ -2557,6 +2642,10 @@
 
 - `src/content/posts/translations/sienas-six-mile-hex.mdx`
 
+## <http://www.geocities.com/erroneousgrog>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
 ## <http://www.giantitp.com/comics/oots0001.html>
 
 - `src/content/posts/translations/alexandrian-dissociated-mechanics.mdx`
@@ -2591,6 +2680,14 @@
 ## <http://www.giantitp.com/forums/showthread.php?t=60675&page=5>
 
 - `src/content/posts/translations/alexandrian-d20-starting-combat.mdx`
+
+## <http://www.goblinoidgames.com/ll001.zip>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
+## <http://www.goodman-games.com/4380preview.html>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
 
 ## <http://www.greydragon.org/trips/Wales2005/Wales-5/index3.html>
 
@@ -2743,6 +2840,14 @@
 
 - `src/content/posts/translations/alexandrian-revised-3-5-stat-blocks.mdx`
 - `src/content/posts/translations/alexandrian-utility-in-game-design.mdx`
+
+## <http://www.lulu.com/content/3240731>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
+## <http://www.lulu.com/content/927985>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
 
 ## <http://www.lulu.com/content/976187>
 
@@ -3105,6 +3210,22 @@
 
 - `src/content/posts/translations/tribality-monk-class-part-nine.mdx`
 
+## <http://www.trolllord.com/newsite/cnc/8000.html>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
+## <http://www.trolllord.com/newsite/cnc/index.html>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
+## <http://www.trolllord.com/newsite/zagyg/8050.html>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
+## <http://www.trolllord.com/newsite/zagyg/8051.html>
+
+- `src/content/posts/translations/jrients-old-schoolin-how-to-get-started.mdx`
+
 ## <http://www.tuesdayknightgames.com/dead-planet>
 
 - `src/content/posts/translations/pleasures-of-osr-secrecy-and-discovery.mdx`
@@ -3170,6 +3291,10 @@
 ## <http://www222.pair.com/sjohn/fief.htm>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
+
+## <http://xeveninti.blogspot.com/2008/09/how-i-discovered-sandbox-campaigning.html>
+
+- `src/content/posts/translations/thecoremechanic-defining-sandbox-gaming.mdx`
 
 ## <http://zenopusarchives.blogspot.com/2013/11/part-7-something-has-come-strolling.html>
 

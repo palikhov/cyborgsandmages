@@ -114,6 +114,7 @@
 - `John Large`
 - `John Laviolette`
 - `Jon Peterson`
+- `Jonathan Jacobs`
 - `Josh Storey`
 - `Joshua Macy`
 - `Kelly Pawlik`
@@ -249,6 +250,7 @@
 | `John Large` | `John Large` |
 | `John Laviolette` | `John Laviolette` |
 | `Jon Peterson` | `Jon Peterson` |
+| `Jonathan Jacobs` | `Jonathan Jacobs` |
 | `Josh Storey` | `Josh Storey` |
 | `Joshua Macy` | `Joshua Macy` |
 | `Justin Alexander` | `Alexandrian` |
