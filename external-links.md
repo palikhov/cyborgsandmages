@@ -80,6 +80,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-building-castles.mdx`
 
+## <http://batintheattic.blogspot.com/2008/10/tale-of-two-4th-editions.html>
+
+- `src/content/posts/translations/steamtunnel-set-up-sandbox-campaign.mdx`
+
 ## <http://batintheattic.blogspot.com/2009/10/more-mapping-secrets.html>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvii.mdx`
@@ -932,6 +936,10 @@
 
 - `src/content/posts/translations/downtime-activities-magical-research.mdx`
 
+## <http://jrients.blogspot.com/2008/08/old-schoolin-how-to-get-started.html>
+
+- `src/content/posts/translations/steamtunnel-set-up-sandbox-campaign.mdx`
+
 ## <http://jrients.blogspot.com/2008/11/draft-cinder-house-rules-part-1.html>
 
 - `src/content/posts/translations/jrients-dungeons-dawn-patrol.mdx`
@@ -951,6 +959,10 @@
 ## <http://kellri.blogspot.com/2008/07/cdd4-final-version-3.html>
 
 - `src/content/posts/translations/hackslashmaster-so-called-wilderness.mdx`
+
+## <http://kotgl.blogspot.com/2008/09/borderlands-style-adventures.html>
+
+- `src/content/posts/translations/steamtunnel-set-up-sandbox-campaign.mdx`
 
 ## <http://maziriansgarden.blogspot.com/2015/09/to-where-have-i-opened-way.html>
 
@@ -1483,6 +1495,18 @@
 ## <http://web.mac.com/rsdancey/iWeb/RSDanceyBlog/Blog/Blog.html>
 
 - `src/content/posts/translations/alexandrian-dd-calibrating-expectations.mdx`
+
+## <http://webamused.com/bumblers?p=160>
+
+- `src/content/posts/translations/steamtunnel-set-up-sandbox-campaign.mdx`
+
+## <http://webamused.com/bumblers?p=161>
+
+- `src/content/posts/translations/steamtunnel-set-up-sandbox-campaign.mdx`
+
+## <http://webamused.com/bumblers?p=162>
+
+- `src/content/posts/translations/steamtunnel-set-up-sandbox-campaign.mdx`
 
 ## <http://whatwouldconando.blogspot.com/2015/05/postulants-of-new-sun.html>
 
@@ -2504,6 +2528,10 @@
 ## <http://www.filfre.net/2012/05/zork-ii-part-2>
 
 - `src/content/posts/translations/dmdavid-player-skill-without-frustration.mdx`
+
+## <http://www.flickr.com/photos/kensanata/533336771/in/set-72157594406870853>
+
+- `src/content/posts/translations/steamtunnel-set-up-sandbox-campaign.mdx`
 
 ## <http://www.flickr.com/photos/megabee>
 
