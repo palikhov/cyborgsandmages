@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
 import BaseLayout from "~layouts/BaseLayout.astro";
 import PostCard from "~components/PostCard.astro";
+import RandomArticle from "~components/RandomArticle.astro";
 import banner from "~assets/branding/banner.jpg";
 import { SITE_DESCRIPTION, SITE_TITLE } from "src/consts";
 
@@ -179,16 +180,15 @@ const projects = [
 			</div>
 		</section>
 
+		{posts.length > 0 && <RandomArticle post={posts[Math.floor(Math.random() * posts.length)]} />}
+
 		<section class="py-8">
 			<div class="mb-6 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
 				<div>
 					<p class="text-sm font-semibold uppercase tracking-wide text-brand-gold">Новое</p>
 					<h2 class="font-serif text-3xl font-bold text-brand-ivory">Последние материалы</h2>
 				</div>
-				<div class="flex flex-wrap gap-x-4 gap-y-2 text-sm font-semibold">
-					<a href="/articles/1" class="text-brand-wave hover:text-brand-gold">Архив статей</a>
-					<a href="/random-article" class="text-brand-wave hover:text-brand-gold"><span aria-hidden="true">🎲</span> Случайная статья</a>
-				</div>
+				<a href="/articles/1" class="text-sm font-semibold text-brand-wave hover:text-brand-gold">Архив статей</a>
 			</div>
 			<div class="space-y-6">
 				{latestPosts.map((post) => <PostCard post={post} />)}

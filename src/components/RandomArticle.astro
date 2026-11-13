@@ -1,0 +1,93 @@
+---
+import { Image } from "astro:assets";
+import type { CollectionEntry } from "astro:content";
+import placeholder from "~assets/branding/placeholder.webp";
+
+interface Props {
+	post: CollectionEntry<"posts">;
+}
+
+const { post } = Astro.props;
+---
+
+<section
+	data-random-article={post.slug}
+	aria-labelledby="random-article-heading"
+	class="my-6 grid overflow-hidden rounded-lg border border-brand-gold bg-brand-mist sm:grid-cols-[2fr_3fr]">
+	<div class="relative min-h-40 max-sm:aspect-video">
+		<Image
+			src={post.data.cover ?? placeholder}
+			alt=""
+			width={720}
+			format="webp"
+			class="absolute inset-0 h-full w-full object-cover"
+		/>
+	</div>
+	<div class="min-w-0 self-center p-5 sm:p-8">
+		<h2 id="random-article-heading" class="text-sm font-semibold text-brand-gold">
+			<span aria-hidden="true">🎲</span> Случайная статья
+		</h2>
+		<div class="mt-3 space-y-3" aria-live="polite">
+			<h3 class="break-words font-serif text-2xl font-bold leading-tight text-brand-ivory sm:text-3xl" data-title>
+				{post.data.title}
+			</h3>
+			<p class="line-clamp-3 text-sm leading-6 text-brand-ivory sm:text-base" data-description>
+				{post.data.description}
+			</p>
+		</div>
+		<div class="mt-5 flex flex-wrap items-center gap-x-5 gap-y-3 text-sm font-semibold">
+			<a
+				href={`/posts/${post.slug}/`}
+				class="rounded-md bg-brand-crimson px-4 py-2 text-white hover:bg-brand-gold hover:text-brand-night"
+				data-read>Читать статью</a>
+			<button type="button" hidden class="text-brand-gold hover:underline" data-reroll>
+				<span aria-hidden="true">🎲</span> Другая статья
+			</button>
+		</div>
+		<p class="mt-3 text-sm text-brand-ivory" role="status" hidden data-error>
+			Не удалось загрузить другую статью. Попробуйте ещё раз.
+		</p>
+	</div>
+</section>
+
+<script>
+	const card = document.querySelector<HTMLElement>("[data-random-article]");
+	const cover = card?.querySelector("img");
+	const title = card?.querySelector("[data-title]");
+	const description = card?.querySelector("[data-description]");
+	const read = card?.querySelector<HTMLAnchorElement>("[data-read]");
+	const reroll = card?.querySelector<HTMLButtonElement>("[data-reroll]");
+	const error = card?.querySelector<HTMLElement>("[data-error]");
+
+	if (card && cover && title && description && read && reroll && error) {
+		let loading = false;
+		const showRandomArticle = async (requested: boolean) => {
+			if (loading) return;
+			loading = true;
+			reroll.disabled = true;
+			error.hidden = true;
+			try {
+				const query = new URLSearchParams({ preview: "1" });
+				if (requested) query.set("current", card.dataset.randomArticle ?? "");
+				const response = await fetch(`/random-article?${query}`, { signal: AbortSignal.timeout(8000) });
+				if (!response.ok) throw new Error("Article preview unavailable");
+				const article = await response.json();
+				card.dataset.randomArticle = article.slug;
+				cover.removeAttribute("srcset");
+				cover.src = article.cover;
+				title.textContent = article.title;
+				description.textContent = article.description;
+				read.href = article.href;
+			} catch {
+				error.hidden = !requested;
+			} finally {
+				loading = false;
+				reroll.disabled = false;
+			}
+		};
+
+		reroll.hidden = false;
+		reroll.addEventListener("click", () => void showRandomArticle(true));
+		void showRandomArticle(false);
+	}
+</script>

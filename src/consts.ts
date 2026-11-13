@@ -20,8 +20,8 @@ export const SITE_NAVIGATION = [
 		href: "/translations/1"
 	},
 	{
-		label: "Core d20 RPG",
-		href: "/cored20rpg"
+		label: "Забытые Королевства",
+		href: "/forgotten-realms/1"
 	},
 	{
 		label: "Ресурсы",

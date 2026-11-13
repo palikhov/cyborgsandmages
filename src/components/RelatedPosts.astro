@@ -57,13 +57,27 @@ const { posts } = Astro.props;
 		--rule: #796142;
 		--ivory: #fae8cb;
 		--muted: #dbc7aa;
+		--section-background: #181613;
+		--card-background: #211c16;
+		--category-background: var(--gold);
+		--category-text: #241a10;
 		container-type: inline-size;
 		margin-block: 2.5rem;
 		padding: clamp(0.85rem, 3%, 1.5rem);
 		border: 1px solid var(--rule);
 		border-radius: 0.5rem;
-		background: #181613;
+		background: var(--section-background);
 		color: var(--ivory);
+	}
+
+	:global(html[data-theme="light"]) .related-posts {
+		--gold: rgb(var(--brand-gold));
+		--rule: #ab916c;
+		--ivory: rgb(var(--brand-heading));
+		--muted: rgb(var(--brand-ivory));
+		--section-background: rgb(var(--brand-mist));
+		--card-background: rgb(var(--brand-night));
+		--category-background: #e5cea5;
 	}
 
 	.section-heading {
@@ -122,7 +136,7 @@ const { posts } = Astro.props;
 		overflow: hidden;
 		border: 1px solid var(--rule);
 		border-radius: 0.4rem;
-		background: #211c16;
+		background: var(--card-background);
 		color: inherit;
 		text-decoration: none;
 	}
@@ -161,8 +175,8 @@ const { posts } = Astro.props;
 		margin-top: -1.5rem;
 		padding: 0.1rem 0.55rem;
 		border-radius: 0.25rem;
-		background: var(--gold);
-		color: #241a10;
+		background: var(--category-background);
+		color: var(--category-text);
 		font-size: 0.75rem;
 		font-weight: 700;
 	}

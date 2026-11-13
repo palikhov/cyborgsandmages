@@ -1818,6 +1818,10 @@
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-xvi.mdx`
 
+## <http://www.columbiagames.com/cgi-bin/query/cfg/zoom.cfg?product_id=5201>
+
+- `src/content/posts/translations/batintheattic-medieval-levies-and-revenues.mdx`
+
 ## <http://www.creightonbroadhurst.com/131000-design-word-challenge-april-update>
 
 - `src/content/posts/translations/creighton-2-campaign-prep-is-awesome.mdx`
