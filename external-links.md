@@ -3758,6 +3758,14 @@
 
 - `src/content/posts/translations/faction-procedures-comparative-review.mdx`
 
+## <https://blog.d4caltrops.com/2024/12/dungeon-stocking-expanded.html>
+
+- `src/content/posts/translations/d4caltrops-wilderness-stocking-expanded.mdx`
+
+## <https://blog.d4caltrops.com/search/label/wilderness%20tier>
+
+- `src/content/posts/translations/d4caltrops-wilderness-stocking-expanded.mdx`
+
 ## <https://blogs.bl.uk/digitisedmanuscripts/2013/09/knight-v-snail.html>
 
 - `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`

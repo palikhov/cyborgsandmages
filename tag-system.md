@@ -121,6 +121,7 @@
 - `Kenneth Hodges`
 - `KibblesTasty`
 - `Kobold Press`
+- `ktrey`
 - `Light`
 - `Lordmatteus`
 - `LS`
@@ -169,6 +170,7 @@
 - `W. F. Smith`
 - `Wallace Cleaves`
 - `Wayne E. Lee`
+- `Xaosseed`
 - `Мартин Кристофер`
 
 ### Соответствие авторов переводов тегам
@@ -258,6 +260,7 @@
 | `Kenneth Hodges` | `Kenneth Hodges` |
 | `KibblesTasty` | `KibblesTasty` |
 | `Kobold Press` | `Kobold Press` |
+| `ktrey` | `ktrey` |
 | `Light` | `Light` |
 | `Lordmatteus` | `Lordmatteus` |
 | `LS` | `LS` |
@@ -307,6 +310,7 @@
 | `W. F. Smith` | `W. F. Smith` |
 | `Wallace Cleaves` | `Wallace Cleaves` |
 | `Wayne E. Lee` | `Wayne E. Lee` |
+| `Xaosseed` | `Xaosseed` |
 | `Yora` | `Мартин Кристофер` |
 | `Мартин Кристофер` | `Мартин Кристофер` |
 
