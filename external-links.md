@@ -4351,6 +4351,10 @@
 
 - `src/content/posts/translations/dumpstat-pricing-magic-items-part-8.mdx`
 
+## <https://docs.google.com/document/d/1iNureGCB69H_lTcVgpiv4Av2Sj9_sKNmm8QU496V4Zc/edit?usp=sharing>
+
+- `src/content/posts/translations/rjd20-ask-loaded-focused-questions.mdx`
+
 ## <https://docs.google.com/file/d/0B4wpCwKDa4dCU09YOWFxWEdpTGM/edit>
 
 - `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-2.mdx`
@@ -5551,6 +5555,14 @@
 ## <https://scrollforinitiative.com/2021/02/08/how-medieval-is-dd>
 
 - `src/content/posts/translations/forlorn-encystment-on-settlements.mdx`
+
+## <https://seedofworlds.blogspot.com/2020/11/i-was-raised-on-lower-planes-on-running.html>
+
+- `src/content/posts/translations/seedofworlds-stronghold-clearing-reclamation.mdx`
+
+## <https://seedofworlds.blogspot.com/2021/10/hidden-depths-of-thenya-palace-actual.html>
+
+- `src/content/posts/translations/seedofworlds-stronghold-clearing-reclamation.mdx`
 
 ## <https://sententiaeantiquae.com/2018/05/28/what-is-written-here-is-brief-some-roman-memorials-for-memorial-day>
 
@@ -11676,6 +11688,14 @@
 
 - `src/content/posts/translations/acoup-logistics-part-ii-foraging.mdx`
 
+## <https://www.rjd20.com/2019/07/session-starters.html>
+
+- `src/content/posts/translations/rjd20-ask-loaded-focused-questions.mdx`
+
+## <https://www.rjd20.com/search/label/The%20Worldforge>
+
+- `src/content/posts/translations/rjd20-major-powers-in-your-dd-setting.mdx`
+
 ## <https://www.rpg.net/columns/advanced-designers-and-dragons/advanced-designers-and-dragons56.phtml>
 
 - `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
@@ -11886,6 +11906,10 @@
 ## <https://www.wolframalpha.com/input?i=line+through+%2820,+0.28%29+and+%2840,+0.73%29>
 
 - `src/content/posts/translations/delta-more-missile-modeling.mdx`
+
+## <https://www.worldcraftclub.com/podcast/44-rjd20-trusting-your-visitant-with-your-world>
+
+- `src/content/posts/translations/rjd20-ask-loaded-focused-questions.mdx`
 
 ## <https://www.wsj.com/articles/SB10001424127887323596204578243702404190338>
 
