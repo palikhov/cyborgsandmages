@@ -31,6 +31,7 @@ const { posts } = Astro.props;
 							<a href={`/posts/${slug}`} class="post-card">
 								<Image
 									src={cover ?? placeholder}
+									data-placeholder-cover={!cover ? "true" : undefined}
 									alt=""
 									width={480}
 									format="webp"

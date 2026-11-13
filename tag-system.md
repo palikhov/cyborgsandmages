@@ -115,6 +115,7 @@
 - `John Laviolette`
 - `Jon Peterson`
 - `Josh Storey`
+- `Joshua Macy`
 - `Kelly Pawlik`
 - `Kenneth Hodges`
 - `KibblesTasty`
@@ -249,6 +250,7 @@
 | `John Laviolette` | `John Laviolette` |
 | `Jon Peterson` | `Jon Peterson` |
 | `Josh Storey` | `Josh Storey` |
+| `Joshua Macy` | `Joshua Macy` |
 | `Justin Alexander` | `Alexandrian` |
 | `Kelly Pawlik` | `Kelly Pawlik` |
 | `Kenneth Hodges` | `Kenneth Hodges` |

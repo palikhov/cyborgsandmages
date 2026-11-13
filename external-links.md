@@ -550,6 +550,10 @@
 
 - `src/content/posts/translations/coinsandscrolls-dont-you-know-theres-war-on.mdx`
 
+## <http://en.wikipedia.org/wiki/Jessica_Fletcher>
+
+- `src/content/posts/translations/rambling-bumblers-sandbox-not-simulation.mdx`
+
 ## <http://en.wiktionary.org/wiki/moot_point>
 
 - `src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-8.mdx`
@@ -1496,18 +1500,6 @@
 
 - `src/content/posts/translations/alexandrian-dd-calibrating-expectations.mdx`
 
-## <http://webamused.com/bumblers?p=160>
-
-- `src/content/posts/translations/steamtunnel-set-up-sandbox-campaign.mdx`
-
-## <http://webamused.com/bumblers?p=161>
-
-- `src/content/posts/translations/steamtunnel-set-up-sandbox-campaign.mdx`
-
-## <http://webamused.com/bumblers?p=162>
-
-- `src/content/posts/translations/steamtunnel-set-up-sandbox-campaign.mdx`
-
 ## <http://whatwouldconando.blogspot.com/2015/05/postulants-of-new-sun.html>
 
 - `src/content/posts/translations/fistsofcinderandstone-designing-settlements.mdx`
@@ -2403,6 +2395,10 @@
 ## <http://www.darkshire.net/%7Ejhkim/rpg/dnd/abilities.html>
 
 - `src/content/posts/translations/alexandrian-dd-calibrating-expectations.mdx`
+
+## <http://www.darkshire.net/jhkim/rpg/theory/threefold/simulationism.html>
+
+- `src/content/posts/translations/rambling-bumblers-sandbox-not-simulation.mdx`
 
 ## <http://www.darthsanddroids.net/episodes/0035.html>
 
@@ -9705,6 +9701,10 @@
 ## <https://web.archive.org/web/20080221174425/http://www.montecook.com/cgi-bin/page.cgi?mc_los_142>
 
 - `src/content/posts/translations/alexandrian-ivory-tower-design.mdx`
+
+## <https://web.archive.org/web/20100324065908/http://webamused.com:80/bumblers?p=160>
+
+- `src/content/posts/translations/rambling-bumblers-sandbox-play.mdx`
 
 ## <https://web.archive.org/web/20110419191117/http://www.maisonstclaire.org/resources/pricelist/pricelist.html>
 

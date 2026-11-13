@@ -18,8 +18,10 @@ export const GET: APIRoute = async ({ url }) => {
 		return Response.json({
 			slug: post.slug,
 			title: post.data.title,
+			author: post.data.author,
 			description: post.data.description,
 			cover: (post.data.cover ?? placeholder).src,
+			isPlaceholderCover: !post.data.cover,
 			href
 		}, { headers });
 	}

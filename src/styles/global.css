@@ -90,3 +90,8 @@ a.tag {
 [data-theme="light"] [data-theme-moon] {
 	display: inline;
 }
+
+/* The default cover has an opaque background; only recolor this illustration. */
+[data-theme="light"] [data-placeholder-cover="true"] {
+	filter: grayscale(1) invert(1) sepia(0.2);
+}
