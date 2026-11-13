@@ -161,7 +161,7 @@ export async function validateArticle(root, path, options = {}, text = readFileS
   const authorRegistry = authorTagRegistry(tagText);
   for (const tag of authorRegistry.authorTags) canonical.add(tag);
   errors.push(...authorRegistry.errors);
-  if (!Array.isArray(data.tags) || data.tags[0] !== 'Перевод' || data.tags.length < 3 || data.tags.length > 6 || new Set(data.tags).size !== data.tags.length || data.tags.some(t => !canonical.has(t)) || data.tags.filter(t => systems.has(t)).length > 1) errors.push('Invalid canonical tags');
+  if (!Array.isArray(data.tags) || data.tags[0] !== 'Перевод' || data.tags.length < 3 || data.tags.length > 10 || new Set(data.tags).size !== data.tags.length || data.tags.some(t => !canonical.has(t)) || data.tags.filter(t => systems.has(t)).length > 1) errors.push('Invalid canonical tags');
   if (Array.isArray(data.tags)) {
     const usedAuthorTags = data.tags.filter(tag => authorRegistry.authorTags.has(tag));
     if (path.split('/')[3] === 'translations') {
