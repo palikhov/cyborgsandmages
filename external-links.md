@@ -5259,6 +5259,10 @@
 
 - `src/content/posts/translations/alexandrian-disarming-magical-traps.mdx`
 
+## <https://pixabay.com/illustrations/team-teamwork-motivation-strategy-3242301>
+
+- `src/content/posts/translations/gnomestew-player-roles.mdx`
+
 ## <https://pixabay.com/photos/apple-macbook-notebook-computer-1853259>
 
 - `src/content/posts/translations/manage-your-information.mdx`
@@ -9383,6 +9387,10 @@
 
 - `src/content/posts/translations/angrygm-true-scenario-designery.mdx`
 
+## <https://theangrygm.com/appendix-break-your-mapaholism>
+
+- `src/content/posts/translations/angrygm-lost-player-skills-mapping.mdx`
+
 ## <https://theangrygm.com/babys-first-dungeon-1>
 
 - `src/content/posts/translations/angrygm-battletoads-problem.mdx`
@@ -9545,6 +9553,11 @@
 ## <https://theangrygm.com/support-theangrygm-com>
 
 - `src/content/posts/translations/angrygm-real-game-masters-run-half-baked-adventures.mdx`
+
+## <https://theangrygm.com/talk-is-cheap-so-is-thought>
+
+- `src/content/posts/translations/angrygm-lost-player-skills-calling.mdx`
+- `src/content/posts/translations/angrygm-lost-player-skills-mapping.mdx`
 
 ## <https://theangrygm.com/tao-of-dice>
 
@@ -9802,6 +9815,14 @@
 ## <https://vimeo.com/13634653>
 
 - `src/content/posts/translations/delta-swimming-in-armor-videos.mdx`
+
+## <https://vk.com/@trpgkingdom-poteryannye-navyki-igroka-koller>
+
+- `src/content/posts/translations/angrygm-lost-player-skills-calling.mdx`
+
+## <https://vk.com/@trpgkingdom-poteryannye-navyki-igroka-mapper>
+
+- `src/content/posts/translations/angrygm-lost-player-skills-mapping.mdx`
 
 ## <https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=60511&viewType=detailView>
 
