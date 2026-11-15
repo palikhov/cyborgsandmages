@@ -6168,6 +6168,10 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-adventure-not-taken.mdx`
 
+## <https://thealexandrian.net/wordpress/15244/roleplaying-games/thought-of-the-day-blue-doors-of-ptolus>
+
+- `src/content/posts/translations/alexandrian-ptolus-laying-groundwork.mdx`
+
 ## <https://thealexandrian.net/wordpress/15339/roleplaying-games/deus-ex-tactical-hacking-part-2-tools-for-tactical-hacking>
 
 - `src/content/posts/translations/alexandrian-deus-ex-tactical-hacking.mdx`
@@ -6826,6 +6830,7 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-exposition-dump-handouts.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-in-jokes.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-laying-groundwork.mdx`
 
 ## <https://thealexandrian.net/wordpress/39699/roleplaying-games/in-the-shadow-of-the-spire-session-10b-retreat-to-the-surface>
 
@@ -7410,6 +7415,7 @@
 ## <https://thealexandrian.net/wordpress/43990/roleplaying-games/design-notes-scenario-tools>
 
 - `src/content/posts/translations/alexandrian-long-term-scenario-hooks.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-laying-groundwork.mdx`
 
 ## <https://thealexandrian.net/wordpress/44006/roleplaying-games/hydroid-monsters-part-2-sample-hydroids>
 
@@ -7419,6 +7425,7 @@
 
 - `src/content/posts/translations/alexandrian-advanced-d20-taint.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-back-back-to-the-dungeon.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-laying-groundwork.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-magic-item-wish-lists.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-make-it-cost-them.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-player-initiated-vectors.mdx`
@@ -7765,6 +7772,7 @@
 ## <https://thealexandrian.net/wordpress/45943/roleplaying-games/in-the-shadow-of-the-spire-session-25b-blood-on-the-orrery>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-laying-groundwork.mdx`
 
 ## <https://thealexandrian.net/wordpress/46032/roleplaying-games/advanced-gamemastery-running-the-sandbox>
 
@@ -7815,6 +7823,7 @@
 
 - `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 - `src/content/posts/translations/alexandrian-how-to-remix-adventure.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-art-handouts.mdx`
 - `src/content/posts/translations/alexandrian-three-clue-rule.mdx`
 
 ## <https://thealexandrian.net/wordpress/46362/roleplaying-games/every-edition-of-dd-a-quick-history-of-the-worlds-first-roleplaying-game>
@@ -8606,6 +8615,7 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-contract-handouts.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-inserting-bangs.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-laying-groundwork.mdx`
 
 ## <https://thealexandrian.net/wordpress/53099/roleplaying-games/in-the-shadow-of-the-spire-session-48b-the-fall-of-tepal>
 
@@ -8616,18 +8626,6 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/53106/roleplaying-games/in-the-shadow-of-the-spire-session-48d-alchestrins-mural>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/53111/roleplaying-games/ptolus-running-the-campaign-laying-groundwork>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/53166/roleplaying-games/ptolus-running-the-campaign-undead-for-effect>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/53188/roleplaying-games/ptolus-running-the-campaign-art-handouts>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -8765,6 +8763,7 @@
 ## <https://thealexandrian.net/wordpress/991/roleplaying-games/tales-from-the-table-unexpected-successes>
 
 - `src/content/posts/translations/alexandrian-dont-prep-plots.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-laying-groundwork.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-prepping-situations-is-cool.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-session-9-miscellanea.mdx`
 
@@ -9532,10 +9531,17 @@
 ## <https://thealexandrian.net?p=53099>
 
 - `src/content/posts/translations/alexandrian-ptolus-contract-handouts.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-laying-groundwork.mdx`
 
-## <https://thealexandrian.net?p=53111>
+## <https://thealexandrian.net?p=53102>
 
-- `src/content/posts/translations/alexandrian-ptolus-contract-handouts.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-laying-groundwork.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-undead-for-effect.mdx`
+
+## <https://thealexandrian.net?p=53106>
+
+- `src/content/posts/translations/alexandrian-ptolus-art-handouts.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-undead-for-effect.mdx`
 
 ## <https://thealexandrian.net?p=53311>
 
@@ -10324,6 +10330,10 @@
 ## <https://www.amazon.com/exec/obidos/ASIN/B0033090D2/digitalcomi0a-20>
 
 - `src/content/posts/translations/alexandrian-ptolus-a-confusion-of-names.mdx`
+
+## <https://www.amazon.com/exec/obidos/ASIN/B003UI24DA/digitalcomi0a-20>
+
+- `src/content/posts/translations/alexandrian-ptolus-art-handouts.mdx`
 
 ## <https://www.amazon.com/exec/obidos/ASIN/B003ULW74S/digitalcomi0a-20>
 
@@ -11179,6 +11189,10 @@
 ## <https://www.drivethrurpg.com/en/product/581335/gary-s-appendix-issue-10?affiliate_id=345498>
 
 - `src/content/posts/translations/garys-appendix-10-hells.mdx`
+
+## <https://www.drivethrurpg.com/en/product/59983/dark-tidings?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-ptolus-laying-groundwork.mdx`
 
 ## <https://www.drivethrurpg.com/en/product/647/vampire-the-masquerade-revised-edition?affiliate_id=81207>
 
