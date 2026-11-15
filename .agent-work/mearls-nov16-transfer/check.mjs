@@ -1,0 +1,22 @@
+import fs from 'node:fs';
+import { validateArticle, parseArticle } from '../../.agents/skills/translate-publish-article/scripts/publication-lib.mjs';
+import { updateTranslations } from '../../.agents/skills/translate-publish-article/scripts/publish-article.mjs';
+import { normalizeUrl } from '../../.agents/skills/translate-publish-article/scripts/lookup-registries.mjs';
+const path = 'src/content/posts/translations/mike-mearls-why-combat-matters-in-dnd.mdx';
+const canonical = 'https://www.youtube.com/watch?v=q-mJ_FemII0';
+const body = fs.readFileSync(path, 'utf8');
+const options = {canonicalUrl:canonical, date:'2026-11-16', category:'translations'};
+const actual = await validateArticle(process.cwd(), path, options, body);
+if (actual.errors.length !== 1 || !actual.errors[0].startsWith('JSX')) throw new Error(JSON.stringify(actual));
+const components = parseArticle(body).nodes.filter(node => /^mdx/.test(node.type));
+if (components.length !== 1 || components[0].name !== 'Youtube' || components[0].attributes.find(a=>a.name==='href')?.value !== 'https://www.youtube.com/embed/q-mJ_FemII0') throw new Error('Incorrect video embed');
+const safe = await validateArticle(process.cwd(), path, options, body.replace(/^<Youtube [^\n]+ \/>\r?\n/m,''));
+if (!safe.ok || safe.images !== 1) throw new Error(JSON.stringify(safe));
+const reg = 'translated-articles.md';
+const row = ['Why Combat is Central to D&D', 'Почему сражения так важны в D&D', 'Майкл Мирлз', 'Codex по инструкциям Антона "Palant" Палихова', '<'+canonical+'>', '<https://cyborgsandmages.com/posts/translations/mike-mearls-why-combat-matters-in-dnd>'];
+const original = fs.readFileSync(reg,'utf8');
+const updated = updateTranslations(original,row,normalizeUrl);
+if (updateTranslations(updated,row,normalizeUrl) !== updated) throw new Error('Non-idempotent registry');
+if (updated !== original) fs.writeFileSync(reg,updated);
+console.log(JSON.stringify({ok:true,images:safe.images,video:components[0].name}));
+

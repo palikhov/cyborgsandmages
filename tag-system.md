@@ -272,6 +272,7 @@
 | `Melan` | `Melan` |
 | `Michael "Chgowiz" Shorten` | `Michael "Chgowiz" Shorten` |
 | `Mike Mearls` | `Mike Mearls` |
+| `Майкл Мирлз` | `Mike Mearls` |
 | `Mike Shea` | `Sly Flourish` |
 | `Monte Cook` | `Monte Cook` |
 | `Murkdice` | `Murkdice` |
