@@ -6817,6 +6817,7 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-managing-supporting-cast.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-opportunistic-foreshadowing.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-reputation.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-tavern-time.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-unique-path-of-actual-play.mdx`
 
@@ -8313,10 +8314,6 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
-## <https://thealexandrian.net/wordpress/51265/roleplaying-games/ptolus-running-the-campaign-reputation>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/51374/roleplaying-games/mythos-revelations>
 
 - `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
@@ -9369,6 +9366,7 @@
 ## <https://thealexandrian.net?p=51242>
 
 - `src/content/posts/translations/alexandrian-ptolus-clues-linking-scenarios.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-reputation.mdx`
 
 ## <https://thealexandrian.net?p=52146>
 
