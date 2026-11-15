@@ -1,0 +1,29 @@
+{
+  "article": "src/content/posts/translations/alexandrian-ptolus-ex-post-facto-roleplaying.mdx",
+  "canonicalUrl": "https://thealexandrian.net/wordpress/52570/roleplaying-games/ptolus-running-the-campaign-ex-post-facto-roleplaying",
+  "originalTitle": "Ptolus: Running the Campaign – Ex Post Facto Roleplaying",
+  "date": "2026-11-15",
+  "category": "translations",
+  "verifiedAliases": [
+    {
+      "urls": [
+        "http://thealexandrian.net/wordpress/37976/roleplaying-games/art-of-rulings-part-3-the-fiction-mechanics-cycle",
+        "https://thealexandrian.net/wordpress/37976/roleplaying-games/art-of-rulings-part-3-the-fiction-mechanics-cycle"
+      ],
+      "evidence": "The HTTP page declares the HTTPS URL as its canonical URL"
+    },
+    {
+      "urls": [
+        "http://thealexandrian.net/wordpress/38140/roleplaying-games/art-of-rulings-part-6-fictional-cleromancy",
+        "https://thealexandrian.net/wordpress/38140/roleplaying-games/art-of-rulings-part-6-fictional-cleromancy"
+      ],
+      "evidence": "The HTTP page declares the HTTPS URL as its canonical URL"
+    }
+  ],
+  "excludeExternal": [
+    {
+      "url": "https://stock.adobe.com/images/feuerring-mit-feuerschweif/201471031",
+      "reason": "Ссылка-атрибуция иллюстрации"
+    }
+  ]
+}

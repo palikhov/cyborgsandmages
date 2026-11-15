@@ -1,0 +1,443 @@
+This is Part I of a seven part series (
+I
+,
+II
+,
+III
+,
+IV
+,
+V
+,
+VI
+,
+VII
+,
+Gloss
+.,
+Retrospective
+) comparing the popular legacy of Sparta (embodied in films like
+300
+) with the historical ancient state.  Today, we’re going to start by looking at the sources of our information on Sparta, and then begin at the beginning: the Spartan rearing and training system, the
+agoge
+.
+I knew we’d go here eventually (a critique of
+300
+in particular has been a fairly common request), but I decided to move this up in the calendar after reading the
+dueling
+articles
+in the New Republic about the value of Sparta.  I don’t think either article was really as comprehensive as it could have been, and I felt one of them was deeply mistaken – it will soon be very obvious which one.
+Sparta’s legacy in American popular culture has always been prominent, but it seems particularly so now.  You see the Spartan lambda (the Λ for Lacedaemon, the name of the territory of Sparta) on t-shirts.  Sparta is invoked in fitness motivational posters.  Famous Spartan witticisms (like
+molon labe
+– “come and get them”) are turned into modern political slogans.  There’s an entire, popular series of obstacle course runs called ‘Spartan race’ (an
+unfortunate
+phrasing if ever I’ve heard one).
+The logo for “Spartan Race” obstacle races.  It seems relevant to note that the helmet here is a
+Corinthian
+helmet.  Historically, Sparta is more strongly associated with the pilos helmet, a simple conical helmet in bronze which kept the face and ears clear, but probably Spartans wore whatever helmet they liked.
+It extends into broader use in popular culture.  Naturally, the main protagonist of
+Assassin’s Creed: Odyssey
+had to be a Spartan.  Spartans are an elite military force even in
+Total War: Rome II
+(which takes place a century after Sparta ceased to be a meaningful military power).  The name for the super-soldiers of the
+Halo
+universe, including the protagonist, Master Chief, are Spartans.  The battle of Thermopylae and its three hundred Spartiates (why am I not saying ‘Spartans?’ we’ll get there
+next
+week) gets a friendly name-check in
+Star Trek: Deep Space Nine
+and a full, loving reenactment in Cartoon Network’s
+Samurai Jack
+.
+Heroic Spartans as they appear in Cartoon Network’s
+Samurai Jack
+, “Jack and the Spartans,” season 2, episode 25.  Themopylae is recreated here, but with the evil Aku’s robotic monsters replacing the Persian army, which is dehumanization taken
+very
+literally.
+Covering the whole sweep of Sparta’s presence in politics and popular culture would be a post series of its own, and that’s not what I’m here to do.  I want to talk about the
+actual
+Greek
+polis
+of Sparta, not the city-state of our imagination (to get a sense of just how far off the popular conception is, let me note now that Sparta was not a city-state for the simple reason that
+it didn’t have a city
+– it had five villages instead).  So we’re going to simplify: our model for the pop-cultural presence of Sparta is going to be just one film:
+300
+, directed by Zach Snyder.
+As you might imagine, that means
+300
+is going to get more than a little beat up here.  I’ll be honest,
+300
+has been a guilty pleasure of mine.  I think I find myself in a similar position as
+Dan Olsen
+: it is a
+profoundly
+irresponsible film (and not just because the
+soundtrack was plagiarized
+), but in isolation, it is still a very effective film at conveying the power and emotions it aims to.
+Getting into useful details on Sparta is going to require me to introduce some uncommon terminology – don’t worry, I’ll define everything when it first shows up.  But as a
+reference
+, I am pairing this post with a terminology list, linked
+here
+.  We won’t get to all of those terms today, but we’ll get to them over the next several weeks.
+As always, if you like what you are reading here, please share it; if you really like it, you can support me on
+Patreon
+. And if you want updates whenever a new post appears, you can click below for email updates or follow me on twitter (@BretDevereaux) for updates as to new posts as well as my occasional ancient history, foreign policy or military history musings.
+Email Address
+Subscribe!
+Alright.  Let’s begin.
+A Word From Our Sources
+But first, a word about our sources.
+300
+opens – before we see any characters at all – with the grizzled voice of the narrator, who we learn to be Dilios, a hardened Spartan warrior (the historical figure here was actually named Aristodemus and we’ll come back to his sad story later).  This is, in its own way,
+the first fib of the film
+– we get our story from a regular guy, a warrior and a Spartan at that.
+Dilios: What
+300
+wants you to think our sources are like.
+Sidenote: Dilios in the film is treated with honor and apparently the leader of Spartans after Thermopylae.  The historical figure – Aristodemus – was intensely shamed, so much so that he deliberately committed suicide-by-Persian at the Battle of Plataea.
+In fact, our sources for Sparta are essentially nothing of the kind.  With one relatively minor (but interesting!) exception, the Spartans do not write to us.  Sparta produced little art and almost no great literature (there are only two minor exceptions) – this will become less and less surprising as we explore Spartan society.  Instead, we hear about Sparta through the eyes of other Greek writers, most crucially Herodotus, Thucydides, Xenophon, Aristotle and Plutarch (in chronological order rather than order of importance).
+We’ll get to Herodotus and his take on Sparta a little later when we talk about Sparta’s battlefield record.  But I want to turn on the other four now, because they share a set of preconceptions and opinions we should be aware of.
+To put it bluntly, these guys are all snobs.  Thucydides and Xenophon were both aristocratic Athenians (they got to be
+generals
+, rather than common soldiers), frustrated that democracy – in their view – let the fickle, uneducated and poor ‘masses’ make decisions that ought to have been left to their ‘betters.’  In some respects in both the
+Nicomachean
+Ethics and his
+Politics
+, Aristotle codifies this in his understanding of the nature of virtue – this is most visible in his discussion at the end of the first book of the politics on the (lesser) virtue available to women, children and slaves.  For these authors, Sparta is a mirror to hold up to the politics of Athens – speaking well of Sparta is a way of criticizing what they dislike about Athens (which is the democracy).
+Pictured: The School of Athens, by Raphael.
+Actually what our sources for Sparta are like.
+Indeed, several of our sources – Plato, Aristotle and possibly Xenophon and even maybe Strabo are included here.  Not grim Spartan warriors, but rather pampered Athenian philosophers (and Xenophon, who was both a pampered Athenian philosopher
+and
+a grim Athenian soldier).
+By contrast Plutarch – our last source – writes about the Spartans (in his
+Life of Lycurgus
+and
+Lysander
+as well as in the
+Moralia
+) at around 470 years after the height of Spartan power and 300 years since the last time Sparta had been even remotely militarily relevant (he is also a wealthy, well-connected Greek).  By Plutarch’s day, Sparta had been reduced to little more than a tourist attraction under Roman rule.
+In short, these are all free, aristocratic fellows and they identify with the concerns and opinions of other free, aristocratic fellows.  Xenophon was even buddies
+with one of the Spartan
+kings
+.  How this society works for the poor Spartan, or the slave, or the non-citizen is simply not something
+any
+of these authors care about.  They are partisans of the Spartan upper-class (some more than others).
+Does that mean we can’t use the information they give us?  Of course not.  We can – with some reservations – trust their facts,
+but we do not need to trust their judgments
+.  These men conclude that Sparta is
+fantastic
+because Sparta
+seems
+fantastic
+for men like them
+– rich, educated, adult citizen men.  They also judge Sparta by the values and concerns of that narrow class of people, which – as we’ll see – is
+hardly
+the only way to judge Sparta.  We can use the facts they give us – the details about Spartan culture, government, and so on – but we ought to form our own opinion of the society they sketch, informed by our own values.
+(A note on citations followed – I am going to provide a bunch of references to ancient sources as I go, in the traditional ancient format – if you want to track a citation and have no idea what Hdt. or Xen.
+Lac.
+means, @me on twitter (@BretDevereaux) and I can point you the right way.  This is not meant as an exhaustive list of
+everything
+, but enough that we may all content ourselves that yes, this is actually what the sources say and yes, I have actually read them.  Yes, even the ones you haven’t heard about, like Tyrtaeus and Alcman.)
+The picture, it turns out, is fairly bleak.
+Schooling the Spartans
+Our grizzled Spartan veteran begins by detailing Leonidas’ progression through the Spartan education system, the
+agoge
+(ἀγωγή, for the curious, pronounce ah-go-GAY – naturally the film botches the pronunciation).  The film certainly knows what it thinks of the
+agoge
+and Spartan education in general: this is a badass school for badasses, ending with an initiation in which he hunts a giant wolf and proves himself to be a mighty warrior and a king besides.  We’re shown all of this in just two minutes and not encouraged to think too hard about it.  Because the more you think about it, the more horrifying you realize it is.  It’s time to drop my normal jokey-joke manner, this is going to get
+dark
+.
+(Sidenote:
+300
+is actually correct on one count: Leonidas probably
+did
+go through the
+agoge
+.  While the heirs of Sparta’s two hereditary kings were exempt from the
+agoge
+(Plut.
+Agesilaus
+1.1) – perhaps because the state couldn’t afford to risk
+their
+lives so callously – Leonidas was a younger brother and thus was not exempt (since the exemption covered only the eldest son and not his younger brothers).  It is wrong that he returns a king – Leonidas was well into his adulthood before his brothers died, leaving him the throne.)
+Content warning ahead: we’re going to describe the
+agoge
+, which means describing violence, including sexual violence
+(as we’d define it)
+against children.
+If you want to skip that, no one will blame you – if you still want to be on the same page next week, just skip down to the conclusion.
+The details here are actually not entirely off-base.  Spartan boys were, at age seven, removed from their families and instead grouped into herds (
+agelai
+) under the supervision of a single adult male Spartan – except for the heirs to the two hereditary kings, who were exempt.  Order was kept by allowing the older boys to beat and whip the younger boys (Xen.
+Lac.
+2.2).  The boys were intentionally underfed (Plut.
+Lyc
+. 17.4; Xen.
+Lac
+2.5-6).  They were thus encouraged to steal in order to make up the difference, but severely beaten if caught (Plut.
+Lyc
+. 17.3-4; Xen.
+Lac
+. 2.6-9).
+Not even the exemplary boys escaped the violence, since the Spartan youths were annually whipped at the Altar of Artemis Orthia (Plut.
+Arist.
+17.8;
+Lyc
+. 18.1; Paus. 3.16.10-11).  Plutarch is clear that this was no light ritual but that he himself had
+witnessed boys die
+as a result of the beatings (Plut.
+Lyc
+. 18.1; Plutarch, we should remember, is a relatively late writer, so it is possible that the fatalities he witnessed were the product of the later reinvention of this ritual, but a ritual of this sort seems to have been in existence even in the Classical period, note Xen.
+Lac
+. 2.9.  Cf. also Cic.
+Tusc
+. 2.34).
+It seems safe to assume that these weren’t the only deaths in the
+agoge
+.  We are not told, but it seems unavoidable that in a system that intentionally under-feeds groups of boys to force them to steal, that the weakest and smallest boys will end up in a failure spiral where the lack of food leads to further weakness and further victimization at the hands of other boys.  Given Sparta’s strong tradition of eugenicist infanticide, it seems safe to conclude this was allowed to happen.
+1
+300 gives us this scene of young Leonidas fighting another boy in what we are to assume is a
+Pankration
+.  But it should be stressed that most of the violence ancient sources relate in the
+agoge
+were not boxing matches between boys of equal ages, but brutal punishments meted out to younger boys by older boys.
+I should note that while ancient parenting and schooling was certainly more violent than what we do now – the Spartan system was recognized as abnormally violent towards these boys,
+even by the standards of the time
+.
+Then there is the issue of relationships.  At age
+twelve
+(Plut.
+Lyc
+. 17.1) boys in the
+agoge
+would enter a relationship with an older man – Plutarch’s language is quite clear that this is a sexual relationship (note also Aelian
+VH
+. 3.10, similarly blunt).  We should be clear also in Plutarch’s language – the men here are the
+neoi
+(νέοι), young men in their twenties who in Sparta cannot yet marry, which may in part explain the nature of these relationships.
+Xenophon (Xen.
+Lac
+. 2.12-14) disagrees and argues that these relationships were not sexual.  Xenophon has the benefit of proximity (writing 500 years before Plutarch), but at the same time openly admits that it was widely believed that these relationships were sexual, and Xenophon is expressly writing in defense of Spartan customs.  Even if Xenophon is correct about the ideal nature of these relationships, we have to assume he wouldn’t tell us about occasions where that ideal was broken.
+300 embraces Xenophon’s rationale for the relationship between Spartan men and boys in the agoge – even to the point of having Leonidas gay-shame Athenian “boy lovers” but we know from our sources – including Xenophon! – that it was
+Sparta
+and not Athens that had this reputation in antiquity.
+We are told these relationships were voluntary, but we should question this assertion much the same way we generally put quotes around reports of ‘voluntary’ arranged marriages in societies where it is clear the women have no real ability to refuse, whatever the rules say.  These Spartan boys will have to apply to be part of a mess-group (
+syssitia
+– a concept we’ll return to later) when they are twenty – acceptance requires a unanimous vote of the existing members.  Failure to get into
+any
+of these mess groups resulted in the loss of citizen status – essentially complete social death and a permanent black stain on your
+entire family
+.  Under those conditions, how able is a
+twelve year old boy
+going to be to refuse a relationship with an older Spartan who promises to sponsor him into his
+syssitia
+?  Or who demands sex in exchange for that?
+And just so we are
+perfectly
+clear:
+no
+twelve-year-old boy is able to consent to that, not now, not ever, not under any circumstances.
+A rite of passage for the older boys in the
+agoge
+was membership in the
+krypteia
+(κρυπτεία).  It isn’t clear if all of the young men would have gone through this rite of passage or just the most promising (Plut.
+Lyc
+. 28.2 implies it was just the best, Plato,
+Laws
+633 seems to imply it was a fairly common rite of passage; of modern scholars, Cartledge,
+Sparta and Lakonia
+(1979) follows
+Jeanmaire
+(1913) in seeing it as a general institution and I concur).  Plutarch tries to date this institution to the 460s rather than seeing it as part of the original Spartan constitution, but that can’t hold as Herodotus seems to know of it (Hdt. 4.146.2) and considers it to be already an old custom.
+Leonidas, hiding out in the wilderness as part of his initiation into the Krypteia.  I feel it is necessary to point out: it does not matter how ‘badass’ or trained you are, spending the night in freezing conditions in nothing but a loincloth will kill you.  Hypothermia does not care how many reps you can do.
+What does the
+krypteia
+do?  They would fan out into the countryside (worked by the helots, a slave underclass we will discuss in more detail in the next post), hiding by day and at night come out and murder any helots they found out, or who they thought showed independence of spirit (Plut
+Lyc
+28), essentially functioning as a secret police to keep the helots in line through exemplary murder.  We’ll return in a later post to view this institution through helot eyes.
+This is perhaps the most glaring way that
+300
+sugar-coats the
+agoge
+.  In the film, Leonidas graduates by slaying a wolf that was hunting him.  But it is almost certain that the
+real
+Leonidas graduated his Spartan training by stalking and murdering an unarmed, untrained man at night.
+Some mother’s son, some sister’s brother, some child’s father.  Our hero, ladies and gentlemen.
+Just imagine this scene, but instead of a fearsome wolf, it is a frightened and confused, unarmed and untrained man, minding his own business walking home at night.
+But wait – slaying a fearsome and dangerous wolf, we can imagine how that might prepare a man for battle or prove his courage.  But why does Leonidas – who has by this point been through a
+decade of combat training
+and is
+armed
+have to kill an
+unarmed, untrained
+,
+and unwarned
+enslaved man to become a full Spartiate?
+2
+What does a simple murder prove?
+Indoctrination and Child Soldiers
+So far, we’ve been discussing this ‘education’ system in a fairly straight-forward way, just describing its elements.  Bringing in modern parallels can help us understand what the
+agoge
+is doing, what it
+is
+, why it functions the way it does and what we might think about it.
+The nearest modern institutions to the Spartan
+agoge
+are systems for indoctrinating and conditioning child soldiers and terrorists.
+Indeed, the parallels are not just near, but nearly exact.
+(There is a truly depressing variety of groups in the world that still make use of child soldiers, often at appallingly young ages.  I have tried, in order to root this comparison as deeply in fact as I could, to read as widely as I had time for about them.  The following is based chiefly, but not exclusively, on A. Honwana,
+Child Soldiers in Africa
+(2006); M. Bloom and J. Horgan,
+Small Arms: Children and Terrorism
+(2019); Depuy and Peters,
+War and Children
+(2010); Beber and Blattman, “The Logic of Child soldiering and Coercion”
+IO
+67.1 (2013): 65-104; Woodward and Galvin, “Halfway to Nowhere: Liberian Former Child Soldiers in a Ghanaian Refugee Camp”
+AAAG
+99.5 (2009): 1003-1011.  I struggle to communicate how deeply heartbreaking this research has been.)
+At functionally all of its stages, the Spartan
+agoge
+strongly resembles modern systems for indoctrinating and conditioning children to perform violence as child soldiers or terrorists.
+Like functionally all such systems, it begins by separating the child from their parents; the
+agoge
+is only unusual in that it effects this separation at a younger age than average.  While the
+agoge
+starts at age 7, Beber and Blattman (2013) note that the average age of abduction for children in the Lord’s Resistance Army in Uganda is closer to 15 (though partly this has to do with the odd age-distribution patterns in Uganda as a whole due to the conflict).
+Pictured: Abduction makes conditioning and indoctrinating child soldiers easier.  I am profoundly unconvinced that the social sanction for this activity somehow rendered it less traumatic.
+Abduction and separation are important because the removal of the family structure unmoors the child, making them much more open to suggestion and indoctrination.  Often, these groups will take steps to make sure that it is effectively impossible for abducted children to reunite with their families.  In most cases these means using violence or the threat of violence against the families, although in some cases (including Sparta) intense social shame is instead used.  For instance, Maoist militants in Nepal used the combination of threats of violence against families with shame on the children to effect a similar system to separation as practiced in the
+agoge
+(Bloom and Horgan (2019), Ch. 6 – alas I have the kindle version and cannot give page numbers).
+Violence, often including sexual violence – and in particular the alternation of violence with ‘rewards’ such as recognition or frequently food – is a key component in these systems.  It is especially common that older recruits are forced to be the ones to use violence against the newer recruits – Beber and Blattman (2013) note that among child soldiers in the LRA, 54% reported being severely beaten themselves and 55% reported that abductees were forced to beat or even kill new ‘recruits.’  Violent punishments – especially inflicted by fellow (but more senior) abductees serves to reinforce group membership and solidarity as well as condition loyalty to the (adult) group leader.
+Bloom and Horgan (2019) note the use of food and sleep deprivation – both aspects of the Spartan
+agoge
+(Xen.
+Lac
+. 2.5-7 mentions both) – are frequently used to render children physically and emotionally drained, which makes them more pliant for conditioning.  The
+agoge
+merges these, by using artificial food scarcity to compel transgressions which can then be punished by violence before reintegrating the offender with the troop, compressing the entire cycle of emotional and mental manipulation into a single event.
+And – in line with the paragraph above – the punishments were often delivered by the senior boys (Plut.
+Lyc
+. 18.2-3), just as in groups like the LRA.  This increases the feelings of complicity and belonging in abductees, slowly transforming them from victims to victimizers (though we should note that – these all being children, they all remain victims) and at the same time giving them a ‘reward’ in the form of perceived power over their fellows.
+This comparison answers our previous question:
+why does Leonidas need to murder a helot
+?  Because – as nearly
+all
+of the literature on child soldiers notes – the final act of conditioning, the ‘graduation’ into full membership in the group, is
+very frequently
+an act of transgressive, irreversible (read: fatal) violence, typically a murder.  In that act, the child is forced to join themselves fully into the machinery of violence, to burn a bridge behind then which can never be fully walked back.  It cements their place in the group because only within the group does this action make them a man – to turn their back on the group is to convert this event from a rite of passage to a depraved murder, from a proud achievement into an irredeemable shame.  Very few people anywhere, at any time, have the moral wherewithal to accept such a truth and so the final act of violence compels them to live the lie.
+This is Leonidas’ reward for murder: public acclaim and respect from his entire society, with all his family and friends looking on.  Think about this moment, think about the swell of pride he must be feeling
+right here
+about the cold-blooded murder he recently committed
+and it is suddenly very possible to understand why so many child soldiers find reintegrating back into normal society so hard.
+But wait, I hear someone saying – this system is
+run
+by its graduates.  Surely if it was so horrible, they would stop it, right?
+No.
+As Bloom and Horgan (2019) note, “even after their release, many children may retain positive associations with and memories of their experiences in the training camps, even though objectively they endured terrible conditions and exposure to traumatic events.”  The very nature of the conditioning and indoctrination created by the repeated trauma of these systems is such that they instill strong loyalty to the system – which goes a long way to explaining Spartan social conservatism.  It also means that when someone like Xenophon shows up and asks about it,
+of course
+he’s going to be told it was fantastic, not because it was, but because the nature of the trauma itself creates a
+deep, emotional need for the victims of that trauma to believe it was.
+I want to add that we’re also dealing with
+survivor bias
+.  The boys who
+died
+from undernourishment, or who were
+killed
+by the ritual beatings were not there to tell Xenophon about it.  Men who failed in some way, who were broken by this system, were not in the very elite circles (remember, Xenophon is best-buds with one of the Spartan
+kings
+) to tell Xenophon how this system ruined their lives.  The men who were there for Xenophon to talk to were the
+winners
+of this system – it should be no surprise that they defended it as valid.  No one is more convinced of the fairness of a game than the man who won.
+These
+children down here, never got the chance to tell Xenophon what they thought of Lycurgus’s laws and Spartan Society.
+3
+That isn’t to say that that the products of these systems – including the
+agoge
+– emerged unharmed.  The documented experiences of modern child soldier’s struggles to re-integrate back into society and cope with their trauma suggests that we ought to find products of the
+agoge
+to be emotionally stunted, prone to violence and social isolation – as well as conformist and inflexible (traits Bloom and Horgan (2019) notes particularly of ISIS child soldiers) – traits which I will argue subsequently we can see quite clearly in Spartan strategic culture.
+Conclusions
+To sum up: far from being some ideal system of child-rearing, as Xenophon might have it, the Spartan
+agoge
+appears
+functionally identical to modern systems which use trauma to condition child soldiers
+.  I’ve suggested a pattern of dysfunction and violence which I expect to illustrate the rest of our talk about Sparta.  This is why – despite how grim this discussion has been – I chose to begin with the
+agoge
+.  Sparta wasn’t just broken at the top or on the sides.  This society was broken up from the foundations in ways that cannot help but spread through the rest of the society.
+I know there is a certain sort of person who will still regard all of this as somehow worth it because it made the Spartans super-badass warriors.
+I hope that reader sticks around, because as we’re going to find over the next several weeks, it did no such thing.
+Spartan soldiers were not supermen and Spartan armies were
+far
+from unbeatable.  If anything, the finger-prints of the
+agoge
+and its trauma are visible in the causes for Sparta’s
+failure
+, not its success.
+I also want to answer one more supposed ‘virtue’ of the
+agoge
+which I often hear bandied about – although in light of what we’ve discussed above, it may now seem fundamentally absurd – which is that the
+agoge
+, for all its flaws at least represented the first real universal education system.  Setting aside for the moment just how awful the
+agoge
+was, I want to address this point.
+The
+agoge
+was a
+rearing
+system, a
+training
+system perhaps, but not an education system in our understanding of the term.
+This was not a school
+.  It does seem that most of the Spartiates – full Spartan citizens – could read and write at least a little, but given that (as we’ll discuss next week) the Spartiates were essentially a tiny aristocracy in a much larger society, this was no great achievement (to talk of ‘common’ Spartiates is like talking of ‘common’ knights – it’s an oxymoron).  But we’re told (Plut
+Lyc
+. 16.6) that Spartan literacy was intentionally minimal – as a point of pride.  Cartledge’s observation (“Literacy in the Spartan Oligarchy”
+JHS
+98 (1978)), that literacy in Sparta was ‘very thinly spread’ remains consistent with the evidence until the Roman period, a point we will return to when we discuss Spartan government.  Certainly the relative lack of Spartan literature (Sparta produced a sum total of two notable authors, both very early lyric poets from perhaps before the system was fully engaged) attests to the limits of Spartan ‘education.’  Likewise, Sparta’s production of inscribed documents, when compared to other Greek communities is, as Cartledge puts it, “a poor harvest indeed.”  This does not appear to be – even by the meager standards of ancient Greece – a very literate or learned society.
+As we’ll see, the significance of this supposed achievement is also undermined by the fact that the majority of people living under the Spartan state did not take part in it.  Heck, the majority of
+males
+living in the Spartan state didn’t take part in it.
+Hell
+, even the
+majority of free, non-foreign men
+weren’t eligible.  That’s because the
+agoge
+was restricted to the Spartan citizen class – the spartiates – who in turn comprised only a tiny minority of the people
+actually living in Sparta
+.
+Look at all of these lovely fields.  I wonder who farms them?
+Also: Sparta did not look like this.  It was a few villages on a river – Thucydides even notes how unimpressive it looked and how spread out it was (Thuc. 1.10).
+The citizen spartiates were not the whole of a society, but rather a closed
+tiny
+aristocracy
+ruling over
+a much larger society.  Next week, we’ll look at the broader Spartan society, it’s many different under-classes and actually
+meet the Spartans
+– this time,
+all of them
+.
+Share this:
+Share on X (Opens in new window)
+X
+Share on Facebook (Opens in new window)
+Facebook
+Post-publication edit: I am less convinced of this point now than I was when I wrote this.  Spartan infanticide would have been a practice, if as widespread as Plutarch implies, that we ought to see archaeologically and we don’t.  See on this and on Greek practices of infanticide more generally, D. Sneed, “
+Disability and Infanticide in Ancient Greece
+”
+Hesperia
+90.4 (2021).  I think in turn that re-opens the question of if boys in this system died with significant frequency.  On the one hand our sources seem to think so, but on the other hand those sources are generally very late and so their view may be colored by later, exaggerated versions of the system.  On the other hand we cannot retreat to the normal argument here which is to point out that steady population growth in high mortality societies is a good indicator they weren’t throwing away babies because of course the spartiate population collapses over this period (though we generally assume the ‘missing spartiates’ are becoming hypomeiones, not ending up dead in boyhood).  On the balance my instinct is to assume that deaths in the
+agoge
+were rare, but perhaos not unheard of in the classical period.
+Post-Publication note: This bit is terribly unclear and needs clarification.  My aim here was to speak with the voice of someone who more or less believed the popular image of the
+agoge
+as a sort of boot camp.  As we discuss in
+part VI
+, it wasn’t; there was no combat training in the
+agoge
+that we can tell.  But this paragraph is written badly and doesn’t make that at all clear.  I’m not going to change the paragraph itself because it has been critiqued elsewhere and I’m not fond of ‘stealth edits’ for that sort of thing, so I am instead adding this clarifying note.  Leonidas, if he participated in the
+krypteia
+(it seems likely, but not certain) would have been armed, but it is not clear what if any training he would have had.  At the same time, of course, an armed agent of the state striking by surprise against an unarmed and unwarned (and equally untrained) victim is still hardly doing something that we might regard as proving his valor.
+Can I put a footnote in a caption?  Let’s find out!  As noted above, the mass infanticide of disabled children probably was not happening in Sparta; our sources for it are very late.  That said the point above, that our sources primarily interact with the successful ‘winners’ of this system remains clearly true.  Xenophon isn’t hanging around with the mothakes or the hypomeiones.
+Like this:
+Like
+Loading…

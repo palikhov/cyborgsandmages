@@ -8302,6 +8302,7 @@
 ## <https://thealexandrian.net/wordpress/50656/roleplaying-games/in-the-shadow-of-the-spire-session-35c-ambush-in-the-banewarrens>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-agenda-pressure.mdx`
 
 ## <https://thealexandrian.net/wordpress/50720/roleplaying-games/in-translation-dragon-heist-remix>
 
@@ -8323,6 +8324,7 @@
 ## <https://thealexandrian.net/wordpress/50770/roleplaying-games/in-the-shadow-of-the-spire-session-36d-crypt-of-webs>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-agenda-pressure.mdx`
 
 ## <https://thealexandrian.net/wordpress/50822/roleplaying-games/random-gm-tip-what-are-you-looking-for>
 
@@ -8538,10 +8540,6 @@
 
 - `src/content/posts/translations/alexandrian-session-0-modules.mdx`
 
-## <https://thealexandrian.net/wordpress/52282/roleplaying-games/ptolus-running-the-campaign-agenda-pressure>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/52559/roleplaying-games/in-the-shadow-of-the-spire-session-46a-among-madmen>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
@@ -8553,6 +8551,7 @@
 ## <https://thealexandrian.net/wordpress/52570/roleplaying-games/ptolus-running-the-campaign-ex-post-facto-roleplaying>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-agenda-pressure.mdx`
 
 ## <https://thealexandrian.net/wordpress/52574/roleplaying-games/ptolus-running-the-campaign-speak-with-dead-sfx>
 
@@ -9484,25 +9483,29 @@
 ## <https://thealexandrian.net?p=52215>
 
 - `src/content/posts/translations/alexandrian-ptolus-adversary-roster-in-action.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-agenda-pressure.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-recalling-the-lore.mdx`
 
 ## <https://thealexandrian.net?p=52232>
 
 - `src/content/posts/translations/alexandrian-ptolus-adversary-roster-in-action.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-agenda-pressure.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-recognition-as-reward.mdx`
 
 ## <https://thealexandrian.net?p=52234>
 
+- `src/content/posts/translations/alexandrian-ptolus-agenda-pressure.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-monster-environment.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-recognition-as-reward.mdx`
 
 ## <https://thealexandrian.net?p=52236>
 
+- `src/content/posts/translations/alexandrian-ptolus-agenda-pressure.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-monster-environment.mdx`
 
-## <https://thealexandrian.net?p=52282>
+## <https://thealexandrian.net?p=52559>
 
-- `src/content/posts/translations/alexandrian-ptolus-monster-environment.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-agenda-pressure.mdx`
 
 ## <https://thealexandrian.net?p=53311>
 
