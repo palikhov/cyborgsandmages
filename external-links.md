@@ -4706,6 +4706,10 @@
 
 - `src/content/posts/translations/acoup-this-isnt-sparta-part-vi-spartan-battle.mdx`
 
+## <https://en.wikipedia.org/wiki/Memorandum_of_understanding>
+
+- `src/content/posts/translations/alexandrian-ptolus-contract-handouts.mdx`
+
 ## <https://en.wikipedia.org/wiki/Morgan_Bible>
 
 - `src/content/posts/translations/acoup-bertran-de-born-martial-values.mdx`
@@ -6372,6 +6376,11 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-combat-verticality.mdx`
 
+## <https://thealexandrian.net/wordpress/31509/roleplaying-games/the-art-of-pacing>
+
+- `src/content/posts/translations/alexandrian-ptolus-cutting-on-the-cliffhanger.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-urban-splits.mdx`
+
 ## <https://thealexandrian.net/wordpress/32599/roleplaying-games/film-banging-agendas-and-bangs-from-non-rpg-media>
 
 - `src/content/posts/translations/alexandrian-art-of-pacing-1.mdx`
@@ -7691,6 +7700,7 @@
 ## <https://thealexandrian.net/wordpress/45547/roleplaying-games/in-the-shadow-of-the-spire-session-23e-with-nought-but-their-lives>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-inserting-bangs.mdx`
 
 ## <https://thealexandrian.net/wordpress/45552/roleplaying-games/in-the-shadow-of-the-spire-session-23f-the-pale-tower>
 
@@ -7996,6 +8006,7 @@
 ## <https://thealexandrian.net/wordpress/47942/roleplaying-games/in-the-shadow-of-the-spire-session-27a-the-midnight-meeting>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-inserting-bangs.mdx`
 
 ## <https://thealexandrian.net/wordpress/47947/roleplaying-games/in-the-shadow-of-the-spire-session-27b-sights-of-venom>
 
@@ -8183,6 +8194,7 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-fantasy-sewers.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-inserting-bangs.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-non-combat-goals.mdx`
 
 ## <https://thealexandrian.net/wordpress/49194/roleplaying-games/in-the-shadow-of-the-spire-session-33b-the-interrogation-of-arveth>
@@ -8575,34 +8587,25 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
-## <https://thealexandrian.net/wordpress/52683/roleplaying-games/ptolus-running-the-campaign-fighting-with-monsters>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/52716/roleplaying-games/roleplaying-for-the-beginning-gm-part-2-intermediate-tips>
 
 - `src/content/posts/translations/alexandrian-roleplaying-for-beginning-gm.mdx`
 
-## <https://thealexandrian.net/wordpress/52722/roleplaying-games/ptolus-running-the-campaign-inserting-bangs>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/52824/roleplaying-games/mothership-system-cheat-sheet>
 
 - `src/content/posts/translations/alexandrian-low-stakes-tests.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-contract-handouts.mdx`
 - `src/content/posts/translations/alexandrian-why-dd.mdx`
 
 ## <https://thealexandrian.net/wordpress/52962/roleplaying-games/review-heroes-of-the-borderlands-dd-starter-set-2025>
 
 - `src/content/posts/translations/alexandrian-why-dd.mdx`
 
-## <https://thealexandrian.net/wordpress/53028/roleplaying-games/ptolus-running-the-campaign-contract-handouts>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/53029/roleplaying-games/in-the-shadow-of-the-spire-session-48a-a-night-in-the-necropolis>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-contract-handouts.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-inserting-bangs.mdx`
 
 ## <https://thealexandrian.net/wordpress/53099/roleplaying-games/in-the-shadow-of-the-spire-session-48b-the-fall-of-tepal>
 
@@ -8849,11 +8852,6 @@
 ## <https://thealexandrian.net?p=2593>
 
 - `src/content/posts/translations/alexandrian-ptolus-best-laid-plans.mdx`
-
-## <https://thealexandrian.net?p=31509>
-
-- `src/content/posts/translations/alexandrian-ptolus-cutting-on-the-cliffhanger.mdx`
-- `src/content/posts/translations/alexandrian-ptolus-urban-splits.mdx`
 
 ## <https://thealexandrian.net?p=36473>
 
@@ -9370,6 +9368,7 @@
 
 ## <https://thealexandrian.net?p=51237>
 
+- `src/content/posts/translations/alexandrian-ptolus-inserting-bangs.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-using-scenery-traps.mdx`
 
 ## <https://thealexandrian.net?p=51239>
@@ -9523,6 +9522,20 @@
 ## <https://thealexandrian.net?p=52638>
 
 - `src/content/posts/translations/alexandrian-ptolus-false-assumptions.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-fighting-with-monsters.mdx`
+
+## <https://thealexandrian.net?p=52643>
+
+- `src/content/posts/translations/alexandrian-ptolus-fighting-with-monsters.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-inserting-bangs.mdx`
+
+## <https://thealexandrian.net?p=53099>
+
+- `src/content/posts/translations/alexandrian-ptolus-contract-handouts.mdx`
+
+## <https://thealexandrian.net?p=53111>
+
+- `src/content/posts/translations/alexandrian-ptolus-contract-handouts.mdx`
 
 ## <https://thealexandrian.net?p=53311>
 
@@ -11094,6 +11107,10 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-home-base-renovations.mdx`
 
+## <https://www.drivethrurpg.com/en/product/124816/the-ninth-world-bestiary?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-ptolus-fighting-with-monsters.mdx`
+
 ## <https://www.drivethrurpg.com/en/product/1447/amber?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-rpg-essential-reading-list.mdx`
@@ -11113,6 +11130,10 @@
 ## <https://www.drivethrurpg.com/en/product/24965/creatures-of-freeport-d20-3-5?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-ptolus-monster-environment.mdx`
+
+## <https://www.drivethrurpg.com/en/product/2770/shadowrun-paranormal-animals-of-north-america?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-ptolus-fighting-with-monsters.mdx`
 
 ## <https://www.drivethrurpg.com/en/product/284022/eclipse-phase-second-edition?affiliate_id=81207>
 
@@ -11376,6 +11397,7 @@
 
 ## <https://www.drivethrurpg.com/product/357417/The-Book-of-Fiends-A-Malefic-Bestiary-for-5E?affiliate_id=81207>
 
+- `src/content/posts/translations/alexandrian-ptolus-inserting-bangs.mdx`
 - `src/content/posts/translations/alexandrian-rpgnet-review-legions-of-hell.mdx`
 
 ## <https://www.drivethrurpg.com/product/3727/The-Sunless-Citadel-3e?affiliate_id=8278>
@@ -12107,6 +12129,10 @@
 ## <https://www.tribality.com/2019/11/05/ua-class-feature-variants-breakdown-part-two>
 
 - `src/content/posts/translations/tribality-artificer-class-part-seven.mdx`
+
+## <https://www.tuesdayknightgames.com/products/breach-of-contract>
+
+- `src/content/posts/translations/alexandrian-ptolus-contract-handouts.mdx`
 
 ## <https://www.twitch.tv/videos/1610553185>
 
