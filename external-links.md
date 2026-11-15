@@ -4710,6 +4710,10 @@
 
 - `src/content/posts/translations/acoup-this-isnt-sparta-part-i-spartan-school.mdx`
 
+## <https://en.wikipedia.org/wiki/Sedlec_Ossuary>
+
+- `src/content/posts/translations/alexandrian-ptolus-using-scenery-traps.mdx`
+
 ## <https://en.wikipedia.org/wiki/Spartan:_Total_Warrior>
 
 - `src/content/posts/translations/acoup-this-isnt-sparta-part-vi-spartan-battle.mdx`
@@ -6012,6 +6016,10 @@
 
 - `src/content/posts/translations/alexandrian-ptolus-npc-spellbooks.mdx`
 
+## <https://thealexandrian.net/so-you-want-to-be-a-game-master>
+
+- `src/content/posts/translations/alexandrian-ptolus-secret-life-silion.mdx`
+
 ## <https://thealexandrian.net/tag/tales-from-the-table>
 
 - `src/content/posts/translations/alexandrian-alexanders-rule.mdx`
@@ -6085,6 +6093,10 @@
 
 - `src/content/posts/translations/alexandrian-stealthy-thoughts.mdx`
 - `src/content/posts/translations/alexandrian-the-numbers-that-we-say.mdx`
+
+## <https://thealexandrian.net/wordpress/13202/reviews/what-im-reading-74-collected-fantasies-of-clark-ashton-smith-volume-1>
+
+- `src/content/posts/translations/alexandrian-ptolus-adventure-not-taken.mdx`
 
 ## <https://thealexandrian.net/wordpress/15339/roleplaying-games/deus-ex-tactical-hacking-part-2-tools-for-tactical-hacking>
 
@@ -6701,6 +6713,8 @@
 ## <https://thealexandrian.net/wordpress/39511/roleplaying-games/in-the-shadow-of-the-spire-session-8b-meeting-tor>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-adventure-not-taken.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-heists-that-work.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-high-level-intimidations-and-intimations.mdx`
 
 ## <https://thealexandrian.net/wordpress/3959/roleplaying-games/thought-of-the-day-the-shock-of-polymorph>
@@ -6710,11 +6724,14 @@
 ## <https://thealexandrian.net/wordpress/39618/roleplaying-games/in-the-shadow-of-the-spire-session-9a-gold>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-clues-linking-scenarios.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-heists-that-work.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-rolling-for-npcs.mdx`
 
 ## <https://thealexandrian.net/wordpress/39625/roleplaying-games/in-the-shadow-of-the-spire-session-9b-in-the-house-of-helmut>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-secret-life-silion.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-using-prophecy.mdx`
 
 ## <https://thealexandrian.net/wordpress/39629/roleplaying-games/in-the-shadow-of-the-spire-session-9c-jade>
@@ -6907,6 +6924,7 @@
 ## <https://thealexandrian.net/wordpress/40738/roleplaying-games/in-the-shadow-of-the-spire-session-15b-the-ghostly-minstrel-plays>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-adventure-not-taken.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-roleplaying-ability-damage.mdx`
 
 ## <https://thealexandrian.net/wordpress/40746/roleplaying-games/in-the-shadow-of-the-spire-session-15c-the-taint-of-ghul>
@@ -7502,6 +7520,7 @@
 ## <https://thealexandrian.net/wordpress/45020/roleplaying-games/rulings-in-practice-traps>
 
 - `src/content/posts/translations/alexandrian-guidance-sucks-in-fifth-edition.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-using-scenery-traps.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-hints.mdx`
 
 ## <https://thealexandrian.net/wordpress/45049/roleplaying-games/remixing-avernus-addendum-soul-coins>
@@ -7575,6 +7594,7 @@
 ## <https://thealexandrian.net/wordpress/45543/roleplaying-games/in-the-shadow-of-the-spire-session-23d-the-chaos-cultists>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-missing-the-obvious.mdx`
 
 ## <https://thealexandrian.net/wordpress/45547/roleplaying-games/in-the-shadow-of-the-spire-session-23e-with-nought-but-their-lives>
 
@@ -7921,6 +7941,7 @@
 ## <https://thealexandrian.net/wordpress/48130/roleplaying-games/ptolus-remix-the-mrathrach-agenda>
 
 - `src/content/posts/translations/alexandrian-campaign-status-trackers.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-clues-linking-scenarios.mdx`
 
 ## <https://thealexandrian.net/wordpress/48166/roleplaying-games/quick-gm-tip-players-on-deck>
 
@@ -8027,6 +8048,7 @@
 
 ## <https://thealexandrian.net/wordpress/48922/roleplaying-games/ptolus-remix-the-vladaam-affair>
 
+- `src/content/posts/translations/alexandrian-ptolus-adventure-not-taken.mdx`
 - `src/content/posts/translations/alexandrian-why-dd.mdx`
 
 ## <https://thealexandrian.net/wordpress/48995/roleplaying-games/advanced-gamemastery-cliffhangers-conclusions>
@@ -8197,6 +8219,7 @@
 ## <https://thealexandrian.net/wordpress/50763/roleplaying-games/in-the-shadow-of-the-spire-session-36b-the-madness-of-mahdoth>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-missing-the-obvious.mdx`
 
 ## <https://thealexandrian.net/wordpress/50767/roleplaying-games/in-the-shadow-of-the-spire-session-36c-hunting-the-hunters>
 
@@ -8206,25 +8229,9 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
-## <https://thealexandrian.net/wordpress/50783/roleplaying-games/ptolus-running-the-campaign-using-rituals>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/50806/roleplaying-games/ptolus-running-the-campaign-secrets-of-the-all-key>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/50822/roleplaying-games/random-gm-tip-what-are-you-looking-for>
 
 - `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
-
-## <https://thealexandrian.net/wordpress/50849/roleplaying-games/ptolus-running-the-campaign-group-chemistry>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/50856/roleplaying-games/ptolus-running-the-campaign-missing-the-obvious>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/50868/roleplaying-games/in-the-shadow-of-the-spire-session-37a-dominic-departs>
 
@@ -8243,26 +8250,6 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/50880/roleplaying-games/in-the-shadow-of-the-spire-session-37e-on-the-iron-mages-business>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/50885/roleplaying-games/ptolus-running-the-campaign-the-adventure-not-taken>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/50887/roleplaying-games/ptolus-running-the-campaign-no-but>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/50889/roleplaying-games/ptolus-running-the-campaign-patron-exhaustion>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/50893/roleplaying-games/ptolus-running-the-campaign-losing-a-pc>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/50895/roleplaying-games/ptolus-running-the-campaign-newssheets>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -8286,6 +8273,8 @@
 ## <https://thealexandrian.net/wordpress/51076/roleplaying-games/in-the-shadow-of-the-spire-session-38a-the-arathian-job>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-clues-linking-scenarios.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-heists-that-work.mdx`
 
 ## <https://thealexandrian.net/wordpress/51078/roleplaying-games/in-the-shadow-of-the-spire-session-38b-nasiras-story>
 
@@ -8296,22 +8285,6 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/51084/roleplaying-games/in-the-shadow-of-the-spire-session-38d-arrows-skulls>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/51091/roleplaying-games/ptolus-running-the-campaign-heists-that-just-work>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/51100/roleplaying-games/ptolus-running-the-campaign-adding-a-player-part-2>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/51102/roleplaying-games/ptolus-running-the-campaign-expanding-dungeons>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/51107/roleplaying-games/ptolus-running-the-campaign-the-secret-life-of-silion>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -8337,14 +8310,6 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/51242/roleplaying-games/in-the-shadow-of-the-spire-session-39c-liberation-of-the-slaves>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/51251/roleplaying-games/ptolus-running-the-campaign-using-scenery-traps>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/51260/roleplaying-games/ptolus-running-the-campaign-clues-linking-campaigns>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -9073,6 +9038,7 @@
 
 ## <https://thealexandrian.net?p=43143>
 
+- `src/content/posts/translations/alexandrian-ptolus-secrets-of-the-all-key.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-trigger-and-stitch.mdx`
 
 ## <https://thealexandrian.net?p=43155>
@@ -9345,10 +9311,64 @@
 ## <https://thealexandrian.net?p=50751>
 
 - `src/content/posts/translations/alexandrian-ptolus-ambushing-your-timelines.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-using-rituals.mdx`
 
-## <https://thealexandrian.net?p=50783>
+## <https://thealexandrian.net?p=50763>
 
-- `src/content/posts/translations/alexandrian-ptolus-ambushing-your-timelines.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-secrets-of-the-all-key.mdx`
+
+## <https://thealexandrian.net?p=50767>
+
+- `src/content/posts/translations/alexandrian-ptolus-group-chemistry.mdx`
+
+## <https://thealexandrian.net?p=50770>
+
+- `src/content/posts/translations/alexandrian-ptolus-missing-the-obvious.mdx`
+
+## <https://thealexandrian.net?p=50868>
+
+- `src/content/posts/translations/alexandrian-ptolus-adventure-not-taken.mdx`
+
+## <https://thealexandrian.net?p=50871>
+
+- `src/content/posts/translations/alexandrian-ptolus-no-but.mdx`
+
+## <https://thealexandrian.net?p=50874>
+
+- `src/content/posts/translations/alexandrian-ptolus-patron-exhaustion.mdx`
+
+## <https://thealexandrian.net?p=50877>
+
+- `src/content/posts/translations/alexandrian-ptolus-losing-a-pc.mdx`
+
+## <https://thealexandrian.net?p=50880>
+
+- `src/content/posts/translations/alexandrian-ptolus-newssheets.mdx`
+
+## <https://thealexandrian.net?p=51078>
+
+- `src/content/posts/translations/alexandrian-ptolus-adding-player-part-2.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-secret-life-silion.mdx`
+
+## <https://thealexandrian.net?p=51081>
+
+- `src/content/posts/translations/alexandrian-ptolus-expanding-dungeons.mdx`
+
+## <https://thealexandrian.net?p=51084>
+
+- `src/content/posts/translations/alexandrian-ptolus-secret-life-silion.mdx`
+
+## <https://thealexandrian.net?p=51237>
+
+- `src/content/posts/translations/alexandrian-ptolus-using-scenery-traps.mdx`
+
+## <https://thealexandrian.net?p=51239>
+
+- `src/content/posts/translations/alexandrian-ptolus-clues-linking-scenarios.mdx`
+
+## <https://thealexandrian.net?p=51242>
+
+- `src/content/posts/translations/alexandrian-ptolus-clues-linking-scenarios.mdx`
 
 ## <https://thealexandrian.net?p=52146>
 
