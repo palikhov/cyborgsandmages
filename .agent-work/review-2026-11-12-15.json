@@ -1,0 +1,1062 @@
+{
+  "period": "2026-11-12/2026-11-15",
+  "order": "PowerShell Sort-Object Name",
+  "total": 211,
+  "entries": [
+    {
+      "file": "acoup-this-isnt-sparta-part-i-spartan-school.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "acoup-this-isnt-sparta-part-vi-spartan-battle.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-advanced-node-based-design-part-1-moving-between-nodes.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-advanced-node-based-design-part-2-node-navigation.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-advanced-node-based-design-part-3-organization.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-advanced-node-based-design-part-4-the-second-track.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-advanced-node-based-design-part-5-two-prongs-mystery-design.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-advanced-node-based-design-part-6-node-based-dungeons.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-hexcrawl.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-node-based-scenario-design-part-2-choose-your-own-adventure.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-node-based-scenario-design-part-3-inverting-three-clue-rule.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-node-based-scenario-design-part-4-sample-scenario.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-node-based-scenario-design-part-5-plot-vs-node.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-node-based-scenario-design-part-6-alternative-node-design.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-node-based-scenario-design-part-7-more-alternative-node-designs.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-node-based-scenario-design-part-8-freeform-design-in-the-cloud.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-node-based-scenario-design-part-9-types-of-nodes.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-a-confusion-of-names.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-abandoned-dungeons.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-action-schticks.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-adding-a-new-player.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-adding-player-part-2.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-adventure-from-gear-management.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-adventure-not-taken.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-adversary-roster-in-action.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-aftermath-of-adventure.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-all-your-zaug-belong-to-us.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-ambushing-your-timelines.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-antecedent-magic.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-back-back-to-the-dungeon.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-background-to-foreground.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-battles-at-the-door.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-beginning-act-ii.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-behind-the-tale-of-itarek.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-best-laid-plans.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-between-sessions.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-bond-the-opposite-of-bond.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-buying-magic-items.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-character-crucibles.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-clever-combat.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-cliffhangers.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-clues-linking-scenarios.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-collapsed-tunnels.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-combat-verticality.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-commentary-on-the-info-dump.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-counterintelligence-vectors.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-cross-campaign-continuity.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-custom-game-structures.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-cutting-on-the-cliffhanger.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-dd-is-educational.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-death-at-tier-2.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-deciphering-scripts.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-detritus-of-the-dungeon.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-developing-taint.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-diegetic-mechanics.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-dilemma-gauntlet.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-distributing-chaos-lorebooks.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-dungeon-as-theater-of-operations.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-dungeon-clues.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-dungeon-cycles.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-dungeon-sequencing.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-dynamic-terrain.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-efficacy-of-burning-oil.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-electronic-game-table.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-emergent-character-traits.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-expanding-dungeons.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-exposition-dump-handouts.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-externalizing-tactical-interest.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-faction-v-faction.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-fair-peril.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-fantasy-materials.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-fantasy-sewers.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-fictional-rituals.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-firewalling-player-knowledge.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-flashback-visions.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-foreshadowing-encounters.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-from-table-to-page.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-gather-information-vs-knowledge-local.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-gore-spattered-reactions.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-graphical-resources.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-gray-spaces-in-world-design.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-group-chemistry.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-guaranteeing-failure.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-hear-the-reinforcements.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-heists-that-work.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-high-level-intimidations-and-intimations.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-home-base-renovations.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-honor-choice-with-judo.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-improvising-a-raid.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-improvising-floorplans.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-in-jokes.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-inside-campaign-journal.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-interstice-of-factions.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-it-must-be-here-somewhere.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-kill-the-dog.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-killing-orc-babies.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-let-it-ride-interrogation.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-listening-to-cleromancy.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-looting-consumables.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-looting-infrastructure.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-looting-the-bestiaries.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-lore-book-meetings.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-losing-a-pc.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-low-level-specialists.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-magic-in-the-set-dressing.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-magic-item-wish-lists.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-make-it-cost-them.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-managing-supporting-cast.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-meta-knowledge-meta-skill.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-meta-scenarios.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-missing-clues.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-missing-the-obvious.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-mob-rule-fear-railroads.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-monster-environment.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-moral-dilemmas-of-magic.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-multi-threaded-campaigns.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-newssheets.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-no-but.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-non-combat-goals.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-non-standard-groups.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-not-available-right-now.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-npc-allies.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-npc-conversation-agendas.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-npc-spellbooks.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-one-job-multiple-patrons.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-one-scenario-or-two.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-opportunistic-foreshadowing.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-ornate-chokepoints.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-party-planning-in-actual-play.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-patron-exhaustion.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-pc-vs-pc-social-checks.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-play-by-email.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-player-absences.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-player-facing-mechanics.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-player-initiated-vectors.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-player-secrets.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-playing-to-the-crowd.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-post-it-mapping.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-prepping-porphyry-house.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-prepping-situations-is-cool.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-price-of-magic.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-purpose-of-preludes.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-re-skinning.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-recalling-the-lore.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-recognition-as-reward.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-reinventing-zombies.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-reputation.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-role-of-campaign-journal.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-roleplaying-ability-damage.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-roleplaying-npc-scenes.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-rolling-for-npcs.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-running-darkness.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-running-gags.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-scouting-dungeons.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-secret-campaign-journal.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-secret-life-silion.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-secrets-of-the-all-key.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-session-9-miscellanea.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-show-the-help.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-simple-simulationist-tactics-half-across-the-river.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-spray-your-bullets.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-starting-a-campaign.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-symbiotic-tactics.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-tavern-time.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-the-retcon.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-the-undead-sequel.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-thus-endeth-the-campaign.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-tpk-gamble.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-traps-that-move-you.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-treasure-logistics.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-treasure-with-context.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-trigger-and-stitch.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-unique-path-of-actual-play.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-unsolved-mysteries.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-urban-splits.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-using-lore-books.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-using-prophecy.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-using-rituals.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-using-scenery-traps.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-villain-who-doesnt-escape.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-weaving-the-background.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-what-magic-looks-like.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-when-players-reincorporate.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-whoops-forgot-the-wolf.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-withdrawing-in-victory.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-ptolus-world-building-by-players.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-secret-life-of-nodes-part-1.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-secret-life-of-nodes-part-2-node-based-campaigns.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-secret-life-of-nodes-part-3-fractal-nodes.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-secret-life-of-nodes-part-4-nodes-arent-everything.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "alexandrian-trail-of-cthulhu-cheat-sheet.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "another-inevitable-ai-article.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "batintheattic-medieval-levies-and-revenues.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "batintheattic-two-fourth-editions.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "d4caltrops-wilderness-stocking-expanded.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "gnomestew-player-roles.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "hackslashmaster-pressure-plate-triggers.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "jrients-old-schoolin-how-to-get-started.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "kotgl-borderlands-style-adventures.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "rambling-bumblers-sandbox-not-simulation.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "rambling-bumblers-sandbox-play.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "rambling-bumblers-travel-in-the-sandbox.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "rjd20-ask-loaded-focused-questions.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "rjd20-major-powers-in-your-dd-setting.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "seedofworlds-d4-caltrops-wilderness-stocking-test.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "seedofworlds-stronghold-clearing-reclamation.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "steamtunnel-adventure-in-one-six-mile-hex.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "steamtunnel-five-foundations-of-flavor.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "steamtunnel-set-up-sandbox-campaign.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "steamtunnel-wilderness-template-and-hexes.mdx",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "file": "thecoremechanic-defining-sandbox-gaming.mdx",
+      "status": "pending",
+      "notes": ""
+    }
+  ]
+}

@@ -7361,6 +7361,7 @@
 - `src/content/posts/translations/alexandrian-ptolus-fantasy-materials.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-fictional-rituals.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-player-initiated-vectors.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-recognition-as-reward.mdx`
 
 ## <https://thealexandrian.net/wordpress/43782/roleplaying-games/running-the-campaign-dragon-heist-the-manshoon-heists>
 
@@ -7592,6 +7593,7 @@
 
 - `src/content/posts/translations/alexandrian-guidance-sucks-in-fifth-edition.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-dilemma-gauntlet.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-monster-environment.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-using-scenery-traps.mdx`
 - `src/content/posts/translations/alexandrian-running-mysteries-hints.mdx`
 
@@ -8532,22 +8534,9 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
-## <https://thealexandrian.net/wordpress/52263/roleplaying-games/ptolus-running-the-campaign-adversary-roster-in-action>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-- `src/content/posts/translations/alexandrian-ptolus-recalling-the-lore.mdx`
-
 ## <https://thealexandrian.net/wordpress/52270/roleplaying-games/session-0-module-shared-arcs>
 
 - `src/content/posts/translations/alexandrian-session-0-modules.mdx`
-
-## <https://thealexandrian.net/wordpress/52277/roleplaying-games/ptolus-running-the-campaign-recognition-as-reward>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/52280/roleplaying-games/ptolus-running-the-camapign-encounter-building-monster-environment>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/52282/roleplaying-games/ptolus-running-the-campaign-agenda-pressure>
 
@@ -8929,6 +8918,10 @@
 ## <https://thealexandrian.net?p=39958>
 
 - `src/content/posts/translations/alexandrian-scenario-structure-challenge-1-raiding-death-star.mdx`
+
+## <https://thealexandrian.net?p=39979>
+
+- `src/content/posts/translations/alexandrian-ptolus-recognition-as-reward.mdx`
 
 ## <https://thealexandrian.net?p=39988>
 
@@ -9490,7 +9483,26 @@
 
 ## <https://thealexandrian.net?p=52215>
 
+- `src/content/posts/translations/alexandrian-ptolus-adversary-roster-in-action.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-recalling-the-lore.mdx`
+
+## <https://thealexandrian.net?p=52232>
+
+- `src/content/posts/translations/alexandrian-ptolus-adversary-roster-in-action.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-recognition-as-reward.mdx`
+
+## <https://thealexandrian.net?p=52234>
+
+- `src/content/posts/translations/alexandrian-ptolus-monster-environment.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-recognition-as-reward.mdx`
+
+## <https://thealexandrian.net?p=52236>
+
+- `src/content/posts/translations/alexandrian-ptolus-monster-environment.mdx`
+
+## <https://thealexandrian.net?p=52282>
+
+- `src/content/posts/translations/alexandrian-ptolus-monster-environment.mdx`
 
 ## <https://thealexandrian.net?p=53311>
 
@@ -11077,6 +11089,10 @@
 ## <https://www.drivethrurpg.com/en/product/224392/paranoia-first-edition?affiliate_id=81207>
 
 - `src/content/posts/translations/alexandrian-rpg-essential-reading-list.mdx`
+
+## <https://www.drivethrurpg.com/en/product/24965/creatures-of-freeport-d20-3-5?affiliate_id=81207>
+
+- `src/content/posts/translations/alexandrian-ptolus-monster-environment.mdx`
 
 ## <https://www.drivethrurpg.com/en/product/284022/eclipse-phase-second-edition?affiliate_id=81207>
 
