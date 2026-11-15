@@ -6096,6 +6096,10 @@
 - `src/content/posts/translations/alexandrian-campaign-status-trinity-toolbox.mdx`
 - `src/content/posts/translations/alexandrian-node-based-design-prepping-plot.mdx`
 
+## <https://thealexandrian.net/wordpress/1109/roleplaying-games/three-clue-rule-part-5-more-corollaries>
+
+- `src/content/posts/translations/alexandrian-ptolus-false-assumptions.mdx`
+
 ## <https://thealexandrian.net/wordpress/1136/roleplaying-games/the-masks-of-nyarlathotep>
 
 - `src/content/posts/translations/alexandrian-advanced-node-based-design-part-3-organization.mdx`
@@ -6355,6 +6359,10 @@
 ## <https://thealexandrian.net/wordpress/2781/roleplaying-games/dice-of-destiny>
 
 - `src/content/posts/translations/alexandrian-ask-20-transferable-techniques.mdx`
+
+## <https://thealexandrian.net/wordpress/2793/roleplaying-games/dice-of-destiny-part-2-qualities>
+
+- `src/content/posts/translations/alexandrian-ptolus-ex-post-facto-roleplaying.mdx`
 
 ## <https://thealexandrian.net/wordpress/29334/roleplaying-games/thought-of-the-day-gumshoe-approach-to-clues>
 
@@ -7303,6 +7311,7 @@
 
 - `src/content/posts/translations/alexandrian-advanced-npc-roleplaying-templates.mdx`
 - `src/content/posts/translations/alexandrian-gm-dont-list-11-description-on-demand.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-ex-post-facto-roleplaying.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-pc-vs-pc-social-checks.mdx`
 - `src/content/posts/translations/alexandrian-random-dd-tip-reactions-relationships.mdx`
 
@@ -7331,6 +7340,10 @@
 - `src/content/posts/translations/alexandrian-gm-dont-list-16-not-writing-down-initiative.mdx`
 - `src/content/posts/translations/alexandrian-pacing-for-the-beginning-gm.mdx`
 - `src/content/posts/translations/alexandrian-standoffs-surprise.mdx`
+
+## <https://thealexandrian.net/wordpress/43606/fiction/thought-of-the-day-george-r-r-martin-death-as-plot-reversal>
+
+- `src/content/posts/translations/alexandrian-ptolus-false-assumptions.mdx`
 
 ## <https://thealexandrian.net/wordpress/43622/roleplaying-games/in-the-shadow-of-the-spire-session-20d-the-talk-of-the-town>
 
@@ -8285,6 +8298,7 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-combat-verticality.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-false-assumptions.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-ornate-chokepoints.mdx`
 
 ## <https://thealexandrian.net/wordpress/50648/roleplaying-games/in-the-shadow-of-the-spire-session-35a-birds-of-a-black-feather>
@@ -8445,6 +8459,7 @@
 ## <https://thealexandrian.net/wordpress/51472/roleplaying-games/in-the-shadow-of-the-spire-session-40e-a-final-questioning>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-speak-with-dead-sfx.mdx`
 
 ## <https://thealexandrian.net/wordpress/51634/roleplaying-games/mothership-pseudomilk-predators>
 
@@ -8548,15 +8563,6 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
-## <https://thealexandrian.net/wordpress/52570/roleplaying-games/ptolus-running-the-campaign-ex-post-facto-roleplaying>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-- `src/content/posts/translations/alexandrian-ptolus-agenda-pressure.mdx`
-
-## <https://thealexandrian.net/wordpress/52574/roleplaying-games/ptolus-running-the-campaign-speak-with-dead-sfx>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
 ## <https://thealexandrian.net/wordpress/52637/roleplaying-games/in-the-shadow-of-the-spire-session-47a-the-master-of-two-servants>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
@@ -8566,10 +8572,6 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
 ## <https://thealexandrian.net/wordpress/52643/roleplaying-games/in-the-shadow-of-the-spire-session-47c-home-suite-home>
-
-- `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
-
-## <https://thealexandrian.net/wordpress/52650/roleplaying-games/ptolus-running-the-campaign-false-assumptions>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 
@@ -9506,6 +9508,21 @@
 ## <https://thealexandrian.net?p=52559>
 
 - `src/content/posts/translations/alexandrian-ptolus-agenda-pressure.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-ex-post-facto-roleplaying.mdx`
+
+## <https://thealexandrian.net?p=52562>
+
+- `src/content/posts/translations/alexandrian-ptolus-ex-post-facto-roleplaying.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-speak-with-dead-sfx.mdx`
+
+## <https://thealexandrian.net?p=52637>
+
+- `src/content/posts/translations/alexandrian-ptolus-false-assumptions.mdx`
+- `src/content/posts/translations/alexandrian-ptolus-speak-with-dead-sfx.mdx`
+
+## <https://thealexandrian.net?p=52638>
+
+- `src/content/posts/translations/alexandrian-ptolus-false-assumptions.mdx`
 
 ## <https://thealexandrian.net?p=53311>
 
