@@ -41,6 +41,7 @@
 
 ### Авторские теги переводов
 
+- `Роджер Мур`
 - `Амбер Э. Скотт`
 - `Бен Робинсон`
 - `Джеймс Малижевски`
@@ -257,6 +258,7 @@
 | `Josh Storey` | `Josh Storey` |
 | `Joshua Macy` | `Joshua Macy` |
 | `Justin Alexander` | `Alexandrian` |
+| `Roger Moore` | `Роджер Мур` |
 | `Kelly Pawlik` | `Kelly Pawlik` |
 | `Kenneth Hodges` | `Kenneth Hodges` |
 | `KibblesTasty` | `KibblesTasty` |
