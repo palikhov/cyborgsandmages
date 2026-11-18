@@ -7,17 +7,30 @@ export async function getStaticPaths() {
 	const allPosts = await getCollection("posts");
 	const uniqueTags = [...new Set(allPosts.flatMap((post) => post.data.tags))];
 
-	return uniqueTags.flatMap((tag) => {
+	const paths = uniqueTags.map((tag) => {
 		const filteredPosts = allPosts
 			.filter((post) => post.data.tags.includes(tag) && !post.data.draft && new Date(post.data.date) <= new Date())
 			.sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
 
 		return {
 			params: { tag },
-			props: { posts: filteredPosts }
+			props: { posts: filteredPosts, redirectTo: null as string | null }
 		};
 	});
+	const legacyTags = {
+		"Forgotten Realms": "Забытые Королевства",
+		Cormyr: "Кормир",
+		Waterdeep: "Глубоководье"
+	};
+	return [...paths, ...Object.entries(legacyTags)
+		.filter(([, tag]) => uniqueTags.includes(tag))
+		.map(([legacy, tag]) => ({
+			params: { tag: legacy },
+			props: { posts: [], redirectTo: `/tags/${encodeURIComponent(tag)}` }
+		}))];
 }
+
+if (Astro.props.redirectTo) return Astro.redirect(Astro.props.redirectTo, 301);
 
 const { tag } = Astro.params;
 const { posts } = Astro.props;

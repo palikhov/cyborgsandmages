@@ -30,7 +30,7 @@ const groups = sections.map(([, heading, contents]) => ({
 	heading,
 	tags: [...contents.matchAll(/^\d+\. `([^`]+)`/gm)]
 		.map(([, tag]) => tag)
-		.filter((tag) => counts.has(tag))
+		.filter((tag) => heading.startsWith("Забытые Королевства: ") || counts.has(tag))
 		.sort(alphabetical)
 })).filter(({ tags }) => tags.length > 0);
 const groupedTags = new Set(groups.flatMap(({ tags }) => tags));
@@ -43,7 +43,7 @@ groups.push(
 );
 
 const title = "Тэги";
-const description = "Список тэгов";
+const description = "Справочник тегов";
 ---
 
 <BaseLayout
@@ -53,6 +53,7 @@ const description = "Список тэгов";
 	<div class="mx-auto my-8 w-full max-w-4xl px-2">
 		<div class="prose mx-auto text-center font-serif md:prose-lg sm:px-0">
 			<h1>{description}</h1>
+			<p>Число рядом с тегом показывает количество опубликованных статей. Теги без статей пока недоступны для перехода.</p>
 		</div>
 	</div>
 
@@ -60,15 +61,21 @@ const description = "Список тэгов";
 		{groups.filter(({ tags }) => tags.length > 0).map(({ heading, tags }) => (
 			<section>
 				<h2 class="mb-4 font-serif text-2xl font-semibold">{heading}</h2>
+				{heading.startsWith("Забытые Королевства: ") && (
+					<p class="mb-4 text-sm">Теги для материалов категории «Забытые Королевства».</p>
+				)}
 				<ul class="flex flex-wrap gap-2">
 					{tags.map((tag) => (
 						<li>
-							<a
+							{counts.has(tag) ? <a
 								href={`/tags/${encodeURIComponent(tag)}`}
 								class="inline-flex items-baseline gap-2 rounded border border-brand-crimson px-2 py-0.5 hover:bg-brand-crimson hover:text-white">
 								{tag}
 								<span class="text-xs tabular-nums">{counts.get(tag)}</span>
-							</a>
+							</a> : <span class="inline-flex items-baseline gap-2 rounded border border-current px-2 py-0.5 opacity-60">
+								{tag}
+								<span class="text-xs tabular-nums">0</span>
+							</span>}
 						</li>
 					))}
 				</ul>
