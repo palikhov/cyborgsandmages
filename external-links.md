@@ -3922,10 +3922,6 @@
 
 - `src/content/posts/translations/tribality-artificer-class-part-one.mdx`
 
-## <https://commons.wikimedia.org/w/index.php?oldid=1296478035>
-
-- `src/content/posts/forgotten-realms/lost-lore-of-the-realms-65.mdx`
-
 ## <https://commons.wikimedia.org/w/index.php?title=File%3AAmelia_Tuccio%2C_Sperm_Oil_Can%2C_c._1937%2C_NGA_21317.jpg>
 
 - `src/content/posts/translations/alexandrian-ptolus-in-jokes.mdx`
@@ -3977,6 +3973,10 @@
 ## <https://commons.wikimedia.org/wiki/File:Self-operating_napkin_(Rube_Goldberg_cartoon_with_caption)%2Ejpg>
 
 - `src/content/posts/translations/alexandrian-ptolus-dynamic-terrain.mdx`
+
+## <https://commons.wikimedia.org/wiki/File:Stellated_octahedron_3-fold-axis.png>
+
+- `src/content/posts/forgotten-realms/lost-lore-of-the-realms-65.mdx`
 
 ## <https://commons.wikimedia.org/wiki/File:Windmill_5243862712_4e732973c7_o%2Ejpg>
 
