@@ -5179,6 +5179,10 @@
 
 - `src/content/posts/translations/welsh-piper-dynamic-encounter-tables.mdx`
 
+## <https://museum.dea.gov/exhibits/online-exhibits/cannabis-coca-and-poppy-natures-addictive-plants>
+
+- `src/content/posts/forgotten-realms/lost-lore-of-the-realms-36.mdx`
+
 ## <https://nbos.com/products/inspiration-pad-pro>
 
 - `src/content/posts/translations/batintheattic-fantasy-sandbox-in-detail-part-x.mdx`
@@ -9856,6 +9860,10 @@
 
 - `src/content/posts/translations/alexandrian-untested-5e-streamlined-skills.mdx`
 
+## <https://threadreaderapp.com/thread/1234257129269288970.html>
+
+- `src/content/posts/forgotten-realms/ed-greenwood-city-watch-of-waterdeep.mdx`
+
 ## <https://thriftomancer.itch.io/null>
 
 - `src/content/posts/translations/sam-sorensen-which-rules-elide.mdx`
@@ -10462,6 +10470,10 @@
 
 - `src/content/posts/translations/prismatic-wasteland-secret-to-realism-in-games.mdx`
 - `src/content/posts/translations/prismaticwasteland-encounter-checklist.mdx`
+
+## <https://www.bfr.bund.de/en/risk-communication/dialog-formats/bfr-poisonous-plants-garden/common-foxglove>
+
+- `src/content/posts/forgotten-realms/lost-lore-of-the-realms-36.mdx`
 
 ## <https://www.birdsoutsidemywindow.org/2014/02/26/bird-skeletons-as-heavy-as-mammals>
 
