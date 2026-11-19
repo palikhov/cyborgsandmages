@@ -1,0 +1,4405 @@
+[
+  {
+    "id": 0,
+    "path": "src/content/posts/adventurers-league/phlan-dm.mdx",
+    "title": "Флан для Мастера",
+    "added": [
+      "Флан",
+      "Келемвор"
+    ],
+    "approved": [
+      "Флан",
+      "Келемвор"
+    ]
+  },
+  {
+    "id": 1,
+    "path": "src/content/posts/adventurers-league/season-1-narrative-phlan.mdx",
+    "title": "Повествование к 1-ому сезону Лиги Авантюристов",
+    "added": [
+      "Флан",
+      "Культ Дракона",
+      "Красные Волшебники Тэя",
+      "Лунное море"
+    ],
+    "approved": [
+      "Флан",
+      "Культ Дракона",
+      "Красные Волшебники Тэя",
+      "Лунное море"
+    ]
+  },
+  {
+    "id": 2,
+    "path": "src/content/posts/adventurers-league/season-2-narrative-mulmaster.mdx",
+    "title": "Повествование второго сезона Лиги Авантюристов- Мулмастер",
+    "added": [
+      "Мулмастер",
+      "Лунное море",
+      "Тэй",
+      "Бейн",
+      "Амберли",
+      "Вокин",
+      "Малар",
+      "Талос",
+      "Тимора",
+      "Зентарим",
+      "Красные Волшебники Тэя",
+      "Фзул Чембрил",
+      "Сзасс Тэм",
+      "Латандер"
+    ],
+    "approved": [
+      "Мулмастер",
+      "Лунное море",
+      "Тэй",
+      "Бейн",
+      "Амберли",
+      "Вокин",
+      "Малар",
+      "Талос",
+      "Тимора",
+      "Зентарим",
+      "Красные Волшебники Тэя",
+      "Фзул Чембрил",
+      "Сзасс Тэм",
+      "Латандер"
+    ]
+  },
+  {
+    "id": 3,
+    "path": "src/content/posts/articles/about-dnd-5e-timeline.mdx",
+    "title": "Хронология событий в Забытых Королевствах в D&D 5e",
+    "added": [
+      "Кормир",
+      "Глубоководье",
+      "Агларонд",
+      "Долины",
+      "Мулхоранд",
+      "Острова Муншае",
+      "Побережье Мечей",
+      "Подземье",
+      "Сембия",
+      "Серебряные Пределы",
+      "Тэй",
+      "Унтер",
+      "Чессента",
+      "Азут",
+      "Асмодей",
+      "Баал",
+      "Ваэраун",
+      "Ллос",
+      "Мистра",
+      "Тиамат",
+      "Шар",
+      "Эйлистри",
+      "Врата Балдура",
+      "Кэндлкип",
+      "Лускан",
+      "Невервинтер",
+      "Сильверимун",
+      "Флан",
+      "Арфисты",
+      "Красные Волшебники Тэя",
+      "Культ Дракона",
+      "Алусайр Обарскир",
+      "Алустриэль Сильверхэнд",
+      "Дагульт Неверэмбер",
+      "Джарлакс",
+      "Дриззт До’Урден",
+      "Кельбен Арунсун",
+      "Лаэраль Сильверхэнд",
+      "Мэншун",
+      "Сзасс Тэм",
+      "Эльминстер"
+    ],
+    "approved": [
+      "Кормир",
+      "Глубоководье",
+      "Агларонд",
+      "Долины",
+      "Мулхоранд",
+      "Острова Муншае",
+      "Побережье Мечей",
+      "Подземье",
+      "Сембия",
+      "Серебряные Пределы",
+      "Тэй",
+      "Унтер",
+      "Чессента",
+      "Азут",
+      "Асмодей",
+      "Баал",
+      "Ваэраун",
+      "Ллос",
+      "Мистра",
+      "Тиамат",
+      "Шар",
+      "Эйлистри",
+      "Врата Балдура",
+      "Кэндлкип",
+      "Лускан",
+      "Невервинтер",
+      "Сильверимун",
+      "Флан",
+      "Арфисты",
+      "Красные Волшебники Тэя",
+      "Культ Дракона",
+      "Алусайр Обарскир",
+      "Алустриэль Сильверхэнд",
+      "Дагульт Неверэмбер",
+      "Джарлакс",
+      "Дриззт До’Урден",
+      "Кельбен Арунсун",
+      "Лаэраль Сильверхэнд",
+      "Мэншун",
+      "Сзасс Тэм",
+      "Эльминстер"
+    ]
+  },
+  {
+    "id": 4,
+    "path": "src/content/posts/articles/about-marwang-2.mdx",
+    "title": "Марванг",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 5,
+    "path": "src/content/posts/articles/about-netheril.mdx",
+    "title": "Выдержки из истории Нетерила в Забытых Королевствах",
+    "added": [
+      "Кормир",
+      "Долины",
+      "Сембия",
+      "Латандер",
+      "Маск",
+      "Мистра",
+      "Шар",
+      "Карсус",
+      "Эльминстер"
+    ],
+    "approved": [
+      "Кормир",
+      "Долины",
+      "Сембия",
+      "Латандер",
+      "Маск",
+      "Мистра",
+      "Шар",
+      "Карсус",
+      "Эльминстер"
+    ]
+  },
+  {
+    "id": 6,
+    "path": "src/content/posts/articles/about-rare-gems-and-materials-in-forgotten-realms.mdx",
+    "title": "Редкие материалы и драгоценные камни «Забытых Королевств»",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 7,
+    "path": "src/content/posts/articles/dmsguild-silver-marches-1.mdx",
+    "title": "Публикация на DMSGUILD - Серебряные пределы - SM01",
+    "added": [
+      "Серебряные Пределы"
+    ],
+    "approved": [
+      "Серебряные Пределы"
+    ]
+  },
+  {
+    "id": 8,
+    "path": "src/content/posts/articles/excel-name-generator-dmsguild.mdx",
+    "title": "Публикация Faerunian names - excel generator на dmsguild",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 9,
+    "path": "src/content/posts/articles/found-old-materials.mdx",
+    "title": "Старые материалы - очередная версия рейнджера, праймер к кампании по Вратам Балдура и Авернусу",
+    "added": [
+      "Побережье Мечей",
+      "Врата Балдура"
+    ],
+    "approved": [
+      "Побережье Мечей",
+      "Врата Балдура"
+    ]
+  },
+  {
+    "id": 10,
+    "path": "src/content/posts/articles/geography-of-forgotten-realms.mdx",
+    "title": "От Врат Бальдура До Туйганской Орды. География Забытых Королевств",
+    "added": [
+      "Кормир",
+      "Глубоководье",
+      "Лунное море",
+      "Агларонд",
+      "Амн",
+      "Анаурох",
+      "Дамара",
+      "Долины",
+      "Калимшан",
+      "Мулхоранд",
+      "Острова Муншае",
+      "Побережье Мечей",
+      "Подземье",
+      "Рашемен",
+      "Сембия",
+      "Тетир",
+      "Тэй",
+      "Унтер",
+      "Чессента",
+      "Чульт",
+      "Врата Балдура",
+      "Кэндлкип",
+      "Невервинтер"
+    ],
+    "approved": [
+      "Кормир",
+      "Глубоководье",
+      "Лунное море",
+      "Агларонд",
+      "Амн",
+      "Анаурох",
+      "Дамара",
+      "Долины",
+      "Калимшан",
+      "Мулхоранд",
+      "Острова Муншае",
+      "Побережье Мечей",
+      "Подземье",
+      "Рашемен",
+      "Сембия",
+      "Тетир",
+      "Тэй",
+      "Унтер",
+      "Чессента",
+      "Чульт",
+      "Врата Балдура",
+      "Кэндлкип",
+      "Невервинтер"
+    ]
+  },
+  {
+    "id": 11,
+    "path": "src/content/posts/articles/mechi-i-koldovstvo.mdx",
+    "title": "Мечи и колдовство",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 12,
+    "path": "src/content/posts/articles/namegen-faerun.mdx",
+    "title": "Генератор имен для Фаэруна",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 13,
+    "path": "src/content/posts/articles/nerath.mdx",
+    "title": "Nerath - История и обзор Nentir Vale",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 14,
+    "path": "src/content/posts/articles/sea-of-fallen-stars.mdx",
+    "title": "Море Упавших Звезд",
+    "added": [
+      "Кормир",
+      "Долины",
+      "Сембия"
+    ],
+    "approved": [
+      "Кормир",
+      "Долины",
+      "Сембия"
+    ]
+  },
+  {
+    "id": 15,
+    "path": "src/content/posts/articles/sune-deity.mdx",
+    "title": "Богиня Суни",
+    "added": [
+      "Суни",
+      "Селунэ"
+    ],
+    "approved": [
+      "Суни",
+      "Селунэ"
+    ]
+  },
+  {
+    "id": 16,
+    "path": "src/content/posts/articles/timeline-5e.mdx",
+    "title": "Хронология событий Forgotten Realms 5e",
+    "added": [
+      "Кормир",
+      "Глубоководье",
+      "Агларонд",
+      "Долины",
+      "Мулхоранд",
+      "Острова Муншае",
+      "Побережье Мечей",
+      "Подземье",
+      "Сембия",
+      "Серебряные Пределы",
+      "Тэй",
+      "Унтер",
+      "Чессента",
+      "Азут",
+      "Асмодей",
+      "Баал",
+      "Ваэраун",
+      "Ллос",
+      "Мистра",
+      "Тиамат",
+      "Шар",
+      "Эйлистри",
+      "Врата Балдура",
+      "Кэндлкип",
+      "Лускан",
+      "Невервинтер",
+      "Сильверимун",
+      "Флан",
+      "Арфисты",
+      "Красные Волшебники Тэя",
+      "Культ Дракона",
+      "Алусайр Обарскир",
+      "Алустриэль Сильверхэнд",
+      "Дагульт Неверэмбер",
+      "Джарлакс",
+      "Дриззт До’Урден",
+      "Кельбен Арунсун",
+      "Лаэраль Сильверхэнд",
+      "Мэншун",
+      "Сзасс Тэм",
+      "Эльминстер"
+    ],
+    "approved": [
+      "Кормир",
+      "Глубоководье",
+      "Агларонд",
+      "Долины",
+      "Мулхоранд",
+      "Острова Муншае",
+      "Побережье Мечей",
+      "Подземье",
+      "Сембия",
+      "Серебряные Пределы",
+      "Тэй",
+      "Унтер",
+      "Чессента",
+      "Азут",
+      "Асмодей",
+      "Баал",
+      "Ваэраун",
+      "Ллос",
+      "Мистра",
+      "Тиамат",
+      "Шар",
+      "Эйлистри",
+      "Врата Балдура",
+      "Кэндлкип",
+      "Лускан",
+      "Невервинтер",
+      "Сильверимун",
+      "Флан",
+      "Арфисты",
+      "Красные Волшебники Тэя",
+      "Культ Дракона",
+      "Алусайр Обарскир",
+      "Алустриэль Сильверхэнд",
+      "Дагульт Неверэмбер",
+      "Джарлакс",
+      "Дриззт До’Урден",
+      "Кельбен Арунсун",
+      "Лаэраль Сильверхэнд",
+      "Мэншун",
+      "Сзасс Тэм",
+      "Эльминстер"
+    ]
+  },
+  {
+    "id": 17,
+    "path": "src/content/posts/articles/xethmar-1.mdx",
+    "title": "Зетамар - маготехнический сеттинг",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 18,
+    "path": "src/content/posts/core-d20/about-weapon-mastery.mdx",
+    "title": "Мастерство владения оружием в разных редакциях",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 19,
+    "path": "src/content/posts/forgotten-realms/beastlord.mdx",
+    "title": "Повелитель зверей - О боге Маларе и поклонении нему",
+    "added": [
+      "Малар",
+      "Сильванус"
+    ],
+    "approved": [
+      "Малар",
+      "Сильванус"
+    ]
+  },
+  {
+    "id": 20,
+    "path": "src/content/posts/forgotten-realms/beregost.mdx",
+    "title": "Берегост",
+    "added": [
+      "Берегост",
+      "Амн",
+      "Латандер"
+    ],
+    "approved": [
+      "Берегост",
+      "Амн",
+      "Латандер"
+    ]
+  },
+  {
+    "id": 21,
+    "path": "src/content/posts/forgotten-realms/bratstvo-plashej-pravila-dlya-ligi-avantyuristov-dandd.mdx",
+    "title": "Братство Плащей - Правила для Лиги Авантюристов D&D",
+    "added": [
+      "Мулмастер"
+    ],
+    "approved": [
+      "Мулмастер"
+    ]
+  },
+  {
+    "id": 22,
+    "path": "src/content/posts/forgotten-realms/chelovecheskie-yazyki-alfavity-i-frazy-zabytyh-korolevstv.mdx",
+    "title": "Человеческие языки, алфавиты и фразы «Забытых Королевств»",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 23,
+    "path": "src/content/posts/forgotten-realms/clergy-of-myrkul.mdx",
+    "title": "Служить Владыке Костей - миркулитское духовенство в 1499 ЛД",
+    "added": [
+      "Миркул",
+      "Келемвор"
+    ],
+    "approved": [
+      "Миркул",
+      "Келемвор"
+    ]
+  },
+  {
+    "id": 24,
+    "path": "src/content/posts/forgotten-realms/cult-marauding.mdx",
+    "title": "Налёты Культа",
+    "added": [
+      "Культ Дракона",
+      "Побережье Мечей",
+      "Глубоководье",
+      "Врата Балдура",
+      "Арфисты"
+    ],
+    "approved": [
+      "Культ Дракона",
+      "Побережье Мечей",
+      "Глубоководье",
+      "Врата Балдура",
+      "Арфисты"
+    ]
+  },
+  {
+    "id": 25,
+    "path": "src/content/posts/forgotten-realms/daggerdale-lordless-country-today.mdx",
+    "title": "Страна без лордов",
+    "added": [
+      "Долины",
+      "Зентарим",
+      "Ловиатар"
+    ],
+    "approved": [
+      "Долины",
+      "Зентарим",
+      "Ловиатар"
+    ]
+  },
+  {
+    "id": 26,
+    "path": "src/content/posts/forgotten-realms/dengi-korolevstv.mdx",
+    "title": "Деньги Королевств",
+    "added": [
+      "Кормир",
+      "Глубоководье",
+      "Амн",
+      "Сембия",
+      "Врата Балдура",
+      "Сильверимун"
+    ],
+    "approved": [
+      "Кормир",
+      "Глубоководье",
+      "Амн",
+      "Сембия",
+      "Врата Балдура",
+      "Сильверимун"
+    ]
+  },
+  {
+    "id": 27,
+    "path": "src/content/posts/forgotten-realms/derevo-fr.mdx",
+    "title": "Деревья Забытых Королевств",
+    "added": [
+      "Север",
+      "Серебряные Пределы",
+      "Долины",
+      "Побережье Мечей"
+    ],
+    "approved": [
+      "Север",
+      "Серебряные Пределы",
+      "Долины",
+      "Побережье Мечей"
+    ]
+  },
+  {
+    "id": 28,
+    "path": "src/content/posts/forgotten-realms/deyatelnost-vo-vremya-prostoya-pokupki-u-princev.mdx",
+    "title": "Деятельность во время простоя: Покупки у принцев",
+    "added": [
+      "Чульт"
+    ],
+    "approved": [
+      "Чульт"
+    ]
+  },
+  {
+    "id": 29,
+    "path": "src/content/posts/forgotten-realms/dobro-i-zlo-na-faerune.mdx",
+    "title": "Добро и зло на Фаэруне",
+    "added": [
+      "Илматер",
+      "Ловиатар",
+      "Мистра",
+      "Селунэ",
+      "Сильванус",
+      "Торм",
+      "Хельм",
+      "Темпус",
+      "Тимора",
+      "Арфисты",
+      "Зентарим",
+      "Красные Волшебники Тэя",
+      "Тэй",
+      "Тетир",
+      "Кормир"
+    ],
+    "approved": [
+      "Илматер",
+      "Ловиатар",
+      "Мистра",
+      "Селунэ",
+      "Сильванус",
+      "Торм",
+      "Хельм",
+      "Темпус",
+      "Тимора",
+      "Арфисты",
+      "Зентарим",
+      "Красные Волшебники Тэя",
+      "Тэй",
+      "Тетир",
+      "Кормир"
+    ]
+  },
+  {
+    "id": 30,
+    "path": "src/content/posts/forgotten-realms/drow-mechanicals.mdx",
+    "title": "ЧАСТО УПУСКАЕМЫЕ ИЗ ВИДУ: МЕХАНИЗМЫ ДРОУ",
+    "added": [
+      "Подземье"
+    ],
+    "approved": [
+      "Подземье"
+    ]
+  },
+  {
+    "id": 31,
+    "path": "src/content/posts/forgotten-realms/drugs-forgotten-realms.mdx",
+    "title": "Наркотики в Королевствах",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 32,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-a-new-road-to-lichdom.mdx",
+    "title": "Новый путь к личеству",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 33,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-about-canon-in-forgotten-realms.mdx",
+    "title": "Канон Forgotten Realms и Эд Гринвуд",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 34,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-alakhar-the-ambitious.mdx",
+    "title": "Алахар Честолюбивый",
+    "added": [
+      "Дикое Пограничье",
+      "Побережье Мечей",
+      "Арфисты",
+      "Глубоководье",
+      "Сильверимун",
+      "Лаэраль Сильверхэнд"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Побережье Мечей",
+      "Арфисты",
+      "Глубоководье",
+      "Сильверимун",
+      "Лаэраль Сильверхэнд"
+    ]
+  },
+  {
+    "id": 35,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-alaundo-prophecies.mdx",
+    "title": "Одна кроватная пружина, чтобы всех обмануть",
+    "added": [
+      "Алаундо",
+      "Кэндлкип",
+      "Цирик",
+      "Баал",
+      "Маск"
+    ],
+    "approved": [
+      "Алаундо",
+      "Кэндлкип",
+      "Цирик",
+      "Баал",
+      "Маск"
+    ]
+  },
+  {
+    "id": 36,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-asmodeus-rising.mdx",
+    "title": "Восхождение Асмодея",
+    "added": [
+      "Асмодей",
+      "Глубоководье"
+    ],
+    "approved": [
+      "Асмодей",
+      "Глубоководье"
+    ]
+  },
+  {
+    "id": 37,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-beholder-road-less-travelled.mdx",
+    "title": "Бехолдер на нехоженой тропе",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 38,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-bestsellers-in-the-realms.mdx",
+    "title": "Бестселлеры Королевств",
+    "added": [
+      "Кормир"
+    ],
+    "approved": [
+      "Кормир"
+    ]
+  },
+  {
+    "id": 39,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-brigadier-on-the-run.mdx",
+    "title": "Бригадир в бегах",
+    "added": [
+      "Гонд",
+      "Мистра",
+      "Эльминстер"
+    ],
+    "approved": [
+      "Гонд",
+      "Мистра",
+      "Эльминстер"
+    ]
+  },
+  {
+    "id": 40,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-city-of-snakes.mdx",
+    "title": "Ваш следующий отпуск — в городе змей!",
+    "added": [
+      "Подземье"
+    ],
+    "approved": [
+      "Подземье"
+    ]
+  },
+  {
+    "id": 41,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-city-watch-of-waterdeep.mdx",
+    "title": "Всегда начеку: городская стража Вотердипа",
+    "added": [
+      "Глубоководье",
+      "Лаэраль Сильверхэнд"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Лаэраль Сильверхэнд"
+    ]
+  },
+  {
+    "id": 42,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-dark-queen-rising.mdx",
+    "title": "Восхождение Тёмной Королевы",
+    "added": [
+      "Ллос",
+      "Подземье"
+    ],
+    "approved": [
+      "Ллос",
+      "Подземье"
+    ]
+  },
+  {
+    "id": 43,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-dastardly-deeds-zhentarim.mdx",
+    "title": "Подлые дела: над какими планами Зентарим работает прямо сейчас",
+    "added": [
+      "Зентарим",
+      "Глубоководье",
+      "Амн"
+    ],
+    "approved": [
+      "Зентарим",
+      "Глубоководье",
+      "Амн"
+    ]
+  },
+  {
+    "id": 44,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-doggerel-from-the-forgotten-realms-1.mdx",
+    "title": "Стишки из Забытых Королевств № 1",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 45,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-doggerel-from-the-forgotten-realms-2.mdx",
+    "title": "Стишки из Забытых Королевств № 2",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 46,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-dread-wand-of-alakahzoum.mdx",
+    "title": "Жуткий жезл Алаказума",
+    "added": [
+      "Эльминстер"
+    ],
+    "approved": [
+      "Эльминстер"
+    ]
+  },
+  {
+    "id": 47,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-drow-banquets.mdx",
+    "title": "Береги глотку: пир дроу во всём великолепии",
+    "added": [
+      "Подземье"
+    ],
+    "approved": [
+      "Подземье"
+    ]
+  },
+  {
+    "id": 48,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-dwarflore.mdx",
+    "title": "Два взгляда на дварфов Забытых Королевств",
+    "added": [
+      "Кормир",
+      "Подземье"
+    ],
+    "approved": [
+      "Кормир",
+      "Подземье"
+    ]
+  },
+  {
+    "id": 49,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-evil-stirs-behind-your-back.mdx",
+    "title": "Зло шевелится у вас за спиной",
+    "added": [
+      "Асмодей"
+    ],
+    "approved": [
+      "Асмодей"
+    ]
+  },
+  {
+    "id": 50,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-fanes-of-shar.mdx",
+    "title": "Святилища Шар",
+    "added": [
+      "Шар",
+      "Долины",
+      "Сембия"
+    ],
+    "approved": [
+      "Шар",
+      "Долины",
+      "Сембия"
+    ]
+  },
+  {
+    "id": 51,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-forgotten-mage-of-the-forgotten-realms.mdx",
+    "title": "Забытый маг Забытых Королевств",
+    "added": [
+      "Мистра",
+      "Азут"
+    ],
+    "approved": [
+      "Мистра",
+      "Азут"
+    ]
+  },
+  {
+    "id": 52,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-great-hunt-for-the-loathly-worm.mdx",
+    "title": "Великая охота на Мерзкого Змия",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 53,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-high-fashion-in-waterdeep.mdx",
+    "title": "Высокая мода в Вотердипе: тогда и сейчас",
+    "added": [
+      "Глубоководье"
+    ],
+    "approved": [
+      "Глубоководье"
+    ]
+  },
+  {
+    "id": 54,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-house-of-tentacles.mdx",
+    "title": "Дом щупалец: семья Сил из Невервинтера",
+    "added": [
+      "Невервинтер",
+      "Дагульт Неверэмбер",
+      "Лускан"
+    ],
+    "approved": [
+      "Невервинтер",
+      "Дагульт Неверэмбер",
+      "Лускан"
+    ]
+  },
+  {
+    "id": 55,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-how-reckless-can-a-wizard-be.mdx",
+    "title": "Насколько безрассудным может быть волшебник?",
+    "added": [
+      "Амн"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Амн"
+    ]
+  },
+  {
+    "id": 56,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-how-to-tell-a-beholder-where-to-go.mdx",
+    "title": "Как послать бехолдера куда подальше",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 57,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-hunting-for-hoards-in-the-city-of-swords.mdx",
+    "title": "Охота за кладами в Городе Мечей",
+    "added": [
+      "Лунное море",
+      "Арфисты",
+      "Зентарим"
+    ],
+    "approved": [
+      "Лунное море",
+      "Арфисты",
+      "Зентарим"
+    ]
+  },
+  {
+    "id": 58,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-lost-lore-of-the-realms-72.mdx",
+    "title": "Утраченные предания Королевств № 72: Пламя Звёздных гор",
+    "added": [
+      "Север",
+      "Побережье Мечей",
+      "Серебряные Пределы",
+      "Красные Волшебники Тэя",
+      "Сзасс Тэм",
+      "Зентарим"
+    ],
+    "approved": [
+      "Север",
+      "Побережье Мечей",
+      "Серебряные Пределы",
+      "Красные Волшебники Тэя",
+      "Сзасс Тэм",
+      "Зентарим"
+    ]
+  },
+  {
+    "id": 59,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-lost-lore-of-the-realms-73.mdx",
+    "title": "Утраченные предания Королевств №73: четыре вопроса о Фаэруне",
+    "added": [
+      "Амн",
+      "Север"
+    ],
+    "approved": [
+      "Кормир",
+      "Амн",
+      "Север"
+    ]
+  },
+  {
+    "id": 60,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-lost-lore-of-the-realms-74.mdx",
+    "title": "Утраченные предания Королевств №74: внебрачные дети кормирской знати",
+    "added": [],
+    "approved": [
+      "Кормир"
+    ]
+  },
+  {
+    "id": 61,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-lost-lore-of-the-realms-75.mdx",
+    "title": "Утраченные предания Королевств № 75: музыка, поэзия и Плетение",
+    "added": [
+      "Воло",
+      "Мистра",
+      "Азут",
+      "Шар"
+    ],
+    "approved": [
+      "Воло",
+      "Мистра",
+      "Азут",
+      "Шар"
+    ]
+  },
+  {
+    "id": 62,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-lost-lore-of-the-realms-76.mdx",
+    "title": "Утраченные предания Королевств № 76: личи, драконы, стихи и ревень",
+    "added": [
+      "Воло",
+      "Лаэраль Сильверхэнд",
+      "Халруаа",
+      "Баал",
+      "Бейн",
+      "Миркул",
+      "Латандер",
+      "Миликки",
+      "Ориль",
+      "Сильванус",
+      "Чонти",
+      "Эльдат"
+    ],
+    "approved": [
+      "Воло",
+      "Лаэраль Сильверхэнд",
+      "Халруаа",
+      "Баал",
+      "Бейн",
+      "Миркул",
+      "Латандер",
+      "Миликки",
+      "Ориль",
+      "Сильванус",
+      "Чонти",
+      "Эльдат"
+    ]
+  },
+  {
+    "id": 63,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-lurking-spawn-of-the-purple-dragon.mdx",
+    "title": "Затаившиеся потомки Пурпурного Дракона",
+    "added": [],
+    "approved": [
+      "Кормир"
+    ]
+  },
+  {
+    "id": 64,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-magical-tattoos.mdx",
+    "title": "Когда магия проникает под кожу: волшебные татуировки",
+    "added": [
+      "Глубоководье",
+      "Врата Балдура",
+      "Невервинтер"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Врата Балдура",
+      "Невервинтер"
+    ]
+  },
+  {
+    "id": 65,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-mercenaries-of-murghom.mdx",
+    "title": "Наёмники Мургома",
+    "added": [
+      "Мургом",
+      "Тэй",
+      "Красные Волшебники Тэя",
+      "Сзасс Тэм"
+    ],
+    "approved": [
+      "Мургом",
+      "Тэй",
+      "Красные Волшебники Тэя",
+      "Сзасс Тэм"
+    ]
+  },
+  {
+    "id": 66,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-mindworm-slithering.mdx",
+    "title": "Червь разума ползёт",
+    "added": [
+      "Сзасс Тэм",
+      "Тэй",
+      "Красные Волшебники Тэя"
+    ],
+    "approved": [
+      "Сзасс Тэм",
+      "Тэй",
+      "Красные Волшебники Тэя"
+    ]
+  },
+  {
+    "id": 67,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-my-knights-are-filled-with-mystic-fire.mdx",
+    "title": "Мои рыцари исполнены Мистического Огня",
+    "added": [
+      "Мистра",
+      "Тэй",
+      "Сзасс Тэм"
+    ],
+    "approved": [
+      "Мистра",
+      "Тэй",
+      "Сзасс Тэм"
+    ]
+  },
+  {
+    "id": 68,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-night-polka-came-to-waterdeep.mdx",
+    "title": "Ночь, когда полька пришла в Вотердип",
+    "added": [
+      "Глубоководье",
+      "Зентарим",
+      "Красные Волшебники Тэя"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Зентарим",
+      "Красные Волшебники Тэя"
+    ]
+  },
+  {
+    "id": 69,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-noble-houses-of-tlindhet.mdx",
+    "title": "Знатные дома Т’Линдхета",
+    "added": [
+      "Подземье",
+      "Ллос"
+    ],
+    "approved": [
+      "Подземье",
+      "Ллос"
+    ]
+  },
+  {
+    "id": 70,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-nurlreth.mdx",
+    "title": "Знакомьтесь, нурлрет. Хотя лучше не надо",
+    "added": [
+      "Подземье"
+    ],
+    "approved": [
+      "Подземье"
+    ]
+  },
+  {
+    "id": 71,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-ostra-bellardragon.mdx",
+    "title": "Острамагарус «Остра» Беллардрагон. Жизнь в Королевствах",
+    "added": [
+      "Сембия",
+      "Кормир",
+      "Зентарим",
+      "Культ Дракона"
+    ],
+    "approved": [
+      "Сембия",
+      "Кормир",
+      "Зентарим",
+      "Культ Дракона"
+    ]
+  },
+  {
+    "id": 72,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-procampur-updated.mdx",
+    "title": "Дополнение: Прокампур в 1494 году ЛД",
+    "added": [
+      "Прокампур",
+      "Амберли",
+      "Вокин",
+      "Гонд",
+      "Денейр",
+      "Латандер",
+      "Огма",
+      "Тимора",
+      "Торм",
+      "Хельм"
+    ],
+    "approved": [
+      "Прокампур",
+      "Амберли",
+      "Вокин",
+      "Гонд",
+      "Денейр",
+      "Латандер",
+      "Огма",
+      "Тимора",
+      "Торм",
+      "Хельм"
+    ]
+  },
+  {
+    "id": 73,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-roleplaying-elminster.mdx",
+    "title": "Как отыгрывать Эльминстера",
+    "added": [
+      "Эльминстер",
+      "Мистра"
+    ],
+    "approved": [
+      "Эльминстер",
+      "Мистра"
+    ]
+  },
+  {
+    "id": 74,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-sembian-house-buying-cormyr.mdx",
+    "title": "Как сембийский дворянский дом скупает Кормир в 1499 ЛД",
+    "added": [
+      "Кормир",
+      "Сембия"
+    ],
+    "approved": [
+      "Кормир",
+      "Сембия"
+    ]
+  },
+  {
+    "id": 75,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-spelljamming-in-waterdeep.mdx",
+    "title": "Без остановок до Астрального моря: спеллджамминг в Вотердипе",
+    "added": [
+      "Глубоководье",
+      "Сильванус"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Сильванус"
+    ]
+  },
+  {
+    "id": 76,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-swords-of-valor.mdx",
+    "title": "Мечи доблести",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 77,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-szass-tams-latest-plot.mdx",
+    "title": "Новый злодейский замысел Сзасса Тэма",
+    "added": [
+      "Сзасс Тэм",
+      "Тэй",
+      "Мулхоранд",
+      "Унтер",
+      "Красные Волшебники Тэя"
+    ],
+    "approved": [
+      "Сзасс Тэм",
+      "Тэй",
+      "Мулхоранд",
+      "Унтер",
+      "Красные Волшебники Тэя"
+    ]
+  },
+  {
+    "id": 78,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-thay-revisited-1.mdx",
+    "title": "Тэй: новый взгляд. Часть 1",
+    "added": [
+      "Тэй",
+      "Красные Волшебники Тэя",
+      "Бейн",
+      "Сзасс Тэм",
+      "Азун IV"
+    ],
+    "approved": [
+      "Тэй",
+      "Красные Волшебники Тэя",
+      "Бейн",
+      "Сзасс Тэм",
+      "Азун IV"
+    ]
+  },
+  {
+    "id": 79,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-thay-revisited-2.mdx",
+    "title": "Тэй: новый взгляд. Часть 2",
+    "added": [
+      "Тэй",
+      "Красные Волшебники Тэя"
+    ],
+    "approved": [
+      "Тэй",
+      "Красные Волшебники Тэя"
+    ]
+  },
+  {
+    "id": 80,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-the-feuding-clan.mdx",
+    "title": "Враждующий клан",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 81,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-the-floating-mask-of-doom.mdx",
+    "title": "Парящая Маска Рока",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 82,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-the-guiding-hand-of-siamorphe.mdx",
+    "title": "Достойно прожитые жизни: направляющая рука Сиаморф",
+    "added": [
+      "Сиаморф",
+      "Тетир"
+    ],
+    "approved": [
+      "Сиаморф",
+      "Тетир"
+    ]
+  },
+  {
+    "id": 83,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-the-ladies-three.mdx",
+    "title": "Три леди",
+    "added": [
+      "Арфисты",
+      "Мистра"
+    ],
+    "approved": [
+      "Кормир",
+      "Арфисты",
+      "Мистра"
+    ]
+  },
+  {
+    "id": 84,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-the-magister-today.mdx",
+    "title": "Магистр: первый среди волшебников Мистры",
+    "added": [
+      "Мистра",
+      "Азут"
+    ],
+    "approved": [
+      "Мистра",
+      "Азут"
+    ]
+  },
+  {
+    "id": 85,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-the-spell-on-the-door.mdx",
+    "title": "Заклинание на двери",
+    "added": [
+      "Эльминстер"
+    ],
+    "approved": [
+      "Эльминстер"
+    ]
+  },
+  {
+    "id": 86,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-thirteen-dukes-at-once.mdx",
+    "title": "Тринадцать герцогов разом… или Краткий золотой век Рантара",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 87,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-toenail-of-vecna.mdx",
+    "title": "Лорд Блейдсеммер и ноготь Векны",
+    "added": [
+      "Глубоководье"
+    ],
+    "approved": [
+      "Глубоководье"
+    ]
+  },
+  {
+    "id": 88,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-when-the-mask-smiles.mdx",
+    "title": "Когда маска улыбается",
+    "added": [],
+    "approved": [
+      "Глубоководье"
+    ]
+  },
+  {
+    "id": 89,
+    "path": "src/content/posts/forgotten-realms/ed-greenwood-worshipping-vhaeraun.mdx",
+    "title": "На коленях перед Владыкой Теней: служение Ваэрауну",
+    "added": [
+      "Ваэраун",
+      "Ллос"
+    ],
+    "approved": [
+      "Ваэраун",
+      "Ллос"
+    ]
+  },
+  {
+    "id": 90,
+    "path": "src/content/posts/forgotten-realms/ed-says-geography.mdx",
+    "title": "Эд говорит - География",
+    "added": [
+      "Кормир",
+      "Анаурох",
+      "Вааса",
+      "Дамара",
+      "Долины",
+      "Нарфелл",
+      "Побережье Мечей",
+      "Север",
+      "Теск",
+      "Халруаа",
+      "Шаар"
+    ],
+    "approved": [
+      "Кормир",
+      "Анаурох",
+      "Вааса",
+      "Дамара",
+      "Долины",
+      "Нарфелл",
+      "Побережье Мечей",
+      "Север",
+      "Теск",
+      "Халруаа",
+      "Шаар"
+    ]
+  },
+  {
+    "id": 91,
+    "path": "src/content/posts/forgotten-realms/ed-says-magic.mdx",
+    "title": "Эд говорит - А, волшебство.",
+    "added": [
+      "Мистра",
+      "Азут"
+    ],
+    "approved": [
+      "Мистра",
+      "Азут"
+    ]
+  },
+  {
+    "id": 92,
+    "path": "src/content/posts/forgotten-realms/ed-says-secret-societies.mdx",
+    "title": "Эд говорит- Тайные общества",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 93,
+    "path": "src/content/posts/forgotten-realms/eldret-veluutra.mdx",
+    "title": "Элдрет Велуутра",
+    "added": [
+      "Арфисты"
+    ],
+    "approved": [
+      "Арфисты"
+    ]
+  },
+  {
+    "id": 94,
+    "path": "src/content/posts/forgotten-realms/elven-noble-houses-and-title.mdx",
+    "title": "Эльфийские дворянские дома и титулы",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 95,
+    "path": "src/content/posts/forgotten-realms/eyes-of-the-dragon-part-1.mdx",
+    "title": "Глаза дракона, часть 1",
+    "added": [
+      "Культ Дракона",
+      "Побережье Мечей",
+      "Берегост",
+      "Врата Балдура",
+      "Невервинтер"
+    ],
+    "approved": [
+      "Культ Дракона",
+      "Побережье Мечей",
+      "Берегост",
+      "Врата Балдура",
+      "Невервинтер"
+    ]
+  },
+  {
+    "id": 96,
+    "path": "src/content/posts/forgotten-realms/eyes-of-the-dragon-part-2.mdx",
+    "title": "Глаза дракона, часть 2",
+    "added": [
+      "Культ Дракона",
+      "Побережье Мечей"
+    ],
+    "approved": [
+      "Культ Дракона",
+      "Побережье Мечей"
+    ]
+  },
+  {
+    "id": 97,
+    "path": "src/content/posts/forgotten-realms/eyes-of-the-dragon-part-3.mdx",
+    "title": "Глаза дракона, часть 3",
+    "added": [
+      "Культ Дракона",
+      "Побережье Мечей",
+      "Глубоководье",
+      "Сильверимун"
+    ],
+    "approved": [
+      "Культ Дракона",
+      "Побережье Мечей",
+      "Глубоководье",
+      "Сильверимун"
+    ]
+  },
+  {
+    "id": 98,
+    "path": "src/content/posts/forgotten-realms/factions-phlan.mdx",
+    "title": "Организации во Флане",
+    "added": [
+      "Флан",
+      "Келемвор",
+      "Латандер"
+    ],
+    "approved": [
+      "Флан",
+      "Келемвор",
+      "Латандер"
+    ]
+  },
+  {
+    "id": 99,
+    "path": "src/content/posts/forgotten-realms/flan-i-ego-okrestnosti.mdx",
+    "title": "Флан и его окрестности",
+    "added": [
+      "Флан",
+      "Амберли",
+      "Бейн",
+      "Келемвор",
+      "Ориль"
+    ],
+    "approved": [
+      "Флан",
+      "Амберли",
+      "Бейн",
+      "Келемвор",
+      "Ориль"
+    ]
+  },
+  {
+    "id": 100,
+    "path": "src/content/posts/forgotten-realms/flan.mdx",
+    "title": "Флан",
+    "added": [
+      "Флан",
+      "Зентарим"
+    ],
+    "approved": [
+      "Флан",
+      "Лунное море",
+      "Зентарим"
+    ]
+  },
+  {
+    "id": 101,
+    "path": "src/content/posts/forgotten-realms/frakcii.mdx",
+    "title": "Фракции",
+    "added": [
+      "Альянс Лордов",
+      "Арфисты",
+      "Зентарим",
+      "Изумрудный Анклав",
+      "Орден Латной Перчатки"
+    ],
+    "approved": [
+      "Альянс Лордов",
+      "Арфисты",
+      "Зентарим",
+      "Изумрудный Анклав",
+      "Орден Латной Перчатки"
+    ]
+  },
+  {
+    "id": 102,
+    "path": "src/content/posts/forgotten-realms/halruaa-today.mdx",
+    "title": "Халруаа сегодня",
+    "added": [
+      "Халруаа"
+    ],
+    "approved": [
+      "Халруаа"
+    ]
+  },
+  {
+    "id": 103,
+    "path": "src/content/posts/forgotten-realms/hillsfar.mdx",
+    "title": "Хиллсфар",
+    "added": [
+      "Хиллсфар",
+      "Лунное море",
+      "Тэй",
+      "Красные Волшебники Тэя",
+      "Темпус",
+      "Бейн",
+      "Зентарим"
+    ],
+    "approved": [
+      "Хиллсфар",
+      "Лунное море",
+      "Тэй",
+      "Красные Волшебники Тэя",
+      "Темпус",
+      "Бейн",
+      "Зентарим"
+    ]
+  },
+  {
+    "id": 104,
+    "path": "src/content/posts/forgotten-realms/ilmater.mdx",
+    "title": "Ильматер",
+    "added": [
+      "Илматер",
+      "Тир",
+      "Торм"
+    ],
+    "approved": [
+      "Илматер",
+      "Тир",
+      "Торм"
+    ]
+  },
+  {
+    "id": 105,
+    "path": "src/content/posts/forgotten-realms/klyuchevye-npcs-v-flane.mdx",
+    "title": "Ключевые NPCs в Флане",
+    "added": [
+      "Флан"
+    ],
+    "approved": [
+      "Флан"
+    ]
+  },
+  {
+    "id": 106,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-10.mdx",
+    "title": "Утраченные предания Забытых Королевств № 10",
+    "added": [
+      "Агларонд",
+      "Тэй",
+      "Красные Волшебники Тэя",
+      "Сзасс Тэм",
+      "Кормир"
+    ],
+    "approved": [
+      "Агларонд",
+      "Тэй",
+      "Красные Волшебники Тэя",
+      "Сзасс Тэм",
+      "Кормир"
+    ]
+  },
+  {
+    "id": 107,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-11.mdx",
+    "title": "Утраченные предания Забытых Королевств № 11",
+    "added": [
+      "Кормир",
+      "Красные Волшебники Тэя",
+      "Сзасс Тэм"
+    ],
+    "approved": [
+      "Кормир",
+      "Красные Волшебники Тэя",
+      "Сзасс Тэм"
+    ]
+  },
+  {
+    "id": 108,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-12.mdx",
+    "title": "Утраченные предания Забытых Королевств № 12",
+    "added": [
+      "Кормир",
+      "Чессента",
+      "Глубоководье",
+      "Мистра",
+      "Шар"
+    ],
+    "approved": [
+      "Кормир",
+      "Чессента",
+      "Глубоководье",
+      "Мистра",
+      "Шар"
+    ]
+  },
+  {
+    "id": 109,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-13.mdx",
+    "title": "Утраченные предания Забытых Королевств № 13",
+    "added": [
+      "Кормир",
+      "Сембия",
+      "Долины",
+      "Мистра"
+    ],
+    "approved": [
+      "Кормир",
+      "Сембия",
+      "Долины",
+      "Мистра"
+    ]
+  },
+  {
+    "id": 110,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-14.mdx",
+    "title": "Утраченные предания Забытых Королевств № 14",
+    "added": [
+      "Глубоководье",
+      "Илматер",
+      "Мистра"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Илматер",
+      "Мистра"
+    ]
+  },
+  {
+    "id": 111,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-15.mdx",
+    "title": "Утраченные предания Забытых Королевств № 15",
+    "added": [
+      "Долины",
+      "Сембия",
+      "Подземье",
+      "Мулмастер",
+      "Сильверимун",
+      "Зентарим"
+    ],
+    "approved": [
+      "Долины",
+      "Сембия",
+      "Подземье",
+      "Мулмастер",
+      "Сильверимун",
+      "Зентарим"
+    ]
+  },
+  {
+    "id": 112,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-16.mdx",
+    "title": "Утраченные предания Забытых Королевств № 16",
+    "added": [
+      "Глубоководье",
+      "Лунное море"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Лунное море"
+    ]
+  },
+  {
+    "id": 113,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-17.mdx",
+    "title": "Утраченные предания Забытых Королевств № 17",
+    "added": [
+      "Глубоководье"
+    ],
+    "approved": [
+      "Глубоководье"
+    ]
+  },
+  {
+    "id": 114,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-18.mdx",
+    "title": "Утраченные предания Забытых Королевств № 18",
+    "added": [
+      "Глубоководье",
+      "Тэй",
+      "Красные Волшебники Тэя",
+      "Воло",
+      "Эйлистри",
+      "Мистра"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Тэй",
+      "Красные Волшебники Тэя",
+      "Воло",
+      "Эйлистри",
+      "Мистра"
+    ]
+  },
+  {
+    "id": 115,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-20.mdx",
+    "title": "Утраченные предания Забытых Королевств № 20",
+    "added": [
+      "Мэншун",
+      "Лаэраль Сильверхэнд",
+      "Кельбен Арунсун",
+      "Глубоководье"
+    ],
+    "approved": [
+      "Мэншун",
+      "Лаэраль Сильверхэнд",
+      "Кельбен Арунсун",
+      "Глубоководье"
+    ]
+  },
+  {
+    "id": 116,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-21.mdx",
+    "title": "Утраченные предания Забытых Королевств № 21",
+    "added": [
+      "Глубоководье"
+    ],
+    "approved": [
+      "Глубоководье"
+    ]
+  },
+  {
+    "id": 117,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-22.mdx",
+    "title": "Утраченные предания Забытых Королевств № 22",
+    "added": [
+      "Глубоководье"
+    ],
+    "approved": [
+      "Глубоководье"
+    ]
+  },
+  {
+    "id": 118,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-23.mdx",
+    "title": "Утраченные предания Забытых Королевств № 23",
+    "added": [
+      "Кормир",
+      "Глубоководье",
+      "Побережье Мечей",
+      "Тэй",
+      "Асмодей",
+      "Кэндлкип",
+      "Эльминстер",
+      "Сембия"
+    ],
+    "approved": [
+      "Кормир",
+      "Глубоководье",
+      "Побережье Мечей",
+      "Тэй",
+      "Асмодей",
+      "Кэндлкип",
+      "Эльминстер",
+      "Сембия"
+    ]
+  },
+  {
+    "id": 119,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-24.mdx",
+    "title": "Утраченные предания Забытых Королевств № 24",
+    "added": [
+      "Глубоководье",
+      "Невервинтер",
+      "Дагульт Неверэмбер",
+      "Дёрнан",
+      "Гонд",
+      "Лаэраль Сильверхэнд"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Невервинтер",
+      "Дагульт Неверэмбер",
+      "Дёрнан",
+      "Гонд",
+      "Лаэраль Сильверхэнд"
+    ]
+  },
+  {
+    "id": 120,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-25.mdx",
+    "title": "Утраченные предания Забытых Королевств № 25",
+    "added": [
+      "Глубоководье",
+      "Амн",
+      "Побережье Мечей"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Амн",
+      "Побережье Мечей"
+    ]
+  },
+  {
+    "id": 121,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-26.mdx",
+    "title": "Утраченные предания Забытых Королевств № 26",
+    "added": [
+      "Сильверимун"
+    ],
+    "approved": [
+      "Сильверимун"
+    ]
+  },
+  {
+    "id": 122,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-27.mdx",
+    "title": "Утраченные предания Забытых Королевств № 27",
+    "added": [
+      "Кормир",
+      "Мистра",
+      "Азут",
+      "Эльминстер"
+    ],
+    "approved": [
+      "Кормир",
+      "Мистра",
+      "Азут",
+      "Эльминстер"
+    ]
+  },
+  {
+    "id": 123,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-28.mdx",
+    "title": "Утраченные предания Забытых Королевств № 28",
+    "added": [
+      "Глубоководье",
+      "Амн"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Амн"
+    ]
+  },
+  {
+    "id": 124,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-29.mdx",
+    "title": "Утраченные предания Забытых Королевств № 29",
+    "added": [
+      "Кормир",
+      "Сильверимун",
+      "Серебряные Пределы",
+      "Алустриэль Сильверхэнд"
+    ],
+    "approved": [
+      "Кормир",
+      "Сильверимун",
+      "Серебряные Пределы",
+      "Алустриэль Сильверхэнд"
+    ]
+  },
+  {
+    "id": 125,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-30.mdx",
+    "title": "Утраченные предания Забытых Королевств № 30",
+    "added": [
+      "Эльминстер",
+      "Мистра",
+      "Чонти"
+    ],
+    "approved": [
+      "Эльминстер",
+      "Мистра",
+      "Чонти"
+    ]
+  },
+  {
+    "id": 126,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-31.mdx",
+    "title": "Утраченные предания Забытых Королевств № 31",
+    "added": [
+      "Побережье Мечей",
+      "Север"
+    ],
+    "approved": [
+      "Побережье Мечей",
+      "Север"
+    ]
+  },
+  {
+    "id": 127,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-32.mdx",
+    "title": "Утраченные предания Забытых Королевств № 32",
+    "added": [
+      "Кормир"
+    ],
+    "approved": [
+      "Кормир"
+    ]
+  },
+  {
+    "id": 128,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-33.mdx",
+    "title": "Утраченные предания Забытых Королевств № 33",
+    "added": [
+      "Бейн"
+    ],
+    "approved": [
+      "Бейн"
+    ]
+  },
+  {
+    "id": 129,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-34.mdx",
+    "title": "Утраченные предания Забытых Королевств № 34",
+    "added": [
+      "Лунное море",
+      "Подземье"
+    ],
+    "approved": [
+      "Лунное море",
+      "Подземье"
+    ]
+  },
+  {
+    "id": 130,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-35.mdx",
+    "title": "Утраченные предания Забытых Королевств № 35",
+    "added": [
+      "Арфисты",
+      "Кормир"
+    ],
+    "approved": [
+      "Арфисты",
+      "Кормир"
+    ]
+  },
+  {
+    "id": 131,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-36.mdx",
+    "title": "Утраченные предания Забытых Королевств № 36",
+    "added": [
+      "Огма",
+      "Кэндлкип",
+      "Мистра"
+    ],
+    "approved": [
+      "Огма",
+      "Кэндлкип",
+      "Мистра"
+    ]
+  },
+  {
+    "id": 132,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-37.mdx",
+    "title": "Утраченные предания Забытых Королевств № 37",
+    "added": [
+      "Эльминстер",
+      "Зентарим",
+      "Бейн",
+      "Мэншун",
+      "Кормир",
+      "Глубоководье"
+    ],
+    "approved": [
+      "Эльминстер",
+      "Зентарим",
+      "Бейн",
+      "Мэншун",
+      "Кормир",
+      "Глубоководье"
+    ]
+  },
+  {
+    "id": 133,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-38.mdx",
+    "title": "Утраченные предания Забытых Королевств № 38",
+    "added": [
+      "Подземье",
+      "Саврас",
+      "Мистра"
+    ],
+    "approved": [
+      "Подземье",
+      "Саврас",
+      "Мистра"
+    ]
+  },
+  {
+    "id": 134,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-39.mdx",
+    "title": "Утраченные предания Забытых Королевств № 39",
+    "added": [
+      "Побережье Мечей",
+      "Кормир",
+      "Тетир"
+    ],
+    "approved": [
+      "Побережье Мечей",
+      "Кормир",
+      "Тетир"
+    ]
+  },
+  {
+    "id": 135,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-40.mdx",
+    "title": "Утраченные предания Забытых Королевств № 40",
+    "added": [
+      "Нарфелл"
+    ],
+    "approved": [
+      "Нарфелл"
+    ]
+  },
+  {
+    "id": 136,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-41.mdx",
+    "title": "Утраченные предания Забытых Королевств № 41",
+    "added": [
+      "Север",
+      "Зентарим"
+    ],
+    "approved": [
+      "Север",
+      "Зентарим"
+    ]
+  },
+  {
+    "id": 137,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-42.mdx",
+    "title": "Утраченные предания Забытых Королевств № 42",
+    "added": [
+      "Сильверимун",
+      "Сембия",
+      "Азут",
+      "Мистра",
+      "Сзасс Тэм"
+    ],
+    "approved": [
+      "Сильверимун",
+      "Сембия",
+      "Азут",
+      "Мистра",
+      "Сзасс Тэм"
+    ]
+  },
+  {
+    "id": 138,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-43.mdx",
+    "title": "Утраченные предания Забытых Королевств № 43",
+    "added": [
+      "Глубоководье"
+    ],
+    "approved": [
+      "Глубоководье"
+    ]
+  },
+  {
+    "id": 139,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-44.mdx",
+    "title": "Утраченные предания Забытых Королевств № 44",
+    "added": [
+      "Сильверимун",
+      "Побережье Мечей",
+      "Север",
+      "Серебряные Пределы"
+    ],
+    "approved": [
+      "Сильверимун",
+      "Побережье Мечей",
+      "Север",
+      "Серебряные Пределы"
+    ]
+  },
+  {
+    "id": 140,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-45.mdx",
+    "title": "Утраченные предания Забытых Королевств № 45",
+    "added": [
+      "Побережье Мечей",
+      "Север",
+      "Серебряные Пределы",
+      "Сильверимун"
+    ],
+    "approved": [
+      "Побережье Мечей",
+      "Север",
+      "Серебряные Пределы",
+      "Сильверимун"
+    ]
+  },
+  {
+    "id": 141,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-46.mdx",
+    "title": "Утраченные предания Забытых Королевств № 46",
+    "added": [
+      "Саврас",
+      "Суни",
+      "Селунэ",
+      "Шар",
+      "Азут"
+    ],
+    "approved": [
+      "Саврас",
+      "Суни",
+      "Селунэ",
+      "Шар",
+      "Азут"
+    ]
+  },
+  {
+    "id": 142,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-47.mdx",
+    "title": "Утраченные предания Забытых Королевств № 47",
+    "added": [
+      "Гонд",
+      "Чонти",
+      "Селунэ",
+      "Шар"
+    ],
+    "approved": [
+      "Кормир",
+      "Гонд",
+      "Чонти",
+      "Селунэ",
+      "Шар"
+    ]
+  },
+  {
+    "id": 143,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-48.mdx",
+    "title": "Утраченные предания Забытых Королевств № 48: Ташлута сегодня",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 144,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-49.mdx",
+    "title": "Утраченные предания Забытых Королевств № 49",
+    "added": [
+      "Фзул Чембрил",
+      "Келемвор"
+    ],
+    "approved": [
+      "Фзул Чембрил",
+      "Келемвор"
+    ]
+  },
+  {
+    "id": 145,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-5.mdx",
+    "title": "Утраченные предания Забытых Королевств № 5",
+    "added": [
+      "Кормир",
+      "Глубоководье",
+      "Кэндлкип",
+      "Азун IV"
+    ],
+    "approved": [
+      "Кормир",
+      "Глубоководье",
+      "Кэндлкип",
+      "Азун IV"
+    ]
+  },
+  {
+    "id": 146,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-50.mdx",
+    "title": "Утраченные предания Забытых Королевств № 50",
+    "added": [
+      "Сильверимун",
+      "Азун IV"
+    ],
+    "approved": [
+      "Кормир",
+      "Сильверимун",
+      "Азун IV"
+    ]
+  },
+  {
+    "id": 147,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-51.mdx",
+    "title": "Утраченные предания Забытых Королевств № 51",
+    "added": [
+      "Тэй",
+      "Мургом"
+    ],
+    "approved": [
+      "Тэй",
+      "Мургом"
+    ]
+  },
+  {
+    "id": 148,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-52.mdx",
+    "title": "Утраченные предания Забытых Королевств № 52",
+    "added": [
+      "Глубоководье",
+      "Побережье Мечей"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Побережье Мечей"
+    ]
+  },
+  {
+    "id": 149,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-53.mdx",
+    "title": "Утраченные предания Забытых Королевств № 53",
+    "added": [
+      "Асмодей",
+      "Воло"
+    ],
+    "approved": [
+      "Кормир",
+      "Асмодей",
+      "Воло"
+    ]
+  },
+  {
+    "id": 150,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-54.mdx",
+    "title": "Утраченные предания Забытых Королевств № 54",
+    "added": [
+      "Чульт",
+      "Сзасс Тэм",
+      "Тэй"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Чульт",
+      "Сзасс Тэм",
+      "Тэй"
+    ]
+  },
+  {
+    "id": 151,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-55.mdx",
+    "title": "Утраченные предания Забытых Королевств № 55",
+    "added": [
+      "Север"
+    ],
+    "approved": [
+      "Север"
+    ]
+  },
+  {
+    "id": 152,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-56.mdx",
+    "title": "Утраченные предания Забытых Королевств № 56",
+    "added": [
+      "Халруаа",
+      "Амн",
+      "Глубоководье",
+      "Ллос"
+    ],
+    "approved": [
+      "Халруаа",
+      "Амн",
+      "Глубоководье",
+      "Ллос"
+    ]
+  },
+  {
+    "id": 153,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-57.mdx",
+    "title": "Утраченные предания Забытых Королевств № 57",
+    "added": [
+      "Кормир",
+      "Подземье"
+    ],
+    "approved": [
+      "Кормир",
+      "Подземье"
+    ]
+  },
+  {
+    "id": 154,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-58.mdx",
+    "title": "Утраченные предания Забытых Королевств № 58",
+    "added": [
+      "Ваэраун",
+      "Эйлистри",
+      "Флан",
+      "Мистра"
+    ],
+    "approved": [
+      "Ваэраун",
+      "Эйлистри",
+      "Флан",
+      "Мистра"
+    ]
+  },
+  {
+    "id": 155,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-59.mdx",
+    "title": "Утраченные предания Забытых Королевств № 59",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 156,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-60.mdx",
+    "title": "Утраченные предания Забытых Королевств № 60",
+    "added": [
+      "Азут",
+      "Мистра",
+      "Эльминстер",
+      "Ориль"
+    ],
+    "approved": [
+      "Азут",
+      "Мистра",
+      "Эльминстер",
+      "Ориль"
+    ]
+  },
+  {
+    "id": 157,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-61.mdx",
+    "title": "Утраченные предания Забытых Королевств № 61",
+    "added": [
+      "Анаурох"
+    ],
+    "approved": [
+      "Анаурох"
+    ]
+  },
+  {
+    "id": 158,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-62.mdx",
+    "title": "Утраченные предания Забытых Королевств № 62",
+    "added": [
+      "Подземье",
+      "Халруаа",
+      "Мистра"
+    ],
+    "approved": [
+      "Подземье",
+      "Халруаа",
+      "Мистра"
+    ]
+  },
+  {
+    "id": 159,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-63.mdx",
+    "title": "Утраченные предания Забытых Королевств № 63",
+    "added": [
+      "Тир",
+      "Кэндлкип"
+    ],
+    "approved": [
+      "Тир",
+      "Кэндлкип"
+    ]
+  },
+  {
+    "id": 160,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-64.mdx",
+    "title": "Утраченные предания Забытых Королевств № 64",
+    "added": [
+      "Кэндлкип"
+    ],
+    "approved": [
+      "Кэндлкип",
+      "Кормир"
+    ]
+  },
+  {
+    "id": 161,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-65.mdx",
+    "title": "Утраченные предания Забытых Королевств № 65: Зубы дракона",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 162,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-66.mdx",
+    "title": "Утраченные предания Забытых Королевств № 66",
+    "added": [
+      "Мэншун"
+    ],
+    "approved": [
+      "Кормир",
+      "Мэншун"
+    ]
+  },
+  {
+    "id": 163,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-67.mdx",
+    "title": "Утраченные предания Забытых Королевств № 67",
+    "added": [
+      "Эльминстер"
+    ],
+    "approved": [
+      "Эльминстер"
+    ]
+  },
+  {
+    "id": 164,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-68.mdx",
+    "title": "Утраченные предания Забытых Королевств № 68",
+    "added": [
+      "Бейн",
+      "Мистра",
+      "Морадин",
+      "Шар"
+    ],
+    "approved": [
+      "Кормир",
+      "Бейн",
+      "Мистра",
+      "Морадин",
+      "Шар"
+    ]
+  },
+  {
+    "id": 165,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-77.mdx",
+    "title": "Утраченные предания Забытых Королевств № 77",
+    "added": [
+      "Ваэраун",
+      "Подземье"
+    ],
+    "approved": [
+      "Ваэраун",
+      "Подземье"
+    ]
+  },
+  {
+    "id": 166,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-78.mdx",
+    "title": "Утраченные предания Забытых Королевств № 78",
+    "added": [],
+    "approved": [
+      "Глубоководье"
+    ]
+  },
+  {
+    "id": 167,
+    "path": "src/content/posts/forgotten-realms/lost-lore-of-the-realms-9.mdx",
+    "title": "Утраченные предания Забытых Королевств № 9",
+    "added": [
+      "Глубоководье",
+      "Побережье Мечей",
+      "Пиргейрон Паладинсон"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Побережье Мечей",
+      "Пиргейрон Паладинсон"
+    ]
+  },
+  {
+    "id": 168,
+    "path": "src/content/posts/forgotten-realms/lunnoe-more-moonsea.mdx",
+    "title": "ЛУННОЕ МОРЕ - MOONSEA",
+    "added": [
+      "Флан"
+    ],
+    "approved": [
+      "Лунное море",
+      "Флан"
+    ]
+  },
+  {
+    "id": 169,
+    "path": "src/content/posts/forgotten-realms/masks-of-the-dragons.mdx",
+    "title": "Маски драконов",
+    "added": [
+      "Глубоководье",
+      "Тэй",
+      "Красные Волшебники Тэя"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Тэй",
+      "Красные Волшебники Тэя"
+    ]
+  },
+  {
+    "id": 170,
+    "path": "src/content/posts/forgotten-realms/medicina-na-faerune.mdx",
+    "title": "Медицина на Фаэруне",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 171,
+    "path": "src/content/posts/forgotten-realms/meet-the-nurlreth.mdx",
+    "title": "Встречайте нурлрета",
+    "added": [
+      "Подземье"
+    ],
+    "approved": [
+      "Подземье"
+    ]
+  },
+  {
+    "id": 172,
+    "path": "src/content/posts/forgotten-realms/moonstars.mdx",
+    "title": "Лунные Звезды - тайная организация в Забытых Королевствах",
+    "added": [
+      "Арфисты",
+      "Кельбен Арунсун",
+      "Лаэраль Сильверхэнд",
+      "Фзул Чембрил"
+    ],
+    "approved": [
+      "Арфисты",
+      "Кельбен Арунсун",
+      "Лаэраль Сильверхэнд",
+      "Фзул Чембрил"
+    ]
+  },
+  {
+    "id": 173,
+    "path": "src/content/posts/forgotten-realms/mulmaster.mdx",
+    "title": "Мулмастер. Положение дел.",
+    "added": [
+      "Мулмастер",
+      "Бейн",
+      "Красные Волшебники Тэя",
+      "Зентарим",
+      "Арфисты",
+      "Маск",
+      "Амберли",
+      "Вокин",
+      "Латандер",
+      "Ловиатар",
+      "Малар",
+      "Талос",
+      "Темпус",
+      "Тимора"
+    ],
+    "approved": [
+      "Мулмастер",
+      "Лунное море",
+      "Бейн",
+      "Красные Волшебники Тэя",
+      "Зентарим",
+      "Арфисты",
+      "Маск",
+      "Амберли",
+      "Вокин",
+      "Латандер",
+      "Ловиатар",
+      "Малар",
+      "Талос",
+      "Темпус",
+      "Тимора"
+    ]
+  },
+  {
+    "id": 174,
+    "path": "src/content/posts/forgotten-realms/night-in-haunted-castle.mdx",
+    "title": "Ночь в замке с привидениями",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 175,
+    "path": "src/content/posts/forgotten-realms/nine-gods-of-elder-kalimshan.mdx",
+    "title": "Девять богов древнего Калимшана",
+    "added": [
+      "Калимшан",
+      "Илматер"
+    ],
+    "approved": [
+      "Калимшан",
+      "Илматер"
+    ]
+  },
+  {
+    "id": 176,
+    "path": "src/content/posts/forgotten-realms/null-dragon-god-of-death.mdx",
+    "title": "Драконий бог смерти",
+    "added": [
+      "Нулл"
+    ],
+    "approved": [
+      "Нулл"
+    ]
+  },
+  {
+    "id": 177,
+    "path": "src/content/posts/forgotten-realms/only-the-insane-believed-there-were-no-gods-ed-greenwood-speaks-of-religion-and-belief-in-forgotten-realms.mdx",
+    "title": "Только безумцы верили, что богов нет: Эд Гринвуд рассказывает о религии и вере в Forgotten Realms",
+    "added": [
+      "Мистра"
+    ],
+    "approved": [
+      "Мистра"
+    ]
+  },
+  {
+    "id": 178,
+    "path": "src/content/posts/forgotten-realms/order-of-gilded-eye.mdx",
+    "title": "Орден Золоченого Ока - Order of Gilded Eye",
+    "added": [
+      "Хельм",
+      "Орден Латной Перчатки"
+    ],
+    "approved": [
+      "Хельм",
+      "Орден Латной Перчатки"
+    ]
+  },
+  {
+    "id": 179,
+    "path": "src/content/posts/forgotten-realms/order-of-shooting-star.mdx",
+    "title": "Орден Стреляющей Звезды",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 180,
+    "path": "src/content/posts/forgotten-realms/order-of-the-gauntlet.mdx",
+    "title": "Орден Латной Перчатки",
+    "added": [
+      "Орден Латной Перчатки"
+    ],
+    "approved": [
+      "Орден Латной Перчатки"
+    ]
+  },
+  {
+    "id": 181,
+    "path": "src/content/posts/forgotten-realms/savage-frontier-by-spriggan-den.mdx",
+    "title": "Карты Дикого Фронтира (Забытые Королевства)",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 182,
+    "path": "src/content/posts/forgotten-realms/the-sardolphyn-gambit.mdx",
+    "title": "Гамбит Сардолфинов",
+    "added": [
+      "Культ Дракона"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Культ Дракона"
+    ]
+  },
+  {
+    "id": 183,
+    "path": "src/content/posts/forgotten-realms/tituly-i-formy-obrasheniya.mdx",
+    "title": "Титулы и формы обращения",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 184,
+    "path": "src/content/posts/forgotten-realms/voprosy-i-otvety-eda-grinvuda-noyabr-2018-22.mdx",
+    "title": "Вопросы и ответы Эда Гринвуда. Ноябрь 2018. 2/2.",
+    "added": [
+      "Глубоководье",
+      "Дагульт Неверэмбер",
+      "Лаэраль Сильверхэнд",
+      "Пиргейрон Паладинсон",
+      "Халастер Блэкклок"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Дагульт Неверэмбер",
+      "Лаэраль Сильверхэнд",
+      "Пиргейрон Паладинсон",
+      "Халастер Блэкклок"
+    ]
+  },
+  {
+    "id": 185,
+    "path": "src/content/posts/forgotten-realms/watchful-order-1499.mdx",
+    "title": "Волшебники всегда начеку - Бдительный орден магов и защитников В 1499 году ЛД",
+    "added": [
+      "Лаэраль Сильверхэнд",
+      "Эльминстер",
+      "Зентарим",
+      "Красные Волшебники Тэя",
+      "Культ Дракона"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Лаэраль Сильверхэнд",
+      "Эльминстер",
+      "Зентарим",
+      "Красные Волшебники Тэя",
+      "Культ Дракона"
+    ]
+  },
+  {
+    "id": 186,
+    "path": "src/content/posts/forgotten-realms/worshipping-vhaeraun.mdx",
+    "title": "Преклоняя колени перед Владыкой Теней",
+    "added": [
+      "Ваэраун",
+      "Ллос"
+    ],
+    "approved": [
+      "Ваэраун",
+      "Ллос"
+    ]
+  },
+  {
+    "id": 187,
+    "path": "src/content/posts/forgotten-realms/zhentarim.mdx",
+    "title": "Зентарим",
+    "added": [
+      "Зентарим",
+      "Бейн",
+      "Цирик",
+      "Мэншун",
+      "Кельбен Арунсун",
+      "Лунное море",
+      "Побережье Мечей",
+      "Север",
+      "Теск",
+      "Долины",
+      "Арфисты",
+      "Альянс Лордов"
+    ],
+    "approved": [
+      "Зентарим",
+      "Бейн",
+      "Цирик",
+      "Мэншун",
+      "Кельбен Арунсун",
+      "Лунное море",
+      "Побережье Мечей",
+      "Север",
+      "Теск",
+      "Долины",
+      "Арфисты",
+      "Альянс Лордов"
+    ]
+  },
+  {
+    "id": 188,
+    "path": "src/content/posts/translations/adnd-2-religions-and-faiths.mdx.mdx",
+    "title": "[AD&D 2ed] Религии и аватары",
+    "added": [
+      "Азут",
+      "Амаунатор",
+      "Ориль",
+      "Бейн",
+      "Бешаба",
+      "Баал",
+      "Чонти",
+      "Цирик",
+      "Тиамат",
+      "Мистра",
+      "Миркул",
+      "Тимора",
+      "Тир",
+      "Торм",
+      "Келемвор"
+    ],
+    "approved": [
+      "Азут",
+      "Амаунатор",
+      "Ориль",
+      "Бейн",
+      "Бешаба",
+      "Баал",
+      "Чонти",
+      "Цирик",
+      "Тиамат",
+      "Мистра",
+      "Миркул",
+      "Тимора",
+      "Тир",
+      "Торм",
+      "Келемвор"
+    ]
+  },
+  {
+    "id": 189,
+    "path": "src/content/posts/translations/alexandrian-dragon-heist-remix-part-1-villains.mdx",
+    "title": "Ремикс «Драконьего куша». Часть 1: злодеи",
+    "added": [
+      "Зентарим",
+      "Дагульт Неверэмбер",
+      "Джарлакс",
+      "Мэншун",
+      "Асмодей",
+      "Лускан",
+      "Альянс Лордов"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Зентарим",
+      "Дагульт Неверэмбер",
+      "Джарлакс",
+      "Мэншун",
+      "Асмодей",
+      "Лускан",
+      "Альянс Лордов"
+    ]
+  },
+  {
+    "id": 190,
+    "path": "src/content/posts/translations/alexandrian-forgotten-realms-arveiaturace-white-wyrm.mdx",
+    "title": "Forgotten Realms: Арвейатурас, Белый Змий",
+    "added": [
+      "Север",
+      "Кэндлкип",
+      "Лаэраль Сильверхэнд"
+    ],
+    "approved": [
+      "Север",
+      "Кэндлкип",
+      "Лаэраль Сильверхэнд"
+    ]
+  },
+  {
+    "id": 191,
+    "path": "src/content/posts/translations/alexandrian-forgotten-realms-kraken-society.mdx",
+    "title": "Forgotten Realms — Общество Кракена",
+    "added": [
+      "Побережье Мечей",
+      "Север",
+      "Арфисты",
+      "Амберли"
+    ],
+    "approved": [
+      "Побережье Мечей",
+      "Север",
+      "Арфисты",
+      "Амберли"
+    ]
+  },
+  {
+    "id": 192,
+    "path": "src/content/posts/translations/alexandrian-forgotten-realms-the-trade-way.mdx",
+    "title": "Forgotten Realms: Торговый Путь",
+    "added": [
+      "Побережье Мечей",
+      "Врата Балдура",
+      "Амн",
+      "Тетир",
+      "Лускан"
+    ],
+    "approved": [
+      "Побережье Мечей",
+      "Врата Балдура",
+      "Амн",
+      "Тетир",
+      "Лускан"
+    ]
+  },
+  {
+    "id": 193,
+    "path": "src/content/posts/translations/alexandrian-icewind-dale-characters.mdx",
+    "title": "Icewind Dale: персонажи",
+    "added": [
+      "Север",
+      "Невервинтер",
+      "Дагульт Неверэмбер",
+      "Асмодей"
+    ],
+    "approved": [
+      "Север",
+      "Невервинтер",
+      "Дагульт Неверэмбер",
+      "Асмодей"
+    ]
+  },
+  {
+    "id": 194,
+    "path": "src/content/posts/translations/alexandrian-icewind-dale-goat-ball.mdx",
+    "title": "Icewind Dale: козлобол",
+    "added": [
+      "Север"
+    ],
+    "approved": [
+      "Север"
+    ]
+  },
+  {
+    "id": 195,
+    "path": "src/content/posts/translations/alexandrian-icewind-dale-running-sandbox.mdx",
+    "title": "Icewind Dale: как вести песочницу",
+    "added": [
+      "Север"
+    ],
+    "approved": [
+      "Север"
+    ]
+  },
+  {
+    "id": 196,
+    "path": "src/content/posts/translations/alexandrian-icewind-dale-travel-times.mdx",
+    "title": "Icewind Dale: время в пути",
+    "added": [
+      "Север"
+    ],
+    "approved": [
+      "Север"
+    ]
+  },
+  {
+    "id": 197,
+    "path": "src/content/posts/translations/alexandrian-remixing-avernus-5c-a-pointcrawl-elturel.mdx",
+    "title": "Ремикс «Авернуса» — часть 5C-A: поинткраул в Эльтуреле",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 198,
+    "path": "src/content/posts/translations/alexandrian-remixing-avernus.mdx",
+    "title": "Ремикс «Авернуса»",
+    "added": [
+      "Врата Балдура"
+    ],
+    "approved": [
+      "Врата Балдура"
+    ]
+  },
+  {
+    "id": 199,
+    "path": "src/content/posts/translations/alexandrian-review-legacy-crystal-shard.mdx",
+    "title": "Рецензия: Legacy of the Crystal Shard",
+    "added": [
+      "Север",
+      "Ориль"
+    ],
+    "approved": [
+      "Север",
+      "Ориль"
+    ]
+  },
+  {
+    "id": 200,
+    "path": "src/content/posts/translations/alexandrian-review-rime-of-the-frostmaiden.mdx",
+    "title": "Обзор — Icewind Dale: Rime of the Frostmaiden",
+    "added": [
+      "Север",
+      "Ориль"
+    ],
+    "approved": [
+      "Север",
+      "Ориль"
+    ]
+  },
+  {
+    "id": 201,
+    "path": "src/content/posts/translations/alexandrian-review-storm-kings-thunder.mdx",
+    "title": "Рецензия: «Гром штормового короля»",
+    "added": [
+      "Дикое Пограничье",
+      "Побережье Мечей",
+      "Север",
+      "Арфисты"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Побережье Мечей",
+      "Север",
+      "Арфисты"
+    ]
+  },
+  {
+    "id": 202,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-addendum-three-cities-proxies.mdx",
+    "title": "Ремикс «Грома штормового короля». Дополнение: персонажи-посредники трёх городов",
+    "added": [
+      "Север",
+      "Арфисты"
+    ],
+    "approved": [
+      "Север",
+      "Арфисты"
+    ]
+  },
+  {
+    "id": 203,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-addendum-where-giants-roam.mdx",
+    "title": "Ремикс «Грома штормового короля». Дополнение: где бродят великаны",
+    "added": [
+      "Север",
+      "Дикое Пограничье"
+    ],
+    "approved": [
+      "Север",
+      "Дикое Пограничье"
+    ]
+  },
+  {
+    "id": 204,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-1-strong-beginning.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 1: сильное начало",
+    "added": [
+      "Дикое Пограничье",
+      "Север",
+      "Зентарим"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север",
+      "Зентарим"
+    ]
+  },
+  {
+    "id": 205,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-1b-nightstone-conclusions.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 1Б: итоги Ночного Камня",
+    "added": [
+      "Зентарим",
+      "Побережье Мечей"
+    ],
+    "approved": [
+      "Зентарим",
+      "Побережье Мечей"
+    ]
+  },
+  {
+    "id": 206,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-2-revelation-lists.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 2: списки откровений",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 207,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-2b-revising-revelations.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 2Б: пересмотр откровений",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 208,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-3a-three-cities.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 3А: три города",
+    "added": [
+      "Север",
+      "Арфисты",
+      "Зентарим"
+    ],
+    "approved": [
+      "Север",
+      "Арфисты",
+      "Зентарим"
+    ]
+  },
+  {
+    "id": 209,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-3b-giant-lairs.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 3Б: логова великанов",
+    "added": [
+      "Север",
+      "Дикое Пограничье",
+      "Серебряные Пределы"
+    ],
+    "approved": [
+      "Север",
+      "Дикое Пограничье",
+      "Серебряные Пределы"
+    ]
+  },
+  {
+    "id": 210,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-3c-eye-all-father.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 3В: Око Всеотца",
+    "added": [
+      "Север",
+      "Дикое Пограничье"
+    ],
+    "approved": [
+      "Север",
+      "Дикое Пограничье"
+    ]
+  },
+  {
+    "id": 211,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-3d-concept-revelations.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 3Г: концептуальные откровения",
+    "added": [
+      "Север",
+      "Дикое Пограничье"
+    ],
+    "approved": [
+      "Север",
+      "Дикое Пограничье"
+    ]
+  },
+  {
+    "id": 212,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-3e-implementing-revelations.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 3Д: внедрение откровений",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 213,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-4a-hekaton-missing.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 4: Хекатон пропал!",
+    "added": [
+      "Глубоководье",
+      "Лаэраль Сильверхэнд",
+      "Селунэ",
+      "Альянс Лордов"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Лаэраль Сильверхэнд",
+      "Селунэ",
+      "Альянс Лордов"
+    ]
+  },
+  {
+    "id": 214,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-4b-path-hekaton.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 4Б: путь к Хекатону",
+    "added": [
+      "Дикое Пограничье",
+      "Побережье Мечей",
+      "Лускан"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Побережье Мечей",
+      "Лускан"
+    ]
+  },
+  {
+    "id": 215,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-4c-expanding-path.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 4В: расширение пути",
+    "added": [
+      "Дикое Пограничье",
+      "Побережье Мечей",
+      "Глубоководье",
+      "Лаэраль Сильверхэнд",
+      "Альянс Лордов"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Побережье Мечей",
+      "Глубоководье",
+      "Лаэраль Сильверхэнд",
+      "Альянс Лордов"
+    ]
+  },
+  {
+    "id": 216,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-4d-hekaton-revelations.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 4Г: откровения о Хекатоне",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 217,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-5-final-act.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 5: финальный акт",
+    "added": [
+      "Дикое Пограничье",
+      "Побережье Мечей",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Побережье Мечей",
+      "Север"
+    ]
+  },
+  {
+    "id": 218,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-5b-solutions.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 5Б: решения",
+    "added": [
+      "Культ Дракона",
+      "Тиамат",
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Культ Дракона",
+      "Тиамат",
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 219,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-5c-running-final-act.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 5В: проведение финального акта",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 220,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-5d-making-alliances.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 5Г: заключение союзов",
+    "added": [
+      "Арфисты",
+      "Зентарим",
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Арфисты",
+      "Зентарим",
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 221,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-remix-part-5e-waging-war.mdx",
+    "title": "Ремикс «Грома штормового короля». Часть 5Д: ведение войны",
+    "added": [
+      "Побережье Мечей",
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Побережье Мечей",
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 222,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-thunder-faction-reference.mdx",
+    "title": "«Гром штормового короля»: справочник фракций",
+    "added": [
+      "Арфисты",
+      "Зентарим",
+      "Изумрудный Анклав",
+      "Орден Латной Перчатки",
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Арфисты",
+      "Зентарим",
+      "Изумрудный Анклав",
+      "Орден Латной Перчатки",
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 223,
+    "path": "src/content/posts/translations/alexandrian-storm-kings-thunder-remix.mdx",
+    "title": "«Гром штормового короля»: ремикс «Александриана»",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 224,
+    "path": "src/content/posts/translations/alexandrian-textual-history-of-elturel.mdx",
+    "title": "Ремикс «Авернуса» — дополнение: текстовая история Эльтуреля",
+    "added": [
+      "Торм",
+      "Хельм",
+      "Альянс Лордов",
+      "Побережье Мечей"
+    ],
+    "approved": [
+      "Торм",
+      "Хельм",
+      "Альянс Лордов",
+      "Побережье Мечей"
+    ]
+  },
+  {
+    "id": 225,
+    "path": "src/content/posts/translations/alexandrian-textual-history-of-the-yawning-portal.mdx",
+    "title": "Forgotten Realms: текстовая история «Зияющего портала»",
+    "added": [
+      "Дёрнан",
+      "Халастер Блэкклок"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Дёрнан",
+      "Халастер Блэкклок"
+    ]
+  },
+  {
+    "id": 226,
+    "path": "src/content/posts/translations/alexandrian-textual-history-of-zariel.mdx",
+    "title": "Ремикс «Авернуса» — дополнение: текстовая история Зариэль",
+    "added": [
+      "Асмодей"
+    ],
+    "approved": [
+      "Асмодей"
+    ]
+  },
+  {
+    "id": 227,
+    "path": "src/content/posts/translations/alexandrian-textual-history-zariel-part-2.mdx",
+    "title": "Текстовая история Зариэль — часть 2: прежние версии её истории",
+    "added": [
+      "Асмодей",
+      "Тиамат"
+    ],
+    "approved": [
+      "Асмодей",
+      "Тиамат"
+    ]
+  },
+  {
+    "id": 228,
+    "path": "src/content/posts/translations/baldurs-gate-books.mdx",
+    "title": "Книги и журналы Baldur's Gate I и II",
+    "added": [
+      "Амн",
+      "Тетир",
+      "Калимшан",
+      "Кормир",
+      "Сембия",
+      "Глубоководье",
+      "Долины",
+      "Север",
+      "Халруаа",
+      "Мистра",
+      "Алустриэль Сильверхэнд",
+      "Бейн",
+      "Баал",
+      "Миркул",
+      "Шар",
+      "Зентарим",
+      "Ловиатар",
+      "Азун IV",
+      "Амаунатор",
+      "Селунэ",
+      "Азут",
+      "Сильверимун",
+      "Лускан"
+    ],
+    "approved": [
+      "Амн",
+      "Тетир",
+      "Калимшан",
+      "Кормир",
+      "Сембия",
+      "Глубоководье",
+      "Долины",
+      "Север",
+      "Халруаа",
+      "Мистра",
+      "Алустриэль Сильверхэнд",
+      "Бейн",
+      "Баал",
+      "Миркул",
+      "Шар",
+      "Зентарим",
+      "Ловиатар",
+      "Азун IV",
+      "Амаунатор",
+      "Селунэ",
+      "Азут",
+      "Сильверимун",
+      "Лускан"
+    ]
+  },
+  {
+    "id": 229,
+    "path": "src/content/posts/translations/deep-dive-red-wizards-of-thay.mdx",
+    "title": "Глубокое погружение: Красные Волшебники Тэя",
+    "added": [
+      "Красные Волшебники Тэя",
+      "Тэй",
+      "Сзасс Тэм",
+      "Мулхоранд",
+      "Культ Дракона"
+    ],
+    "approved": [
+      "Красные Волшебники Тэя",
+      "Тэй",
+      "Сзасс Тэм",
+      "Мулхоранд",
+      "Культ Дракона"
+    ]
+  },
+  {
+    "id": 230,
+    "path": "src/content/posts/translations/deep-dive-the-named-spells.mdx",
+    "title": "Глубокое погружение: именные заклинания",
+    "added": [
+      "Невервинтер",
+      "Красные Волшебники Тэя"
+    ],
+    "approved": [
+      "Невервинтер",
+      "Красные Волшебники Тэя"
+    ]
+  },
+  {
+    "id": 231,
+    "path": "src/content/posts/translations/deep-dive-the-quaggoth.mdx",
+    "title": "Глубокое погружение: кваггот",
+    "added": [
+      "Подземье"
+    ],
+    "approved": [
+      "Подземье"
+    ]
+  },
+  {
+    "id": 232,
+    "path": "src/content/posts/translations/deep-dive-the-tressym.mdx",
+    "title": "Глубокое погружение: трессим",
+    "added": [
+      "Кормир"
+    ],
+    "approved": [
+      "Кормир"
+    ]
+  },
+  {
+    "id": 233,
+    "path": "src/content/posts/translations/demographics-of-the-unapproachable-east.mdx",
+    "title": "Демография Недоступного Востока",
+    "added": [
+      "Агларонд",
+      "Вааса",
+      "Дамара",
+      "Импилтур",
+      "Нарфелл",
+      "Рашемен",
+      "Теск",
+      "Тэй"
+    ],
+    "approved": [
+      "Агларонд",
+      "Вааса",
+      "Дамара",
+      "Импилтур",
+      "Нарфелл",
+      "Рашемен",
+      "Теск",
+      "Тэй"
+    ]
+  },
+  {
+    "id": 234,
+    "path": "src/content/posts/translations/ed-greenwod-about-paladin-choice-of-deity.mdx",
+    "title": "Эд Гринвуд про выбор паладином божества",
+    "added": [
+      "Тир",
+      "Торм"
+    ],
+    "approved": [
+      "Тир",
+      "Торм"
+    ]
+  },
+  {
+    "id": 235,
+    "path": "src/content/posts/translations/ed-greenwod-about-paladins-in-fifth-edition.mdx",
+    "title": "Эд Гринвуд про паладинов в пятой редакции D&D и Forgotten Realms",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 236,
+    "path": "src/content/posts/translations/ed-greenwod-about-runing-campaigns-in-forgotten-realms.mdx",
+    "title": "Эд Гринвуд про вождение кампаний в Забытых Королевствах",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 237,
+    "path": "src/content/posts/translations/ed-greenwood-about-magic.mdx",
+    "title": "Эд Гринвуд про магию",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 238,
+    "path": "src/content/posts/translations/ed-greenwood-about-mystra-and-control-of-magic.mdx",
+    "title": "Эд Гринвуд про Мистру и контроль магии",
+    "added": [
+      "Мистра"
+    ],
+    "approved": [
+      "Мистра"
+    ]
+  },
+  {
+    "id": 239,
+    "path": "src/content/posts/translations/ed-greenwood-about-religion-and-faith-in-forgotten-realms.mdx",
+    "title": "Эд Гринвуд про веру и религию в Забытых Королевствах",
+    "added": [
+      "Келемвор"
+    ],
+    "approved": [
+      "Келемвор"
+    ]
+  },
+  {
+    "id": 240,
+    "path": "src/content/posts/translations/ed-greenwood-about-spellbook.mdx",
+    "title": "Эд Гринвуд про Книгу заклинаний",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 241,
+    "path": "src/content/posts/translations/ed-greenwood-immersea.mdx",
+    "title": "Прогулка по Иммерси",
+    "added": [
+      "Кормир"
+    ],
+    "approved": [
+      "Кормир"
+    ]
+  },
+  {
+    "id": 242,
+    "path": "src/content/posts/translations/ed-greenwood-questions-11-2018-1.mdx",
+    "title": "Вопросы и ответы Эда Гринвуда. Ноябрь 2018. 1/2.",
+    "added": [
+      "Острова Муншае",
+      "Север"
+    ],
+    "approved": [
+      "Острова Муншае",
+      "Север"
+    ]
+  },
+  {
+    "id": 243,
+    "path": "src/content/posts/translations/ed-greenwood-questions-11-2018-2.mdx",
+    "title": "Вопросы и ответы Эда Гринвуда. Ноябрь 2018. 2/2.",
+    "added": [
+      "Глубоководье",
+      "Дагульт Неверэмбер",
+      "Лаэраль Сильверхэнд",
+      "Пиргейрон Паладинсон",
+      "Халастер Блэкклок"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Дагульт Неверэмбер",
+      "Лаэраль Сильверхэнд",
+      "Пиргейрон Паладинсон",
+      "Халастер Блэкклок"
+    ]
+  },
+  {
+    "id": 244,
+    "path": "src/content/posts/translations/fantasy-safari-monsters-of-faerun.mdx",
+    "title": "Фэнтези-сафари: «Монстры Фаэруна»",
+    "added": [
+      "Анаурох",
+      "Подземье",
+      "Бейн",
+      "Малар",
+      "Зентарим",
+      "Красные Волшебники Тэя",
+      "Цирик"
+    ],
+    "approved": [
+      "Анаурох",
+      "Подземье",
+      "Бейн",
+      "Малар",
+      "Зентарим",
+      "Красные Волшебники Тэя",
+      "Цирик"
+    ]
+  },
+  {
+    "id": 245,
+    "path": "src/content/posts/translations/farming-in-the-savage-frontier.mdx",
+    "title": "Сельское хозяйство Дикого Фронтира",
+    "added": [
+      "Дикое Пограничье",
+      "Север",
+      "Глубоководье",
+      "Невервинтер",
+      "Сильверимун"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север",
+      "Глубоководье",
+      "Невервинтер",
+      "Сильверимун"
+    ]
+  },
+  {
+    "id": 246,
+    "path": "src/content/posts/translations/forest-of-high-adventure-sandbox-campaign.mdx",
+    "title": "Кампания-песочница в Высоком лесу",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 247,
+    "path": "src/content/posts/translations/forgotten-realms-the-north-and-the-importance-of-art.mdx",
+    "title": "Забытые Королевства, Север и важность иллюстраций",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 248,
+    "path": "src/content/posts/translations/gms-guide-sphere-of-influence-campaigns.mdx",
+    "title": "Руководство Мастера: кампании со сферами влияния",
+    "added": [
+      "Глубоководье",
+      "Серебряные Пределы",
+      "Сильверимун",
+      "Побережье Мечей",
+      "Лунное море",
+      "Хиллсфар"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Серебряные Пределы",
+      "Сильверимун",
+      "Побережье Мечей",
+      "Лунное море",
+      "Хиллсфар"
+    ]
+  },
+  {
+    "id": 249,
+    "path": "src/content/posts/translations/greenwood-ozhivlenie-goroda.mdx",
+    "title": "Эд Гринвуд - Оживление города",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 250,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-coda.mdx",
+    "title": "«Клад Королевы Драконов» после игры: итоги кампании и разбор приключения",
+    "added": [
+      "Тиамат",
+      "Культ Дракона",
+      "Побережье Мечей"
+    ],
+    "approved": [
+      "Тиамат",
+      "Культ Дракона",
+      "Побережье Мечей"
+    ]
+  },
+  {
+    "id": 251,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-1.mdx",
+    "title": "Ремикс эпизода I «Клада Королевы Драконов»: часть I",
+    "added": [
+      "Культ Дракона",
+      "Тиамат"
+    ],
+    "approved": [
+      "Культ Дракона",
+      "Тиамат"
+    ]
+  },
+  {
+    "id": 252,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-2.mdx",
+    "title": "Ремикс «Клада Королевы Драконов», эпизод I: осада Гринэста — задания и последствия",
+    "added": [
+      "Культ Дракона",
+      "Тиамат"
+    ],
+    "approved": [
+      "Культ Дракона",
+      "Тиамат"
+    ]
+  },
+  {
+    "id": 253,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-1-part-3.mdx",
+    "title": "Ремикс «Клада Королевы Драконов», эпизод I: дракон, мельница и Лангдедроза",
+    "added": [
+      "Культ Дракона"
+    ],
+    "approved": [
+      "Культ Дракона"
+    ]
+  },
+  {
+    "id": 254,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-2-part-1.mdx",
+    "title": "Ремикс «Клада Королевы Драконов», эпизод II: разведка лагеря Культа Дракона",
+    "added": [
+      "Культ Дракона",
+      "Тиамат"
+    ],
+    "approved": [
+      "Культ Дракона",
+      "Тиамат"
+    ]
+  },
+  {
+    "id": 255,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-2-part-2.mdx",
+    "title": "Ремикс «Клада Королевы Драконов», эпизод II: фракции, пленники и драконий питомник",
+    "added": [
+      "Культ Дракона",
+      "Тиамат"
+    ],
+    "approved": [
+      "Культ Дракона",
+      "Тиамат"
+    ]
+  },
+  {
+    "id": 256,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-3-part-1.mdx",
+    "title": "Ремикс «Клада Королевы Драконов», эпизод III: опустевший лагерь и драконья пещера",
+    "added": [
+      "Культ Дракона"
+    ],
+    "approved": [
+      "Культ Дракона"
+    ]
+  },
+  {
+    "id": 257,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-3-part-2.mdx",
+    "title": "Ремикс «Клада Королевы Драконов», эпизод III: ритуалы, ловушки и сторожевые дрейки",
+    "added": [
+      "Культ Дракона",
+      "Тиамат"
+    ],
+    "approved": [
+      "Культ Дракона",
+      "Тиамат"
+    ]
+  },
+  {
+    "id": 258,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-1.mdx",
+    "title": "Ремикс «Клада Королевы Драконов», эпизод IV: Эльтурель и подготовка караванной миссии",
+    "added": [
+      "Культ Дракона"
+    ],
+    "approved": [
+      "Культ Дракона"
+    ]
+  },
+  {
+    "id": 259,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-4-part-2.mdx",
+    "title": "Ремикс «Клада Королевы Драконов», эпизод IV: Врата Балдура и путь с караваном",
+    "added": [
+      "Врата Балдура",
+      "Культ Дракона",
+      "Побережье Мечей"
+    ],
+    "approved": [
+      "Врата Балдура",
+      "Культ Дракона",
+      "Побережье Мечей"
+    ]
+  },
+  {
+    "id": 260,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-5.mdx",
+    "title": "Ремикс «Клада Королевы Драконов», эпизод V: Глубоководье и Дорожный дом Карнат",
+    "added": [
+      "Глубоководье",
+      "Культ Дракона",
+      "Север",
+      "Побережье Мечей"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Культ Дракона",
+      "Север",
+      "Побережье Мечей"
+    ]
+  },
+  {
+    "id": 261,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-6-part-1.mdx",
+    "title": "Ремикс «Клада Королевы Драконов», эпизод VI: Болото Мёртвых и путь к Наэритару",
+    "added": [
+      "Побережье Мечей",
+      "Север",
+      "Миркул",
+      "Культ Дракона"
+    ],
+    "approved": [
+      "Побережье Мечей",
+      "Север",
+      "Миркул",
+      "Культ Дракона"
+    ]
+  },
+  {
+    "id": 262,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-6-part-2.mdx",
+    "title": "Ремикс «Клада Королевы Драконов», эпизод VI: фракции и штурм замка Наэритар",
+    "added": [
+      "Культ Дракона",
+      "Тиамат",
+      "Красные Волшебники Тэя"
+    ],
+    "approved": [
+      "Культ Дракона",
+      "Тиамат",
+      "Красные Волшебники Тэя"
+    ]
+  },
+  {
+    "id": 263,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-7.mdx",
+    "title": "Ремикс «Клада Королевы Драконов», эпизод VII: Охотничий домик и Талис Белая",
+    "added": [
+      "Культ Дракона"
+    ],
+    "approved": [
+      "Культ Дракона"
+    ]
+  },
+  {
+    "id": 264,
+    "path": "src/content/posts/translations/hackslashmaster-hoard-dragon-queen-episode-8.mdx",
+    "title": "Ремикс «Клада Королевы Драконов», эпизод VIII: Парнаст и Небесный замок",
+    "added": [
+      "Культ Дракона",
+      "Тиамат"
+    ],
+    "approved": [
+      "Культ Дракона",
+      "Тиамат"
+    ]
+  },
+  {
+    "id": 265,
+    "path": "src/content/posts/translations/how-big-is-the-savage-frontier-actually.mdx",
+    "title": "Насколько велик Дикий Фронтир на самом деле?",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 266,
+    "path": "src/content/posts/translations/how-the-map-of-faerun-changed-over-time.mdx",
+    "title": "Как со временем менялась карта Фаэруна",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 267,
+    "path": "src/content/posts/translations/more-early-forgotten-realms-look.mdx",
+    "title": "Ещё об облике ранних Forgotten Realms",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 268,
+    "path": "src/content/posts/translations/my-favorite-monster-manual.mdx",
+    "title": "Мой любимый бестиарий",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 269,
+    "path": "src/content/posts/translations/oldschool-orcs-and-horrible-hordes.mdx",
+    "title": "Орки старой школы и ужасные орды",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 270,
+    "path": "src/content/posts/translations/power-score-tyranny-of-dragons-guide.mdx",
+    "title": "Как провести «Тиранию драконов»: руководство по «Кладу Королевы Драконов» и «Восстанию Тиамат»",
+    "added": [
+      "Культ Дракона",
+      "Тиамат",
+      "Красные Волшебники Тэя",
+      "Тэй",
+      "Глубоководье",
+      "Врата Балдура",
+      "Альянс Лордов",
+      "Арфисты",
+      "Зентарим",
+      "Изумрудный Анклав",
+      "Орден Латной Перчатки",
+      "Дагульт Неверэмбер",
+      "Лаэраль Сильверхэнд",
+      "Побережье Мечей"
+    ],
+    "approved": [
+      "Культ Дракона",
+      "Тиамат",
+      "Красные Волшебники Тэя",
+      "Тэй",
+      "Глубоководье",
+      "Врата Балдура",
+      "Альянс Лордов",
+      "Арфисты",
+      "Зентарим",
+      "Изумрудный Анклав",
+      "Орден Латной Перчатки",
+      "Дагульт Неверэмбер",
+      "Лаэраль Сильверхэнд",
+      "Побережье Мечей"
+    ]
+  },
+  {
+    "id": 271,
+    "path": "src/content/posts/translations/return-to-the-savage-frontier.mdx",
+    "title": "Возвращение в Дикий Фронтир",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 272,
+    "path": "src/content/posts/translations/slushlush-a-draconic-primer.mdx",
+    "title": "Краткий справочник по драконьему языку",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 273,
+    "path": "src/content/posts/translations/slushlush-lonely-planet-vayemniri-more-draconic.mdx",
+    "title": "Lonely Planet: вэйемнири, или Ещё немного драконьего для вас!",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 274,
+    "path": "src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-1.mdx",
+    "title": "Как играть драконорождённым в Забытых Королевствах. Часть 1",
+    "added": [
+      "Бахамут"
+    ],
+    "approved": [
+      "Бахамут"
+    ]
+  },
+  {
+    "id": 275,
+    "path": "src/content/posts/translations/slushlush-playing-a-dragonborn-forgotten-realms-part-2.mdx",
+    "title": "Как играть драконорождённым в Забытых Королевствах. Часть 2",
+    "added": [
+      "Бахамут",
+      "Келемвор"
+    ],
+    "approved": [
+      "Бахамут",
+      "Келемвор"
+    ]
+  },
+  {
+    "id": 276,
+    "path": "src/content/posts/translations/slushlush-playing-a-dragonborn-realms-part-3-next-generation.mdx",
+    "title": "Как играть драконорождённым в Забытых Королевствах. Часть 3: Новое поколение",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 277,
+    "path": "src/content/posts/translations/sphere-of-influence-introduction.mdx",
+    "title": "Сферы влияния: введение",
+    "added": [
+      "Глубоководье",
+      "Тэй",
+      "Сзасс Тэм",
+      "Дагульт Неверэмбер",
+      "Альянс Лордов",
+      "Врата Балдура",
+      "Невервинтер",
+      "Амн",
+      "Калимшан",
+      "Серебряные Пределы",
+      "Агларонд",
+      "Рашемен",
+      "Унтер",
+      "Чессента",
+      "Побережье Мечей",
+      "Дриззт До’Урден"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Тэй",
+      "Сзасс Тэм",
+      "Дагульт Неверэмбер",
+      "Альянс Лордов",
+      "Врата Балдура",
+      "Невервинтер",
+      "Амн",
+      "Калимшан",
+      "Серебряные Пределы",
+      "Агларонд",
+      "Рашемен",
+      "Унтер",
+      "Чессента",
+      "Побережье Мечей",
+      "Дриззт До’Урден"
+    ]
+  },
+  {
+    "id": 278,
+    "path": "src/content/posts/translations/sphere-of-influence-misty-forest.mdx",
+    "title": "Сферы влияния: Туманный лес",
+    "added": [
+      "Побережье Мечей",
+      "Дикое Пограничье",
+      "Север",
+      "Анаурох",
+      "Эйлистри",
+      "Глубоководье",
+      "Врата Балдура",
+      "Невервинтер",
+      "Сильверимун",
+      "Альянс Лордов"
+    ],
+    "approved": [
+      "Побережье Мечей",
+      "Дикое Пограничье",
+      "Север",
+      "Анаурох",
+      "Эйлистри",
+      "Глубоководье",
+      "Врата Балдура",
+      "Невервинтер",
+      "Сильверимун",
+      "Альянс Лордов"
+    ]
+  },
+  {
+    "id": 279,
+    "path": "src/content/posts/translations/sphere-of-influence-neverwinter.mdx",
+    "title": "Сферы влияния: Невервинтер",
+    "added": [
+      "Невервинтер",
+      "Север",
+      "Побережье Мечей",
+      "Дагульт Неверэмбер",
+      "Лускан",
+      "Серебряные Пределы",
+      "Сильверимун",
+      "Глубоководье",
+      "Альянс Лордов",
+      "Орден Латной Перчатки"
+    ],
+    "approved": [
+      "Невервинтер",
+      "Север",
+      "Побережье Мечей",
+      "Дагульт Неверэмбер",
+      "Лускан",
+      "Серебряные Пределы",
+      "Сильверимун",
+      "Глубоководье",
+      "Альянс Лордов",
+      "Орден Латной Перчатки"
+    ]
+  },
+  {
+    "id": 280,
+    "path": "src/content/posts/translations/sphere-of-influence-silverymoon.mdx",
+    "title": "Сферы влияния: Серебристая Луна и Луруар",
+    "added": [
+      "Сильверимун",
+      "Серебряные Пределы",
+      "Север",
+      "Побережье Мечей",
+      "Алустриэль Сильверхэнд"
+    ],
+    "approved": [
+      "Сильверимун",
+      "Серебряные Пределы",
+      "Север",
+      "Побережье Мечей",
+      "Алустриэль Сильверхэнд"
+    ]
+  },
+  {
+    "id": 281,
+    "path": "src/content/posts/translations/sphere-of-influence-waterdeep.mdx",
+    "title": "Сферы влияния: Глубоководье",
+    "added": [
+      "Побережье Мечей",
+      "Север",
+      "Лаэраль Сильверхэнд",
+      "Дагульт Неверэмбер",
+      "Альянс Лордов",
+      "Культ Дракона"
+    ],
+    "approved": [
+      "Глубоководье",
+      "Побережье Мечей",
+      "Север",
+      "Лаэраль Сильверхэнд",
+      "Дагульт Неверэмбер",
+      "Альянс Лордов",
+      "Культ Дракона"
+    ]
+  },
+  {
+    "id": 282,
+    "path": "src/content/posts/translations/the-7-regions-of-the-savage-frontier.mdx",
+    "title": "Семь регионов Дикого Фронтира",
+    "added": [
+      "Дикое Пограничье",
+      "Север",
+      "Западное Сердцеземье",
+      "Побережье Мечей",
+      "Глубоководье",
+      "Лускан",
+      "Невервинтер",
+      "Сильверимун"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север",
+      "Западное Сердцеземье",
+      "Побережье Мечей",
+      "Глубоководье",
+      "Лускан",
+      "Невервинтер",
+      "Сильверимун"
+    ]
+  },
+  {
+    "id": 283,
+    "path": "src/content/posts/translations/the-cold-lands-of-the-unapproachable-east.mdx",
+    "title": "Холодные Земли Недоступного Востока",
+    "added": [
+      "Агларонд",
+      "Дамара",
+      "Импилтур",
+      "Нарфелл",
+      "Рашемен",
+      "Теск",
+      "Тэй"
+    ],
+    "approved": [
+      "Агларонд",
+      "Дамара",
+      "Импилтур",
+      "Нарфелл",
+      "Рашемен",
+      "Теск",
+      "Тэй"
+    ]
+  },
+  {
+    "id": 284,
+    "path": "src/content/posts/translations/the-early-forgotten-realms-look.mdx",
+    "title": "Облик ранних Forgotten Realms",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 285,
+    "path": "src/content/posts/translations/the-forgotten-forgotten-realms.mdx",
+    "title": "Позабытые Забытые Королевства",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 286,
+    "path": "src/content/posts/translations/the-sinister-machinations-of-the-kraken-society.mdx",
+    "title": "Зловещие происки Общества Кракена",
+    "added": [
+      "Дикое Пограничье",
+      "Побережье Мечей",
+      "Север",
+      "Глубоководье"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Побережье Мечей",
+      "Север",
+      "Глубоководье"
+    ]
+  },
+  {
+    "id": 287,
+    "path": "src/content/posts/translations/tribality-domain-rulership-part-six.mdx",
+    "title": "Управление владениями, часть шестая",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 288,
+    "path": "src/content/posts/translations/two-more-maps-of-the-savage-frontier.mdx",
+    "title": "Ещё две карты Дикого Фронтира",
+    "added": [
+      "Дикое Пограничье",
+      "Север"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север"
+    ]
+  },
+  {
+    "id": 289,
+    "path": "src/content/posts/translations/unforgotten-realms.mdx",
+    "title": "Незабытые Королевства",
+    "added": [
+      "Побережье Мечей"
+    ],
+    "approved": [
+      "Побережье Мечей"
+    ]
+  },
+  {
+    "id": 290,
+    "path": "src/content/posts/translations/visualizing-populations.mdx",
+    "title": "Население Севера на карте",
+    "added": [
+      "Дикое Пограничье",
+      "Север",
+      "Глубоководье",
+      "Сильверимун"
+    ],
+    "approved": [
+      "Дикое Пограничье",
+      "Север",
+      "Глубоководье",
+      "Сильверимун"
+    ]
+  },
+  {
+    "id": 291,
+    "path": "src/content/posts/translations/where-is-the-love.mdx",
+    "title": "Куда делась любовь?",
+    "added": [],
+    "approved": []
+  },
+  {
+    "id": 292,
+    "path": "src/content/posts/translations/yora-what-is-function-of-stronghold.mdx",
+    "title": "Какова задача твердыни?",
+    "added": [],
+    "approved": []
+  }
+]
