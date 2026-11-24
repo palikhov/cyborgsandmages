@@ -3746,6 +3746,10 @@
 
 - `src/content/posts/translations/blackcitadel-strongholds-and-sidekicks.mdx`
 
+## <https://blackmoor.mystara.us/greg01.html>
+
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
+
 ## <https://bladesinthedark.com/faction-game>
 
 - `src/content/posts/translations/faction-procedures-comparative-review.mdx`
@@ -6132,19 +6136,14 @@
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-foreshadowing-encounters.mdx`
 
+## <https://thealexandrian.net/wordpress/1202/roleplaying-games/castle-ravenloft>
+
+- `src/content/posts/translations/alexandrian-are-we-really-this-stupid.mdx`
+
 ## <https://thealexandrian.net/wordpress/12094/roleplaying-games/thought-of-the-day-history-of-rpg-mechanical-design>
 
 - `src/content/posts/translations/alexandrian-game-structures-part-8-importance-of-clean-structures.mdx`
 - `src/content/posts/translations/alexandrian-game-structures-part-9-archaic-game-structures.mdx`
-
-## <https://thealexandrian.net/wordpress/1217/roleplaying-games/are-we-really-this-stupid>
-
-- `src/content/posts/translations/alexandrian-art-of-the-key-1.mdx`
-- `src/content/posts/translations/alexandrian-art-of-the-key-3-hierarchy-of-reference.mdx`
-- `src/content/posts/translations/alexandrian-history-stat-block-part-2.mdx`
-- `src/content/posts/translations/alexandrian-importance-of-choice.mdx`
-- `src/content/posts/translations/alexandrian-ptolus-battles-at-the-door.mdx`
-- `src/content/posts/translations/alexandrian-ptolus-dungeon-as-theater-of-operations.mdx`
 
 ## <https://thealexandrian.net/wordpress/1231/roleplaying-games/the-intemperate-jungle>
 
@@ -6978,6 +6977,10 @@
 
 - `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
 
+## <https://thealexandrian.net/wordpress/40495/roleplaying-games/reactions-to-odd-the-arnesonian-dungeon>
+
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
+
 ## <https://thealexandrian.net/wordpress/40562/roleplaying-games/blades-in-the-dark-crew-mission-type-tables>
 
 - `src/content/posts/translations/alexandrian-campaign-status-restocking-checklists.mdx`
@@ -7030,22 +7033,32 @@
 ## <https://thealexandrian.net/wordpress/40781/roleplaying-games/reactions-to-odd-arnesons-machines>
 
 - `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
 
-## <https://thealexandrian.net/wordpress/40789/roleplaying-games/running-castle-blackmoor>
+## <https://thealexandrian.net/wordpress/40799/roleplaying-games/running-castle-blackmoor-part-2-special-monsters>
 
-- `src/content/posts/translations/alexandrian-ask-21-open-table-tracking.mdx`
-- `src/content/posts/translations/alexandrian-campaign-status-continuity-notes.mdx`
-- `src/content/posts/translations/alexandrian-campaign-status-restocking-checklists.mdx`
-- `src/content/posts/translations/alexandrian-dungeons-player-mapping.mdx`
-- `src/content/posts/translations/alexandrian-ptolus-collapsed-tunnels.mdx`
-- `src/content/posts/translations/alexandrian-ptolus-lore-book-meetings.mdx`
-- `src/content/posts/translations/alexandrian-reactions-to-odd.mdx`
-- `src/content/posts/translations/alexandrian-smart-prep-4-campaign-status-documents.mdx`
-- `src/content/posts/translations/alexandrian-untested-loot-damage.mdx`
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
+
+## <https://thealexandrian.net/wordpress/40804/roleplaying-games/running-castle-blackmoor-part-3-treasure-stocking>
+
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
+
+## <https://thealexandrian.net/wordpress/40820/roleplaying-games/running-castle-blackmoor-part-4-magic-swords>
+
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
+
+## <https://thealexandrian.net/wordpress/40839/roleplaying-games/running-castle-blackmoor-part-5-castle-background-features>
+
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
+
+## <https://thealexandrian.net/wordpress/40860/roleplaying-games/running-castle-blackmoor-part-6-the-dungeon-key>
+
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
 
 ## <https://thealexandrian.net/wordpress/40876/roleplaying-games/running-castle-blackmoor-part-7-restocking-the-dungeon>
 
 - `src/content/posts/translations/alexandrian-resting-in-the-dungeon.mdx`
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
 
 ## <https://thealexandrian.net/wordpress/40891/roleplaying-games/in-the-shadow-of-the-spire-session-16a-to-labyrinths-end>
 
@@ -7063,6 +7076,14 @@
 ## <https://thealexandrian.net/wordpress/40905/roleplaying-games/in-the-shadow-of-the-spire-session-16d-zaveres-need>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+
+## <https://thealexandrian.net/wordpress/40942/roleplaying-games/running-castle-blackmoor-part-8-special-interest-experience>
+
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
+
+## <https://thealexandrian.net/wordpress/40950/roleplaying-games/running-castle-blackmoor-part-9-special-interests>
+
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
 
 ## <https://thealexandrian.net/wordpress/4101/roleplaying-games/reactions-to-odd-gygaxian-rulebooks>
 
@@ -7098,6 +7119,10 @@
 ## <https://thealexandrian.net/wordpress/41147/roleplaying-games/in-the-shadow-of-the-spire-session-17d-shilukars-secrets>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+
+## <https://thealexandrian.net/wordpress/41187/roleplaying-games/running-castle-blackmoor-part-10-blackmoor-village-map>
+
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
 
 ## <https://thealexandrian.net/wordpress/41225/roleplaying-games/dragon-heist-remix-part-1b-other-factions>
 
@@ -7356,6 +7381,10 @@
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
 - `src/content/posts/translations/alexandrian-ptolus-unique-path-of-actual-play.mdx`
+
+## <https://thealexandrian.net/wordpress/43564/roleplaying-games/the-blackmoor-cruxes>
+
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
 
 ## <https://thealexandrian.net/wordpress/43593/roleplaying-games/feng-shui-using-the-shot-counter>
 
@@ -7683,6 +7712,10 @@
 ## <https://thealexandrian.net/wordpress/45426/roleplaying-games/random-gm-tip-why-wilderness-encounters>
 
 - `src/content/posts/translations/alexandrian-gamemastery-101.mdx`
+
+## <https://thealexandrian.net/wordpress/45480/roleplaying-games/running-castle-blackmoor-part-11-blackmoor>
+
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
 
 ## <https://thealexandrian.net/wordpress/45486/roleplaying-games/from-waterdeep-to-avernus>
 
@@ -8526,6 +8559,10 @@
 ## <https://thealexandrian.net/wordpress/51930/roleplaying-games/in-the-shadow-of-the-spire-session-42b-false-brothels>
 
 - `src/content/posts/translations/alexandrian-in-the-shadow-of-the-spire.mdx`
+
+## <https://thealexandrian.net/wordpress/51989/roleplaying-games/running-castle-blackmoor-part-12a-lessons-learned-in-blackmoor>
+
+- `src/content/posts/translations/alexandrian-running-castle-blackmoor.mdx`
 
 ## <https://thealexandrian.net/wordpress/52014/roleplaying-games/in-the-shadow-of-the-spire-session-43a-scouting-porphyry-house>
 
